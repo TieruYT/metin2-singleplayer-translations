@@ -1,701 +1,701 @@
 id,english,polski,translation,notes,status
-c:locale_game:GMP_ERR_EVENT_EMPTY,"Enter an Exp, Drop or Yang percent",,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_WORLD,World,,,client: game texts (localeInfo),new
-c:locale_game:GMP_NIGHT,Night,,,client: game texts (localeInfo),new
-c:locale_game:GMP_DAY,Day,,,client: game texts (localeInfo),new
-c:locale_game:GMP_SNOW_ON,Snow,,,client: game texts (localeInfo),new
-c:locale_game:GMP_SNOW_OFF,No snow,,,client: game texts (localeInfo),new
-c:locale_game:GMP_USERS,Players here,,,client: game texts (localeInfo),new
-c:locale_game:GMP_WHO,Online count,,,client: game texts (localeInfo),new
-c:locale_game:GMP_END_DUELS,End duels,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EVENT_FLAGS,Event flags,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MAINT_ON,Maintenance...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MAINT_OFF,End maintenance,,,client: game texts (localeInfo),new
-c:locale_game:GMP_Q_MAINT,Block new logins (maintenance)?,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RESTART,Restart server...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_Q_RESTART,Restart the server? Everyone will be disconnected.,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RESTART_OK,Restart requested,,,client: game texts (localeInfo),new
-c:locale_game:GMP_CLEAR,Clear,,,client: game texts (localeInfo),new
-c:locale_game:GMP_CAT_STONES,Stones,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PICK_ITEM,Pick an item,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PICK_BONUS,Pick bonus %d,,,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:GMP_PICK_STONE,Pick stone %d,,,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:GMP_LOADING,Loading...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_NO_RESULTS,No results,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_NEW_ITEM,New item,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ITEM,Item:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_NO_ITEM,none selected,,,client: game texts (localeInfo),new
-c:locale_game:GMP_COUNT,Count:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_FOR,For:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PLACE_INV,Inventory,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PLACE_SAFE,Storeroom,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PLACE_MALL,Item-shop storage,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_BONUS,Bonuses (click to pick),,,client: game texts (localeInfo),new
-c:locale_game:GMP_BONUS_NONE,no bonus,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_STONES,Stones,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EMPTY,empty,,,client: game texts (localeInfo),new
-c:locale_game:GMP_CREATE,Create item,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RESET_FORM,Reset form,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_NO_ITEM,Pick an item from the list,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ITEM_CREATED,Item created,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_OWNER_OFFLINE,The recipient is not online,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_BADVNUM,No such item,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_SAFEBOX,The recipient must open the storeroom first,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_MALL,The recipient must open the item-shop storage first,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_NOSPACE,No space,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ACC_CHECK,Check account,,,client: game texts (localeInfo),new
-c:locale_game:GMP_ACC_STATUS,"Account: %s, lock: %s",,,client: game texts (localeInfo) | keep: %s %s,new
-c:locale_game:GMP_HDR_BAN,Account ban,,,client: game texts (localeInfo),new
-c:locale_game:GMP_DAYS,%d days,,,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:GMP_BAN_DAYS,Days:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BAN_TEMP,Ban for days...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BAN_PERM,Permanent...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_UNBAN,Unban,,,client: game texts (localeInfo),new
-c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,,client: game texts (localeInfo) | keep: %s %s,new
-c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:GMP_KICK_ACC,Kick...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MUTE_LIST,Muted list,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_MUTE,Chat,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MUTE_10M,Mute 10 min,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MUTE_1H,Mute 1 h,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MUTE_1D,Mute 1 day,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_GM,GM rank,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_LOW,Low Wizard,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_HIGH,High Wizard,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_GOD,God,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_IMPL,Implementor,,,client: game texts (localeInfo),new
-c:locale_game:GMP_GM_ADD,Grant rank,,,client: game texts (localeInfo),new
-c:locale_game:GMP_GM_REMOVE,Remove GM...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,,client: game texts (localeInfo),new
-c:locale_game:GMP_GM_SAVED,Rank saved,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_BOTS,Bots,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOT_PID,Bot PID:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PICK_DOTS,Pick...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOT_SPAWN,Spawn bots,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOT_ACTIVE,Active bots,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,,client: game texts (localeInfo) | keep: %s %s %s,new
-c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_MOBS,Monsters and metins,,,client: game texts (localeInfo),new
-c:locale_game:GMP_MOB,Monster:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_METIN,Metin:,,,client: game texts (localeInfo),new
-c:locale_game:GMP_SPAWN,Spawn,,,client: game texts (localeInfo),new
-c:locale_game:GMP_SPAWNED,Spawned %s of %s,,,client: game texts (localeInfo) | keep: %s %s,new
-c:locale_game:GMP_ERR_NO_MOB,No such monster,,,client: game texts (localeInfo),new
-c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,,client: game texts (localeInfo),new
-c:locale_game:GMP_LIST_BOTS,Active bots,,,client: game texts (localeInfo),new
-c:locale_game:GMP_LIST_MOBS,Monsters,,,client: game texts (localeInfo),new
-c:locale_game:GMP_LIST_METINS,Metins,,,client: game texts (localeInfo),new
-c:locale_game:GMP_CLOSE_LIST,Close list,,,client: game texts (localeInfo),new
-c:locale_game:GMP_PICKED,Picked: %s,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,,client: game texts (localeInfo),new
-c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOSS_1,1 boss,,,client: game texts (localeInfo),new
-c:locale_game:GMP_BOSS_5,5 bosses,,,client: game texts (localeInfo),new
-c:locale_game:GMP_METIN_1,1 metin,,,client: game texts (localeInfo),new
-c:locale_game:GMP_METIN_3,3 metins,,,client: game texts (localeInfo),new
-c:locale_game:GMP_POOL,Pool...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CITIES,Cities,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_MAPS,Maps,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_DUNGEONS,Dungeons,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SPECIAL,Special,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_JINNO_1,Jinno M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_JINNO_2,Jinno M2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SEUNGRYONG,Seungryong Valley,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_YONGBI,Yongbi Desert,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SOHAN,Mount Sohan,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_FIRELAND,Fireland,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GHOSTWOOD,Ghost Wood,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_REDWOOD,Red Wood,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GIANTS,Land of Giants,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_WLPASS,Pass (wl_pass),,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CAPE,Cape Dragon Fire,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_DAWNMIST,Dawnmist Wood,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_BLACKSAND,Bay Black Sand,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_THUNDER,Thunder Mountains,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_HWANG,Hwang Temple,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_DEVILTOWER,Demon Tower,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SPIDER1,Spider Dungeon 1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SPIDER2,Spider Dungeon 2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_MONKEY_E,Monkey Dungeon (easy),,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_MONKEY_N,Monkey Dungeon (normal),,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_MONKEY_H,Monkey Dungeon (hard),,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_EXILE1,Grotto of Exile 1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_EXILE2,Grotto of Exile 2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_BERAN,Beran-Setaou's Lair,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CATACOMB,Devil's Catacomb,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_RAZADOR,Razador's Fortress,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_ICE,Ice Dungeon,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_LABYRINTH,Labyrinth,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_OX,OX Arena,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_WEDDING,Wedding Hall,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_DUEL,Duel Arena,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_WAR1,Empire War 1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_WAR2,Empire War 2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_WAR3,Empire War 3,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_GMROOM,GM Room,,,client: game texts (localeInfo),new
-c:locale_game:GMP_GO,Go,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_HINT,X/Y in global metres. Ctrl + click on the map = teleport.,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_WAYPOINTS,My places,,,client: game texts (localeInfo),new
-c:locale_game:GMP_WP_EMPTY,%d. empty,,,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:GMP_WP_SAVE,Save here,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_RATES,Server rates (%),,,client: game texts (localeInfo),new
-c:locale_game:GMP_SAVE,Save,,,client: game texts (localeInfo),new
-c:locale_game:GMP_FETCH,Fetch,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RATES_HINT,"1-10000, 100 = normal. Applies at once.",,,client: game texts (localeInfo),new
-c:locale_game:GMP_ERR_RATE,Rate: a number 1-10000,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_AI,Bot behaviour,,,client: game texts (localeInfo),new
-c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,,client: game texts (localeInfo),new
-c:locale_game:GMP_AI_HINT,Changes apply within seconds,,,client: game texts (localeInfo),new
-c:locale_game:GMP_HDR_RESTART,Restart,,,client: game texts (localeInfo),new
-c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,,client: game texts (localeInfo),new
-c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,,client: game texts (localeInfo),new
-c:locale_game:TARGET_BUTTON_GM_INFO,Info,,,client: game texts (localeInfo),new
-c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,,client: game texts (localeInfo),new
-c:locale_interface:ACCEPT,Accept,Akceptuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,,client: window texts (uiScriptLocale),new
-c:locale_interface:ATTACH_METIN_TITLE,Use Spirit Stone,Użyj Kamienia Duszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:CANCEL,Cancel,Anuluj,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHANGE_PASSWORD_CONFIRM,Confirm new Password,Potwierdź nowe Hasło,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHANGE_PASSWORD_NEW,New Password,Nowe Hasło,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHANGE_PASSWORD_OLD,Old Password,Stare Hasło,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHANGE_PASSWORD_TITLE,Password Change,Zmiana Hasła,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_ACTION,Emotion,Emocje,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_EMOTICON,Emotion,Emocje,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_MAIN,Character,Postać,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_MUTUAL_ACTION,Mutual Emotion,Emocje wspólne,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_NORMAL_ACTION,Normal Emotion,Emocje podstawowe,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_QUEST,Missions,Misje,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,,client: window texts (uiScriptLocale),new
-c:locale_interface:CLOSE,Close,Zamknij,,client: window texts (uiScriptLocale),new
-c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,,client: window texts (uiScriptLocale),new
-c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_CREATE,Create,Utwórz,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_HP,HP,PŻ,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_LAST_POINT,Points,Punkty,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_MAN,Man,Mężczyzna,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_NAME,Name,Nazwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_NEXT,Next,Dalej,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_PREV,Back,Wróć,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_SEX,Gender,Płeć,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_SHAPE,Shape,Wygląd,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_SP,INT,INT,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_STAT_RESET,Reset,Reset,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREATE_WOMAN,Woman,Kobieta,,client: window texts (uiScriptLocale),new
-c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,,client: window texts (uiScriptLocale),new
-c:locale_interface:CUBE_REQUIRE_MATERIAL,Required materials,Wymagane materiały,,client: window texts (uiScriptLocale),new
-c:locale_interface:CUBE_REQUIRE_MATERIAL_OR,or,lub,,client: window texts (uiScriptLocale),new
-c:locale_interface:CUBE_TITLE,Refinement Window,Okienko uszlachetniania,,client: window texts (uiScriptLocale),new
-c:locale_interface:DO_REFINE,Refine,Uszlachetnij,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_ACTIVATE,Activate,Aktywuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_PAGE_BUTTON_1,Rough,Surowy,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_PAGE_BUTTON_2,Cut,Szlifowany,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_PAGE_BUTTON_3,Rare,Rzadki,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_PAGE_BUTTON_4,Antique,Antyczny,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_PAGE_BUTTON_5,Legendary,Legendarny,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_REFINE_WINDOW_TITLE,Refinement Window,Okienko uszlachetniania,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_1,Dragon Diamond,Smoczy Diament,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_2,Dragon Ruby,Smoczy Rubin,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_3,Dragon Jade,Smoczy Jadeit,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_4,Dragon Sapphire,Smoczy Szafir,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_5,Dragon Garnet,Smoczy Granat,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TAP_TITLE_6,Dragon Onyx,Smoczy Onyks,,client: window texts (uiScriptLocale),new
-c:locale_interface:DRAGONSOUL_TITLE,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,,client: window texts (uiScriptLocale),new
-c:locale_interface:EMPIRE_EXIT,Exit,Wyjdź,,client: window texts (uiScriptLocale),new
-c:locale_interface:EMPIRE_NEXT,Next,Dalej,,client: window texts (uiScriptLocale),new
-c:locale_interface:EMPIRE_PREV,Back,Wstecz,,client: window texts (uiScriptLocale),new
-c:locale_interface:EMPIRE_SELECT,Choose,Wybierz,,client: window texts (uiScriptLocale),new
-c:locale_interface:EXCHANGE_ACCEPT,Accept,Akceptuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:EXCHANGE_TITLE,Trade,Handel,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAMEOPTION_TITLE,Game Options,Opcje Gry,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_EXIT_OBSERVER,End Observer Mode,Zakończ Obserwowanie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_HELP,Help,Pomoc,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_QUEST,Tasks,Zadania,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_SKILL_UP,Raise Skills,Podnieś Umiejętności,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_STAT_UP,Raise State,Podnieś Status,,client: window texts (uiScriptLocale),new
-c:locale_interface:GRADE,Class,Klasa,,client: window texts (uiScriptLocale),new
-c:locale_interface:GRADE_SELECT,Class,Klasa,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BASENAME,Base Name,Podstawowa Nazwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BOARD_ID,Name,Nick,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BOARD_REFRESH,Refresh (F5),Odśwież (F5),,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BOARD_TEXT,Message,Wiadomość,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_CATEGORY_TITLE,Building Units,Jednostki Budowlane,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_CHANGE,Change,Zmień,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_DIRECTION,Orientation,Kierunek,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_GRADE,Rank,Ranga,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_INFO,Buildings and Cost Information,Informacje o Budynkach i Kosztach,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_LIST_TITLE,Building List,Lista Budowli,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_LOG,Log,Pień,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_NAME,Building name,Nazwa Budowli,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_OPERATE,Operate,Operuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_PLY,Plywood,Dykta,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_POSITION,Position,Miejsce,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_PREVIEW,Preview,Podgląd,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_PRICE,Price,Cena,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_REFRESH,Refresh (F5),Odśwież (F5),,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_STONE,Stone,Kamień,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_BUILDING_TITLE,Guild House Building,Budowa Siedziby Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_CRYSTAL,Crystal,Kryształ,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_DEPOSIT,Deposit,Depozyt,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_DROP_RESOURCE1,Here,Tutaj,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_DROP_RESOURCE2,Drop Resource,Upuść Surowiec,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GEM,Gem,Klejnot,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_CHANGE_GRADE_NAME,New rank name,Nowa nazwa Rangi,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_NUM,Nr.,Nr,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_PERMISSION_DELETE,Kick,Usuń,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_PERMISSION_JOIN,Invite,Zapraszanie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_PERMISSION_NOTICE,Write,Pisanie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_PERMISSION_SKILL,Skills,Umiejętności,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_RANK,Rank,Ranga,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_GRADE_WRITE,Write,Napisz,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO,Guild Information,Informacje o Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_CUR_EXP,Experience,Doświadczenie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_DECALRE_WAR,Declare War,Wypowiedz Wojnę,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_ENEMY_GUILD,Enemy Guild,Wrogie Gildie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Brak,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_LEVEL,Guild Level,Poziom Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_MARK,Guild Sign,Logo Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_MASTER,Leader,Lider,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_MASTER_VALUE,Leader,Lider,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_MEMBER_AVG_LEVEL,Average Level,Średni Poziom,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_MEMBER_NUM,No. of members,Liczba członków,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_NAME,Guild name,Nazwa Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_NAME_VALUE,This is a Guild Name,To jest nazwa Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_OFFER_EXP,Invest,Inwestuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_REST_EXP,Needed Exp.,Wymagane PD,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_UPLOAD_MARK,Upload Sign,Wgraj Logo,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_UPLOAD_SYMBOL,Upload Flag,Wgraj Flagę,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MARK,Guild Sign,Znak Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_JOB,Class,Klasa,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_KNIGHT,Leader,Lider,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_LEVEL,Level,Poziom,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MINENAL,Mineral,Minerał,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_MONEY,Yang,Yang,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_NAME,Guild,Gildia,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SKIlL_HEAL_GSP,Win back Power,Regeneracja,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SKILL_PASSIVE,Passive,Pasywne,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SKILL_POWER,Energy,Energia,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SKILL_STATE,Skills of the Guild,Umiejętności Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_SYMBOL,Guild Flag,Flaga Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_ACCEPT,Accept War Declaration,Akceptuj Deklarację Wojny,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_BATTLE_TYPE,Battle Type,Rodzaj bitwy,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_WARP,Arena,Arena,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WATER,Water,Woda,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WITHDRAW,Take,Weź,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_ATTACK_KEY,Attack: left mouse button or space bar,Atak: lewy przycisk myszy lub spacja,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_CHANGE_PK_MODE,Change attack mode: change setting of left mouse button,Zmiana trybu ataku: zmień akcję Lewego Przycisku Myszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_CHARACTER_BUTTON1,"(Character Window, Inventory Window,","(Okno Postaci, Ekwipunek",,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_CHARACTER_BUTTON2,List of Friends and Options),oraz Lista Przyjaciół i Opcje),,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON,Camera View: middle or right mouse button,Widok Kamery: środkowy lub prawy przycisk myszy.,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_CONTROL_CAMERA_BY_RIGHTBUTTON,Camera View: right or middle mouse button,Widok Kamery: prawy oraz środkowy przycisk myszy.,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_EXP,Experience,Doświadczenie,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_FURY,Ingame Item Shop,Sklep z Przedmiotami w grze,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_GUILD_WINDOW,Open Guild Window: Alt + G,Otwórz Okno Gildii: ALT + G,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_HELP,Display help: H,Wyświetl Pomoc: H,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_HP,Hit Points (HP),Punkty Życia (PŻ),,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_MESSENGER_WINDOW,Open Friends List: Alt + M,Otwórz Listę Przyjaciół: ALT + M,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_MOUSE_LEFT,Function of the Left Mouse button,Funkcja Lewego Przycisku Myszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_MOUSE_RIGHT,Function of the Right Mouse button,Funkcja Prawego Przycisku Myszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_MOVE_KEY,"Panel: W, A, S, D or arrow keys","Sterowanie: W, S, A, D lub klawisze strzałek",,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_CHARACTER,Open character window: C,Otwórz Okno Postaci: C,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_CHAT,Open chat window: Enter,Otwórz Okno Chatu: Enter,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_INVENTORY,Open inventory window: I,Otwórz Okno Ekwipunku: I,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_LOG,Open Chatlog: L,Otworzenie Panelu Wiadomości: L,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_MINIMAP,Open mini map: Shift + M,Otwórz Mini Mapę: Shift + M,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_QUEST,Open Task Window: N,Otwórz Okno Zadań: N,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_SKILL,Open Skill Window: V,Otwórz Okno Umiejętności: V,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_WHISPER,Open Whisper Window: Shift + Enter,Otwórz Okno Szeptania: Shift + Enter,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_OPEN_ZONEMAP,Open Large Map: M,Otwórz Podgląd Mapy: M,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_PICK_ITEM,Collect Items: ^ or Y or left mouse button,"Podnoszenie Przedmiotów: ` (tylda), Z lub Lewy Przycisk Myszki",,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_QUICKSLOT,Fast Access Fields,Pole Szybkiego Dostępu,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_SCREEN_CAPTURE,"Save Screenshot: Print (will be saved in file ""Metin2\screenshot"")","Zapisz Screenshota:  Print (Screen będzie zapisany w podkatalogu gry ""Metin2\screenshot"")",,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_SHOW_ALL_NAME,Display Names: Alt,Pokaż Nazwy: Alt,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_SP,Spell Points (SP),Punkty Energii (PE),,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,,client: window texts (uiScriptLocale),new
-c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_CONNECT,Connect,Połącz,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_DEFAULT_SERVERADDR,"Servername, Channel 1","Nazwa Serwera, Kanał 1",,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_SELECT_OK,OK,OK,,client: window texts (uiScriptLocale),new
-c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,,client: window texts (uiScriptLocale),new
-c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,,client: window texts (uiScriptLocale),new
-c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,,client: window texts (uiScriptLocale),new
-c:locale_interface:MARKET_TITLE,Load,Ładuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:MARKLIST_REFRESH,Refresh,Odśwież,,client: window texts (uiScriptLocale),new
-c:locale_interface:MARKLIST_TITLE,Register Guild Sign,Zarejestruj Znak Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSAGE,This is a Message,To jest Wiadomość,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_ADD_FRIEND,Add friend,Dodaj przyjaciela,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_DELETE_FRIEND,Delete friend,Usuń,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_MOBILE,Send Text Message,Wyślij SMS,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_OPEN_GUILD,Open Guild Window,Otwórz Okno Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_TITLE,Friends,Przyjaciele,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_USE_GUILD_MOVE_SKILL,Use the Guild Moving Skill,Użyj Umiejętności Przemieszczania Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_WHISPER,Whisper,Szept,,client: window texts (uiScriptLocale),new
-c:locale_interface:MINIMIZE,Minimize,Minimalizuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:MOUSEBUTTON_ATTACK,Attack,Atak,,client: window texts (uiScriptLocale),new
-c:locale_interface:MOUSEBUTTON_AUTO_ATTACK,Attack automatically,Auto Atak,,client: window texts (uiScriptLocale),new
-c:locale_interface:MOUSEBUTTON_CAMERA,Camera,Kamera,,client: window texts (uiScriptLocale),new
-c:locale_interface:MOUSEBUTTON_SKILL,Skills,Umiejętności,,client: window texts (uiScriptLocale),new
-c:locale_interface:MUSICLIST_TITLE,Music Choices,Wybór muzyki,,client: window texts (uiScriptLocale),new
-c:locale_interface:NO,No,Nie,,client: window texts (uiScriptLocale),new
-c:locale_interface:OK,OK,OK,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ALWAYS_SHOW_NAME,Name,Nazwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ALWAYS_SHOW_NAME_OFF,Limited,Ograniczony,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ALWAYS_SHOW_NAME_ON,Always,Zawsze,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK,Block,Blokuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_EXCHANGE,Trade,Handel,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_FRIEND,Friends,Przyjaciele,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_GUILD,Guild,Gildia,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_PARTY,Group,Grupa,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_PARTY_REQUEST,Request,Prośba,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_BLOCK_WHISPER,Whisper,Szept,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_CAMERA_DISTANCE,Camera,Kamera,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_CAMERA_DISTANCE_LONG,Far,Dalej,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_CAMERA_DISTANCE_SHORT,Close,Bliżej,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_DELETE_MOBILE_BUTTON,Delete Cell Phone Number,Usuń Numer Telefonu Komórkowego,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_EFFECT,Hit Info,Info o traf.,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG,Fog,Mgła,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_DENSE,Dense,Gęsta,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_LIGHT,Light,Światło,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_MIDDLE,Middle,Środek,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_INPUT_MOBILE_BUTTON,Enter Cell Phone Number,Wybierz Numer Telefonu Komórkowego,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MOBILE,Cell Phone,Telefon Komórkowy,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MUSIC,Music,Muzyka,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_GUILD,Guild,Gildia,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_GUILD_TOOLTIP,You can attack players outside your guild.,Możesz atakować wszystkich graczy oprócz Członków swojej Gildii.,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_PEACE,Peace,Pokój,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_PEACE_TOOLTIP,You cannot attack players from your kingdom.,Nie możesz zaatakować żadnego gracza swojego królestwa.,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_REVENGE,Hostile,Wrogi,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_PVPMODE_REVENGE_TOOLTIP,You can attack players with a negative rank.,"Możesz atakować tylko tych, którzy mają negatywną Rangę.",,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SALESTEXT,Shop name,Nazwa sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SALESTEXT_VIEW_OFF,Hide,Ukryj,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SALESTEXT_VIEW_ON,Show,Pokaż,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SOUND,Sound Effects,Efekty,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TARGET_BOARD,Target Menu,Menu Celu,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TILING,Graphic,Grafika,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TILING_CPU,CPU,CPU,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TILING_GPU,GPU,GPU,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_TITLE,Options,Opcje,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_CHAT_ON,Show,Pokaż,,client: window texts (uiScriptLocale),new
-c:locale_interface:PARTY_MEMBER_INFO_NAME,Name of the Group member,Nazwa Członka Grupy,,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_DESC_1,Enter your password,"Podaj hasło,",,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_DESC_2,to open the storeroom.,by otworzyć magazyn.,,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_DESC_3,Already changed your password?,Zmieniłeś/aś już hasło?,,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_DESC_4,"If not, your password will be '000000'.","Jeśli nie, to Twoim hasłem jest: ""000000"".",,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_DESC_5,Change your password in storage.,Zmień swoje hasło w magazynie.,,client: window texts (uiScriptLocale),new
-c:locale_interface:PASSWORD_TITLE,Saving Password,Zapamiętywanie Hasła,,client: window texts (uiScriptLocale),new
-c:locale_interface:PICK_MONEY_TITLE,Divide,Podziel,,client: window texts (uiScriptLocale),new
-c:locale_interface:PRIVATE_SHOP_CLOSE_BUTTON,Close shop,Zamknij Sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:PRIVATE_SHOP_NAME,Name of the shop,Nazwa Sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:PRIVATE_SHOP_TITLE,Open private shop,Otwórz własny Sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFINE_COST,Upgrading Costs: 0 Yang,Ulepszanie Kosztuje: 0 Yang,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFINE_INFO,Chance to upgrade successfully: 100%,Szansa na udane Ulepszenie: 100%,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFINE_MONEY,Refinement fee,Opłata za uszlachetnienie,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFINE_SELECT,Refinement,Uszlachetnienie,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFINE_TTILE,Upgrades,Ulepszanie,,client: window texts (uiScriptLocale),new
-c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,,client: window texts (uiScriptLocale),new
-c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,,client: window texts (uiScriptLocale),new
-c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,,client: window texts (uiScriptLocale),new
-c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_CREATE,Create,Stwórz,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_DELETE,Delete,Usuń,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_EXIT,Close,Zamknij,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_HP,HP,PŻ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_LEVEL,Level,Poziom,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień Duszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_NAME,Name,Nazwa,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_SELECT,Start,Start,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_SP,SP,PE,,client: window texts (uiScriptLocale),new
-c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_BUY,Buy,Kup,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SELL,Sell,Sprzedaj,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_TITLE,Shop,Sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SKILL_SUPPORT_TITLE,Standard Skills,Standardowe Umiejętności,,client: window texts (uiScriptLocale),new
-c:locale_interface:STEP,Clarity grade,Stopień jakości,,client: window texts (uiScriptLocale),new
-c:locale_interface:STEP_SELECT,Clarity grade,Stopień jakości,,client: window texts (uiScriptLocale),new
-c:locale_interface:STRENGTH,Strengthen,Wzmocnienie,,client: window texts (uiScriptLocale),new
-c:locale_interface:STRENGTH_SELECT,Level,Poziom,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEMOPTION_TITLE,System Options,Opcje Systemowe,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_HELP,Help,Pomoc,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_DISABLE,Deactivated,Dezaktywowano,,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_DRAGON_SOUL,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_EXPAND,Expand window,Powiększ okno,,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_INVENTORY,Inventory [I],Ekwipunek [I],,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_MESSENGER,Friends [Alt+M],Przyjaciele [Alt+M],,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_NEXT_QUICKSLOT,"Next Fast Access Field [Shift+Number, Alt]",Następne Szybkie Pole Dostępu [Alt],,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Number],Poprzednie Szybkie Pole Dostępu,,client: window texts (uiScriptLocale),new
-c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],,client: window texts (uiScriptLocale),new
-c:locale_interface:WHISPER_BAN,Block,Blokuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:WHISPER_NAME,Whisper,Szept,,client: window texts (uiScriptLocale),new
-c:locale_interface:WHISPER_SEND,Send,Wyślij,,client: window texts (uiScriptLocale),new
-c:locale_interface:YES,Yes,Tak,,client: window texts (uiScriptLocale),new
-c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_STATUS_TITLE,Character Status,,,client: window texts (uiScriptLocale),new
-c:locale_interface:CHARACTER_ATTRIBUTES_TITLE,Attributes,,,client: window texts (uiScriptLocale),new
-c:locale_interface:ITEMSHOP_CATEGORIES,Categories,,,client: window texts (uiScriptLocale),new
-c:locale_interface:ITEMSHOP_ACCOUNT_STATE,Account,,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ALWAYS_SHOW_NAME_GROUP,Group,Grupuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SHOW_DAMAGE_TARGET,Target,Cel,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_SHOP,Shop display,Widok sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_SHOP_ON,Show,Pokaż,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_SHOP_FOUND,Search only,Wyszukanie,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SALESTEXT_RANGE,Shop range,Zakres sklepów,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SHADOW,Shadow quality,Jakość cieni,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MOB_INFO,Monster info,Info potw.,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MOB_INFO_AGGR,Aggressive,Agresywny,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_MOB_INFO_LEVEL,Level,Poziom,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NIGHT_MODE,Night,Noc,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NIGHT_MODE_ON,On,WŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_NIGHT_MODE_OFF,Off,WYŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ENV_EFFECT,Environment,Otoczenie,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ENV_EFFECT_ON,On,WŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_ENV_EFFECT_OFF,Off,WYŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_MODE,Snowfall,Opady śniegu,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_MODE_ON,On,WŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_MODE_OFF,Off,WYŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_TEXTURE_MODE,Snow,Śnieg,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_TEXTURE_MODE_ON,On,WŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_SNOW_TEXTURE_MODE_OFF,Off,WYŁ,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_MODE,Fog,Mgła,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_MODE_ON,On,Włącz,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_FOG_MODE_OFF,Off,Wyłącz,,client: window texts (uiScriptLocale),new
-c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_0,Left,Na Lewo,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_1,Right,Na Prawo,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_2,Hide,Ukryj,,client: window texts (uiScriptLocale),new
-c:locale_interface:BOT_TITLES_LABEL,Bot titles,,,client: window texts (uiScriptLocale),new
-c:locale_interface:BOT_TITLES_PERSONALITY,Personality,,,client: window texts (uiScriptLocale),new
-c:locale_interface:BOT_TITLES_OFF,Off,,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_VERSION,Version: %d.%d.%d%s,,,client: window texts (uiScriptLocale) | keep: %d %d %d %s,new
-c:locale_interface:SYSTEM_ESCAPE,Unstuck,Uwolnij się,,client: window texts (uiScriptLocale),new
-c:locale_interface:SYSTEM_MOVE_CHANNEL,Change Channel,Zmień kanał,,client: window texts (uiScriptLocale),new
-c:locale_interface:HORSE_INVENTORY,Saddlebags,Juki Konne,,client: window texts (uiScriptLocale),new
-c:locale_interface:POCKET_DEPOSIT,Item Shop Storage,Depozyt ItemShop,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE,Shop,Sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_SORT_STACK,Stack and sort,,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_3,Inventory page 3,,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_4,Inventory page 4,,,client: window texts (uiScriptLocale),new
-c:locale_interface:INVENTORY_AUTOSTACK,Stack all items,Połącz wszystkie przedmioty,,client: window texts (uiScriptLocale),new
-c:locale_interface:REPORT_PLAYER_TITLE,Report Player,Zgłoś gracza,,client: window texts (uiScriptLocale),new
-c:locale_interface:REPORT_PLAYER_REASON,Reason:,Powód zgłoszenia:,,client: window texts (uiScriptLocale),new
-c:locale_interface:REPORT_PLAYER_SUBMIT,Report,Zgłoś,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_NAME,Shop name,Nazwa sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_TIMEOUT,Shop duration,Czas trwania sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE,Create,Stwórz,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_PRICE,Cost: ,Koszt: ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_DAY,day,dzień,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_DAYS,days,dni,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_HOUR,hour,godz.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_HOURS,hours,godz.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_NORMAL,Normal shop,Zwykły sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CREATE_SELECT_OFFLINE,%d hours / %s,%d godz. | %s,,client: window texts (uiScriptLocale) | keep: %d %s,new
-c:locale_interface:SHOP_CREATE_SELECT_OFFLINE_DAYS,%d days / %s,%d dni | %s,,client: window texts (uiScriptLocale) | keep: %d %s,new
-c:locale_interface:SHOP_CREATE_SELECT_NORMAL,Normal shop / %s,Zwykły sklep | %s,,client: window texts (uiScriptLocale) | keep: %s,new
-c:locale_interface:SHOP_CREATE_SELECT_DEFAULT,Select duration,Wybierz czas,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_NAME_EMPTY,Please enter a shop name.,Proszę wpisać nazwę sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_TIMEOUT_EMPTY,Please select a shop duration.,Proszę wybrać czas trwania sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_WINDOW_NAME,Your Shops,Twoje sklepy,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_WINDOW_CREATE,Create Shop,Tworzenie sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_GET_YANG,Collect Yang,Pobierz Yang,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CHANGE_NAME,Rename,Zmień nazwę,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_ENTER_NEW_NAME,Enter a new name,Wpisz nową nazwę,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CLOSE,Close shop,Zamknij sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CLOSE_QUEST,"Are you sure you want to close shop ""%s""?","Czy jesteś pewny że chcesz zamknąć sklep ""%s""?",,client: window texts (uiScriptLocale) | keep: %s,new
-c:locale_interface:SHOP_OPEN,Open shop,Otwórz sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TITLE,Manage Shop,Zarządzaj sklepem,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_EDIT,Edit,Edytuj,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_REMOVE_ITEM,Remove,Usuń,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CHANGE_PRICE,Change price,Zmień cenę,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_EDIT_SHOP_WINDOW,Edit Shop,Edytowanie sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_EDIT_SHOP_CANCEL,Cancel editing,Anuluj edycje,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SELECT,Select,Wybierz,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_REMOVE_ITEM_QUEST,Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten przedmiot?,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_NOT_EARNED_YANG,This shop has not earned any Yang yet.,Sklep nie zarobił żadnych Yang do tej pory!,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_YANG_QUEST,"Collect %s from shop ""%s""?","Czy jesteś pewny że chcesz pobrać %s ze sklepu ""%s"" ?",,client: window texts (uiScriptLocale) | keep: %s %s,new
-c:locale_interface:SHOP_INFORMATION,Shop Information,Informacje o sklepie ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_HISTORY_TITLE,Shop History,Historia Sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_HISTORY_CLEAR,Clear history.,Wyczyść historię.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_COLUMN_FIRST,Action,Akcja,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_COLUMN_SECOND,Date,Data,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SEARCH_ATTR,With bonus,Z bonusem,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SEARCH,Search,Szukaj,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SEARCH_TITLE,Item Search,Wyszukiwarka przedmiotów,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SEARCH_TOOLTIP,Item Search [F5],Wyszukiwarka przedmiotów [F5],,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SEARCH_CLEAR,Clear,Wyczyść,,client: window texts (uiScriptLocale),new
-c:locale_interface:ATTRIBUTE_LIST_TITLE,Character Bonuses,Bonusy postaci,,client: window texts (uiScriptLocale),new
-c:locale_interface:POTION_RECHARGE_TITLE,Refill Elixir,Ładowanie Eliksiru,,client: window texts (uiScriptLocale),new
-c:locale_interface:POTION_RECHARGE_BUTTON_TOOLTIP,Refill elixir,Naładuj eliksir,,client: window texts (uiScriptLocale),new
-c:locale_interface:SOCKET_EXTRACT_TITLE,Remove Spirit Stone,Wyjmij Kamień Duszy,,client: window texts (uiScriptLocale),new
-c:locale_interface:SOCKET_EXTRACT_BUTTON,Remove,Wyjmij,,client: window texts (uiScriptLocale),new
-c:locale_interface:MESSENGER_BLOCK,Block player,Zablokuj gracza,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TITLE,Settings,Ustawienia,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RESOLUTION,Resolution,Rozdzielczość,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SOUND,Sound,Dźwięk,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_WINDOW,Display mode,Tryb ekranu,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_CUSTOM_RESOLUTION,Custom resolution,Własna Rozdzielczość,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_FONT,Font,Czcionka,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_WINDOW_WINDOWED,Windowed,Okno,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_WINDOW_FULL,Fullscreen,Pełny ekran,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_WINDOW_FULL_WINDOWED,Borderless,Pełne okno,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SAVE,Save,Zapisz,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE,View distance,Zakres rysowania,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL1,Very short,Bardzo krótki,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SCALE_MODE,Interface scaling,Skaluj Interfejs,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SCALE_MODE_NONE,Off,Nie skaluj,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SCALE_MODE_YES,On,Skaluj,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOWS,Shadows,Cienie,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_NONE,None,Brak,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND,Terrain,Teren,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_AND_SOLO,Terrain and player,Teren i Gracz,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, Gracz i NPC",,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TEXTURE_2,Classic effects,Stare efekty,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_TEXTURE_3,Classic textures and effects,Stare tekstury i efekty,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_LANGUAGE,Language,Język,,client: window texts (uiScriptLocale),new
-c:locale_interface:COMB_APPEARANCE,Costume 1,Kostium 1,,client: window texts (uiScriptLocale),new
-c:locale_interface:COMB_ATTRIBUTE,Costume 2,Kostium 2,,client: window texts (uiScriptLocale),new
-c:locale_interface:COMB_SKILLBOOK_TILE,Exchange books,Wymień księgi,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_WAR_EXIT,Leave war,Opuść wojnę,,client: window texts (uiScriptLocale),new
-c:locale_interface:GUILD_INFO_WITHDRAW_GOLD,Withdraw,Wypłać,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_STATS,Open Statistics: Y,Otwórz Okno Statystyk: Y,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_EARNED_YANG,Yang earned: ,Zarobionych yang: ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_SOLD_ITEMS,Items sold: ,Sprzedanych przedmiotów: ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_REST_ITEMS,Items remaining: ,Pozostałe przedmioty: ,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_TIME_TO_CLOSE,Closes in: ,Pozostało do zamknięcia: ,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_WINDOW_NAME,Your Gifts,Twoje podarki,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_PREV_PAGE,Previous page,Poprzednia strona,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_NEXT_PAGE,Next page,Następna strona,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_FROM,Sender,Wysłał,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_REASON,Reason,Powód,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_GET_ALL,Collect all,Odbierz wszystkie,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_GET_QUEST,"Collect the item ""%s""?","Czy jesteś pewny że chcesz odebrać przedmiot ""%s""?",,client: window texts (uiScriptLocale) | keep: %s,new
-c:locale_interface:GIFT_GET_QUEST_ALL,Collect all items?,Czy jesteś pewny że chcesz odebrać wszystkie przedmioty ?,,client: window texts (uiScriptLocale),new
-c:locale_interface:GIFT_MONEY_DESC,Your shop earnings.,Twoje zarobione Yangi z sklepu.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_REOPEN,Reopen shop,Otwórz ponownie,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_LOGS,Shop history,Historia sklepu,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SHOP,Edit shop,Edytuj sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_FIND_SHOP,Find shop,Znajdź sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SIGN,Rename shop,Edytuj nazwę,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_CLOSE_SHOP,Close shop,Zamknij sklep,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW,Withdraw Yang,Wypłać Yang,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW_ITEMS,Collect all items,Odbierz wszystkie przedmioty,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_CLOSED,Closed,Zamknięty,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_NEAR_CLOSED,under %d minutes,poniżej %d minut,,client: window texts (uiScriptLocale) | keep: %d,new
-c:locale_interface:SHOP_PREMIUM_SLOT,Unlock these slots with a Premium Shop.,Te miejsca odblokujesz za pomocą Sklepu Premium.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_LOCKED_SLOT,Unlock these slots through in-game activities.,Te miejsca odblokujesz aktywnościami w grze.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_OWNER_ONLINE,The owner is online. Send a whisper.,Właściciel sklepu jest online. Wyślij PW.,,client: window texts (uiScriptLocale),new
-c:locale_interface:SHOP_OWNER_OFFLINE,The owner is offline.,Właściciel sklepu jest offline.,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_FISHING_GAME1,Control the fish with the space bar.,Kontrolujesz rybkę używając spacji,,client: window texts (uiScriptLocale),new
-c:locale_interface:HELP_FISHING_GAME2,Keep the fish inside the area.,Rybka nie może wyjść poza pole,,client: window texts (uiScriptLocale),new
-c:locale_interface:REFRESH,Refresh,Odśwież,,client: window texts (uiScriptLocale),new
-c:locale_interface:SEARCH_ITEM,Search for an item,Wyszukaj przedmiot,,client: window texts (uiScriptLocale),new
-c:locale_interface:CRAFT_QUANTITY,Quantity,Ilość,,client: window texts (uiScriptLocale),new
-c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,,client: window texts (uiScriptLocale),new
-c:locale_interface:CRAFT,Craft,Wytwórz,,client: window texts (uiScriptLocale),new
-c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,,client: window texts (uiScriptLocale),new
-c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,,client: window texts (uiScriptLocale),new
-c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,,client: window texts (uiScriptLocale),new
-c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,,client: window texts (uiScriptLocale),new
-c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,,client: window texts (uiScriptLocale),new
-c:locale_interface:BUTTON_HOMEPAGE,Website,Strona WWW,,client: window texts (uiScriptLocale),new
-c:locale_interface:CLASS_INFO_TITLE,Available Classes,Dostępne profesje,,client: window texts (uiScriptLocale),new
-c:locale_interface:CLASS_INFO_TOOLTIP,(Hover over an icon),(Najedź myszką na ikonę),,client: window texts (uiScriptLocale),new
-c:locale_interface:PLAYER_STATS_TITLE,Statistics,Statystyki,,client: window texts (uiScriptLocale),new
-c:locale_interface:PLAYER_STATS_GENERAL,General,Ogólne,,client: window texts (uiScriptLocale),new
-c:locale_interface:PLAYER_STATS_CURRENT_SESSION,Current session,Obecna sesja,,client: window texts (uiScriptLocale),new
-c:locale_interface:PLAYER_STATS_RESET_SESSION,Reset,Wyzeruj,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAMEMASTER_WHIPSER_TITLE,You are talking to a |cffffb514Game Master|r.,Rozmawiasz z |cffffb514Mistrzem Gry|r.,,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,new
-c:locale_interface:GAMEMASTER_WHIPSER_TIP1,- Ask your question directly.,"- Zadawaj pytania od razu, bez wstępów.",,client: window texts (uiScriptLocale),new
-c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,- Pisz krótko i konkretnie.,,client: window texts (uiScriptLocale),new
-c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,,client: window texts (uiScriptLocale),new
-c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,,client: window texts (uiScriptLocale),new
-c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,,client: window texts (uiScriptLocale),new
-c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,,client: window texts (uiScriptLocale),new
+c:locale_game:GMP_ERR_EVENT_EMPTY,"Enter an Exp, Drop or Yang percent",,"Introduce un porcentaje de Exp, Drop o Yang",client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_WORLD,World,,Mundo,client: game texts (localeInfo),new
+c:locale_game:GMP_NIGHT,Night,,Noche,client: game texts (localeInfo),new
+c:locale_game:GMP_DAY,Day,,Día,client: game texts (localeInfo),new
+c:locale_game:GMP_SNOW_ON,Snow,,Nieve,client: game texts (localeInfo),new
+c:locale_game:GMP_SNOW_OFF,No snow,,Sin nieve,client: game texts (localeInfo),new
+c:locale_game:GMP_USERS,Players here,,Jugadores aquí,client: game texts (localeInfo),new
+c:locale_game:GMP_WHO,Online count,,Contador en línea,client: game texts (localeInfo),new
+c:locale_game:GMP_END_DUELS,End duels,,Terminar duelos,client: game texts (localeInfo),new
+c:locale_game:GMP_EVENT_FLAGS,Event flags,,Flags de evento,client: game texts (localeInfo),new
+c:locale_game:GMP_MAINT_ON,Maintenance...,,Mantenimiento...,client: game texts (localeInfo),new
+c:locale_game:GMP_MAINT_OFF,End maintenance,,Finalizar mantenimiento,client: game texts (localeInfo),new
+c:locale_game:GMP_Q_MAINT,Block new logins (maintenance)?,,¿Bloquear nuevos inicios de sesión (mantenimiento)?,client: game texts (localeInfo),new
+c:locale_game:GMP_RESTART,Restart server...,,Reiniciar servidor...,client: game texts (localeInfo),new
+c:locale_game:GMP_Q_RESTART,Restart the server? Everyone will be disconnected.,,¿Reiniciar el servidor? Todos serán desconectados.,client: game texts (localeInfo),new
+c:locale_game:GMP_RESTART_OK,Restart requested,,Reinicio solicitado,client: game texts (localeInfo),new
+c:locale_game:GMP_CLEAR,Clear,,Limpiar,client: game texts (localeInfo),new
+c:locale_game:GMP_CAT_STONES,Stones,,Piedras,client: game texts (localeInfo),new
+c:locale_game:GMP_PICK_ITEM,Pick an item,,Elige un objeto,client: game texts (localeInfo),new
+c:locale_game:GMP_PICK_BONUS,Pick bonus %d,,Elige bonificación %d,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GMP_PICK_STONE,Pick stone %d,,Elige piedra %d,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GMP_LOADING,Loading...,,Cargando...,client: game texts (localeInfo),new
+c:locale_game:GMP_NO_RESULTS,No results,,Sin resultados,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_NEW_ITEM,New item,,Nuevo objeto,client: game texts (localeInfo),new
+c:locale_game:GMP_ITEM,Item:,,Objeto:,client: game texts (localeInfo),new
+c:locale_game:GMP_NO_ITEM,none selected,,ninguno seleccionado,client: game texts (localeInfo),new
+c:locale_game:GMP_COUNT,Count:,,Cantidad:,client: game texts (localeInfo),new
+c:locale_game:GMP_FOR,For:,,Para:,client: game texts (localeInfo),new
+c:locale_game:GMP_PLACE_INV,Inventory,,Inventario,client: game texts (localeInfo),new
+c:locale_game:GMP_PLACE_SAFE,Storeroom,,Almacén,client: game texts (localeInfo),new
+c:locale_game:GMP_PLACE_MALL,Item-shop storage,,Almacén de la Item-Shop,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_BONUS,Bonuses (click to pick),,Bonificaciones (clic para elegir),client: game texts (localeInfo),new
+c:locale_game:GMP_BONUS_NONE,no bonus,,sin bonificación,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_STONES,Stones,,Piedras,client: game texts (localeInfo),new
+c:locale_game:GMP_EMPTY,empty,,vacía,client: game texts (localeInfo),new
+c:locale_game:GMP_CREATE,Create item,,Crear objeto,client: game texts (localeInfo),new
+c:locale_game:GMP_RESET_FORM,Reset form,,Restablecer formulario,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_NO_ITEM,Pick an item from the list,,Elige un objeto de la lista,client: game texts (localeInfo),new
+c:locale_game:GMP_ITEM_CREATED,Item created,,Objeto creado,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_OWNER_OFFLINE,The recipient is not online,,El destinatario no está en línea,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_BADVNUM,No such item,,No existe tal objeto,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_SAFEBOX,The recipient must open the storeroom first,,El destinatario debe abrir el almacén primero,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_MALL,The recipient must open the item-shop storage first,,El destinatario debe abrir el almacén de la item-shop primero,client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_NOSPACE,No space,,Sin espacio,client: game texts (localeInfo),new
+c:locale_game:GMP_ACC_CHECK,Check account,,Comprobar cuenta,client: game texts (localeInfo),new
+c:locale_game:GMP_ACC_STATUS,"Account: %s, lock: %s",,"Cuenta: %s, bloqueo: %s",client: game texts (localeInfo) | keep: %s %s,new
+c:locale_game:GMP_HDR_BAN,Account ban,,Baneo de cuenta,client: game texts (localeInfo),new
+c:locale_game:GMP_DAYS,%d days,,%d días,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GMP_BAN_DAYS,Days:,,Días:,client: game texts (localeInfo),new
+c:locale_game:GMP_BAN_TEMP,Ban for days...,,Banear por días...,client: game texts (localeInfo),new
+c:locale_game:GMP_BAN_PERM,Permanent...,,Permanente...,client: game texts (localeInfo),new
+c:locale_game:GMP_UNBAN,Unban,,Quitar baneo,client: game texts (localeInfo),new
+c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,¿Banear a %s por %s días?,client: game texts (localeInfo) | keep: %s %s,new
+c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,¿Banear a %s PERMANENTEMENTE?,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_KICK_ACC,Kick...,,Expulsar...,client: game texts (localeInfo),new
+c:locale_game:GMP_MUTE_LIST,Muted list,,Lista de silenciados,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),new
+c:locale_game:GMP_MUTE_10M,Mute 10 min,,Silenciar 10 min,client: game texts (localeInfo),new
+c:locale_game:GMP_MUTE_1H,Mute 1 h,,Silenciar 1 h,client: game texts (localeInfo),new
+c:locale_game:GMP_MUTE_1D,Mute 1 day,,Silenciar 1 día,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_GM,GM rank,,Rango de GM,client: game texts (localeInfo),new
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Low Wizard,client: game texts (localeInfo),new
+c:locale_game:GMP_RANK_HIGH,High Wizard,,High Wizard,client: game texts (localeInfo),new
+c:locale_game:GMP_RANK_GOD,God,,God,client: game texts (localeInfo),new
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),new
+c:locale_game:GMP_GM_ADD,Grant rank,,Otorgar rango,client: game texts (localeInfo),new
+c:locale_game:GMP_GM_REMOVE,Remove GM...,,Quitar GM...,client: game texts (localeInfo),new
+c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,¿Quitar el rango de GM a %s?,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Solo un Implementor cambia otros rangos. Se aplica de inmediato.,client: game texts (localeInfo),new
+c:locale_game:GMP_GM_SAVED,Rank saved,,Rango guardado,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_BOTS,Bots,,Bots,client: game texts (localeInfo),new
+c:locale_game:GMP_BOT_PID,Bot PID:,,PID del Bot:,client: game texts (localeInfo),new
+c:locale_game:GMP_PICK_DOTS,Pick...,,Elegir...,client: game texts (localeInfo),new
+c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Invocar bots,client: game texts (localeInfo),new
+c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,Hacer desaparecer bots,client: game texts (localeInfo),new
+c:locale_game:GMP_BOT_ACTIVE,Active bots,,Bots activos,client: game texts (localeInfo),new
+c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Bots: %s de %s (total %s),client: game texts (localeInfo) | keep: %s %s %s,new
+c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Elige un imperio,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Monstruos y metins,client: game texts (localeInfo),new
+c:locale_game:GMP_MOB,Monster:,,Monstruo:,client: game texts (localeInfo),new
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),new
+c:locale_game:GMP_SPAWN,Spawn,,Invocar,client: game texts (localeInfo),new
+c:locale_game:GMP_SPAWNED,Spawned %s of %s,,Invocados %s de %s,client: game texts (localeInfo) | keep: %s %s,new
+c:locale_game:GMP_ERR_NO_MOB,No such monster,,No existe tal monstruo,client: game texts (localeInfo),new
+c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,Bots libres (clic para rellenar el PID),client: game texts (localeInfo),new
+c:locale_game:GMP_LIST_BOTS,Active bots,,Bots activos,client: game texts (localeInfo),new
+c:locale_game:GMP_LIST_MOBS,Monsters,,Monstruos,client: game texts (localeInfo),new
+c:locale_game:GMP_LIST_METINS,Metins,,Metins,client: game texts (localeInfo),new
+c:locale_game:GMP_CLOSE_LIST,Close list,,Cerrar lista,client: game texts (localeInfo),new
+c:locale_game:GMP_PICKED,Picked: %s,,Elegido: %s,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Invocación rápida (metins normales, todos los jefes)",client: game texts (localeInfo),new
+c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Grupo... muestra los jefes de un rango,client: game texts (localeInfo),new
+c:locale_game:GMP_BOSS_1,1 boss,,1 jefe,client: game texts (localeInfo),new
+c:locale_game:GMP_BOSS_5,5 bosses,,5 jefes,client: game texts (localeInfo),new
+c:locale_game:GMP_METIN_1,1 metin,,1 metin,client: game texts (localeInfo),new
+c:locale_game:GMP_METIN_3,3 metins,,3 metins,client: game texts (localeInfo),new
+c:locale_game:GMP_POOL,Pool...,,Grupo...,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_CITIES,Cities,,Ciudades,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_MAPS,Maps,,Mapas,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Mazmorras,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SPECIAL,Special,,Especial,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Aldea de gremio 1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Aldea de gremio 2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Aldea de gremio 3,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SEUNGRYONG,Seungryong Valley,,Valle de Seungryong,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_YONGBI,Yongbi Desert,,Desierto de Yongbi,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SOHAN,Mount Sohan,,Monte Sohan,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_FIRELAND,Fireland,,Tierra de Fuego,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GHOSTWOOD,Ghost Wood,,Bosque Fantasma,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_REDWOOD,Red Wood,,Bosque Rojo,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GIANTS,Land of Giants,,Tierra de Gigantes,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_WLPASS,Pass (wl_pass),,Paso (wl_pass),client: game texts (localeInfo),new
+c:locale_game:GMP_TP_CAPE,Cape Dragon Fire,,Cabo Fuego Dragón,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_DAWNMIST,Dawnmist Wood,,Bosque del Amanecer,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_BLACKSAND,Bay Black Sand,,Bahía de Arena Negra,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_THUNDER,Thunder Mountains,,Montañas del Trueno,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_HWANG,Hwang Temple,,Templo Hwang,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_DEVILTOWER,Demon Tower,,Torre de Demonios,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SPIDER1,Spider Dungeon 1,,Mazmorra de Arañas 1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SPIDER2,Spider Dungeon 2,,Mazmorra de Arañas 2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_MONKEY_E,Monkey Dungeon (easy),,Mazmorra de Monos (fácil),client: game texts (localeInfo),new
+c:locale_game:GMP_TP_MONKEY_N,Monkey Dungeon (normal),,Mazmorra de Monos (normal),client: game texts (localeInfo),new
+c:locale_game:GMP_TP_MONKEY_H,Monkey Dungeon (hard),,Mazmorra de Monos (difícil),client: game texts (localeInfo),new
+c:locale_game:GMP_TP_EXILE1,Grotto of Exile 1,,Gruta del Exilio 1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_EXILE2,Grotto of Exile 2,,Gruta del Exilio 2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_BERAN,Beran-Setaou's Lair,,Sala de Beran-Setaou,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_CATACOMB,Devil's Catacomb,,Catacumbas del Demonio,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_RAZADOR,Razador's Fortress,,Fortaleza de Razador,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_ICE,Ice Dungeon,,Mazmorra de Hielo,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_LABYRINTH,Labyrinth,,Laberinto,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_OX,OX Arena,,Arena del OX,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_WEDDING,Wedding Hall,,Salón de Bodas,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_DUEL,Duel Arena,,Arena de Duelo,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_WAR1,Empire War 1,,Guerra de Imperios 1,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_WAR2,Empire War 2,,Guerra de Imperios 2,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_WAR3,Empire War 3,,Guerra de Imperios 3,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_GMROOM,GM Room,,Sala de GM,client: game texts (localeInfo),new
+c:locale_game:GMP_GO,Go,,Ir,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_HINT,X/Y in global metres. Ctrl + click on the map = teleport.,,X/Y en metros globales. Ctrl + clic en el mapa = teletransporte.,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_WAYPOINTS,My places,,Mis lugares,client: game texts (localeInfo),new
+c:locale_game:GMP_WP_EMPTY,%d. empty,,%d. vacío,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GMP_WP_SAVE,Save here,,Guardar aquí,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_RATES,Server rates (%),,Tasas del servidor (%),client: game texts (localeInfo),new
+c:locale_game:GMP_SAVE,Save,,Guardar,client: game texts (localeInfo),new
+c:locale_game:GMP_FETCH,Fetch,,Obtener,client: game texts (localeInfo),new
+c:locale_game:GMP_RATES_HINT,"1-10000, 100 = normal. Applies at once.",,"1-10000, 100 = normal. Se aplica de inmediato.",client: game texts (localeInfo),new
+c:locale_game:GMP_ERR_RATE,Rate: a number 1-10000,,Tasa: un número entre 1 y 10000,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_AI,Bot behaviour,,Comportamiento del bot,client: game texts (localeInfo),new
+c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,Obteniendo configuración de bots...,client: game texts (localeInfo),new
+c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Los cambios se aplican en pocos segundos,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_RESTART,Restart,,Reiniciar,client: game texts (localeInfo),new
+c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,Haz clic en un comando para escribirlo en el chat,client: game texts (localeInfo),new
+c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Banear,client: game texts (localeInfo),new
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,"El servidor no respondió. Por favor, inténtalo de nuevo.",client: game texts (localeInfo),new
+c:locale_interface:ACCEPT,Accept,Akceptuj,Aceptar,client: window texts (uiScriptLocale),new
+c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,¿Deseas usar la Piedra Espiritual?,client: window texts (uiScriptLocale),new
+c:locale_interface:ATTACH_METIN_TITLE,Use Spirit Stone,Użyj Kamienia Duszy,Usar Piedra Espiritual,client: window texts (uiScriptLocale),new
+c:locale_interface:CANCEL,Cancel,Anuluj,Cancelar,client: window texts (uiScriptLocale),new
+c:locale_interface:CHANGE_PASSWORD_CONFIRM,Confirm new Password,Potwierdź nowe Hasło,Confirmar nueva contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:CHANGE_PASSWORD_NEW,New Password,Nowe Hasło,Nueva contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:CHANGE_PASSWORD_OLD,Old Password,Stare Hasło,Contraseña antigua,client: window texts (uiScriptLocale),new
+c:locale_interface:CHANGE_PASSWORD_TITLE,Password Change,Zmiana Hasła,Cambio de contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_ACTION,Emotion,Emocje,Emoción,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_EMOTICON,Emotion,Emocje,Emoción,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_MAIN,Character,Postać,Personaje,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_MUTUAL_ACTION,Mutual Emotion,Emocje wspólne,Emoción mutua,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_NORMAL_ACTION,Normal Emotion,Emocje podstawowe,Emoción normal,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_QUEST,Missions,Misje,Misiones,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,Habilidad,client: window texts (uiScriptLocale),new
+c:locale_interface:CLOSE,Close,Zamknij,Cerrar,client: window texts (uiScriptLocale),new
+c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,Atuendos,client: window texts (uiScriptLocale),new
+c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,Atuendos,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_CREATE,Create,Utwórz,Crear,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_LAST_POINT,Points,Punkty,Puntos,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_MAN,Man,Mężczyzna,Hombre,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_NAME,Name,Nazwa,Nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_NEXT,Next,Dalej,Siguiente,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_PREV,Back,Wróć,Volver,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_SEX,Gender,Płeć,Género,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Aspecto,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Restablecer,client: window texts (uiScriptLocale),new
+c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Mujer,client: window texts (uiScriptLocale),new
+c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Manual de refinación,client: window texts (uiScriptLocale),new
+c:locale_interface:CUBE_REQUIRE_MATERIAL,Required materials,Wymagane materiały,Materiales necesarios,client: window texts (uiScriptLocale),new
+c:locale_interface:CUBE_REQUIRE_MATERIAL_OR,or,lub,o,client: window texts (uiScriptLocale),new
+c:locale_interface:CUBE_TITLE,Refinement Window,Okienko uszlachetniania,Ventana de refinación,client: window texts (uiScriptLocale),new
+c:locale_interface:DO_REFINE,Refine,Uszlachetnij,Refinar,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_ACTIVATE,Activate,Aktywuj,Activar,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_1,Rough,Surowy,Bruta,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_2,Cut,Szlifowany,Tallada,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_3,Rare,Rzadki,Rara,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_4,Antique,Antyczny,Antigua,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_5,Legendary,Legendarny,Legendaria,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_REFINE_WINDOW_TITLE,Refinement Window,Okienko uszlachetniania,Ventana de refinación,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_1,Dragon Diamond,Smoczy Diament,Diamante Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_2,Dragon Ruby,Smoczy Rubin,Rubí Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_3,Dragon Jade,Smoczy Jadeit,Jade Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_4,Dragon Sapphire,Smoczy Szafir,Zafiro Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_5,Dragon Garnet,Smoczy Granat,Granate Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TAP_TITLE_6,Dragon Onyx,Smoczy Onyks,Ónix Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:DRAGONSOUL_TITLE,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Alquimia de Piedras Dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:EMPIRE_EXIT,Exit,Wyjdź,Salir,client: window texts (uiScriptLocale),new
+c:locale_interface:EMPIRE_NEXT,Next,Dalej,Siguiente,client: window texts (uiScriptLocale),new
+c:locale_interface:EMPIRE_PREV,Back,Wstecz,Volver,client: window texts (uiScriptLocale),new
+c:locale_interface:EMPIRE_SELECT,Choose,Wybierz,Elegir,client: window texts (uiScriptLocale),new
+c:locale_interface:EXCHANGE_ACCEPT,Accept,Akceptuj,Aceptar,client: window texts (uiScriptLocale),new
+c:locale_interface:EXCHANGE_TITLE,Trade,Handel,Comercio,client: window texts (uiScriptLocale),new
+c:locale_interface:GAMEOPTION_TITLE,Game Options,Opcje Gry,Opciones de juego,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_EXIT_OBSERVER,End Observer Mode,Zakończ Obserwowanie,Finalizar modo observador,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_HELP,Help,Pomoc,Ayuda,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_QUEST,Tasks,Zadania,Tareas,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_SKILL_UP,Raise Skills,Podnieś Umiejętności,Subir habilidades,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_STAT_UP,Raise State,Podnieś Status,Subir estado,client: window texts (uiScriptLocale),new
+c:locale_interface:GRADE,Class,Klasa,Clase,client: window texts (uiScriptLocale),new
+c:locale_interface:GRADE_SELECT,Class,Klasa,Clase,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BASENAME,Base Name,Podstawowa Nazwa,Nombre base,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BOARD_ID,Name,Nick,Nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BOARD_REFRESH,Refresh (F5),Odśwież (F5),Actualizar (F5),client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BOARD_TEXT,Message,Wiadomość,Mensaje,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_CATEGORY_TITLE,Building Units,Jednostki Budowlane,Unidades de construcción,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_CHANGE,Change,Zmień,Cambiar,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_DIRECTION,Orientation,Kierunek,Orientación,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_GRADE,Rank,Ranga,Rango,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_INFO,Buildings and Cost Information,Informacje o Budynkach i Kosztach,Información de edificios y costos,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_LIST_TITLE,Building List,Lista Budowli,Lista de edificios,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_LOG,Log,Pień,Registro,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_NAME,Building name,Nazwa Budowli,Nombre del edificio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_OPERATE,Operate,Operuj,Operar,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_PLY,Plywood,Dykta,Madera contrachapada,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_POSITION,Position,Miejsce,Posición,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_PREVIEW,Preview,Podgląd,Vista previa,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_PRICE,Price,Cena,Precio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_REFRESH,Refresh (F5),Odśwież (F5),Actualizar (F5),client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_STONE,Stone,Kamień,Piedra,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_BUILDING_TITLE,Guild House Building,Budowa Siedziby Gildii,Construcción de terreno de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_CRYSTAL,Crystal,Kryształ,Cristal,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_DEPOSIT,Deposit,Depozyt,Depositar,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_DROP_RESOURCE1,Here,Tutaj,Aquí,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_DROP_RESOURCE2,Drop Resource,Upuść Surowiec,Retirar recurso,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GEM,Gem,Klejnot,Gema,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_CHANGE_GRADE_NAME,New rank name,Nowa nazwa Rangi,Nuevo nombre de rango,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_NUM,Nr.,Nr,Nº,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_PERMISSION_DELETE,Kick,Usuń,Expulsar,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_PERMISSION_JOIN,Invite,Zapraszanie,Invitar,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_PERMISSION_NOTICE,Write,Pisanie,Escribir,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_PERMISSION_SKILL,Skills,Umiejętności,Habilidades,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_RANK,Rank,Ranga,Rango,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_GRADE_WRITE,Write,Napisz,Escribir,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO,Guild Information,Informacje o Gildii,Información del gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_CUR_EXP,Experience,Doświadczenie,Experiencia,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_DECALRE_WAR,Declare War,Wypowiedz Wojnę,Declarar guerra,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_ENEMY_GUILD,Enemy Guild,Wrogie Gildie,Gremio enemigo,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Brak,Ninguno,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_LEVEL,Guild Level,Poziom Gildii,Nivel de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_MARK,Guild Sign,Logo Gildii,Emblema de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_MASTER,Leader,Lider,Líder,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_MASTER_VALUE,Leader,Lider,Líder,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_MEMBER_AVG_LEVEL,Average Level,Średni Poziom,Nivel medio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_MEMBER_NUM,No. of members,Liczba członków,Nº de miembros,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_NAME,Guild name,Nazwa Gildii,Nombre del gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_NAME_VALUE,This is a Guild Name,To jest nazwa Gildii,Este es un nombre de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_OFFER_EXP,Invest,Inwestuj,Invertir,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_REST_EXP,Needed Exp.,Wymagane PD,Exp. necesaria,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_UPLOAD_MARK,Upload Sign,Wgraj Logo,Cargar emblema,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_UPLOAD_SYMBOL,Upload Flag,Wgraj Flagę,Cargar bandera,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MARK,Guild Sign,Znak Gildii,Emblema de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_JOB,Class,Klasa,Clase,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_KNIGHT,Leader,Lider,Líder,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_LEVEL,Level,Poziom,Nivel,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Rango,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Invertido,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Piedra espiritual,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_NAME,Guild,Gildia,Gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Información de recursos,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Activo,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SKIlL_HEAL_GSP,Win back Power,Regeneracja,Recuperar poder,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SKILL_PASSIVE,Passive,Pasywne,Pasivo,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SKILL_POWER,Energy,Energia,Energía,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SKILL_STATE,Skills of the Guild,Umiejętności Gildii,Habilidades de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_SYMBOL,Guild Flag,Flaga Gildii,Bandera de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_ACCEPT,Accept War Declaration,Akceptuj Deklarację Wojny,Aceptar declaración de guerra,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_BATTLE_TYPE,Battle Type,Rodzaj bitwy,Tipo de batalla,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Bandera,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Declarar guerra de gremios,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Enemigo,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Campo,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WATER,Water,Woda,Agua,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Piedra de agua,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WITHDRAW,Take,Weź,Tomar,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_ATTACK_KEY,Attack: left mouse button or space bar,Atak: lewy przycisk myszy lub spacja,Atacar: botón izquierdo del mouse o barra espaciadora,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_CHANGE_PK_MODE,Change attack mode: change setting of left mouse button,Zmiana trybu ataku: zmień akcję Lewego Przycisku Myszy,Cambiar modo de ataque: cambia la configuración del botón izquierdo del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_CHARACTER_BUTTON1,"(Character Window, Inventory Window,","(Okno Postaci, Ekwipunek","(Ventana de personaje, Ventana de inventario,",client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_CHARACTER_BUTTON2,List of Friends and Options),oraz Lista Przyjaciół i Opcje),Lista de amigos y Opciones),client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON,Camera View: middle or right mouse button,Widok Kamery: środkowy lub prawy przycisk myszy.,Vista de cámara: botón central o derecho del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_CONTROL_CAMERA_BY_RIGHTBUTTON,Camera View: right or middle mouse button,Widok Kamery: prawy oraz środkowy przycisk myszy.,Vista de cámara: botón derecho o central del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_EXP,Experience,Doświadczenie,Experiencia,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_FURY,Ingame Item Shop,Sklep z Przedmiotami w grze,Item-Shop del juego,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_GUILD_WINDOW,Open Guild Window: Alt + G,Otwórz Okno Gildii: ALT + G,Abrir ventana de gremio: Alt + G,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_HELP,Display help: H,Wyświetl Pomoc: H,Mostrar ayuda: H,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_HP,Hit Points (HP),Punkty Życia (PŻ),Puntos de Vida (HP),client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_MESSENGER_WINDOW,Open Friends List: Alt + M,Otwórz Listę Przyjaciół: ALT + M,Abrir lista de amigos: Alt + M,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_MOUSE_LEFT,Function of the Left Mouse button,Funkcja Lewego Przycisku Myszy,Función del botón izquierdo del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_MOUSE_RIGHT,Function of the Right Mouse button,Funkcja Prawego Przycisku Myszy,Función del botón derecho del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_MOVE_KEY,"Panel: W, A, S, D or arrow keys","Sterowanie: W, S, A, D lub klawisze strzałek","Desplazamiento: W, A, S, D o teclas de dirección",client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_CHARACTER,Open character window: C,Otwórz Okno Postaci: C,Abrir ventana de personaje: C,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_CHAT,Open chat window: Enter,Otwórz Okno Chatu: Enter,Abrir ventana de chat: Enter,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_INVENTORY,Open inventory window: I,Otwórz Okno Ekwipunku: I,Abrir ventana de inventario: I,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_LOG,Open Chatlog: L,Otworzenie Panelu Wiadomości: L,Abrir registro de chat: L,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_MINIMAP,Open mini map: Shift + M,Otwórz Mini Mapę: Shift + M,Abrir minimapa: Shift + M,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_QUEST,Open Task Window: N,Otwórz Okno Zadań: N,Abrir ventana de tareas: N,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_SKILL,Open Skill Window: V,Otwórz Okno Umiejętności: V,Abrir ventana de habilidades: V,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_WHISPER,Open Whisper Window: Shift + Enter,Otwórz Okno Szeptania: Shift + Enter,Abrir ventana de susurros: Shift + Enter,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_OPEN_ZONEMAP,Open Large Map: M,Otwórz Podgląd Mapy: M,Abrir mapa grande: M,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_PICK_ITEM,Collect Items: ^ or Y or left mouse button,"Podnoszenie Przedmiotów: ` (tylda), Z lub Lewy Przycisk Myszki",Recoger objetos: ^ o Y o botón izquierdo del mouse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_QUICKSLOT,Fast Access Fields,Pole Szybkiego Dostępu,Ranuras de acceso rápido,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_SCREEN_CAPTURE,"Save Screenshot: Print (will be saved in file ""Metin2\screenshot"")","Zapisz Screenshota:  Print (Screen będzie zapisany w podkatalogu gry ""Metin2\screenshot"")","Guardar captura de pantalla: Impr Pant (se guardará en la carpeta ""Metin2\screenshot"")",client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_SHOW_ALL_NAME,Display Names: Alt,Pokaż Nazwy: Alt,Mostrar nombres: Alt,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_SP,Spell Points (SP),Punkty Energii (PE),Puntos de Hechizo (SP),client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,Botones del sistema,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,Página de inventario 1,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,Página de inventario 2,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,Inventario,client: window texts (uiScriptLocale),new
+c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Item Shop,client: window texts (uiScriptLocale),new
+c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,"El archivo está dañado. Por favor, vuelve a instalarlo. Presiona ESC ahora.",client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_CONNECT,Connect,Połącz,Conectar,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,Te estás conectando al servidor,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_DEFAULT_SERVERADDR,"Servername, Channel 1","Nazwa Serwera, Kanał 1","Nombre de servidor, Canal 1",client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,Salir,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,Elige lugar para emitir factura.,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,Elegir,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,Salir,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_SELECT_OK,OK,OK,OK,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,Elige servidor,client: window texts (uiScriptLocale),new
+c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,Contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,Almacén de la Item Shop,client: window texts (uiScriptLocale),new
+c:locale_interface:MARKET_TITLE,Load,Ładuj,Cargar,client: window texts (uiScriptLocale),new
+c:locale_interface:MARKLIST_REFRESH,Refresh,Odśwież,Actualizar,client: window texts (uiScriptLocale),new
+c:locale_interface:MARKLIST_TITLE,Register Guild Sign,Zarejestruj Znak Gildii,Registrar emblema de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSAGE,This is a Message,To jest Wiadomość,Esto es un mensaje,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_ADD_FRIEND,Add friend,Dodaj przyjaciela,Añadir amigo,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_DELETE_FRIEND,Delete friend,Usuń,Eliminar amigo,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_MOBILE,Send Text Message,Wyślij SMS,Enviar mensaje de texto,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_OPEN_GUILD,Open Guild Window,Otwórz Okno Gildii,Abrir ventana de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_TITLE,Friends,Przyjaciele,Amigos,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_USE_GUILD_MOVE_SKILL,Use the Guild Moving Skill,Użyj Umiejętności Przemieszczania Gildii,Usar habilidad de teletransporte de gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_WHISPER,Whisper,Szept,Susurrar,client: window texts (uiScriptLocale),new
+c:locale_interface:MINIMIZE,Minimize,Minimalizuj,Minimizar,client: window texts (uiScriptLocale),new
+c:locale_interface:MOUSEBUTTON_ATTACK,Attack,Atak,Ataque,client: window texts (uiScriptLocale),new
+c:locale_interface:MOUSEBUTTON_AUTO_ATTACK,Attack automatically,Auto Atak,Atacar automáticamente,client: window texts (uiScriptLocale),new
+c:locale_interface:MOUSEBUTTON_CAMERA,Camera,Kamera,Cámara,client: window texts (uiScriptLocale),new
+c:locale_interface:MOUSEBUTTON_SKILL,Skills,Umiejętności,Habilidades,client: window texts (uiScriptLocale),new
+c:locale_interface:MUSICLIST_TITLE,Music Choices,Wybór muzyki,Opciones de música,client: window texts (uiScriptLocale),new
+c:locale_interface:NO,No,Nie,No,client: window texts (uiScriptLocale),new
+c:locale_interface:OK,OK,OK,OK,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME,Name,Nazwa,Nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_OFF,Limited,Ograniczony,Limitada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_ON,Always,Zawsze,Siempre,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK,Block,Blokuj,Bloquear,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_EXCHANGE,Trade,Handel,Comercio,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_FRIEND,Friends,Przyjaciele,Amigos,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_GUILD,Guild,Gildia,Gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_PARTY,Group,Grupa,Grupo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_PARTY_REQUEST,Request,Prośba,Solicitud,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_BLOCK_WHISPER,Whisper,Szept,Susurrar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_CAMERA_DISTANCE,Camera,Kamera,Cámara,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_CAMERA_DISTANCE_LONG,Far,Dalej,Lejos,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_CAMERA_DISTANCE_SHORT,Close,Bliżej,Cerca,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_DELETE_MOBILE_BUTTON,Delete Cell Phone Number,Usuń Numer Telefonu Komórkowego,Eliminar número de teléfono celular,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_EFFECT,Hit Info,Info o traf.,Info de golpes,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG,Fog,Mgła,Niebla,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_DENSE,Dense,Gęsta,Densa,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_LIGHT,Light,Światło,Ligera,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_MIDDLE,Middle,Środek,Media,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_INPUT_MOBILE_BUTTON,Enter Cell Phone Number,Wybierz Numer Telefonu Komórkowego,Introduce número de teléfono celular,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MOBILE,Cell Phone,Telefon Komórkowy,Teléfono celular,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MUSIC,Music,Muzyka,Música,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Cambiar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Música estándar de Metin2,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Color de nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Color de reino,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,Modo PvP,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Libre,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Puedes atacar a todos los jugadores.,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_GUILD,Guild,Gildia,Gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_GUILD_TOOLTIP,You can attack players outside your guild.,Możesz atakować wszystkich graczy oprócz Członków swojej Gildii.,Puedes atacar a jugadores fuera de tu gremio.,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_PEACE,Peace,Pokój,Paz,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_PEACE_TOOLTIP,You cannot attack players from your kingdom.,Nie możesz zaatakować żadnego gracza swojego królestwa.,No puedes atacar a jugadores de tu mismo reino.,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_REVENGE,Hostile,Wrogi,Hostil,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_PVPMODE_REVENGE_TOOLTIP,You can attack players with a negative rank.,"Możesz atakować tylko tych, którzy mają negatywną Rangę.",Puedes atacar a jugadores con rango negativo.,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SALESTEXT,Shop name,Nazwa sklepu,Nombre de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SALESTEXT_VIEW_OFF,Hide,Ukryj,Ocultar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SALESTEXT_VIEW_ON,Show,Pokaż,Mostrar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SOUND,Sound Effects,Efekty,Efectos de sonido,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TARGET_BOARD,Target Menu,Menu Celu,Menú de objetivo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Cerrar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Mostrar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TILING,Graphic,Grafika,Gráficos,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Aplicar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_TITLE,Options,Opcje,Opciones,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Línea de chat,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Ocultar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_CHAT_ON,Show,Pokaż,Mostrar,client: window texts (uiScriptLocale),new
+c:locale_interface:PARTY_MEMBER_INFO_NAME,Name of the Group member,Nazwa Członka Grupy,Nombre del miembro del grupo,client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_DESC_1,Enter your password,"Podaj hasło,",Introduce tu contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_DESC_2,to open the storeroom.,by otworzyć magazyn.,para abrir el almacén.,client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_DESC_3,Already changed your password?,Zmieniłeś/aś już hasło?,¿Ya cambiaste tu contraseña?,client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_DESC_4,"If not, your password will be '000000'.","Jeśli nie, to Twoim hasłem jest: ""000000"".","Si no, tu contraseña por defecto será ""000000"".",client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_DESC_5,Change your password in storage.,Zmień swoje hasło w magazynie.,Cambia tu contraseña dentro del almacén.,client: window texts (uiScriptLocale),new
+c:locale_interface:PASSWORD_TITLE,Saving Password,Zapamiętywanie Hasła,Guardando contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:PICK_MONEY_TITLE,Divide,Podziel,Dividir,client: window texts (uiScriptLocale),new
+c:locale_interface:PRIVATE_SHOP_CLOSE_BUTTON,Close shop,Zamknij Sklep,Cerrar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:PRIVATE_SHOP_NAME,Name of the shop,Nazwa Sklepu,Nombre de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:PRIVATE_SHOP_TITLE,Open private shop,Otwórz własny Sklep,Abrir tienda privada,client: window texts (uiScriptLocale),new
+c:locale_interface:REFINE_COST,Upgrading Costs: 0 Yang,Ulepszanie Kosztuje: 0 Yang,Costos de mejora: 0 Yang,client: window texts (uiScriptLocale),new
+c:locale_interface:REFINE_INFO,Chance to upgrade successfully: 100%,Szansa na udane Ulepszenie: 100%,Probabilidad de mejora exitosa: 100%,client: window texts (uiScriptLocale),new
+c:locale_interface:REFINE_MONEY,Refinement fee,Opłata za uszlachetnienie,Tasa de refinamiento,client: window texts (uiScriptLocale),new
+c:locale_interface:REFINE_SELECT,Refinement,Uszlachetnienie,Refinamiento,client: window texts (uiScriptLocale),new
+c:locale_interface:REFINE_TTILE,Upgrades,Ulepszanie,Mejoras,client: window texts (uiScriptLocale),new
+c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,Reiniciar aquí,client: window texts (uiScriptLocale),new
+c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,Reiniciar en la ciudad,client: window texts (uiScriptLocale),new
+c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,Cambiar contraseña,client: window texts (uiScriptLocale),new
+c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,Almacén,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_CREATE,Create,Stwórz,Crear,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_DELETE,Delete,Usuń,Eliminar,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,Nombre del reino,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_EXIT,Close,Zamknij,Cerrar,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_LEVEL,Level,Poziom,Nivel,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień Duszy,Seleccionar piedra espiritual,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_NAME,Name,Nazwa,Nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,Sin Gremio,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,Tiempo de juego (min.),client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_SELECT,Start,Start,Comenzar,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_SP,SP,PE,SP,client: window texts (uiScriptLocale),new
+c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,Elegir título,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_BUY,Buy,Kup,Comprar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SELL,Sell,Sprzedaj,Vender,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_TITLE,Shop,Sklep,Tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SKILL_SUPPORT_TITLE,Standard Skills,Standardowe Umiejętności,Habilidades estándar,client: window texts (uiScriptLocale),new
+c:locale_interface:STEP,Clarity grade,Stopień jakości,Grado de claridad,client: window texts (uiScriptLocale),new
+c:locale_interface:STEP_SELECT,Clarity grade,Stopień jakości,Grado de claridad,client: window texts (uiScriptLocale),new
+c:locale_interface:STRENGTH,Strengthen,Wzmocnienie,Fortalecer,client: window texts (uiScriptLocale),new
+c:locale_interface:STRENGTH_SELECT,Level,Poziom,Nivel,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEMOPTION_TITLE,System Options,Opcje Systemowe,Opciones de sistema,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,Cambiar personaje,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,Salir del juego,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_HELP,Help,Pomoc,Ayuda,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,Cerrar sesión,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Tienda de objetos,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,Opciones de sistema,client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],Personaje [C/V/B/N],client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],Ventana de chat [Enter],client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_DISABLE,Deactivated,Dezaktywowano,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_DRAGON_SOUL,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Alquimia de piedras dragón,client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_EXPAND,Expand window,Powiększ okno,Expandir ventana,client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_INVENTORY,Inventory [I],Ekwipunek [I],Inventario [I],client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_MESSENGER,Friends [Alt+M],Przyjaciele [Alt+M],Amigos [Alt+M],client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_NEXT_QUICKSLOT,"Next Fast Access Field [Shift+Number, Alt]",Następne Szybkie Pole Dostępu [Alt],"Siguiente barra de acceso rápido [Shift+Número, Alt]",client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Number],Poprzednie Szybkie Pole Dostępu,Anterior barra de acceso rápido [Shift+Número],client: window texts (uiScriptLocale),new
+c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],Opciones [ESC],client: window texts (uiScriptLocale),new
+c:locale_interface:WHISPER_BAN,Block,Blokuj,Bloquear,client: window texts (uiScriptLocale),new
+c:locale_interface:WHISPER_NAME,Whisper,Szept,Susurrar,client: window texts (uiScriptLocale),new
+c:locale_interface:WHISPER_SEND,Send,Wyślij,Enviar,client: window texts (uiScriptLocale),new
+c:locale_interface:YES,Yes,Tak,Sí,client: window texts (uiScriptLocale),new
+c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,Mapa grande,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_STATUS_TITLE,Character Status,,Estado del personaje,client: window texts (uiScriptLocale),new
+c:locale_interface:CHARACTER_ATTRIBUTES_TITLE,Attributes,,Atributos,client: window texts (uiScriptLocale),new
+c:locale_interface:ITEMSHOP_CATEGORIES,Categories,,Categorías,client: window texts (uiScriptLocale),new
+c:locale_interface:ITEMSHOP_ACCOUNT_STATE,Account,,Cuenta,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_GROUP,Group,Grupuj,Grupo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SHOW_DAMAGE_TARGET,Target,Cel,Objetivo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_SHOP,Shop display,Widok sklep,Visualización de tiendas,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_SHOP_ON,Show,Pokaż,Mostrar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_SHOP_FOUND,Search only,Wyszukanie,Solo buscar,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SALESTEXT_RANGE,Shop range,Zakres sklepów,Rango de tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SHADOW,Shadow quality,Jakość cieni,Calidad de sombras,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MOB_INFO,Monster info,Info potw.,Info de monstruo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MOB_INFO_AGGR,Aggressive,Agresywny,Agresivo,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_MOB_INFO_LEVEL,Level,Poziom,Nivel,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NIGHT_MODE,Night,Noc,Noche,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NIGHT_MODE_ON,On,WŁ,Activado,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_NIGHT_MODE_OFF,Off,WYŁ,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ENV_EFFECT,Environment,Otoczenie,Entorno,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ENV_EFFECT_ON,On,WŁ,Activado,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_ENV_EFFECT_OFF,Off,WYŁ,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_MODE,Snowfall,Opady śniegu,Nevada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_MODE_ON,On,WŁ,Activada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_MODE_OFF,Off,WYŁ,Desactivada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE,Snow,Śnieg,Nieve,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_ON,On,WŁ,Activada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_OFF,Off,WYŁ,Desactivada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_MODE,Fog,Mgła,Niebla,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_MODE_ON,On,Włącz,Activada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_FOG_MODE_OFF,Off,Wyłącz,Desactivada,client: window texts (uiScriptLocale),new
+c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Distancia de visión,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Modo nocturno,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Activado,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Activa el modo nocturno en la mayoría de los mapas.,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,La noche dura desde las 22:00 hasta las 06:00.,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Utiliza el reloj de tu computadora.,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Texto de misiones,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Rápido,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Instantáneo,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Info de efectos,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_0,Left,Na Lewo,Izquierda,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_1,Right,Na Prawo,Derecha,client: window texts (uiScriptLocale),new
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_2,Hide,Ukryj,Ocultar,client: window texts (uiScriptLocale),new
+c:locale_interface:BOT_TITLES_LABEL,Bot titles,,Títulos de bots,client: window texts (uiScriptLocale),new
+c:locale_interface:BOT_TITLES_PERSONALITY,Personality,,Personalidad,client: window texts (uiScriptLocale),new
+c:locale_interface:BOT_TITLES_OFF,Off,,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_VERSION,Version: %d.%d.%d%s,,Versión: %d.%d.%d%s,client: window texts (uiScriptLocale) | keep: %d %d %d %s,new
+c:locale_interface:SYSTEM_ESCAPE,Unstuck,Uwolnij się,Desatascar,client: window texts (uiScriptLocale),new
+c:locale_interface:SYSTEM_MOVE_CHANNEL,Change Channel,Zmień kanał,Cambiar de canal,client: window texts (uiScriptLocale),new
+c:locale_interface:HORSE_INVENTORY,Saddlebags,Juki Konne,Alforjas,client: window texts (uiScriptLocale),new
+c:locale_interface:POCKET_DEPOSIT,Item Shop Storage,Depozyt ItemShop,Almacén de la tienda de objetos,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE,Shop,Sklep,Tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_SORT_STACK,Stack and sort,,Apilar y ordenar,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_3,Inventory page 3,,Página de inventario 3,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_4,Inventory page 4,,Página de inventario 4,client: window texts (uiScriptLocale),new
+c:locale_interface:INVENTORY_AUTOSTACK,Stack all items,Połącz wszystkie przedmioty,Apilar todos los objetos,client: window texts (uiScriptLocale),new
+c:locale_interface:REPORT_PLAYER_TITLE,Report Player,Zgłoś gracza,Reportar jugador,client: window texts (uiScriptLocale),new
+c:locale_interface:REPORT_PLAYER_REASON,Reason:,Powód zgłoszenia:,Motivo:,client: window texts (uiScriptLocale),new
+c:locale_interface:REPORT_PLAYER_SUBMIT,Report,Zgłoś,Reportar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_NAME,Shop name,Nazwa sklepu,Nombre de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_TIMEOUT,Shop duration,Czas trwania sklepu,Duración de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE,Create,Stwórz,Crear,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_PRICE,Cost: ,Koszt: ,Costo:,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_DAY,day,dzień,día,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_DAYS,days,dni,días,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_HOUR,hour,godz.,hora,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_HOURS,hours,godz.,horas,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_NORMAL,Normal shop,Zwykły sklep,Tienda normal,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE,%d hours / %s,%d godz. | %s,%d horas / %s,client: window texts (uiScriptLocale) | keep: %d %s,new
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE_DAYS,%d days / %s,%d dni | %s,%d días / %s,client: window texts (uiScriptLocale) | keep: %d %s,new
+c:locale_interface:SHOP_CREATE_SELECT_NORMAL,Normal shop / %s,Zwykły sklep | %s,Tienda normal / %s,client: window texts (uiScriptLocale) | keep: %s,new
+c:locale_interface:SHOP_CREATE_SELECT_DEFAULT,Select duration,Wybierz czas,Seleccionar duración,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_NAME_EMPTY,Please enter a shop name.,Proszę wpisać nazwę sklepu,"Por favor, introduce un nombre para la tienda.",client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_TIMEOUT_EMPTY,Please select a shop duration.,Proszę wybrać czas trwania sklepu,"Por favor, selecciona una duración para la tienda.",client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_WINDOW_NAME,Your Shops,Twoje sklepy,Tus tiendas,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_WINDOW_CREATE,Create Shop,Tworzenie sklepu,Crear tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_GET_YANG,Collect Yang,Pobierz Yang,Recoger Yang,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CHANGE_NAME,Rename,Zmień nazwę,Renombrar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_ENTER_NEW_NAME,Enter a new name,Wpisz nową nazwę,Introduce un nuevo nombre,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CLOSE,Close shop,Zamknij sklep,Cerrar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CLOSE_QUEST,"Are you sure you want to close shop ""%s""?","Czy jesteś pewny że chcesz zamknąć sklep ""%s""?","¿Estás seguro de que deseas cerrar la tienda ""%s""?",client: window texts (uiScriptLocale) | keep: %s,new
+c:locale_interface:SHOP_OPEN,Open shop,Otwórz sklep,Abrir tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TITLE,Manage Shop,Zarządzaj sklepem,Administrar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_EDIT,Edit,Edytuj,Editar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_REMOVE_ITEM,Remove,Usuń,Retirar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CHANGE_PRICE,Change price,Zmień cenę,Cambiar precio,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_EDIT_SHOP_WINDOW,Edit Shop,Edytowanie sklepu,Editar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_EDIT_SHOP_CANCEL,Cancel editing,Anuluj edycje,Cancelar edición,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SELECT,Select,Wybierz,Seleccionar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_REMOVE_ITEM_QUEST,Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten przedmiot?,¿Estás seguro de que deseas retirar este objeto?,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_NOT_EARNED_YANG,This shop has not earned any Yang yet.,Sklep nie zarobił żadnych Yang do tej pory!,Esta tienda aún no ha ganado Yang.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_YANG_QUEST,"Collect %s from shop ""%s""?","Czy jesteś pewny że chcesz pobrać %s ze sklepu ""%s"" ?","¿Recoger %s de la tienda ""%s""?",client: window texts (uiScriptLocale) | keep: %s %s,new
+c:locale_interface:SHOP_INFORMATION,Shop Information,Informacje o sklepie ,Información de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_HISTORY_TITLE,Shop History,Historia Sklepu,Historial de la tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_HISTORY_CLEAR,Clear history.,Wyczyść historię.,Limpiar historial.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_COLUMN_FIRST,Action,Akcja,Acción,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_COLUMN_SECOND,Date,Data,Fecha,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SEARCH_ATTR,With bonus,Z bonusem,Con bonificación,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SEARCH,Search,Szukaj,Buscar,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SEARCH_TITLE,Item Search,Wyszukiwarka przedmiotów,Buscar objeto,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SEARCH_TOOLTIP,Item Search [F5],Wyszukiwarka przedmiotów [F5],Buscar objeto [F5],client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SEARCH_CLEAR,Clear,Wyczyść,Limpiar,client: window texts (uiScriptLocale),new
+c:locale_interface:ATTRIBUTE_LIST_TITLE,Character Bonuses,Bonusy postaci,Bonificaciones de personaje,client: window texts (uiScriptLocale),new
+c:locale_interface:POTION_RECHARGE_TITLE,Refill Elixir,Ładowanie Eliksiru,Rellenar elíxir,client: window texts (uiScriptLocale),new
+c:locale_interface:POTION_RECHARGE_BUTTON_TOOLTIP,Refill elixir,Naładuj eliksir,Rellenar elíxir,client: window texts (uiScriptLocale),new
+c:locale_interface:SOCKET_EXTRACT_TITLE,Remove Spirit Stone,Wyjmij Kamień Duszy,Retirar piedra espiritual,client: window texts (uiScriptLocale),new
+c:locale_interface:SOCKET_EXTRACT_BUTTON,Remove,Wyjmij,Retirar,client: window texts (uiScriptLocale),new
+c:locale_interface:MESSENGER_BLOCK,Block player,Zablokuj gracza,Bloquear jugador,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TITLE,Settings,Ustawienia,Ajustes,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RESOLUTION,Resolution,Rozdzielczość,Resolución,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SOUND,Sound,Dźwięk,Sonido,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_WINDOW,Display mode,Tryb ekranu,Modo de pantalla,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_CUSTOM_RESOLUTION,Custom resolution,Własna Rozdzielczość,Resolución personalizada,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_FONT,Font,Czcionka,Fuente,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_WINDOW_WINDOWED,Windowed,Okno,En ventana,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_WINDOW_FULL,Fullscreen,Pełny ekran,Pantalla completa,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_WINDOW_FULL_WINDOWED,Borderless,Pełne okno,Sin bordes,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SAVE,Save,Zapisz,Guardar,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE,View distance,Zakres rysowania,Distancia de visión,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL1,Very short,Bardzo krótki,Muy corta,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Corta,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Media,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Larga,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Muy larga,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Máxima,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Anti-aliasing,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Algunos cambios requieren reiniciar el juego. ¿Continuar?,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SCALE_MODE,Interface scaling,Skaluj Interfejs,Escalado de interfaz,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SCALE_MODE_NONE,Off,Nie skaluj,Desactivado,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SCALE_MODE_YES,On,Skaluj,Activado,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOWS,Shadows,Cienie,Sombras,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_NONE,None,Brak,Ninguna,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND,Terrain,Teren,Terreno,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_AND_SOLO,Terrain and player,Teren i Gracz,Terreno y jugador,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, Gracz i NPC","Terreno, jugador y NPCs",client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Baja,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Media,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Alta,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Texturas,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Por defecto,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Texturas clásicas,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TEXTURE_2,Classic effects,Stare efekty,Efectos clásicos,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_TEXTURE_3,Classic textures and effects,Stare tekstury i efekty,Texturas y efectos clásicos,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_LANGUAGE,Language,Język,Idioma,client: window texts (uiScriptLocale),new
+c:locale_interface:COMB_APPEARANCE,Costume 1,Kostium 1,Atuendo 1,client: window texts (uiScriptLocale),new
+c:locale_interface:COMB_ATTRIBUTE,Costume 2,Kostium 2,Atuendo 2,client: window texts (uiScriptLocale),new
+c:locale_interface:COMB_SKILLBOOK_TILE,Exchange books,Wymień księgi,Intercambiar libros,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_WAR_EXIT,Leave war,Opuść wojnę,Abandonar guerra,client: window texts (uiScriptLocale),new
+c:locale_interface:GUILD_INFO_WITHDRAW_GOLD,Withdraw,Wypłać,Retirarse,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_STATS,Open Statistics: Y,Otwórz Okno Statystyk: Y,Abrir estadísticas: Y,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_EARNED_YANG,Yang earned: ,Zarobionych yang: ,Yang ganado:,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_SOLD_ITEMS,Items sold: ,Sprzedanych przedmiotów: ,Objetos vendidos:,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_REST_ITEMS,Items remaining: ,Pozostałe przedmioty: ,Objetos restantes:,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_TIME_TO_CLOSE,Closes in: ,Pozostało do zamknięcia: ,Cierra en:,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_WINDOW_NAME,Your Gifts,Twoje podarki,Tus regalos,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_PREV_PAGE,Previous page,Poprzednia strona,Página anterior,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_NEXT_PAGE,Next page,Następna strona,Siguiente página,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_FROM,Sender,Wysłał,Remitente,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_REASON,Reason,Powód,Motivo,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_GET_ALL,Collect all,Odbierz wszystkie,Recoger todo,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_GET_QUEST,"Collect the item ""%s""?","Czy jesteś pewny że chcesz odebrać przedmiot ""%s""?","¿Recoger el objeto ""%s""?",client: window texts (uiScriptLocale) | keep: %s,new
+c:locale_interface:GIFT_GET_QUEST_ALL,Collect all items?,Czy jesteś pewny że chcesz odebrać wszystkie przedmioty ?,¿Recoger todos los objetos?,client: window texts (uiScriptLocale),new
+c:locale_interface:GIFT_MONEY_DESC,Your shop earnings.,Twoje zarobione Yangi z sklepu.,Tus ganancias de la tienda.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_REOPEN,Reopen shop,Otwórz ponownie,Reabrir tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_LOGS,Shop history,Historia sklepu,Historial de tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SHOP,Edit shop,Edytuj sklep,Editar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_FIND_SHOP,Find shop,Znajdź sklep,Buscar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SIGN,Rename shop,Edytuj nazwę,Renombrar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_CLOSE_SHOP,Close shop,Zamknij sklep,Cerrar tienda,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW,Withdraw Yang,Wypłać Yang,Retirar Yang,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW_ITEMS,Collect all items,Odbierz wszystkie przedmioty,Recoger todos los objetos,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_CLOSED,Closed,Zamknięty,Cerrada,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_NEAR_CLOSED,under %d minutes,poniżej %d minut,menos de %d minutos,client: window texts (uiScriptLocale) | keep: %d,new
+c:locale_interface:SHOP_PREMIUM_SLOT,Unlock these slots with a Premium Shop.,Te miejsca odblokujesz za pomocą Sklepu Premium.,Desbloquea estas ranuras con una Tienda Premium.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_LOCKED_SLOT,Unlock these slots through in-game activities.,Te miejsca odblokujesz aktywnościami w grze.,Desbloquea estas ranuras mediante actividades en el juego.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_OWNER_ONLINE,The owner is online. Send a whisper.,Właściciel sklepu jest online. Wyślij PW.,El dueño está en línea. Envía un susurro.,client: window texts (uiScriptLocale),new
+c:locale_interface:SHOP_OWNER_OFFLINE,The owner is offline.,Właściciel sklepu jest offline.,El dueño está desconectado.,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_FISHING_GAME1,Control the fish with the space bar.,Kontrolujesz rybkę używając spacji,Controla el pez con la barra espaciadora.,client: window texts (uiScriptLocale),new
+c:locale_interface:HELP_FISHING_GAME2,Keep the fish inside the area.,Rybka nie może wyjść poza pole,Mantén el pez dentro del área.,client: window texts (uiScriptLocale),new
+c:locale_interface:REFRESH,Refresh,Odśwież,Actualizar,client: window texts (uiScriptLocale),new
+c:locale_interface:SEARCH_ITEM,Search for an item,Wyszukaj przedmiot,Buscar un objeto,client: window texts (uiScriptLocale),new
+c:locale_interface:CRAFT_QUANTITY,Quantity,Ilość,Cantidad,client: window texts (uiScriptLocale),new
+c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Fabricación,client: window texts (uiScriptLocale),new
+c:locale_interface:CRAFT,Craft,Wytwórz,Fabricar,client: window texts (uiScriptLocale),new
+c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Términos de uso,client: window texts (uiScriptLocale),new
+c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,He leído y acepto las reglas.,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),new
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),new
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),new
+c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Guardar,client: window texts (uiScriptLocale),new
+c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Conectar,client: window texts (uiScriptLocale),new
+c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Eliminar,client: window texts (uiScriptLocale),new
+c:locale_interface:BUTTON_HOMEPAGE,Website,Strona WWW,Sitio web,client: window texts (uiScriptLocale),new
+c:locale_interface:CLASS_INFO_TITLE,Available Classes,Dostępne profesje,Clases disponibles,client: window texts (uiScriptLocale),new
+c:locale_interface:CLASS_INFO_TOOLTIP,(Hover over an icon),(Najedź myszką na ikonę),(Pasa el cursor sobre un ícono),client: window texts (uiScriptLocale),new
+c:locale_interface:PLAYER_STATS_TITLE,Statistics,Statystyki,Estadísticas,client: window texts (uiScriptLocale),new
+c:locale_interface:PLAYER_STATS_GENERAL,General,Ogólne,General,client: window texts (uiScriptLocale),new
+c:locale_interface:PLAYER_STATS_CURRENT_SESSION,Current session,Obecna sesja,Sesión Actual,client: window texts (uiScriptLocale),new
+c:locale_interface:PLAYER_STATS_RESET_SESSION,Reset,Wyzeruj,Restablecer,client: window texts (uiScriptLocale),new
+c:locale_interface:GAMEMASTER_WHIPSER_TITLE,You are talking to a |cffffb514Game Master|r.,Rozmawiasz z |cffffb514Mistrzem Gry|r.,Estás hablando con un |cffffb514Game Master|r.,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,new
+c:locale_interface:GAMEMASTER_WHIPSER_TIP1,- Ask your question directly.,"- Zadawaj pytania od razu, bez wstępów.",Haz tu pregunta directamente.,client: window texts (uiScriptLocale),new
+c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,- Pisz krótko i konkretnie.,Mantén tu mensaje breve y claro.,client: window texts (uiScriptLocale),new
+c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,"Por favor, espera pacientemente una respuesta.",client: window texts (uiScriptLocale),new
+c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,Mantenimiento,client: window texts (uiScriptLocale),new
+c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,Se ha programado una interrupción del servicio.,client: window texts (uiScriptLocale),new
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Pedimos disculpas por las molestias.,client: window texts (uiScriptLocale),new
