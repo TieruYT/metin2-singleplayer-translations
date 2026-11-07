@@ -16,13 +16,13 @@ c:locale_interface:GM_BAN_WHY,WHY?!,,DE CE?!,client: window texts (uiScriptLocal
 c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,Introduceti un motiv...,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_BUTTON,Ban,,Ban,client: window texts (uiScriptLocale),check
 c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,Timp ramas: 30s,client: window texts (uiScriptLocale),done
-c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,check
+c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Nume: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,Cod: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,Introduceti codul CAPTCHA,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,Ramas: 45s,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,Cod:,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,Incercari ramase: 3,client: window texts (uiScriptLocale),done
-c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),check
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,DC,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,DM,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,Confirmati cumpararea,client: window texts (uiScriptLocale),done
@@ -102,7 +102,7 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MOUNT,Mount,,Animal de calar
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ALCHEMY,Alchemy,,Alchimie,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_BOOK,Book,,Carte,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_STONE,Stone,,Piatra,client: offline shop and market,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MINERALS,Mineral,,Mineral,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MINERALS,Mineral,,Minerale,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_FISH,Fish,,Peste,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_SWORD,Sword,,Sabie,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_TWOHANDED,Two Hand Sword,,Sabie cu doua maini,client: offline shop and market,done
@@ -139,7 +139,7 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% sau
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% sau mai mult,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% sau mai mult,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,doar 25%,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Stralucitor,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Rar,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,Antic,client: offline shop and market,done
@@ -246,7 +246,7 @@ c:wiki_game:WIKI_ALL_CLASSES,All classes,Wszystkie,Toate clasele,client: the in-
 c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,Obiecte,client: the in-game Wiki,done
 c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,Disponibil de la,client: the in-game Wiki,done
 c:wiki_game:WIKI_BACK,Back,Wstecz,Inapoi,client: the in-game Wiki,done
-c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,check
+c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,done
 c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bossi,client: the in-game Wiki,done
 c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,Bossi de eveniment,client: the in-game Wiki,done
 c:wiki_game:WIKI_CATEGORY,Category,Kategoria,Categorie,client: the in-game Wiki,done
@@ -263,7 +263,7 @@ c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Costum,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Costume,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Par,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Esarfa,client: the in-game Wiki,done
-c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,check
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
 c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,Daune: %d - %d,client: the in-game Wiki | keep: %d %d,done
 c:wiki_game:WIKI_DROP,Drop,Drop,Arunca,client: the in-game Wiki,done
 c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,Lista de drop pentru %s,client: the in-game Wiki | keep: %s,done
@@ -283,20 +283,20 @@ c:wiki_game:WIKI_EQUIPMENT_HELMET,Helmets,Hełmy,Coifuri,client: the in-game Wik
 c:wiki_game:WIKI_EQUIPMENT_NECKLACE,Necklace,Naszyjniki,Colier,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHIELD,Shields,Tarcze,Scuturi,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHOES,Shoes,Buty,Pantofi,client: the in-game Wiki,done
-c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,check
+c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talizman,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Arme,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Experienta,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Extinde,client: the in-game Wiki,done
 c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,Sanse de baza din fisierele serverului - Ctrl+Alt+clic dreapta deschide pagina in browser,client: the in-game Wiki,done
-c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
 c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,PV max.: %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Informatii de imbunatatire de la %s,client: the in-game Wiki | keep: %s,done
-c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
 c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Numele obiectului,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,done
 c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Saman,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,done
 c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Razboinic,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Nivel %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Nivel %d,client: the in-game Wiki | keep: %d,done
@@ -331,7 +331,7 @@ c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,Cufar,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,Drop dupa rang si nivel,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,Creare,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,Pescuit,client: the in-game Wiki,done
-c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,Monstru,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,Misiune sau recompensa,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,Rafinare,client: the in-game Wiki,done
@@ -341,16 +341,16 @@ c:wiki_game:WIKI_STATICS_INFO_DEFENSES,Defenses:,Odporności:,Aparari:,client: t
 c:wiki_game:WIKI_STATICS_INFO_DMG,Min. Dmg:%d | Max. Dmg:%d | Max HP: %d,Min. obrażenia: %d | Maks. obrażenia: %d | Maks. PZ: %d,Daune min.:%d | Daune max.:%d | PV max.: %d,client: the in-game Wiki | keep: %d %d %d,done
 c:wiki_game:WIKI_STATICS_INFO_TYPE,Genus: %s | Sub-genus: %s,Rodzaj: %s | Podrodzaj: %s,Gen: %s | Subgen: %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_STATICS_INFO_YNG,Min. Yang:%d | Max. Yang:%d | EXP: %d,Min. Yang: %d | Maks. Yang: %d | EXP: %d,Yang min.:%d | Yang max.:%d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
-c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,Exp,client: the in-game Wiki,check
+c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,Exp,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_HP,HP,PŻ,PV,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Nivel,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Surse,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,done
 c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Sisteme,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,done
 c:wiki_game:WIKI_TAG_KING,KING,KRÓL,REGE,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
-c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,done
 c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Sistemul wiki,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Bijuterii,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alchimie,client: the in-game Wiki,done
@@ -370,19 +370,19 @@ c:wiki_game:WIKI_UPGRADE_COSTS,Next Item,Następny poziom,Obiectul urmator,clien
 c:wiki_game:WIKI_YANG_COSTS,Yang costs,Koszt Yang,Costuri in Yang,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_NOTE,Chance for a character at most 1 level above the monster.,Szansa dla postaci najwyżej 1 poziom wyżej od potwora.,Sansa pentru un personaj cu cel mult 1 nivel peste monstru.,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_TABLE,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.","Wyżej o 5 poz.: 92%, o 10: 50% (boss, metin: 30%), o 15+: 1%.","Cu 5 niveluri peste: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.",client: the in-game Wiki,done
-c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guides,client: the in-game Wiki,check
-c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Rules and tips,client: the in-game Wiki,check
-c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Local beta rules,client: the in-game Wiki,check
-c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Hairstyles,client: the in-game Wiki,check
-c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,Spawn locations,client: the in-game Wiki,check
-c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,and %d more locations,client: the in-game Wiki | keep: %d,check
-c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,order,client: the in-game Wiki,check
-c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),Wheel of Fortune (ItemShop),client: the in-game Wiki,check
-c:wiki_game:WIKI_EVENTS,Event,Event,Event,client: the in-game Wiki,check
-c:wiki_game:WIKI_OTHER,Other,Inne,Other,client: the in-game Wiki,check
-c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Server event (when active),client: the in-game Wiki,check
-c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Moonlight event: drops depend on the event settings.,client: the in-game Wiki,check
-c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,client: the in-game Wiki,check
+c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Ghiduri,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Reguli si sfaturi,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Reguli locate beta,client: the in-game Wiki,done
+c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Frizuri,client: the in-game Wiki,done
+c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,Locatii spawn,client: the in-game Wiki,done
+c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,cu %d mai multe locatii,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,ordine,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),Roata Norocului (ItemShop),client: the in-game Wiki,done
+c:wiki_game:WIKI_EVENTS,Event,Event,Eveniment,client: the in-game Wiki,done
+c:wiki_game:WIKI_OTHER,Other,Inne,Altul,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Eveniment server (cand este activ),client: the in-game Wiki,done
+c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Eveniment Lumina Lunii: Dropul depinde de setariile evenimentului.,client: the in Wiki,done
+c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Ureche Tanaka pentru 1 Cufar Ebonita,client: the in-game Wiki,done
 c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,setari de lupta,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,,"client: our windows (companion, Auto Hunt, status lines)",new
