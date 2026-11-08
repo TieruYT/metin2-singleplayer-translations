@@ -97,17 +97,17 @@ b:value:punkt:7603a9c0f685,by the teleporter,,,a value inside a bot chat line ({
 b:value:punkt:3d82432fea57,by the guard,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
 b:value:punkt:491e3d01d71a,at the fountain,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
 b:value:punkt:4e317a8624d9,at the gate,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
-b:value:miejsce:62399958a7d0,in the north,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:25c9fdfa2b65,in the south,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:56781c2cf224,in the east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:b1adc724b507,in the west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:78df13c74ede,in the north-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:9f4176845969,in the north-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:c83226783f92,in the south-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:a5421a8d6445,in the south-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:cf1d1430599c,in the middle of the map,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:62399958a7d0,in the north,,na severu,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:25c9fdfa2b65,in the south,,na jihu,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:56781c2cf224,in the east,,na vychode,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:b1adc724b507,in the west,,na zapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:78df13c74ede,in the north-east,,na severovychode,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:9f4176845969,in the north-west,,na severozapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:c83226783f92,in the south-east,,na jihovychode,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:a5421a8d6445,in the south-west,,na jihozapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:cf1d1430599c,in the middle of the map,,uprostred mapy,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:2aa68e64f3a9,in the middle,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:3ea23e849e26,in town,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:3ea23e849e26,in town,,ve meste,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:17b56a6d61f7,by the blacksmith,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:event:a7cd6b386f9e,chest,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:d6bf2ac8e5aa,exp,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
@@ -177,7 +177,7 @@ b:value:zyczenie:f468476ac9b4,something better,,,a value inside a bot chat line 
 b:value:zyczenie:3cde15c10dd6,an int piece for buffs,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
 b:value:zyczenie:0e186c39ef10,something,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
 b:value:zyczenie:9580bf1c7b07,avg,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:cf89261ff21e,bonuses,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:cf89261ff21e,bonuses,,bonusu,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:462d8778a8b9,with hp,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
 b:value:zyczenie:e23b059cf0f1,with crit,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
 b:value:zyczenie:333ed85ed18f,with pierce,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
@@ -258,14 +258,14 @@ b:phrase:c5fe6bb13ee6,I'm already luring for you,,,"a phrase the server says (bo
 b:phrase:744716eea91d,I'm not on your map,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:cf22677fe63a,Not on my counter:,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:75a598d8df0e,nothing for sale right now,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:95fa7a5a6524,Sorting out the inventory,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:827cc8f22d2b,Going to a duel with %s,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:3e5bc4c74536,Duel with %s,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:bcabf8965fdc,Going to the OX Quiz,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:95fa7a5a6524,Sorting out the inventory,,Třídím inventář,"a phrase the server says (bots' help, notices)",done
+b:phrase:827cc8f22d2b,Going to a duel with %s,,Jdu na souboj s %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:3e5bc4c74536,Duel with %s,,Souboj s %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:bcabf8965fdc,Going to the OX Quiz,,Jdu na OX kvíz,"a phrase the server says (bots' help, notices)",done
 b:phrase:7f86fc3d12bb,Going to the Zuo event (%s),,,"a phrase the server says (bots' help, notices) | keep: %s",new
 b:phrase:f7ceb058b505,Changing into the buff set,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:4a3986beec91,Casting buffs in the INT set,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2a462a7b2fd3,%sBack for revenge on %s,,,"a phrase the server says (bots' help, notices) | keep: %s %s",new
+b:phrase:2a462a7b2fd3,%sBack for revenge on %s,,%sVracím se pomstít se %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:36d7f6f57fbb,"dropper, pelny plecak",,,"a phrase the server says (bots' help, notices)",new
 b:phrase:183e738f2852,chcialbym kupic od ciebie,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:86f73bf95395,chce kupic,,,"a phrase the server says (bots' help, notices)",new
@@ -278,14 +278,14 @@ b:phrase:4a767b90c212,,nie pisz mi,,"a phrase the server says (bots' help, notic
 b:phrase:5a00b53c2f08,,odczep sie,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:4dc46ad08b15,,nie zaczepiaj,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:540afebdaa77,,nie chce z toba gadac,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:f5869123311e,Taking books to the storage,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:4695b589a3e3,Going to the general store,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:eb10c3288fae,Going to the armour dealer,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ff2ade108fb4,Going to the weapon dealer,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:09d7e1632df7,Putting books into storage,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:62e0ca6c75db,Going to the blacksmith,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:9e213fe05bff,Going for a profession,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3433f2e9b25a,Going into town,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:f5869123311e,Taking books to the storage,,Nesu knihy do skladu,"a phrase the server says (bots' help, notices)",done
+b:phrase:4695b589a3e3,Going to the general store,,Jdu do smíšeného zboží,"a phrase the server says (bots' help, notices)",done
+b:phrase:eb10c3288fae,Going to the armour dealer,,Jdu k prodejci zbrojí,"a phrase the server says (bots' help, notices)",done
+b:phrase:ff2ade108fb4,Going to the weapon dealer,,Jdu ke zbrojíři,"a phrase the server says (bots' help, notices)",done
+b:phrase:09d7e1632df7,Putting books into storage,,Ukládám knihy do skladu,"a phrase the server says (bots' help, notices)",done
+b:phrase:62e0ca6c75db,Going to the blacksmith,,Jdu ke kováři,"a phrase the server says (bots' help, notices)",done
+b:phrase:9e213fe05bff,Going for a profession,,Jdu si vybrat specializaci,"a phrase the server says (bots' help, notices)",done
+b:phrase:3433f2e9b25a,Going into town,,Jdu do města,"a phrase the server says (bots' help, notices)",done
 b:phrase:429cafb25f65,In my shop I've got:,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:d54006854ab3,"Not in my bag, but my shop",,,"a phrase the server says (bots' help, notices)",new
 b:phrase:7908376e2a45,Put them up in your shop at,,,"a phrase the server says (bots' help, notices)",new
@@ -337,45 +337,45 @@ b:phrase:4f863a093918,I won't buff you.,,,"a phrase the server says (bots' help,
 b:phrase:755940bd0b8c,Updating the target quantity.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:7d4023056e10,servicing shop,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:8ba5a17b982a,I lost you - I'm done luring,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c058f87fbcc3,Find the Golden Axe,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8857557d694c,The best cookbook,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:94633491fbbf,Meet the spy,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:477e715a98ca,The Spider with the Bell,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c06bd2f8c284,Let the Dead Rest,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5c49c8f7dd0a,A Letter from the Blacksmith,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:22ac51ec3aa6,You found the Decorated Bow!,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6a8f125394f2,Kill the Black Wind generals,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7ebe7cf335b8,The bookworm's Treasure Map,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d478a79e30e5,Ore for new armour,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2d0420e5dc99,Ore for a new weapon,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:181ca3b1c8d9,The Stolen Rice Cake,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:54f4d786d380,Look for Yu-Hwan,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:0e05bb4929ef,A medicine for Balso,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c9a90f3b574d,Go to the Peddler,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2e66213676f0,Eun-Jung from the White Oath,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:cf08db268137,Look for materials,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:e73906114016,The stolen Hairpin,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:79cb2a493c55,Get the Peach Seeds,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a2e828cd9ccf,The daughter's wedding,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:85efc110e61e,Letter from the Captain,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:718a35f89a75,The broken porcelain,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6593982a75ec,The sick brother,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:0709f49e2af1,The gift for Chaegirab,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:515a5c546f0d,Talk to the City Guard,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:cde4dbb89e1d,Find the Fisherman,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:050282dff64a,The Blacksmith's mission,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d8b6d72af23e,Looking for the memorials,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d453e7f0cc69,The ninth page,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:0d5c0523b044,The sixth page,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1b96db278dc0,Off into the Yongbi Desert,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:89924e62815e,The secret book,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3f8a58eb1309,News from the City Guard,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2eeeb4a35ea3,Destroy the Metin Stones,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d4266380e60b,Letter from the City Guard,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:58ea37474009,Capture the spy,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:31bda7537934,Talk to the Captain,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d824bb948f39,Destroy the Metin of Battle,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:30f45262a0f3,Go to the Captain,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:c058f87fbcc3,Find the Golden Axe,,Najdi Zlatou sekeru,"a phrase the server says (bots' help, notices)",done
+b:phrase:8857557d694c,The best cookbook,,Nejlepší kuchařka,"a phrase the server says (bots' help, notices)",done
+b:phrase:94633491fbbf,Meet the spy,,Setkej se se špehem,"a phrase the server says (bots' help, notices)",done
+b:phrase:477e715a98ca,The Spider with the Bell,,Pavouk se zvonkem,"a phrase the server says (bots' help, notices)",done
+b:phrase:c06bd2f8c284,Let the Dead Rest,,Nech mrtvé odpočívat,"a phrase the server says (bots' help, notices)",done
+b:phrase:5c49c8f7dd0a,A Letter from the Blacksmith,,Dopis od kováře,"a phrase the server says (bots' help, notices)",done
+b:phrase:22ac51ec3aa6,You found the Decorated Bow!,,Našel jsi Zdobený luk!,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a8f125394f2,Kill the Black Wind generals,,Zabij generály Černého větru,"a phrase the server says (bots' help, notices)",done
+b:phrase:7ebe7cf335b8,The bookworm's Treasure Map,,Mapa pokladu knihomola,"a phrase the server says (bots' help, notices)",done
+b:phrase:d478a79e30e5,Ore for new armour,,Ruda na novou zbroj,"a phrase the server says (bots' help, notices)",done
+b:phrase:2d0420e5dc99,Ore for a new weapon,,Ruda na novou zbraň,"a phrase the server says (bots' help, notices)",done
+b:phrase:181ca3b1c8d9,The Stolen Rice Cake,,Ukradený Rýžový koláček,"a phrase the server says (bots' help, notices)",done
+b:phrase:54f4d786d380,Look for Yu-Hwan,,Hledej Yu-Hwana,"a phrase the server says (bots' help, notices)",done
+b:phrase:0e05bb4929ef,A medicine for Balso,,Lék pro Balsa,"a phrase the server says (bots' help, notices)",done
+b:phrase:c9a90f3b574d,Go to the Peddler,,Jdi za Podomním obchodníkem,"a phrase the server says (bots' help, notices)",done
+b:phrase:2e66213676f0,Eun-Jung from the White Oath,,Eun-Jung z Bílé přísahy,"a phrase the server says (bots' help, notices)",done
+b:phrase:cf08db268137,Look for materials,,Hledej materiály,"a phrase the server says (bots' help, notices)",done
+b:phrase:e73906114016,The stolen Hairpin,,Ukradená Sponka do vlasů,"a phrase the server says (bots' help, notices)",done
+b:phrase:79cb2a493c55,Get the Peach Seeds,,Získej Broskvová semínka,"a phrase the server says (bots' help, notices)",done
+b:phrase:a2e828cd9ccf,The daughter's wedding,,Dceřina svatba,"a phrase the server says (bots' help, notices)",done
+b:phrase:85efc110e61e,Letter from the Captain,,Dopis od Kapitána,"a phrase the server says (bots' help, notices)",done
+b:phrase:718a35f89a75,The broken porcelain,,Rozbitý porcelán,"a phrase the server says (bots' help, notices)",done
+b:phrase:6593982a75ec,The sick brother,,Nemocný bratr,"a phrase the server says (bots' help, notices)",done
+b:phrase:0709f49e2af1,The gift for Chaegirab,,Dárek pro Chaegiraba,"a phrase the server says (bots' help, notices)",done
+b:phrase:515a5c546f0d,Talk to the City Guard,,Promluv s městskou stráží,"a phrase the server says (bots' help, notices)",done
+b:phrase:cde4dbb89e1d,Find the Fisherman,,Najdi Rybáře,"a phrase the server says (bots' help, notices)",done
+b:phrase:050282dff64a,The Blacksmith's mission,,Kovářova mise,"a phrase the server says (bots' help, notices)",done
+b:phrase:d8b6d72af23e,Looking for the memorials,,Hledání památníků,"a phrase the server says (bots' help, notices)",done
+b:phrase:d453e7f0cc69,The ninth page,,Devátá stránka,"a phrase the server says (bots' help, notices)",done
+b:phrase:0d5c0523b044,The sixth page,,Šestá stránka,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b96db278dc0,Off into the Yongbi Desert,,Na cestu do pouště Yongbi,"a phrase the server says (bots' help, notices)",done
+b:phrase:89924e62815e,The secret book,,Tajná kniha,"a phrase the server says (bots' help, notices)",done
+b:phrase:3f8a58eb1309,News from the City Guard,,Zprávy od městské stráže,"a phrase the server says (bots' help, notices)",done
+b:phrase:2eeeb4a35ea3,Destroy the Metin Stones,,Znič Metinovy kameny,"a phrase the server says (bots' help, notices)",done
+b:phrase:d4266380e60b,Letter from the City Guard,,Dopis od městské stráže,"a phrase the server says (bots' help, notices)",done
+b:phrase:58ea37474009,Capture the spy,,Chyť špeha,"a phrase the server says (bots' help, notices)",done
+b:phrase:31bda7537934,Talk to the Captain,,Promluv s Kapitánem,"a phrase the server says (bots' help, notices)",done
+b:phrase:d824bb948f39,Destroy the Metin of Battle,,Znič Metin bitvy,"a phrase the server says (bots' help, notices)",done
+b:phrase:30f45262a0f3,Go to the Captain,,Jdi za Kapitánem,"a phrase the server says (bots' help, notices)",done
 b:phrase:4511378cdec8,dajmy spokoj,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:bf52b20306dc,,"Haha, za szybko.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:3ba5d8523d65,Let's just play for now.,,,"a phrase the server says (bots' help, notices)",new
@@ -525,12 +525,12 @@ b:phrase:6a680869b9d2,OX Quiz: waiting for a question,,,"a phrase the server say
 b:phrase:574f5fb067ac,Changing back into the combat set,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:b96207db390a,%sResting after death - waiting for mana,,,"a phrase the server says (bots' help, notices) | keep: %s",new
 b:phrase:19a4ff5e29b2,%sGoing to help %s of my guild (for free),,,"a phrase the server says (bots' help, notices) | keep: %s %s",new
-b:phrase:1f83bfe36ce7,%sHaggling over a price at a stall,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:2d4978c856fe,Buying refine materials at the market,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:10e09dfd0932,Trading with the weapon dealer,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a279fa522e8b,Trading with the armour dealer,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:1f83bfe36ce7,%sHaggling over a price at a stall,,%sSmlouvám o cenu u stánku,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,%sJdu do Opičího dungeonu pro Koňskou medaili,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,%sHledám zbraň úrovně 30 na M3,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:2d4978c856fe,Buying refine materials at the market,,Kupuji materiály na zušlechtění na trhu,"a phrase the server says (bots' help, notices)",done
+b:phrase:10e09dfd0932,Trading with the weapon dealer,,Obchoduji se zbrojířem,"a phrase the server says (bots' help, notices)",done
+b:phrase:a279fa522e8b,Trading with the armour dealer,,Obchoduji s prodejcem zbrojí,"a phrase the server says (bots' help, notices)",done
 b:phrase:603d03f7c758,"No shop right now, but I've got",,,"a phrase the server says (bots' help, notices)",new
 b:phrase:f85091b49061,What exactly do you want to buy?,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:d9779f8f66d2,"in my bag, but it's not up for sale.",,,"a phrase the server says (bots' help, notices)",new
