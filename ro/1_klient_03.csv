@@ -161,40 +161,40 @@ c:locale_game:GM_PANEL_RATE_EXP,Experience:,,Experienta:,client: game texts (loc
 c:locale_game:GM_PANEL_RATE_DROP,Item drop:,,Drop de obiecte:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_RATE_YANG,Yang drop:,,Drop de Yang:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHAT,Bots talk over their heads,,Botii vorbesc deasupra capului,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,"Randul de deasupra capului unui bot (vaneaza, merge la fierar, pescuieste). Opreste-l pentru jucatorii pe care ii deranjeaza. Anuntul din chatul global despre o imbunatatire +7/+8/+9 ramane oricum.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BOOKS,Skill books without the day's wait,,Carti de abilitate fara asteptarea zilnica,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,"Jocul face un personaj sa astepte aproximativ o zi intre doua citiri ale aceleiasi abilitati, asa ca un bot are nevoie de o luna ca sa duca o abilitate de la M1 la G1, iar cartile se aduna intre timp in rucsac. Pornit: botul citeste o carte imediat ce o are - singura frana este jocul insusi. Oprit: asteptarea zilnica a jocului, neschimbata.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_NIGHT,Night/snow after 22:00,,Noapte/zapada dupa 22:00,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_SCRAP,Scrap keepers,,Colectori de fier vechi,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,"Proportia de negustori care isi pun imbunatatirile slabe (+0 pana la +3) pe taraba pentru cativa banuti in loc sa le vanda unui NPC - material de ars la fierar, ca pe serverele grele. Oprit implicit.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REST,Resting in town,,Odihna in oras,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,"Proportia de boti care raman o vreme langa tarabe dupa un drum in oras in loc sa se intoarca direct la vanatoare. La 100 la suta orasul e plin de viata, la 0 toata lumea e pe teren.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHEST,Moonlight Chest - from a killed monster,,Cufarul Luminii Lunii - de la un monstru ucis,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,"Cat de des cade un cufar: dintr-un monstru ucis si dintr-un Metin spart. Valoarea implicita a jocului este 1 si 30 la suta; mai multe cufere inseamna mai multe suluri de bonus, potiuni de viteza si suluri de binecuvantare pentru boti. Se aplica in cinci secunde, pentru boti si jucatori deopotriva.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHEST_STONE,Moonlight Chest - from a broken Metin,,Cufarul Luminii Lunii - de la un Metin spart,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,"A doua jumatate a setarii de mai sus - propria sansa, trasa cand se sparge o piatra Metin in loc de cand moare un monstru obisnuit.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_RESTOCK,Buying potions,,Cumpararea potiunilor,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,Inapoi in oras imediat ce se termina licorile rosii.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REFINE,The blacksmith,,Fierarul,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REFINE_HELP,Upgrading weapons and armour instead of hunting.,,Imbunatatirea armelor si armurilor in loc de vanatoare.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_SKILL,Skill books,,Carti de abilitate,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,Citirea cartilor pentru a duce o abilitate de la M spre G.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HORSE,The horse,,Calul,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HORSE_HELP,The stable and hunting medals in the Monkey Dungeon.,,Grajdul si medaliile de vanatoare in Temnita Maimutelor.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BIOLOG,The Biologist,,Biologul,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BIOLOG_HELP,Collecting for the Biologist instead of levelling.,,Colectarea pentru Biolog in loc de crestere in nivel.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_METIN,Metin stones,,Pietre Metin,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,Vanatoarea de Metini in locul monstrilor obisnuiti.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_PARTY,Parties,,Grupuri,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_PARTY_HELP,"Fighting together, not every bot on its own.",,"Lupta impreuna, nu fiecare bot pe cont propriu.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HUNTING,Hunting missions,,Misiuni de vanatoare,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,Vanatoare pentru crestere in nivel pe harta numita de misiune.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_LEVEL,Plain grinding,,Grind simplu,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,Ce face un bot cand nimic altceva nu il cheama. Mareste-l si treburile pierd.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_FISHING,Fishing,,Pescuit,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,"Cati boti pescuiesc de fapt. Se decide o data pentru fiecare bot, asa ca o schimbare ajunge la urmatoarea generatie de pescari.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_TRADE,Market stalls,,Tarabe,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,"Cati boti tin o taraba deschisa. Negustorii o fac mereu, orice ar spune acest glisor.",client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_ITEM,/item - adds an item,,/item - adauga un obiect,client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_ITEM_2,/item - adds several pieces of an item,,/item - adauga mai multe bucati dintr-un obiect,client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_M,/m - summons a monster or an NPC,,/m - cheama un monstru sau un NPC,client: game texts (localeInfo),done
