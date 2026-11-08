@@ -4,7 +4,7 @@
 
 Deze repository bevat de teksten van **Metin2 Singleplayer** - de spelclient,
 de namen van voorwerpen en monsters, de berichten van de server, de quests,
-de chat van de bots en de Windows-launcher - zodat spelers het spel in hun
+de chat van de bots, de Windows-launcher en het klassieke webpaneel - zodat spelers het spel in hun
 eigen taal kunnen vertalen. Hij bevat alleen vertalingen: geen spelcode.
 
 Elke pull request wordt automatisch gecontroleerd, en geaccepteerde
@@ -16,7 +16,7 @@ vertalingen komen in de volgende versies in het spel.
 |---|---|
 | `template/` | alle teksten van het spel, met de kolom `translation` leeg. Het begin van een nieuwe taal. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | de talen die het spel al heeft, met hun huidige vertaling: verbeter die en vul aan wat ontbreekt (rijen met `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | nieuwe talen, nog niet begonnen (kopieën van `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nieuwe talen, al deels vertaald: vul aan wat ontbreekt (rijen met `status` `new`). |
 | `tools/validate.py` | de controle die elke pull request doorloopt. |
 
 Engels is de bron en Pools staat ernaast als referentie; geen van beide heeft
@@ -33,6 +33,7 @@ ze kan tonen en bewerken (maximaal 700 rijen per bestand):
 | `4_questy_NN.csv` | de dialogen van de quests |
 | `5_boty_czat_NN.csv` | de chat van de bots, het gebabbel van monsters, de zinnen van de server |
 | `6_launcher_NN.csv` | de Windows-launcher |
+| `7_panel_NN.csv` | het klassieke webpaneel (het beheerpaneel op poort 7788, in de browser) |
 
 Elk bestand heeft de kolommen:
 
@@ -113,13 +114,22 @@ Je hoeft niet alles in één keer te vertalen - stuur wat je hebt.
 
    Roemeens: de codetabel heeft alleen **ş ţ met cedille**, niet ș ț met een
    komma. De launcher (`6_launcher_*`) is een eigen Windows-programma en
-   accepteert elke letter.
+   accepteert elke letter. Net als het webpaneel (`7_panel_*`), een pagina in de
+   browser: beide zijn **UTF-8**, elke letter van elke taal.
 4. **De chat van de bots** (rijen waarvan de notes "ASCII letters only"
    zeggen): de bots typen zoals spelers, in gewone letters a-z zonder accenten.
 5. **Lengte.** Waar de notes "max N characters" zeggen, heeft het spel geen
    ruimte voor meer.
 6. **Regeleinden** alleen waar het Engels ze heeft of de notes "new lines
    allowed" zeggen.
+7. **Het webpaneel** (`7_panel_*`): de teksten komen in een webpagina, dus
+   behoud de HTML-tags van het Engels precies zoals ze zijn (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` en de plaatshouders in de stijl `<number>` tussen
+   punthaken) en voeg geen eigen `<`, `>` of `javascript:` toe. De variabelen zijn
+   `%s`, `%d`, `%(name)s` en `{name}`; een benoemde `%(name)s` mag verschuiven.
+   Een `%` gevolgd door een spatie (`25% a character`) is een procentteken. Een
+   taal met minstens één vertaalde paneeltekst verschijnt in de taalkeuze van het
+   paneel; wat niet vertaald is, verschijnt in het Engels.
 
 ## Een nieuwe taal
 
@@ -143,6 +153,8 @@ bij de rij waar hij het vond:
 - een `id` die niet in `template/` staat, of twee keer voorkomt;
 - een gewijzigde kolom `english`;
 - andere variabelen, plaatshouders, tags of kleurcodes dan in het Engels;
+- in het blad van het webpaneel andere HTML-tags dan in het Engels, of een
+  eigen `<`, `>` of `javascript:`;
 - een letter buiten de codetabel van de taal, een tab, een stuurteken, een
   regeleinde waar dat niet mag, een te lange tekst.
 

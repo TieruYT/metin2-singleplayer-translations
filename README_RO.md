@@ -3,8 +3,7 @@
 [English](README.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | **Română** | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Acest depozit conține textele din **Metin2 Singleplayer** - clientul jocului,
-numele obiectelor și ale monștrilor, mesajele serverului, misiunile, chatul
-boților și launcherul pentru Windows - pentru ca jucătorii să poată traduce
+numele obiectelor și ale monștrilor, mesajele serverului, misiunile, chatul boților, launcherul pentru Windows și panoul web clasic - pentru ca jucătorii să poată traduce
 jocul în propria limbă. Conține doar traduceri: niciun cod al jocului.
 
 Fiecare pull request este verificat automat, iar traducerile acceptate intră
@@ -16,7 +15,7 @@ Fiecare pull request este verificat automat, iar traducerile acceptate intră
 |---|---|
 | `template/` | toate textele jocului, cu coloana `translation` goală. Punctul de plecare al unei limbi noi. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | limbile pe care jocul le are deja, cu traducerea lor actuală: corectează-o și completează ce lipsește (rândurile cu `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | limbi noi, încă neîncepute (copii ale `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | limbi noi, deja traduse în parte: completează ce lipsește (rândurile cu `status` `new`). |
 | `tools/validate.py` | verificarea prin care trece fiecare pull request. |
 
 Engleza este sursa, iar poloneza este afișată alături ca referință; niciuna
@@ -33,6 +32,7 @@ GitHub să le poată afișa și edita (cel mult 700 de rânduri pe fișier):
 | `4_questy_NN.csv` | dialogurile misiunilor |
 | `5_boty_czat_NN.csv` | chatul boților, vorbăria monștrilor, frazele serverului |
 | `6_launcher_NN.csv` | launcherul pentru Windows |
+| `7_panel_NN.csv` | panoul web clasic (panoul de administrare pe portul 7788, în browser) |
 
 Fiecare fișier are coloanele:
 
@@ -112,13 +112,22 @@ Nu trebuie să traduci totul deodată - trimite ce ai.
 
    Română: pagina de cod are doar **ş ţ cu sedilă**, nu ș ț cu virgulă (în
    fișierele jocului). Launcherul (`6_launcher_*`) este un program Windows
-   separat și acceptă orice literă.
+   separat și acceptă orice literă. La fel și panoul web (`7_panel_*`), o pagină în
+   browser: ambele sunt **UTF-8**, orice literă a oricărei limbi.
 4. **Chatul boților** (rândurile ale căror note spun „ASCII letters only”):
    boții scriu ca jucătorii, cu litere simple a-z, fără diacritice.
 5. **Lungime.** Unde notele spun „max N characters”, jocul nu are loc pentru
    mai mult.
 6. **Rânduri noi** doar unde le are engleza sau unde notele spun „new lines
    allowed”.
+7. **Panoul web** (`7_panel_*`): textele lui ajung într-o pagină web, așa că
+   păstrează etichetele HTML din engleză exact cum sunt (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` și substituenții de tipul `<number>` între paranteze
+   unghiulare) și nu adăuga niciun `<`, `>` sau `javascript:` propriu.
+   Variabilele lui sunt `%s`, `%d`, `%(name)s` și `{name}`; un `%(name)s` cu nume
+   se poate muta. Un `%` urmat de spațiu (`25% a character`) este semnul
+   procentului. O limbă cu cel puțin un text tradus din panou apare în selectorul
+   de limbă al panoului; ce nu este tradus apare în engleză.
 
 ## O limbă nouă
 
@@ -143,6 +152,8 @@ la rândul unde l-a găsit:
 - o coloană `english` modificată;
 - alte variabile, substituenți, etichete sau coduri de culoare decât în
   engleză;
+- în foaia panoului web, alte etichete HTML decât în engleză, sau un `<`, `>`
+  sau `javascript:` propriu;
 - o literă din afara paginii de cod a limbii, un tab, un caracter de control,
   un rând nou unde nu este permis, un text prea lung.
 

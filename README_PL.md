@@ -16,7 +16,7 @@ trafiają do gry w kolejnych wersjach.
 |---|---|
 | `template/` | wszystkie teksty gry z pustą kolumną `translation`. Początek nowego języka. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | języki, które gra już ma, z obecnym tłumaczeniem: popraw je i uzupełnij braki (wiersze ze `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | nowe języki, jeszcze nierozpoczęte (kopie `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nowe języki, już częściowo przetłumaczone: uzupełnij braki (wiersze ze `status` `new`). |
 | `tools/validate.py` | sprawdzenie, przez które przechodzi każdy pull request. |
 
 Angielski jest źródłem, a polski stoi obok pomocniczo; żaden z nich nie ma

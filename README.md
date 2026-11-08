@@ -16,7 +16,7 @@ the game in the following versions.
 |---|---|
 | `template/` | every text of the game, the `translation` column empty. The start of a new language. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | the languages the game already has, with their current translation filled in: correct it and fill in what is missing (rows with `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | new languages, not started yet (copies of `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | new languages, already partly translated: fill in what is missing (rows with `status` `new`). |
 | `tools/validate.py` | the check every pull request goes through. |
 
 English is the source and Polish is shown beside it for reference; neither

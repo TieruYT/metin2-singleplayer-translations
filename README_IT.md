@@ -3,8 +3,7 @@
 [English](README.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | **Italiano** | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Questo repository contiene i testi di **Metin2 Singleplayer** - il client di
-gioco, i nomi di oggetti e mostri, i messaggi del server, le missioni, la chat
-dei bot e il launcher per Windows - così che i giocatori possano tradurre il
+gioco, i nomi di oggetti e mostri, i messaggi del server, le missioni, la chat dei bot, il launcher per Windows e il pannello web classico - così che i giocatori possano tradurre il
 gioco nella propria lingua. Contiene solo traduzioni: nessun codice di gioco.
 
 Ogni pull request viene controllata automaticamente e le traduzioni accettate
@@ -16,7 +15,7 @@ entrano nel gioco nelle versioni successive.
 |---|---|
 | `template/` | tutti i testi del gioco, con la colonna `translation` vuota. Il punto di partenza di una nuova lingua. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | le lingue che il gioco ha già, con la loro traduzione attuale: correggila e completa ciò che manca (righe con `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | lingue nuove, non ancora iniziate (copie di `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | lingue nuove, già tradotte in parte: completa ciò che manca (righe con `status` `new`). |
 | `tools/validate.py` | il controllo che ogni pull request deve superare. |
 
 L'inglese è la fonte e il polacco è mostrato accanto come riferimento;
@@ -33,6 +32,7 @@ GitHub possa mostrarli e modificarli (al massimo 700 righe per file):
 | `4_questy_NN.csv` | i dialoghi delle missioni |
 | `5_boty_czat_NN.csv` | la chat dei bot, le chiacchiere dei mostri, le frasi del server |
 | `6_launcher_NN.csv` | il launcher per Windows |
+| `7_panel_NN.csv` | il pannello web classico (il pannello di amministrazione sulla porta 7788, nel browser) |
 
 Ogni file ha le colonne:
 
@@ -111,13 +111,22 @@ Non devi tradurre tutto in una volta - invia quello che hai.
 
    Rumeno: la tabella codici ha solo **ş ţ con la cediglia**, non ș ț con la
    virgola. Il launcher (`6_launcher_*`) è un programma Windows a sé e accetta
-   qualsiasi lettera.
+   qualsiasi lettera. Lo stesso vale per il pannello web (`7_panel_*`), una pagina
+   nel browser: entrambi sono in **UTF-8**, qualsiasi lettera di qualsiasi lingua.
 4. **La chat dei bot** (righe le cui note dicono "ASCII letters only"): i bot
    scrivono come i giocatori, con lettere semplici a-z senza accenti.
 5. **Lunghezza.** Dove le note dicono "max N characters", il gioco non ha
    spazio per altro.
 6. **A capo** solo dove li ha l'inglese o dove le note dicono "new lines
    allowed".
+7. **Il pannello web** (`7_panel_*`): i suoi testi finiscono in una pagina web,
+   quindi mantieni i tag HTML dell'inglese esattamente come sono (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` e i segnaposto del tipo `<number>` tra parentesi
+   angolari) e non aggiungere `<`, `>` o `javascript:` tuoi. Le sue variabili
+   sono `%s`, `%d`, `%(name)s` e `{name}`; un `%(name)s` con nome può spostarsi.
+   Un `%` seguito da uno spazio (`25% a character`) è un segno di percentuale.
+   Una lingua con almeno un testo del pannello tradotto compare nella scelta
+   della lingua del pannello; ciò che non è tradotto appare in inglese.
 
 ## Una nuova lingua
 
@@ -142,6 +151,8 @@ riga in cui l'ha trovato:
 - un `id` che non è in `template/`, o che compare due volte;
 - una colonna `english` modificata;
 - variabili, segnaposto, tag o codici colore diversi dall'inglese;
+- nel foglio del pannello web, tag HTML diversi dall'inglese, o un `<`, `>`
+  o `javascript:` propri;
 - una lettera fuori dalla tabella codici della lingua, una tabulazione, un
   carattere di controllo, un a capo dove non è consentito, un testo troppo
   lungo.

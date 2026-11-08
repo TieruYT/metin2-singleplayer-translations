@@ -3,8 +3,7 @@
 [English](README.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | **Magyar** | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Ez a tároló a **Metin2 Singleplayer** szövegeit tartalmazza - a játékklienst,
-a tárgyak és szörnyek neveit, a szerver üzeneteit, a küldetéseket, a botok
-csevegését és a Windowsos indítót -, hogy a játékosok lefordíthassák a játékot
+a tárgyak és szörnyek neveit, a szerver üzeneteit, a küldetéseket, a botok csevegését, a Windowsos indítót és a klasszikus webpanelt -, hogy a játékosok lefordíthassák a játékot
 a saját nyelvükre. Csak fordításokat tartalmaz, játékkódot nem.
 
 Minden pull requestet automatikusan ellenőrzünk, az elfogadott fordítások a
@@ -16,7 +15,7 @@ következő verziókban kerülnek a játékba.
 |---|---|
 | `template/` | a játék összes szövege, üres `translation` oszloppal. Egy új nyelv kiindulópontja. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | a játékban már meglévő nyelvek a jelenlegi fordításukkal: javítsd, és egészítsd ki, ami hiányzik (a `status` `new` sorok). |
-| `hu/` `es/` `it/` `cs/` | új nyelvek, még el sem kezdve (a `template/` másolatai). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | új nyelvek, már részben lefordítva: egészítsd ki, ami hiányzik (`status` `new` sorok). |
 | `tools/validate.py` | az ellenőrzés, amelyen minden pull request átmegy. |
 
 Az angol a forrás, a lengyel referenciaként mellette látható; egyiknek sincs
@@ -34,6 +33,7 @@ sor):
 | `4_questy_NN.csv` | a küldetések párbeszédei |
 | `5_boty_czat_NN.csv` | a botok csevegése, a szörnyek fecsegése, a szerver mondatai |
 | `6_launcher_NN.csv` | a Windowsos indító |
+| `7_panel_NN.csv` | a klasszikus webpanel (az adminpanel a 7788-as porton, böngészőben) |
 
 Minden fájl oszlopai:
 
@@ -113,7 +113,8 @@ Nem kell mindent egyszerre lefordítanod - küldd el, ami megvan.
    | 1257 | lt, lv, et | ā č ē ģ ī ķ ļ ņ š ū ž, ą ę ė į ų |
 
    Román: a kódlapon csak **cedillás ş ţ** van, vesszős ș ț nincs. Az indító
-   (`6_launcher_*`) önálló Windows-program, és bármilyen betűt elfogad.
+   (`6_launcher_*`) önálló Windows-program, és bármilyen betűt elfogad. Ugyanígy a webpanel (`7_panel_*`), egy oldal a
+   böngészőben: mindkettő **UTF-8**, bármely nyelv bármely betűje.
 4. **A botok csevegése** (azok a sorok, amelyek notes mezője szerint „ASCII
    letters only”): a botok úgy gépelnek, mint a játékosok, egyszerű a-z
    betűkkel, ékezetek nélkül.
@@ -121,6 +122,14 @@ Nem kell mindent egyszerre lefordítanod - küldd el, ami megvan.
    többnek.
 6. **Sortörés** csak ott, ahol az angolban is van, vagy ahol a notes „new
    lines allowed”-ot ír.
+7. **A webpanel** (`7_panel_*`): a szövegei egy weboldalra kerülnek, ezért
+   tartsd meg az angol HTML-címkéit pontosan úgy, ahogy vannak (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` és a `<number>`-szerű helyőrzők csúcsos zárójelben),
+   és ne tegyél hozzá saját `<`, `>` vagy `javascript:` elemet. A változói `%s`,
+   `%d`, `%(name)s` és `{name}`; egy nevesített `%(name)s` áthelyezhető. A
+   szóközzel követett `%` (`25% a character`) százalékjel. Az a nyelv, amelynek
+   legalább egy panelszövege le van fordítva, megjelenik a panel nyelvválasztójában;
+   ami nincs lefordítva, angolul jelenik meg.
 
 ## Új nyelv
 
@@ -144,6 +153,8 @@ a sornál jelzi, ahol megtalálta:
 - olyan `id`-t, amely nincs a `template/` mappában, vagy kétszer szerepel;
 - módosított `english` oszlopot;
 - az angoltól eltérő változókat, helyőrzőket, címkéket vagy színkódokat;
+- a webpanel lapján az angoltól eltérő HTML-címkéket, vagy saját `<`, `>`
+  vagy `javascript:` elemet;
 - a nyelv kódlapján kívüli betűt, tabulátort, vezérlőkaraktert, nem
   engedélyezett sortörést, túl hosszú szöveget.
 

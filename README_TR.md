@@ -16,7 +16,7 @@ sonraki sürümlerde oyuna eklenir.
 |---|---|
 | `template/` | oyunun tüm metinleri, `translation` sütunu boş. Yeni bir dilin başlangıcı. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | oyunda zaten olan diller, mevcut çevirileriyle: düzeltin ve eksikleri tamamlayın (`status` değeri `new` olan satırlar). |
-| `hu/` `es/` `it/` `cs/` | henüz başlanmamış yeni diller (`template/` kopyaları). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | yeni diller, kısmen çevrilmiş: eksikleri tamamlayın (`status` değeri `new` olan satırlar). |
 | `tools/validate.py` | her pull request'in geçtiği kontrol. |
 
 Kaynak dil İngilizcedir; Lehçe yardımcı olarak yanında durur. İkisinin de

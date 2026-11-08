@@ -3,8 +3,7 @@
 [English](README.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | **Čeština** | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Tento repozitář obsahuje texty hry **Metin2 Singleplayer** - herního klienta,
-názvy předmětů a příšer, zprávy serveru, úkoly, chat botů a spouštěč pro
-Windows - aby si hráči mohli hru přeložit do svého jazyka. Obsahuje jen
+názvy předmětů a příšer, zprávy serveru, úkoly, chat botů, spouštěč pro Windows a klasický webový panel - aby si hráči mohli hru přeložit do svého jazyka. Obsahuje jen
 překlady, žádný herní kód.
 
 Každý pull request se automaticky kontroluje a přijaté překlady se dostanou do
@@ -16,7 +15,7 @@ hry v dalších verzích.
 |---|---|
 | `template/` | všechny texty hry s prázdným sloupcem `translation`. Začátek nového jazyka. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | jazyky, které hra už má, s jejich současným překladem: oprav ho a doplň, co chybí (řádky se `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | nové jazyky, zatím nezačaté (kopie `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nové jazyky, už zčásti přeložené: doplň, co chybí (řádky se `status` `new`). |
 | `tools/validate.py` | kontrola, kterou projde každý pull request. |
 
 Zdrojem je angličtina, polština je vedle jako vodítko; ani jedna nemá vlastní
@@ -33,6 +32,7 @@ GitHub mohl zobrazit a upravit (nejvýše 700 řádků v souboru):
 | `4_questy_NN.csv` | dialogy úkolů |
 | `5_boty_czat_NN.csv` | chat botů, povídání příšer, věty serveru |
 | `6_launcher_NN.csv` | spouštěč pro Windows |
+| `7_panel_NN.csv` | klasický webový panel (administrátorský panel na portu 7788, v prohlížeči) |
 
 Každý soubor má sloupce:
 
@@ -107,12 +107,21 @@ Nemusíš přeložit všechno najednou - pošli, co máš.
 
    Rumunština: znaková sada má jen **ş ţ se cedilou**, ne ș ț s čárkou.
    Spouštěč (`6_launcher_*`) je samostatný program pro Windows a přijme
-   jakékoli písmeno.
+   jakékoli písmeno. Stejně tak webový panel (`7_panel_*`), stránka v
+   prohlížeči: oba jsou v **UTF-8**, jakékoli písmeno jakéhokoli jazyka.
 4. **Chat botů** (řádky, jejichž notes říkají „ASCII letters only“): boti
    píšou jako hráči, obyčejnými písmeny a-z bez diakritiky.
 5. **Délka.** Kde notes říkají „max N characters“, hra nemá místo na víc.
 6. **Nové řádky** jen tam, kde je má angličtina nebo kde notes říkají „new
    lines allowed“.
+7. **Webový panel** (`7_panel_*`): jeho texty končí na webové stránce, proto
+   zachovej HTML značky angličtiny přesně tak, jak jsou (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` a zástupné symboly typu `<number>` ve špičatých
+   závorkách) a nepřidávej žádné vlastní `<`, `>` ani `javascript:`. Jeho
+   proměnné jsou `%s`, `%d`, `%(name)s` a `{name}`; pojmenované `%(name)s` se
+   smí přesunout. `%` následované mezerou (`25% a character`) je znak procenta.
+   Jazyk s aspoň jedním přeloženým textem panelu se objeví ve výběru jazyka
+   panelu; co přeloženo není, se zobrazí anglicky.
 
 ## Nový jazyk
 
@@ -136,6 +145,8 @@ Každý pull request spustí `tools/validate.py` (GitHub Actions). Ohlásí, u
 - `id`, které není v `template/`, nebo je tam dvakrát;
 - změněný sloupec `english`;
 - jiné proměnné, zástupné symboly, značky nebo barevné kódy než v angličtině;
+- v listu webového panelu jiné HTML značky než v angličtině, nebo vlastní
+  `<`, `>` či `javascript:`;
 - písmeno mimo znakovou sadu jazyka, tabulátor, řídicí znak, nový řádek tam,
   kde není povolen, příliš dlouhý text.
 

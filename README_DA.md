@@ -4,7 +4,7 @@
 
 Dette repository indeholder teksterne fra **Metin2 Singleplayer** -
 spilklienten, navnene på genstande og monstre, serverens beskeder, quests,
-botternes chat og Windows-launcheren - så spillerne kan oversætte spillet til
+botternes chat, Windows-launcheren og det klassiske webpanel - så spillerne kan oversætte spillet til
 deres eget sprog. Det indeholder kun oversættelser: ingen spilkode.
 
 Hver pull request bliver kontrolleret automatisk, og godkendte oversættelser
@@ -16,7 +16,7 @@ kommer med i spillet i de følgende versioner.
 |---|---|
 | `template/` | alle spillets tekster med kolonnen `translation` tom. Starten på et nyt sprog. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | de sprog, spillet allerede har, med deres nuværende oversættelse: ret den, og udfyld det, der mangler (rækker med `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | nye sprog, endnu ikke påbegyndt (kopier af `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nye sprog, allerede delvist oversat: udfyld det, der mangler (rækker med `status` `new`). |
 | `tools/validate.py` | kontrollen, som hver pull request gennemgår. |
 
 Engelsk er kilden, og polsk vises ved siden af som reference; ingen af dem har
@@ -33,6 +33,7 @@ vise og redigere dem (højst 700 rækker pr. fil):
 | `4_questy_NN.csv` | dialogerne i quests |
 | `5_boty_czat_NN.csv` | botternes chat, monstrenes snak, serverens sætninger |
 | `6_launcher_NN.csv` | Windows-launcheren |
+| `7_panel_NN.csv` | det klassiske webpanel (adminpanelet på port 7788, i browseren) |
 
 Hver fil har kolonnerne:
 
@@ -107,13 +108,22 @@ Du behøver ikke at oversætte det hele på én gang - send det, du har.
 
    Rumænsk: tegntabellen har kun **ş ţ med cedille**, ikke ș ț med komma.
    Launcheren (`6_launcher_*`) er et selvstændigt Windows-program og tager
-   ethvert bogstav.
+   ethvert bogstav. Det gør webpanelet (`7_panel_*`), en side i browseren,
+   også: begge er **UTF-8**, ethvert bogstav på ethvert sprog.
 4. **Botternes chat** (rækker, hvis notes siger "ASCII letters only"):
    botterne skriver som spillere, med almindelige bogstaver a-z uden accenter.
 5. **Længde.** Hvor notes siger "max N characters", har spillet ikke plads til
    mere.
 6. **Linjeskift** kun hvor det engelske har dem, eller notes siger "new lines
    allowed".
+7. **Webpanelet** (`7_panel_*`): teksterne havner på en webside, så behold det
+   engelskes HTML-tags præcis som de er (`<b>`, `</b>`, `<a href="...">`, `<br>`
+   og pladsholderne i stil med `<number>` i vinkelparenteser), og tilføj ingen
+   egne `<`, `>` eller `javascript:`. Variablerne er `%s`, `%d`, `%(name)s` og
+   `{name}`; en navngiven `%(name)s` må flyttes. Et `%` efterfulgt af et
+   mellemrum (`25% a character`) er et procenttegn. Et sprog med mindst én
+   oversat paneltekst vises i panelets sprogvalg; det, der ikke er oversat,
+   vises på engelsk.
 
 ## Et nyt sprog
 
@@ -137,6 +147,8 @@ den række, hvor den fandt det:
 - et `id`, der ikke står i `template/`, eller som står der to gange;
 - en ændret kolonne `english`;
 - andre variabler, pladsholdere, tags eller farvekoder end i det engelske;
+- i webpanelets ark andre HTML-tags end i det engelske, eller egne `<`, `>`
+  eller `javascript:`;
 - et bogstav uden for sprogets tegntabel, en tabulator, et kontroltegn, et
   linjeskift, hvor det ikke er tilladt, en for lang tekst.
 

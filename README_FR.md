@@ -4,7 +4,7 @@
 
 Ce dépôt contient les textes de **Metin2 Singleplayer** - le client du jeu,
 les noms des objets et des monstres, les messages du serveur, les quêtes, le
-chat des bots et le lanceur Windows - afin que les joueurs puissent traduire
+chat des bots, le lanceur Windows et le panneau web classique - afin que les joueurs puissent traduire
 le jeu dans leur propre langue. Il ne contient que des traductions : aucun
 code du jeu.
 
@@ -17,7 +17,7 @@ entrent dans le jeu dans les versions suivantes.
 |---|---|
 | `template/` | tous les textes du jeu, la colonne `translation` vide. Le point de départ d'une nouvelle langue. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | les langues que le jeu possède déjà, avec leur traduction actuelle : corrige-la et complète ce qui manque (lignes avec `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | nouvelles langues, pas encore commencées (copies de `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nouvelles langues, déjà en partie traduites : complète ce qui manque (lignes avec `status` `new`). |
 | `tools/validate.py` | la vérification que passe chaque pull request. |
 
 L'anglais est la source et le polonais est affiché à côté comme référence ;
@@ -35,6 +35,7 @@ fichier) :
 | `4_questy_NN.csv` | les dialogues des quêtes |
 | `5_boty_czat_NN.csv` | le chat des bots, les bavardages des monstres, les phrases du serveur |
 | `6_launcher_NN.csv` | le lanceur Windows |
+| `7_panel_NN.csv` | le panneau web classique (le panneau d'administration sur le port 7788, dans le navigateur) |
 
 Chaque fichier a les colonnes :
 
@@ -114,7 +115,8 @@ Tu n'as pas besoin de tout traduire d'un coup - envoie ce que tu as.
 
    Roumain : la page de code n'a que **ş ţ avec cédille**, pas ș ț avec
    virgule. Le lanceur (`6_launcher_*`) est un programme Windows à part et
-   accepte toutes les lettres.
+   accepte toutes les lettres. Le panneau web (`7_panel_*`), une page dans le
+   navigateur, aussi : les deux sont en **UTF-8**, toute lettre de toute langue.
 4. **Le chat des bots** (lignes dont les notes disent « ASCII letters
    only ») : les bots écrivent comme des joueurs, en lettres simples a-z sans
    accents.
@@ -122,6 +124,14 @@ Tu n'as pas besoin de tout traduire d'un coup - envoie ce que tu as.
    de place pour plus.
 6. **Retours à la ligne** uniquement là où l'anglais en a ou où les notes
    disent « new lines allowed ».
+7. **Le panneau web** (`7_panel_*`) : ses textes vont dans une page web, alors
+   garde les balises HTML de l'anglais exactement telles quelles (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` et les espaces réservés du type `<number>` entre
+   chevrons) et n'ajoute aucun `<`, `>` ou `javascript:` de ton cru. Ses
+   variables sont `%s`, `%d`, `%(name)s` et `{name}` ; un `%(name)s` nommé peut
+   changer de place. Un `%` suivi d'une espace (`25% a character`) est un signe
+   pour cent. Une langue avec au moins un texte du panneau traduit apparaît dans
+   le choix de langue du panneau ; ce qui n'est pas traduit s'affiche en anglais.
 
 ## Une nouvelle langue
 
@@ -147,6 +157,8 @@ signale, à la ligne où elle l'a trouvé :
 - une colonne `english` modifiée ;
 - des variables, espaces réservés, balises ou codes couleur différents de
   l'anglais ;
+- dans la feuille du panneau web, d'autres balises HTML que l'anglais, ou un
+  `<`, `>` ou `javascript:` de son cru ;
 - une lettre hors de la page de code de la langue, une tabulation, un
   caractère de contrôle, un retour à la ligne là où il n'est pas permis, un
   texte trop long.
