@@ -1,7 +1,7 @@
 # Contributing
 
 Thank you for translating Metin2 Singleplayer! The full guide is in
-[README.md](README.md) ([Polski](README_PL.md), [Türkçe](README_TR.md)).
+[README.md](README.md) ([Polski](README_PL.md), [Türkçe](README_TR.md), [Deutsch](README_DE.md), [Français](README_FR.md), [Español](README_ES.md), [Italiano](README_IT.md), [Português](README_PT.md), [Română](README_RO.md), [Magyar](README_HU.md), [Nederlands](README_NL.md), [Čeština](README_CS.md), [Dansk](README_DA.md), [Ελληνικά](README_EL.md), [Русский](README_RU.md), [العربية](README_AR.md), [한국어](README_KO.md)).
 
 In short:
 

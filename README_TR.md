@@ -1,6 +1,6 @@
 # Metin2 Singleplayer - topluluk çevirileri
 
-[English](README.md) | [Polski](README_PL.md) | **Türkçe**
+[English](README.md) | [Polski](README_PL.md) | **Türkçe** | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Bu depo **Metin2 Singleplayer**'ın metinlerini içerir - oyun istemcisi, eşya
 ve canavar adları, sunucu mesajları, görevler, botların sohbeti ve Windows
