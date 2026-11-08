@@ -214,7 +214,7 @@ q:pkg:t:beta.horse_level.chat,BETA: Give me a horse,BETA: Daj Konia,,quest dialo
 q:pkg:t:beta.horse_level.options.1,Level 1 - Beginner's Horse ,1 poziom - Zwykły Koń ,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.horse_level.options.2,Level 11 - Armed Horse,11 poziom - Koń Bojowy,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.horse_level.options.3,Level 21 - Military Horse,21 poziom - Koń Militarny,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.4,Cancel,Anuluj,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.horse_level.options.4,Cancel,Anuluj,Annuller,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.horse_level.success,Your horse's level has been set.,Poziom konia został ustawiony.,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.intro.info,Thank you for taking part in the tests. Please send your reports through support after logging in to the website.,Dziękujemy za udział w testach. Bardzo prosimy zgłaszać przez support po zalogowaniu na stronę.,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.intro.info2,"You will find the Test NPC in every M1, in the middle of town.",NPC Testowego znajdziesz w każdym M1 w środku miasta.,,quest dialog (the game's quests: beta),new
@@ -232,7 +232,7 @@ q:pkg:t:beta.reputation.success,The reputation of all factions has been set to t
 q:pkg:t:beta.reset_skill.ask,Do you want to reset your skill group? All your skills will be reset and you will be able to choose your skill group again (just like the reset at the Old Lady).,"Czy chcesz zresetować profesję? Wszystkie umiejętności zostaną zresetowane, a Ty będziesz mógł wybrać profesję od nowa (tak jak reset u Staruszki).",,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.reset_skill.chat,BETA: Reset skill group,BETA: Reset profesji,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.reset_skill.success,Your skill group has been reset.,Zresetowano profesję.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.base_shop,General,Ogólne,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.shop.base_shop,General,Ogólne,Generelt,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.shop.chat,BETA: Open shop,BETA: Otwórz sklep,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.shop.herb_shop,Recipes,Receptury,,quest dialog (the game's quests: beta),new
 q:pkg:t:beta.shop.high_item,Items +9,Itemy +9,,quest dialog (the game's quests: beta),new
@@ -288,7 +288,7 @@ q:pkg:t:crafting.npc.bum.talk2,"Listen... I have lockpicks, and you have craftin
 q:pkg:t:crafting.npc.bum.talk3,"But remember one thing... if anyone starts asking, we never met. And now... hic!... I will pour myself a little more sake.","Ale zapamiętaj jedno… jak ktoś zacznie pytać, nigdy się nie spotkaliśmy. A teraz… hik!… naleję sobie jeszcze trochę sake.",,quest dialog (the game's quests: crafting),new
 q:pkg:t:crafting.npc.chef.talk1,"Welcome, gourmet! If you have the ingredients, I can turn them into a culinary masterpiece. I will prepare a dish that will not only nourish your body but also delight your senses.","Witaj, smakoszu! Jeśli masz składniki, mogę zamienić je w kulinarne arcydzieło. Przygotuję potrawę, która nie tylko nasyci Twoje ciało, ale i zachwyci Twoje zmysły.",,quest dialog (the game's quests: crafting),new
 q:pkg:t:crafting.npc.halfdemon.talk1,"Greetings, brave one. My skills are as mysterious as my origins. Here you will find the power that lies in the magical ingredients you have brought. As a Sura, a being on the border between worlds, I am able to uncover their hidden potential. Hand me these artefacts, and I will combine them into an item of extraordinary power.","Witaj, śmiałku. Moje umiejętności są tak tajemnicze, jak moje pochodzenie. Znajdziesz tu moc tkwiącą w magicznych składnikach, które przyniosłeś. Jako Sura, istota na pograniczu światów, jestem w stanie odkryć ich ukryte możliwości. Przekaż mi te artefakty, a połączę je w przedmiot o niezwykłej mocy.",,quest dialog (the game's quests: crafting),new
-q:pkg:t:crafting.npc_chat,Crafting,Wytwarzanie,,quest dialog (the game's quests: crafting),new
+q:pkg:t:crafting.npc_chat,Crafting,Wytwarzanie,Fremstilling,quest dialog (the game's quests: crafting),done
 q:pkg:t:crafting.npc_chat_arrow,Arrow Crafting ,Wytwarzanie Strzał ,,quest dialog (the game's quests: crafting),new
 q:pkg:t:crafting.open_delay,Wait a moment before opening the window again.,Odczekaj chwilę przed ponownym otwarciem okna.,,quest dialog (the game's quests: crafting),new
 q:pkg:t:crafting.recipe_delay,Wait another %s before the next training.,Odczekaj jeszcze %s przed kolejnym szkoleniem.,,quest dialog (the game's quests: crafting) | keep: %s,new
@@ -364,7 +364,7 @@ q:pkg:t:fishing.onboarding.state_reward.letter_name,Return to the Fisherman,Wró
 q:pkg:t:fishing.onboarding.state_reward.npc_chat,The waters are clean now.,Wody są już czyste.,,quest dialog (the game's quests: fishing),new
 q:pkg:t:fishing.onboarding.state_reward.talk1,"Who do we have here? I have just caught my first fish in a long time! Thanks to you, our waters are clean again. Maybe you would like to join me, and I will show you how to fish properly?",Kogo my tu mamy? Ja właśnie złowiłem swoją pierwszą rybę od dawna! Dzięki Tobie nasze wody znowu są czyste. Może chcesz się dołączyć i pokaże Ci jak poprawnie łowić?,,quest dialog (the game's quests: fishing),new
 q:pkg:t:fishing.onboarding.state_start.low_lvl,"I see that you are interested in fishing. Unfortunately, I cannot help you right now. You need to gain more experience to be able to understand and handle the challenges our polluted waters bring. Come back to me when you reach level 30.","Widzę, że interesuje Cię łowienie ryb. Niestety, nie mogę ci teraz pomóc. Musisz zdobyć więcej doświadczenia, aby móc zrozumieć i poradzić sobie z wyzwaniami, jakie niosą ze sobą nasze zanieczyszczone wody. Wróć do mnie, gdy osiągniesz 30 poziom.",,quest dialog (the game's quests: fishing),new
-q:pkg:t:fishing.onboarding.state_start.npc_chat,Fishing,Łowienie,,quest dialog (the game's quests: fishing),new
+q:pkg:t:fishing.onboarding.state_start.npc_chat,Fishing,Łowienie,Fiskeri,quest dialog (the game's quests: fishing),done
 q:pkg:t:fishing.onboarding.state_start.talk1,"We have been going through a real crisis lately. Ever since the Metin Stones fell, our waters have turned acidic. The fish are having great trouble breeding, and their numbers have dropped drastically. I need your help to create an item that will improve the quality of the waters. Unfortunately, I don't have the knowledge to do it on my own.","Ostatnio przeżywamy istny kryzys. Odkąd spadły Kamienie Metin, nasze wody stały się kwaśne. Ryby mają ogromne trudności z rozmnażaniem się, a ich populacja drastycznie spadła. Potrzebuję twojej pomocy w stworzeniu przedmiotu, który pomoże poprawić jakość wód. Niestety, nie mam odpowiedniej wiedzy, aby to zrobić samodzielnie.",,quest dialog (the game's quests: fishing),new
 q:pkg:t:fishing.onboarding.state_start.talk2,"Go to Baek-Go, our local doctor. Perhaps he will have the right knowledge and help us create an item that will purify the waters. You will find him in the village, near the market.","Udaj się do Baek-Go, naszego miejscowego lekarza. Być może on będzie miał odpowiednią wiedzę i pomoże nam stworzyć przedmiot, który oczyści wody. Znajdziesz go w wiosce, niedaleko rynku.",,quest dialog (the game's quests: fishing),new
 q:pkg:t:fishing.stand_near_water,You have to stand next to a body of water.,Musisz stać obok zbiornika wodnego.,,quest dialog (the game's quests: fishing),new
@@ -372,10 +372,10 @@ q:pkg:t:friendly_monkey.chat,"Hello, monkey!",Cześć małpo!,,quest dialog (the
 q:pkg:t:friendly_monkey.give,Give the Cave Mushroom,Daj Jaskiniowy Grzyb,,quest dialog (the game's quests: friendly_monkey),new
 q:pkg:t:friendly_monkey.talk,The monkey stares at you and waves its arms. Maybe it wants something? Maybe it is hungry? Find it something to eat. Bring a Cave Mushroom.,Małpa patrzy się na Ciebie i macha rękami. Może coś chce? Może jest głodna? Znajdź jej coś do jedzenia. Przynieś Jaskiniowy Grzyb.,,quest dialog (the game's quests: friendly_monkey),new
 q:pkg:t:friendly_monkey.talk2,"Ooh, aah, eee!","Uuu, aaa, iii!",,quest dialog (the game's quests: friendly_monkey),new
-q:pkg:t:general.cancel,Cancel,Anuluj,,quest dialog (the game's quests: general),new
+q:pkg:t:general.cancel,Cancel,Anuluj,Annuller,quest dialog (the game's quests: general),done
 q:pkg:t:general.cancel_quest,Cancel the quest.,Anuluj misję.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.choose_weapon,Choose a weapon:,Wybierz broń:,,quest dialog (the game's quests: general),new
-q:pkg:t:general.continue,Continue,Kontynuuj,,quest dialog (the game's quests: general),new
+q:pkg:t:general.continue,Continue,Kontynuuj,Fortsæt,quest dialog (the game's quests: general),done
 q:pkg:t:general.error,An error has occurred.,Wystąpił błąd.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.info_title,Information:,Informacja:,,quest dialog (the game's quests: general),new
 q:pkg:t:general.information,Information,Informacja,,quest dialog (the game's quests: general),new
@@ -395,21 +395,21 @@ q:pkg:t:general.map_names.41,Pyungmoo Area (M1),Strefa Pyungmoo (M1),,quest dial
 q:pkg:t:general.map_names.43,Bakra Area (M2),Strefa Bakra (M2),,quest dialog (the game's quests: general),new
 q:pkg:t:general.map_names.45,Easy Monkey Dungeon Hasun Dong,Łatwy Loch Małp Hasun Dong,,quest dialog (the game's quests: general),new
 q:pkg:t:general.map_names.5,Easy Monkey Dungeon Hasun Dong,Łatwy Loch Małp Hasun Dong,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.61,Mount Sohan,Góra Sohan,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.63,Yongbi Desert,Pustynia Yongbi,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.64,Valley of Seungryong,Dolina Seungryong,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.65,Hwang Temple,Świątynia Hwang,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.66,Demon Tower,Wieża Demonów,,quest dialog (the game's quests: general),new
+q:pkg:t:general.map_names.61,Mount Sohan,Góra Sohan,Sohan-bjerget,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.63,Yongbi Desert,Pustynia Yongbi,Yongbi-ørkenen,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.64,Valley of Seungryong,Dolina Seungryong,Seungryong-dalen,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.65,Hwang Temple,Świątynia Hwang,Hwang-templet,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.66,Demon Tower,Wieża Demonów,Dæmontårnet,quest dialog (the game's quests: general),done
 q:pkg:t:general.map_names.67,Lungsam Ghost Forest,Las Duchów Lungsam,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.68,Red Forest,Czerwony Las,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.69,Snakefield,Wężowe Pole,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.70,Land of Giants,Kraina Gigantów,,quest dialog (the game's quests: general),new
+q:pkg:t:general.map_names.68,Red Forest,Czerwony Las,Rødskoven,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.69,Snakefield,Wężowe Pole,Slangemarken,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.70,Land of Giants,Kraina Gigantów,Kæmpernes land,quest dialog (the game's quests: general),done
 q:pkg:t:general.map_names.71,Spider Dungeon Level 2,Loch Pająków Poz. 2,,quest dialog (the game's quests: general),new
 q:pkg:t:general.map_names.72,Grotto of Exile V1,Grota Wygnańców V1,,quest dialog (the game's quests: general),new
 q:pkg:t:general.map_names.73,Grotto of Exile V2,Grota Wygnańców V2,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.81,Wedding Map,Mapa Ślubna,,quest dialog (the game's quests: general),new
-q:pkg:t:general.no,No,Nie,,quest dialog (the game's quests: general),new
-q:pkg:t:general.no_gold,You do not have enough Yang.,Nie masz wystarczająco Yang.,,quest dialog (the game's quests: general),new
+q:pkg:t:general.map_names.81,Wedding Map,Mapa Ślubna,Bryllupskort,quest dialog (the game's quests: general),done
+q:pkg:t:general.no,No,Nie,Nej,quest dialog (the game's quests: general),done
+q:pkg:t:general.no_gold,You do not have enough Yang.,Nie masz wystarczająco Yang.,Du har ikke nok Yang.,quest dialog (the game's quests: general),done
 q:pkg:t:general.no_horse,Summon your horse.,Przywołaj konia.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.no_inventory_space,There is not enough space in your inventory.,Brak miejsca w ekwipunku.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.not_available,You can't do that right now. Please wait.,Nie możesz teraz tego zrobić. Odczekaj.,,quest dialog (the game's quests: general),new
@@ -422,7 +422,7 @@ q:pkg:t:general.time.m,%d minutes,%d minut,,quest dialog (the game's quests: gen
 q:pkg:t:general.too_far,You are too far away. Come closer.,"Jesteś za daleko, podejdź bliżej.",,quest dialog (the game's quests: general),new
 q:pkg:t:general.wait_after_exchange,Wait 10 seconds after a trade has ended.,Odczekaj 10 sekund po zakończeniu handlu.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.xp,EXP,Pkt. Doś.,,quest dialog (the game's quests: general),new
-q:pkg:t:general.yes,Yes,Tak,,quest dialog (the game's quests: general),new
+q:pkg:t:general.yes,Yes,Tak,Ja,quest dialog (the game's quests: general),done
 q:pkg:t:guild_land.wrong_empire,"What?! Get lost, back to your own kingdom! We do not sell land to enemy kingdoms.","Co?! Spadaj do siebie, nie sprzedajemy ziemii wrogim królestwom.",,quest dialog (the game's quests: guild_land),new
 q:pkg:t:herbalism.count_2_bonus,Your tug plucked a couple of flowers at once - they are of excellent quality!,"Szarpnięcie spowodowało zerwanie się paru kwiatów, są świetnej jakości!",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.extend_duration.cannot_extend,You cannot extend this potion.,Nie możesz przedłużyć tej mikstury.,,quest dialog (the game's quests: herbalism),new
@@ -433,7 +433,7 @@ q:pkg:t:herbalism.extend_duration.take_item_info1,I know an old recipe that can 
 q:pkg:t:herbalism.extend_duration.take_item_info2,By how much do you want to extend the potion's effect?,O ile chcesz przedłużyc efekt mikstury?,,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.extend_duration.take_item_info3,"The ancient spells say that I can do it, but I need special ingredients.","Starożytne zaklęcia mówią, że mogę to zrobić, ale potrzebuję specjalnych składników.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.extend_duration.take_item_info4,"To extend the duration of this potion by %d%%, I will need %d pieces of Magic Dust and %s Yang. Do you agree?","Aby przedłużyć czas trwania tej mikstury o %d%%, będę potrzebował %d szt. Magicznego Pyłu oraz %s Yang. Czy zgadzasz się na to?",,quest dialog (the game's quests: herbalism) | keep: %d %d %s,new
-q:pkg:t:herbalism.extend_duration.take_item_select.3,Cancel,Anuluj,,quest dialog (the game's quests: herbalism),new
+q:pkg:t:herbalism.extend_duration.take_item_select.3,Cancel,Anuluj,Annuller,quest dialog (the game's quests: herbalism),done
 q:pkg:t:herbalism.extend_duration.take_item_warning,The effect cannot be undone - it can only be extended once!,"Efetku nie można cofnąć, przedłużyć można tylko raz!",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.extend_duration.talk1,"Many years ago I discovered a recipe that makes potions last longer. It was a secret I inherited from my mentor, an ancient alchemist from the Far East.","Wiele lat temu odkryłem recepturę, która pozwala przedłużać działanie mikstur. Była to tajemnica, którą odziedziczyłem od mojego mentora, starożytnego alchemika z dalekiego wschodu.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.extend_duration.talk2,"Working day and night, I learned how to use Magic Dust to strengthen potions that can help you in the toughest battles.","Pracując dniem i nocą, nauczyłem się, jak wykorzystać Magiczny Pył do wzmocnienia mikstur, które mogą Ci pomóc w najtrudniejszych bitwach.",,quest dialog (the game's quests: herbalism),new
@@ -458,13 +458,13 @@ q:pkg:t:herbalism.prime_quest.introduction3,"You need the right tools. The first
 q:pkg:t:herbalism.prime_quest.introduction4,"The rare Peach Blossom grows around here. Find it, use your knife to gather it and then come back to me. 10 of them will be enough. Remember that precision and a gentle touch are the key to gathering herbs.","W okolicy rośnie rzadki Kwiat Brzoskwini. Znajdź go, użyj swojego nożyka, aby go zebrać, a następnie wróć do mnie. Wystarczy 10 sztuk. Pamiętaj, że precyzja i delikatność są kluczowe podczas zbierania ziół.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.introduction5,"If running after flowers doesn't interest you, you can get them from other players at the market, or by killing monsters. Decide for yourself what suits you better!","Jeżeli nie interesuje ciebie bieganie za kwiatkami, możesz je zdobyć na rynku od innych graczy, albo zdobyć zabijając potwory. Sam zdecyduj co będzie dla Ciebie lepsze!",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.low_lvl,"I see that you are interested in herbalism, but I'm afraid you aren't experienced enough yet. Come back when you reach level 15, and then I will gladly introduce you to the secrets of herbalism.","Widzę, że interesujesz się zielarstwem, ale obawiam się, że nie jesteś jeszcze wystarczająco doświadczony. Powróć, gdy osiągniesz poziom 15, a wtedy chętnie wprowadzę Cię w tajniki zielarstwa.",,quest dialog (the game's quests: herbalism),new
-q:pkg:t:herbalism.prime_quest.npc_chat,Herbalism,Zielarstwo,,quest dialog (the game's quests: herbalism),new
+q:pkg:t:herbalism.prime_quest.npc_chat,Herbalism,Zielarstwo,Urtekundskab,quest dialog (the game's quests: herbalism),done
 q:pkg:t:herbalism.prime_quest.state_craft.letter_info,"Baek-Go wants to test your alchemy skills. Study the recipe for the Purple Potion that you received from him, then try to make the potion by opening Baek-Go's crafting window.","Baek-Go chcę sprawdzić Twoje umiejętności alchemiczne. Zapoznaj się z recepturą fioletowej mikstury, którą od niego otrzymałeś, następnie spróbuj wytworzyć tę miksturę otwierając okno wytwarzania u Baek-Go.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_craft.letter_name,Make the Potion ,Wytwórz Miksturę ,,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_craft.success,You did it! This is your first potion! Talk to Baek-Go.,Udało się! To Twoja pierwsza mikstura! Pogadaj z Baek-Go.,,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_progress.letter_info,"As an introduction to herbalism, Baek-Go asked me to get 10 Peach Blossoms. I can find the plant around the first village. To gather the blossoms I will need a Herbalist's Knife, which I can buy from Baek-Go himself. He also pointed out that I don't have to pick the flowers myself - I can get them from monsters or from other players.","W ramach wprowadzenia do Zielarstwa Baek-Go poprosił mnie o zdobycie 10 sztuk Kwiatu Brzoskwini, roślinę mogę znaleźć w okolicy Miasta Pierwszego. Do zebrania Kwiatu będę potrzebować Nożyk Zielarza, który mogę zakupić u samego Baek-Go. Zaznaczył też, że nie muszę zbierać kwiatków, mogę je zdobyć z potworów lub od innych graczy.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_progress.letter_info_has_flowers,I have the 10 Peach Blossoms that Baek-Go asked me for. I should go and see him.,"Mam 10 sztuk Kwiatu Brzoskwini, tak jak prosił mnie Baek-Go, powinienem do niego pójść.",,quest dialog (the game's quests: herbalism),new
-q:pkg:t:herbalism.prime_quest.state_progress.letter_name,Herbalism,Zielarstwo,,quest dialog (the game's quests: herbalism),new
+q:pkg:t:herbalism.prime_quest.state_progress.letter_name,Herbalism,Zielarstwo,Urtekundskab,quest dialog (the game's quests: herbalism),done
 q:pkg:t:herbalism.prime_quest.state_progress.npc_chat,I have the Peach Blossoms,Mam Kwiaty Brzoskwini,,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_progress.talk1,Excellent work! I can see that you have a talent for herbalism. The Peach Blossom is extremely valuable and can be used in many elixirs.,"Doskonała robota! Widzę, że masz talent do zielarstwa. Kwiat Brzoskwini jest niezwykle cenny i może być używany w wielu eliksirach.",,quest dialog (the game's quests: herbalism),new
 q:pkg:t:herbalism.prime_quest.state_progress.talk2,Let's see how you do as an alchemist - try to make your first potion. Drinking a Purple Potion increases your movement speed. Its main ingredient is none other than the Peach Blossom.,"Zobaczymy jak sprawdzisz się jako alchemik, spróbuj wytworzyć pierwszą miksturę. Wypicie Fioletowej Mikstury pozwala na zwiększenie szybkości ruchu. Jej głównym składnikiem jest właśnie Kwiat Brzoskwini.",,quest dialog (the game's quests: herbalism),new
@@ -563,9 +563,9 @@ q:pkg:t:map_warp.high_level,These are places I can only take you to once you hav
 q:pkg:t:map_warp.info_tp_from_city,I will teleport you right away.[ENTER]You are heading to a dangerous place...[ENTER]Take care of yourself... and good luck...,Przeniosę Cię od razu.[ENTER]Idziesz do niebezpiecznego miejsca...[ENTER]Dbaj o siebie... i powodzenia...,,quest dialog (the game's quests: map_warp) | keep: [ENTER] = new line,new
 q:pkg:t:map_warp.info_tp_outside_city,"As you wish. Careful, here we go!","Jak chcesz. Uwaga, zaczynamy!",,quest dialog (the game's quests: map_warp),new
 q:pkg:t:map_warp.low_level,At your level you would not survive a journey through time and space. You can only use my services from level 11.,Z twoim poziomem nie wytrzymasz podróży w czasie[ENTER]i przestrzeni. Z moich usług możesz korzystać[ENTER]dopiero od poziomu 11.,,quest dialog (the game's quests: map_warp),new
-q:pkg:t:map_warp.next,Next,Dalej,,quest dialog (the game's quests: map_warp),new
+q:pkg:t:map_warp.next,Next,Dalej,Næste,quest dialog (the game's quests: map_warp),done
 q:pkg:t:map_warp.no_money,"I could teleport you for free, but I have a large family. To support them, I need money.","Mógłbym Cię przenieść za darmo, ale mam dużą[ENTER]rodzinę. Aby ją utrzymać, potrzebuję pieniędzy.",,quest dialog (the game's quests: map_warp),new
-q:pkg:t:map_warp.previous,Back,Wróć,,quest dialog (the game's quests: map_warp),new
+q:pkg:t:map_warp.previous,Back,Wróć,Tilbage,quest dialog (the game's quests: map_warp),done
 q:pkg:t:map_warp.price,The cost is: %s Yang.,Koszt to: %s Yang.,,quest dialog (the game's quests: map_warp) | keep: %s,new
 q:pkg:t:map_warp.talk1,"This is a nice village... But does anything ever happen here? There is a special place I can teleport you to. But the evil force is growing again, and time and space are slowly falling into chaos. That is why the way back does not always work... Hmm. Do you want to be teleported somewhere?","To ładna wioska... Ale czy w ogóle coś się tu[ENTER]dzieje? Jest specjalne miejsce, gdzie mogę Cię[ENTER]przenieść. Jednak zła siła znowu rośnie, czas i[ENTER]przestrzeń powoli ulegają chaosowi. Dlatego[ENTER]powrót nie zawsze się udaje... Hmm. Czy chcesz[ENTER]się gdzieś przenieść?",,quest dialog (the game's quests: map_warp),new
 q:pkg:t:map_warp.talk1_outside,"This place, though wild and full of dangers, also hides its secrets. I could teleport you from here to a safer location,","To miejsce, choć dzikie i pełne niebezpieczeństw, kryje też swoje sekrety. Mógłbym przenieść Cię stąd do bezpieczniejszej lokalizacji,",,quest dialog (the game's quests: map_warp),new
