@@ -4,7 +4,7 @@
 
 Dieses Repository enthält die Texte von **Metin2 Singleplayer** - den
 Spielclient, die Namen von Gegenständen und Monstern, die Meldungen des
-Servers, die Quests, den Chat der Bots und den Windows-Launcher -, damit
+Servers, die Quests, den Chat der Bots, den Windows-Launcher und das klassische Webpanel -, damit
 Spieler das Spiel in ihre eigene Sprache übersetzen können. Es enthält nur
 Übersetzungen, keinen Spielcode.
 
@@ -17,7 +17,7 @@ kommen in den folgenden Versionen ins Spiel.
 |---|---|
 | `template/` | alle Texte des Spiels, die Spalte `translation` leer. Der Start einer neuen Sprache. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | die Sprachen, die das Spiel schon hat, mit ihrer aktuellen Übersetzung: korrigiere sie und ergänze, was fehlt (Zeilen mit `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | neue Sprachen, noch nicht begonnen (Kopien von `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | neue Sprachen, schon teilweise übersetzt: ergänze, was fehlt (Zeilen mit `status` `new`). |
 | `tools/validate.py` | die Prüfung, die jeder Pull Request durchläuft. |
 
 Englisch ist die Quelle, Polnisch steht zum Vergleich daneben; keine der
@@ -34,6 +34,7 @@ GitHub sie anzeigen und bearbeiten kann (höchstens 700 Zeilen pro Datei):
 | `4_questy_NN.csv` | die Dialoge der Quests |
 | `5_boty_czat_NN.csv` | der Chat der Bots, das Gerede der Monster, die Sätze des Servers |
 | `6_launcher_NN.csv` | der Windows-Launcher |
+| `7_panel_NN.csv` | das klassische Webpanel (das Admin-Panel auf Port 7788, im Browser) |
 
 Jede Datei hat die Spalten:
 
@@ -113,13 +114,23 @@ Du musst nicht alles auf einmal übersetzen - schick, was du hast.
 
    Rumänisch: Die Codepage hat nur **ş ţ mit Cedille**, nicht ș ț mit
    Komma. Der Launcher (`6_launcher_*`) ist ein eigenes Windows-Programm und
-   nimmt jeden Buchstaben.
+   nimmt jeden Buchstaben. Ebenso das Webpanel (`7_panel_*`), eine Seite im
+   Browser: beide sind **UTF-8**, jeder Buchstabe jeder Sprache.
 4. **Der Chat der Bots** (Zeilen, deren Notes „ASCII letters only“ sagen):
    Die Bots tippen wie Spieler, in einfachen Buchstaben a-z ohne Akzente.
 5. **Länge.** Wo die Notes „max N characters“ sagen, hat das Spiel keinen
    Platz für mehr.
 6. **Zeilenumbrüche** nur, wo das Englische sie hat oder die Notes „new lines
    allowed“ sagen.
+7. **Das Webpanel** (`7_panel_*`): Seine Texte landen in einer Webseite, also
+   behalte die HTML-Tags des Englischen genau so bei (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` und die Platzhalter im Stil `<number>` in spitzen
+   Klammern) und füge kein eigenes `<`, `>` oder `javascript:` hinzu. Seine
+   Variablen sind `%s`, `%d`, `%(name)s` und `{name}`; ein benanntes `%(name)s`
+   darf verschoben werden. Ein `%` mit folgendem Leerzeichen (`25% a character`)
+   ist ein Prozentzeichen. Eine Sprache mit mindestens einem übersetzten
+   Panel-Text erscheint in der Sprachauswahl des Panels; was nicht übersetzt
+   ist, erscheint auf Englisch.
 
 ## Eine neue Sprache
 
@@ -143,6 +154,8 @@ an der gefundenen Zeile:
 - eine `id`, die nicht in `template/` steht, oder doppelt vorkommt;
 - eine geänderte Spalte `english`;
 - andere Variablen, Platzhalter, Tags oder Farbcodes als im Englischen;
+- im Blatt des Webpanels andere HTML-Tags als im Englischen oder ein
+  eigenes `<`, `>` oder `javascript:`;
 - einen Buchstaben außerhalb der Codepage der Sprache, einen Tabulator, ein
   Steuerzeichen, einen Zeilenumbruch, wo keiner erlaubt ist, einen zu langen
   Text.

@@ -4,7 +4,7 @@
 
 Este repositório contém os textos do **Metin2 Singleplayer** - o cliente do
 jogo, os nomes dos itens e dos monstros, as mensagens do servidor, as missões,
-o chat dos bots e o launcher do Windows - para que os jogadores possam traduzir
+o chat dos bots, o launcher do Windows e o painel web clássico - para que os jogadores possam traduzir
 o jogo para a sua própria língua. Contém apenas traduções: nenhum código do
 jogo.
 
@@ -17,7 +17,7 @@ no jogo nas versões seguintes.
 |---|---|
 | `template/` | todos os textos do jogo, com a coluna `translation` vazia. O ponto de partida de uma nova língua. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | as línguas que o jogo já tem, com a tradução atual: corrige-a e completa o que falta (linhas com `status` `new`). |
-| `hu/` `es/` `it/` `cs/` | novas línguas, ainda não começadas (cópias de `template/`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | línguas novas, já traduzidas em parte: completa o que falta (linhas com `status` `new`). |
 | `tools/validate.py` | a verificação pela qual passa cada pull request. |
 
 O inglês é a fonte e o polaco aparece ao lado como referência; nenhum dos dois
@@ -34,6 +34,7 @@ o GitHub os possa mostrar e editar (no máximo 700 linhas por ficheiro):
 | `4_questy_NN.csv` | os diálogos das missões |
 | `5_boty_czat_NN.csv` | o chat dos bots, a conversa dos monstros, as frases do servidor |
 | `6_launcher_NN.csv` | o launcher do Windows |
+| `7_panel_NN.csv` | o painel web clássico (o painel de administração na porta 7788, no navegador) |
 
 Cada ficheiro tem as colunas:
 
@@ -113,13 +114,22 @@ Não precisas de traduzir tudo de uma vez - envia o que tiveres.
 
    Romeno: a página de código só tem **ş ţ com cedilha**, não ș ț com
    vírgula. O launcher (`6_launcher_*`) é um programa do Windows à parte e
-   aceita qualquer letra.
+   aceita qualquer letra. O painel web (`7_panel_*`), uma página no navegador,
+   também: ambos são **UTF-8**, qualquer letra de qualquer língua.
 4. **O chat dos bots** (linhas cujas notas dizem "ASCII letters only"): os
    bots escrevem como jogadores, com letras simples a-z sem acentos.
 5. **Comprimento.** Onde as notas dizem "max N characters", o jogo não tem
    espaço para mais.
 6. **Quebras de linha** só onde o inglês as tem ou as notas dizem "new lines
    allowed".
+7. **O painel web** (`7_panel_*`): os seus textos vão para uma página web, por
+   isso mantém as tags HTML do inglês exatamente como estão (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` e os marcadores do tipo `<number>` entre ângulos) e
+   não acrescentes nenhum `<`, `>` ou `javascript:` teu. As suas variáveis são
+   `%s`, `%d`, `%(name)s` e `{name}`; um `%(name)s` com nome pode mudar de
+   lugar. Um `%` seguido de espaço (`25% a character`) é um sinal de
+   percentagem. Uma língua com pelo menos um texto do painel traduzido aparece
+   na escolha de língua do painel; o que não está traduzido aparece em inglês.
 
 ## Uma nova língua
 
@@ -144,6 +154,8 @@ linha onde o encontrou:
 - um `id` que não está em `template/`, ou que aparece duas vezes;
 - uma coluna `english` alterada;
 - variáveis, marcadores, etiquetas ou códigos de cor diferentes dos do inglês;
+- na folha do painel web, outras tags HTML que as do inglês, ou um `<`, `>`
+  ou `javascript:` próprio;
 - uma letra fora da página de código da língua, uma tabulação, um carácter de
   controlo, uma quebra de linha onde não é permitida, um texto demasiado
   longo.

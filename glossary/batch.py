@@ -55,7 +55,7 @@ def save(path, rows, lt):
 
 
 def codepage(lang, fname):
-    return 'utf-8' if fname.startswith('6_launcher') else CP[lang]
+    return 'utf-8' if fname.startswith(validate.UTF8_SHEETS) else CP[lang]
 
 
 def source(row):
@@ -90,7 +90,8 @@ def fix_blanks(english, text):
 
 
 def check(lang, fname, english, notes, text):
-    return validate.problem(english, notes, text, codepage(lang, fname))
+    return validate.problem(english, notes, text, codepage(lang, fname),
+                            panel=fname.startswith(validate.PANEL_SHEET))
 
 
 def lang_files(lang, pattern='*'):

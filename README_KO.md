@@ -3,7 +3,7 @@
 [English](README.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | **한국어**
 
 이 저장소에는 **Metin2 Singleplayer**의 텍스트 - 게임 클라이언트, 아이템과
-몬스터 이름, 서버 메시지, 퀘스트, 봇 채팅, Windows 런처 - 가 들어 있어
+몬스터 이름, 서버 메시지, 퀘스트, 봇 채팅, Windows 런처, 클래식 웹 패널 - 가 들어 있어
 플레이어가 게임을 자신의 언어로 번역할 수 있습니다. 번역만 들어 있으며 게임
 코드는 없습니다.
 
@@ -16,7 +16,7 @@
 |---|---|
 | `template/` | 게임의 모든 텍스트이며 `translation` 열은 비어 있습니다. 새 언어의 시작점입니다. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | 게임에 이미 있는 언어와 현재 번역입니다. 수정하고 빠진 부분(`status`가 `new`인 행)을 채워 주세요. |
-| `hu/` `es/` `it/` `cs/` | 아직 시작하지 않은 새 언어입니다(`template/`의 복사본). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | 새 언어, 이미 일부 번역됨: 빠진 것을 채우십시오 (`status`가 `new`인 행). |
 | `tools/validate.py` | 모든 풀 리퀘스트가 거치는 검사입니다. |
 
 원문은 영어이며, 폴란드어는 참고용으로 옆에 표시됩니다. 두 언어 모두 별도의
@@ -33,6 +33,7 @@
 | `4_questy_NN.csv` | 퀘스트 대화 |
 | `5_boty_czat_NN.csv` | 봇 채팅, 몬스터의 대사, 서버 문구 |
 | `6_launcher_NN.csv` | Windows 런처 |
+| `7_panel_NN.csv` | 클래식 웹 패널 (브라우저에서 여는 7788 포트의 관리자 패널) |
 
 모든 파일의 열은 다음과 같습니다:
 
@@ -110,13 +111,21 @@
    한국어는 코드 페이지 949(CP949)를 사용합니다. 루마니아어: 코드 페이지에는
    **세디유가 붙은 ş ţ**만 있고, 쉼표가 붙은 ș ț는 없습니다. 런처
    (`6_launcher_*`)는 별도의 Windows 프로그램이므로 모든 글자를 쓸 수
-   있습니다.
+   있습니다. 웹 패널(`7_panel_*`)도 브라우저의 페이지이므로 마찬가지입니다:
+   둘 다 **UTF-8**이며 어떤 언어의 어떤 글자든 쓸 수 있습니다.
 4. **봇 채팅**(notes에 "ASCII letters only"라고 적힌 행): 봇은 플레이어처럼
    악센트 없는 라틴 문자 a-z로만 입력합니다.
 5. **길이.** notes에 "max N characters"라고 적힌 곳은 게임에 그보다 긴
    텍스트를 넣을 공간이 없습니다.
 6. **줄바꿈**은 영어에 있거나 notes에 "new lines allowed"라고 적힌 곳에서만
    씁니다.
+7. **웹 패널**(`7_panel_*`): 텍스트가 웹 페이지에 들어가므로 영어의 HTML 태그를
+   그대로 유지하고(`<b>`, `</b>`, `<a href="...">`, `<br>`, 꺾쇠괄호 안의
+   `<number>` 같은 자리 표시자) 직접 `<`, `>`, `javascript:`를 추가하지 마십시오.
+   변수는 `%s`, `%d`, `%(name)s`, `{name}`이며, 이름 있는 `%(name)s`는 위치를
+   옮겨도 됩니다. 뒤에 공백이 오는 `%`(`25% a character`)는 퍼센트 기호입니다.
+   패널 텍스트가 하나라도 번역된 언어는 패널의 언어 선택에 나타나며, 번역되지
+   않은 부분은 영어로 표시됩니다.
 
 ## 새 언어
 
@@ -140,6 +149,8 @@
 - `template/`에 없거나 두 번 나오는 `id`;
 - 바뀐 `english` 열;
 - 영어와 다른 변수, 자리 표시자, 태그, 색상 코드;
+- 웹 패널 시트에서 영어와 다른 HTML 태그, 또는 직접 넣은 `<`, `>`,
+  `javascript:`;
 - 해당 언어의 코드 페이지에 없는 글자, 탭, 제어 문자, 허용되지 않는 줄바꿈,
   너무 긴 텍스트.
 

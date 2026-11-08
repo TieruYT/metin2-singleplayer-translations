@@ -2,23 +2,23 @@ id,english,polski,translation,notes,status
 p:75fd665a6b14,Grade 5,Stopień 5,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:842c8d7f8108,Grotto 1,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:5cef69a1ce5f,Grotto 2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:db6d07f7b4b3,Grotto of Exile 1,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:dc2d5ee91f9a,Grotto of Exile 2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:db6d07f7b4b3,Grotto of Exile 1,,Jeskyně vyhnanců 1,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:dc2d5ee91f9a,Grotto of Exile 2,,Jeskyne vyhnancu 2,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1d939a2c432a,Guild Grounds,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:5b8eb8c552fa,Guild land,Działki gildii,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:246d2ae459c8,Guild smelting,Przetapianie gildii,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:bb386fdbe7c3,Guilds,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5200bdfc01a1,HP,PŻ,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:5200bdfc01a1,HP,PŻ,HP,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:a6bde2b753be,"HP is hit points; the higher the defence, the less damage gets through.","PŻ to punkty życia; im wyższa obrona, tym mniej obrażeń dochodzi do celu.",,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6cc1f23a1bbd,"HP, damage, defence, level, rank, reward, behaviour, resistances.","PŻ, obrażenia, obrona, poziom, ranga, nagroda, zachowanie, odporności.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
 p:c3311cae76f5,Hairstyle,Fryzura,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6229089d1582,Hairstyles,Fryzury,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
+p:6229089d1582,Hairstyles,Fryzury,Účesy,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:f158b57591e9,Handing the changes to the game: a restart of the cores.,Przekazanie zmian do gry: restart rdzeni.,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
 p:3f608b4935ea,Height,Wysokość,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:324cefbd703f,Held: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:d8b9bc3bc3ab,Helmets,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:d8b9bc3bc3ab,Helmets,,Helmy,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:d7b636c39179,Herbalism unlocked at Baek-Go; 5% of a level's EXP; a Herbalist's Knife+0 if the character has none.,"Zielarstwo odblokowane u Baek-Go; 5% EXP poziomu; Nozyk Zielarza+0, jesli postac go nie ma.",,"panel: module text / panel: quest_admin_web.py | keep: % o | the classic web panel (browser, UTF-8: any letter)",new
-p:bd629b84235b,Herbs,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:bd629b84235b,Herbs,,Byliny,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:3b2695cbdb19,Hexagonal Treasure Chest,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:8b7a70703b01,Hexagonal Treasure Chest (Cape),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:05b9ff889f2a,Hexagonal Treasure Chest (Demon Tower),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -60,7 +60,7 @@ p:f642ee196088,Indexes,Indeksy,,"panel: module text / panel: editsql/pages.py | 
 p:f9e84ee2ac46,Ingredients,Składniki,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:71fbca8d1a65,Ingredients and requirements,Składniki i wymagania,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:070d93e53972,InnoDB is required,wymagany silnik InnoDB / InnoDB is required,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c698f940a03e,Intelligence,Inteligencja,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:c698f940a03e,Intelligence,Inteligencja,Inteligence,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:f01c2e7118f6,Intelligence (IQ),Inteligencja (IQ),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a801b03275dc,Internal name (client),Nazwa wewnętrzna (klient),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:576b30aad4de,Invalid item to remove.,Niepoprawna pozycja do usunięcia.,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -81,7 +81,7 @@ p:6fe702c50a20,Item name or VNUM...,,,"panel: module text | the classic web pane
 p:524c028b1a73,Item statistics,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:5845a573ef72,Item types,Typy przedmiotów,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:fedefec33b15,"Item types, monster ranks and monster types are numbers in the database. The editor knows their standard names from the Metin2 engine (the “Default” column), and here you can give your own - they show everywhere in the editor. An empty field = the default name.","Typy przedmiotów, rangi i typy potworów są w bazie liczbami. Edytor zna ich standardowe nazwy z silnika Metin2 (kolumna „Domyślnie”), a tutaj możesz nadać własne - pojawią się wszędzie w edytorze. Puste pole = nazwa domyślna.",,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:3648056b3ad7,ItemShop,ItemShop,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
+p:3648056b3ad7,ItemShop,ItemShop,Obchod s předměty,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
 p:c3fedab360ba,ItemShop window,Okno ItemShopu,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:dd11ed4550e7,Items (everybody),Przedmioty (wszyscy),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ba06f7fbe879,"Items are vnum,count pairs.","Przedmioty to pary vnum,ilość.",,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -93,7 +93,7 @@ p:a5b5312fda87,Items – sura,Przedmioty – sura,,"panel: module text / panel: 
 p:7c79939b62bc,Items – warrior,Przedmioty – wojownik,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:f4fc1e02dcf8,"Items, monsters, drops, shops and the rest of the game's data","Przedmioty, potwory, drop, sklepy i reszta danych gry",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
 p:458672cef5d4,Jayang (Shinsoo M2),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:4360cc060e67,Jewellery,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:4360cc060e67,Jewellery,,Šperky,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:db351e6591f8,Jinno (blue),Jinno (niebieskie),,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:21f43e50f7ef,Jinno Guild Land,Ziemia Klanu Jinno,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:fa6f93952be6,Jinno guild grounds,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -123,8 +123,8 @@ p:0ca11761f355,Logged out of the database editor.,Wylogowano z edytora bazy dany
 p:392d3b312fee,Lottery,Loteria,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:1aa6e8ca6610,Lv,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:99f42451a1ce,Lv.,Poz.,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f6d00f67258b,M1,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:c53ec69ce5eb,M2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:f6d00f67258b,M1,,M1,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:c53ec69ce5eb,M2,,M2,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b2602a6c00ce,Made from,Powstaje z,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:4bd70931b769,Magic attack value: {a} - {b},Wartość ataku magicznego: {a} - {b},,"panel: module text / panel: market_preview/texts.py | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
 p:365c99337d31,Many at once: vnum count (one per line),Wiele pozycji naraz: vnum ilość (jedna na linię),,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -136,13 +136,13 @@ p:569bbd757e1b,Market,,,"panel: module text | the classic web panel (browser, UT
 p:998af55cb495,Market preview · Metin2 Singleplayer,Podgląd rynku · Metin2 Singleplayer,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:b8c2da4c69b9,Market stats,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:738056da909b,Marks,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f2811e779e55,Marriage,Ślub,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
+p:f2811e779e55,Marriage,Ślub,Manželství,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:76884ec2d9d7,Master bonus – formula,Bonus mistrza – wzór,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:d8169782b57c,Material,Materiał,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:cf1002b6e2cb,Material in recipes,Materiał w przepisach,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:d9dd7ecfc554,Material missing,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:2402ea363265,Materials,Materiały,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f3eff5cf2cf1,Max. HP,Maks. PŻ,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:f3eff5cf2cf1,Max. HP,Maks. PŻ,Max. HP,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:4f03def4dd9f,Max. damage,Obrażenia maks.,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:1de686825318,Max. hits,Maks. trafień,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9b0a5f0fb36f,Max. level,Maks. poziom,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -161,7 +161,7 @@ p:4e2a9eba542f,Min. level,Min. poziom,,"panel: module text / panel: editsql/fiel
 p:17640aa923b1,Min. lv.,Min. poz.,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:87853245e190,Min. yang,Yang min.,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:7224853e9bdf,Model folder,Folder modelu,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:369516b73135,Monkey Dungeon (hard),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:369516b73135,Monkey Dungeon (hard),,Opičí kobka (těžká),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:82e997e6d9d3,Monkey Dungeon (medium),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:ff34da9f86c2,Monkey Dungeon 2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:546c11014f2f,Monkey Dungeon 3,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -179,7 +179,7 @@ p:5ae15651250a,Most common items,,,"panel: module text | the classic web panel (
 p:9890f9589d51,Most played characters,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:fe0d3e854fe1,Mount Thunder,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:acad4627760b,Mount capacity,Udźwig wierzchowca,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5ca5d6e2ac48,Movement speed,Szybkość ruchu,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:5ca5d6e2ac48,Movement speed,Szybkość ruchu,Rychlost pohybu,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:c8b043473c57,NPC price,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:1d63ee42cfd9,NPC shops,Sklepy NPC,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:85e33266c06e,NPC window,Okno NPC,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -192,9 +192,9 @@ p:991b682a28ed,Name or VNUM...,,,"panel: module text | the classic web panel (br
 p:69c04540ab5f,"Names of item types, monster ranks and monster types.","Nazwy typów przedmiotów, rang i typów potworów.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ec90e9751dfb,Names saved (%d).,Zapisano nazwy (%d).,,"panel: module text / panel: editsql/__init__.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:dd1feb6288a1,"Names, type, prices, limits, bonuses, refining and sockets.","Nazwy, typ, ceny, limity, bonusy, ulepszanie i gniazda.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:22b0384fa032,Necklaces,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:22b0384fa032,Necklaces,,Náhrdelníky,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:bd20cd94cd2a,Needs checking - do not give the reward again,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f65772e57999,Nephrite Bay,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:f65772e57999,Nephrite Bay,,Nefritová zátoka,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:e771e1d3e3a4,New event:,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:ad43a620f2ea,New offer,Nowa pozycja,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:b7d29fc5c91b,New position: X ,Nowe położenie: X ,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -202,7 +202,7 @@ p:f53c48bf688f,New recipe,Nowy przepis,,"panel: module text / panel: editsql/__i
 p:abe3574edb43,Newest listings,Najnowsze wystawienia,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9101b9323372,Next upgrade,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:51802ba8fa25,Next ›,Następna ›,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:816c52fd2bdd,No,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:816c52fd2bdd,No,,Ne,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b18fad56d41f,No +7 or higher upgrades yet.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:fd741f95749e,No ItemShop purchases yet.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:f7923bfc8bc5,"No NPC window chosen: recipe <b>#%s</b> will be in the database, but a player sees it only in a window you add it to (on the recipe's page or under “NPC windows”).","Nie wybrano okna NPC: przepis <b>#%s</b> będzie w bazie, ale gracz zobaczy go dopiero w oknie, do którego go dodasz (na stronie przepisu albo w „Okna NPC”).",,"panel: module text / panel: editsql/modules.py | keep: %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",new
@@ -235,7 +235,7 @@ p:df095fcc46e8,No refine log.,,,"panel: module text | the classic web panel (bro
 p:3e76f9f4431f,No restart script.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:4ea83937245f,No reward definition: ,Brak definicji nagrody: ,,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
 p:fdbeab75c2ce,No rows.,Brak wierszy.,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:da444935e92f,No such character.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:da444935e92f,No such character.,,Taková postava neexistuje.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:fd4bfb66e31c,No such module,Nie ma takiego modułu,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:c1689e1e54de,No such offers: %s - reload the list.,Nie ma pozycji: %s - odśwież listę.,,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
 p:72fc9f939436,No such recipes: %s - reload the list.,Nie ma przepisów: %s - odśwież listę.,,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
@@ -245,7 +245,7 @@ p:b8b9f1367ad6,No.,Nr,,"panel: module text / panel: editsql/editor.py | the clas
 p:36a9b94c01ec,None yet.,Jeszcze żadnego.,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:3582492e81a4,Not added: %s,Nie dodano: %s,,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
 p:17abfb8ac3fc,Not dropped in PK,Nie wypada przy PK,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:7144f213971d,Not enough Yang,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:7144f213971d,Not enough Yang,,Nedostatek Yangů,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8b1c35ddc518,Not enough history for a chart yet – the panel collects prices from its start.,Za mało historii na wykres – panel zbiera ceny od chwili uruchomienia.,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6ef38ed3b868,Not for Chunjo,Nie dla Chunjo,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:0bb43e74782a,Not for Jinno,Nie dla Jinno,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -311,7 +311,7 @@ p:ace5411125cd,Plots (world.land) on the map and the buildings standing on them.
 p:702b2453a118,Plots on the map,Działki na mapie,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:1af7e9bd658e,Plus {}% of the EXP of level {}.,Dodatkowo {}% EXP poziomu {}.,,"panel: module text / panel: quest_admin_web.py | keep: % o; {} | the classic web panel (browser, UTF-8: any letter)",new
 p:9b66f3ac3855,Points at,Wskazuje na,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a2d4140ad8e1,Polymorph,Polimorfia,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
+p:a2d4140ad8e1,Polymorph,Polimorfia,Proměna,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:08b915fef292,Polymorph item,Przedmiot polimorfii,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:b7d07ddd925c,Popular items,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:2cf6f099e71e,Pos.,Poz.,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -330,10 +330,10 @@ p:3b231bc3ac55,Preview of the new recipe,Podgląd nowego przepisu,,"panel: modul
 p:014ccf281cc8,Preview the new offer,Podgląd nowej pozycji,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:24f61163a497,Preview the new recipe,Podgląd nowego przepisu,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:87cfaf5f40ca,Preview the new row,Podgląd nowego wiersza,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:50f94286ba30,Previous,Poprzednia,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
+p:50f94286ba30,Previous,Poprzednia,Předchozí,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
 p:36ab45999e17,Price (yang),Cena (yang),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:47207a03ec93,Price an NPC pays,Cena skupu przez NPC,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:ab5d6fd63898,Price per piece,Cena za sztukę,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:ab5d6fd63898,Price per piece,Cena za sztukę,Cena za kus,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:865ba4e6621b,Price: highest first,Cena: od najwyższej,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:d434a6932eec,Price: lowest first,Cena: od najniższej,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a86063277977,Project → target,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -344,7 +344,7 @@ p:6c4e94f10417,Purchases,,,"panel: module text | the classic web panel (browser,
 p:4d21ee04d052,Purchases per day (30 days),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:8e7a4070421b,Purity ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:c3b9ebb2ab36,PvE {a} / PvP {b},PvE {a} / PvP {b},,"panel: module text / panel: market_preview/texts.py | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
-p:a2e95ddd7d13,PvP: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:a2e95ddd7d13,PvP: ,,PvP: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1d29cc46371d,Pyongmoo (Jinno M1),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:1defd1949b9d,Quest,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:8f85d48f7cab,Quest completion by a GM,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -352,28 +352,28 @@ p:8fa810406a9b,Quest completion is switched off (Player quests).,,,"panel: modul
 p:ad7e25b7ef05,Quest completion is switched off.,Konczenie misji jest wylaczone.,,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
 p:209f253aa4a7,Quest completion: off.,Konczenie misji: wylaczone.,,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9d0974350c80,Quest completion: on.,Konczenie misji: wlaczone.,,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
-p:18d4da5c6380,Quest item,Przedmiot misji,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
+p:18d4da5c6380,Quest item,Przedmiot misji,Předmět úkolu,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:f475ea6c5b85,Quest name,Nazwa questa,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:2866b514698b,Quest or stage,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:a6c878010b2e,Quest rewards,Nagrody questów,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:0112aa533003,Quest use,Użycie w queście,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:eca701b5e1d8,Quests,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:eca701b5e1d8,Quests,,Úkoly,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:2440ab067125,Queued. It is carried out when the character is in the game; the result shows in the history.,"Zlecenie zapisano. Wykona sie, gdy postac bedzie w grze; wynik pojawi sie w historii.",,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ad42645375b6,Queued. The character must be in the game; the result shows in the history.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:917dd1a201be,RAM now,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:36a5690f2d10,Race and element,Rasa i żywioł,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:d44047c1ef2b,"Random EXP, Yang and items by the scroll's own tables, with its bonuses to the number and quality of the items.","Losowe EXP, Yang i przedmioty wedlug oryginalnych tabel zwoju, z oryginalnymi bonusami do liczby i jakosci przedmiotow.",,"panel: module text / panel: quest_admin_web.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a16c5bbe4bf9,Range,Zasięg,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:dd48a1149548,Rank,Ranga,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:dd48a1149548,Rank,Ranga,Hodnost,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:85b4ee8e1472,Rank (alignment),Ranga (alignment),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:cce370d2f978,Rare,Rzadkie,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
+p:cce370d2f978,Rare,Rzadkie,Vzácný,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:6b169c7891cf,Rare only,Tylko rzadkie,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9a8c5caf1a09,Rare: {n} pcs on all running shops (fewer than 10),Rzadkie: {n} szt. na wszystkich aktywnych sklepach (mniej niż 10),,"panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
 p:f04cad5a95ab,Rates,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:a91c578966f2,Read: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:a0d73bcd7556,Ready.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:2180d08a098a,Real time,Czas rzeczywisty,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f219cc0614ae,Reason,Powód,,"panel: module text / panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
+p:f219cc0614ae,Reason,Powód,Důvod,"panel: module text / panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
 p:a21511efb139,Recent actions,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:47676d1738c7,Recent purchases,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:cac01ade533b,Recently finished,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -395,27 +395,27 @@ p:ada4c67263e0,Recipe missing,,,"panel: module text | the classic web panel (bro
 p:7096fd6cae14,Recipe number,Numer przepisu,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:b1bef4eb0d2d,Recipe number or material VNUM,Numer przepisu albo VNUM materiału,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:c6204cd6962f,"Recipe number, result VNUM or comment","Numer przepisu, VNUM wyniku albo komentarz",,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:9fb1092f32d4,Recipes,Przepisy,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
+p:9fb1092f32d4,Recipes,Przepisy,Recepty,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:9c412bcebd6f,"Recipes +N → +N+1: cost, chance, materials and the items that use them.","Przepisy +N → +N+1: koszt, szansa, materiały i przedmioty, które ich używają.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9efd34fe9411,Recipes in the window (%d),Przepisy w oknie (%d),,"panel: module text / panel: editsql/modules.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:978b18849245,"Recipes: result, ingredients, price, chance.","Przepisy: wynik, składniki, cena, szansa.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:042cd0b7c285,Red Dragon Fortress,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:570394a8ef2c,Red Wood,Czerwony Las,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
+p:042cd0b7c285,Red Dragon Fortress,,Pevnost Rudého draka,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:570394a8ef2c,Red Wood,Czerwony Las,Rudý les,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:48fbcb99df9b,Reference price: {p} yang / pc.,Cena odniesienia: {p} yang / szt.,,"panel: module text / panel: market_preview/texts.py | keep: {p} | the classic web panel (browser, UTF-8: any letter)",new
 p:9bf20ff138c5,Refinable,Ulepszalny,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5580e0d733d0,Refinement,Ulepszenie,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
+p:5580e0d733d0,Refinement,Ulepszenie,Vylepšení,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:05c03aa9296e,Refinement: highest first,Poziom ulepszenia: od największego,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:aacf95c495c7,Refinement: lowest first,Poziom ulepszenia: od najmniejszego,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:e3e2805ec115,Refines into,Po ulepszeniu,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:8f5fb8165e8f,Refining and sockets,Ulepszanie i gniazda,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:652e4e116cbc,Refining recipe,Przepis ulepszenia,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:56e3badc4e6c,Refresh,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:56e3badc4e6c,Refresh,,Obnovit,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:004e5bae0006,Refused before anything changed,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:fad6b0c9f6cd,Regeneration (%),Regeneracja (%),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:e27527d527f2,Regeneration cycle,Cykl regeneracji,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6519fe11ef74,Relations,Powiązania,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:7db118084e98,Reload requested: ,Zlecono przeładowanie: ,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e963907dac5c,Remove,Usuń,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
+p:e963907dac5c,Remove,Usuń,Odebrat,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:978a35f0794c,Remove from the window,Usuń z okna,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:c38dfe9c6b76,Remove recipe #%s from the window %s? The recipe itself stays in the database.,Usunąć przepis #%s z okna %s? Sam przepis zostaje w bazie.,,"panel: module text / panel: editsql/modules.py | keep: %s %s | the classic web panel (browser, UTF-8: any letter)",new
 p:3136f4c1cc99,Remove this item from the shop?,Usunąć tę pozycję ze sklepu?,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -424,7 +424,7 @@ p:9afb7a3030d0,Repeated quest use,Wielokrotne użycie w queście,,"panel: module
 p:7bb82f623843,Replacement unavailable,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:e4a6101d5009,Reputation: +{}.,Reputacja: +{}.,,"panel: module text / panel: quest_admin_web.py | keep: {} | the classic web panel (browser, UTF-8: any letter)",new
 p:888285c89824,Req. lv.,Wym. poz.,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:4aed03cac49d,Request,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:4aed03cac49d,Request,,Žádost,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:6280f42678fe,Required level,Wymagany poziom,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:3e4108dd704e,Required level: {n},Wymagany poziom: {n},,"panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
 p:bc5a3a37e586,Required progress,Wymagany postęp,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -435,7 +435,7 @@ p:92d239fa7dfa,Requirement 1 is usually the character's level.,Najczęściej wym
 p:2dd962cfad6b,Requirement 1 value,Wartość wymagania 1,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:2502cbcdbbd8,Requirement 2,Wymaganie 2,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:f92100c1475a,Requirement 2 value,Wartość wymagania 2,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:09a428f93ec0,Requirements,Wymagania,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:09a428f93ec0,Requirements,Wymagania,Požadavky,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:311e34e4e05b,Res. to bells,Odp. na dzwony,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a8b7325e910f,Res. to bows,Odp. na łuki,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a73c178db73d,Res. to daggers,Odp. na sztylety,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -450,23 +450,23 @@ p:82493f30543d,Res. to wind,Odp. na wiatr,,"panel: module text / panel: editsql/
 p:4bfd3514b793,Reset values,Przywróć wartości,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:eeec8e860233,Resistances,Odporności,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:021493f340d3,Resource,Surowiec,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b134bd555a2f,Restart,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:b134bd555a2f,Restart,,Restartovat,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:934043b86c8a,Restart the game's cores? Players in the game will be disconnected for a moment.,Zrestartować rdzenie gry? Gracze w grze zostaną na chwilę rozłączeni.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:4a7c935ad019,Restart the server,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:4a7c935ad019,Restart the server,,Restartovat server,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:95c15a3f8aa8,"Restarting the cores alone does not refresh the game's tooltips. After editing fixed bonuses, attack, prices or levels: restart the cores, close the game and in the launcher choose OPEN WEB PANEL → “Synchronize item data to the client”. For a friend or a client on a VPS, download this world's data package.","Sam restart rdzeni nie odświeża opisów w grze. Po zmianie stałych bonusów, ataku, cen lub poziomów: zrestartuj rdzenie, zamknij grę i w launcherze wybierz OTWÓRZ PANEL WWW → „Synchronizuj dane przedmiotów z klientem”. Dla znajomego lub klienta na VPS pobierz paczkę danych tego świata.",,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6596c9da8ee5,Restrictions (antiflag),Zakazy (antiflag),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5faa59d4bc37,Result,Wynik,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:5faa59d4bc37,Result,Wynik,Výsledek,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:86fa38a9bdca,Result item,Przedmiot wynikowy,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6db105eff50c,Result not wearable,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:2d945fab303e,Revenge done,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:87d2ffe01b92,Revenge given up,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:2e08bbd34b71,Revive,Odrodzenie,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:2e08bbd34b71,Revive,Odrodzenie,Oživení,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:9dafd5b245dd,Reward for the kill,Nagroda za zabicie,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:84e771d1b917,Rewards by class,Nagrody dla klas,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:7021e7d1e9a2,Richest characters,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:77853536f481,Riding,Jazda konna,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
+p:77853536f481,Riding,Jazda konna,Jízda,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:96ddaccf581f,Ring,Pierścień,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e96857c58f71,Root,Unieruchomienie,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:e96857c58f71,Root,Unieruchomienie,Kořen,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:9bf7a8e8909b,Row,Wiersz,,"panel: module text / panel: editsql/bulk.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a871f6856aa8,Rows (approx.),Wierszy (ok.),,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ee99689ec4a6,Rows: <b>%s</b>.,Liczba wierszy: <b>%s</b>.,,"panel: module text / panel: editsql/pages.py | keep: %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",new
@@ -480,13 +480,13 @@ p:05a6a9d15f39,Sales 24 h,,,"panel: module text | the classic web panel (browser
 p:179359b39edb,Save changes,Zapisz zmiany,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:96164dc370a1,Save error: %s,Błąd zapisu: %s,,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
 p:e2ebc8894b90,Save the names,Zapisz nazwy,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c0ae8f6ea841,Saved,Zapisywany,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:c0ae8f6ea841,Saved,Zapisywany,Uloženo,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:8102ff87a431,Saved %d %s. The change is in the Change history; in the game it takes effect as “Effect in the game” says.,Zapisano %d %s. Zmiana jest w Historii zmian; w grze zadziała zgodnie z opisem „Efekt w grze”.,,"panel: module text / panel: editsql/__init__.py | keep: %d %s | the classic web panel (browser, UTF-8: any letter)",new
 p:fe21d5b07399,Saved database data; the current native project is unavailable.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:0f45263599a3,Saved flags,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:0c9d17b2a707,Saving the choice…,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9b250fc236c2,Scrolls and books,Zwoje i księgi,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bce06414177f,Search,Szukaj,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:9b250fc236c2,Scrolls and books,Zwoje i księgi,Svitky a knihy,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bce06414177f,Search,Szukaj,Hledat,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:0a92aa4fb579,Search for an item…,Szukaj przedmiotu…,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:59139bd99c56,Second currency,Druga waluta,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:d8072d43dde3,Second skill group,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -503,13 +503,13 @@ p:e4bf685993c5,"Separate lists for the warrior, ninja, sura and shaman.","Osobne
 p:53cd17a825b6,Server IP,IP serwera,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:9e80457ad828,Share = the bonus's weight on the slot divided by the sum of the weights of every bonus of that slot; “max.” is the value at grade 5 (hover to see them all).,"Udział = waga bonusu na danym slocie podzielona przez sumę wag wszystkich bonusów tego slotu; „maks.” to wartość na 5. stopniu (najedź, żeby zobaczyć wszystkie).",,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:6208c1eef3cb,Shared / passive,Wspólne / pasywne,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:31fe17191e29,Shields,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:31fe17191e29,Shields,,Štíty,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:618bd402162c,Shields and helmets,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:2b815f27f03e,Shine,Połysk,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:17dac36e78f5,Shinsoo (red),Shinsoo (czerwone),,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a9df94d0054e,Shinsoo Guild Land,Ziemia Klanu Shinsoo,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
 p:71e68cf21a05,Shinsoo guild grounds,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:664785616853,Shoes,Buty,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:664785616853,Shoes,Buty,Boty,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:79c8eb3a3bd5,Shop #%s%s,Sklep #%s%s,,"panel: module text / panel: editsql/__init__.py | keep: %s %s | the classic web panel (browser, UTF-8: any letter)",new
 p:4376e1e3cab9,Shop %s already holds %d items and the game holds %d in a shop at most - no more is added. The db core of version 2.2.111 and older crashed at its start over such a shop.,"Sklep %s ma już %d pozycji, a gra mieści w sklepie najwyżej %d - kolejna nie zostanie dodana. Rdzeń bazy (db) z wersji 2.2.111 i starszych wyłączał się przy starcie przez taki sklep.",,"panel: module text / panel: editsql/__init__.py | keep: %s %d %d | the classic web panel (browser, UTF-8: any letter)",new
 p:7e2861b54024,Shop (listed prices),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -548,9 +548,9 @@ p:1228e7e0723b,Source: world.locale_point.,Źródło: world.locale_point.,,"pane
 p:94d04010bae1,Special dragon stone,Specjalny smoczy kamień,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
 p:a7bd6ed0f0c7,Special drop,Drop specjalny,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
 p:bdb0b0c4fd25,Special skills,Umiejętności specjalne,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:78d5d75f983e,Spider Dungeon 2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:78d5d75f983e,Spider Dungeon 2,,Pavoučí kobka 2,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:e74e34ee4335,Stable keeper,Stajenny,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:83e5a0d3d2ef,Stack,Stos,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:83e5a0d3d2ef,Stack,Stos,Balík,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e6283f486797,Stackable,Stakowalny,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ca6d0e3aaa7d,Stage,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:296fcfe6aebd,Stall value,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
@@ -561,19 +561,19 @@ p:bc93b07a12bf,Step ready / ordinary activity,,,"panel: module text | the classi
 p:68a03dcd7553,Stone skin,Kamienna skóra,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:11bae62ec48e,Stops and starts the game server.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:9e092dda4f0e,Storage,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:24d3e4fdd9a8,Strength,Siła potwora,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
+p:24d3e4fdd9a8,Strength,Siła potwora,Síla,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:3a06292a0271,Strength (ST),Siła (ST),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:70f378daeffd,Strong elite,Silny elitarny,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d97664aa1386,Stun,Ogłuszenie,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:d97664aa1386,Stun,Ogłuszenie,Omráčit,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:a729bbac0e27,Subtype,Podtyp,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:42a8f651d79f,Success,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:42a8f651d79f,Success,,Úspěch,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8c2b247bd7cf,"Successful and failed +7/+8/+9 upgrades, newest first.",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:1e4a50eb8f75,Summons (vnum),Przywołuje (vnum),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:210dd62a81e4,Swap,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:d61b7f2364ca,Switch off,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:bcdb919b512b,Switch on,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:4a126f4379ee,Sword,Miecz,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:ce3f44c0310c,Swords,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:4a126f4379ee,Sword,Miecz,Meč,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
+p:ce3f44c0310c,Swords,,Meče,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:87a0fb99758e,TP,TP,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:425ac4962dd5,TP settings,Ustawienia TP,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:db6ff3ad55ba,"Table <b>%s.%s</b>, new row <b>%s</b>. <b>Nothing has been saved yet</b> - check the values and confirm.","Tabela <b>%s.%s</b>, nowy wiersz <b>%s</b>. <b>Nic nie zostało jeszcze zapisane</b> - sprawdź wartości i potwierdź.",,"panel: module text / panel: editsql/editor.py | keep: %s %s %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",new
@@ -581,7 +581,7 @@ p:193daf137ed8,Tables,Tabele,,"panel: module text / panel: editsql/pages.py | th
 p:06705c61c096,Tables (%d),Tabele (%d),,"panel: module text / panel: editsql/pages.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:7bc34368ae7f,Take my character to this shop,Przenieś moją postać do tego sklepu,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:06f3dcb1429c,Taken to the shop: {shop},Przeniesiono do sklepu: {shop},,"panel: module text / panel: market_preview/texts.py | keep: {shop} | the classic web panel (browser, UTF-8: any letter)",new
-p:d134015c52da,Talisman,Talizman,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
+p:d134015c52da,Talisman,Talizman,Talisman,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e47d55c8a46d,Target range,Zasięg celu,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
 p:db2d76fa95f4,Target table,Tabela docelowa,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:afeb233fea5d,Technical name,Nazwa techniczna,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
@@ -589,7 +589,7 @@ p:9de270cfab9d,"Teleport fare (yang, 0 = off)","Koszt teleportu (yang, 0 = wył�
 p:ef4b3eb2535b,Teleport fare saved: {cost}.,Zapisano koszt teleportu: {cost}.,,"panel: module text / panel: market_preview/texts.py | keep: {cost} | the classic web panel (browser, UTF-8: any letter)",new
 p:75d92b24c4df,Teleport history,Historia teleportów,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
 p:3237950085cc,Teleport point,Punkt teleportu,,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5e83789be88e,Temple,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:5e83789be88e,Temple,,Chrám,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:c3328c39b0e2,Text,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:42d320afe0fc,That entry (item %s × %s) is already in the shop.,Ta pozycja (przedmiot %s × %s) już jest w sklepie.,,"panel: module text / panel: editsql/__init__.py | keep: %s %s | the classic web panel (browser, UTF-8: any letter)",new
 p:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new

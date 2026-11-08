@@ -379,7 +379,7 @@ q:pkg:t:general.continue,Continue,Kontynuuj,Tovább,quest dialog (the game's que
 q:pkg:t:general.error,An error has occurred.,Wystąpił błąd.,Hiba történt.,quest dialog (the game's quests: general),done
 q:pkg:t:general.info_title,Information:,Informacja:,,quest dialog (the game's quests: general),new
 q:pkg:t:general.information,Information,Informacja,,quest dialog (the game's quests: general),new
-q:pkg:t:general.is_busy,You cannot continue while another window is open.,Nie możesz kontynuować jeżeli inne okno jest otwarte.,,quest dialog (the game's quests: general),new
+q:pkg:t:general.is_busy,You cannot continue while another window is open.,Nie możesz kontynuować jeżeli inne okno jest otwarte.,"Nem folytathatod, amíg másik ablak nyitva van.",quest dialog (the game's quests: general),done
 q:pkg:t:general.item,Item.,Przedmiot.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.kill,Kill,Zabij,,quest dialog (the game's quests: general),new
 q:pkg:t:general.left,Remaining,Pozostało,,quest dialog (the game's quests: general),new
@@ -405,8 +405,8 @@ q:pkg:t:general.map_names.68,Red Forest,Czerwony Las,Vörös erdő,quest dialog 
 q:pkg:t:general.map_names.69,Snakefield,Wężowe Pole,Kígyómező,quest dialog (the game's quests: general),done
 q:pkg:t:general.map_names.70,Land of Giants,Kraina Gigantów,Óriások földje,quest dialog (the game's quests: general),done
 q:pkg:t:general.map_names.71,Spider Dungeon Level 2,Loch Pająków Poz. 2,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.72,Grotto of Exile V1,Grota Wygnańców V1,,quest dialog (the game's quests: general),new
-q:pkg:t:general.map_names.73,Grotto of Exile V2,Grota Wygnańców V2,,quest dialog (the game's quests: general),new
+q:pkg:t:general.map_names.72,Grotto of Exile V1,Grota Wygnańców V1,A száműzöttek barlangja V1,quest dialog (the game's quests: general),done
+q:pkg:t:general.map_names.73,Grotto of Exile V2,Grota Wygnańców V2,A száműzöttek barlangja V2,quest dialog (the game's quests: general),done
 q:pkg:t:general.map_names.81,Wedding Map,Mapa Ślubna,Esküvői térkép,quest dialog (the game's quests: general),done
 q:pkg:t:general.no,No,Nie,Nem,quest dialog (the game's quests: general),done
 q:pkg:t:general.no_gold,You do not have enough Yang.,Nie masz wystarczająco Yang.,Nincs elég Yangod.,quest dialog (the game's quests: general),done
@@ -417,8 +417,8 @@ q:pkg:t:general.open_shop,Open the shop.,Otwórz sklep.,,quest dialog (the game'
 q:pkg:t:general.polymorph,You are transformed.,Jesteś przemieniony.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.time.dh,%d days and %d hours,%d dni i %d godzin,,quest dialog (the game's quests: general) | keep: %d %d,new
 q:pkg:t:general.time.dhm,"%d days, %d hours and %d minutes","%d dni, %d godzin i %d minut",,quest dialog (the game's quests: general) | keep: %d %d %d,new
-q:pkg:t:general.time.hm,%d hours and %d minutes,%d godzin i %d minut,,quest dialog (the game's quests: general) | keep: %d %d,new
-q:pkg:t:general.time.m,%d minutes,%d minut,,quest dialog (the game's quests: general) | keep: %d,new
+q:pkg:t:general.time.hm,%d hours and %d minutes,%d godzin i %d minut,%d óra és %d perc,quest dialog (the game's quests: general) | keep: %d %d,done
+q:pkg:t:general.time.m,%d minutes,%d minut,%d perc,quest dialog (the game's quests: general) | keep: %d,done
 q:pkg:t:general.too_far,You are too far away. Come closer.,"Jesteś za daleko, podejdź bliżej.",,quest dialog (the game's quests: general),new
 q:pkg:t:general.wait_after_exchange,Wait 10 seconds after a trade has ended.,Odczekaj 10 sekund po zakończeniu handlu.,,quest dialog (the game's quests: general),new
 q:pkg:t:general.xp,EXP,Pkt. Doś.,,quest dialog (the game's quests: general),new
