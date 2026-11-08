@@ -52,7 +52,7 @@ CODEPAGES = {
     'gl': 'cp1252', 'eu': 'cp1252', 'is': 'cp1252', 'ga': 'cp1252', 'id': 'cp1252', 'ms': 'cp1252',
     'tl': 'cp1252', 'sw': 'cp1252', 'af': 'cp1252',
     'el': 'cp1253', 'tr': 'cp1254', 'az': 'cp1254', 'he': 'cp1255', 'ar': 'cp1256', 'fa': 'cp1256',
-    'lt': 'cp1257', 'lv': 'cp1257', 'et': 'cp1257', 'vi': 'cp1258',
+    'lt': 'cp1257', 'lv': 'cp1257', 'et': 'cp1257', 'vi': 'cp1258', 'ko': 'cp949',
 }
 
 # printf conversions: %s, %d, %5.1f, %lld, %%...

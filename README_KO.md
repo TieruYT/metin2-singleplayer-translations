@@ -145,8 +145,7 @@
 
 풀 리퀘스트에서 바꾼 행만 판정하며, 파일에 이미 있던 문제는 개수만 세고
 기여자의 책임으로 보지 않습니다. 직접 실행하려면(Python 3, 설치 필요 없음):
-`python tools/validate.py de`. 한국어(`ko`)는 아직 검사기에 코드 페이지가
-없으므로 `python glossary/check_ko.py`를 사용하세요.
+`python tools/validate.py ko`.
 
 ## 라이선스
 
