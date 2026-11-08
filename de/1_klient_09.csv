@@ -1,7 +1,7 @@
 id,english,polski,translation,notes,status
 c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,Magischer Angriffswert %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Chance auf dauerhaftes Feuer %.0f%% ,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",done
-c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",new
+c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,Drachenzorn +%.1f,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",done
 c:skilldesc:94:2,Blessing,Błogosławieństwo,Segen,"client: skill tooltip, skill name (skill 94)",done
 c:skilldesc:94:3,Heaven,Ściana Nieba,Himmelswand,"client: skill tooltip, skill name (M) (skill 94)",done
 c:skilldesc:94:4,Dragon,Błogosławieństwo Smoka,Segen des Drachen,"client: skill tooltip, skill name (G/P) (skill 94)",done
@@ -57,7 +57,7 @@ c:skilldesc:109:7,Cures Negative Effects,Leczy negatywne efekty,Negative Effekte
 c:skilldesc:109:8,Usable on a party member|Activates Heavenly Shield,Możliwość użycia na członku grupy|Aktywuje Niebiańską Tarcze,Flächenwirkung,"client: skill tooltip, condition 3 (skill 109)",done
 c:skilldesc:109:17,Restore HP %.0f-%.0f,Przywraca PŻ %.0f,TP wiederherstellen %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 109) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:109:20,Cures Negative Effects Chance %.0f%%,Szansa na usunięcie negat. efektów %.0f%%,"Chance, negative Effekte zu kurieren %.0f%%","client: skill tooltip, effect line 2 (skill 109) | keep: %.0f | max 64 characters",done
-c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",new
+c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,Absorption von Monsterschaden +%.0f,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",done
 c:skilldesc:110:2,Swiftness,Zwinność ,Schnelligkeit,"client: skill tooltip, skill name (skill 110)",done
 c:skilldesc:110:3,Quickness,Szybkość ,Geschwindigkeit,"client: skill tooltip, skill name (M) (skill 110)",done
 c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,Windgeschwindigkeit,"client: skill tooltip, skill name (G/P) (skill 110)",done
@@ -75,9 +75,9 @@ c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,Erhöht Angriffs
 c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Anwendbar auf Gruppenmitglieder,"client: skill tooltip, condition 2 (skill 111)",done
 c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,"Wird verstärkt durch INT, STR","client: skill tooltip, condition 3 (skill 111)",done
 c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,Angriffswert +%.1f,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",done
-c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",new
-c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",new
-c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",new
+c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,Magischer Schaden (alle) +%.0f%%,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",done
+c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,Magischer Schaden gegen Monster +%.0f%%,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",done
+c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,Bonus: Magischer Schaden gegen Monster +%.0f,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",done
 c:skilldesc:121:2,Leadership,Dowodzenie,Führung,"client: skill tooltip, skill name (skill 121)",done
 c:skilldesc:121:5,Ability to lead partners.,Umiejętność dowodzenia członkami grupy.,"Fähigkeit, Gruppenmitglieder anzuführen.","client: skill tooltip, description (skill 121)",done
 c:skilldesc:122:2,Combo,Kombinacja,Combo,"client: skill tooltip, skill name (skill 122)",check
@@ -111,7 +111,7 @@ c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,Reiterliches Können,"
 c:skilldesc:139:2,Power Wave,Fala Mocy,Kraftwelle,"client: skill tooltip, skill name (skill 139)",done
 c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",Attackiere alle Feinde vom Pferd aus. (ab Lv.55),"client: skill tooltip, description (skill 139)",done
 c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,Reiterliches Können,"client: skill tooltip, condition 1 (skill 139)",done
-c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angriffswert %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:140:2,Arrow Storm,Grad Strzał,Pfeilhagel,"client: skill tooltip, skill name (skill 140)",done
 c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),"Verschieße Pfeile, während du reitest. (ab Lv.50)","client: skill tooltip, description (skill 140)",done
 c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,Reiterliches Können,"client: skill tooltip, condition 1 (skill 140)",done

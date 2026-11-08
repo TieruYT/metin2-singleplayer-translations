@@ -153,7 +153,7 @@ l:261cd0cd9099,As until now,Jak dotąd,,"launcher window or message | new lines 
 l:55afc20bc4e4,Medium - weapon and armour +5,Średni - broń i zbroja +5,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:b06d7210a6f2,Easy - the whole set +9,Łatwy - cały zestaw +9,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:c97f619cea13,Skip the horse quests - a player's new character gets the Armed Horse (lv 11),Pomiń misje konia - nowa postać gracza dostaje Konia Bojowego (poz. 11),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:bc981983e7f5,Next,Dalej,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:bc981983e7f5,Next,Dalej,Avanti,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:441fbf9294e2,Restarting the launcher through {0} failed: {1},Restart launchera przez {0} nieudany: {1},,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:ed16149b910c,Restarting the launcher after the update.,Uruchamiam launcher ponownie po aktualizacji.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:57c9777567d8,code 0x{0:X8},kod 0x{0:X8},,"launcher window or message | keep: {0:X8} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -417,7 +417,7 @@ l:9f50e74aa734,Session realism,Realizm sesji,,"launcher window or message | new 
 l:4fac3e8826d3,These two act within 5 s without a restart (the same as the web panel's AI page).,"Te dwa działają w ciągu 5 s bez restartu (to samo co w panelu WWW, strona AI).",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:122aa8bba91c,On a VPS these two are set in the web panel (AI page); the estimate below leaves them out.,Na VPS te dwa ustawia panel WWW (strona AI); szacunek niżej ich nie uwzględnia.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:af5b0b671ceb,"The server is off: these two can be changed while it runs (or in the web panel, AI page).","Serwer wyłączony: te dwa można zmienić, gdy działa (albo w panelu WWW, strona AI).",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:448ab73ba1c2,Set,Ustaw,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:448ab73ba1c2,Set,Ustaw,Imposta,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4d3b723ad672,"Before an update the launcher saves a backup of the world, but the drive {0} has only {1} of free room, and the backup needs about {2} (and {3} for the server build).
 
 Update the server WITHOUT a world backup? The world stays in its volume, but without a backup it cannot be taken back.
@@ -475,7 +475,7 @@ l:fd8723b53170,"The database, characters and settings stay untouched.","Baza, po
 l:f21d96ef5c0f,Game sources missing - the installer is needed,Brak zrodel gry - potrzebny instalator,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:567fdea6fd3a,"The package is ready. Click PLAY to start Docker, the server and the client.","Paczka jest gotowa. Kliknij GRAJ, aby uruchomić Docker, serwer i klienta.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:107150ef1ddf,"The package is ready. A desktop shortcut was created. Click PLAY to start Docker, the server and the client.","Paczka jest gotowa. Utworzono skrót na pulpicie. Kliknij GRAJ, aby uruchomić Docker, serwer i klienta.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:e9b450d14bc2,Done,Gotowe,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:e9b450d14bc2,Done,Gotowe,Fatto,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3db53a3f4817,Could not create the shortcut: {0},Nie udało się utworzyć skrótu: {0},,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:1ef22e877179,Package checked and a desktop shortcut created.,Sprawdzono paczkę i utworzono skrót na pulpicie.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:8ae77ffba903,START CLIENT,URUCHOM KLIENTA,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -520,7 +520,7 @@ l:60136495bbf8,"If the panel rejects it, it kept an older password from its firs
 l:c1feadad9584,start. The reset deletes one configuration file of the panel and sets,uruchomienia. Reset kasuje jeden plik konfiguracyjny panelu i ustawia,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:bbce1b010948,"the password above. The world, characters and bots are in the database, untouched.","haslo powyzej. Swiat, postacie i boty sa w bazie i nie sa tym ruszane.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:63fa3c641e52,Reset the panel password,Zresetuj haslo panelu,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:bbfa773e5a63,Close,Zamknij,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:bbfa773e5a63,Close,Zamknij,Chiudi,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d8f482edf74e,Copy to clipboard,Kopiuj do schowka,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:6678228935a2,This package has no COOP module.,Ta paczka nie ma modułu COOP.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:dbff1902d0e6,COOP - joining a friend's world,COOP - dołączam do świata znajomego,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -528,8 +528,8 @@ l:b42fa7b3715a,COOP - playing with friends over the Internet (experimental),COOP
 l:d602bf450dd4,I host my world,Hostuję swój świat,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:c44cda51ede8,I join a friend,Dołączam do znajomego,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:24c88e5d99f3,Friends (each has their own account in your world):,Znajomi (każdy ma własne konto w Twoim świecie):,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:2394299d6feb,Friend,Znajomy,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:bae7d5be7082,Status,Stan,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:2394299d6feb,Friend,Znajomy,Amico,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:bae7d5be7082,Status,Stan,Stato,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:eeb4784e26b8,Connection:,Połączenie:,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:5226c12199da,"Automatic (Internet, and a VPN when the router cannot)","Automatycznie (internet, a gdy router nie da rady - VPN)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:0a8e655dcd90,"Internet (router ports, UPnP)","Internet (porty w routerze, UPnP)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -570,7 +570,7 @@ l:b05dda8ed6e6,The database is not answering - start the server (PLAY).,Baza nie
 l:0743080c7ba7,WARNING: the accounts {0} have the package's passwords - click Secure the accounts.,UWAGA: konta {0} mają hasła z paczki - kliknij Zabezpiecz konta.,,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:e060397b8fd7,The admin and test accounts: passwords changed.,Konta admin i test: hasła zmienione.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:df88b84d816d,blocked,zablokowany,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:2bb6b986c5d6,active,aktywny,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:2bb6b986c5d6,active,aktywny,attivo,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:b96ff74fe4a1,"Your client has a friend's world: {0} ({1}).
 In the client choose the server 'Online: {0}'.","W Twoim kliencie jest świat znajomego: {0} ({1}).
 W kliencie wybierz serwer 'Online: {0}'.",,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -906,7 +906,7 @@ Obecny świat zostanie ZASTĄPIONY. Zanim to nastąpi, launcher zapisze go do w�
 l:22a6deaa9e7a,Confirm restoring the backup,Potwierdź przywrócenie kopii,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:ba0af9e8b463,World backup (db-backup-*.zip)|db-backup-*.zip|ZIP|*.zip,Kopia swiata (db-backup-*.zip)|db-backup-*.zip|ZIP|*.zip,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:f60bbd3172c5,World backups,Kopie zapasowe świata,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:eb9a4bc1c0c1,Date,Data,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:eb9a4bc1c0c1,Date,Data,Data,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e00ac23f2ac2,Kind,Rodzaj,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:b6f59f08fd6d,Characters,Postacie,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:1efc64969034,Top level,Najw. poziom,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -1027,7 +1027,7 @@ Both drive the same world: do not run an update, a backup or a restore from both
 
 Oba sterują tym samym światem: nie uruchamiaj aktualizacji, kopii ani przywracania z dwóch miejsc naraz. Najlepiej zamknij jeden z nich.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:80a992c0725c,Metin2 Easy Launcher is also running for this folder.,Dla tego folderu działa też Metin2 Easy Launcher.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:cfea419c3b4e,Apply,Zastosuj,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:cfea419c3b4e,Apply,Zastosuj,Applica,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:464817515558,World backup,Kopia swiata,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:6f03b7cb75f0,"A backup writes the whole world - characters, levels, equipment, bots and game accounts - into one zip file in the backups folder. The server is stopped and saved for each of these operations.","Kopia zapisuje caly swiat - postacie, poziomy, ekwipunek, boty i konta gry - do jednego pliku zip w folderze backups. Serwer zostanie na czas kazdej z tych operacji zatrzymany i zapisany.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:f117dd409113,Restore from a backup (backup list),Przywroc swiat z kopii (lista kopii),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -1038,7 +1038,7 @@ l:eaa088a10b70,Wipe the world and start over (fresh install),Wyzeruj swiat i zac
 l:c6c2ecbd786e,BOT COUNT (0-2500),LICZBA BOTOW (0-2500),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:85b4b84fdf23,Number of playing bots,Liczba grajacych botow,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:e3298c80b44f,COLLECT / SEND LOGS,ZBIERZ / WYSLIJ LOGI,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:77dfd2135f4d,Cancel,Anuluj,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:77dfd2135f4d,Cancel,Anuluj,Annulla,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:698a620257f9,CHOOSE CLIENT,WYBIERZ KLIENTA,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:421ba4234f9d,"Windows would not start the game client (metin2client.exe). Smart App Control did it: it blocks programs without a digital signature that Microsoft does not know, and the game client has no such signature.
 
@@ -1198,7 +1198,7 @@ l:3493bdc3b815,World & bots,Świat i boty,,"launcher window or message | new lin
 l:bbcfa8c13573,Play together,Wspólna rozgrywka,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:4fa8cc860c52,Tools,Narzędzia,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:841260f8a3d6,Logs & diagnostics,Logi i diagnostyka,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:c7f73bb54d92,Settings,Ustawienia,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:c7f73bb54d92,Settings,Ustawienia,Impostazioni,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:55462edfc4a6,PLAY GAME,ROZPOCZNIJ GRĘ,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:9018baa02deb,START SERVER,URUCHOM SERWER,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:395d9d7dc991,Web panel,Panel WWW,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
@@ -1223,7 +1223,7 @@ l:e289704a75dc,Import a database.,Przenieś bazę danych.,,"launcher window or m
 l:f2f489d1452e,World backups.,Kopie zapasowe świata.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:888230426af4,Diagnostics and logs.,Diagnostyka i dzienniki.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:c31915351aca,Project website.,Strona projektu.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:c2f490d5bfc9,Support the project,Wesprzyj projekt,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:c2f490d5bfc9,Support the project,Wesprzyj projekt,Sostieni il progetto,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:90735f0f59ea,Metin2 Singleplayer by Tieru.,Metin2 Singleplayer by Tieru.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:2b7a87ab15a9,Check the environment.,Sprawdź środowisko.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:eed8046c09d8,Prepare a log bundle.,Przygotuj paczkę logów.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new

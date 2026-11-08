@@ -262,6 +262,9 @@ def stage(rel):
 
 def cmd_commit(args):
     changed = [l for l in git('diff', '--name-only').split('\n') if l.endswith('.csv')]
+    # files hidden with "git update-index --assume-unchanged" (CRLF on main) may hold real edits
+    changed += [l[2:] for l in git('ls-files', '-v').split('\n') if l[:2] == 'h ' and l.endswith('.csv')]
+    changed = sorted(set(changed))
     done = 0
     for rel in sorted(changed):
         lang, fname = rel.split('/')

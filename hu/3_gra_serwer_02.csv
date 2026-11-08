@@ -81,7 +81,7 @@ e:dd332a26208f,The items have been added to your inventory,Przedmioty zostały d
 e:247f305fb265,Shop closed,Zamkniecie sklepu,,server message (chat/system line),new
 e:8e759e02d20d,Item removed,Usuniecie przedmiotu,,server message (chat/system line),new
 e:3ca87e7b2633,#PLAYER_NAME#'s Shop,Sklep #PLAYER_NAME#,,server message (chat/system line),new
-e:822cc3b22ef6,Shop - %s,Sklep - %s,,server message (chat/system line) | keep: %s,new
+e:822cc3b22ef6,Shop - %s,Sklep - %s,Bolt - %s,server message (chat/system line) | keep: %s,done
 e:c1ea3929c706,Opening shops has been blocked for your rank!,Tworzenie sklepów dla twojej posady zostało zablokowane!,,server message (chat/system line),new
 e:dc766bf27078,You cannot open a shop here.,Nie możesz otworzyć sklepu w tym miejscu.,,server message (chat/system line),new
 e:9f6f891c0710,You cannot open a shop here.,Nie możesz otworzyć sklepu w tym miejscu.,,server message (chat/system line),new
@@ -114,7 +114,7 @@ e:ccb792c6aace,You cannot sell equiped items.,Nie możesz sprzedawać założony
 e:73c437bab210,You cannot sell locked items.,Nie możesz sprzedawać zablokowanych przedmiotów.,,server message (chat/system line),new
 e:98cc54f08ad8,%d Stamina required,Wymagane %d Staminy,,server message (chat/system line) | keep: %d,new
 e:28e6b4107e39,You cannot sprint on foot at your movement speed (>= %d),Sprint pieszo jest niemożliwy przy posiadanej szybkości ruchu (>= %d),,server message (chat/system line) | keep: %d,new
-e:99eeb891c78b,It looks like %s is on the hook.,"Wygląda na to, że na haczyku jest %s.",,server message (chat/system line) | keep: %s,new
+e:99eeb891c78b,It looks like %s is on the hook.,"Wygląda na to, że na haczyku jest %s.","Úgy tűnik, %s a horgon van.",server message (chat/system line) | keep: %s,done
 e:004a1d1a4d88,It looked like %s was hanging on the hook.,"Wyglądało na to, że %s wisi na haku.",,server message (chat/system line) | keep: %s,new
 e:a19a0ca2e240,You got %s!,Zdobyłeś %s!,,server message (chat/system line) | keep: %s,new
 e:82ecea10367f,You caught %s!,Wyłowiłeś %s!,,server message (chat/system line) | keep: %s,new
@@ -175,7 +175,7 @@ e:e525e132fe85,"Death is not the end, but rather the beginning of a new path.","
 e:681d431ee686,Something is left that I must set right... something that should never have happened.,"Zostało coś, co muszę naprawić... coś, co nigdy nie powinno się wydarzyć.",,server message (chat/system line),new
 e:347346289117,"It was not me... but they chose you. We will meet again, sooner than you think.","To nie ja... ale oni cię wybrali. Zobaczymy się ponownie, szybciej, niż myślicie.",,server message (chat/system line),new
 e:7a617e7f050a,Me show you not to bother me!,"Ja ci pokazać, że mi nie przeszkadzać!",,server message (chat/system line),new
-e:2350c8bcf200,You cannot fish here.,Nie możesz tutaj łowić.,,server message (chat/system line),new
+e:2350c8bcf200,You cannot fish here.,Nie możesz tutaj łowić.,Itt nem horgászhatsz.,server message (chat/system line),done
 e:d5e2c912c439,You cannot sell items you have equipped.,"Nie możesz sprzedać przedmiotów, które nosisz.",,server message (chat/system line),new
 e:ad62b5545443,%s[%d]s Attack Position: %d %d,%s[%d]s Attack Position: %d %d,,server message (chat/system line) | keep: %s %d %d %d,new
 e:6262b2014ffb,You cannot ride while falling.,"Nie możesz jeździć konno, gdy jesteś powalony.",,server message (chat/system line),new
@@ -196,7 +196,7 @@ e:2cde871a9027,The spirit stone can not be advanced by this item.,Kamień Duszy 
 e:db027c77e2a2,You cannot upgrade this item.,Nie możesz ulepszyć tego przedmiotu.,,server message (chat/system line),new
 e:875611b4dd38,This item can only be used on weapons or armor up to level 40.,Przedmiot może być użyty tylko na bronie i zbroje do 40 poziomu.,,server message (chat/system line),new
 e:b117f7df73aa,Test server time limit passed,Test server time limit passed,,server message (chat/system line),new
-e:0031f72e6fc2,Your inventory is full.,Twój ekwipunek jest pełny.,,server message (chat/system line),new
+e:0031f72e6fc2,Your inventory is full.,Twój ekwipunek jest pełny.,A felszerelésed megtelt.,server message (chat/system line),done
 e:7c5e9ad22bb8,%s rolled dice and got %d. (%d-%d),%s rzucił kostką i uzyskał %d. (%d-%d),,server message (chat/system line) | keep: %s %d %d %d,new
 e:3698c00feb29,You rolled dice and got %d. (%d-%d),Rzuciłeś kostką i uzyskałeś %d. (%d-%d),,server message (chat/system line) | keep: %d %d %d,new
 e:154cc01ca837,Lack of Taxes. Current Capital : %u Needed Capital : %u,Brak podatków. Bieżący kapitał: %u Potrzebny kapitał: %u,,server message (chat/system line) | keep: %u %u,new
@@ -237,7 +237,7 @@ e:e761e8f8134f,You don't meet the requirements to open your own shop.,Nie spełn
 e:c0136965b470,You cannot use this item if you're using quests,Nie możesz użyć tego przedmiotu kiedy okno misji jest aktywne.,,server message (chat/system line),new
 e:6eb8ab072e83,Wait a moment after a trade.,Odczekaj chwilę po zakończeniu handlu.,,server message (chat/system line),new
 e:41b1f4a41bf8,You cannot continue while another window is open.,Nie możesz kontynuować kiedy inne okno jest aktywne.,,server message (chat/system line),new
-e:cec59a1ce7c8,You cannot perform this operation right now.,Nie możesz teraz wykonać tej operacji.,,server message (chat/system line),new
+e:cec59a1ce7c8,You cannot perform this operation right now.,Nie możesz teraz wykonać tej operacji.,Ezt a műveletet most nem hajthatod végre.,server message (chat/system line),done
 e:28bf2d47cf30,You need a minimum level of %d to buy this item.,Musisz mieć co najmniej %d poziom aby kupić ten przedmiot.,,server message (chat/system line) | keep: %d,new
 e:f6f413714164,You need certain items to buy this item.,Nie posiadasz wymaganych przedmiotów do zakupu.,,server message (chat/system line),new
 e:2d5f92ad9c94,Not enough inventory space.,Brak miejsca w ekwipunku.,,server message (chat/system line),new
@@ -260,7 +260,7 @@ e:93a051d6ea8e,"Your group consists of each class, which you will recieve an exp
 e:665fd7cded76,You need room for atleast 3 slot item to open the box.,"Potrzebujesz miejsca na minimum 3 slotowy przedmiot, aby otworzyć skrzynie.",,server message (chat/system line),new
 e:fbdebd06e40e,In 5 minutes the spots will be reset automatically!,Za 5 min zostanie wykonany automatyczny reset spotów!,,server message (chat/system line),new
 e:7e37473f7c84,All monsters on the maps have been killed!,Wszystkie potwory na mapach zostały zabite!,,server message (chat/system line),new
-e:b8f5ec495149,The shop's offer has changed.,Oferta sklepu zmieniła się.,,server message (chat/system line),new
+e:b8f5ec495149,The shop's offer has changed.,Oferta sklepu zmieniła się.,A bolt kínálata megváltozott.,server message (chat/system line),done
 e:6aa86744cc11,You cannot pickup this item if you're using quests,Nie możesz podności przedmiotów jeżeli jesteś w oknie misji.,,server message (chat/system line),new
 e:5053d4ec0751,You cannot pickup item while busy.,Nie możesz teraz podnosić przedmiotów.,,server message (chat/system line),new
 e:51c75643ce7f,You cannot open this shop. Collect all its items first.,Nie możesz otworzyć tego sklepu. Odbierz wszystkie przedmioty.,,server message (chat/system line),new
