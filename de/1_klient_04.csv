@@ -55,15 +55,15 @@ c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,%s für %s Tage sperren?,clien
 c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,%s DAUERHAFT sperren?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_KICK_ACC,Kick...,,Kicken...,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_LIST,Muted list,,Stummgeschaltete,client: game texts (localeInfo),done
-c:locale_game:GMP_HDR_MUTE,Chat,,,client: game texts (localeInfo),new
+c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_10M,Mute 10 min,,10 Min. stumm,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1H,Mute 1 h,,1 Std. stumm,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1D,Mute 1 day,,1 Tag stumm,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_GM,GM rank,,GM-Rang,client: game texts (localeInfo),done
-c:locale_game:GMP_RANK_LOW,Low Wizard,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_HIGH,High Wizard,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_GOD,God,,,client: game texts (localeInfo),new
-c:locale_game:GMP_RANK_IMPL,Implementor,,,client: game texts (localeInfo),new
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Niederer Zauberer,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_HIGH,High Wizard,,Hoher Zauberer,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_GOD,God,,Gott,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_ADD,Grant rank,,Rang vergeben,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_REMOVE,Remove GM...,,GM entziehen...,client: game texts (localeInfo),done
 c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Den GM-Rang von %s entziehen?,client: game texts (localeInfo) | keep: %s,done
@@ -79,7 +79,7 @@ c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Bots: %s von %s (insgesam
 c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Wähle ein Reich,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Monster und Metins,client: game texts (localeInfo),done
 c:locale_game:GMP_MOB,Monster:,,Monster:,client: game texts (localeInfo),check
-c:locale_game:GMP_METIN,Metin:,,,client: game texts (localeInfo),new
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWN,Spawn,,Spawnen,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWNED,Spawned %s of %s,,%s von %s gespawnt,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_ERR_NO_MOB,No such monster,,Kein solches Monster,client: game texts (localeInfo),done
@@ -100,12 +100,12 @@ c:locale_game:GMP_TP_CITIES,Cities,,Städte,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_MAPS,Maps,,Karten,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Dungeons,client: game texts (localeInfo),check
 c:locale_game:GMP_TP_SPECIAL,Special,,Spezial,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_JINNO_1,Jinno M1,,,client: game texts (localeInfo),new
-c:locale_game:GMP_TP_JINNO_2,Jinno M2,,,client: game texts (localeInfo),new
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Gildendorf 1,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Gildendorf 2,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Gildendorf 3,client: game texts (localeInfo),done
@@ -158,7 +158,7 @@ c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Änderungen greifen nach
 c:locale_game:GMP_HDR_RESTART,Restart,,Neustart,client: game texts (localeInfo),done
 c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,"Klicke auf einen Befehl, um ihn im Chat auszugeben",client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Bannen,client: game texts (localeInfo),done
-c:locale_game:TARGET_BUTTON_GM_INFO,Info,,,client: game texts (localeInfo),new
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),done
 c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,Der Server antwortet nicht. Bitte versuche es erneut.,client: game texts (localeInfo),done
 c:locale_interface:ACCEPT,Accept,Akceptuj,Zu akzeptieren,client: window texts (uiScriptLocale),done
 c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Willst du den Geiststein benutzen?,client: window texts (uiScriptLocale),done
@@ -345,7 +345,7 @@ c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,Verlassen,client: window texts (uiScri
 c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,Region auswählen.,client: window texts (uiScriptLocale),done
 c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,Waehlen Sie,client: window texts (uiScriptLocale),done
 c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,Verlassen,client: window texts (uiScriptLocale),done
-c:locale_interface:LOGIN_SELECT_OK,OK,OK,,client: window texts (uiScriptLocale),new
+c:locale_interface:LOGIN_SELECT_OK,OK,OK,OK,client: window texts (uiScriptLocale),done
 c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,Server auswaehlen,client: window texts (uiScriptLocale),done
 c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,Passwort,client: window texts (uiScriptLocale),done
 c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,Item Shop Lager,client: window texts (uiScriptLocale),done
@@ -675,13 +675,13 @@ c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Herstellung
 c:locale_interface:CRAFT,Craft,Wytwórz,Herstellen,client: window texts (uiScriptLocale),done
 c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Nutzungsbedingungen,client: window texts (uiScriptLocale),done
 c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Ich habe die Regeln gelesen und akzeptiere sie.,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,,client: window texts (uiScriptLocale),new
-c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,,client: window texts (uiScriptLocale),new
-c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,,client: window texts (uiScriptLocale),new
-c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,,client: window texts (uiScriptLocale),new
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Speichern,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Verbinden,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Löschen,client: window texts (uiScriptLocale),done
