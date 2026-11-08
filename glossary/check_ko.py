@@ -16,6 +16,7 @@ import sys
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
+sys.dont_write_bytecode = True  # keep tools/ free of __pycache__
 import validate  # noqa: E402
 
 
