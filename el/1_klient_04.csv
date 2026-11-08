@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:GMP_ERR_EVENT_EMPTY,"Enter an Exp, Drop or Yang percent",,"Πληκτρολόγησε ποσοστό EXP, πτώσης ή Yang",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WORLD,World,,Κόσμος,client: game texts (localeInfo),done
+c:locale_game:GMP_NIGHT,Night,,Νύχτα,client: game texts (localeInfo),done
+c:locale_game:GMP_DAY,Day,,Ημέρα,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_ON,Snow,,Χιόνι,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_OFF,No snow,,Χωρίς χιόνι,client: game texts (localeInfo),done
+c:locale_game:GMP_USERS,Players here,,Παίκτες εδώ,client: game texts (localeInfo),done
+c:locale_game:GMP_WHO,Online count,,Αριθμός συνδεδεμένων,client: game texts (localeInfo),done
+c:locale_game:GMP_END_DUELS,End duels,,Τέλος μονομαχιών,client: game texts (localeInfo),done
+c:locale_game:GMP_EVENT_FLAGS,Event flags,,Σημαίες εκδηλώσεων,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_ON,Maintenance...,,Συντήρηση...,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_OFF,End maintenance,,Τέλος συντήρησης,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_MAINT,Block new logins (maintenance)?,,Αποκλεισμός νέων συνδέσεων (συντήρηση);,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART,Restart server...,,Επανεκκίνηση διακομιστή...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_RESTART,Restart the server? Everyone will be disconnected.,,Επανεκκίνηση του διακομιστή; Όλοι θα αποσυνδεθούν.,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART_OK,Restart requested,,Ζητήθηκε επανεκκίνηση,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR,Clear,,Καθαρισμός,client: game texts (localeInfo),done
+c:locale_game:GMP_CAT_STONES,Stones,,Λίθοι,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_ITEM,Pick an item,,Διάλεξε αντικείμενο,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_BONUS,Pick bonus %d,,Διάλεξε μπόνους %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_PICK_STONE,Pick stone %d,,Διάλεξε λίθο %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_LOADING,Loading...,,Φόρτωση...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_RESULTS,No results,,Κανένα αποτέλεσμα,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_NEW_ITEM,New item,,Νέο αντικείμενο,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM,Item:,,Αντικείμενο:,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ITEM,none selected,,δεν επιλέχθηκε,client: game texts (localeInfo),done
+c:locale_game:GMP_COUNT,Count:,,Πλήθος:,client: game texts (localeInfo),done
+c:locale_game:GMP_FOR,For:,,Για:,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_INV,Inventory,,Αποθέματα,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_SAFE,Storeroom,,Αποθήκη,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_MALL,Item-shop storage,,Αποθήκη καταστήματος αντικειμένων,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BONUS,Bonuses (click to pick),,Μπόνους (κάνε κλικ για επιλογή),client: game texts (localeInfo),done
+c:locale_game:GMP_BONUS_NONE,no bonus,,κανένα μπόνους,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_STONES,Stones,,Λίθοι,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPTY,empty,,κενό,client: game texts (localeInfo),done
+c:locale_game:GMP_CREATE,Create item,,Δημιουργία αντικειμένου,client: game texts (localeInfo),done
+c:locale_game:GMP_RESET_FORM,Reset form,,Επαναφορά φόρμας,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_ITEM,Pick an item from the list,,Διάλεξε αντικείμενο από τη λίστα,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM_CREATED,Item created,,Το αντικείμενο δημιουργήθηκε,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OWNER_OFFLINE,The recipient is not online,,Ο παραλήπτης δεν είναι συνδεδεμένος,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BADVNUM,No such item,,Δεν υπάρχει τέτοιο αντικείμενο,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SAFEBOX,The recipient must open the storeroom first,,Ο παραλήπτης πρέπει πρώτα να ανοίξει την αποθήκη,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_MALL,The recipient must open the item-shop storage first,,Ο παραλήπτης πρέπει πρώτα να ανοίξει την αποθήκη του καταστήματος αντικειμένων,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOSPACE,No space,,Δεν υπάρχει χώρος,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_CHECK,Check account,,Έλεγχος λογαριασμού,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_STATUS,"Account: %s, lock: %s",,"Λογαριασμός: %s, κλείδωμα: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_HDR_BAN,Account ban,,Αποκλεισμός λογαριασμού,client: game texts (localeInfo),done
+c:locale_game:GMP_DAYS,%d days,,%d ημέρες,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_BAN_DAYS,Days:,,Ημέρες:,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_TEMP,Ban for days...,,Αποκλεισμός για ημέρες...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_PERM,Permanent...,,Μόνιμος...,client: game texts (localeInfo),done
+c:locale_game:GMP_UNBAN,Unban,,Άρση αποκλεισμού,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,Αποκλεισμός του %s για %s ημέρες;,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,Αποκλεισμός του %s ΜΟΝΙΜΑ;,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_KICK_ACC,Kick...,,Αποβολή...,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_LIST,Muted list,,Λίστα σίγασης,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MUTE,Chat,,Συνομιλία,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_10M,Mute 10 min,,Σίγαση 10 λεπ.,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1H,Mute 1 h,,Σίγαση 1 ώρα,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1D,Mute 1 day,,Σίγαση 1 ημέρα,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_GM,GM rank,,Βαθμός GM,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Κατώτερος μάγος,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_HIGH,High Wizard,,Ανώτερος μάγος,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_GOD,God,,Θεός,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_ADD,Grant rank,,Απόδοση βαθμού,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_REMOVE,Remove GM...,,Αφαίρεση GM...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Αφαίρεση του βαθμού GM του %s;,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Μόνο ένας Implementor αλλάζει άλλους βαθμούς. Ισχύει αμέσως.,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_SAVED,Rank saved,,Ο βαθμός αποθηκεύτηκε,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BOTS,Bots,,Bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_PID,Bot PID:,,PID bot:,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_DOTS,Pick...,,Επιλογή...,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Εμφάνιση bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,Αφαίρεση bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_ACTIVE,Active bots,,Ενεργά bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Bots: %s από %s (σύνολο %s),client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Διάλεξε βασίλειο,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Τέρατα και Μέτιν,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB,Monster:,,Τέρας:,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN,Metin:,,Μέτιν:,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWN,Spawn,,Εμφάνιση,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWNED,Spawned %s of %s,,Εμφανίστηκαν %s από %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_ERR_NO_MOB,No such monster,,Δεν υπάρχει τέτοιο τέρας,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,Ελεύθερα bots (κλικ για συμπλήρωση PID),client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_BOTS,Active bots,,Ενεργά bots,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_MOBS,Monsters,,Τέρατα,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_METINS,Metins,,Μέτιν,client: game texts (localeInfo),done
+c:locale_game:GMP_CLOSE_LIST,Close list,,Κλείσιμο λίστας,client: game texts (localeInfo),done
+c:locale_game:GMP_PICKED,Picked: %s,,Επιλέχθηκε: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Γρήγορη εμφάνιση (κανονικά Μέτιν, όλοι οι αρχηγοί)",client: game texts (localeInfo),done
+c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Ομάδα... δείχνει τους αρχηγούς ενός επιπέδου,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_1,1 boss,,1 αρχηγός,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_5,5 bosses,,5 αρχηγοί,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_1,1 metin,,1 Μέτιν,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_3,3 metins,,3 Μέτιν,client: game texts (localeInfo),done
+c:locale_game:GMP_POOL,Pool...,,Ομάδα...,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CITIES,Cities,,Πόλεις,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MAPS,Maps,,Χάρτες,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Μπουντρούμια,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPECIAL,Special,,Ειδικό,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Σίνσου M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Σίνσου M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Τσούντζο M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Τσούντζο M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Τζίνο M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Τζίνο M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Χωριό συντεχνίας 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Χωριό συντεχνίας 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Χωριό συντεχνίας 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SEUNGRYONG,Seungryong Valley,,Κοιλάδα Σεουνγκριόνγκ,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_YONGBI,Yongbi Desert,,Έρημος Γιόνγκμπι,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SOHAN,Mount Sohan,,Όρος Σοχάν,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_FIRELAND,Fireland,,Γη της Φωτιάς,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GHOSTWOOD,Ghost Wood,,Δάσος των Φαντασμάτων,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_REDWOOD,Red Wood,,Κόκκινο Δάσος,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GIANTS,Land of Giants,,Χώρα των Γιγάντων,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WLPASS,Pass (wl_pass),,Πέρασμα (wl_pass),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CAPE,Cape Dragon Fire,,Ακρωτήριο Φωτιάς του Δράκου,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DAWNMIST,Dawnmist Wood,,Δάσος της Αυγινής Ομίχλης,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BLACKSAND,Bay Black Sand,,Όρμος της Μαύρης Άμμου,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_THUNDER,Thunder Mountains,,Βουνά της Βροντής,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HWANG,Hwang Temple,,Ναός Χουάνγκ,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DEVILTOWER,Demon Tower,,Πύργος των Δαιμόνων,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER1,Spider Dungeon 1,,Μπουντρούμι των Αράχνων 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER2,Spider Dungeon 2,,Μπουντρούμι των Αράχνων 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_E,Monkey Dungeon (easy),,Μπουντρούμι των Πιθήκων (εύκολο),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_N,Monkey Dungeon (normal),,Μπουντρούμι των Πιθήκων (κανονικό),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_H,Monkey Dungeon (hard),,Μπουντρούμι των Πιθήκων (δύσκολο),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE1,Grotto of Exile 1,,Σπήλαιο της Εξορίας 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE2,Grotto of Exile 2,,Σπήλαιο της Εξορίας 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BERAN,Beran-Setaou's Lair,,Φωλιά του Μπεράν-Σεταού,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CATACOMB,Devil's Catacomb,,Κατακόμβη του Διαβόλου,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_RAZADOR,Razador's Fortress,,Φρούριο του Ραζαντόρ,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_ICE,Ice Dungeon,,Παγωμένο Μπουντρούμι,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_LABYRINTH,Labyrinth,,Λαβύρινθος,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_OX,OX Arena,,Αρένα OX,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WEDDING,Wedding Hall,,Αίθουσα γάμων,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUEL,Duel Arena,,Αρένα μονομαχιών,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR1,Empire War 1,,Πόλεμος βασιλείων 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR2,Empire War 2,,Πόλεμος βασιλείων 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR3,Empire War 3,,Πόλεμος βασιλείων 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GMROOM,GM Room,,Δωμάτιο GM,client: game texts (localeInfo),done
+c:locale_game:GMP_GO,Go,,Μετάβαση,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HINT,X/Y in global metres. Ctrl + click on the map = teleport.,,X/Y σε καθολικά μέτρα. Ctrl + κλικ στον χάρτη = τηλεμεταφορά.,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WAYPOINTS,My places,,Οι τοποθεσίες μου,client: game texts (localeInfo),done
+c:locale_game:GMP_WP_EMPTY,%d. empty,,%d. κενό,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_WP_SAVE,Save here,,Αποθήκευση εδώ,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RATES,Server rates (%),,Συντελεστές διακομιστή (%),client: game texts (localeInfo),done
+c:locale_game:GMP_SAVE,Save,,Αποθήκευση,client: game texts (localeInfo),done
+c:locale_game:GMP_FETCH,Fetch,,Λήψη,client: game texts (localeInfo),done
+c:locale_game:GMP_RATES_HINT,"1-10000, 100 = normal. Applies at once.",,"1-10000, 100 = κανονικό. Ισχύει αμέσως.",client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_RATE,Rate: a number 1-10000,,Συντελεστής: αριθμός 1-10000,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AI,Bot behaviour,,Συμπεριφορά bots,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,Λήψη ρυθμίσεων bots...,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Οι αλλαγές ισχύουν μέσα σε δευτερόλεπτα,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RESTART,Restart,,Επανεκκίνηση,client: game texts (localeInfo),done
+c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,Κάνε κλικ σε μια εντολή για να γραφτεί στη συνομιλία,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Αποκλεισμός,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Πληροφορίες,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,Ο διακομιστής δεν απάντησε. Δοκίμασε ξανά.,client: game texts (localeInfo),done
+c:locale_interface:ACCEPT,Accept,Akceptuj,Αποδοχή,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Θέλεις να χρησιμοποιήσεις τον λίθο πνεύματος;,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_TITLE,Use Spirit Stone,Użyj Kamienia Duszy,Χρήση λίθου πνεύματος,client: window texts (uiScriptLocale),done
+c:locale_interface:CANCEL,Cancel,Anuluj,Ακύρωση,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_CONFIRM,Confirm new Password,Potwierdź nowe Hasło,Επιβεβαίωση νέου κωδικού,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_NEW,New Password,Nowe Hasło,Νέος κωδικός,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_OLD,Old Password,Stare Hasło,Παλιός κωδικός,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_TITLE,Password Change,Zmiana Hasła,Αλλαγή κωδικού,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ACTION,Emotion,Emocje,Συναίσθημα,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_EMOTICON,Emotion,Emocje,Συναίσθημα,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MAIN,Character,Postać,Χαρακτήρας,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MUTUAL_ACTION,Mutual Emotion,Emocje wspólne,Αμοιβαίο συναίσθημα,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_NORMAL_ACTION,Normal Emotion,Emocje podstawowe,Κανονικό συναίσθημα,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_QUEST,Missions,Misje,Αποστολές,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,Ικανότητα,client: window texts (uiScriptLocale),done
+c:locale_interface:CLOSE,Close,Zamknij,Κλείσιμο,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,Στολές,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,Στολές,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,ΔΥΝ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_CREATE,Create,Utwórz,Δημιουργία,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,ΕΠΙ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_LAST_POINT,Points,Punkty,Πόντοι,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_MAN,Man,Mężczyzna,Άνδρας,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NAME,Name,Nazwa,Όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NEXT,Next,Dalej,Επόμενο,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_PREV,Back,Wróć,Πίσω,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SEX,Gender,Płeć,Φύλο,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Εμφάνιση,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SP,INT,INT,ΕΥΦ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Επαναφορά,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Γυναίκα,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Εγχειρίδιο βελτίωσης,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL,Required materials,Wymagane materiały,Απαιτούμενα υλικά,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL_OR,or,lub,ή,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_TITLE,Refinement Window,Okienko uszlachetniania,Παράθυρο βελτίωσης,client: window texts (uiScriptLocale),done
+c:locale_interface:DO_REFINE,Refine,Uszlachetnij,Βελτίωση,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_ACTIVATE,Activate,Aktywuj,Ενεργοποίηση,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_1,Rough,Surowy,Ακατέργαστος,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_2,Cut,Szlifowany,Κομμένος,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_3,Rare,Rzadki,Σπάνιος,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_4,Antique,Antyczny,Αρχαίος,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_5,Legendary,Legendarny,Θρυλικός,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_REFINE_WINDOW_TITLE,Refinement Window,Okienko uszlachetniania,Παράθυρο βελτίωσης,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_1,Dragon Diamond,Smoczy Diament,Διαμάντι του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_2,Dragon Ruby,Smoczy Rubin,Ρουμπίνι του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_3,Dragon Jade,Smoczy Jadeit,Νεφρίτης του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_4,Dragon Sapphire,Smoczy Szafir,Ζαφείρι του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_5,Dragon Garnet,Smoczy Granat,Γρανάτης του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_6,Dragon Onyx,Smoczy Onyks,Όνυχας του δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TITLE,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Αλχημεία Λίθων Δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_EXIT,Exit,Wyjdź,Έξοδος,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_NEXT,Next,Dalej,Επόμενο,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_PREV,Back,Wstecz,Πίσω,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_SELECT,Choose,Wybierz,Επιλογή,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_ACCEPT,Accept,Akceptuj,Αποδοχή,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_TITLE,Trade,Handel,Εμπόριο,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEOPTION_TITLE,Game Options,Opcje Gry,Επιλογές παιχνιδιού,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_EXIT_OBSERVER,End Observer Mode,Zakończ Obserwowanie,Τέλος λειτουργίας θεατή,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_HELP,Help,Pomoc,Βοήθεια,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_QUEST,Tasks,Zadania,Εργασίες,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_SKILL_UP,Raise Skills,Podnieś Umiejętności,Αύξηση ικανοτήτων,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_STAT_UP,Raise State,Podnieś Status,Αύξηση χαρακτηριστικών,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE,Class,Klasa,Κλάση,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE_SELECT,Class,Klasa,Κλάση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BASENAME,Base Name,Podstawowa Nazwa,Βασικό όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_ID,Name,Nick,Όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_REFRESH,Refresh (F5),Odśwież (F5),Ανανέωση (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_TEXT,Message,Wiadomość,Μήνυμα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CATEGORY_TITLE,Building Units,Jednostki Budowlane,Μονάδες κατασκευής,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CHANGE,Change,Zmień,Αλλαγή,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_DIRECTION,Orientation,Kierunek,Προσανατολισμός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_GRADE,Rank,Ranga,Βαθμός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_INFO,Buildings and Cost Information,Informacje o Budynkach i Kosztach,Κτίρια και πληροφορίες κόστους,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LIST_TITLE,Building List,Lista Budowli,Λίστα κτιρίων,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LOG,Log,Pień,Αρχείο,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_NAME,Building name,Nazwa Budowli,Όνομα κτιρίου,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_OPERATE,Operate,Operuj,Χειρισμός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PLY,Plywood,Dykta,Κόντρα πλακέ,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_POSITION,Position,Miejsce,Θέση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PREVIEW,Preview,Podgląd,Προεπισκόπηση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PRICE,Price,Cena,Τιμή,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_REFRESH,Refresh (F5),Odśwież (F5),Ανανέωση (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_STONE,Stone,Kamień,Πέτρα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_TITLE,Guild House Building,Budowa Siedziby Gildii,Κατασκευή σπιτιού συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_CRYSTAL,Crystal,Kryształ,Κρύσταλλος,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DEPOSIT,Deposit,Depozyt,Κατάθεση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE1,Here,Tutaj,Εδώ,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE2,Drop Resource,Upuść Surowiec,Απόθεση πόρου,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GEM,Gem,Klejnot,Πολύτιμος λίθος,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_CHANGE_GRADE_NAME,New rank name,Nowa nazwa Rangi,Νέο όνομα βαθμού,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_NUM,Nr.,Nr,Αρ.,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_DELETE,Kick,Usuń,Αποβολή,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_JOIN,Invite,Zapraszanie,Πρόσκληση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_NOTICE,Write,Pisanie,Γράψε,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_SKILL,Skills,Umiejętności,Ικανότητες,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_RANK,Rank,Ranga,Βαθμός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_WRITE,Write,Napisz,Γράψε,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO,Guild Information,Informacje o Gildii,Πληροφορίες συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_CUR_EXP,Experience,Doświadczenie,Εμπειρία,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_DECALRE_WAR,Declare War,Wypowiedz Wojnę,Κήρυξη πολέμου,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD,Enemy Guild,Wrogie Gildie,Εχθρική συντεχνία,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Brak,Κανένα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_LEVEL,Guild Level,Poziom Gildii,Επίπεδο συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MARK,Guild Sign,Logo Gildii,Έμβλημα συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER,Leader,Lider,Αρχηγός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER_VALUE,Leader,Lider,Αρχηγός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_AVG_LEVEL,Average Level,Średni Poziom,Μέσο επίπεδο,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_NUM,No. of members,Liczba członków,Αριθμός μελών,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME,Guild name,Nazwa Gildii,Όνομα συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME_VALUE,This is a Guild Name,To jest nazwa Gildii,Αυτό είναι όνομα συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_OFFER_EXP,Invest,Inwestuj,Επένδυση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_REST_EXP,Needed Exp.,Wymagane PD,Απαιτούμενη EXP,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_MARK,Upload Sign,Wgraj Logo,Μεταφόρτωση εμβλήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_SYMBOL,Upload Flag,Wgraj Flagę,Μεταφόρτωση σημαίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MARK,Guild Sign,Znak Gildii,Έμβλημα συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_JOB,Class,Klasa,Κλάση,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_KNIGHT,Leader,Lider,Αρχηγός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_LEVEL,Level,Poziom,Επίπεδο,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Βαθμός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Επενδύθηκε,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Λίθος πνεύματος,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Ορυκτό,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_NAME,Guild,Gildia,Συντεχνία,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Πληροφορίες πόρων,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKIlL_HEAL_GSP,Win back Power,Regeneracja,Ανάκτηση δύναμης,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_PASSIVE,Passive,Pasywne,Παθητικό,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_POWER,Energy,Energia,Ενέργεια,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_STATE,Skills of the Guild,Umiejętności Gildii,Ικανότητες της συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SYMBOL,Guild Flag,Flaga Gildii,Σημαία συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ACCEPT,Accept War Declaration,Akceptuj Deklarację Wojny,Αποδοχή κήρυξης πολέμου,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_BATTLE_TYPE,Battle Type,Rodzaj bitwy,Τύπος μάχης,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Σημαία,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Κήρυξη πολέμου συντεχνιών,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Εχθρός,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Πεδίο,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Αρένα,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER,Water,Woda,Νερό,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Λίθος νερού,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WITHDRAW,Take,Weź,Λήψη,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_ATTACK_KEY,Attack: left mouse button or space bar,Atak: lewy przycisk myszy lub spacja,Επίθεση: αριστερό κουμπί ποντικιού ή πλήκτρο διαστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHANGE_PK_MODE,Change attack mode: change setting of left mouse button,Zmiana trybu ataku: zmień akcję Lewego Przycisku Myszy,Αλλαγή τρόπου επίθεσης: αλλαγή ρύθμισης αριστερού κουμπιού ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON1,"(Character Window, Inventory Window,","(Okno Postaci, Ekwipunek","(Παράθυρο χαρακτήρα, παράθυρο αποθεμάτων,",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON2,List of Friends and Options),oraz Lista Przyjaciół i Opcje),λίστα φίλων και επιλογές),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON,Camera View: middle or right mouse button,Widok Kamery: środkowy lub prawy przycisk myszy.,Προβολή κάμερας: μεσαίο ή δεξί κουμπί ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_RIGHTBUTTON,Camera View: right or middle mouse button,Widok Kamery: prawy oraz środkowy przycisk myszy.,Προβολή κάμερας: δεξί ή μεσαίο κουμπί ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_EXP,Experience,Doświadczenie,Εμπειρία,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FURY,Ingame Item Shop,Sklep z Przedmiotami w grze,Κατάστημα αντικειμένων στο παιχνίδι,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_GUILD_WINDOW,Open Guild Window: Alt + G,Otwórz Okno Gildii: ALT + G,Άνοιγμα παραθύρου συντεχνίας: Alt + G,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HELP,Display help: H,Wyświetl Pomoc: H,Εμφάνιση βοήθειας: H,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HP,Hit Points (HP),Punkty Życia (PŻ),Πόντοι ζωής (HP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MESSENGER_WINDOW,Open Friends List: Alt + M,Otwórz Listę Przyjaciół: ALT + M,Άνοιγμα λίστας φίλων: Alt + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_LEFT,Function of the Left Mouse button,Funkcja Lewego Przycisku Myszy,Λειτουργία αριστερού κουμπιού ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_RIGHT,Function of the Right Mouse button,Funkcja Prawego Przycisku Myszy,Λειτουργία δεξιού κουμπιού ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOVE_KEY,"Panel: W, A, S, D or arrow keys","Sterowanie: W, S, A, D lub klawisze strzałek","Κίνηση: W, A, S, D ή βελάκια",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHARACTER,Open character window: C,Otwórz Okno Postaci: C,Άνοιγμα παραθύρου χαρακτήρα: C,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHAT,Open chat window: Enter,Otwórz Okno Chatu: Enter,Άνοιγμα παραθύρου συνομιλίας: Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_INVENTORY,Open inventory window: I,Otwórz Okno Ekwipunku: I,Άνοιγμα παραθύρου αποθεμάτων: I,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_LOG,Open Chatlog: L,Otworzenie Panelu Wiadomości: L,Άνοιγμα ιστορικού συνομιλίας: L,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_MINIMAP,Open mini map: Shift + M,Otwórz Mini Mapę: Shift + M,Άνοιγμα μικρού χάρτη: Shift + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_QUEST,Open Task Window: N,Otwórz Okno Zadań: N,Άνοιγμα παραθύρου εργασιών: N,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_SKILL,Open Skill Window: V,Otwórz Okno Umiejętności: V,Άνοιγμα παραθύρου ικανοτήτων: V,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_WHISPER,Open Whisper Window: Shift + Enter,Otwórz Okno Szeptania: Shift + Enter,Άνοιγμα παραθύρου ψιθύρων: Shift + Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_ZONEMAP,Open Large Map: M,Otwórz Podgląd Mapy: M,Άνοιγμα μεγάλου χάρτη: M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_PICK_ITEM,Collect Items: ^ or Y or left mouse button,"Podnoszenie Przedmiotów: ` (tylda), Z lub Lewy Przycisk Myszki",Συλλογή αντικειμένων: ^ ή Y ή αριστερό κουμπί ποντικιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_QUICKSLOT,Fast Access Fields,Pole Szybkiego Dostępu,Πεδία γρήγορης πρόσβασης,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SCREEN_CAPTURE,"Save Screenshot: Print (will be saved in file ""Metin2\screenshot"")","Zapisz Screenshota:  Print (Screen będzie zapisany w podkatalogu gry ""Metin2\screenshot"")","Αποθήκευση στιγμιότυπου: Print Screen (θα αποθηκευτεί στον φάκελο ""Metin2\screenshot"")",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SHOW_ALL_NAME,Display Names: Alt,Pokaż Nazwy: Alt,Εμφάνιση ονομάτων: Alt,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SP,Spell Points (SP),Punkty Energii (PE),Πόντοι μαγείας (SP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,Κουμπιά συστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,Σελίδα αποθεμάτων 1,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,Σελίδα αποθεμάτων 2,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,Αποθέματα,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Κατάστημα αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,Το αρχείο είναι κατεστραμμένο. Εγκατάστησέ το ξανά. Πάτησε τώρα ESC.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECT,Connect,Połącz,Σύνδεση,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,Θα συνδεθείς στον διακομιστή,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_DEFAULT_SERVERADDR,"Servername, Channel 1","Nazwa Serwera, Kanał 1","Όνομα διακομιστή, κανάλι 1",client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,Έξοδος,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,Διάλεξε τοποθεσία για έκδοση τιμολογίου.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,Επιλογή,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,Έξοδος,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,Επιλογή διακομιστή,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,Κωδικός,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,Αποθήκη καταστήματος αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKET_TITLE,Load,Ładuj,Φόρτωση,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_REFRESH,Refresh,Odśwież,Ανανέωση,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_TITLE,Register Guild Sign,Zarejestruj Znak Gildii,Καταχώριση εμβλήματος συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSAGE,This is a Message,To jest Wiadomość,Αυτό είναι ένα μήνυμα,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_ADD_FRIEND,Add friend,Dodaj przyjaciela,Προσθήκη φίλου,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_DELETE_FRIEND,Delete friend,Usuń,Διαγραφή φίλου,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_MOBILE,Send Text Message,Wyślij SMS,Αποστολή SMS,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_OPEN_GUILD,Open Guild Window,Otwórz Okno Gildii,Άνοιγμα παραθύρου συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_TITLE,Friends,Przyjaciele,Φίλοι,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_USE_GUILD_MOVE_SKILL,Use the Guild Moving Skill,Użyj Umiejętności Przemieszczania Gildii,Χρήση ικανότητας μετακίνησης συντεχνίας,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_WHISPER,Whisper,Szept,Ψίθυρος,client: window texts (uiScriptLocale),done
+c:locale_interface:MINIMIZE,Minimize,Minimalizuj,Ελαχιστοποίηση,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_ATTACK,Attack,Atak,Επίθεση,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_AUTO_ATTACK,Attack automatically,Auto Atak,Αυτόματη επίθεση,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_CAMERA,Camera,Kamera,Κάμερα,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_SKILL,Skills,Umiejętności,Ικανότητες,client: window texts (uiScriptLocale),done
+c:locale_interface:MUSICLIST_TITLE,Music Choices,Wybór muzyki,Επιλογή μουσικής,client: window texts (uiScriptLocale),done
+c:locale_interface:NO,No,Nie,Όχι,client: window texts (uiScriptLocale),done
+c:locale_interface:OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME,Name,Nazwa,Όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_OFF,Limited,Ograniczony,Περιορισμένο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_ON,Always,Zawsze,Πάντα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK,Block,Blokuj,Αποκλεισμός,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_EXCHANGE,Trade,Handel,Εμπόριο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_FRIEND,Friends,Przyjaciele,Φίλοι,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_GUILD,Guild,Gildia,Συντεχνία,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY,Group,Grupa,Ομάδα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY_REQUEST,Request,Prośba,Αίτημα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_WHISPER,Whisper,Szept,Ψίθυρος,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE,Camera,Kamera,Κάμερα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_LONG,Far,Dalej,Μακριά,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_SHORT,Close,Bliżej,Κλείσιμο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_DELETE_MOBILE_BUTTON,Delete Cell Phone Number,Usuń Numer Telefonu Komórkowego,Διαγραφή αριθμού κινητού,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_EFFECT,Hit Info,Info o traf.,Πληροφορίες χτυπημάτων,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG,Fog,Mgła,Ομίχλη,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_DENSE,Dense,Gęsta,Πυκνή,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_LIGHT,Light,Światło,Ελαφριά,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MIDDLE,Middle,Środek,Μέτρια,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_INPUT_MOBILE_BUTTON,Enter Cell Phone Number,Wybierz Numer Telefonu Komórkowego,Πληκτρολόγησε αριθμό κινητού,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOBILE,Cell Phone,Telefon Komórkowy,Κινητό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC,Music,Muzyka,Μουσική,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Αλλαγή,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Τυπική μουσική του Metin2,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Χρώμα ονόματος,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Χρώμα βασιλείου,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Κανονικό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,Λειτουργία PvP,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Ελεύθερο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Μπορείς να επιτεθείς σε όλους τους παίκτες.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD,Guild,Gildia,Συντεχνία,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD_TOOLTIP,You can attack players outside your guild.,Możesz atakować wszystkich graczy oprócz Członków swojej Gildii.,Μπορείς να επιτεθείς σε παίκτες εκτός της συντεχνίας σου.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE,Peace,Pokój,Ειρήνη,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE_TOOLTIP,You cannot attack players from your kingdom.,Nie możesz zaatakować żadnego gracza swojego królestwa.,Δεν μπορείς να επιτεθείς σε παίκτες του βασιλείου σου.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE,Hostile,Wrogi,Εχθρικό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE_TOOLTIP,You can attack players with a negative rank.,"Możesz atakować tylko tych, którzy mają negatywną Rangę.",Μπορείς να επιτεθείς σε παίκτες με αρνητικό βαθμό.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT,Shop name,Nazwa sklepu,Όνομα καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_OFF,Hide,Ukryj,Απόκρυψη,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_ON,Show,Pokaż,Εμφάνιση,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SOUND,Sound Effects,Efekty,Ηχητικά εφέ,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD,Target Menu,Menu Celu,Μενού στόχου,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Κλείσιμο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Εμφάνιση,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING,Graphic,Grafika,Γραφικά,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Εφαρμογή,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TITLE,Options,Opcje,Επιλογές,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Γραμμή συνομιλίας,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Απόκρυψη,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_ON,Show,Pokaż,Εμφάνιση,client: window texts (uiScriptLocale),done
+c:locale_interface:PARTY_MEMBER_INFO_NAME,Name of the Group member,Nazwa Członka Grupy,Όνομα μέλους ομάδας,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_1,Enter your password,"Podaj hasło,",Πληκτρολόγησε τον κωδικό σου,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_2,to open the storeroom.,by otworzyć magazyn.,για να ανοίξεις την αποθήκη.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_3,Already changed your password?,Zmieniłeś/aś już hasło?,Έχεις ήδη αλλάξει τον κωδικό σου;,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_4,"If not, your password will be '000000'.","Jeśli nie, to Twoim hasłem jest: ""000000"".","Αν όχι, ο κωδικός σου θα είναι '000000'.",client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_5,Change your password in storage.,Zmień swoje hasło w magazynie.,Άλλαξε τον κωδικό σου στην αποθήκη.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_TITLE,Saving Password,Zapamiętywanie Hasła,Κωδικός αποθήκης,client: window texts (uiScriptLocale),done
+c:locale_interface:PICK_MONEY_TITLE,Divide,Podziel,Διαίρεση,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_CLOSE_BUTTON,Close shop,Zamknij Sklep,Κλείσιμο καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_NAME,Name of the shop,Nazwa Sklepu,Όνομα καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_TITLE,Open private shop,Otwórz własny Sklep,Άνοιγμα ιδιωτικού καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_COST,Upgrading Costs: 0 Yang,Ulepszanie Kosztuje: 0 Yang,Κόστος αναβάθμισης: 0 Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_INFO,Chance to upgrade successfully: 100%,Szansa na udane Ulepszenie: 100%,Πιθανότητα επιτυχούς αναβάθμισης: 100%,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_MONEY,Refinement fee,Opłata za uszlachetnienie,Τέλος βελτίωσης,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_SELECT,Refinement,Uszlachetnienie,Βελτίωση,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_TTILE,Upgrades,Ulepszanie,Αναβαθμίσεις,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,Επανεκκίνηση εδώ,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,Επανεκκίνηση στην πόλη,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,Αλλαγή κωδικού,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,Αποθήκη,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,ΔΥΝ,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_CREATE,Create,Stwórz,Δημιουργία,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DELETE,Delete,Usuń,Διαγραφή,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,ΕΠΙ,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,Όνομα βασιλείου,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EXIT,Close,Zamknij,Κλείσιμο,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_LEVEL,Level,Poziom,Επίπεδο,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień Duszy,Επιλογή λίθου πνεύματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NAME,Name,Nazwa,Όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,Χωρίς συντεχνία,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,Χρόνος παιχνιδιού (λεπ.),client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SELECT,Start,Start,Έναρξη,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SP,SP,PE,SP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,Επιλογή τίτλου,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_BUY,Buy,Kup,Αγορά,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELL,Sell,Sprzedaj,Πώληση,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TITLE,Shop,Sklep,Κατάστημα,client: window texts (uiScriptLocale),done
+c:locale_interface:SKILL_SUPPORT_TITLE,Standard Skills,Standardowe Umiejętności,Βασικές ικανότητες,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP,Clarity grade,Stopień jakości,Βαθμός καθαρότητας,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP_SELECT,Clarity grade,Stopień jakości,Βαθμός καθαρότητας,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH,Strengthen,Wzmocnienie,Ενίσχυση,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH_SELECT,Level,Poziom,Επίπεδο,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEMOPTION_TITLE,System Options,Opcje Systemowe,Επιλογές συστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,Αλλαγή χαρακτήρα,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,Έξοδος από το παιχνίδι,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_HELP,Help,Pomoc,Βοήθεια,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,Αποσύνδεση,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Κατάστημα αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,Επιλογές συστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],Χαρακτήρας [C/V/B/N],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],Παράθυρο συνομιλίας [Enter],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DISABLE,Deactivated,Dezaktywowano,Απενεργοποιημένο,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DRAGON_SOUL,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Αλχημεία Λίθων Δράκου,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_EXPAND,Expand window,Powiększ okno,Επέκταση παραθύρου,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_INVENTORY,Inventory [I],Ekwipunek [I],Αποθέματα [I],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_MESSENGER,Friends [Alt+M],Przyjaciele [Alt+M],Φίλοι [Alt+M],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_NEXT_QUICKSLOT,"Next Fast Access Field [Shift+Number, Alt]",Następne Szybkie Pole Dostępu [Alt],"Επόμενη γραμμή γρήγορης πρόσβασης [Shift+αριθμός, Alt]",client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Number],Poprzednie Szybkie Pole Dostępu,Προηγούμενη γραμμή γρήγορης πρόσβασης [Shift+αριθμός],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],Επιλογές[ESC],client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_BAN,Block,Blokuj,Αποκλεισμός,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_NAME,Whisper,Szept,Ψίθυρος,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_SEND,Send,Wyślij,Αποστολή,client: window texts (uiScriptLocale),done
+c:locale_interface:YES,Yes,Tak,Ναι,client: window texts (uiScriptLocale),done
+c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,Μεγάλος χάρτης,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_STATUS_TITLE,Character Status,,Κατάσταση χαρακτήρα,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ATTRIBUTES_TITLE,Attributes,,Ιδιότητες,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_CATEGORIES,Categories,,Κατηγορίες,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ACCOUNT_STATE,Account,,Λογαριασμός,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_GROUP,Group,Grupuj,Ομάδα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHOW_DAMAGE_TARGET,Target,Cel,Στόχος,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP,Shop display,Widok sklep,Εμφάνιση καταστημάτων,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_ON,Show,Pokaż,Εμφάνιση,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_FOUND,Search only,Wyszukanie,Μόνο αναζήτηση,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_RANGE,Shop range,Zakres sklepów,Εμβέλεια καταστημάτων,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHADOW,Shadow quality,Jakość cieni,Ποιότητα σκιών,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO,Monster info,Info potw.,Πληροφορίες τεράτων,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_AGGR,Aggressive,Agresywny,Επιθετικός,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_LEVEL,Level,Poziom,Επίπεδο,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE,Night,Noc,Νύχτα,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_ON,On,WŁ,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_OFF,Off,WYŁ,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT,Environment,Otoczenie,Περιβάλλον,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_ON,On,WŁ,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_OFF,Off,WYŁ,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE,Snowfall,Opady śniegu,Χιονόπτωση,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_ON,On,WŁ,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_OFF,Off,WYŁ,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE,Snow,Śnieg,Χιόνι,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_ON,On,WŁ,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_OFF,Off,WYŁ,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE,Fog,Mgła,Ομίχλη,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_ON,On,Włącz,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_OFF,Off,Wyłącz,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Απόσταση θέασης,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Νυχτερινή λειτουργία,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Αυτόματο,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Ενεργοποιεί τη νυχτερινή λειτουργία στους περισσότερους χάρτες.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,Η νύχτα διαρκεί από τις 22:00 έως τις 06:00.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Χρησιμοποιεί το ρολόι του υπολογιστή σου.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Κείμενο αποστολών,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Κανονικό,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Γρήγορη,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Άμεσο,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Πληροφορίες επιδράσεων,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_0,Left,Na Lewo,Αριστερά,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_1,Right,Na Prawo,Δεξιά,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_2,Hide,Ukryj,Απόκρυψη,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_LABEL,Bot titles,,Τίτλοι bots,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_PERSONALITY,Personality,,Προσωπικότητα,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_OFF,Off,,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_VERSION,Version: %d.%d.%d%s,,Έκδοση: %d.%d.%d%s,client: window texts (uiScriptLocale) | keep: %d %d %d %s,done
+c:locale_interface:SYSTEM_ESCAPE,Unstuck,Uwolnij się,Ξεκόλλημα,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MOVE_CHANNEL,Change Channel,Zmień kanał,Αλλαγή καναλιού,client: window texts (uiScriptLocale),done
+c:locale_interface:HORSE_INVENTORY,Saddlebags,Juki Konne,Σακίδια σέλας,client: window texts (uiScriptLocale),done
+c:locale_interface:POCKET_DEPOSIT,Item Shop Storage,Depozyt ItemShop,Αποθήκη καταστήματος αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE,Shop,Sklep,Κατάστημα,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_SORT_STACK,Stack and sort,,Στοίβαξη και ταξινόμηση,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_3,Inventory page 3,,Σελίδα αποθεμάτων 3,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_4,Inventory page 4,,Σελίδα αποθεμάτων 4,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_AUTOSTACK,Stack all items,Połącz wszystkie przedmioty,Στοίβαξη όλων των αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_TITLE,Report Player,Zgłoś gracza,Αναφορά παίκτη,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_REASON,Reason:,Powód zgłoszenia:,Αιτία:,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_SUBMIT,Report,Zgłoś,Αναφορά,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME,Shop name,Nazwa sklepu,Όνομα καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT,Shop duration,Czas trwania sklepu,Διάρκεια καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE,Create,Stwórz,Δημιουργία,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_PRICE,Cost: ,Koszt: ,Κόστος: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAY,day,dzień,ημέρα,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAYS,days,dni,ημέρες,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOUR,hour,godz.,ώρα,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOURS,hours,godz.,ώρες,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_NORMAL,Normal shop,Zwykły sklep,Κανονικό κατάστημα,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE,%d hours / %s,%d godz. | %s,%d ώρες / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE_DAYS,%d days / %s,%d dni | %s,%d ημέρες / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_NORMAL,Normal shop / %s,Zwykły sklep | %s,Κανονικό κατάστημα / %s,client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_CREATE_SELECT_DEFAULT,Select duration,Wybierz czas,Επιλογή διάρκειας,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME_EMPTY,Please enter a shop name.,Proszę wpisać nazwę sklepu,Πληκτρολόγησε όνομα καταστήματος.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT_EMPTY,Please select a shop duration.,Proszę wybrać czas trwania sklepu,Επίλεξε τη διάρκεια του καταστήματος.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_NAME,Your Shops,Twoje sklepy,Τα καταστήματά σου,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_CREATE,Create Shop,Tworzenie sklepu,Δημιουργία καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_GET_YANG,Collect Yang,Pobierz Yang,Συλλογή Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_NAME,Rename,Zmień nazwę,Μετονομασία,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_ENTER_NEW_NAME,Enter a new name,Wpisz nową nazwę,Πληκτρολόγησε νέο όνομα,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE,Close shop,Zamknij sklep,Κλείσιμο καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE_QUEST,"Are you sure you want to close shop ""%s""?","Czy jesteś pewny że chcesz zamknąć sklep ""%s""?","Σίγουρα θέλεις να κλείσεις το κατάστημα ""%s"";",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_OPEN,Open shop,Otwórz sklep,Άνοιγμα καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TITLE,Manage Shop,Zarządzaj sklepem,Διαχείριση καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT,Edit,Edytuj,Επεξεργασία,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM,Remove,Usuń,Αφαίρεση,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_PRICE,Change price,Zmień cenę,Αλλαγή τιμής,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_WINDOW,Edit Shop,Edytowanie sklepu,Επεξεργασία καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_CANCEL,Cancel editing,Anuluj edycje,Ακύρωση επεξεργασίας,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELECT,Select,Wybierz,Επιλογή,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM_QUEST,Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten przedmiot?,Σίγουρα θέλεις να αφαιρέσεις αυτό το αντικείμενο;,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NOT_EARNED_YANG,This shop has not earned any Yang yet.,Sklep nie zarobił żadnych Yang do tej pory!,Αυτό το κατάστημα δεν έχει κερδίσει ακόμα Yang.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_YANG_QUEST,"Collect %s from shop ""%s""?","Czy jesteś pewny że chcesz pobrać %s ze sklepu ""%s"" ?","Συλλογή %s από το κατάστημα ""%s"";",client: window texts (uiScriptLocale) | keep: %s %s,done
+c:locale_interface:SHOP_INFORMATION,Shop Information,Informacje o sklepie ,Πληροφορίες καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_TITLE,Shop History,Historia Sklepu,Ιστορικό καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_CLEAR,Clear history.,Wyczyść historię.,Εκκαθάριση ιστορικού.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_FIRST,Action,Akcja,Ενέργεια,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_SECOND,Date,Data,Ημερομηνία,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_ATTR,With bonus,Z bonusem,Με μπόνους,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH,Search,Szukaj,Αναζήτηση,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TITLE,Item Search,Wyszukiwarka przedmiotów,Αναζήτηση αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TOOLTIP,Item Search [F5],Wyszukiwarka przedmiotów [F5],Αναζήτηση αντικειμένων [F5],client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_CLEAR,Clear,Wyczyść,Καθαρισμός,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTRIBUTE_LIST_TITLE,Character Bonuses,Bonusy postaci,Μπόνους χαρακτήρα,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_TITLE,Refill Elixir,Ładowanie Eliksiru,Αναπλήρωση ελιξιρίου,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_BUTTON_TOOLTIP,Refill elixir,Naładuj eliksir,Αναπλήρωση ελιξιρίου,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_TITLE,Remove Spirit Stone,Wyjmij Kamień Duszy,Αφαίρεση λίθου πνεύματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_BUTTON,Remove,Wyjmij,Αφαίρεση,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_BLOCK,Block player,Zablokuj gracza,Αποκλεισμός παίκτη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TITLE,Settings,Ustawienia,Ρυθμίσεις,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RESOLUTION,Resolution,Rozdzielczość,Ανάλυση,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SOUND,Sound,Dźwięk,Ήχος,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW,Display mode,Tryb ekranu,Λειτουργία προβολής,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_CUSTOM_RESOLUTION,Custom resolution,Własna Rozdzielczość,Προσαρμοσμένη ανάλυση,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT,Font,Czcionka,Γραμματοσειρά,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_WINDOWED,Windowed,Okno,Παράθυρο,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL,Fullscreen,Pełny ekran,Πλήρης οθόνη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL_WINDOWED,Borderless,Pełne okno,Χωρίς περίγραμμα,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SAVE,Save,Zapisz,Αποθήκευση,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE,View distance,Zakres rysowania,Απόσταση θέασης,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL1,Very short,Bardzo krótki,Πολύ σύντομη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Σύντομη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Μέτρια,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Μεγάλη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Πολύ μεγάλη,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Μέγιστο,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Εξομάλυνση,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Ορισμένες αλλαγές απαιτούν επανεκκίνηση. Συνέχεια;,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE,Interface scaling,Skaluj Interfejs,Κλιμάκωση διεπαφής,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_NONE,Off,Nie skaluj,Ανενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_YES,On,Skaluj,Ενεργό,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOWS,Shadows,Cienie,Σκιές,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_NONE,None,Brak,Κανένα,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND,Terrain,Teren,Έδαφος,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_AND_SOLO,Terrain and player,Teren i Gracz,Έδαφος και παίκτης,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, Gracz i NPC","Έδαφος, παίκτης και NPC",client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Χαμηλή,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Μέτρια,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Υψηλή,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Υφές,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Προεπιλογή,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Κλασικές υφές,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_2,Classic effects,Stare efekty,Κλασικά εφέ,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_3,Classic textures and effects,Stare tekstury i efekty,Κλασικές υφές και εφέ,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_LANGUAGE,Language,Język,Γλώσσα,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_APPEARANCE,Costume 1,Kostium 1,Στολή 1,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_ATTRIBUTE,Costume 2,Kostium 2,Στολή 2,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_SKILLBOOK_TILE,Exchange books,Wymień księgi,Ανταλλαγή βιβλίων,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_EXIT,Leave war,Opuść wojnę,Αποχώρηση από τον πόλεμο,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_WITHDRAW_GOLD,Withdraw,Wypłać,Ανάληψη,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_STATS,Open Statistics: Y,Otwórz Okno Statystyk: Y,Άνοιγμα στατιστικών: Y,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EARNED_YANG,Yang earned: ,Zarobionych yang: ,Yang που κερδήθηκαν: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SOLD_ITEMS,Items sold: ,Sprzedanych przedmiotów: ,Αντικείμενα που πουλήθηκαν: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REST_ITEMS,Items remaining: ,Pozostałe przedmioty: ,Υπόλοιπα αντικείμενα: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIME_TO_CLOSE,Closes in: ,Pozostało do zamknięcia: ,Κλείνει σε: ,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_WINDOW_NAME,Your Gifts,Twoje podarki,Τα δώρα σου,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_PREV_PAGE,Previous page,Poprzednia strona,Προηγούμενη σελίδα,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_NEXT_PAGE,Next page,Następna strona,Επόμενη σελίδα,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_FROM,Sender,Wysłał,Αποστολέας,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_REASON,Reason,Powód,Αιτία,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_ALL,Collect all,Odbierz wszystkie,Συλλογή όλων,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_QUEST,"Collect the item ""%s""?","Czy jesteś pewny że chcesz odebrać przedmiot ""%s""?","Συλλογή του αντικειμένου ""%s"";",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:GIFT_GET_QUEST_ALL,Collect all items?,Czy jesteś pewny że chcesz odebrać wszystkie przedmioty ?,Συλλογή όλων των αντικειμένων;,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_MONEY_DESC,Your shop earnings.,Twoje zarobione Yangi z sklepu.,Τα κέρδη του καταστήματός σου.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_REOPEN,Reopen shop,Otwórz ponownie,Επαναλειτουργία καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_LOGS,Shop history,Historia sklepu,Ιστορικό καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SHOP,Edit shop,Edytuj sklep,Επεξεργασία καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_FIND_SHOP,Find shop,Znajdź sklep,Εύρεση καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SIGN,Rename shop,Edytuj nazwę,Μετονομασία καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_CLOSE_SHOP,Close shop,Zamknij sklep,Κλείσιμο καταστήματος,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW,Withdraw Yang,Wypłać Yang,Ανάληψη Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW_ITEMS,Collect all items,Odbierz wszystkie przedmioty,Συλλογή όλων των αντικειμένων,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSED,Closed,Zamknięty,Κλειστό,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NEAR_CLOSED,under %d minutes,poniżej %d minut,λιγότερο από %d λεπτά,client: window texts (uiScriptLocale) | keep: %d,done
+c:locale_interface:SHOP_PREMIUM_SLOT,Unlock these slots with a Premium Shop.,Te miejsca odblokujesz za pomocą Sklepu Premium.,Ξεκλείδωσε αυτές τις θέσεις με premium κατάστημα.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_LOCKED_SLOT,Unlock these slots through in-game activities.,Te miejsca odblokujesz aktywnościami w grze.,Ξεκλείδωσε αυτές τις θέσεις μέσω δραστηριοτήτων στο παιχνίδι.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_ONLINE,The owner is online. Send a whisper.,Właściciel sklepu jest online. Wyślij PW.,Ο ιδιοκτήτης είναι συνδεδεμένος. Στείλε ψίθυρο.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_OFFLINE,The owner is offline.,Właściciel sklepu jest offline.,Ο ιδιοκτήτης είναι εκτός σύνδεσης.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME1,Control the fish with the space bar.,Kontrolujesz rybkę używając spacji,Έλεγξε το ψάρι με το πλήκτρο διαστήματος.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME2,Keep the fish inside the area.,Rybka nie może wyjść poza pole,Κράτα το ψάρι μέσα στην περιοχή.,client: window texts (uiScriptLocale),done
+c:locale_interface:REFRESH,Refresh,Odśwież,Ανανέωση,client: window texts (uiScriptLocale),done
+c:locale_interface:SEARCH_ITEM,Search for an item,Wyszukaj przedmiot,Αναζήτηση αντικειμένου,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT_QUANTITY,Quantity,Ilość,Ποσότητα,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Κατασκευή,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT,Craft,Wytwórz,Κατασκευή,client: window texts (uiScriptLocale),done
+c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Όροι χρήσης,client: window texts (uiScriptLocale),done
+c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Διάβασα και αποδέχομαι τους κανόνες.,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Αποθήκευση,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Σύνδεση,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Διαγραφή,client: window texts (uiScriptLocale),done
+c:locale_interface:BUTTON_HOMEPAGE,Website,Strona WWW,Ιστότοπος,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TITLE,Available Classes,Dostępne profesje,Διαθέσιμες κλάσεις,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TOOLTIP,(Hover over an icon),(Najedź myszką na ikonę),(Πέρασε τον δείκτη πάνω από ένα εικονίδιο),client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_TITLE,Statistics,Statystyki,Στατιστικά,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_GENERAL,General,Ogólne,Γενικά,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_CURRENT_SESSION,Current session,Obecna sesja,Τρέχουσα συνεδρία,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_RESET_SESSION,Reset,Wyzeruj,Επαναφορά,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TITLE,You are talking to a |cffffb514Game Master|r.,Rozmawiasz z |cffffb514Mistrzem Gry|r.,Μιλάς με έναν |cffffb514Game Master|r.,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP1,- Ask your question directly.,"- Zadawaj pytania od razu, bez wstępów.",- Κάνε την ερώτησή σου απευθείας.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,- Pisz krótko i konkretnie.,- Κράτα το μήνυμά σου σύντομο και σαφές.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,- Περίμενε υπομονετικά απάντηση.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,Συντήρηση,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,Έχει προγραμματιστεί διακοπή υπηρεσίας.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Ζητούμε συγγνώμη για την ταλαιπωρία.,client: window texts (uiScriptLocale),done

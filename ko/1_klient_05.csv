@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),새 코드 요청 (최대 2회),client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742주의!|r 보안 확인!,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,게임 마스터가 확인을 요청했습니다.,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP3,Please enter the CAPTCHA code correctly,kodu Captcha. Proszę o jego poprawne,게임을 계속하려면,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP4,to continue playing.,wprowadzenie aby móc kontynuować rozgrywkę.,CAPTCHA 코드를 정확히 입력하세요.,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP5,Entering an incorrect code may result,Błędne podanie kodu może skutkować,잘못된 코드를 입력하면,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP6,in a permanent account ban.,stałą blokadą konta.,계정이 영구 정지될 수 있습니다.,client: window texts (uiScriptLocale),done
+c:locale_interface:SPRINT_ONBOARDING,Try the Sprint skill!,Sprawdź umiejętność Sprintu!,질주 스킬을 사용해 보세요!,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_TITLE,GM: Player Preview,,GM: 플레이어 미리 보기,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_ACCOUNT_PLACEHOLDER,Account: ACCOUNT_NAME),,계정: ACCOUNT_NAME),client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_VIEW,Preview,,미리 보기,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_DURATION,Ban duration,,정지 기간,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_DAYS_PLACEHOLDER,in days,,일 단위,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_WHY,WHY?!,,왜?!,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,사유를 입력하세요...,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_BUTTON,Ban,,정지,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,남은 시간: 30초,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,닉네임: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,코드: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,CAPTCHA 코드를 입력하세요,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,남은 시간: 45초,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,코드:,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,남은 시도: 3,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,아이템샵,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,DC,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,DM,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,구매 확인,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_1,Buy 1,,1개 구매,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_5,Buy 5,,5개 구매,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_10,Buy 10,,10개 구매,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_TITLE_PLACEHOLDER,Enchant Item (Pack of 4),,마법 부여 아이템 (4개 묶음),client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_TIME_PLACEHOLDER,Ends in xxx,,xxx 후 종료,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_SOLD_OUT,Sold out.,,품절되었습니다.,client: window texts (uiScriptLocale),done
+c:locale_interface:BUSY_ACTION_GATHERING_DOTS,Gathering...,,채집 중...,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFTING_FILTER_DEFAULT,Filter,,필터,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUSIC,Music,,음악,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SOUND_EFFECTS,Sound effects,,효과음,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_PLACEHOLDER,Scale (1.0),,배율 (1.0),client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SETTINGS,Settings,,설정,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_RULES,Rules,,규칙,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_VERSION_PLACEHOLDER,Version: xxx,,버전: xxx,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_SLOT,Elixir slot,,영약 칸,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_NAME_PLACEHOLDER,Enter a shop name...,,상점 이름을 입력하세요...,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIME_LEFT_PLACEHOLDER,Left 23:59:59,,남은 시간 23:59:59,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_EXCHANGE_WINDOW_TITLE,Exchange,,교환,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_EXCHANGE_WINDOW_RESULT,Result,,결과,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_BONUSES_BUTTON,Bonuses,,보너스,client: window texts (uiScriptLocale),done
+c:locale_game_ikashop:IKASHOP_MONEY_INPUT_DIALOG_TITLE,Insert Price,,가격 입력,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_QUESTION_DIALOG_CONTINUE_TEXT,Continue,,계속,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_QUESTION_DIALOG_CANCEL_TEXT,Cancel,,취소,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_BOARD_TITLE,Trade Hub,,거래소,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SAFEBOX_OPEN_BUTTON_TEXT,Open Safebox Board,,보관함 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_PRIVATE_OFFER_OPEN_BUTTON_TEXT,Open Private Offers Board,,개인 제안 게시판 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_AUCTION_OPEN_BUTTON_TEXT,Open Auction Board,,경매 게시판 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SEARCH_SHOP_BUTTON_TEXT,Open Search Shop (|Eshortcut/ctrl.tga|e + S),,상점 검색 열기 (|Eshortcut/ctrl.tga|e + S),client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_DURATION_INCREASE_BUTTON_TEXT,Restore Duration,,기간 복구,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANCEL_SHOP_BUTTON_TEXT,Cancel Shop,,상점 취소,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SHOP_EXPIRED_DURATION,|cFFFF9999|hExhausted duration|r,,|cFFFF9999|h기간 만료|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INVALID_ITEM_PRICE,Inserted an invalid price.,,잘못된 가격을 입력했습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INCREASE_DURATION_NO_MONEY,You don't have enough money to complete the request.,,요청을 완료할 돈이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INCREASE_DURATION_QUESTION,The operation will cost |cFFFFFF99|h{}|r. Do you want to continue?,,비용은 |cFFFFFF99|h{}|r입니다. 계속하시겠습니까?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM,You cannot sell this item.,,이 아이템은 판매할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM_EXPIRED_SHOP,The store is closed. You cannot sell items.,,상점이 닫혀 있어 아이템을 판매할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM_NO_SPACE,You have run out of available space. Unable to sell the item.,,공간이 부족해 아이템을 판매할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SELL_ITEM_TOOLTIP,|Eshortcut/mright.tga|e Sell Item,,|Eshortcut/mright.tga|e 아이템 판매,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_EDIT_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e + |Eshortcut/shift.tga|e Edit Price,,|Eshortcut/mleft.tga|e + |Eshortcut/shift.tga|e 가격 수정,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_REMOVE_ITEM_TOOLTIP,|Eshortcut/mright.tga|e Remove Item,,|Eshortcut/mright.tga|e 아이템 제거,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANCEL_SHOP_QUESTION,All items that cannot be placed in your Inventory will be moved to the Shopping Safebox. Do You want to continue?,,인벤토리에 넣을 수 없는 아이템은 모두 거래 보관함으로 이동합니다. 계속하시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_NO_AUCTION_CREATE_AUCTION_QUESTION,You do not own any auctions. Would you like to create an Auction now?,,진행 중인 경매가 없습니다. 지금 경매를 만드시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_BOARD_TITLE,Shopping Safebox,,거래 보관함,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_MONEY_BUTTON_TEXT,Claim Money,,돈 받기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ITEMS_BUTTON_TEXT,Claim Items,,아이템 받기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e Claim Item,,|Eshortcut/mleft.tga|e 아이템 받기,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ALL_ITEMS_QUESTION,Do you want to transfer all items to your inventory?,,모든 아이템을 인벤토리로 옮기시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_BOARD_TITLE,Auction,,경매,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CREATE_BOARD_TITLE,Select Item,,아이템 선택,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CREATE_REMOVE_ITEM,|Eshortcut/mleft.tga|e Remove Item,,|Eshortcut/mleft.tga|e 아이템 제거,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ACUTION_CREATE_CREATE_BUTTON,Create,,생성,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ACUTION_CANCEL_AUCTION_BUTTON,Cancel,,취소,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CANNOT_CANCEL,You cannot cancel the auction if it has received bids.,,입찰이 들어온 경매는 취소할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CANCEL_AUCTION_QUESTION,The item will be transferred to the Shopping Safebox. Are you sure you want to close the auction?,,아이템이 거래 보관함으로 이동합니다. 정말 경매를 종료하시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_MIN_BID,Min. Raise,,최소 인상액,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_MY_AUCTION_CREATION_DURATION,|cFFFFFF88Three Days|h|r,,|cFFFFFF883일|h|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_DATETIME_TODAY,Today {:02d}:{:02d},,오늘 {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_DATETIME_YESTERDAY,Yesterday {:02d}:{:02d},,어제 {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_DATETIME_TOMORROW,Tomorrow {:02d}:{:02d},,내일 {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_BOARD_TITLE,Search Shop,,상점 검색,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SEARCH_BUTTON_TEXT,Search,,검색,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_AUCTION_LIST_BUTTON_TEXT,Auctions,,경매,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_BUTTON_TEXT,History,,기록,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_RESET_FILTER_BUTTON_TEXT,Cancel Filters,,필터 해제,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_HEADER,Type,,종류,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_HEADER,Sub-type,,세부 종류,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SELECT_AN_ELEMENT,Select...,,선택...,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_WEAPON,Weapon,,무기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ARMOR,Armor,,갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_JEWEL,Jewel,,장신구,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_COSTUME,Costume,,코스튬,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_PET,Pet,,펫,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MOUNT,Mount,,탈것,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ALCHEMY,Alchemy,,연금술,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_BOOK,Book,,책,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_STONE,Stone,,돌,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MINERALS,Mineral,,광물,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_FISH,Fish,,물고기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_SWORD,Sword,,한손검,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_TWOHANDED,Two Hand Sword,,양손검,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BLADE,Blade,,단검,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_DAGGER,Dagger,,단검,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BOW,Bow,,활,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BELL,Bell,,방울,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_FAN,Fan,,부채,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_CLAW,Claw,,클로,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_WARRIOR,Warrior Armor,,무사 갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_SURA,Sura Armor,,수라 갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_ASSASSIN,Ninja Armor,,자객 갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_SHAMAN,Shaman Armor,,무당 갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_WOLFMAN,Wolfman Armor,,수인족 갑옷,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_HELM,Helm,,투구,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_SHIELD,Shield,,방패,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_EAR,Earrings,,귀걸이,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_NECK,Necklace,,목걸이,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_WRIST,Wrist,,손목,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_SHOES,Shoes,,신발,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_BODY,Body,,육체,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_WEAPON,Weapon,,무기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_HAIR,Hairs,,헤어,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_SASH,Sash,,견장,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_PET_EGGS,Eggs,,알,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_PET_SEALS,Seal,,인장,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_PRICE_MIN_HEADER,Price Min:,,최소 가격:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_PRICE_MAX_HEADER,Price Max:,,최대 가격:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_LEVEL_MIN_HEADER,Lv. Min:,,최소 레벨:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_LEVEL_MAX_HEADER,Lv. Max:,,최대 레벨:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_ABSORB_HEADER,Sash Abs.:,,견장 흡수율:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ALCHEMY_GRADE_HEADER,Alchemy Grade:,,연금술 등급:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% 이상,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% 이상,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% 이상,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,25%만,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,일반,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,희귀한,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,희귀,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,고대의,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_LEGENDARY,Legendary,,전설,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_BUY_BUTTON_TEXT,Buy,,구매,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OFFER_BUTTON_TEXT,Offer,,제안,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OPEN_SHOP_BUTTON_TEXT,Open Shop,,상점 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OPEN_AUCTION_BUTTON_TEXT,Open Auction,,경매 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_NO_FILTER_USED,Use at least one filter to start the search.,,검색하려면 필터를 하나 이상 사용하세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_NAME_AUCTION,(Auction),,(경매),client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_WHAT_FORMAT,Searched Name : |cFFFFFF99|h{}|r (found {} items),,검색어: |cFFFFFF99|h{}|r ({}개 아이템 찾음),client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_INFO_BUTTON_TEXT,Show Filter Informations,,필터 정보 보기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_NAME_FORMAT,{}'s Shop,,{}님의 상점,client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_BUY_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e Buy,,|Eshortcut/mleft.tga|e 구매,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_EXPIRED,The shop is no longer available.,,더 이상 이용할 수 없는 상점입니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_ITEM_TOOLTIP,|Eshortcut/shift.tga|e + |Eshortcut/mleft.tga|e Private Offer,,|Eshortcut/shift.tga|e + |Eshortcut/mleft.tga|e 개인 제안,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_BUY_ITEM_QUESTION,Do you want to buy |cFFFFFF99|h{}|r sold at |cFFFFFF99|h{}|r?,,|cFFFFFF99|h{}|r을(를) |cFFFFFF99|h{}|r에 구매하시겠습니까?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_INVALID_OFFER_PRICE,You entered an invalid price.,,잘못된 가격을 입력했습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_MUST_BE_LOWER_THAN_PRICE,The bid must be lower than the sale price.,,제안 금액은 판매가보다 낮아야 합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_MUST_BE_HIGHER_THAN_PCT_OF_PRICE,The bid cannot be lower than |cFFFFFF99|h{}%|r of the sale price.,,제안 금액은 판매가의 |cFFFFFF99|h{}%|r보다 낮을 수 없습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_NOT_ENOUGH_MONEY,You do not have enough money to offer this amount.,,이 금액을 제안할 돈이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_MAKE_OFFER_ITEM_PRICE_TOO_LOW,Cannot make private offers for item that costs less than 10.000 yangs.,,10.000냥 미만의 아이템에는 개인 제안을 할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ACUTION_GUEST_RAISE_AUCTION_BUTTON,Raise,,입찰가 올리기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_MIN_RAISE_REQUIRED,You cannot offer less than the min. raise.,,최소 인상액보다 적게 제안할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_NOT_ENOUGH_MONEY,You do not have enough money to offer this amount.,,이 금액을 제안할 돈이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_NAME_FORMAT,{}'s Auction,,{}님의 경매,client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_AUCTION_LIST_BOARD_TITLE,Auction List,,경매 목록,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_BOARD_TITLE,Offer List,,제안 목록,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_DENY_OFFER_BUTTON_TEXT,Deny,,거절,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_CANCEL_OFFER_BUTTON_TEXT,Cancel,,취소,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_ACCEPT_OFFER_BUTTON_TEXT,Accept,,수락,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_ACCEPT_OFFER_QUESTION,By accepting the offer you will receive the price offered in exchange for the item. Do you want to accept the offer?,,제안을 수락하면 아이템 대가로 제안 금액을 받습니다. 수락하시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_CANCEL_OFFER_QUESTION,The offer will be deleted. Do you want to continue?,,제안이 삭제됩니다. 계속하시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_GENERIC_LIST_EMPTY_HEADER,The list is Empty.,,목록이 비어 있습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_HISTORY_FILTER_LIST_BOARD_TITLE,Filters History,,필터 기록,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_RECV_ITEM,Item inserted into the shopping safebox.,,아이템을 거래 보관함에 넣었습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_PRIVATE_OFFER_CREATED,Offer successfully created.,,제안을 등록했습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_DO_NOW,You cannot perform this operation right now.,,지금은 이 작업을 할 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_SHOP_ON_WRONG_PLACE,You cannot create a shop in this place.,,이곳에는 상점을 만들 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_GENERIC_ERROR,Something went wrong. (Generic error),,문제가 발생했습니다. (일반 오류),client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_BUY_NOT_ENOUGH_MONEY,You do not have enough yang to complete the purchase.,,구매에 필요한 냥이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_BUY_PRICE_CHANGED,"The price has been changed, please check the new price and try again.",,가격이 변경되었습니다. 새 가격을 확인하고 다시 시도하세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_MOVE_CLOSED_SHOP,You cannot move a closed shop.,,닫힌 상점은 옮길 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_ADD_USED_ITEM,This item is not available for sale at this time.,,이 아이템은 현재 판매하지 않습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_ADD_SEALED_ITEM,This item is not available for sale at this time.,,이 아이템은 현재 판매하지 않습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SEARCH_COOLDOWN_STILL_ACTIVED,Wait 5 seconds between searches.,,검색 사이에 5초를 기다리세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CREATE_OFFER_COOLDOWN_STILL_ACTIVED,Wait 10 seconds between one offer created and another.,,제안 사이에 10초를 기다리세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_CANNOT_GET_ITEM,You do not have enough space to collect the item.,,아이템을 받을 공간이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_AUCTION_WRONG_PLACE,You cannot create an auction in this place.,,이곳에서는 경매를 만들 수 없습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_AUCTION_ITEM_SEALED,This item is not available for sale at this time.,,이 아이템은 현재 판매하지 않습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PLEASE_SLOW_DOWN,Too many actions in a short time. Please wait a while and try again.,,짧은 시간에 너무 많은 작업을 했습니다. 잠시 후 다시 시도하세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PENDING_PRIVATE_OFFER_LIMIT,You have reached the limit of pending private offers.,,대기 중인 개인 제안 한도에 도달했습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PENDING_PRIVATE_OFFER_ALREADY_EXIST,You have already made an offer for this item.,,이미 이 아이템에 제안했습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_FULL,Your shopping safebox is too full. To proceed you must first lighten it.,,거래 보관함이 너무 가득 찼습니다. 먼저 비운 뒤 진행하세요.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_RAISE_OVER_YOURSELF,You are already the highest bidder in this auction.,,이미 이 경매의 최고 입찰자입니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEM_TOOLTIP,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e Buy all those at this price,,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e 이 가격의 아이템 모두 구매,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEMS_QUESTION,Do you want to buy all |cFFFFFF99|h{}|r sold at |cFFFFFF99|h{}|r?,,|cFFFFFF99|h{}|r 가격의 |cFFFFFF99|h{}|r을(를) 모두 구매하시겠습니까?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BOARD_TITLE,Notifications,,알림,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SOLD_ITEM,You sold |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r을(를) |cFFFFFF99|h{}|r에 판매했습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_NEW_OFFER_ON_ITEM,You have received an offer for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r에 대한 제안을 받았습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SHOP_EXPIRED,Your shop has been closed!,,상점이 닫혔습니다!,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_ITEM_EXPIRED,Your |cFFFFFF99|h{}|r has expired and has been removed from your shop.,,|cFFFFFF99|h{}|r의 기간이 만료되어 상점에서 제거되었습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_NEW_OFFER,Your auction of |cFFFFFF99|h{}|r has received a new bid.,,|cFFFFFF99|h{}|r 경매에 새 입찰이 들어왔습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_EXPIRED,Your auction of |cFFFFFF99|h{}|r has expired.,,|cFFFFFF99|h{}|r 경매 기간이 만료되었습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_SOLD,Your |cFFFFFF99|h{}|r auction has ended. |cFFFFFF99|h{}|r purchased the item for |cFFFFFF99|h{}|r yangs.,,|cFFFFFF99|h{}|r 경매가 끝났습니다. |cFFFFFF99|h{}|r님이 |cFFFFFF99|h{}|r냥에 아이템을 구매했습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_OFFER_CANCELLED,The offer for |cFFFFFF99|h{}|r was cancelled by the bidder.,,입찰자가 |cFFFFFF99|h{}|r에 대한 제안을 취소했습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_DENIED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r was rejected by the seller.,,|cFFFFFF99|h{}|r에 대한 |cFFFFFF99|h{}|r 제안을 판매자가 거절했습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_ACCEPTED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r has been accepted.,,|cFFFFFF99|h{}|r에 대한 |cFFFFFF99|h{}|r 제안이 수락되었습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_EXPIRED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r has been canceled.,,|cFFFFFF99|h{}|r에 대한 |cFFFFFF99|h{}|r 제안이 취소되었습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_BUY,You won the auction of |cFFFFFF99|h{}|r by paying |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r 경매에서 |cFFFFFF99|h{}|r을(를) 지불하고 낙찰받았습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_RAISE,|cFFFFFF99|h{}|r has outbid you for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r님이 |cFFFFFF99|h{}|r에 더 높은 입찰을 했습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_LOST,|cFFFFFF99|h{}|r won the auction of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r님이 |cFFFFFF99|h{}|r 경매를 |cFFFFFF99|h{}|r에 낙찰받았습니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_NOTIFICATION_OPEN_BUTTON_TEXT,Open Notification Board,,알림 게시판 열기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_REMOVE_ALL_SIMILAR_ITEM_TOOLTIP,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e Remove all similar Items,,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e 비슷한 아이템 모두 제거,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_REMOVE_ALL_SIMILAR_ITEMS_QUESTION,All |cFFFFFF99|h{}|r will be moved to Inventory or Shopping Safebox. Do You want to continue?,,모든 |cFFFFFF99|h{}|r이(가) 인벤토리 또는 거래 보관함으로 이동합니다. 계속하시겠습니까?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_EDIT_ALL_SIMILAR_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e + |Eshortcut/ctrl.tga|e Edit Price of all similar Items.,,|Eshortcut/mleft.tga|e + |Eshortcut/ctrl.tga|e 비슷한 아이템의 가격을 모두 수정합니다.,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_RANGE_VIEW_HEADER,Shop view,,상점 보기,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_BUTTON_TEXT,Shop Repositioning,,상점 이동,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_NO_MONEY,You don't have enough money.,,돈이 부족합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to move the shop to your current location? The operation will cost |cFFFFFF99|h{}|r.,,상점을 현재 위치로 옮기시겠습니까? 비용은 |cFFFFFF99|h{}|r입니다.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,평균 가격: |cFF99FF99|h요청 중...|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,평균 가격: |cFFFF9999|h정보 없음|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,평균 가격: |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|h알 수 없음|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,상점 장식,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,상점 장식 {}번,client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_USAGE_QUESTION,Using it the item will be destroyed and change the appearance of your shop for 15 days. Do you want to continue?,,사용하면 아이템이 사라지고 15일 동안 상점 외형이 바뀝니다. 계속하시겠습니까?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_PRIVATE_KEY_MULTIUSE_TOOLTIP,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e Use x10,,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e 10회 사용,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PREMIUM_AFFECT_DESCRIPTION,Search Shop Premium,,프리미엄 상점 검색,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SORT_BY_PRICE_CHECKBOX,Sort by price,,가격순 정렬,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SORT_BY_PRICE_PREMIUM_FEATURE,The Search Shop Premium is required to use this feature.,,이 기능을 사용하려면 프리미엄 상점 검색이 필요합니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRIVATE_SHOP_KEY_SHOP_FULL_UNLOCKED,You have already unlocked all the slots in the shop.,,상점의 모든 칸을 이미 열었습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SEARCH_SHOP_PREMIUM_ALREADY_ACTIVE,Search Shop Premium is already active.,,프리미엄 상점 검색이 이미 활성화되어 있습니다.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_NOTIFICATION_SELLER_DECORATION_EXPIRED,Your |cFFFFFF99|hShop Decoration|r is expired.,,|cFFFFFF99|h상점 장식|r의 기간이 만료되었습니다.,client: offline shop and market | keep: |c...|r colour codes,done
+c:wiki_game:WIKI_100,Level 101+,Poziom 101+,레벨 101+,client: the in-game Wiki,done
+c:wiki_game:WIKI_1_75,Lv 1-75,Poziom 1-75,Lv 1-75,client: the in-game Wiki,done
+c:wiki_game:WIKI_76_100,Lv 76-100,Poziom 76-100,Lv 76-100,client: the in-game Wiki,done
+c:wiki_game:WIKI_ACCESSORIES,Accessories,Biżuteria i pasy,장신구,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALCHEMY,Dragon Stone Alchemy,Alchemia,용혼석 연금술,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALCHEMY_NOTE,"The Alchemist and the Dragon Stone window (refining, upgrading)","Alchemik i okno Smoczych Kamieni (szlifowanie, ulepszanie)","연금술사와 용혼석 창 (강화, 개량)",client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL,All,Wszystkie,전체,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL_CLASSES,All classes,Wszystkie,모든 직업,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,아이템,client: the in-game Wiki,done
+c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,획득처,client: the in-game Wiki,done
+c:wiki_game:WIKI_BACK,Back,Wstecz,뒤로,client: the in-game Wiki,done
+c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,생물학자,client: the in-game Wiki,done
+c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,보스,client: the in-game Wiki,done
+c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,이벤트 보스,client: the in-game Wiki,done
+c:wiki_game:WIKI_CATEGORY,Category,Kategoria,분류,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS,Chests,Skrzynie,상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_ALTERNATIVE,Alternative chests,Pozostałe skrzynie,대체 상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_BOSS,Boss chests,Skrzynie bossów,보스 상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_EVENT,Event chests,Skrzynie eventowe,이벤트 상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHEST_ALL,all at once,wszystko naraz,전부 한 번에,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHEST_ONE,one at random,losowo jeden,무작위 1개,client: the in-game Wiki,done
+c:wiki_game:WIKI_COMMON_NOTE,"This lists assigned mob drops. Other drops depend on level, rank, quests and world settings.","Lista obejmuje drop przypisany potworowi. Inny drop zależy od poziomu, rangi, zadań i ustawień świata.","몬스터에 지정된 드롭만 표시합니다. 다른 드롭은 레벨, 선악치, 퀘스트, 월드 설정에 따라 달라집니다.",client: the in-game Wiki,done
+c:wiki_game:WIKI_CONTENTS,Contents,Zawartość,내용물,client: the in-game Wiki,done
+c:wiki_game:WIKI_CONTENT_INFO,Content of %s,Zawartość: %s,%s 내용물,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,코스튬,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,코스튬,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,헤어,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,견장,client: the in-game Wiki,done
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,위키: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
+c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,피해: %d - %d,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_DROP,Drop,Drop,버리기,client: the in-game Wiki,done
+c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,%s 드롭 목록,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_DROP_COUNT,%d items,%d przedmiotów,아이템 %d개,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_DS_ADD,Additional (%d-%d drawn from the list):,Dodatkowe (losowo %d-%d z listy):,추가 (목록에서 %d-%d개 추첨):,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_DS_BASIC,Basic (always):,Podstawowe (zawsze):,기본 (항상):,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_BONUS,Bonuses,Bonusy,보너스,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_NO_ADD,Additional: none at this grade,Dodatkowe: brak na tej klasie kamienia,추가: 이 단계에는 없음,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_RANGE,value +0 > +%d,wartość +0 > +%d,수치 +0 > +%d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_DS_STEP,step %d,stopień %d,단계 %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_EQUIPMENT,Equipment,Ekwipunek,장비,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_ARMOR,Armor,Zbroje,갑옷,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_BELT,Belt,Pasy,벨트,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_BRACELET,Bracelet,Bransolety,팔찌,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_EARRING,Earrings,Kolczyki,귀걸이,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_HELMET,Helmets,Hełmy,투구,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_NECKLACE,Necklace,Naszyjniki,목걸이,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_SHIELD,Shields,Tarcze,방패,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_SHOES,Shoes,Buty,신발,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,부적,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,무기,client: the in-game Wiki,done
+c:wiki_game:WIKI_EXP,Experience,Doświadczenie,경험치,client: the in-game Wiki,done
+c:wiki_game:WIKI_EXPAND,Expand,Powiększ,펼치기,client: the in-game Wiki,done
+c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,서버 파일 기준 기본 확률 - Ctrl+Alt+우클릭으로 브라우저에서 페이지 열기,client: the in-game Wiki,done
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,냥: %d - %d | 경험치: %d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,최대 HP: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,%s 개량 정보,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,아이템샵,client: the in-game Wiki,done
+c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,아이템 이름,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,자객,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,무당,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,수라,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,무사,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,레벨 %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,레벨 %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_LEVEL_TEXT,Level %d - Refine Range %d~%d,Poziom %d - zakres ulepszeń %d~%d,레벨 %d - 개량 범위 %d~%d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_LEVEL_TEXT2,Level %d~%d - Refine Range %d~%d,Poziom %d~%d - zakres ulepszeń %d~%d,레벨 %d~%d - 개량 범위 %d~%d,client: the in-game Wiki | keep: %d %d %d %d,done
+c:wiki_game:WIKI_LIVES_ON,Found on:,Występuje:,획득처:,client: the in-game Wiki,done
+c:wiki_game:WIKI_LOAD_ERROR,Cannot open Wikipedia. Error details were saved to syserr.txt.,Nie można otworzyć Wikipedii. Szczegóły błędu zapisano w syserr.txt.,위키를 열 수 없습니다. 오류 내용은 syserr.txt에 저장되었습니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_METINSTONE,Metinstone,Kamienie Metin,메틴석,client: the in-game Wiki,done
+c:wiki_game:WIKI_MOB_NAME,Mob Name,Nazwa potwora,몬스터 이름,client: the in-game Wiki,done
+c:wiki_game:WIKI_MONSTER,Monster,Potwory,몬스터,client: the in-game Wiki,done
+c:wiki_game:WIKI_MOUNT,Mount,Wierzchowce,탈것,client: the in-game Wiki,done
+c:wiki_game:WIKI_NO_DROP,No drop of its own - only the common drop by level.,Brak własnego dropu - tylko wspólny drop z poziomu.,고유 드롭 없음 - 레벨별 공통 드롭만 있습니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_ORIGIN,Origin,Pochodzenie,출처,client: the in-game Wiki,done
+c:wiki_game:WIKI_ORIGIN_TITLE,Where to get it,Skąd zdobyć,획득 방법,client: the in-game Wiki,done
+c:wiki_game:WIKI_OTHER_DROP_WAY,Other acquisition paths,Pozostałe sposoby zdobycia,기타 획득 방법,client: the in-game Wiki,done
+c:wiki_game:WIKI_PET,Pet,Zwierzaki,펫,client: the in-game Wiki,done
+c:wiki_game:WIKI_REFINE_COST,Cost: %d Yang | Chance: %d%%,Koszt: %d Yang | Szansa: %d%%,비용: %d냥 | 확률: %d%%,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_REFINE_UNKNOWN,Recipe data is unavailable.,Brak danych o tej recepturze.,제조법 데이터를 사용할 수 없습니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_RESET,Clear,Wyczyść,지우기,client: the in-game Wiki,done
+c:wiki_game:WIKI_RESULTS,Results: %d,Wyniki: %d,결과: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_SEARCH,Search,Szukaj,검색,client: the in-game Wiki,done
+c:wiki_game:WIKI_SEARCH_HINT,Search...,Szukaj...,검색...,client: the in-game Wiki,done
+c:wiki_game:WIKI_SECTION_ITEMS,ITEMS,PRZEDMIOTY,아이템,client: the in-game Wiki,done
+c:wiki_game:WIKI_SECTION_WORLD,WORLD,ŚWIAT,월드,client: the in-game Wiki,done
+c:wiki_game:WIKI_SHINING,Shining,Efekty,빛나는,client: the in-game Wiki,done
+c:wiki_game:WIKI_SHRINK,Shrink,Pomniejsz,접기,client: the in-game Wiki,done
+c:wiki_game:WIKI_SNAPSHOT_NOTE,Wiki data comes with the client. Target and chest drop previews use the current world.,Dane Wiki z paczki klienta. Podgląd dropu w oknie celu i skrzyni uwzględnia bieżący świat.,위키 데이터는 클라이언트에 포함되어 있습니다. 대상과 상자의 드롭 미리 보기는 현재 월드를 기준으로 합니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT,Sort:,Sortuj:,정렬:,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT_LEVEL,level,poziom,레벨,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT_NAME,name,nazwa,이름,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,선악치·레벨에 따른 드롭,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,제작,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,낚시,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,아이템샵,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,몬스터,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,퀘스트 또는 보상,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,개량,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_SHOP,NPC shop,Sklep NPC,NPC 상점,client: the in-game Wiki,done
+c:wiki_game:WIKI_STATICS_INFO,Statistics: %s,Statystyki: %s,통계: %s,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_STATICS_INFO_DEFENSES,Defenses:,Odporności:,방어:,client: the in-game Wiki,done
+c:wiki_game:WIKI_STATICS_INFO_DMG,Min. Dmg:%d | Max. Dmg:%d | Max HP: %d,Min. obrażenia: %d | Maks. obrażenia: %d | Maks. PZ: %d,최소 피해:%d | 최대 피해:%d | 최대 HP: %d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_STATICS_INFO_TYPE,Genus: %s | Sub-genus: %s,Rodzaj: %s | Podrodzaj: %s,종족: %s | 세부 종족: %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_STATICS_INFO_YNG,Min. Yang:%d | Max. Yang:%d | EXP: %d,Min. Yang: %d | Maks. Yang: %d | EXP: %d,최소 냥:%d | 최대 냥:%d | 경험치: %d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,경험치,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_HP,HP,PŻ,HP,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,레벨,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,출처,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,냥,client: the in-game Wiki,done
+c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,시스템,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,보스,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_KING,KING,KRÓL,왕,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,메틴석,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,중간 보스,client: the in-game Wiki,done
+c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,위키 시스템,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,장신구,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,연금술,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ARMOR,Equipment,Ekwipunek,장비,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_CHEST,Chest,Skrzynia,상자,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_COSTUME,Costume,Kostium,코스튬,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_QUEST,Quest item,Przedmiot questowy,퀘스트 아이템,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_UNIQUE,Unique,Unikat,유니크,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_USE,Usable,Używalny,사용 가능,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_WEAPON,Weapon,Broń,무기,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE,Wikipedia requires a complete client update.,Wikipedia wymaga pełnej aktualizacji klienta.,위키를 사용하려면 클라이언트를 완전히 업데이트해야 합니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE_TEXT,The Costumes section is not available yet.,Sekcja Kostiumy jest na razie niedostępna.,코스튬 항목은 아직 이용할 수 없습니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE_TITLE,Unavailable,Niedostępne,사용 불가,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNKOWN_ITEM,Unknown item: %d,Nieznany przedmiot: %d,알 수 없는 아이템: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_UNKOWN_MOB,Unknown Mob: %d,Nieznany potwór: %d,알 수 없는 몬스터: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_UPGRADE_COSTS,Next Item,Następny poziom,다음 아이템,client: the in-game Wiki,done
+c:wiki_game:WIKI_YANG_COSTS,Yang costs,Koszt Yang,냥 비용,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_NOTE,Chance for a character at most 1 level above the monster.,Szansa dla postaci najwyżej 1 poziom wyżej od potwora.,몬스터보다 최대 1레벨 높은 캐릭터 기준 확률입니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_TABLE,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.","Wyżej o 5 poz.: 92%, o 10: 50% (boss, metin: 30%), o 15+: 1%.","5레벨 위: 92%, 10레벨: 50% (보스, 메틴석: 30%), 15레벨 이상: 1%.",client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDES,Guides,Poradniki,가이드,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,규칙과 팁,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,로컬 베타 규칙,client: the in-game Wiki,done
+c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,헤어스타일,client: the in-game Wiki,done
+c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,출현 위치,client: the in-game Wiki,done
+c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,외 %d곳,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,순서,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),행운의 바퀴 (아이템샵),client: the in-game Wiki,done
+c:wiki_game:WIKI_EVENTS,Event,Event,이벤트,client: the in-game Wiki,done
+c:wiki_game:WIKI_OTHER,Other,Inne,기타,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),서버 이벤트 (진행 중일 때),client: the in-game Wiki,done
+c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,달빛 이벤트: 드롭은 이벤트 설정에 따라 다릅니다.,client: the in-game Wiki,done
+c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,요나: 다나카의 귀 1개를 보라색 흑단 상자 1개로 교환.,client: the in-game Wiki,done
+c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5ad3706308ce,combat settings,ustawienia walki,전투 설정,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,자동 사냥 단축키를 저장할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6c37aaf88b8,Auto Hunt - toggle on / off,Auto Łowy - włącz / wyłącz,자동 사냥 - 켜기 / 끄기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c1ba981a6a0,Works with the window closed.,Działa także przy zamkniętym oknie.,창을 닫아도 작동합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:845abf2b9eee,Auto Hunt - shortcut,Auto Łowy - skrót,자동 사냥 - 단축키,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52b4f13a5a39,Drag onto a quickbar slot.,Przeciągnij na wybrane pole paska.,퀵슬롯 칸으로 끌어다 놓으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c778e7cd1f6,The assigned key starts / stops hunting.,Klawisz skrótu włącza / wyłącza łowy.,지정한 키로 사냥을 시작 / 중지합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c043c232308,Autologin: again in %d s (try %d),Autologin: ponownie za %d s (próba %d),자동 로그인: %d초 후 재시도 (%d번째),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:77dfd2135f4d,Cancel,Anuluj,취소,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9579d7c6045,Summons %s. A seal for 7 days of use (168 hours). The time runs only while the seal is worn and stops when you log out. It gives no extra bonuses. Right click: put it on or take it off.,Przywoluje %s. Pieczec na 7 dni uzywania (168 godzin). Czas uplywa tylko przy zalozonej pieczeci i zatrzymuje sie po wylogowaniu. Nie daje dodatkowych bonusow. PPM: zaloz lub zdejmij.,%s을(를) 소환합니다. 7일(168시간) 사용할 수 있는 인장입니다. 인장을 착용한 동안에만 시간이 흐르며 로그아웃하면 멈춥니다. 추가 보너스는 없습니다. 우클릭: 착용 또는 해제.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a47f8adcd225,For game masters only.,Dostepna wylacznie dla GM.,게임 마스터 전용입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab7b4e435ccd,The time counts while the seal is worn.,Czas naliczany przy zalozonej pieczeci.,인장을 착용한 동안 시간이 흐릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2b9418aefafc,Right click: put the seal on or take it off.,PPM: zaloz / zdejmij pieczec.,우클릭: 인장 착용 또는 해제.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4283cc417472,A seal for game masters only.,Pieczec dostepna wylacznie dla GM.,게임 마스터 전용 인장입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8bd86936448,Lasts: %d min,Czas dzialania: %d min,지속: %d분,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e3f59d402540,Movement speed +%d,Szybkosc ruchu +%d,이동 속도 +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:48ee2f6c9dc1,Attack +%d%%,Atak +%d%%,공격력 +%d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:25664e0e3cb9,Experience +%d%%,Doswiadczenie +%d%%,경험치 +%d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ec7cc1838f39,Level %d,Poziom %d,레벨 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b1c76ffc943d,Coordinates: %.2f %.2f %.2f | Texture memory: %d MB,Wspolrzedne: %.2f %.2f %.2f | Pamiec tekstur: %d MB,좌표: %.2f %.2f %.2f | 텍스처 메모리: %d MB,"client: our windows (companion, Auto Hunt, status lines) | keep: %.2f %.2f %.2f %d",done
+c:pbt:8e1f3ea2f38b,Limit: %d FPS | Logic: %d Hz | Work: %.2f ms | Present: %.2f ms | Wait: %.2f ms,Limit: %d FPS | Logika: %d Hz | Praca: %.2f ms | Present: %.2f ms | Pauza: %.2f ms,제한: %d FPS | 로직: %d Hz | 작업: %.2f ms | 표시: %.2f ms | 대기: %.2f ms,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %.2f %.2f %.2f",done
+c:pbt:42a069f5dbd3,Render: %d FPS | Render time: %.2f (%d) ms | Triangles: %d,Obraz: %d FPS | Renderowanie: %.2f (%d) ms | Trojkaty: %d,렌더: %d FPS | 렌더 시간: %.2f (%d) ms | 삼각형: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %.2f %d %d",done
+c:pbt:e0049a66519c,On,Wł.,켜기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3de5ab0ca4c,Off,Wył.,끄기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:977473534cff,In storage: %d (with your inventory: %d),W magazynie: %d (razem z ekwipunkiem: %d),창고: %d (인벤토리 포함: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:93f89e6ca207,The game server is older than the client and crafting does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i wytwarzanie nie sięga do magazynu - zaktualizuj serwer.,게임 서버가 클라이언트보다 오래되어 제작 시 창고를 사용할 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfe0eea5d810,The storage did not answer in time - try again.,Magazyn nie odpowiedział na czas - spróbuj jeszcze raz.,창고가 제때 응답하지 않았습니다 - 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a3465fb1b3d,From the storage into your inventory: %s,Z magazynu do ekwipunku: %s,창고에서 인벤토리로: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:30e3eece8c0b,Crafting takes materials from your storage only at an NPC in a first or second village.,Materiały z magazynu bierze tylko wytwarzanie u NPC w pierwszej i drugiej wiosce.,제작 시 창고의 재료는 첫 번째 또는 두 번째 마을의 NPC에게서만 사용됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:67ceb5da793e,Crafting reaches into your storage once you have opened it at the storekeeper (with its password).,"Wytwarzanie sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).",창고지기에게서 창고를 (비밀번호로) 열면 제작에 창고 재료를 쓸 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22da85e39458,Not enough materials - even with your storage.,Za mało materiałów - nawet razem z magazynem.,창고를 포함해도 재료가 부족합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11ba9614e761,No room in your inventory for the materials from your storage.,Brak miejsca w ekwipunku na materiały z magazynu.,창고 재료를 넣을 인벤토리 공간이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76f26a2fe775,Your storage is busy - close other windows and try again.,Magazyn jest teraz zajęty - zamknij inne okna i spróbuj jeszcze raz.,창고를 사용할 수 없습니다 - 다른 창을 닫고 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2fcaa9b3fe31,You cannot do that while dead.,Nie możesz tego zrobić po śmierci.,사망한 상태에서는 할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a9319a6c2c6b,Your storage is not available now.,Magazyn jest teraz niedostępny.,지금은 창고를 사용할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4287907dd0c8,The database did not confirm the save - open your storage at the storekeeper and check.,Baza nie potwierdziła zapisu - otwórz magazyn u Dozorcy i sprawdź.,데이터베이스가 저장을 확인하지 않았습니다 - 창고지기에게서 창고를 열어 확인하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1aeeb6edee77,The materials could not be taken from your storage - nothing was moved.,Nie udało się wziąć materiałów z magazynu - nic nie zostało przeniesione.,창고에서 재료를 가져오지 못했습니다 - 아무것도 옮기지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c06f646d9939,Your storage does not have enough of it either: %s,Magazyn też nie ma dosyć: %s,창고에도 충분하지 않습니다: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2585bcdd1947,Price: low to high,Cena: rosnaco,가격: 낮은 순,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d1fbecd113d3,Price: high to low,Cena: malejaco,가격: 높은 순,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab5d6fd63898,Price per piece,Cena za sztuke,개당 가격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:257c1c4b5f9a,Name A-Z,Nazwa A-Z,이름 가-하,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:851085e076f7,Seller A-Z,Sprzedawca A-Z,판매자 가-하,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f0e6ea4e867f,Quantity: low to high,Ilosc: rosnaco,수량: 적은 순,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8fc208b783fb,Quantity: high to low,Ilosc: malejaco,수량: 많은 순,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3eff5cf2cf1,Max. HP,Max PZ,최대 HP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c3e41c399c1,Max. SP,Max PM,최대 SP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:636fe3e9cb87,Vitality (VIT),Witalnosc (WIT),체력 (VIT),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7281c4f2ca8,Intelligence (INT),Inteligencja (INT),지능 (INT),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6094f7875c9b,Strength (STR),Sila (STR),근력 (STR),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d36f7565c7f,Dexterity (DEX),Zrecznosc (DEX),민첩성 (DEX),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8022d81e1777,Skill damage,Obrazenia umiejetnosci,스킬 피해,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d65da196313,Casting speed,Szybkosc zaklec,시전 속도,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1859d2ecc83a,HP regeneration,Regeneracja PZ,HP 회복,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc639c9f8c21,SP regeneration,Regeneracja PM,SP 회복,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c9fc679ecbc,Poison chance,Szansa na otrucie,중독 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4cbe056eea2b,Stun chance,Szansa na omdlenie,기절 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b67fe86797b7,Slow chance,Szansa na spowolnienie,감속 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bc5da17b8c1,Strong against humans,Bonus vs ludzie,인간에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e725b7de0e1b,Strong against animals,Bonus vs zwierzeta,동물에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14eeaba651b2,Strong against orcs,Bonus vs orki,오크에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:add50ad3790e,Strong against mystics,Bonus vs mistycy,신비족에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a7baaaf6972,Strong against undead,Bonus vs nieumarli,언데드에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72dc316c9115,Strong against devils,Bonus vs diably,악마에게 강함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ed3ab48c971,SP drain chance,Szansa na odebranie PM,SP 흡수 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b9622cd8c25,Resistance: swords,Odpornosc: miecze,저항: 한손검,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b4f08eb14c54,Resistance: two-handed,Odpornosc: dwureczne,저항: 양손검,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22bad5489e1d,Resistance: daggers,Odpornosc: sztylety,저항: 단검,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d6ef4e2edd3,Resistance: bells,Odpornosc: dzwony,저항: 방울,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bd43dce2d93,Resistance: fans,Odpornosc: wachlarze,저항: 부채,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4ede4c7f92cf,Reflect melee attacks,Odbicie ciosow,근접 공격 반사,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a7762fec465,Reflect arrows,Odbicie strzal,화살 반사,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42f7e65f7bc7,Poison resistance,Odpornosc: trucizna,독 저항,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:735dd8dd9f14,Slow immunity,Odpornosc na spowolnienie,감속 면역,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06d345299406,Max. stamina,Maks. wytrzymalosc,최대 지구력,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c397934852e4,Stamina regeneration,Regeneracja wytrzymalosci,지구력 회복,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3cde07e488af,Skill duration,Czas umiejetnosci,스킬 지속 시간,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b5aafe6b9e2,Experience,Doswiadczenie,경험치,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf60b418759b,Average damage,Srednie obrazenia,평균 피해,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e3525a8d295,Attack speed,Szybkosc ataku,공격 속도,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5ca5d6e2ac48,Movement speed,Szybkosc ruchu,이동 속도,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76708ebaa8bd,Attack value,Wartosc ataku,공격력,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a154f2bb86d0,Critical hit chance,Szansa na krytyk,치명타 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f9cb5d9c7d36,Piercing hit chance,Szansa na przebicie,관통타 확률,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:82dd2cdf36f9,Block,Blok,차단,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f1a7e1f69f3,Dodge,Unik,회피,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76011ffe0cfe,Stun immunity,Odpornosc na omdlenia,기절 면역,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f5845c604b4,Resistance: arrows,Odpornosc: strzaly,저항: 화살,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,저항: 마법,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,HP 흡수,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:600f7953e765,SP absorption,Kradziez PM,SP 흡수,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,냥 드롭 보너스,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (최대 %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:7ceca51fcafe,Buy,Kup,구매,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63fc03bc6359,- none -,- brak -,- 없음 -,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96e578211aa2,Filters,Filtry,필터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:810bcfb5e00b,Bonus filters,Filtry bonusow,보너스 필터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f88322a15e6,"Up to 5 bonuses at once, each with a minimum value:","Do 5 bonusow naraz, kazdy z minimalnym progiem:","보너스를 최대 5개까지, 각각 최솟값과 함께 지정:","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:080b8441c2fa,Min. number of bonuses:,Min. liczba bonusow:,최소 보너스 개수:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d5fda95e394,Ranges,Zakresy,범위,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7eb0cee888ab,Min,Od,최소,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a95e85aed563,Max,Do,최대,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c7f5d049fad,Level,Poziom,레벨,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e261b29a7d99,Item count,Liczba sztuk,아이템 수,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d223669691d,Refine (+0..+9),Ulepszenie (+0..+9),개량 (+0..+9),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41ff354b2b33,Class,Klasa,직업,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:945eda39d82d,Warrior,Wojownik,무사,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f6596271da8,Shaman,Szaman,무당,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a754c61c2ce,Gender,Plec,성별,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c17e97d3d6,Female,Kobieta (K),여성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f3a489c72de,Male,Mezczyzna (M),남성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cfea419c3b4e,Apply,Zastosuj,적용,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:719ea396ad92,Clear,Wyczysc,지우기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5e1fba99a26,Enter a number or leave the field empty.,Wpisz liczbe albo pozostaw puste pole.,숫자를 입력하거나 비워 두세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d2108ba7d8c,"Invalid range (min <= max, refine 0..9).","Niepoprawny zakres (min <= max, ulepszenie 0..9).","잘못된 범위입니다 (최소 <= 최대, 개량 0..9).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e774b481000,Bonus minimum: 1..32767 (empty = 1).,Prog bonusu: 1..32767 (puste = 1).,보너스 최솟값: 1..32767 (비움 = 1).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75b98050b8fe,Bonus count: 0..7 (empty = 0).,Liczba bonusow: 0..7 (puste = 0).,보너스 개수: 0..7 (비움 = 0).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01ebc3233b38,Seller: %s,Sprzedawca: %s,판매자: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0f5b883c5608,Bonuses: %d,Bonusy: %d,보너스: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a7ba36524805,%s / pc.,%s / szt.,%s / 개,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7e194c858b1b,Flea Market,Dom Towarowy,벼룩시장,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71dd2eff9b4d,Name:,Nazwa:,이름:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bce06414177f,Search,Szukaj,검색,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,아이템 이름 지우기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56e3badc4e6c,Refresh,Odswiez,새로 고침,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:412226715c56,Clear filters,Wyczysc filtry,필터 지우기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),애니메이션 (켜기/끄기),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c4d63e4c56f1,From:,Od:,최소:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba1cfdcd865f,to:,do:,최대:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecdda59aea5e,Item,Przedmiot,아이템,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44f6af694554,Quantity,Ilosc,수량,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e8248e32edf,Price,Cena,가격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c1049470218,Buy selected,Kup wybrane,선택 항목 구매,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:80202a6c9379,Filters (%d),Filtry (%d),필터 (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:2d4218ad7781,Select offers to buy,"Zaznacz oferty po lewej, aby kupic",구매할 상품을 선택하세요,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,선택: %d | %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:20b908f50fa9,Buy (%d),Kup (%d),구매 (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,선택한 상품 모두 구매,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,선택한 상품 %d개를 %s에 구매하시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,상품 불러오는 중... %d개 수신,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.",상품 %d개 표시 중 (한도) - 나머지를 보려면 검색 범위를 좁히세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),상품: %d (필터 일치: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ed92ad7614ac,Loading offers...,Wczytywanie ofert...,상품 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7fb235da99b3,No offers match the filters,Brak ofert spelniajacych kryteria,필터에 맞는 상품이 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e2baf47193a,Average: %s / pc.,Srednia: %s / szt.,평균: %s / 개,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:72cf236c9b3d,Cheapest offers: %d / 20,Najtansze oferty: %d / 20,최저가 상품: %d / 20,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wczytywanie,부분 추정 - 상품 불러오는 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,상품 적음 - 참고용 추정,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,가격 정보 없음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","표본: 불러온 상품 (필터, 한도 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,%s을(를) %s에 구매하시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,용혼석 연금술이 켜졌습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,이 월드에서는 용혼석 연금술이 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,빙의를 사용할 수 없습니다 (서버에 퀘스트가 없음).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,%s 빙의 중...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...",빙의: 봇이 월드를 떠나기를 기다리는 중 (약 %d초)...,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d8127f4d3861,Cannot prepare the relogin. Possession cancelled.,Nie można przygotować przelogowania. Przemiana anulowana.,재접속을 준비할 수 없습니다. 빙의를 취소했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c1d225b0fb62,Possession: logging in as the bot...,Przemiana: logowanie na postać bota...,빙의: 봇으로 로그인 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db6a3295c8ef,Back to the GM character...,Powrót do postaci GM...,GM 캐릭터로 돌아가는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f9cb78ca1c4,Log in to the GM account - the return finishes by itself.,Zaloguj się na konto GM - powrót dokończy się sam.,GM 계정으로 로그인하세요. 복귀는 자동으로 완료됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d35ad0af300,Back to GM,Powrót do GM,GM으로 복귀,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:38bbb47f096f,Back to your character,Wróć do swojej postaci,내 캐릭터로 복귀,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a06115cee1ee,Switching to your companion...,Przechodzisz na Towarzysza...,동료로 전환하는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46b38871028d,Your companion is leaving the world (about %d s)...,Towarzysz opuszcza świat (ok. %d s)...,동료가 월드를 떠나는 중 (약 %d초)...,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e56fb12bf888,Cannot prepare the relogin - cancelled.,Nie można przygotować przelogowania - anulowano.,재접속을 준비할 수 없습니다 - 취소됨.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:03c284c5c132,Logging in as your companion...,Logowanie na Towarzysza...,동료로 로그인하는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ebe620a39e8,Back to your character...,Powrót do twojej postaci...,내 캐릭터로 돌아가는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d55683300e2,Log in to your own account - your companion goes back to the AI.,Zaloguj się na swoje konto - Towarzysz wróci pod opiekę AI.,자신의 계정으로 로그인하세요. 동료는 AI로 돌아갑니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70fb7c1c6f64,First to %d kills - tied,Do %d zabójstw - remis,먼저 %d킬 달성 - 동점,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ee0171aa6998,First to %d kills,Do %d zabójstw,먼저 %d킬 달성,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - %d 남음,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:68c165671716,leads,prowadzi,선두,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.",게임 파일 metin2client.exe가 오래되었습니다.[ENTER]게임과 런처를 닫고 런처를 다시 연 다음[ENTER]플레이를 누르면 파일이 교체됩니다. 이 메시지가[ENTER]다시 나오면 게임 폴더를 백신 예외 목록에 추가하세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,저장된 비밀번호를 이 컴퓨터에서 읽을 수 없습니다.[ENTER]비밀번호를 입력하고 이 계정을 다시 클릭하면 새로 저장됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,원본: metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","인벤토리 정렬: %d개 이동, %d묶음 합침.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,인벤토리가 이미 정렬되어 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","지금은 인벤토리를 정렬할 수 없습니다 - 거래, 상점 또는 다른 창을 닫으세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:893dbad1eff3,Wait a moment before sorting again.,Odczekaj chwilę przed kolejnym porządkowaniem.,잠시 후 다시 정렬하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5d28cbe9c9f,The inventory could not be laid out - nothing was changed.,Nie udało się ułożyć ekwipunku - nic nie zmieniono.,인벤토리를 배치할 수 없습니다 - 아무것도 바뀌지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:018ce0869c18,You cannot sort the inventory while dead.,Nie możesz porządkować ekwipunku po śmierci.,사망한 상태에서는 인벤토리를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d06d6feb4d8,The inventory is in an unexpected state - nothing was changed. Please report it on Discord.,Ekwipunek jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,인벤토리 상태가 예상과 다릅니다 - 아무것도 바뀌지 않았습니다. Discord에 알려 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a89adc4901c,The server cannot sort the inventory.,Serwer nie obsługuje porządkowania ekwipunku.,서버에서 인벤토리를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a83c5a929b7,Server rejected sort exclusions. A server update is required.,Serwer odrzucił oznaczenia sortowania. Wymagana aktualizacja serwera.,서버가 정렬 제외 설정을 거부했습니다. 서버 업데이트가 필요합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b92d4e5bb06,Put down the item on your cursor first.,Odłóż najpierw przedmiot trzymany kursorem.,먼저 커서에 든 아이템을 내려놓으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc65cee725de,The inventory cannot be sorted while a shop is being opened.,Nie można porządkować ekwipunku podczas otwierania sklepu.,상점을 여는 중에는 인벤토리를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0c3692131748,Stacks merged: %d. Nothing else moved.,Połączono stosy: %d. Nic poza tym się nie przesunęło.,합친 묶음: %d. 다른 것은 옮기지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:f0e6ecb9f16d,There is nothing to merge.,Nie ma czego łączyć.,합칠 것이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8842522dcba1,Only merge stacks - nothing else moves,Tylko połącz stosy - nic poza tym się nie przesunie,묶음만 합치기 - 다른 것은 옮기지 않음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:349abe80e489,"Stop the bonus switcher, the chest opener and the splitting first.","Najpierw zatrzymaj zmianę bonusów, otwieranie skrzynek i rozdzielanie.","먼저 보너스 변경, 상자 열기, 나누기를 멈추세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2a24223eaef,Wait for the item move to finish.,Poczekaj na zakończenie przenoszenia przedmiotu.,아이템 이동이 끝날 때까지 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95224fca5845,Left Alt + Shift + LMB: lock this page against sorting,Lewy Alt + Shift + LPM: zablokuj tę stronę przed sortowaniem,왼쪽 Alt + Shift + 좌클릭: 이 페이지를 정렬에서 잠금,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4f5cddc0c00,Page locked against sorting. Left Alt + Shift + LMB: unlock,Strona zablokowana przed sortowaniem. Lewy Alt + Shift + LPM: odblokuj,정렬 잠금 페이지입니다. 왼쪽 Alt + Shift + 좌클릭: 잠금 해제,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:728830de8682,Page %s locked - sorting leaves it as it is.,Strona %s zablokowana - sortowanie jej nie ruszy.,%s 페이지가 잠겼습니다 - 정렬해도 그대로 유지됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:abf010f47ab1,Page %s unlocked.,Strona %s odblokowana.,%s 페이지 잠금을 해제했습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0dc33891a03e,This server cannot lock pages - update the server.,Ten serwer nie obsługuje blokady stron - zaktualizuj serwer.,이 서버는 페이지를 잠글 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28c9e49fdca7,Could not save the page locks. Check permissions on the client cache folder.,Nie udało się zapisać blokady stron. Sprawdź uprawnienia katalogu cache klienta.,페이지 잠금을 저장할 수 없습니다. 클라이언트 캐시 폴더의 권한을 확인하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6fe095b1637,Could not save favorites. Check permissions on the client cache folder.,Nie udało się zapisać ulubionych. Sprawdź uprawnienia katalogu cache klienta.,즐겨찾기를 저장할 수 없습니다. 클라이언트 캐시 폴더의 권한을 확인하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b76cca6e1cb,Item included in sorting again.,Przedmiot ponownie podlega sortowaniu.,아이템을 다시 정렬에 포함했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e35dc9e7d6d6,Item excluded from sorting.,Przedmiot wykluczony z sortowania.,아이템을 정렬에서 제외했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18c9173fa511,Could not load the favorites star. Sorting protection still works.,Nie udało się wczytać gwiazdki ulubionych. Ochrona sortowania nadal działa.,즐겨찾기 별을 불러올 수 없습니다. 정렬 보호는 계속 작동합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2549723119a,Surprise,Niespodzianka,깜짝 선물,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,포장 풀기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,계정당 선물 1개,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,12월의 깜짝 선물 24개,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbfa773e5a63,Close,Zamknij,닫기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb11a8e3f871,Rules,Zasady,규칙,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83c87884b09b,Claimed,Odebrano,받음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b564001a58dc,Missed,Minelo,놓침,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24345a14377f,Today,Dzisiaj,오늘,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:65640c6577c9,December,Grudzien,12월,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2b292c497184,%d December,%d grudnia,12월 %d일,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:908f227b0dd6,GM TEST - a separate test claim,TEST GM - osobny odbior testowy,GM 테스트 - 별도 테스트 수령,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3fe2ff1262a6,Gifts arrive in your account's Item Shop storage.,Nagrody odbierzesz w magazynie Item-Shop konta.,선물은 계정의 아이템샵 보관함으로 들어갑니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:faf95485b7eb,You will see what it holds once opened.,Zawartosc poznasz po otwarciu.,열어 보면 내용물을 확인할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4ae461d4bc8a,Opening the chest...,Otwieranie skrzyni...,상자를 여는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ffec8cf0939,This account has its gift.,Prezent odebrano na koncie.,이 계정은 선물을 받았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7a9e12726fb8,Amount: %d,Ilosc: %d,수량: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b0270b2c1f8c,The claim was not confirmed.,Nie potwierdzono odbioru.,수령이 확인되지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:288edef357b4,Try again in a moment.,Sprobuj ponownie za chwile.,잠시 후 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3ca358cfce77,Starts on 1 December.,Start: 1 grudnia.,12월 1일에 시작합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6fd4c2dcddc,The calendar is over.,Kalendarz zakonczony.,달력 이벤트가 끝났습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ede159f81022,The day to claim it has passed.,Termin odbioru minal.,수령 가능한 날이 지났습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:423ddf5d0e68,Available from %d December.,Dostepny od %d grudnia.,12월 %d일부터 받을 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:03486141d611,Requires the Orc Teeth,Wymagane Zeby Orka,오크의 이빨이 필요합니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6fa4783d976d,from the Biologist (task finished).,u Biologa (zadanie ukonczone).,(생물학자 과제 완료).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c84005600b5f,The gift is not ready yet.,Prezent jeszcze niedostepny.,선물이 아직 준비되지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2d80aba065d,Today's chest is waiting!,Dzisiejsza skrzynia czeka!,오늘의 상자가 기다리고 있습니다!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f90ae94e1b2,Left: %dh %dm %ds,Pozostalo: %dh %dm %ds,남은 시간: %d시간 %d분 %d초,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:55a02da80660,One chest a day per account. The gift is a surprise.,Jedna skrzynia dziennie na konto. Nagroda jest niespodzianka.,계정당 하루에 상자 1개. 선물은 비밀입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8297bb17c6aa,Got it!,Zrozumiano!,알겠습니다!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:29939303c0ae,The offer has changed. Open the shop again.,Oferta zmienila sie. Otworz sklep ponownie.,상품이 변경되었습니다. 상점을 다시 여세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1f28a36329d8,The purchase failed. Open the shop again.,Zakup nie powiodl sie. Otworz sklep ponownie.,구매에 실패했습니다. 상점을 다시 여세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fa07507c3d1,Buy part of a stack,Kup czesc stosu,묶음 일부 구매,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fe2c3f97aa0d,Quantity:,Ile sztuk:,수량:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee8df12b6c3a,To pay for %d pcs.: %s,Do zaplaty za %d szt.: %s,%d개 결제 금액: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:af17da72a33f,In the stack: %d pcs.,Dostepne: %d szt.,묶음 수량: %d개,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:7fcd8d44c6f2,Suggested,Sugerowana,추천,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d398eef3ecc,Minimum,Minimalna,최소,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8df2fec28d8,Maximum,Maksymalna,최대,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b887ba2a5f48,Median,Mediana,중앙값,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d1c69a859a96,Last,Ostatnia,최근,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09af574c7f20,Inactive,Nieaktywna,비활성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f6ef31cfaf2,Prices,Ceny,가격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b950d7402bcc,Reprice all items,Zmien ceny wszystkich,모든 아이템 가격 재설정,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:230e30fc83cd,"Choose a pricing mode above first (e.g. Median), then click ""Reprice all items"". No prices were changed.","Najpierw wybierz tryb ceny powyzej (np. Mediana), potem kliknij ""Zmien ceny wszystkich"". Nie zmieniono cen.","먼저 위에서 가격 방식(예: 중앙값)을 고른 뒤 ""모든 아이템 가격 재설정""을 누르세요. 가격은 바뀌지 않았습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3431a9ec66d6,The bots suggest: ,Sugestia botow: ,봇 추천가: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2c2d6014043,The bots have no price for this item yet.,Boty nie maja jeszcze wyceny tego przedmiotu.,아직 이 아이템에 대한 봇 가격이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b4f5ba1cceb,Median of the bots' prices: %s (1 sample),Mediana cen botow: %s (1 probka),봇 가격 중앙값: %s (표본 1개),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:4bc578791bc3,Median of the bots' prices: %s (samples: %d),Mediana cen botow: %s (probki: %d),봇 가격 중앙값: %s (표본: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:c280bdbbdac8,Too few sales for a median.,Za malo sprzedazy do wyliczenia mediany.,중앙값을 구하기에 판매가 너무 적습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfde4a5f4f11,No sales yet - this is the base price.,Brak historii transakcji - pokazana cena bazowa.,아직 판매 기록이 없습니다 - 기본 가격입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu: %s - %s,같은 묶음의 시세: %s - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,시세: 비교할 상품이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,봇 최근 판매가: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,봇 최근 판매가: 정보 없음.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).",클라이언트 %s이(가)[ENTER]서버 요구 버전(%s)보다 오래되었습니다.[ENTER]업데이트하려면 게임을 닫고[ENTER]클라이언트 폴더의 Aktualizuj.bat를 실행하세요[ENTER](런처가 있다면 런처를 실행).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,클릭: 경험치 퍼센트 숨기기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,클릭: 경험치 퍼센트 표시,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:20e40e8f033c,FPS counter,Licznik FPS,FPS 표시,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca6fcaed995c,Map name,Nazwa mapy,맵 이름,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,Enter 누르고 있기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c8238f65551,Snow,Śnieg,눈,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c614ba7c453c,Auto,Auto,자동,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,진행 중인 퀘스트: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,계속 개량하기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",시도 후 같은 아이템이 칸에 남아 있으면,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,같은 아이템에 대해 창이 다시 열립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,매 시도는 직접 확인해야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.",Enter: 개량하고 확인 창도 승인합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,게임 서버가 클라이언트보다 오래되어 개량서 사용 시 창고를 쓸 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,게임 서버가 클라이언트보다 오래되어 대장장이가 창고를 쓸 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,개량서 사용 시 창고 재료는 첫 번째 또는 두 번째 마을에서만 쓰입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).",창고지기에게서 창고를 (비밀번호로) 열면 대장장이가 창고 재료를 쓸 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,첫 번째 또는 두 번째 마을의 대장장이만 창고 재료를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","창고 정렬: %d개 이동, %d묶음 합침.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,창고가 이미 정렬되어 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","지금은 창고를 정렬할 수 없습니다 - 거래, 상점 또는 다른 창을 닫으세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,창고를 배치할 수 없습니다 - 아무것도 바뀌지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,사망한 상태에서는 창고를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,창고 상태가 예상과 다릅니다 - 아무것도 바뀌지 않았습니다. Discord에 알려 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,창고가 열려 있지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,서버가 이 창고 기능을 지원하지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,상점을 여는 중에는 창고를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","지금은 아이템을 옮길 수 없습니다 - 거래, 상점 또는 다른 창을 닫으세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,그 아이템은 더 이상 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,그 칸에 다른 아이템이 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,그 묶음은 가득 찼습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,그 아이템은 그곳에 놓을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,그곳에는 아이템을 놓을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,너무 빠릅니다 - 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,사망한 상태에서는 아이템을 옮길 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,가격 정보 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,자동 가격 방식을 선택하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,선택에 따라 가격이 설정됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,가격: %d / %d 불러옴.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.",아이템 %d개의 시세를 불러오는 중입니다 (약 %d초). 상점 창을 열어 두세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,가격을 바꾸지 않았습니다: 상점 총액이 냥 한도에 도달합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,가격이 없거나 상점 목록이 바뀐 아이템 %d개를 건너뛰었습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,아이템 %d개의 가격 변경을 예약했습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,자동 가격 설정이 중지되었습니다: 상점 창이 닫혔거나 방식이 바뀌었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,상점 가격을 변경했습니다 (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,%d개 항목의 가격을 바꾸지 못했습니다 - 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),빨강 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acef391bd970,Red (M),Czerwone (S),빨강 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb9768bd833b,Red (L),Czerwone (D),빨강 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:811bcac8acce,Blue (S),Niebieskie (M),파랑 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c649b232c58e,Blue (M),Niebieskie (S),파랑 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c9734458346,Blue (L),Niebieskie (D),파랑 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb2e9ec063bb,Green (S),Zielone (M),초록 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),초록 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:232a14f8169a,Green (L),Zielone (D),초록 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),보라 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46ab40326db1,Purple (M),Fioletowe (S),보라 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),보라 (대),"client: our windows (companion, Auto Hunt, status lines)",done

@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:AFF_LOVE_POINT,Love points: %d%%,Punkty Miłosne: %d%%,نقاط الحب: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ALIGNMENT_NAME,Rank points:,Punkty Rangi:,نقاط الرتبة:,client: game texts (localeInfo),done
+c:locale_game:ATTACK_ERROR_UNKNOWN,Unknown attack error: %s,Nieznany błąd podczas ataku: %s,خطأ هجوم غير معروف: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_ATTACK_DEST_IN_SAFE,The combatant is too far away.,Przeciwnik jest za daleko.,الخصم بعيد جدًا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_ATTACK_SELF_IN_SAFE,I cannot attack my opponent from here.,Nie mogę zaatakować.,لا أستطيع مهاجمة خصمي من هنا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_EXCHANGE,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,لا يمكنك تغيير عتادك أثناء التجارة.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_SHOP,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,لا يمكنك تغيير عتادك أثناء التجارة.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA,You cannot open a private shop in a public area.,Nie możesz otworzyć Prywatnego Magazynu w miejscu publicznym.,لا يمكنك فتح متجر خاص في منطقة عامة.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_DEST_IN_SAFE,The enemy is too far away.,Wróg jest za daleko.,العدو بعيد جدًا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_EMPTY_ARROW,I need an arrow.,Potrzebuję Strzały.,أحتاج إلى سهم.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here. ,Nie mogę tego zrobić.,لا أستطيع مهاجمة خصمي من هنا. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_APPROACH,I am sure that I cannot get any closer.,"Jestem pewny, że nie mogę podejść bliżej.",أنا متأكد أنني لا أستطيع الاقتراب أكثر.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ATTACK,I cannot attack that.,Nie mogę zaatakować..,لا أستطيع مهاجمة ذلك.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_DEST_IN_SAFE,The opponent is too far away.,Wróg jest za daleko.,الخصم بعيد جدًا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_EQUIP_FISHING_ROD,I need a Fishing Pole.,Potrzebuję Wędki.,أحتاج إلى صنارة صيد.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this. ,"Najpierw potrzebuję Konia, zanim użyję tego.",أحتاج إلى حصان لأتمكن من استخدام هذا. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_EMPTY_BOTTLE,I do not have an empty bottle.,Nie mam Pustej Butelki.,ليس لدي زجاجة فارغة.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle.,Nie mam Butelki Z Trucizną.,ليس لدي زجاجة سم.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_TARGET,Who is the target?,Kto jest celem?,من هو الهدف؟,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_HP,I do not have enough HP!,Nie mam wystarczającej ilości PŻ!,ليس لدي ما يكفي من HP!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_SP,I do not have enough SP!,Nie mam wystarczającej ilości PE!,ليس لدي ما يكفي من SP!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_HORSE_SKILL,I cannot use this whilst riding.,Nie mogę tego użyć podczas jazdy konnej.,لا أستطيع استخدام هذا أثناء الركوب.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_MATCHABLE_WEAPON,I cannot use this skill with this weapon.,Nie mogę użyć tej Umiejętności używając tej broni,لا أستطيع استخدام هذه المهارة بهذا السلاح.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_YET_LEARN,I have not learned this skill.,Nie opanowałem tej umiejętności.,لم أتعلم هذه المهارة.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_ALLIANCE,This only affects group members.,To działa tylko na członków grupy.,هذا يؤثر على أعضاء المجموعة فقط.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_CORPSE,This only affects dead people.,To działa tylko na martwych ludzi.,هذا يؤثر على الموتى فقط.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_REMOVE_FISHING_ROD,I cannot use this skill with a Fishing Pole.,Nie mogę użyć tej umiejętności z Wędką.,لا أستطيع استخدام هذه المهارة بصنارة الصيد.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_SELF_IN_SAFE,I cannot attack from here.,Nie mogę zaatakować z tego miejsca.,لا أستطيع الهجوم من هنا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_USE_SELF,I cannot use this on myself.,Nie mogę tego użyć na sobie.,لا أستطيع استخدام هذا على نفسي.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_WAIT_COOLTIME,I cannot use this skill yet.,Nie mogę jeszcze użyć tej Umiejętności.,لا أستطيع استخدام هذه المهارة بعد.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_USE,You cannot use this.,Nie możesz go użyć.,لا يمكنك استخدام هذا.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_DEST_REFUSE,%s has blocked whispering.,%s zablokował szeptanie całkowicie.,قام %s بحظر الهمس.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_NOT_LOGON,%s is not online.,%s nie jest zalogowany.,%s غير متصل.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering. ,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,لا يمكنك الهمس لأحد عندما تكون قد حظرت الهمس تمامًا. ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL,Channel,Kanał,القناة,client: game texts (localeInfo),done
+c:locale_game:CHANNELING_CANNOT_LOGOUT,You cannot go back to the login screen.,Nie możesz wrócić do okna logowania.,لا يمكنك العودة إلى شاشة تسجيل الدخول.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_EMPTY_SERVER,No server,Brak Serwera,لا يوجد خادم,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NORMAL,Channel %d,Kanał %d,القناة %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CHANNEL_NOTIFY_FULL,This channel is full! Please choose another one.,Ten Kanał jest pełny! Proszę wybrać inny.,هذه القناة ممتلئة! يرجى اختيار قناة أخرى.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NOT_FIND_INFO,No information found via the Channel.,Brak informacji o tym kanale.,لم يتم العثور على معلومات عن القناة.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_PVP,Free duel,Wolny pojedynek,مبارزة حرة,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,اختر القناة,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,اختر المنطقة.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,اختر الخادم,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,خادم تجريبي,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,اختبار %s:%d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:CHAT_ALL,All,Wszystko,الكل,client: game texts (localeInfo),done
+c:locale_game:CHAT_BLOCK,Block,Blok,حظر,client: game texts (localeInfo),done
+c:locale_game:CHAT_GUILD,Guild,Gildia,النقابة,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,معلومات,client: game texts (localeInfo),done
+c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,تحتوي هذه الجملة على كلمات غير صالحة.,client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],عرض الرسائل القديمة [L],client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,سجل الدردشة,client: game texts (localeInfo),done
+c:locale_game:CHAT_NORMAL,Normal,Normalne,عادي,client: game texts (localeInfo),done
+c:locale_game:CHAT_NOTICE,Announcement,Ogłoszenia,إعلان,client: game texts (localeInfo),done
+c:locale_game:CHAT_PARTY,Group,Grupa,المجموعة,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_CHAT,Send chat,Wyślij wiadomość,إرسال دردشة,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_MEMO,Send whisper[Shift+Enter],Wyślij szept [Shift+Enter],إرسال همسة[Shift+Enter],client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT,Call,Wołaj,نداء,client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT_LIMIT,You can only call every 15 seconds.,Możesz wołać tylko co 15 sekund.,يمكنك النداء مرة كل 15 ثانية فقط.,client: game texts (localeInfo),done
+c:locale_game:CHAT_WHISPER,Whispering,Szeptanie,الهمس,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_GM_NAME,You are not allowed to use 'GM' in your character name.,"Nie jesteś upoważniony do użycia ,GM‘ w swojej nazwie postaci.",لا يُسمح باستخدام 'GM' في اسم شخصيتك.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_INSULT_NAME,This name is invalid.,Ta nazwa jest niepoprawna.,هذا الاسم غير صالح.,client: game texts (localeInfo),done
+c:locale_game:CREATE_EXIST_SAME_NAME,Another character already has this name.,Inna postać już ma tą nazwę.,هذا الاسم مستخدم بالفعل لشخصية أخرى.,client: game texts (localeInfo),done
+c:locale_game:CREATE_FAILURE,You cannot create the character,Nie możesz stworzyć postaci,لا يمكنك إنشاء الشخصية,client: game texts (localeInfo),done
+c:locale_game:CREATE_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:CREATE_INPUT_NAME,Enter the name.,Wybierz nazwę.,أدخل الاسم.,client: game texts (localeInfo),done
+c:locale_game:CREATE_PLUS_STAT,There are still status points available. ,Nadal pozostały punkty statusu.,لا تزال لديك نقاط حالة متاحة. ,client: game texts (localeInfo),done
+c:locale_game:DAY,Days,Dni,أيام,client: game texts (localeInfo),done
+c:locale_game:DO_YOU_BUY_ITEM1,Do you want to buy %s for %s?,Czy chcesz kupić %s za %s?,هل تريد شراء %s مقابل %s؟,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_BUY_ITEM2,Do you want to buy %s %s for %s?,Czy chcesz kupić %s %s za %s?,هل تريد شراء %s %s مقابل %s؟,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DO_YOU_DROP_MONEY,Do you want to drop %d Yang?,Czy chcesz upuścić %d Yang?,هل تريد إسقاط %d يانغ؟,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DO_YOU_SELL_ITEM1,Do you want to sell %s for %s?,Czy chcesz sprzedać %s za %s?,هل تريد بيع %s مقابل %s؟,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_SELL_ITEM2,Do you want to sell %s %s for %s?,Czy chcesz sprzedać %s %s za %s?,هل تريد بيع %s %s مقابل %s؟,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE,This Dragon Stone cannot be refined.,Nie możesz uszlachetnić tego Smoczego Kamienia.,لا يمكن تحسين حجر التنين هذا.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE_MORE,This Dragon Stone has already reached the highest level.,Ten Smoczy Kamień osiągnął już najwyższy poziom.,وصل حجر التنين هذا إلى أعلى مستوى بالفعل.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING1,It is difficult to remove a Dragon Stone once it is attached.,Usunięcie Smoczego Kamienia nie jest prostą sprawą.,من الصعب إزالة حجر التنين بعد تثبيته.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,هل ما زلت تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EXPIRED,Expired Dragon Stone,Wygasły Smoczy Kamień,حجر تنين منتهي الصلاحية,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_INVALID_DRAGON_SOUL,That is the wrong Dragon Stone.,To nieprawidłowy Smoczy Kamień.,هذا حجر التنين الخطأ.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_IS_NOT_DRAGON_SOUL,That is not a Dragon Stone.,To nie jest Smoczy Kamień.,هذا ليس حجر تنين.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE,That is not the right Dragon Stone.,To nieprawidłowy Smoczy Kamień.,هذا ليس حجر التنين الصحيح.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_ENOUGH_MATERIAL,You do not have enough material to refine.,Nie posiadasz wystarczająco materiału do uszlachetnienia.,ليس لديك ما يكفي من المواد للتحسين.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_MATCHED_SLOT,The Dragon Stone does not fit in this slot.,Ten Smoczy Kamień nie pasuje do tego slotu.,حجر التنين لا يناسب هذه الخانة.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL1,"Clarity: matt,","Jakość: matowy,",النقاء: معتم،,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL2,"Clarity: clear,","Jakość: przejrzysty,",النقاء: صافٍ،,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL3,"Clarity: flawless,","Jakość: bez skazy,",النقاء: خالٍ من العيوب،,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL4,"Clarity: brilliant,","Jakość: znakomity,",النقاء: لامع،,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL5,"Clarity: excellent,","Jakość: wyborny,",النقاء: ممتاز،,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,المستوى: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING1,The Dragon Stone may be destroyed in the process.,Smoczy Kamień może ulec zniszczeniu.,قد يتحطم حجر التنين أثناء العملية.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,هل ما زلت تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNMATCHED_SLOT,That is the wrong slot.,To nieprawidłowy slot.,هذه هي الخانة الخطأ.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNQUALIFIED,You cannot yet use Dragon Stone alchemy.,Nie możesz jeszcze użyć alchemii Smoczych Kamieni.,لا يمكنك استخدام خيمياء أحجار التنين بعد.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_EQUIP_ITEM,You cannot drop equipped items.,Nie możesz upuścić założonych przedmiotów.,لا يمكنك إسقاط العناصر المجهزة.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_PRIVATE_SHOP,You cannot drop any items as long as a private shop is open.,Nie możesz upuścić Przedmiotu z ekwipunku jeśli otworzyłeś prywatny Magazyn.,لا يمكنك إسقاط أي عناصر ما دام متجر خاص مفتوحًا.,client: game texts (localeInfo),done
+c:locale_game:DROP_MONEY_FAILURE_1000_OVER,You can drop a maximum of 999 Yang.,Możesz upuścić maksimum 999 Yang.,يمكنك إسقاط 999 يانغ كحد أقصى.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ANGRY,Aggravating,Denerwować,استفزاز,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ATTRACTIVE,Seduction,Uwodzić,إغواء,client: game texts (localeInfo),done
+c:locale_game:EMOTION_BANTER,Sneering,Drwić,سخرية,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_1,Cheers 1,Powitanie 1,هتاف 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_2,Cheers 2,Powitanie 2,هتاف 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERUP,Cheer,Rozweselać,تشجيع,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHOOSE_ONE,Choose a target.,Wybierz cel,اختر هدفًا.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP,Claps,Klaszcz,تصفيق,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP_KISS,Kiss,Pocałunek,قبلة,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CONGRATULATION,Approval,Zgoda,موافقة,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_1,Dance 1,Taniec 1,رقصة 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,رقصة 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,رقصة 3,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,رقصة 4,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,رقصة 5,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,أسلوب غومسان,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,صفح,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,قبلة فرنسية,client: game texts (localeInfo),done
+c:locale_game:EMOTION_JOY,Joy,Radość,فرح,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SAD,Sad,Smutek,حزن,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SHY,Rejection,Odmowa,رفض,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SLAP,Hit,Uderzenie,ضربة,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_A,Shinsoo Kingdom,Królestwo Shinsoo,مملكة شينسو,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_B,Chunjo Kingdom,Królestwo Chunjo,مملكة تشونجو,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_C,Jinno Kingdom,Królestwo Jinno,مملكة جينو,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANNOT_GIVE,This item cannot be traded.,Nie możesz handlować tym przedmiotem.,لا يمكن تداول هذا العنصر.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANT_EDIT_MONEY,You cannot change the sum now.,Nie możesz teraz zmienić kwoty.,لا يمكنك تغيير المبلغ الآن.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Nie możesz wymienić ubranych przedmiotów.,لا يمكنك تبادل العناصر المجهزة.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_MONEY,Sum,Kwota,المبلغ,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,التجارة مع %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,لقد فقدت الطعم.,client: game texts (localeInfo),done
+c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,يبدو أن %s قد علق في الصنارة.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,يبدو أن %s على الخطاف.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS1,You captured %s!,,لقد اصطدت %s!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,لقد سحبت %s من الماء!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,شيء ما التقط الطعم لكنك لا ترى ما هو.,client: game texts (localeInfo),done
+c:locale_game:FISHING_WRONG_PLACE,You cannot go fishing here.,Nie możesz tu łowić ryb.,لا يمكنك الصيد هنا.,client: game texts (localeInfo),done
+c:locale_game:FOR_FEMALE,for female,dla kobiet,للإناث,client: game texts (localeInfo),done
+c:locale_game:FOR_MALE,for male,dla mężczyzn,للذكور,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_MINING,You cannot mine Ore while riding.,Nie możesz wydobywać surowców podczas jazdy konnej.,لا يمكنك استخراج الخام أثناء الركوب.,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_PICK_ITEM,You cannot collect this Item as you did not win it.,"Nie możesz podnieść tego Przedmiotu, nie ty go zdobyłeś.",لا يمكنك جمع هذا العنصر لأنك لم تفز به.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_CURSOR,The cursor could not be established.,Kursor nie może zostać utworzony.,تعذر إنشاء المؤشر.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_DIRECTX,DirectX 8.1 must be installed so that the game can run.\nInstall DirectX 8.1 or higher.,Aby gra mogła ruszyć musi być zainstalowany DirectX 8.1 .\nZainstaluj DirectX 8.1 lub nowszy.,يجب تثبيت DirectX 8.1 حتى تعمل اللعبة.\nثبّت DirectX 8.1 أو إصدارًا أحدث.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE,No graphic device could be found. \nCheck if your VGA card is correctly installed.,"Żadne graficzne urządzenie nie zostało znalezione.\nSprawdź, czy twoja karta VGA jest aktualnie zainstalowana.",لم يتم العثور على جهاز رسومات. \nتحقق من تثبيت بطاقة الرسومات بشكل صحيح.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_EXIST,"Graphic device could not be established. \nCheck if you have a VGA card. \nAlternatively, you can active the hardware accelerator.\n(Set hardware accelerator to max \nControl Panel->Display->Settings->Advanced->Troubleshoot tab)",Nie można było uruchomić karty graficznej.\nSprawdź czy masz kartę VGA.\nAlternatywniem możesz aktywować akcelerację sprzętową.\n(Ustaw suwak akceleracji sprzętowej na maks. \nPanel Sterowania->Ekran->Ustawienia->Zaawansowane->Rozwiązywanie Problemów),تعذر تهيئة جهاز الرسومات. \nتحقق من وجود بطاقة رسومات. \nيمكنك بدلاً من ذلك تفعيل تسريع العتاد.\n(اضبط تسريع العتاد على الحد الأقصى \nلوحة التحكم->العرض->الإعدادات->خيارات متقدمة->علامة تبويب استكشاف الأخطاء),client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT,The graphics card of the computer does not support the window mode in 32bit Mode. \nChange to 16bit Mode or use Full Screen Mode.,Karta graficzna w komputerze nie obsługuje trybu ekranowego w trybie 32bit.\nUstaw tryb 16 bitowy lub użyj trybu pełnoekranowego.,بطاقة الرسومات في الحاسوب لا تدعم وضع النافذة بدقة 32bit. \nانتقل إلى وضع 16bit أو استخدم وضع ملء الشاشة.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_ITEM_PROTO,No Item data there.\nInstall the game again.,Brak danych o Przedmiotach.\nZainstaluj grę jeszcze raz.,بيانات العناصر غير موجودة.\nأعد تثبيت اللعبة.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MAIN_WINDOW,Mainframe could not be established,Gra nie mogła zostać uruchomiona w okienku,تعذر تهيئة النظام الرئيسي,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MOB_PROTO,No Monster Data there.\nInstall the game again.,Brak danych o Potworach.\nZainstaluj grę jeszcze raz.,بيانات الوحوش غير موجودة.\nأعد تثبيت اللعبة.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_NETWORK,Network devices could not be established.\nCheck your internet connection.,Nie można było uruchomić urządzeń sieciowych.\nSprawdź swoje ustawienia internetowe.,تعذر تهيئة أجهزة الشبكة.\nتحقق من اتصالك بالإنترنت.,client: game texts (localeInfo),done
+c:locale_game:GAME_PICK_MONEY,You received %s.,Otrzymałeś %s.,لقد حصلت على %s.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_128_HEIGHT,Height is not 128 Pixel,Wysokość nie ma 128px.,الارتفاع ليس 128 بكسل,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_12_HEIGHT,Height is not 12 Pixel,Wysokość nie ma 12px.,الارتفاع ليس 12 بكسل,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_16_WIDTH,Width is not 16 Pixel,Szerokość nie ma 16px.,العرض ليس 16 بكسل,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_64_WIDTH,Width is not 64 Pixel,Szerokość nie ma 64px.,العرض ليس 64 بكسل,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_FILE_FORMAT,The game does not support this picture.,Gra nie obsługuje tego obrazka.,اللعبة لا تدعم هذه الصورة.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_PATH,Move the data into the folder metin2/upload.,Przenieś plik do folderu upload/ w głównym katalogu gry Metin2.,انقل البيانات إلى المجلد metin2/upload.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_SELECT,No picture file chosen.,Plik z obrazkiem nie został wybrany.,لم يتم اختيار ملف صورة.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_CTF_TITLE,Flag captured.,Flaga zdobyta.,تم الاستيلاء على العلم.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_NORMAL_TITLE,Field Battle,Pole Bitwy,معركة ميدانية,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_QUESTION_LINE_1,The Guild %s  declared war on your Guild.,Gildia %s wypowiedziała wojnę twojej Gildii.,أعلنت نقابة %s  الحرب على نقابتك.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_QUESTION_LINE_2,Do you accept? (%s),Akceptujesz? (%s),هل تقبل؟ (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_UNKNOWN_TITLE,...,...,...,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_WARP_TITLE,Arena Battle,Walka na arenie,معركة الساحة,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_GRADE,Rank,Ranga,الرتبة,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_NAME,Name of building,Nazwa Budynku,اسم المبنى,client: game texts (localeInfo),done
+c:locale_game:GUILD_CANNOT_HEAL_GSP_ANYMORE,The Dragon Ghost Energy is already fully restored.,Energia Ducha Smoka jest już w pełni zregenerowana.,طاقة روح التنين مستعادة بالكامل بالفعل.,client: game texts (localeInfo),done
+c:locale_game:GUILD_COMMENT,Write,Napisz,اكتب,client: game texts (localeInfo),done
+c:locale_game:GUILD_CREATE_ERROR_INSULT_NAME,Guildname is not valid.,Nazwa Gildii jest niepoprawna.,اسم النقابة غير صالح.,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEFAULT_GRADE,Guild members,Członkowie Gildii,أعضاء النقابة,client: game texts (localeInfo),done
+c:locale_game:GUILD_DELETE,Delete,Usuń,حذف,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEPOSIT,Deposit,Depozyt,إيداع,client: game texts (localeInfo),done
+c:locale_game:GUILD_DO_YOU_HEAL_GSP,Do you want to spend %s Yang to restore %d units of Dragon Ghost?,Czy chcesz odnowić za %s Yang %d Ducha Smoka?,هل تريد إنفاق %s يانغ لاستعادة %d وحدة من روح التنين؟,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:GUILD_DO_YOU_JOIN, has invited you. Do you want to join the guild?,  zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?, دعاك. هل تريد الانضمام إلى النقابة؟,client: game texts (localeInfo),done
+c:locale_game:GUILD_EMPTY_AREA,Empty land,Wolna Ziemia,أرض فارغة,client: game texts (localeInfo),done
+c:locale_game:GUILD_ENEMY_GUILD_NAME,Guild name of the enemy,Nazwa Gildii wroga,اسم نقابة العدو,client: game texts (localeInfo),done
+c:locale_game:GUILD_FACILITY,Outbuilding,Przybudówka,مبنى ملحق,client: game texts (localeInfo),done
+c:locale_game:GUILD_GEM,Gem,Klejnot,جوهرة,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEADQUARTER,Main Building,Budynek Główny,المبنى الرئيسي,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEAL_GSP,Restore Dragon ghost,Regeneracja Ducha Smoka,استعادة روح التنين,client: game texts (localeInfo),done
+c:locale_game:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Nikt,لا شيء,client: game texts (localeInfo),done
+c:locale_game:GUILD_MARK_NOT_ENOUGH_LEVEL,Minimum level of 3 required,Potrzebny przynajmniej 3 poziom,يتطلب المستوى 3 على الأقل,client: game texts (localeInfo),done
+c:locale_game:GUILD_NAME,Guild name,Nazwa Gildii,اسم النقابة,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MATERIAL,Not enough building material for this building.,Nie masz wystarczającej ilości surowców na tą budowlę.,لا توجد مواد بناء كافية لهذا المبنى.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MONEY,Not enough Yang for this building.,Nie masz wystarczającej ilości Yang na tą budowlę.,لا يوجد يانغ كافٍ لهذا المبنى.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NO_NOTICE_PERMISSION,You do not have the rights to make an announcement.,Nie masz praw do tworzenia ogłoszeń.,ليست لديك صلاحية نشر إعلان.,client: game texts (localeInfo),done
+c:locale_game:GUILD_OBJECT,Objects,Obiekty,الكائنات,client: game texts (localeInfo),done
+c:locale_game:GUILD_OFFER_EXP,Invest experience,PD do przekazania,استثمار الخبرة,client: game texts (localeInfo),done
+c:locale_game:GUILD_SHORT_EXP,Not enough experience points.,Za mało Punktów Doświadczenia.,نقاط الخبرة غير كافية.,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BASEINFO,Basic Information,Podstawowa Informacja,معلومات أساسية,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BOARD,Blackboard,Tablica,لوحة الإعلانات,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_GRADE,Rights Administration,Zarządzanie Prawami,إدارة الصلاحيات,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_INFO,Guild Information,Informacje o Gildii,معلومات النقابة,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_MEMBER,Guild Members,Członkowie Gildii,أعضاء النقابة,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_SKILL,Guild Skills,Umiejętności Gildii,مهارات النقابة,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_LIMIT_30MIN,Time: 30 Minutes,Czas: 30 Minut,الوقت: 30 دقيقة,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_REWARD_POTION,Reward: The winner receives a Potion,Nagroda: Zwycięzca otrzymuje Miksturę,المكافأة: يحصل الفائز على جرعة,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_BATTLE_MAP,Location: Guild War Arena,Miejsce: Teatr Wojny Gildii,المكان: ساحة حرب النقابات,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_NORMAL_MAP,Location: Normal Map,Miejsce: Normalna Mapa,المكان: خريطة عادية,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_CHECK_SCORE,The highest result wins the war.,Najlepszy wynik wygrywa Wojnę.,صاحب أعلى نتيجة يفوز بالحرب.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG1,Capture the flag of your enemy,Zdobądź Flagę przeciwnika,استولِ على علم عدوك,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG2,and carry it to your base.,i dostarcz ją do swojej bazy.,واحمله إلى قاعدتك.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_WIPE_OUT_GUILD,Defeat all enemies to win.,Pokonaj wszystkich wrogów by wygrać.,اهزم جميع الأعداء لتفوز.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WITHDRAW,Fallback,Wycofaj się,انسحاب,client: game texts (localeInfo),done
+c:locale_game:GUILD_YOU_DO_NOT_JOIN,You are not a member of any Guild.,Nie jesteś członkiem żadnej Gildii.,لست عضوًا في أي نقابة.,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH0,Dead,Na skraju śmierci,ميت,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH1,Starving,Głodny,يتضور جوعًا,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH2,Hungry,Wygłodzony,جائع,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH3,Full,Pełny,شبعان,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL1,Normal Horse,Normalny Koń,حصان عادي,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL2,Battle Horse,Opancerzony Koń,حصان معركة,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL3,Military Horse,Wojskowy Koń,حصان عسكري,client: game texts (localeInfo),done
+c:locale_game:HOUR,Hours,Godzin,ساعات,client: game texts (localeInfo),done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP1,Do you want to drop %s?,Czy chcesz upuścić %s?,هل تريد إسقاط %s؟,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP2,Do you want to drop %s %d?,Czy chcesz upuścić %s %d?,هل تريد إسقاط %s %d؟,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:INPUT_MATRIX_CARD_NUMBER,Enter Matrix Cardnumber.,Wpisz numer karty Matrix.,أدخل رقم بطاقة المصفوفة.,client: game texts (localeInfo),done
+c:locale_game:INPUT_MATRIX_CARD_TITLE,Matrix Card,Karta Matrix,بطاقة المصفوفة,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from your account settings here.,Wprowadź kod usunięcia z zarządzania kontem.,أدخل هنا رمز الحذف من إعدادات حسابك.,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,حذف الشخصية,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,لا يمكن دمج لفائف العودة.,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,هل تريد استخدام هذا العنصر؟,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,نينجا,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,نينجا هاوٍ,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,قوة النينجا,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,أوندد,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN,Shaman,Szaman,شامان,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,شامان هاوٍ,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,قوة التنين,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,قوة البرق,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,سورا,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,سورا هاوٍ,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,قوة السراب,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,قوة السحر الأسود,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR,Warrior,Wojownik,محارب,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR0,Amateur Warrior,Amator Wojownik,محارب هاوٍ,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR1,Power of Arahan,Moc Ciała,قوة أراهان,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR2,Power of Partisans,Moc Umysłu,قوة المقاتلين,client: game texts (localeInfo),done
+c:locale_game:LEFT_TIME,Time Remaining,Pozostały Czas,الوقت المتبقي,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_FAILURE,Error while connecting to the server.,Błąd podczas łączenia się z serwerem.,حدث خطأ أثناء الاتصال بالخادم.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_SUCCESS,You have been connected to the server.,Jesteś połączony z serwerem.,تم اتصالك بالخادم.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNETING,You will be connected to the server...,Zostaniesz połączony z serwerem.,جارٍ الاتصال بالخادم...,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_ALREAY,Your account is already connected.,Twoje konto jest już połączone.,حسابك متصل بالفعل.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BE_SAME_KEY,Registration problem.,Problem z rejestracją.,مشكلة في التسجيل.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_ID,Your account is banned.,Twoje konto jest zablokowane.,حسابك محظور.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_LOGIN,Please choose one of the other servers!,Serwer Zamknięty - proszę wybrać inny!,يرجى اختيار خادم آخر!,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOBILL,Your account had no play time.,Twoje konto nie ma czasu gry.,لا يملك حسابك وقت لعب.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_AVAIL,Your account cannot be used.,Twoje konto nie może być użyte.,لا يمكن استخدام حسابك.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_EXIST_ID,Account name or password incorrect.,Nieprawidłowa nazwa konta lub hasło.,اسم الحساب أو كلمة المرور غير صحيحة.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_REPAIR_ID,Items have been restored for this account.,Przedmioty zostały przywrócone dla tego konta.,تمت استعادة عناصر هذا الحساب.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_SHUTDOWN,The server is not open yet.,Serwer nie jest jeszcze otwarty.,الخادم لم يُفتح بعد.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TOO_MANY_USER,You could not connect because too many players are online.,"Nie możesz się połączyć, ponieważ za dużo graczy jest online.",تعذر الاتصال لأن عدد اللاعبين المتصلين كبير جدًا.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_UNKNOWN,You could not register for unknown reasons.,Nie możesz się zarejestrować z nieznanych powodów.,تعذر التسجيل لأسباب غير معروفة.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WEB_BLOCK,You have been blocked at the website. Please check your EMails.,Twoje konto zostało zablokowane na stronie www. Proszę sprawdzić swoją pocztę e-mail.,تم حظرك على الموقع. يرجى التحقق من بريدك الإلكتروني.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER,You entered a wrong number.,Wpisałeś nieprawidłowy numer.,أدخلت رقمًا خاطئًا.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE,You entered a wrong number three times. /n Your connection will be disabled.,Wybrałeś zły numer trzy razy. /n Twoje połączenie zostanie zerwane.,أدخلت رقمًا خاطئًا ثلاث مرات. /n سيتم تعطيل اتصالك.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_PASSWORD,Account name or password incorrect.,"Nieprawidłowa nazwa konta, hasło lub PIN.",اسم الحساب أو كلمة المرور غير صحيحة.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_ID,Enter the ID.,Podaj swoje ID.,أدخل المعرّف.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_PASSWORD,Enter the password.,Wpisz swoje hasło.,أدخل كلمة المرور.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_PROCESSING,Logging in...,Logowanie...,جارٍ تسجيل الدخول...,client: game texts (localeInfo),done
+c:locale_game:MALL_CANNOT_INSERT,You cannot place the Item.,Nie możesz umieścić Przedmiotu.,لا يمكنك وضع العنصر.,client: game texts (localeInfo),done
+c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,كلمة المرور,client: game texts (localeInfo),done
+c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,منطقة يونغان,client: game texts (localeInfo),done
+c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,وادي سونغريونغ,client: game texts (localeInfo),done
+c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,منطقة يايانغ,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,جونغرانغ,client: game texts (localeInfo),done
+c:locale_game:MAP_B1,Joan Area,Strefa Joan,منطقة جوان,client: game texts (localeInfo),done
+c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,وادي إيمجي,client: game texts (localeInfo),done
+c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,منطقة بوكجونغ,client: game texts (localeInfo),done
+c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,خليج اليشم,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,واريونغ,client: game texts (localeInfo),done
+c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,منطقة بيونغمو,client: game texts (localeInfo),done
+c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,وادي بانغسان,client: game texts (localeInfo),done
+c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,منطقة باكرا,client: game texts (localeInfo),done
+c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,رأس نار التنين,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,إيمها,client: game texts (localeInfo),done
+c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,جرف غوتاما,client: game texts (localeInfo),done
+c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,صحراء يونغبي,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,دويومهوان,client: game texts (localeInfo),done
+c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,أرض العمالقة,client: game texts (localeInfo),done
+c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,برج غومسان,client: game texts (localeInfo),done
+c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,جبل سوهان,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,كواهلو دونغ,client: game texts (localeInfo),done
+c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,معبد هوانغ,client: game texts (localeInfo),done
+c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,جبال الرعد,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,لونغسام,client: game texts (localeInfo),done
+c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,الغابة الحمراء,client: game texts (localeInfo),done
+c:locale_game:MAP_WL,Snakefield,Wężowe Pole,حقل الأفاعي,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,إضافة صديق,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1,%s added you as a friend.,%s dodał Cię jako przyjaciela.,أضافك %s كصديق.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2,Accept?,Zaakceptować?,قبول؟,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE,Delete?,Usunąć?,حذف؟,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE_PHONE_NUMBER,Do you want to delete the cell phone number?,Czy chcesz usunąć numer telefonu komórkowego?,هل تريد حذف رقم الهاتف المحمول؟,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_MOVE,Do you want to go on?,Czy chcesz kontynuować?,هل تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_EMPTY_LIST,Empty,Pusto,فارغ,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FAMILY,Family,Rodzina,العائلة,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FRIEND,Friends,Przyjaciel,الأصدقاء,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_GUILD,Guild,Gildia,النقابة,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION,Enter the confirmation number that was sent to your cell phone.,"Wprowadź numer potwierdzający, który został wysłany na twój telefon komórkowy.",أدخل رقم التأكيد الذي أُرسل إلى هاتفك المحمول.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE,Enter confirmation number,Wprowadź numer potwierdzający,أدخل رقم التأكيد,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1,Enter the cell phone number for the Text message sending.,Wprowadź numer telefonu komórkowego do wysyłania wiadomości tekstowych.,أدخل رقم الهاتف المحمول لإرسال الرسائل النصية.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2,Do you want to enter the number now?,Czy chcesz teraz wprowadzić numer?,هل تريد إدخال الرقم الآن؟,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE,Enter cell phone number.,Wprowadź numer telefonu komórkowego.,أدخل رقم الهاتف المحمول.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_SEND_MOBILE_MESSAGE_TITLE,Send message.,Wyślij wiadomość.,إرسال الرسالة.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP,Open Mini Map,Otwórz Mini Mapę,فتح الخريطة المصغرة,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CANNOT_SEE,Mini Map cannot be seen.,Nie można zobaczyć Mini Mapy.,لا يمكن رؤية الخريطة المصغرة.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CAN_NOT_SHOW_AREAMAP,Large Map cannot be shown.,Mini Mapa nie może zostać pokazana.,لا يمكن عرض الخريطة الكبيرة.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_DEC_SCALE,Zoom out,Oddal,تصغير,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,تكبير,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d مشاهدين,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,فتح الخريطة الكبيرة,client: game texts (localeInfo),done
+c:locale_game:MINUTE,Minutes,Minut,دقائق,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,يانغ,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,عشرة آلاف,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,مئة مليار,client: game texts (localeInfo),done
+c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,سعر البيع:,client: game texts (localeInfo),done
+c:locale_game:MOVE_ITEM_FAILURE_PRIVATE_SHOP,You cannot move items while you have a private shop open.,"Nie możesz przesuwać przedmiotów, jeśli masz otwarty prywatny Magazyn.",لا يمكنك نقل العناصر ما دام متجرك الخاص مفتوحًا.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_EMPTY_MUSIC_LIST,No Backgroundmusic.,Brak muzyki w tle.,لا توجد موسيقى خلفية.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_METIN2_DEFAULT_THEMA,Metin2 Standard music,Standardowa muzyka Metin2,موسيقى Metin2 القياسية,client: game texts (localeInfo),done
+c:locale_game:MUSIC_NOT_SELECT_MUSIC,No Music file chosen.,Plik z muzyką nie został wybrany.,لم يتم اختيار ملف موسيقى.,client: game texts (localeInfo),done
+c:locale_game:NEEFD_REST,You must rest first.,Musisz najpierw odpocząć.,يجب أن تستريح أولاً.,client: game texts (localeInfo),done
+c:locale_game:NOT_YET_SUPPORT,Not yer supported,Nie jest obsługiwany,غير مدعوم بعد,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_CANNOT_SET_GUILD_MODE,You cannot activate Guild Mode when you do not belong to a Guild.,Nie możesz aktywować Trybu Gildii kiedy nie należysz do żadnej Gildii.,لا يمكنك تفعيل وضع النقابة إذا لم تكن تنتمي إلى نقابة.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_NOT_SUPPORT,You cannot choose this configuration in PvP Mode.,Nie możesz wybrać tej konfiguracji w Trybie PvP.,لا يمكنك اختيار هذا الإعداد في وضع PvP.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_PROTECT,You need to have at least Level %d to be able to change the PvP Mode.,Potrzebujesz conajmniej Poziomu %d aby móć używać Trybu PvP.,يجب أن يكون مستواك %d على الأقل لتغيير وضع PvP.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_ATTACKER,Attack Value: +%d,Wartość Ataku: +%d,قيمة الهجوم: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,سرعة الهجوم: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,مدة المهارة: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,الدفاع: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,مكافأة EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,أقصى SP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,أقصى HP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,حل المجموعة,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., يرغب في الانضمام إلى المجموعة.,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", دعاك للانضمام إلى مجموعته. هل تقبل؟,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE,EXP Distribution,Podział DOŚ,توزيع EXP,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL,Level dependant,zależy od poziomu,حسب المستوى,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP,Higher level group members receive more EXP.,Członkowie grupy o wyższym poziomie otrzymują więcej PD.,يحصل أعضاء المجموعة ذوو المستوى الأعلى على EXP أكثر.,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY,even,równo,بالتساوي,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP,All Group members receive the same EXP.,Wszyscy otrzymują taką samą ilość PD.,يحصل جميع أعضاء المجموعة على EXP نفسها.,client: game texts (localeInfo),done
+c:locale_game:PARTY_HEAL_ALL_MEMBER,Restore everything.,Odnów wszystko.,استعادة كل شيء.,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the factor 1.5 .,"Zasięg grupy zwiększony o współczynnik 1,5.",زاد نطاق المجموعة بمعامل 1.5 .,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,زاد نطاق المجموعة بمعامل 2.,client: game texts (localeInfo),done
+c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,مغادرة المجموعة,client: game texts (localeInfo),done
+c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,مكافأة EXP للعب الجماعي الطويل: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),done
+c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,استدعاء عضو المجموعة.,client: game texts (localeInfo),done
+c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,مكافأة تجديد HP وSP: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,تم رفض طلبك.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_ATTACKER,Constitute as Attacker.,Ustanów jako Atakującego.,التعيين كمهاجم.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BERSERKER,Constitute as Berserker.,Ustanów jako Berserker.,التعيين كهائج.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BUFFER,Constitute as Blocker.,Ustanów jako Blokującego.,التعيين كحاجز.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_DEFENDER,Constitute as Defender.,Ustanów jako Obrońcę.,التعيين كمدافع.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_NORMAL,Withdraw settings.,Wycofaj bonus.,سحب الإعدادات.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_SKILL_MASTER,Constitute as Skill Master.,Ustanów jako Mistrza Umiejętności.,التعيين كسيد المهارات.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_TANKER,Constitute as blade fighter.,Ustanów jako Walczącego W Zwarciu.,التعيين كمقاتل بالشفرة.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SKILL_ATTACKER,Base Attack Value Attacker +%.0f,Podstawowa Wartość Ataku +%.0f,قيمة الهجوم الأساسية للمهاجم +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BERSERKER,Attack Speed Berserker +%.0f,Szybkość Ataku +%.0f,سرعة هجوم الهائج +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BUFFER,Skill Duration Blocker +%.0f,Czas trwania +%.0f,مدة مهارات الحاجز +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_DEFENDER,Defence Defender +%.0f,Obrona +%.0f,دفاع المدافع +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_HP_REGEN,HP Regeneration +%.0f%%,Regeneracja PŻ +%.0f%%,تجديد HP +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_PARTY_AREA,Group range +%d%%,Zasięg Grupy +%d%%,نطاق المجموعة +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_SKILL_SKILL_MASTER,Max. SP Skill Master +%.0f,Siła magii na potwory +%.0f%%,أقصى SP لسيد المهارات +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_SP_REGEN,SP Regeneration +%.0f%%,Regeneracja PE +%.0f%%,تجديد SP +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_TANKER,Max. HP blade fighter +%.0f,Max PŻ +%.0f,أقصى HP للمقاتل بالشفرة +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_WARP,Possible to call group members.,Możliwe wezwanie członków grupy.,يمكن استدعاء أعضاء المجموعة.,client: game texts (localeInfo),done
+c:locale_game:PASSWORD_TITLE,Storeroom password,Hasło do magazynu,كلمة مرور المستودع,client: game texts (localeInfo),done
+c:locale_game:PICK_ITEM_TITLE,Item Number,Numer Przedmiotu,رقم العنصر,client: game texts (localeInfo),done
+c:locale_game:PICK_MONEY_TITLE,Sum,Kwota,المبلغ,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CANNOT_SELL_ITEM,You cannot sell this item in a private shop.,Nie możesz sprzedać tego Przedmiotu w prywatnym Magazynie.,لا يمكنك بيع هذا العنصر في متجر خاص.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CLOSE_QUESTION,Do you want to close the private shop?,Czy chcesz zamknąć prywatny Magazyn?,هل تريد إغلاق المتجر الخاص؟,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE,Name of the private shop.,Wpisz nazwę swojego Sklepu.,اسم المتجر الخاص.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE,Price,Cena,السعر,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL0,Chivalric,Rycerski,فارس,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL1,Noble,Szlachetny,نبيل,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL2,Good,Dobry,طيب,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL3,Friendly,Przyjazny,ودود,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL4,Neutral,Neutralny,محايد,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL5,Aggressive,Agresywny,عدواني,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL6,Fraudulent,Nieuczciwy,مخادع,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL7,Malicious,Złośliwy,خبيث,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL8,Cruel,Okrutny,قاسٍ,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_GUILD,PvP - Guild activated,PvP - gildia aktywowana,PvP - تم تفعيل وضع النقابة,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_KILL,PvP - Free activated,PvP - tryb wolny aktywowany,PvP - تم تفعيل الوضع الحر,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_NORMAL,PvP - Peace activated,PvP - tryb pokojowy aktywowany.,PvP - تم تفعيل وضع السلام,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_PROTECT,PvP - Protection activated,Aktywowano ochronę przed PvP,PvP - تم تفعيل وضع الحماية,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_REVENGE,PvP - Hostile activated,PvP - tryb wrogi aktywowany,PvP - تم تفعيل الوضع العدائي,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_KILL,Free,Wolny,حر,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,سلام,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,حماية,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,عدائي,client: game texts (localeInfo),done
+c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,تم الحصول على مهمة جديدة.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,د.,client: game texts (localeInfo),done
+c:locale_game:QUEST_SEC,Sec.,Sek.,ث.,client: game texts (localeInfo),done
+c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,انتهى الوقت,client: game texts (localeInfo),done
+c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,لا يوجد حد زمني.,client: game texts (localeInfo),done
+c:locale_game:QUEST_ZEROSEC,0 Sec.,0 Sek.,0 ث.,client: game texts (localeInfo),done
+c:locale_game:QUICKSLOT_REGISTER_DISABLE_ITEM,This Item cannot be added to the Fast Access Field.,Ten Przedmiot nie może zostać dodany do Szybkiego Pola Dostępu.,لا يمكن إضافة هذا العنصر إلى شريط الوصول السريع.,client: game texts (localeInfo),done
+c:locale_game:RECEIVE_MESSAGE,%s sent you a message.,%s wysłał Ci wiadomość.,أرسل لك %s رسالة.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_COST,Upgrade cost: %s,Cena za Ulepszenie: %s,تكلفة التطوير: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_DESTROY_WARNING,This Item could be destroyed while upgrading.,Ten Przedmiot może zostać zniszczony podczas ulepszania.,قد يتحطم هذا العنصر أثناء التطوير.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1,"This will improve the chance for upgrading,","To zwiększy szanse na ulepszenie,",سيزيد هذا من فرصة التطوير،,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2,but if you fail the Item could be destroyed. /n Do you want to continue?,"ale jeśli zawiedziesz, Przedmiot zostanie zniszczony. Czy chcesz kontynuować?",لكن إذا فشلت فقد يتحطم العنصر. /n هل تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:REFINE_DOWN_GRADE_WARNING,The Item could be down graded this way.,Przedmiot może zostać zdegradowany w ten sposób.,قد ينخفض مستوى العنصر بهذه الطريقة.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DO_YOU_SEPARATE_METIN,Do you want to remove all available spirit stones?,Czy chcesz usunąć wszystkie Kamienie Duszy?,هل تريد إزالة جميع أحجار الروح الموجودة؟,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE,You failed.,Zawiodłeś.,لقد فشلت.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_CAN_NOT_ATTACH,%s cannot be included in that Item.,%s nie może zostać uwzględniony w tym Przedmiocie.,لا يمكن إدخال %s في ذلك العنصر.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_EQUIP_ITEM,You cannot upgrade equipped Items.,Nie możesz ulepszyć założonego Przedmiotu.,لا يمكنك تطوير العناصر المجهزة.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_METIN_INSEPARABLE_ITEM,No spirit stone can be taken away.,Żaden Kamień Duszy nie może zostać wyjęty.,لا يمكن إزالة أي حجر روح.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NEED_BETTER_SCROLL,You need a better Advancement Scroll.,Potrzebujesz lepszego Zwoju.,تحتاج إلى لفيفة تطوير أفضل.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_GOLD_SOCKET,There is no Gold socket to include %s .,Nie ma Złotej Kieszeni by uwzględnić %s .,لا توجد فتحة ذهبية لإدخال %s .,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_NO_MORE_SOCKET,You cannot make more Sockets.,Nie możesz zrobić więcej Kieszeni.,لا يمكنك إنشاء فتحات أخرى.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_SOCKET0,There is no Socket to include the %s.,"Nie ma slotu, w którym można umieścić %s.",لا توجد فتحة لإدخال %s.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_SOCKET_DISABLE_ITEM,You cannot make any Sockets on this Item.,Nie możesz zrobić żadnych Kieszeni w tym Przedmiocie.,لا يمكنك إنشاء فتحات في هذا العنصر.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_UPGRADE_DISABLE_ITEM,This Item cannot be upgraded.,Ten Przedmiot nie może zostać ulepszony.,لا يمكن تطوير هذا العنصر.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS,The advancement of the Item was successful.,Pomyślne Ulepszenie Przedmiotu.,نجح تطوير العنصر.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS_PROBALITY,Chance for Advancement %d%%,Szansa na Ulepszenie %d%%,فرصة التطوير %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:REFINE_WARNING2,Do you want to continue?,Czy chcesz kontynuować?,هل تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_ERROR,You entered the wrong password.,Wprowadziłeś złe hasło.,أدخلت كلمة مرور خاطئة.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_SELL_DISABLE_SAFEITEM,You cannot sell any of the saved Items.,Nie możesz sprzedać żadnego z zachowanych Przedmiotów.,لا يمكنك بيع أي من العناصر المحفوظة.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła muszą być identyczne.,يجب أن تكون كلمات المرور متطابقة.,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,تم حفظ لقطة الشاشة في '%s'.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,ملف لقطة الشاشة,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,فشل حفظ لقطة الشاشة.,client: game texts (localeInfo),done
+c:locale_game:SECOND,Sec,Sek,ث,client: game texts (localeInfo),done
+c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,لا يمكنك حذف الشخصية.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,لقد غيّرت اسم الشخصية.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,اسم الشخصية موجود بالفعل.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_INDEX,Try again.,Spróbuj ponownie.,حاول مرة أخرى.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_NAME,That,Nazwa jest niewłaściwa.,ذلك,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_NAME_TITLE,Change character name.,Zmień nazwę postaci.,تغيير اسم الشخصية.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELEING,Character will be deleted.,Postać zostanie usunięta.,سيتم حذف الشخصية.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELETED,Deletion successful.,Usuwanie pomyślne.,تم الحذف بنجاح.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DO_YOU_DELETE_REALLY,Do you want to continue?,Czy chcesz kontynuować?,هل تريد المتابعة؟,client: game texts (localeInfo),done
+c:locale_game:SELECT_EMPTY_SLOT,This is an empty field.,To jest wolne pole.,هذا حقل فارغ.,client: game texts (localeInfo),done
+c:locale_game:SELECT_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:SELECT_INPUT_CHANGING_NAME,Enter a new character name.,Wprowadź nową nazwę postaci.,أدخل اسمًا جديدًا للشخصية.,client: game texts (localeInfo),done
+c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,لا توجد نقابة,client: game texts (localeInfo),done
+c:locale_game:SHOP_BUY_INFO,Choose the Item you want to buy in the shop window.,"Wybierz z wystawy przedmiot, który chcesz kupić.",اختر العنصر الذي تريد شراءه من نافذة المتجر.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_EQUIPMENT,You cannot sell  equipped Items.,Nie możesz sprzedawać ubranych przedmiotów.,لا يمكنك بيع  العناصر المجهزة.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_ITEM,This Item cannot be sold.,Ten Przedmiot nie może zostać sprzedany.,لا يمكن بيع هذا العنصر.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_UNKNOWN,Unknown Shop Error: %s,Nieznany Błąd Sklepu: %s,خطأ متجر غير معروف: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SHOP_INVALID_POS,This Item cannot be used here.,Ten Przedmiot nie może zostać tu użyty.,لا يمكن استخدام هذا العنصر هنا.,client: game texts (localeInfo),done
+c:locale_game:SHOP_INVENTORY_FULL,Your inventory is full.,Nie ma miejsca w ekwipunku.,مخزونك ممتلئ.,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY,Not enough Yang,Niewystarczająca ilość Yang,يانغ غير كافٍ,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY_EX,You do not have enough Yang.,Nie posiadasz wystarczająco Yang.,ليس لديك ما يكفي من اليانغ.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SELL_INFO,Choose the Item you want to sell  in your inventory window.,"Wybierz w oknie ekwipunku przedmiot, który chcesz sprzedać.",اختر من نافذة المخزون العنصر الذي تريد  بيعه.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SOLDOUT,Sold Out,Wyprzedany,نفدت الكمية,client: game texts (localeInfo),done
+c:locale_game:SHOT_ERROR_UNKNOWN,Unknown Error during Long Distance Attack: %s,Nieznany błąd podczas ataku z dystansu: %s,خطأ غير معروف أثناء الهجوم بعيد المدى: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_BOHO,Reflect,Odbicie,انعكاس,client: game texts (localeInfo),done
+c:locale_game:SKILL_BUDONG,is not used anymore,nie jest już używany,لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK,You need EXP to learn this Skill.,Potrzebujesz DOŚ do nauki tej Umiejętności.,تحتاج إلى EXP لتعلم هذه المهارة.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn this Skill.,Potrzebujesz Księgi do nauki tej Umiejętności.,تحتاج إلى كتاب لتعلم هذه المهارة.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHEONGEUN,Strong Body,,جسد قوي,client: game texts (localeInfo),done
+c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,ضربة حرجة,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,وضع السم,client: game texts (localeInfo),done
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,تمويه,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAINT,Blackout,Omdlenie,إظلام,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,كشف الفخ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,نار دائمة,client: game texts (localeInfo),done
+c:locale_game:SKILL_FISHMIND,Fishing Marble is active,Marmur Rybaka jest aktywny,كرة الصيد مفعّلة,client: game texts (localeInfo),done
+c:locale_game:SKILL_GAMJI,Capture,Złap,أسر,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,هالة السيف,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEONGON,SKILL_GEONGON Not used anymore,SKILL_GEONGON Niewykorzystany,SKILL_GEONGON لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_GICHEON,Dragon's Aid,,عون التنين,client: game texts (localeInfo),done
+c:locale_game:SKILL_GIGONG,Chi Rotation,Rotacja Chi,دوران الطاقة,client: game texts (localeInfo),done
+c:locale_game:SKILL_GONGPO,Fear,,الخوف,client: game texts (localeInfo),done
+c:locale_game:SKILL_GRADE_NAME_GRAND_MASTER,%s Grand Master,%s Wielki Mistrz,%s متمرس أعظم,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_MASTER,%s Master,%s Mistrz,%s متمرس,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_PERFECT_MASTER,%s Perfect Master,%s Perfekcyjny Mistrz,%s متمرس مثالي,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GROUP_ASSASSIN_1,Blade,Ostrze,الشفرة,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_ASSASSIN_2,Arc,Łuk,القوس,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_HORSE,Riding,Jazda,الركوب,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_1,Dragon,Smok,التنين,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_2,Healing,Leczenie,الشفاء,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,السلاح,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,السحر,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,الجسد,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,العقل,client: game texts (localeInfo),done
+c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,الشفرة المسحورة,client: game texts (localeInfo),done
+c:locale_game:SKILL_GYEONGGONG,Feather Walking,,خطوة الريشة,client: game texts (localeInfo),done
+c:locale_game:SKILL_HEUKSIN,Dark Protection,,الحماية المظلمة,client: game texts (localeInfo),done
+c:locale_game:SKILL_HOSIN,Blessing,,البركة,client: game texts (localeInfo),done
+c:locale_game:SKILL_HWAYEOM,SKILL_HWAYEOM Not used anymore,SKILL_HWAYEOM Niewykorzystany,SKILL_HWAYEOM لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_HYEOLMA,SKILL_HYEOLMA Not used anymore,SKILL_HYEOLMA Niewykorzystany,SKILL_HYEOLMA لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_ATKSPD,Attack speed raised,Zwiększona Szybkość Ataku,زادت سرعة الهجوم,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_MOVSPD,Moving speed raised,Zwiększona Szybkość Ruchu,زادت سرعة الحركة,client: game texts (localeInfo),done
+c:locale_game:SKILL_INMA,SKILL_INMA Not used anymore,SKILL_INMA niewykorzystany,SKILL_INMA لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEOJU,Curse,Klątwa,اللعنة,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGEOP,Healing,Leczenie,الشفاء,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGWI,Battle Flush,,اندفاع المعركة,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINBANGEO,Full Defence,Całkowita Obrona,دفاع كامل,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINGONGGYEOK,Full Attack,Całkowity Atak,هجوم كامل,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGCHE,SKILL_JEUNGCHE Not used anymore,SKILL_JEUNGCHE Niewykorzystany,SKILL_JEUNGCHE لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGHON,SKILL_JEUNGHON Not used anymore,SKILL_JEUNGHON Niewykorzystany,SKILL_JEUNGHON لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGRYEOK,Attack +,,الهجوم +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGSOK,Speed +,Szybkość +,السرعة +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIGAM,SKILL_JIGAM Not used anymore,SKILL_JIGAM Niewykorzystany,SKILL_JIGAM لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIPJUNG,SKILL_JIPJUNG Not used anymore,SKILL_JIPJUNG Niewykorzystany,SKILL_JIPJUNG لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,الدرع المسحور,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGEOM,SKILL_JUMAGEOM Not used anymore,SKILL_JUMAGEOM Niewykorzystany,SKILL_JUMAGEOM لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAEGEOM,SKILL_KWAEGEOM Not used anymore,SKILL_KWAEGEOM Niewykorzystany,SKILL_KWAEGEOM لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAESOK,Speed,,السرعة,client: game texts (localeInfo),done
+c:locale_game:SKILL_LEGBOUND,SKILL_LEGBOUND Not used anymore,SKILL_LEGBOUND Niewykorzystany,SKILL_LEGBOUND لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUSA,SKILL_MUSA Not used anymore,SKILL_MUSA Niewykorzystany,SKILL_MUSA لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,شبح اللهب,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_EMPTY_BOTTLE,I do not have an Empty Bottle.,Nie mam Pustej Butelki.,ليس لدي زجاجة فارغة.,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle,Nie mam Butelki z Trucizną,ليس لدي زجاجة سم,client: game texts (localeInfo),done
+c:locale_game:SKILL_ONLY_FOR_GUILD_WAR,You can use this Skill during a Guild War only.,Możesz używać tej Umiejętności tylko podczas Wojny Gildii.,يمكنك استخدام هذه المهارة أثناء حرب النقابات فقط.,client: game texts (localeInfo),done
+c:locale_game:SKILL_PABEOP,Neutralize Spell,,إبطال التعويذة,client: game texts (localeInfo),done
+c:locale_game:SKILL_POWERFUL_STRIKE,Dazing Attack,Atak Oszałamiający,هجوم مُذهل,client: game texts (localeInfo),done
+c:locale_game:SKILL_SEOMGWANG,Lightning Bomb,Bomba Błyskawic,قنبلة البرق,client: game texts (localeInfo),done
+c:locale_game:SKILL_SINCHAK,SKILL_SINCHAK Not used anymore,SKILL_SINCHAK Niewykorzystany,SKILL_SINCHAK لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLEEP,Sleep,Uśpienie,النوم,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLOW,Slow,Spowolnienie,الإبطاء,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUN,Daze,Ogłuszenie,الدوار,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUHO,Guard,Strażnik,الحراسة,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_DESCRIPTION,Chance of the Evocation: %d%%,Szansa na Przywołanie: %d%%,فرصة الاستحضار: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SKILL_TOOLTIP_INT,Intelligence,Inteligencja,الذكاء,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOOLTIP_LEVEL,Level,Poziom,المستوى,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICDIE,Poisoning,Otrucie,التسمم,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICPOWER,Poison attack value increased,Zwiększona Wartość Ataku Trucizną,زادت قيمة الهجوم بالسم,client: game texts (localeInfo),done
+c:locale_game:SKILL_TUSOK,Ghost Hit,Uderzenie Ducha,ضربة شبحية,client: game texts (localeInfo),done
+c:locale_game:SKILL_WONSIN,SKILL_WONSIN Not used anymore,SKILL_WONSIN Niewykorzystany,SKILL_WONSIN لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:SKILL_YONGSIN,SKILL_YONGSIN Not used anymore,SKILL_YONGSIN Niewykorzystany,SKILL_YONGSIN لم يعد مستخدمًا,client: game texts (localeInfo),done
+c:locale_game:STAT_MINUS_CON,Vitality Adjustment (Remaining chance: %d),Dostosowanie Witalności (Pozostała szansa: %d),تعديل الحيوية (الفرص المتبقية: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_DEX,Dexterity Adjustment (Remaining Chance: %d),Dostosowanie Zręczności (Pozostała Szansa: %d),تعديل البراعة (الفرص المتبقية: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_INT,Intelligence Adjustment (Rest of Chance: %d),Dostosowanie Inteligencji (Pozostałą szansa: %d),تعديل الذكاء (الفرص المتبقية: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_STR,Strength Adjustment (Rest of Chance: %d),Dostosowanie Siły (Pozostałą szansa: %d),تعديل القوة (الفرص المتبقية: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_TOOLTIP_CON,Increases HP and defence,Podwyższa PŻ i Obronę,يزيد HP والدفاع,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_DEX,Increases attack and evasion,Podwyższa atak i uniki,يزيد الهجوم والمراوغة,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_INT,"Increases SP, magic attack and defence","Podwyższa PE, magiczny atak i obronę.",يزيد SP والهجوم السحري والدفاع,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_STR,Increases attack value and damage,Podwyższa Wartość Ataku i Uszkodzeń,يزيد قيمة الهجوم والضرر,client: game texts (localeInfo),done
+c:locale_game:SYMBOLLIST_TITLE,Register Guild flag,Zarejestruj Flagę Gildii,تسجيل علم النقابة,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_1,CPU Tiling Mode can upgrade the speed of a weaker PC.,CPU TNL może ulepszyć szybkość słabszego PC.,يمكن لوضع CPU Tiling تسريع الحاسوب الأضعف.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_2,"If there are problem with the graphics choose either ,Systemoption‘ or ,CONFIG.exe‘","Jeśli jest problem z grafiką, wybierz ,Opcje System lub ,CONFIG.exe;","إذا كانت هناك مشكلة في الرسومات فاختر ,Systemoption' أو ,CONFIG.exe'",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL.,وانتقل إلى وضع GPU Tiling.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_1,GPU Tiling Mode can run slow on a weaker PC.,GPU TNL może działać wolniej na słabszych PC.,قد يعمل وضع GPU Tiling ببطء على الحاسوب الأضعف.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_2,If there are problems with the graphics choose either 'System Options' or 'CONFIG.exe',"Jeśli zaistnieją problem z grafiką, wybierz 'Opcje Systemu' lub 'CONFIG.exe'",إذا كانت هناك مشكلات في الرسومات فاختر 'System Options' أو 'CONFIG.exe',client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL,وانتقل إلى وضع GPU Tiling.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_TILING_EXIT,"To change to Tiling mode, the game has to be restarted.",Aby zmienić tryb TNL trzeba zrestartować grę.,لتغيير وضع Tiling يجب إعادة تشغيل اللعبة.,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_ACCEPT_FIGHT,Agree,Zgoda,موافقة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_AVENGE,Revenge,Zemsta,الانتقام,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_BUILDING_DESTROY,Destroy,Zniszcz,تدمير,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_DISMOUNT,Dismount,Zsiądź,الترجل,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EMOTION_ALLOW,Emotions,Emocje,التعبيرات,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCHANGE,Trading,Handel,التجارة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCLUDE,Exclude,Wyklucz,استبعاد,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXIT_OBSERVER,End Observer Mode,Zakończ Tryb Obserwatora,إنهاء وضع المراقب,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,مبارزة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FRIEND,Friend,Przyjaciel,صديق,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_GUILD,Guild Invitation,Zapr. Gildii,دعوة إلى النقابة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_PARTY,Group Invitation,Zapr. Grupy,دعوة إلى المجموعة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,مغادرة المجموعة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,الانضمام إلى المجموعة,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,العتاد,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,الهمس,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,زعيم,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,المستوى 5.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,المستوى 3.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,المستوى 1.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,المستوى 4.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,المستوى 2.,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ATTACK,Attack,Atak,هجوم,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,هجوم تلقائي,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_CAMERA,Camera,Kamera,الكاميرا,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_EXP,Experience,Doświadczenie,الخبرة,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_HP,HP,PŻ,HP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_MOVE,Move,Ruch,تحريك,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SKILL,Skill,Umiejętność,مهارة,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SP,SP,PE,SP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ST,ST,ST,قوة,client: game texts (localeInfo),done
+c:locale_game:THING_COUNT,all,wszystko,الكل,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTI_CRITICAL_PCT,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,مقاومة الضربات الحرجة +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_PENETRATE_PCT,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,مقاومة الضربات الخارقة +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_SELL,Cannot be sold in the shop.,Nie może zostać sprzedany w Magazynie,لا يمكن بيعه في المتجر.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ANIMAL,Strong against Animals +%d%%,Silny przeciwko Zwierzętom +%d%%,قوي ضد الحيوانات +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ASSASSIN,Strong against Ninjas +%d%%,Silny przeciwko Ninja +%d%%,قوي ضد النينجا +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_DEVIL,Strong against Devils +%d%%,Silny przeciwko Diabłom +%d%%,قوي ضد الشياطين +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_HUMAN,Strong against Half Humans +%d%%,Silny przeciwko Ludziom +%d%%,قوي ضد أنصاف البشر +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MILGYO,Strong against Mystics +%d%%,Silny przeciwko Mistykom +%d%%,قوي ضد الغامضين +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MONSTER,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,القوة ضد الوحوش +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC,Strong against Orcs +%d%%,Silny przeciwko Orkom +%d%%,قوي ضد الأورك +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SHAMAN,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,قوي ضد الشامان +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SURA,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,قوي ضد السورا +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_UNDEAD,Strong against Undead +%d%%,Silny przeciwko Nieumarłym +%d%%,قوي ضد الأوندد +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_WARRIOR,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,قوي ضد المحاربين +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%% ,Szansa na blok ciosów %d%%,فرصة صد هجوم قريب %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_COMBAT_SP_RECOVER,Recover SP all 5 seconds in a Battle %d,Odzyskiwanie PE przez 5 sekund podczas Bitwy %d,استعادة SP كل 5 ثوانٍ أثناء القتال %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%% ,Szansa na cios krytyczny +%d%%,فرصة الضربة الحرجة +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DAMAGE_SP_RECOVER,%d%% Chance to get back SP when hit,Szansa na transfer %d%% otrzymanych obrażeń do PE,فرصة %d%% لاستعادة SP عند الإصابة,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DODGE,Chance to avoid Arrows %d%%,Szansa na uniknięcie Strzały: %d%%,فرصة تفادي السهام %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_EXP_DOUBLE_BONUS,%d%% Chance for EXP Bonus,Szansa na Bonus DOŚ: %d%%,فرصة %d%% للحصول على مكافأة EXP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_GOLD_DOUBLE_BONUS,%d%% Chance to drop double Yang,Szansa na podwójną ilość Yang: %d%%,فرصة %d%% لإسقاط ضعف اليانغ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_FALL,Immune against falling down,Niewrażliwy na Upadek,مناعة ضد السقوط,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_SLOW,Defence against slowing,Niewrażliwy na spowolnienie,الدفاع ضد الإبطاء,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN,Defence against blackouts,Niewrażliwy na omdlenia,الدفاع ضد الإغماء,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items,Szansa na podwójną ilość Przedmiotów: %d%%,فرصة %d%% لإسقاط ضعف العناصر,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,فرصة %d%% لاستعادة HP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,فرصة %d%% لاستعادة SP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,فرصة %d%% لسرقة SP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,أقصى HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,أقصى SP +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,لا تأثير,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,لن تُفقد نقاط الخبرة إذا أُحييت شخصيتك في مكان موتها. ,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,فرصة %d%% لضربات خارقة,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,فرصة التسميم %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,مقاومة السم %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,زيادة تأثير الجرعات بنسبة %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,فرصة عكس اللعنة: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,فرصة %d%% لعكس الضربات القريبة  ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,فرصة الدفاع ضد هجمات النينجا: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,الدفاع ضد الأجراس %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_DAGGER,Dagger Defence %d%%,Odporność na Sztylety: %d%%,الدفاع ضد الخناجر %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_FAN,Fan Defence %d%%,Odporność na Wachlarze: %d%%,الدفاع ضد المراوح %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SHAMAN,Defence chance against shaman attacks: %d%%,Odporność na Szamanów: %d%%,فرصة الدفاع ضد هجمات الشامان: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SURA,Defence chance against sura attacks: %d%%,Odporność na Sura: %d%%,فرصة الدفاع ضد هجمات السورا: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SWORD,Sword Defence %d%%,Odporność na Miecze: %d%%,الدفاع ضد السيوف %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_TWOHAND,Two-Handed Defence %d%%,Odporność na Broń Dwuręczną: %d%%,الدفاع ضد الأسلحة ذات اليدين %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WARRIOR,Defence chance against warrior attacks: %d%%,Odporność na Wojowników: %d%%,فرصة الدفاع ضد هجمات المحاربين: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WIND,Wind Resistance %d%%,Odporność na Wiatr: %d%%,مقاومة الرياح %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_BONUS,Chance to learn from books upgraded by factor 2.5 .,Rada Pustelnika,زادت فرصة التعلم من الكتب بمعامل 2.5 .,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY,If learning fails you immediately have another try for free,"Jeśli trening się nie powiedzie, możesz od razu spróbować ponownie.",إذا فشل التعلم تحصل فورًا على محاولة أخرى مجانًا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SLOW_PCT,Slowing chance %d%%,Szansa na Spowolnienie %d%%,فرصة الإبطاء %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_HP,%d%% damage  will be absorbed by HP,%d%% obrażeń będzie dodanych do PŻ,يتم امتصاص %d%% من الضرر  بواسطة HP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obrażeń będzie dodanych do PE,يتم امتصاص %d%% من الضرر بواسطة SP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,فرصة الإغماء %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,الدرع,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,سهم,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,نينجا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,قيمة الهجوم +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,سرعة الهجوم +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,إكسير الشمس,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_REST,Remainder: %.2f%%,Pozostało: %.2f%%,المتبقي: %.2f%%,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_AUTO_POTION_SP,Moon Elixir,Eliksir Księżyca,إكسير القمر,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_USING,Active,Aktywny,نشط,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_BOW_DISTANCE,Arc Range +%dm,Zasięg Łuku +%dm,مدى القوس +%dم,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_BUYPRICE,Price: %s,Cena: %s,السعر: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_CAST_SPEED,Casting Speed +%d%%,Szybkość Zaklęcia +%d%%,سرعة الإلقاء +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_CON,Vitality +%d,Witalność +%d,الحيوية +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%% ,Bonus kostiumu %d%% ,مكافأة الزي %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEF_GRADE,Defence +%d,Obrona +%d,الدفاع +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEX,Dexterity +%d,Zręczność +%d,البراعة +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK1,Earth,Ziemia,الأرض,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK2,Sky,Niebo,السماء,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_EAR,Earring,Kolczyki,قرط,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ENERGY,Energy %d ,Energia %d,الطاقة %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ETC,And so on,I tak dalej,وهكذا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_EXP,Points %d / %d,Punkty %d / %d,النقاط %d / %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FISHINGROD_LEVEL,Level: %d,Poziom: %d,المستوى: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE1,Give to the Fisherman,"Daj Rybakowi,",أعطه للصياد,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE2,to get a better,aby dostać,لتحصل على,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE3,Fishing Pole.,Ulepszoną Wędkę.,صنارة صيد أفضل.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISH_LEN,Lenght: %.2fcm,Długość: %.2fcm,الطول: %.2fسم,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_HELMET,Helmet,Hełm,خوذة,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HP_REGEN,HP Regeneration +%d%%,Regeneracja Mikstur PŻ: +%d%%,تجديد HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_INT,Intelligence +%d,Inteligencja +%d,الذكاء +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_GRADE,Attack Value %d,Wartość Ataku: %d,قيمة الهجوم %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER,Attack Value %d - %d,Wartość Ataku: %d - %d,قيمة الهجوم %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_ONE_ARG,Attack Value %d,Wartość Ataku: %d,قيمة الهجوم %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_REFINE,Attack Value %d - %d (+%d),Wartość Ataku: %d - %d (+%d),قيمة الهجوم %d - %d (+%d),client: game texts (localeInfo) | keep: %d %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_SPEED,Attacking Speed %s,Szybkość Ataku: %s,سرعة الهجوم %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_ITEM_DEF_GRADE,Defence %d,Obrona %d,الدفاع %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_FAST,Fast,Szybki,سريع,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_LIMIT_CON,Vitality Upper Limit: %d,Górna granica Witalności: %d,الحد الأعلى للحيوية: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_DEX,Dexterity Upper Limit: %d,Górny limit Zręczności: %d,الحد الأعلى للبراعة: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_INT,Intelligence Upper Limit: %d,Górna granica Inteligencji: %d,الحد الأعلى للذكاء: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_LEVEL,From Level: %d,Od Poziomu: %d,من المستوى: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_STR,Strenght Upper Limit: %d,Górna granica Siły: %d,الحد الأعلى للقوة: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER,Magical Attack Value %d - %d,Wartość Magicznego Ataku: %d - %d,قيمة الهجوم السحري %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG,Magical Attack Value %d,Wartość Magicznego Ataku: %d,قيمة الهجوم السحري %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_DEF_POWER,Magical Defence %d,Magiczna Obrona %d,الدفاع السحري %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,عادي,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_SLOW,Slow,Wolny,الإبطاء,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_FAST,Very fast,Bardzo szybki,سريع جدًا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_SLOW,Very slow,Bardzo wolny,بطيء جدًا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_WEARABLE_JOB,[ Wearable ],[ Do ubrania ],[ قابل للارتداء ],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_LOTTERY_STEP_NUMBER,%d,%d,%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_LOTTO_NUMBER,Lucky Number: %d,Szczęśliwy Numer: %d,الرقم المحظوظ: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATTBONUS_PER,Magic attack +%d%%,Magiczny atak +%d%%,الهجوم السحري +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATT_GRADE,Magical Attack Value +%d,Wartość Magicznego Ataku: +%d,قيمة الهجوم السحري +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DEF_GRADE,Magical Defence +%d,Magiczna Obrona: +%d,الدفاع السحري +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS,Attack Value +%d%%,Wartość Ataku: +%d%%,قيمة الهجوم +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku: +12~15%,قيمة الهجوم +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.",يد تلتقط اليانغ المتساقط تلقائيًا,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,الدفاع +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,الدفاع +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,مكافأة EXP لـ iCafe +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,يزيد EXP المكتسبة بنسبة 50%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,تتضاعف فرصتك في اصطياد سمكة نادرة.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,ضُربت فرصة الحصول على اليانغ في %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS_STATIC,Doubles your chance to capture Yang,Szansa znalezienia Yang zostanie podwojona,يضاعف فرصتك في الحصول على اليانغ,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,ضُربت فرصة الحصول على العناصر في %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items plus %.1f%%,iCafe Szansa na zdobycie Przedmiotów plus %.1f%%,فرصة iCafe للحصول على العناصر زائد %.1f%%,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,يضاعف فرصتك في الحصول على العناصر,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,ترتفع نقاط الحب أسرع.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,يحصل مستودعك على حجرتي تخزين,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,أقصى HP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,أقصى HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,أقصى SP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,أقصى SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,أقصى قدرة تحمل +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,الهجوم السحري/القريب +%d%%,client: game texts (localeInfo) | keep: %d,done

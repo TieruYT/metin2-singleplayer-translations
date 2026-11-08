@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:TOOLTIP_MEMORIZED_POSITION,"%s(%d, %d)","%s (%d, %d)","%s(%d, %d)",client: game texts (localeInfo) | keep: %s %d %d,done
+c:locale_game:TOOLTIP_MEMORIZED_POSITION_ERROR,"GPS ERROR(%d, %d)","BRAK NAZWY (%d, %d)","ΣΦΑΛΜΑ GPS(%d, %d)",client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_MOV_SPEED,Moving Speed %d%%,Szybkość Ruchu %d%%,Ταχύτητα κίνησης %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NECK,Necklace,Naszyjnik,Περιδέραιο,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_NEED_ALL_SP,Needed SP: Max.,Wymagane PE: Max,Απαιτούμενα SP: μέγ.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_NEED_GSP,Needed Dragon ghost: %d,Wymagany Duch Smoka: %d,Απαιτούμενο Πνεύμα Δράκου: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEED_HP,Needed HP: %d,Wymagane PŻ: %d,Απαιτούμενα HP: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEED_HP_PER_SEC,HP / Sec.: %d,PŻ / sek.: %d,HP / δευτ.: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEED_SKILL_POINT,Needed Skill Points:,Wymagane Punkty Umiejętności:,Απαιτούμενοι πόντοι ικανοτήτων:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_NEED_SP,Needed SP: %d,Wymagane PE: %d,Απαιτούμενα SP: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEED_SP_PER_SEC,SP / Sec.: %d,PE / Sek.: %d,SP / δευτ.: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEXT_SKILL_LEVEL_1,Next Level: %d (Max. %d),Następny Poziom: %d (Max %d),Επόμενο επίπεδο: %d (μέγ. %d),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_NEXT_SKILL_LEVEL_2,Next Level: %d (Max. %d-%d),Następny Poziom: %d (Max %d-%d),Επόμενο επίπεδο: %d (μέγ. %d-%d),client: game texts (localeInfo) | keep: %d %d %d,done
+c:locale_game:TOOLTIP_NORMAL_HIT_DAMAGE_BONUS,Average Damage %d%%,Średnie Obrażenia: %d%%,Μέση ζημιά %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NORMAL_HIT_DEFEND_BONUS,Average Damage Resistance %d%%,Odporność na Obrażenia Fizyczne: %d%%,Αντίσταση στη μέση ζημιά %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP1,More than %d Group members,Więcej niż %d Członków Grupy,Περισσότερα από %d μέλη ομάδας,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP2,Attack Level +%d,Poziom Ataku +%d,Επίπεδο επίθεσης +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP3,Defence Level +%d,Poziom Obrony +%d,Επίπεδο άμυνας +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_INFO_HEAL_18_LEVEL,Restore HP/SP of all Group members all 60 minutes.,Regeneracja PŻ/PE wszystkich Członków Grupy przez 60 minut.,Αποκαθιστά τα HP/SP όλων των μελών της ομάδας κάθε 60 λεπτά.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_INFO_HEAL_40_LEVEL,Restore HP/SP of all Group members all 30 minutes,Regeneracja PŻ/PE wszystkich Członków Grupy przez 30 minut.,Αποκαθιστά τα HP/SP όλων των μελών της ομάδας κάθε 30 λεπτά,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_INFO_RECALL_12_LEVEL,You have to wait 3 minutes after the death of a group member.,Musisz poczekać 3 minuty po śmierci członka grupy.,Πρέπει να περιμένεις 3 λεπτά μετά τον θάνατο μέλους της ομάδας.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_INFO_RECALL_20_LEVEL,You can call Group members who are on the same server anytime.,"Możesz przywołać członków grupy, którzy są na tym samym serwerze.",Μπορείς να καλείς ανά πάσα στιγμή τα μέλη της ομάδας που βρίσκονται στον ίδιο διακομιστή.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_INFO_SET_ATTACKER,Attack Level +(Number of Group members./2) Attacker %d can be chosen.,Poziom Ataku +(ilość członków grupy/2) Napastnik %d może być wybrany.,Επίπεδο επίθεσης +(αριθμός μελών ομάδας/2). Μπορούν να επιλεγούν %d επιτιθέμενοι.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_INFO_SET_TANKER,Defence Level +(Number of Group members) blade fighters 1 can be chosen.,Poziom Obrony +(ilość członków grupy) 1 Walczący Ostrzem może być wybrany.,Επίπεδο άμυνας +(αριθμός μελών ομάδας). Μπορεί να επιλεγεί 1 μαχητής λεπίδας.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,Τρέχον επίπεδο: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PARTY_TITLE_GRADE_UP,[Attack/Defence upgraded],[Atak/Obrona ulepszony],[Attack/Defence upgraded],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_HEAL,[restore],[przywróć],[επαναφορά],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP,When you have more than %d Group members you get %d%% Bonus EXP .,"Jeśli masz więcej niż %d Członków Grupy, dostajesz %d%% Bonus DOŚ .","Όταν έχεις περισσότερα από %d μέλη στην ομάδα, παίρνεις %d%% μπόνους EXP .",client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP,[Bonus EXP],[Bonus DOŚ],[Bonus EXP],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_RECALL,[Call],[Przywołaj],[Call],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_ATTACKER,[Constitute Attacker],[Ustanów Napastnika],[Constitute Attacker],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_TANKER,[Constitute Blade Fighter],[Ustanów Walczącego Ostrzem],[Constitute Blade Fighter],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PICK_EXP,Points: %d / %d,Punkty: %d / %d,Πόντοι: %d / %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_PICK_LEVEL,Level: %d,Poziom: %d,Επίπεδο: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_PICK_UPGRADE1,Give to the Lumberjack,Daj to Drwalowi,Δώσ' το στον ξυλοκόπο,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PICK_UPGRADE2,to get a better,aby dostać,για να πάρεις καλύτερο,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PICK_UPGRADE3,Pickaxe.,ulepszony Kilof.,αξίνα.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CURE,Cure negative effects.,Usuń negatywne skutki.,Θεραπεύει τις αρνητικές επιδράσεις.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,Λεπ.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_PLUS_ATTACK_SPEED,Attack speed +%d,Szybkość Ataku +%d,Ταχύτητα επίθεσης +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_PLUS_HP_PERCENT,HP +%d%%,PŻ +%d%%,HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_PLUS_HP_POINT,HP +%d,PŻ +%d,HP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_PLUS_MOVING_SPEED,Movement speed +%d,Szybkość Ruchu +%d,Ταχύτητα κίνησης +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_PLUS_SP_PERCENT,SP +%d%%,PE +%d%%,SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_PLUS_SP_POINT,SP +%d,PE +%d,SP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_SEC,Sec.,Sek.,Δευτ.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_TIME,Duration:,Czas trwania:,Διάρκεια:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REQUIREMENT_21_LEVEL,You must have reached Level 21.,Musisz osiągnąć Poziom 21.,Πρέπει να έχεις φτάσει στο επίπεδο 21.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REQUIREMENT_41_LEVEL,You must have reached Level 41.,Musisz osiągnąć Poziom 41.,Πρέπει να έχεις φτάσει στο επίπεδο 41.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REQUIREMENT_LEVEL,You must have reached Level %d.,Musisz osiągnąć Poziom %d.,Πρέπει να έχεις φτάσει στο επίπεδο %d.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_REQUIREMENT_SKILL_LEVEL,%s Level %d needed.,%s Poziom %d wymagany.,Απαιτείται %s επίπεδο %d.,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:TOOLTIP_REQUIREMENT_STAT_LEVEL,%s %d needed,%s %d wymagany,Απαιτείται %s %d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:TOOLTIP_RESIST_BOW,Arrow Resistance %d%%,Odporność na Strzały: %d%%,Αντίσταση στα βέλη %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_DARK,Resistance against darkness +%d%%,Odporność na mrok +%d%%,Αντίσταση στο σκοτάδι +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_EARTH,Earth resistance +%d%%,Odporność na ziemię +%d%%,Αντίσταση στη γη +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_ELEC,Lightning Resistance %d%%,Odporność na Błyskawice: %d%%,Αντίσταση στον κεραυνό %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_FIRE,Fire Resistance %d%%,Odporność na Ogień: %d%%,Αντίσταση στη φωτιά %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_ICE,Ice resistance +%d%%,Odporność na lód +%d%%,Αντίσταση στον πάγο +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_MAGIC,Magic Resistance %d%%,Odporność na Magię: %d%%,Αντίσταση στη μαγεία %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_REST_USABLE_COUNT,Left: %d,Pozostało: %d,Απομένουν: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SEALED,Soulbound,Przywiązanie do duszy,Δεμένο με την ψυχή,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SELLPRICE,Price: %s,Cena: %s,Τιμή: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_SHAMAN,Shaman,Szaman,Σαμάνος,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SHIELD,Shield,Tarcza,Ασπίδα,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SHOES,Shoes,Buty,Παπούτσια,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL,Skills,Umiejętności,Ικανότητες,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILLBOOK_NAME,Skill Book,Księga Umiejętności,Βιβλίο ικανότητας,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_GRADE,Attack Value: +,Wartość Ataku: +,Τιμή επίθεσης: +,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_POWER,Attack Value:,Wartość Ataku:,Τιμή επίθεσης:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_SPEED,Attack Speed: +,Szybkość Ataku: +,Ταχύτητα επίθεσης: +,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_DEF_GRADE,Defence:,Obrona:,Άμυνα:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_DODGE,Opponent Attack Value: -,Wartość Ataku przeciwnika: -,Τιμή επίθεσης αντιπάλου: -,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_HEAL,Restore HP:,Regeneracja PŻ:,Αποκατάσταση HP:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_MOV_SPEED,Moving Speed: +,Szybkość Ruchu: +,Ταχύτητα κίνησης: +,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_REFLECT_MELEE,Chance to reflect close combat attack:,Szansa na odbicie ataku:,Πιθανότητα αντανάκλασης επίθεσης σώμα με σώμα:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_AFFECT_RESIST_NORMAL,Resistance against Body Damage:,Odporność na Obrażenia:,Αντίσταση στη σωματική ζημιά:,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_COOL_TIME,Recharge: ,Odnowa: ,Επαναφόρτιση: ,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_DAMAGE_BONUS,Skill Damage %d%%,Obrażenia Umiejętności: %d%%,Ζημιά ικανοτήτων %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SKILL_DEFEND_BONUS,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,Αντίσταση στη ζημιά ικανοτήτων %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SKILL_DURATION,Duration: %d Sek.,Czas trwania: %d Sek.,Διάρκεια: %d δευτ.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SKILL_FORGET_BOOK_NAME,Band of Oblivion,Księga Zapomnienia,Ταινία της λήθης,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,Τρέχον επίπεδο: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SKILL_LEVEL_MASTER,Current Level: %d (Master),Aktualny Poziom: %d (Mistrz),Τρέχον επίπεδο: %d (δάσκαλος),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SKILL_LEVEL_WITH_MAX,Current Level: %d (Max. %d),Aktualny Poziom: %d (Max %d),Τρέχον επίπεδο: %d (μέγ. %d),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_SOCKET_EMPTY,Empty,Pusty,Κενό,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],[Item with Socket],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SP_REGEN,SP Regeneration +%d%%,Regeneracja Mikstur PE: +%d%%,Αναγέννηση SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_STR,Strength +%d,Siła: +%d,Δύναμη +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SURA,Sura,Sura,Σούρα,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_TIME_CHARGER_FIX,Time charging %d sec.,Ładowanie czasu %d sek.,Χρόνος φόρτισης %d δευτ.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_TIME_CHARGER_PER,Time charging %d%%,Ładowanie czasu %d%% ,Χρόνος φόρτισης %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_UNIQUE,Unique,Unikat,Μοναδικό,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_UNSEAL_LEFT_TIME,Unseals in %d hours and %d minutes.,Oderwanie od duszy za: %dH %dM,Αποσφραγίζεται σε %d ώρες και %d λεπτά.,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_WARRIOR,Warrior,Wojownik,Πολεμιστής,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_WEAPON,Weapon,Broń,Όπλο,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_WRISTLET,Wristlet,Bransoleta,Περικάρπιο,client: game texts (localeInfo),done
+c:locale_game:UI_ACCEPT,Accept,Akceptuj,Αποδοχή,client: game texts (localeInfo),done
+c:locale_game:UI_CANCEL,Cancel,Anuluj,Ακύρωση,client: game texts (localeInfo),done
+c:locale_game:UI_CLOSE,Close,Zamknij,Κλείσιμο,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),done
+c:locale_game:UI_DENY,Decline,Odrzuć,Απόρριψη,client: game texts (localeInfo),done
+c:locale_game:UI_ITEM,Item,Przedmiot,Αντικείμενο,client: game texts (localeInfo),done
+c:locale_game:UI_LEFT_TIME,Remaining Time: %d Sec.,Pozostały Czas: %d Sek.,Υπολειπόμενος χρόνος: %d δευτ.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:UI_NEXT,Continue,Kontynuuj,Συνέχεια,client: game texts (localeInfo),done
+c:locale_game:UI_NEXTPAGE,Next,Dalej,Επόμενο,client: game texts (localeInfo),done
+c:locale_game:UI_NOCONTENTS,No Content,Brak Zawartości,Χωρίς περιεχόμενο,client: game texts (localeInfo),done
+c:locale_game:UI_NONAME,No Name,Brak Nazwy,Χωρίς όνομα,client: game texts (localeInfo),done
+c:locale_game:UI_OK,OK,OK,OK,client: game texts (localeInfo),done
+c:locale_game:UI_POS_UNKNOWN,Unknown Place,Nieznane Położenie,Άγνωστο μέρος,client: game texts (localeInfo),done
+c:locale_game:UI_PREVPAGE,Back,Wróć,Πίσω,client: game texts (localeInfo),done
+c:locale_game:UI_UNKNOWN,Unknown,Nieznany,Άγνωστο,client: game texts (localeInfo),done
+c:locale_game:UPLOAD_MARK_CHECK_NEED_RECONNECT,The upload has to be started again.,Wgrywanie musi zostać ponownie rozpoczęte.,Η μεταφόρτωση πρέπει να ξεκινήσει ξανά.,client: game texts (localeInfo),done
+c:locale_game:UPLOAD_MARK_UPLOAD_NEED_RECONNECT,The upload has to be started again.,Wgrywanie musi zostać ponownie rozpoczęte.,Η μεταφόρτωση πρέπει να ξεκινήσει ξανά.,client: game texts (localeInfo),done
+c:locale_game:USE_ITEM_FAILURE_PRIVATE_SHOP,You cannot use items while you have a private shop open.,"Nie możesz używać przedmiotów, jeśli otworzyłeś prywatny Magazyn.",Δεν μπορείς να χρησιμοποιήσεις αντικείμενα ενώ έχεις ανοιχτό ιδιωτικό κατάστημα.,client: game texts (localeInfo),done
+c:locale_game:USE_SKILL_ERROR_UNKNOWN,Unknown Skill Error: %s,Nieznany Błąd Umiejętności: %s,Άγνωστο σφάλμα ικανότητας: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TARGET_BUTTON_REPORT,Report,Zgłoś,Αναφορά,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_TIPS_SPLIT_ITEM,{} + {} split items.,{} + {} rozdziel przedmioty.,{} + {} αντικείμενα χωρίστηκαν.,client: game texts (localeInfo) | keep: {},done
+c:locale_game:MINIMAP_STRECH,Expand,Powiększ,Επέκταση,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_SHRINK,Shrink,Zmniejsz,Σύμπτυξη,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ESCAPE_OPTION,Use this if your character gets stuck.,"Użyj, kiedy zablokujesz się w ""teksturach"".",Χρησιμοποίησέ το αν ο χαρακτήρας σου κολλήσει.,client: game texts (localeInfo),done
+c:locale_game:AUTOSTACK_INVENTORY,All stackable items in your inventory have been combined.,Połączono wszystkie możliwe do połączenia przedmioty w ekwipunku.,Όλα τα στοιβαζόμενα αντικείμενα στα αποθέματά σου συνδυάστηκαν.,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_REASON_HACK,Other hacks / cheats,Inne hacki/cheaty,Άλλα hacks / cheats,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,Μποτ,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_REASON_FISHBOT,Fishing bot,Fishbot,Bot ψαρέματος,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_REASON_INSULT,Abusive language,Wyzwiska,Υβριστική γλώσσα,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_SELECT_REASON,Select a reason for reporting this player.,Wybierz powód zgłoszenia.,Διάλεξε λόγο για την αναφορά αυτού του παίκτη.,client: game texts (localeInfo),done
+c:locale_game:REPORT_DONE,Thank you for your report!,Dziękujemy za zgłoszenie!,Ευχαριστούμε για την αναφορά!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_TARGET_IS_BLOCKED,You cannot whisper to a blocked player.,Nie możesz szeptać do zablokowanej osoby.,Δεν μπορείς να ψιθυρίσεις σε αποκλεισμένο παίκτη.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_EDIT_PRICE_DIALOG_TITLE,Edit price,Edytuj cene,Επεξεργασία τιμής,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_EDIT_ALL_PRICE_DIALOG_TITLE,Edit prices in bulk,Edytuj masowo cene,Μαζική επεξεργασία τιμών,client: game texts (localeInfo),done
+c:locale_game:SELECT_CANNOT_DELETE_USING_OFFLINESHOP,Collect the items from your shop storage first.,Odbierz przedmioty z depozytu sklepu.,Πρώτα μάζεψε τα αντικείμενα από την αποθήκη του καταστήματός σου.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_SHOP_PREMIUM,Premium Shop,Sklep Premium,Premium κατάστημα,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_EMPTY_SIGN,Enter a shop name.,Podaj nazwę sklepu.,Πληκτρολόγησε όνομα καταστήματος.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_EMPTY_STOCK,Add items to the shop.,Dodaj przedmioty do sklepu.,Πρόσθεσε αντικείμενα στο κατάστημα.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_SELECT_TIME,Select the type of shop you want to open.,Wybierz jaki rodzaj sklepu chcesz otworzyć.,Διάλεξε τον τύπο καταστήματος που θέλεις να ανοίξεις.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_TOO_MUCH_GOLD,"Shop earnings cannot exceed 2,000,000,000 Yang.",Suma zarobków sklepu nie może przekroczyć 2.000.000.000 Yang.,"Τα κέρδη του καταστήματος δεν μπορούν να ξεπεράσουν τα 2,000,000,000 Yang.",client: game texts (localeInfo),done
+c:locale_game:MYSHOP_BUY,Someone bought |cffd9ca75%dx %s|r from your shop for |cffd9ca75%s|r.,Ktoś zakupił |cffd9ca75%dx %s|r z Twojego sklepiku za |cffd9ca75%s|r.,Κάποιος αγόρασε |cffd9ca75%dx %s|r από το κατάστημά σου για |cffd9ca75%s|r.,client: game texts (localeInfo) | keep: %d %s %s; |c...|r colour codes,done
+c:locale_game:MYSHOP_MANAGE_OPEN_ERROR,You have no open shop and your shop storage is empty.,"Nie masz otwartego sklepu, a depozyt sklepu jest pusty.",Δεν έχεις ανοιχτό κατάστημα και η αποθήκη του καταστήματος είναι άδεια.,client: game texts (localeInfo),done
+c:locale_game:SHOP_REMOVE_ITEM_QUESTION,Remove %dx %s from the shop?,Czy chcesz usunąć %dx %s ze sklepu?,Αφαίρεση %dx %s από το κατάστημα;,client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:SHOP_NAME_TITLE,Shop - %s,Sklep - %s,Κατάστημα - %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SHOP_PLACE_ITEM_ON_LOCKED_SLOT,You cannot place an item in this shop slot.,Nie możesz postawić przedmiotu na tym miejscu w sklepie.,Δεν μπορείς να βάλεις αντικείμενο σε αυτή τη θέση του καταστήματος.,client: game texts (localeInfo),done
+c:locale_game:SHOP_NO_PREMIUM,You do not have a premium shop.,Nie posiadasz sklepu premium.,Δεν έχεις premium κατάστημα.,client: game texts (localeInfo),done
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT,From %d to %d hours,Od %d do %d godz.,Από %d έως %d ώρες,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT2,Over %d hours,Ponad %d godz.,Πάνω από %d ώρες,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT3,Under %d hours,Poniżej %d godz.,Κάτω από %d ώρες,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION1_1,An unfinished shop setup was found.,"Wykryto konfiguracje sklepu, który nie został otwarty.",Βρέθηκε μια ημιτελής ρύθμιση καταστήματος.,client: game texts (localeInfo),done
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION1_2,Restore your previous shop setup?,Czy chcesz przywrócić ostatnie ustawienie sklepu?,Επαναφορά της προηγούμενης ρύθμισης καταστήματος;,client: game texts (localeInfo),done
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION2_1,"If items have moved in your inventory,","Uwaga: Jeżeli zmieniły się pozycje przedmiotów w ekwipunku,","Αν τα αντικείμενα μετακινήθηκαν στα αποθέματά σου,",client: game texts (localeInfo),done
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION2_2,the shop may contain the wrong items. Continue?,sklep może posiadać niepoprawne przedmioty. Kontynuować?,το κατάστημα μπορεί να περιέχει λάθος αντικείμενα. Συνέχεια;,client: game texts (localeInfo),done
+c:locale_game:MYSHOP_REOPEN_TITLE,Reopen Shop,Otwórz sklep ponownie,Επαναλειτουργία καταστήματος,client: game texts (localeInfo),done
+c:locale_game:MYSHOP_REOPEN_INPUT_PLACEHOLDER,Shop name,Nazwa sklepu,Όνομα καταστήματος,client: game texts (localeInfo),done
+c:locale_game:SHOP_EXPIRE_NOTIFY_GUEST,The shop has closed or expired.,Sklep został zamknięty lub wygasł.,Το κατάστημα έκλεισε ή έληξε.,client: game texts (localeInfo),done
+c:locale_game:SHOP_HAS_BEEN_EDITED,The shop's listings have changed.,Oferta sklepu została edytowana.,Οι προσφορές του καταστήματος άλλαξαν.,client: game texts (localeInfo),done
+c:locale_game:PLAYER_SHOP_TITLE,%s's Shop,Sklep Gracza %s,Κατάστημα του/της %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:OFFLINE_SHOP_ESTIMATED_REVENUE,Estimated net earnings:,Przewidywane zarobki netto:,Εκτιμώμενα καθαρά κέρδη:,client: game texts (localeInfo),done
+c:locale_game:TOO_HIGH_SHOP_VALUE,The shop's value exceeds 2 billion Yang.,Wartość sklepu przekracza 2 miliardy Yang.,Η αξία του καταστήματος ξεπερνά τα 2 δισεκατομμύρια Yang.,client: game texts (localeInfo),done
+c:locale_game:OFFLINE_SHOP_CANNOT_PLACE_ITEM_ON_ITEM,You cannot place an item on another item.,Nie możesz położyć przedmiotu na innym przedmiocie.,Δεν μπορείς να βάλεις αντικείμενο πάνω σε άλλο αντικείμενο.,client: game texts (localeInfo),done
+c:locale_game:SHOP_EDIT_MODE_ON,Shop editing enabled.,Włączono tryb edycji sklepu.,Η επεξεργασία καταστήματος ενεργοποιήθηκε.,client: game texts (localeInfo),done
+c:locale_game:SHOP_EDIT_MODE_OFF,Shop editing disabled.,Wyłączono tryb edycji sklepu.,Η επεξεργασία καταστήματος απενεργοποιήθηκε.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_NO_CATEGORY,Select a category.,Wybierz kategorię.,Διάλεξε κατηγορία.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CLEAR_INFO,All offline shop markers have been cleared.,Wyczyszczono wszystkie znaczniki sklepów offline.,Όλες οι σημάνσεις offline καταστημάτων διαγράφηκαν.,client: game texts (localeInfo),done
+c:locale_game:QUICK_ADD_TO_MYSHOP,|Eshortcut/mright|e - add to shop.,|Eshortcut/mright|e - dodaj do sklepu.,|Eshortcut/mright|e - προσθήκη στο κατάστημα.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:QUICK_REMOVE_FROM_MYSHOP,|Eshortcut/mleft|e - remove from shop.,|Eshortcut/mleft|e - usuń ze sklepu.,|Eshortcut/mleft|e - αφαίρεση από το κατάστημα.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:QUICK_EDIT_MYSHOP,|Eshortcut/mright|e - edit price.,|Eshortcut/mright|e - edytuj cenę.,|Eshortcut/mright|e - επεξεργασία τιμής.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:QUICK_EDIT_MYSHOP_SIMILAR,|Eshortcut/ctrl|e + |Eshortcut/mright|e - edit similar prices.,|Eshortcut/ctrl|e + |Eshortcut/mright|e - edytuj cenę podobnych.,|Eshortcut/ctrl|e + |Eshortcut/mright|e - επεξεργασία παρόμοιων τιμών.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:QUICK_BUY_SHOP,|Eshortcut/mleft|e or |Eshortcut/mright|e - buy item.,|Eshortcut/mleft|e  lub |Eshortcut/mright|e - kup przedmiot.,|Eshortcut/mleft|e ή |Eshortcut/mright|e - αγορά αντικειμένου.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:SKILL_BERSERK,Battle Flush,Berserk,Ορμή μάχης,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_AURA,Aura of the Sword,Aura Miecza,Αύρα του ξίφους,client: game texts (localeInfo),done
+c:locale_game:SKILL_STRONG_BODY,Strong Body,Silne Ciało,Δυνατό σώμα,client: game texts (localeInfo),done
+c:locale_game:SKILL_FEATHER_WALK,Feather Walking,Bezszelestny Chód,Πούπουλο βήμα,client: game texts (localeInfo),done
+c:locale_game:SKILL_STEALTH,Camouflage,Krycie Się,Καμουφλάζ,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_BLADE,Enchanted Blade,Czarowane Ostrze,Μαγεμένη λεπίδα,client: game texts (localeInfo),done
+c:locale_game:SKILL_TERROR,Fear,Strach,Φόβος,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_ARMOR,Enchanted Armour,Czarowana Zbroja,Μαγεμένη πανοπλία,client: game texts (localeInfo),done
+c:locale_game:SKILL_BLESSING,Blessing,Błogosławieństwo,Ευλογία,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWIFTNESS,Speed,Szybkość,Ταχύτητα,client: game texts (localeInfo),done
+c:locale_game:SKILL_MANASHIELD,Dark Protection,Mroczna Ochrona,Σκοτεινή προστασία,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_SPIRIT,Ghost of the Flame,Ognisty Duch,Πνεύμα της φλόγας,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_HELP,Dragon's Aid,Pomoc Smoka,Βοήθεια του δράκου,client: game texts (localeInfo),done
+c:locale_game:SKILL_ATTACK_UP,Attack +,Atak +,Επίθεση +,client: game texts (localeInfo),done
+c:locale_game:SKILL_DISPEL,Neutralize Spell,Rozproszenie Magii,Εξουδετέρωση ξορκιού,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE_ARROW,Fire Arrow,Ognista Strzała,Βέλος φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MALL_ATT_BONUS_NAME,Dragon God Attack,Atak Boga Smoków,Επίθεση του Θεού Δράκου,client: game texts (localeInfo),done
+c:locale_game:MALL_HP_BONUS_NAME,Dragon God Life,Życie Boga Smoków,Ζωή του Θεού Δράκου,client: game texts (localeInfo),done
+c:locale_game:MALL_IQ_BONUS_NAME,Dragon God Intelligence,Inteligencja Boga Smoków,Ευφυΐα του Θεού Δράκου,client: game texts (localeInfo),done
+c:locale_game:MALL_DEF_BONUS_NAME,Dragon God Defence,Obrona Boga Smoków,Άμυνα του Θεού Δράκου,client: game texts (localeInfo),done
+c:locale_game:MALL_EXP_BONUS_NAME,Potion of Wisdom,Mikstura Mądrości,Φίλτρο της σοφίας,client: game texts (localeInfo),done
+c:locale_game:MALL_CRIT_BONUS_NAME,Critical Strike,Dłoń Krytyka,Κρίσιμο πλήγμα,client: game texts (localeInfo),done
+c:locale_game:MALL_PENET_BONUS_NAME,Piercing Strike,Dłoń Przebicia,Διαπεραστικό πλήγμα,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POLYMORPH,Polymorph,Polimorfia,Μεταμόρφωση,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POINT_POLYMORPH,Transform into %s,Przemiana w %s,Μεταμόρφωση σε %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_APPLY_TERROR,Opponent Attack Power -%d%%,Siła ataku wroga -%d%% ,Δύναμη επίθεσης αντιπάλου -%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_NORMAL_DAMAGE,Physical Attack Resistance %d%%,Odporność na ataki fizyczne %d%% ,Αντίσταση σε φυσικές επιθέσεις %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_FAST_PICKUP,Picking up items from the ground is faster by 500%.,Podnoszenie przedmiotów z ziemii szybsze o 500%.,Το μάζεμα αντικειμένων από το έδαφος είναι 500% πιο γρήγορο.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ROOT,Root,Uziemienie,Ρίζα,client: game texts (localeInfo),done
+c:locale_game:SKILL_HEAL_ON_ATTACK,Touch of Light,Dotyk Światła,Άγγιγμα του φωτός,client: game texts (localeInfo),done
+c:locale_game:AFFECT_REMOVE_ALL_RESIST,Broken Resistance,Złamanie odporności,Σπασμένη αντίσταση,client: game texts (localeInfo),done
+c:locale_game:AFFECT_DEATH_PENALTY,"If you die with a negative rank,;you do not risk losing an item.;The effect ends once it has saved;you from losing one.",W przypadku śmierci na ujemnej randze;nie ryzykujesz utratą przedmiotu.;Efekt znika w przypadku ochrony;potencjalnej utraty przedmiotu.,"Αν πεθάνεις με αρνητικό βαθμό,;δεν κινδυνεύεις να χάσεις αντικείμενο.;Η επίδραση λήγει μόλις σε;γλιτώσει από μια απώλεια.",client: game texts (localeInfo),done
+c:locale_game:AFFECT_FIRE_RAGE,Dragon's Wrath,Smoczy Gniew,Οργή του δράκου,client: game texts (localeInfo),done
+c:locale_game:AFFECT_HEAVEN_PROTECTION,Heavenly Shield,Niebiańska Tarcza,Ουράνια ασπίδα,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPRINT_AFFECT,Moving speed greatly raised.,Prędkość ruchu znacznie zwiększona.,Η ταχύτητα κίνησης αυξήθηκε πολύ.,client: game texts (localeInfo),done
+c:locale_game:AFFECT_BLOODTHIRST,Bloodthirst,Żądza Krwi,Δίψα για αίμα,client: game texts (localeInfo),done
+c:locale_game:AFFECT_DEBUFF_HEAVEN_PROTECTION,Heavenly Shield cannot be granted.,Niebiańska Tarcza nie może zostać nadana.,Η ουράνια ασπίδα δεν μπορεί να δοθεί.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_TEMPLE,"Temple Curse;Your mind is clouded, so;you fight far worse.",Klątwa Świątyni;Twój umysł jest otępiony przez co;znacznie tracisz zdolności bojowe.,"Κατάρα του ναού;Το μυαλό σου είναι θολωμένο, οπότε;πολεμάς πολύ χειρότερα.",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_DEVILTOWER_DAMAGE,"Corruption of Darkness;Your skin burns and cracks with dark energy,;leaving you open to more damage.","Spaczenie Ciemności;Skóra piecze i pęka pod wpływem mrocznej energii,;wystawiając cię na większe obrażenia.","Διαφθορά του σκότους;Το δέρμα σου καίγεται και σκάει από σκοτεινή ενέργεια,;αφήνοντάς σε εκτεθειμένο σε περισσότερη ζημιά.",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_HERBALIST_BONUS,Chance to pick extra flowers.,Szansa na zerwanie dodatkowych kwiatów.,Πιθανότητα να μαζέψεις επιπλέον λουλούδια.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_COLLECT_NO_FAIL_TIME,The Biologist needs no time to examine a sample of poor quality.,Biolog nie potrzebuje czasu na przeanalizowanie próbki złej jakości.,Ο βιολόγος δεν χρειάζεται χρόνο για να εξετάσει δείγμα κακής ποιότητας.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_NO_FAIL_TIME,No rest needed after failed training.,Nie potrzebujesz odpoczynku w przypadku nieudanej nauki.,Δεν χρειάζεται ξεκούραση μετά από αποτυχημένη εκπαίδευση.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_NO_EXP,You receive no experience points.,Nie otrzymujesz doświadczenia.,Δεν λαμβάνεις πόντους εμπειρίας.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_LEARN,Potion of Genius,Mikstura Geniuszu,Φίλτρο της ιδιοφυΐας,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_EASY,Protection against the Monkey curse;in the Easy Dungeon.,Ochrona przed klątwą Małp;w Łatwym Lochu.,Προστασία από την κατάρα των πιθήκων;στο Εύκολο Μπουντρούμι.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_NORMAL,Protection against the Monkey curse;in the Normal Dungeon.,Ochrona przed klątwą Małp;w Normalnym Lochu.,Προστασία από την κατάρα των πιθήκων;στο Κανονικό Μπουντρούμι.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_HARD,Protection against the Monkey curse;in the Hard Dungeon.,Ochrona przed klątwą Małp;w Trudnym Lochu.,Προστασία από την κατάρα των πιθήκων;στο Δύσκολο Μπουντρούμι.,client: game texts (localeInfo),done
+c:locale_game:AFFECT_INFINITE,The effect never ends.,Efekt nigdy się nie kończy.,Η επίδραση δεν λήγει ποτέ.,client: game texts (localeInfo),done
+c:locale_game:AFFECT_INACTIVE,Inactive,,Ανενεργό,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_DELETE_AFFECT,|Eshortcut/mright|e - remove effect,|Eshortcut/mright|e - usuń efekt,|Eshortcut/mright|e - αφαίρεση επίδρασης,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:FLOATING_TEXT_END_AFFECT,Effect ended: %s,Efekt minął: %s,Η επίδραση έληξε: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_ARROW,Chance to reflect Arrows: %d%%,Szansa na odbicie Pocisku: %d%%,Πιθανότητα αντανάκλασης βελών: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_HIT_HP_RECOVERY,Life thief +%d%%,Złodziej życia +%d%%,Κλοπή ζωής +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POINT_ATT_BONUS,Attack +%d%%,Atak +%d%%,Επίθεση +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ST_REGEN,Endurance Regeneration +%d%%,Regeneracja ST: +%d%%,Αναγέννηση αντοχής +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DAGGER_ATT_GRADE_MONSTER,Dagger damage against monsters +%d,Obraż. sztyletów w potwory +%d,Ζημιά στιλέτου κατά τεράτων +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ATT_GRADE_MONSTER,Attack Value against monsters +%d,Wartość Ataku w potwory +%d,Τιμή επίθεσης κατά τεράτων +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RESIST_MONSTER_1000PCT,Resistance against monsters +%.1f%%,Odporność na potwory +%.1f%%,Αντίσταση κατά τεράτων +%.1f%%,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_APPLY_ABSORB_DAMAGE,Absorbs %d damage,Absorpcja %d obrażen,Απορροφά %d ζημιά,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ABSORB_DAMAGE_MONSTER,Absorbs %d damage from monsters,Absorpcja %d obrażen od potworów,Απορροφά %d ζημιά από τέρατα,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN_BREAK_PCT,Chance to break Defence against blackouts +%d%%,Szansa na Przebicie Niewrażliwości Omdlenia +%d%%,Πιθανότητα διάσπασης άμυνας κατά λιποθυμίας +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_SKILL_DURATION,Skill Duration +%d%%,Czas trwania umiejętności +%d%%,Διάρκεια ικανοτήτων +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_BREAK_TEMPLE_CURSE,Chance to break the Temple Curse +%d%%,Szansa na złamanie Klątwy Świątyni +%d%%,Πιθανότητα να σπάσει η Κατάρα του ναού +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC_VALLEY,Damage in the Valley of Seungryong +%d%%,Obrażenia w Dolinie Seungryong +%d%%,Ζημιά στην Κοιλάδα Σεουνγκριόνγκ +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_STONE,Damage against Metin Stones +%d%%,Obrażenia przeciwko Metinom +%d%%,Ζημιά κατά Λίθων Μέτιν +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_BOSS,Damage against Bosses +%d%%,Obrażenia przeciwko Bossom +%d%%,Ζημιά κατά αρχηγών +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT_MONSTER,Magic Damage against monsters +%d%%,Obrażenia magiczne przeciwko potworom +%d%%,Μαγική ζημιά κατά τεράτων +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_SWORD,Break Sword Defence +%d%%,Złamanie Odporności na Miecze +%d%%,Διάσπαση άμυνας κατά ξίφους +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POINT_BREAK_RESIST_TWOHAND,Break Two-Handed Defence +%d%%,Złamanie Odporności na Broń Dwuręczną +%d%%,Διάσπαση άμυνας κατά δίχειρων +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_DAGGER,Break Dagger Defence +%d%%,Złamanie Odporności na Sztylety +%d%%,Διάσπαση άμυνας κατά στιλέτου +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_BELL,Break Bell Defence +%d%%,Złamanie Odporności na Dzwony +%d%%,Διάσπαση άμυνας κατά καμπάνας +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_FAN,Break Fan Defence +%d%%,Złamanie Odporności na Wachlarze +%d%%,Διάσπαση άμυνας κατά βεντάλιας +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_BOW,Break Arrow Resistance +%d%%,Złamanie Odporności na Strzały +%d%%,Διάσπαση αντίστασης στα βέλη +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_HUMAN,Resistance against Half Humans +%d%%,Odporność na Ludzi +%d%%,Αντίσταση κατά ημιανθρώπων +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POINT_LEARN_CHANCE,Chance to learn upgraded by factor %.2f.,Szansa na pomyślną naukę zwiększona o współczynnik %.2f.,Η πιθανότητα εκμάθησης αυξάνεται κατά %.2f φορές.,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT,Magic Damage +%d%%,Obrażenia magiczne +%d%%,Μαγική ζημιά +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_FIRE_PCT,Chance of lasting fire +%d%%,Szansa na Podpalenie +%d%%,Πιθανότητα διαρκούς φωτιάς +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_CONVERT_DAMAGE_TO_SP,+%d%% of damage will be taken from SP,+%d%% obrażeń zostanie odebranych z PE,Το +%d%% της ζημιάς αφαιρείται από τα SP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEF_BONUS,Defence Boost +%d%%,Wzmocnienie Obrony +%d%%,Ενίσχυση άμυνας +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DROP_RARE,Chance of capturing items with a bonus +%d%%,Szansa na zdobycie przedmiotu z bonusem +%d%%,Πιθανότητα απόκτησης αντικειμένων με μπόνους +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POINT_CURSE_PCT,Received Damage +%d%%,Otrzymywane Obrażenia +%d%%,Ζημιά που δέχεσαι +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT_GRADE_MONSTER,+%d magic damage against monsters,+%d obrażeń magicznych przeciwko potworom,+%d μαγική ζημιά κατά τεράτων,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POINT_ATT_SPECIAL,Damage against Bosses/Mini-Bosses/Metins +%d%%,Obrażenia przeciwko Bossom/MiniBossom/Metinom +%d%%,Ζημιά κατά αρχηγών/μίνι αρχηγών/Μέτιν +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_RARE_PCT,%d%% chance of a random bonus.,%d%% na losowy bonus.,%d%% πιθανότητα για τυχαίο μπόνους.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_SPRINT,|Eshortcut/shift|e - activate,|Eshortcut/shift|e - aktywuj,|Eshortcut/shift|e - ενεργοποίηση,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:TOOLTIP_NEED_STAMINA,Needed Endurance: %d,Wymagane ST: %d,Απαιτούμενη αντοχή: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_NEED_STAMINA_PER_SEC,Endurance / Sec.: %d,Stamina / sek.: %d,Αντοχή / δευτ.: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_GROUP,Group: %s,Grupa: %s,Ομάδα: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_POTION_GROUP_GENERAL_USE,General,Ogólne,Γενικά,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_GROUP_BOOST,Boost (max. 5),Wzmocnienie (max. 5),Ενίσχυση (μέγ. 5),client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_GROUP_OFFENSIVE,Offensive (max. 3),Ofensywne (max. 3),Επιθετικό (μέγ. 3),client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_GROUP_DEFENSIVE,Defensive (max. 2),Defensywne (max. 2),Αμυντικό (μέγ. 2),client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_GROUP_FOOD,Food (max. 2),Jedzenie (max. 2),Τροφή (μέγ. 2),client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_COOLDOWN,Reusable after %s,Ponowne użycie po %s,Επαναχρησιμοποιείται μετά από %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CHAT_TRADE,Trade,Handel,Εμπόριο,client: game texts (localeInfo),done
+c:locale_game:COMB_COST,Price: %s,Cena: %s,Τιμή: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CRAFTING_FILTER_ALL,All,Wszystko,Όλα,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,Μιριάνγκ,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,Σονγκπά,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,Ντεγιάμι,client: game texts (localeInfo),done
+c:locale_game:ITEM_ACTON_DELETE,Delete,Usuń,Διαγραφή,client: game texts (localeInfo),done
+c:locale_game:MAP_BAYBLACKSAND,Nephrite Bay,Nefrytowa Zatoka,Όρμος Νεφρίτη,client: game texts (localeInfo),done
+c:locale_game:MAP_CAPEDRAGONHEAD,Cape Dragon Fire,Przylądek Smoczego Ognia,Ακρωτήριο Φωτιάς του Δράκου,client: game texts (localeInfo),done
+c:locale_game:MAP_DAWNMISTWOOD,Gautama Cliff,Klif Gautama,Γκρεμός Γκαουτάμα,client: game texts (localeInfo),done
+c:locale_game:MAP_DEVILCATACOMB,Devil's Catacomb,Diabelskie Katakumby,Κατακόμβη του Διαβόλου,client: game texts (localeInfo),done
+c:locale_game:MAP_DEVILTOWER1,Demon Tower,Wieża Demonów,Πύργος των Δαιμόνων,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,Τζουνγκράνγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_02,Waryong,Waryong,Γουαριόνγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_03,Imha,Imha,Ιμχά,client: game texts (localeInfo),done
+c:locale_game:MAP_MILGYO,Hwang Temple,Świątynia Hwang,Ναός Χουάνγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,Χασούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,Τζουνγκσούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,Σανγκσούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,Χασούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,Χασούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,Χασούν Ντονγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_MT_THUNDER,Thunder Mountains,Gromiste Góry,Βουνά της Βροντής,client: game texts (localeInfo),done
+c:locale_game:MAP_NUSLUCK01,Land of Giants,Kraina Gigantów,Χώρα των Γιγάντων,client: game texts (localeInfo),done
+c:locale_game:MAP_N_DESERT_01,Yongbi Desert,Pustynia Yongbi,Έρημος Γιόνγκμπι,client: game texts (localeInfo),done
+c:locale_game:MAP_N_FLAME_01,Doyyumhwan,Ognista Ziemia,Ντογιουμχουάν,client: game texts (localeInfo),done
+c:locale_game:MAP_N_FLAME_DUNGEON_01,Red Dragon Fortress,Twierdza Czerwonego Smoka,Φρούριο του Κόκκινου Δράκου,client: game texts (localeInfo),done
+c:locale_game:MAP_N_SNOWM_01,Mount Sohan,Góra Sohan,Όρος Σοχάν,client: game texts (localeInfo),done
+c:locale_game:MAP_N_SNOW_DUNGEON_01,Nemere's Watchtower,Strażnica Nemere,Παρατηρητήριο του Νεμέρε,client: game texts (localeInfo),done
+c:locale_game:MAP_N_THREEWAY,Valley of Seungryong,Dolina Seungryong,Κοιλάδα Σεουνγκριόνγκ,client: game texts (localeInfo),done
+c:locale_game:MAP_SKIPIA_DUNGEON_01,Grotto of Exile,Grota Wygnańców,Σπήλαιο της Εξορίας,client: game texts (localeInfo),done
+c:locale_game:MAP_SKIPIA_DUNGEON_02,Grotto of Exile,Grota Wygnańców,Σπήλαιο της Εξορίας,client: game texts (localeInfo),done
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS_1,Spider Dungeon 1,Loch Pająków 1,Μπουντρούμι των Αράχνων 1,client: game texts (localeInfo),done
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS_2,Spider Dungeon 2,Loch Pająków 2,Μπουντρούμι των Αράχνων 2,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDERDUNGEON,Spider Dungeon 1,Loch Pająków 1,Μπουντρούμι των Αράχνων 1,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDERDUNGEON_02,Spider Dungeon 2,Loch Pająków 2,Μπουντρούμι των Αράχνων 2,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDERDUNGEON_02_1,Spider Dungeon 2,Loch Pająków 2,Μπουντρούμι των Αράχνων 2,client: game texts (localeInfo),done
+c:locale_game:MAP_TRENT,Ghost Wood,Las Duchów,Δάσος των Φαντασμάτων,client: game texts (localeInfo),done
+c:locale_game:MAP_TRENT02_A,Red Forest,Czerwony Las,Κόκκινο Δάσος,client: game texts (localeInfo),done
+c:locale_game:MAP_WL_01,Snakefield,Wężowe Pole,Πεδίο των Φιδιών,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_CANCEL,Cancel,Anuluj,Ακύρωση,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_SELECT,OK,OK,OK,client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_ITEM_WEAPON,Weapon,Broń,Όπλο,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,Ουδέτερος,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_RANK1,Friendly,Przyjazny,Φιλικός,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_QUEST,Missions,Misje,Αποστολές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY4,Shoes,Buty,Παπούτσια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_CHAR,Character,Postać,Χαρακτήρας,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_QUEST,Missions,Misje,Αποστολές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_TOITEM,Reinforce Item,Wzmocnienie Przedmiotu,Ενίσχυση αντικειμένου,client: game texts (localeInfo),done
+c:locale_game:SKILL_AMBUSH,Ambush,Zasadzka,Ενέδρα,client: game texts (localeInfo),done
+c:locale_game:SKILL_ARROW_SHOWER,Arrow Shower,Deszcz Strzał,Βροχή βελών,client: game texts (localeInfo),done
+c:locale_game:SKILL_BASH,Bash,Walnięcie,Δυνατό χτύπημα,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHARGE,Dash,Szarża,Εφόρμηση,client: game texts (localeInfo),done
+c:locale_game:SKILL_CURE,Cure,Leczenie,Ίαση,client: game texts (localeInfo),done
+c:locale_game:SKILL_DARK_ORB,Dark Orb,Mroczna Sfera,Σκοτεινή σφαίρα,client: game texts (localeInfo),done
+c:locale_game:SKILL_DARK_STRIKE,Dark Strike,Mroczne Uderzenie,Σκοτεινό χτύπημα,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_ROAR,Dragon's Roar,Smoczy Skowyt,Βρυχηθμός του δράκου,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_SWIRL,Dragon Swirl,Smoczy Wir,Δίνη του δράκου,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAST_ATTACK,Fast Attack,Szybki Atak,Γρήγορη επίθεση,client: game texts (localeInfo),done
+c:locale_game:SKILL_FINGER_STRIKE,Finger Strike,Uderzenie Palcem,Χτύπημα με δάχτυλο,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_STRIKE,Flame Strike,Ogniste Uderzenie,Χτύπημα φλόγας,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLYING_TALISMAN,Flying Talisman,Latający Talizman,Ιπτάμενο φυλαχτό,client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_CLAW,Lightning Claw,Burzowy Szpon,Νύχι κεραυνού,client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_THROW,Lightning Throw,Rzut Piorunem,Ρίψη κεραυνού,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_ARROW,Poison Arrow,Trująca Strzała,Δηλητηριώδες βέλος,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_CLOUD,Poisonous Cloud,Trująca Chmura,Δηλητηριώδες σύννεφο,client: game texts (localeInfo),done
+c:locale_game:SKILL_REFLECT,Reflect,Odbicie,Αντανάκλαση,client: game texts (localeInfo),done
+c:locale_game:SKILL_REPETITIVE_SHOT,Repetitive Shot,Powtarzalny Strzał,Επαναλαμβανόμενη βολή,client: game texts (localeInfo),done
+c:locale_game:SKILL_ROLLING_DAGGER,Rolling Dagger,Wirujący Sztylet,Περιστρεφόμενο στιλέτο,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHOOTING_DRAGON,Shooting Dragon,Strzelający Smok,Δράκος βολής,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_ORB,Spirit Strike (S),Duchowy Cios,Πνευματικό χτύπημα (S),client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_STRIKE,Spirit Strike (W),Duchowe Uderzenie,Πνευματικό χτύπημα (W),client: game texts (localeInfo),done
+c:locale_game:SKILL_STUMP,Stump,Tąpnięcie,Ποδοπάτημα,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_LIGHTNING,Summon Lightning,Przywołanie błyskawicy,Κάλεσμα κεραυνού,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_STRIKE,Sword Strike,Uderzenie Miecza,Χτύπημα ξίφους,client: game texts (localeInfo),done
+c:locale_game:SKILL_THREEWAY_CUT,Three-Way Cut,Trzystronne Cięcie,Τριπλό κόψιμο,client: game texts (localeInfo),done
+c:locale_game:SKILL_WHIRLWIND,Sword Spin,Wir Miecza,Περιστροφή ξίφους,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ARROW_DAMAGE_BONUS,Attack Value: %d,Wartość ataku: %d,Τιμή επίθεσης: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:WHISPER_BAN,Block,Blokuj,Αποκλεισμός,client: game texts (localeInfo),done
+c:locale_game:AFFECT_NEAR_END,< 10 sec,< 10 sek,< 10 δευτ,client: game texts (localeInfo),done
+c:locale_game:ASSASSIN_ARCHER_DESCRIPTION,Can shoot several targets at once.,Potrafi strzelać w kilka celów jednocześnie.,Μπορεί να χτυπήσει πολλούς στόχους ταυτόχρονα.,client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE,Defensive,Defensywne,Αμυντικό,client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE_MONSTER,Defensive (against monsters),Defensywne (przeciwko Potworom),Αμυντικό (κατά τεράτων),client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE_PLAYER,Defensive (against players),Defensywne (przeciwko Graczom),Αμυντικό (κατά παικτών),client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE,Offensive,Ofensywne,Επιθετικό,client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE_MONSTER,Offensive (against monsters),Ofensywne (przeciwko Potworom),Επιθετικό (κατά τεράτων),client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE_PLAYER,Offensive (against players),Ofensywne (przeciwko Graczom),Επιθετικό (κατά παικτών),client: game texts (localeInfo),done
+c:locale_game:ATTRIBUTE_LIST_OTHER,Other,Inne,Άλλο,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SELL_ITEM_HERE,The merchant is not interested in this item.,Handlarz nie jest zainteresowany tym przedmiotem.,Ο έμπορος δεν ενδιαφέρεται για αυτό το αντικείμενο.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_ST,I do not have enough stamina!,Nie mam wystarczającej ilości ST!,Δεν έχω αρκετή αντοχή!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ON_DEBUFF,I cannot use this while another effect lasts.,Nie mogę użyć w trakcie trwania innego efektu.,Δεν μπορώ να το χρησιμοποιήσω όσο διαρκεί άλλη επίδραση.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_RED,"While the Indigo Wolf Soul is active, you cannot use the Purple Wolf Soul.","Gdy aktywna jest Dusza Wilka Indygo, nie możesz użyć Duszy Purpurowego Wilka.","Όσο είναι ενεργή η Ψυχή του λουλακί λύκου, δεν μπορείς να χρησιμοποιήσεις την Ψυχή του μωβ λύκου.",client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_LOW_LEVEL,Without a Premium account you can whisper from level 15 and 1000 monsters killed.,Szept bez konta Premium dostępny jest od 15 poziomu i 1000 zabitych potworów.,Χωρίς λογαριασμό premium μπορείς να ψιθυρίζεις από το επίπεδο 15 και αφού σκοτώσεις 1000 τέρατα.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_YOU_ARE_BLOCKED,The player you want to whisper to has blocked you.,Zostałeś zablokowany przez gracza do którego chcesz szeptać.,Ο παίκτης στον οποίο θέλεις να ψιθυρίσεις σε έχει αποκλείσει.,client: game texts (localeInfo),done
+c:locale_game:CAPTCHA_LEFT_LABEL,Attempts left: %d,Pozostało prób: %d,Υπόλοιπες προσπάθειες: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CAPTCHA_TIME_LABEL,Time left: %s seconds,Pozostało: %s sekund,Υπόλοιπος χρόνος: %s δευτερόλεπτα,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CHANGE_PLAYER_NAME,Change character name,Zmiana nazwy postaci,Αλλαγή ονόματος χαρακτήρα,client: game texts (localeInfo),done
+c:locale_game:CHANGE_PLAYER_NAME_ERROR,The character name is invalid.,Nazwa Postaci jest niepoprawna.,Το όνομα του χαρακτήρα δεν είναι έγκυρο.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_99,Special Channel,Kanał Specjalny,Ειδικό κανάλι,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_STATUS_BUSY,BUSY,BUSY,ΦΟΡΤΩΜΕΝΟ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_STATUS_FULL,FULL,FULL,ΓΕΜΑΤΟ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_STATUS_OFFLINE,OFF,OFF,ΚΛΕΙΣΤΟ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,ΚΑΝΟΝ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SWITCH_PREMIUM_ERROR,This channel is only for Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,Αυτό το κανάλι είναι μόνο για λογαριασμούς premium.,client: game texts (localeInfo),done
+c:locale_game:CHARACTER_CREATE_MODE,Create a character,Utwórz postać,Δημιουργία χαρακτήρα,client: game texts (localeInfo),done
+c:locale_game:CHARACTER_SELECT_MODE,Choose a character,Wybierz postać,Επιλογή χαρακτήρα,client: game texts (localeInfo),done
+c:locale_game:CHAT_TRADE_LIMIT,The trade chat takes one message every 30 seconds.,Czat handlowy posiada ograniczenie 30 sekund od poprzedniej wiadomości.,Η συνομιλία εμπορίου δέχεται ένα μήνυμα κάθε 30 δευτερόλεπτα.,client: game texts (localeInfo),done
+c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),done
+c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),done
+c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,Yang,client: game texts (localeInfo),done
+c:locale_game:COMB_CANT_APPEND_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,Αυτό το αντικείμενο δεν μπορεί να χρησιμοποιηθεί.,client: game texts (localeInfo),done
+c:locale_game:COMB_CANT_APPEND_SEALED_ITEM,You cannot use a soulbound item.,Nie możesz używać przedmiotu przywiązanego do duszy.,Δεν μπορείς να χρησιμοποιήσεις αντικείμενο δεμένο με την ψυχή.,client: game texts (localeInfo),done
+c:locale_game:COMB_IS_CONTINUE_PROCESS,Do you want to continue?,Chcesz kontynuować?,Θέλεις να συνεχίσεις;,client: game texts (localeInfo),done
+c:locale_game:COMB_NOTICE,You cannot open a private shop while exchanging books.,Nie możesz otworzyć prywatnego sklepu podczas wymiany ksiąg.,Δεν μπορείς να ανοίξεις ιδιωτικό κατάστημα ενώ ανταλλάσσεις βιβλία.,client: game texts (localeInfo),done
+c:locale_game:COMB_NOTICE_NOT_OPEN,You cannot exchange books while your private shop is open.,"Nie możesz wymienić ksiąg, gdy masz otwarty prywatny sklep.",Δεν μπορείς να ανταλλάξεις βιβλία ενώ το ιδιωτικό σου κατάστημα είναι ανοιχτό.,client: game texts (localeInfo),done
+c:locale_game:COMB_NOT_ALL_SLOT_APPEND_ITEM,You need a second costume to transfer the bonuses.,"Aby przekazać bonusy, potrzebujesz 2. kostiumu.",Χρειάζεσαι δεύτερη στολή για να μεταφέρεις τα μπόνους.,client: game texts (localeInfo),done
+c:locale_game:COMB_NOT_FULL_BOOK,"No, that is no deal. I told you already: I want 10 books for an exchange.","Nie, tak to nie ubijemy interesu. Już ci przecież wytłumaczyłem, że chcę 10 ksiąg, aby dokonać wymiany.","Όχι, αυτό δεν είναι συμφωνία. Σου το είπα ήδη: θέλω 10 βιβλία για μια ανταλλαγή.",client: game texts (localeInfo),done
+c:locale_game:COMB_NOT_ITEM_IN_INVENTORY,You cannot use equipped items.,Nie możesz używać założonych przedmiotów.,Δεν μπορείς να χρησιμοποιήσεις εξοπλισμένα αντικείμενα.,client: game texts (localeInfo),done
+c:locale_game:COMB_NOT_MEDIUM_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,Αυτό το αντικείμενο δεν μπορεί να χρησιμοποιηθεί.,client: game texts (localeInfo),done
+c:locale_game:COMB_WILL_REMOVE_MATERIAL,Costume 2 will be destroyed.,Kostium 2 ulegnie zniszczeniu.,Η στολή 2 θα καταστραφεί.,client: game texts (localeInfo),done
+c:locale_game:CONFIG_FONT_OPTION1,Default,Domyślna,Προεπιλογή,client: game texts (localeInfo),done
+c:locale_game:CONFIG_FONT_OPTION2,Large,Duża,Μεγάλο,client: game texts (localeInfo),done
+c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,Arial,client: game texts (localeInfo),done
+c:locale_game:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Ορισμένες αλλαγές απαιτούν επανεκκίνηση. Συνέχεια;,client: game texts (localeInfo),done
+c:locale_game:CONFIG_SCALE_MODE_WARNING,"* NOTE * Experimental option![ENTER]Interface scaling can lower the quality[ENTER]of the interface (graphics, font).[ENTER]|cff8ab98eGreen|r means the scaling MAY be the best fit.[ENTER]|cffe57976Red|r means the scaling may leave[ENTER]the game unresponsive.","* UWAGA * Opcja eksperymentalna![ENTER]Tryb Skalowania interfejsu może prowadzić do obniżenia[ENTER]jakości interfejsu (elementy graficzne, czcionka).[ENTER]Kolor |cff8ab98ezielony|r oznacza, że skalowanie MOŻE BYĆ najoptymalniejsze.[ENTER]Kolor |cffe57976czerwony|r oznacza, że skalowanie może doprowadzić[ENTER]do braku responsywności gry.","* ΣΗΜΕΙΩΣΗ * Πειραματική επιλογή![ENTER]Η κλιμάκωση της διεπαφής μπορεί να μειώσει[ENTER]την ποιότητά της (γραφικά, γραμματοσειρά).[ENTER]Το |cff8ab98eπράσινο|r σημαίνει ότι η κλιμάκωση ΙΣΩΣ ταιριάζει καλύτερα.[ENTER]Το |cffe57976κόκκινο|r σημαίνει ότι η κλιμάκωση μπορεί να κάνει[ENTER]το παιχνίδι να μην αποκρίνεται.",client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,done
+c:locale_game:CONFIRM_DELETE_ITEM_QUESTION,Do you want to delete %dx %s?,Czy chcesz usunąć %dx %s?,Θέλεις να διαγράψεις %dx %s;,client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:CONFIRM_DELETE_ITEM_QUESTION2,This cannot be undone!,Proces jest nieodwracalny!,Αυτό δεν μπορεί να αναιρεθεί!,client: game texts (localeInfo),done
+c:locale_game:CRAFTING_ATTR_CHANGER_INFO,Note![ENTER]The price of crafting Enchant Items changes.[ENTER]It depends on the state of the economy[ENTER]and is watched by the administration.,Uwaga![ENTER]Cena wytworzenia zmianek jest zmienna.[ENTER]Jej cena zależy od obecnego stanu gospodarki[ENTER]i jest stale monitorowana przez administrację.,Προσοχή![ENTER]Η τιμή κατασκευής αντικειμένων μαγέματος αλλάζει.[ENTER]Εξαρτάται από την κατάσταση της οικονομίας[ENTER]και παρακολουθείται από τη διαχείριση.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:CRAFTING_FILTER_AVAILABLE,Available,Dostępne,Διαθέσιμο,client: game texts (localeInfo),done
+c:locale_game:CRAFTING_FILTER_NOT_AVAILABLE,Unavailable,Niedostępne,Μη διαθέσιμο,client: game texts (localeInfo),done
+c:locale_game:CRAFTING_ITEM_NOT_AVAILABLE,The item is not available.,Przedmiot jest niedostępny.,Το αντικείμενο δεν είναι διαθέσιμο.,client: game texts (localeInfo),done
+c:locale_game:CRAFTING_REQUIRE_LEVEL,Character level %d required.,Wymagany %d poziom postaci.,Απαιτείται επίπεδο χαρακτήρα %d.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CRAFTING_REQUIRE_RECIPE,Recipe knowledge required (%d/%d),Wymagana znajomość receptury (%d/%d),Απαιτείται γνώση συνταγής (%d/%d),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:CRAFTING_SELECT_ITEM,Select an item.,Wybierz przedmiot.,Διάλεξε ένα αντικείμενο.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_LIMIT_LEVEL,Your character must be at least level 80.,Twoja postać musi znajdować się przynajmniej na poziomie 80.,Ο χαρακτήρας σου πρέπει να είναι τουλάχιστον επιπέδου 80.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_TIME_LIMIT,You can create a new character only every 30 seconds.,Możesz tworzyć nową postać tylko co 30 sek.,Μπορείς να δημιουργείς νέο χαρακτήρα μόνο κάθε 30 δευτερόλεπτα.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_WRONG_STRING,Your character name cannot contain special characters.,Nazwa twojej postaci nie może zawierać znaków specjalnych.,Το όνομα του χαρακτήρα σου δεν μπορεί να περιέχει ειδικούς χαρακτήρες.,client: game texts (localeInfo),done
+c:locale_game:CREATE_FULL,You cannot create any more characters.,Nie możesz tworzyć więcej postaci.,Δεν μπορείς να δημιουργήσεις άλλους χαρακτήρες.,client: game texts (localeInfo),done
+c:locale_game:CREDENTIALS_FILL,Enter your login and password to save them.,"Podaj login i hasło, aby je zapisać.",Πληκτρολόγησε το όνομα σύνδεσης και τον κωδικό για να τα αποθηκεύσεις.,client: game texts (localeInfo),done
+c:locale_game:DONT_USE_ITEM_WHEN_SHOW_CONFIRM,You cannot move items while a question is open.,Nie możesz przemieszczać przedmiotów w trakcie zapytania.,Δεν μπορείς να μετακινήσεις αντικείμενα όσο υπάρχει ανοιχτή ερώτηση.,client: game texts (localeInfo),done
+c:locale_game:DO_YOU_BUY_ITEM_ALL_SIMILAR,(Buy every item of this kind),(Kup wszystkie przedmioty tego typu),(Αγόρασε κάθε αντικείμενο αυτού του είδους),client: game texts (localeInfo),done
+c:locale_game:DURATION1,Very short,Bardzo krótko,Πολύ σύντομη,client: game texts (localeInfo),done
+c:locale_game:DURATION2,Short,Krótko,Σύντομη,client: game texts (localeInfo),done
+c:locale_game:DURATION3,Medium,Średnio,Μέτρια,client: game texts (localeInfo),done
+c:locale_game:DURATION4,Long,Długo,Μεγάλη,client: game texts (localeInfo),done
+c:locale_game:DURATION5,Very long,Bardzo długo,Πολύ μεγάλη,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_SELECT_MODE,Choose a kingdom,Wybierz królestwo,Διάλεξε βασίλειο,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_TITLE_LEVEL,Trade with %s (%d),Handluj z %s (%d),Συναλλαγή με %s (%d),client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:EXIT_GUILD_WAR_ASK,Do you want to leave the guild war?,Czy chcesz opuścić wojnę gildii?,Θέλεις να αποχωρήσεις από τον πόλεμο συντεχνιών;,client: game texts (localeInfo),done
+c:locale_game:FAST_STAT_ADD_TITLE,Quick stat allocation,Szybkie rozdanie statystyk,Γρήγορη κατανομή πόντων,client: game texts (localeInfo),done
+c:locale_game:FIRST_SHOUT_TIP,Only players of your kingdom see the SHOUT chat.[ENTER]The global chat is the trade chat (write |cffffd000@|rmessage)[ENTER] [ENTER]NOTE![ENTER]The trade chat is for trade offers only.[ENTER]Other messages may be punished with a chat ban.,Czat WOŁAJ widzą tylko gracze z Twojego królestwa.[ENTER]Czatem globalnym jest czat handlowy (napisz |cffffd000@|rwiadomość)[ENTER] [ENTER]UWAGA![ENTER]Czat handlowy służy tylko do ofert handlowych.[ENTER]Inne wiadomości mogą zostać ukarane czasową blokadą czatu.,Τη συνομιλία ΚΡΑΥΓΗΣ τη βλέπουν μόνο οι παίκτες του βασιλείου σου.[ENTER]Η γενική συνομιλία είναι η συνομιλία εμπορίου (γράψε |cffffd000@|rμήνυμα)[ENTER] [ENTER]ΠΡΟΣΟΧΗ![ENTER]Η συνομιλία εμπορίου είναι μόνο για προσφορές εμπορίου.[ENTER]Άλλα μηνύματα μπορεί να τιμωρηθούν με αποκλεισμό συνομιλίας.,client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,done
+c:locale_game:FISHING_CHANCE_BONUS,Chance of a successful catch +%d%%,Szansa na pomyślne wyłowienie +%d%%,Πιθανότητα επιτυχημένου πιασίματος +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:FISHING_GAME_TUTORIAL_QUESTION1,Congratulations! Do you want to see the guide,Gratulacje! Czy chcesz wyświetlać poradnik,Συγχαρητήρια! Θέλεις να δεις τον οδηγό,client: game texts (localeInfo),done
+c:locale_game:FISHING_GAME_TUTORIAL_QUESTION2,when you fish again?,przy kolejnych próbach łowienia?,όταν ψαρέψεις ξανά;,client: game texts (localeInfo),done
+c:locale_game:FISHING_POOL_BONUS,Fishing pool bonus +%d,Bonus puli rybołówstwa +%d,Μπόνους ψαρότοπου +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GATHER_SKILL_BONUS,Chance of picking a flower +%d%%,Szansa na zerwanie kwiatu +%d%%,Πιθανότητα να μαζέψεις λουλούδι +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GUILD_WAR1,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR2,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR3,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR4,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:HERB_CRAFT_CATEGORY_BOOST,Boosting,Wzmacniające,Ενίσχυση,client: game texts (localeInfo),done
+c:locale_game:HERB_CRAFT_CATEGORY_DEFENSIVE,Defensive,Defensywne,Αμυντικό,client: game texts (localeInfo),done
+c:locale_game:HERB_CRAFT_CATEGORY_OFFENSIVE,Offensive,Ofensywne,Επιθετικό,client: game texts (localeInfo),done
+c:locale_game:HIDE_INTERFACE_TIP,CTRL+TAB - Show the interface again.,CTRL+TAB - Przywróć interfejs.,CTRL+TAB - Εμφάνιση της διεπαφής ξανά.,client: game texts (localeInfo),done
+c:locale_game:HORSE_INVENTORY_LOCKED,Reach riding level 1[ENTER]and talk to the Stable Boy.,Osiągnij 1 poziom jeździectwa[ENTER]i porozmawiaj ze Stajennym.,Φτάσε στο επίπεδο ιππασίας 1[ENTER]και μίλησε με τον σταβλίτη.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:HORSE_INVENTORY_UNLOCK_INFO,Meet the requirements to unlock more slots.,"Spełnij wymagania, aby odblokować dodatkowe miejsca.",Κάλυψε τις προϋποθέσεις για να ξεκλειδώσεις περισσότερες θέσεις.,client: game texts (localeInfo),done
+c:locale_game:HORSE_INVENTORY_UNLOCK_LEVEL_REQ,Riding level %d required,Wymagany %d Poziom Jeździectwa,Απαιτείται επίπεδο ιππασίας %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:HOUR_SHORT,h,g.,ώ,client: game texts (localeInfo),done
+c:locale_game:INTRO_CREATE_ACTIVE_SKILLS_TITLE,Active Skills,Aktywne Umiejętności,Ενεργές ικανότητες,client: game texts (localeInfo),done
+c:locale_game:INTRO_CREATE_OTHER,Other,Inne,Άλλο,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_BUY_BUTTON,Buy %d (%s),Kup %d (%s),Αγορά %d (%s),client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:ITEMSHOP_CATEGORY_ADD_COINS,Top up DC!,Doładuj SM!,Αναπλήρωσε DC!,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_BOOSTERS,Potions,Mikstury,Φίλτρα,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_DRAGON_MARK,Dragon Marks,Smocze Znaki,Σήματα δράκου,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_DRAGON_VOUCHERS,DC Vouchers,Kupony SM,Κουπόνια DC,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_EQUIPMENT,Equipment,Wyposażenie,Εξοπλισμός,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_FEATURED,Featured,Polecane,Προτεινόμενα,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_HAIR,Hairstyles,Fryzury,Χτενίσματα,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_MARRIAGE,Marriage,Małżeństwo,Γάμος,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_REFINE,Upgrading,Uszlachetnianie,Αναβάθμιση,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_SCROLLS_AND_BOOKS,Scrolls and books,Zwoje i księgi,Πάπυροι και βιβλία,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_SUBSCRIPTION,Premium Account,Konto Premium,Λογαριασμός premium,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_TIMED,Flash Offers,Oferty Błyskawiczne,Αστραπιαίες προσφορές,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_USE_VOUCHER,Redeem a voucher,Wykorzystaj voucher,Εξαργύρωση κουπονιού,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,VIP,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CHECK,Check,Sprawdź,Έλεγχος,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CONFIM_BUY,Do you want to buy %s (x%d) for %s?,Czy chcesz kupić %s (szt. %d) za %s?,Θέλεις να αγοράσεις %s (x%d) για %s;,client: game texts (localeInfo) | keep: %s %d %s,done
+c:locale_game:ITEMSHOP_EVENT_HAPPYHOUR,Happy Hour,Happy Hour,Happy hour,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_HAPPYHOUR_ITEM_DESCRIPTION,|cffe093f5Happy Hour|r is on! During the event[ENTER]a top-up gives you |cffe093f5+%d%%|r more DC![ENTER]The event lasts until |cffe093f5%s|r.,Obecnie trwa |cffe093f5Happy Hour|r! W ramach wydarzenia[ENTER]przy doładowaniu otrzymasz |cffe093f5+%d%%|r więcej SM![ENTER]Wydarzenie trwa do |cffe093f5%s|r.,Ξεκίνησε η |cffe093f5Happy hour|r! Κατά τη διάρκεια της εκδήλωσης[ENTER]μια αναπλήρωση σου δίνει |cffe093f5+%d%%|r περισσότερα DC![ENTER]Η εκδήλωση διαρκεί έως |cffe093f5%s|r.,client: game texts (localeInfo) | keep: %d %s; |c...|r colour codes; [ENTER] = new line,done
+c:locale_game:ITEMSHOP_MIN_LEVEL,Level required to buy: %d,Wymagany poziom do zakupu: %d,Απαιτούμενο επίπεδο για αγορά: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_NO_AUCTIONS,There are no flash offers right now.,Obecnie nie ma żadnych ofert błyskawicznych.,Δεν υπάρχουν αστραπιαίες προσφορές αυτή τη στιγμή.,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NO_DESCRIPTION,Hover over an item to see its description.,"Najedź myszką na przedmiot, aby zobaczyć opis.",Πέρασε τον δείκτη πάνω από ένα αντικείμενο για να δεις την περιγραφή του.,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_SEARCH_DRAGON_VOUCHER_DESC,You can quickly find every[ENTER]DC voucher in the players' shops.[ENTER]See where you can buy a voucher.,"Możesz w szybki sposób wyszukać wszystkie[ENTER]kupony SM na rynku sklepów graczy.[ENTER]Sprawdź, gdzie możesz kupić kupon.",Μπορείς να βρεις γρήγορα κάθε[ENTER]κουπόνι DC στα καταστήματα των παικτών.[ENTER]Δες πού μπορείς να αγοράσεις κουπόνι.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:ITEMSHOP_SEARCH_DRAGON_VOUCHER_TITLE,Find DC Vouchers!,Znajdź Kupony SM!,Βρες κουπόνια DC!,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_SEARCH_PLACEHOLDER,Search the whole shop,Szukaj przedmiotu w całym sklepie,Αναζήτηση σε όλο το κατάστημα,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_SUBSCRIPTION_ITEM_DESCRIPTION,"See the |cffffb62ePremium account|r offer,[ENTER]the best choice for most players.","Sprawdź ofertę |cffffb62ekonta premium|r,[ENTER]to najlepszy wybór dla większości graczy.","Δες την προσφορά |cffffb62eλογαριασμού premium|r,[ENTER]την καλύτερη επιλογή για τους περισσότερους παίκτες.",client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,done
+c:locale_game:ITEMSHOP_TASKBAR_TOOLTIP,ItemShop,ItemShop,Κατάστημα αντικειμένων,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_TIME_ACCOUNT_LIMIT,|cff0084ffLimit of %d purchases per account.|r,|cff0084ffLimit %d zakupów na konto.|r,|cff0084ffΌριο %d αγορών ανά λογαριασμό.|r,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,done
+c:locale_game:ITEMSHOP_TIME_AUCTION_END,Ends in %s,Koniec za %s,Λήγει σε %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_TIME_AUCTION_START,Starts in %s,Zaczyna się za %s,Ξεκινά σε %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_TIME_EVENT_ITEM_DESCRIPTION,Grab the |cff2b80ffflash offers|r![ENTER]The auctions last until |cff2b80ff%s|r at the latest[ENTER]or while stocks last.,Skorzystaj z |cff2b80ffofert błyskawicznych|r![ENTER]Aukcje trwają najpóźniej do |cff2b80ff%s|r[ENTER]lub do wyczerpania zapasów.,Άρπαξε τις |cff2b80ffαστραπιαίες προσφορές|r![ENTER]Οι δημοπρασίες διαρκούν το αργότερο έως |cff2b80ff%s|r[ENTER]ή μέχρι εξαντλήσεως των αποθεμάτων.,client: game texts (localeInfo) | keep: %s; |c...|r colour codes; [ENTER] = new line,done
+c:locale_game:ITEMSHOP_TIME_ITEM_EVENT_END,Auction ended,Aukcja zakończona,Η δημοπρασία έληξε,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_TIME_PROGRESS_TOOLTIP,%d%% of the stock left.,Pozostało %d%% depozytu.,Απομένει το %d%% του αποθέματος.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_USE_VOUCHER,Redeem,Wykorzystaj,Εξαργύρωση,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_USE_VOUCHER_PLACEHOLDER,Enter the code...,Podaj kod...,Πληκτρολόγησε τον κωδικό...,client: game texts (localeInfo),done
+c:locale_game:ITEM_ACTION_DROP,Drop,Wyrzuć,Ρίψη,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_MAX_ITEM_COUNT,You cannot add any more items.,Nie możesz dodać więcej przedmiotów.,Δεν μπορείς να προσθέσεις άλλα αντικείμενα.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_NO_ITEM,Add an item to exchange.,Dodaj przedmiot do wymiany.,Πρόσθεσε ένα αντικείμενο για ανταλλαγή.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_REFINEITEM,Add an upgrade item to exchange.,Dodaj ulepszacz do wymiany.,Πρόσθεσε ένα αντικείμενο αναβάθμισης για ανταλλαγή.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_SKILLBOOK,Add a Skill Book to exchange.,Dodaj Księgę Umiejętności do wymiany.,Πρόσθεσε ένα βιβλίο ικανότητας για ανταλλαγή.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_SOUL_STONE,Add a Spirit Stone to exchange.,Dodaj Kamień Duszy do wymiany.,Πρόσθεσε έναν λίθο πνεύματος για ανταλλαγή.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM,You cannot exchange this item.,Nie możesz wymienić tego przedmiotu.,Δεν μπορείς να ανταλλάξεις αυτό το αντικείμενο.,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_BOOK,"You cannot exchange this item (Skill Books, Forgetting Books or Recipes only).",Nie możesz wymienić tego przedmiotu (tylko Księgi Umiejętności/Zapomnienia lub Receptury).,"Δεν μπορείς να ανταλλάξεις αυτό το αντικείμενο (μόνο βιβλία ικανοτήτων, βιβλία λήθης ή συνταγές).",client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_REFINEITEM,You cannot exchange this item (upgrade items only).,Nie możesz wymienić tego przedmiotu (tylko Ulepszacze).,Δεν μπορείς να ανταλλάξεις αυτό το αντικείμενο (μόνο αντικείμενα αναβάθμισης).,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_SKILLBOOK,You cannot exchange this item (Skill Books only).,Nie możesz wymienić tego przedmiotu (tylko Księgi Umiejętności).,Δεν μπορείς να ανταλλάξεις αυτό το αντικείμενο (μόνο βιβλία ικανοτήτων).,client: game texts (localeInfo),done
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_SOULSTONE,You cannot exchange this item (Spirit Stones only).,Nie możesz wymienić tego przedmiotu (tylko Kamienie Duszy).,Δεν μπορείς να ανταλλάξεις αυτό το αντικείμενο (μόνο λίθοι πνεύματος).,client: game texts (localeInfo),done
+c:locale_game:ITEM_ROD_BAIT,Bait: %s,Przynęta: %s,Δόλωμα: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEM_UNEQUIP_DESTROY_WARNING,Taking this item off destroys it.,Zdjęcie tego przedmiotu spowoduje jego usunięcie.,"Αν βγάλεις αυτό το αντικείμενο, καταστρέφεται.",client: game texts (localeInfo),done
+c:locale_game:LEFT_USE_TIME,Remaining Time of Use,Pozostały Czas Używania,Υπολειπόμενος χρόνος χρήσης,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_DISPUTE,The account is blocked until a dispute is settled.,Konto jest tymczasowo zablokowane do rozwiązania sporu.,Ο λογαριασμός είναι αποκλεισμένος μέχρι να διευθετηθεί μια διαφορά.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_ERROR,An error occurred while connecting to the channel.,Wystąpił błąd podczas łączenia z kanałem.,Παρουσιάστηκε σφάλμα κατά τη σύνδεση στο κανάλι.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_MAINTENANCE,Maintenance is in progress.,Obecnie trwa przerwa techniczna.,Γίνεται συντήρηση.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NEW_PASSWORD,Set a new password on the website.,Ustaw nowe hasło na stronie.,Όρισε νέο κωδικό στον ιστότοπο.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_ACTIVE,The account is not activated. Check your e-mail.,Konto nie jest aktywowane. Sprawdź pocztę e-mail.,Ο λογαριασμός δεν έχει ενεργοποιηθεί. Έλεγξε το email σου.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NO_PREMIUM,The chosen channel is only for Premium accounts.,Wybrany kanał dostępny jest tylko dla kont Premium.,Το επιλεγμένο κανάλι είναι μόνο για λογαριασμούς premium.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_SAMELOGIN,Someone connected to your account.,Ktoś połączył się z Twoim kontem.,Κάποιος συνδέθηκε στον λογαριασμό σου.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_UPDATE,The game client needs an update through the patcher.,Wymagana aktualizacja klienta gry przez Patcher.,Ο πελάτης του παιχνιδιού χρειάζεται ενημέρωση μέσω του patcher.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_PIN,Enter your PIN.,Wpisz swój PIN.,Πληκτρολόγησε το PIN σου.,client: game texts (localeInfo),done
+c:locale_game:MAGIC_EXTRACT_CHANCE_INFO,"The more bonuses, the higher the chance.",Im więcej bonusów tym większa szansa.,"Όσο περισσότερα μπόνους, τόσο μεγαλύτερη η πιθανότητα.",client: game texts (localeInfo),done
+c:locale_game:MAGIC_EXTRACT_WRONG_ITEM,The item must have 1 to 3 bonuses.,Przedmiot musi posiadać od 1 do 3 bonusów.,Το αντικείμενο πρέπει να έχει από 1 έως 3 μπόνους.,client: game texts (localeInfo),done
+c:locale_game:MAINTENANCE_DIALOG_DURATION,Expected duration: |cffffaa21%s|r,Przewidywany czas trwania: |cffffaa21%s|r,Αναμενόμενη διάρκεια: |cffffaa21%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:MAINTENANCE_DIALOG_START_TIME,Maintenance starts at: |cffffaa21%s|r,Godzina rozpoczęcia prac: |cffffaa21%s|r,Η συντήρηση ξεκινά στις: |cffffaa21%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:MAINTENANCE_WHISPER,Services will be unavailable from %s. Duration: %s.,Przewidziana przerwa w dostępie do usług od godziny %s. Czas trwania %s.,Οι υπηρεσίες δεν θα είναι διαθέσιμες από %s. Διάρκεια: %s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:MAP_DUEL,Training Arena,Arena Treningowa,Αρένα εκπαίδευσης,client: game texts (localeInfo),done
+c:locale_game:MAP_E,Colony,Kolonia,Αποικία,client: game texts (localeInfo),done
+c:locale_game:MAP_EMPIREWAR01,Castle Battle,Walka o Zamek,Μάχη του κάστρου,client: game texts (localeInfo),done
+c:locale_game:MAP_EMPIREWAR02,Castle Battle,Walka o Zamek,Μάχη του κάστρου,client: game texts (localeInfo),done
+c:locale_game:MAP_EMPIREWAR03,Castle Battle,Walka o Zamek,Μάχη του κάστρου,client: game texts (localeInfo),done
+c:locale_game:MAP_HOLYPLACE_DESERT,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,Πόλεμος βασιλείων - Γη της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_HOLYPLACE_FLAME,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_HOLYPLACE_ICE,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_OXEVENT,OX Quiz,Konkurs OX,Κουίζ OX,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_DESERT_01,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,Πόλεμος βασιλείων - Γη της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_DESERT_02,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,Πόλεμος βασιλείων - Γη της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_DESERT_03,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,Πόλεμος βασιλείων - Γη της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_FLAME_01,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_FLAME_02,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_FLAME_03,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_ICE_01,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_ICE_02,Playground,Plac Zabaw,Παιδική χαρά,client: game texts (localeInfo),done
+c:locale_game:MAP_PATHWAY_ICE_03,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS,Dragon Temple,Świątynia Smoka,Ναός του Δράκου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI,Kingdom War,Wojna Królestw,Πόλεμος βασιλείων,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_DESERT_01,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,Πόλεμος βασιλείων - Χώρα της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_DESERT_HILL_01,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,Πόλεμος βασιλείων - Χώρα της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_DESERT_HILL_02,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,Πόλεμος βασιλείων - Χώρα της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_DESERT_HILL_03,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,Πόλεμος βασιλείων - Χώρα της ερήμου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_FLAME_HILL_01,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_FLAME_HILL_02,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_FLAME_HILL_03,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,Πόλεμος βασιλείων - Γη της φωτιάς,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_SNOW,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_SNOW_PASS01,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_SNOW_PASS02,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_SUNGZI_SNOW_PASS03,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,Πόλεμος βασιλείων - Γη του πάγου,client: game texts (localeInfo),done
+c:locale_game:MAP_T1,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:MAP_T2,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:MAP_T3,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:MAP_T4,Guild War Area,Obszar Wojny Gildii,Περιοχή πολέμου συντεχνιών,client: game texts (localeInfo),done
+c:locale_game:MAP_WEDDING_01,Wedding Map,Mapa Wesela,Χάρτης γάμου,client: game texts (localeInfo),done
+c:locale_game:MASS_SELL_QUESTION,Do you want to sell in bulk?,Czy chcesz dokonać masowej sprzedaży?,Θέλεις να πουλήσεις μαζικά;,client: game texts (localeInfo),done
+c:locale_game:MASS_SELL_WARNING_ATTRIBUTE,An item with a bonus was found. Continue?,"Wykryto przedmiot z bonusem, kontynuować?",Βρέθηκε αντικείμενο με μπόνους. Συνέχεια;,client: game texts (localeInfo),done
+c:locale_game:MASS_SELL_WARNING_HIGH_PRICE,A possibly valuable item was found. Continue?,"Wykryto potencjalnie wartościowy przedmiot, kontynuować?",Βρέθηκε πιθανώς πολύτιμο αντικείμενο. Συνέχεια;,client: game texts (localeInfo),done
+c:locale_game:MASS_SELL_WARNING_REFINE_LEVEL,A high upgrade level was found. Continue?,"Wykryto wysoki poziom ulepszenia, kontynuować?",Βρέθηκε υψηλό επίπεδο αναβάθμισης. Συνέχεια;,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_BLOCK,Block player,Zablokuj gracza,Αποκλεισμός παίκτη,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_BLOCKED,Blocked,Zablokowani,Αποκλεισμένος,client: game texts (localeInfo),done
+c:locale_game:MINING_SKILL_BONUS,Chance of mining ore +%d%%,Szansa na wydobycie rudy +%d%%,Πιθανότητα εξόρυξης μεταλλεύματος +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MINUTE_SHORT,m,m.,λ,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_99,Special Channel,Kanał Specjalny,Ειδικό κανάλι,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_NOTICE,You are connected to channel %d.,Jesteś połączony z kanałem %d.,Είσαι συνδεδεμένος στο κανάλι %d.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MOVE_CHANNEL_NOTICE_99,You are connected to the special channel.,Jesteś połączony z kanałem specjalnym.,Είσαι συνδεδεμένος στο ειδικό κανάλι.,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_NOT_MOVE,You cannot change the channel.,Nie możesz zmienić kanału.,Δεν μπορείς να αλλάξεις κανάλι.,client: game texts (localeInfo),done
+c:locale_game:MOVE_CHANNEL_TITLE,Change channel,Zmień kanał,Αλλαγή καναλιού,client: game texts (localeInfo),done
+c:locale_game:NAME_PROFANE_WORDS,The name contains forbidden words.,Nazwa zawiera niedozwolone słowa.,Το όνομα περιέχει απαγορευμένες λέξεις.,client: game texts (localeInfo),done
+c:locale_game:ONE_DAY,Day,Dzień,Ημέρα,client: game texts (localeInfo),done
+c:locale_game:OPEN_URL_INFO,Opens a link to a website.,Otwiera odnośnik do strony www.,Ανοίγει σύνδεσμο σε ιστότοπο.,client: game texts (localeInfo),done
+c:locale_game:PARTY_ANSWER_TIMEOVER,The invitation was declined.,Zaproszenie zostało odrzucone.,Η πρόσκληση απορρίφθηκε.,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_ATTACKER,Attacker role:,Rola Atakujący:,Ρόλος επιτιθέμενου:,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_BERSERK,Berserker role:,Rola Berserkera:,Ρόλος μπέρσερκερ:,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_BUFFER,Blocker role:,Rola Blokującego:,Ρόλος αναχαιτιστή:,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_DEFENDER,Defender role:,Rola Obrońcy:,Ρόλος αμυνόμενου:,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_SKILL_MASTER,Skill Master role:,Rola Mistrza Um.:,Ρόλος δασκάλου ικανοτήτων:,client: game texts (localeInfo),done
+c:locale_game:PARTY_ROLE_TANKER,Melee Fighter role:,Rola Walczącego w Zwarciu:,Ρόλος μαχητή σώμα με σώμα:,client: game texts (localeInfo),done
+c:locale_game:PKMODE_FREE_WARNING,You risk losing an item!,Ryzykujesz utratą przedmiotu!,Κινδυνεύεις να χάσεις ένα αντικείμενο!,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_BOSS,Bosses defeated,Pokonane bossy,Αρχηγοί που νικήθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_CHEST,Chests opened,Otwarte skrzynie,Σεντούκια που ανοίχτηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DAMAGE,Highest damage dealt (normal),Największe zadane obrażenia (zwykłe),Μέγιστη ζημιά που προκλήθηκε (κανονική),client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DAMAGE_HORSE,Highest damage dealt (on horseback),Największe zadane obrażenia (konno),Μέγιστη ζημιά που προκλήθηκε (έφιππα),client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DAMAGE_SKILL,Highest damage dealt (skill),Największe zadane obrażenia (umiejętność),Μέγιστη ζημιά που προκλήθηκε (ικανότητα),client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DEATH,Deaths,Ilość śmierci,Θάνατοι,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DEATH_MOB,Deaths by monsters,Ilość śmierci przez potwory,Θάνατοι από τέρατα,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DEATH_PLAYER,Deaths by players,Ilość śmierci przez graczy,Θάνατοι από παίκτες,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DUEL,Duels won,Wygrane pojedynki,Μονομαχίες που κερδήθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_DUNGEON,Dungeons completed,Ukończone lochy,Μπουντρούμια που ολοκληρώθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_EMPIRE,Players defeated (other kingdoms),Pokonani gracze (przeciwne król.),Παίκτες που νικήθηκαν (άλλα βασίλεια),client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_FISHING,Fish caught,Wyłowione ryby,Ψάρια που πιάστηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_GOLD,Yang earned,Zdobyte Yang,Yang που κερδήθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_GOLD_SELL_SHOP,Yang from selling to NPCs,Suma Yang ze sprzedaży u NPC,Yang από πωλήσεις σε NPC,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_HERBALISM,Flowers picked,Zebrane kwiaty,Λουλούδια που μαζεύτηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_MINIBOSS,Mini-bosses defeated,Pokonane minibossy,Μίνι αρχηγοί που νικήθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_MINING,Ores mined,Wykopane rudy,Μεταλλεύματα που εξορύχθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_MONSTER,Monsters killed,Zabite potwory,Τέρατα που σκοτώθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_QUESTBOOK,Mission books completed,Ukończone księgi misji,Βιβλία αποστολών που ολοκληρώθηκαν,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_REFINE_FAIL_SMITH,Items burnt at the Blacksmith,Spalone przedmioty u Kowala,Αντικείμενα που κάηκαν στον σιδερά,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_REFINE_SUCCESS,Successful upgrades,Pomyślne ulepszenia,Επιτυχημένες αναβαθμίσεις,client: game texts (localeInfo),done
+c:locale_game:PLAYER_STATS_STONE,Metin Stones destroyed,Zniszczone kamienie Metin,Λίθοι Μέτιν που καταστράφηκαν,client: game texts (localeInfo),done
+c:locale_game:POTION_RECHARGE_FIRST_AUTOPOTION,Add an elixir first.,Najpierw dodaj eliksir.,Πρόσθεσε πρώτα ένα ελιξίριο.,client: game texts (localeInfo),done
+c:locale_game:POTION_RECHARGE_NO_SLOTS,All potion slots are taken.,Wszystkie miejsca na mikstury zostały zajęte.,Όλες οι θέσεις φίλτρων είναι κατειλημμένες.,client: game texts (localeInfo),done
+c:locale_game:POTION_RECHARGE_TOOLTIP,"The elixir is empty,|go to the Alchemist.","Eliksir jest pusty,|udaj się do Alchemika.","Το ελιξίριο είναι άδειο,|πήγαινε στον αλχημιστή.",client: game texts (localeInfo),done
+c:locale_game:POTION_RECHARGE_WRONG_ITEM,You cannot add this item.,Nie możesz dodać tego przedmiotu.,Δεν μπορείς να προσθέσεις αυτό το αντικείμενο.,client: game texts (localeInfo),done
+c:locale_game:QUICK_BUY_ALL_SIMILAR,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - buy all similar.,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - kup wszystkie podobne.,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - αγορά όλων των παρόμοιων.,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:REFINE_BONUS_100_CHANCE,100% success chance when upgrading.,100% szans na ulepszenie.,100% πιθανότητα επιτυχίας κατά την αναβάθμιση.,client: game texts (localeInfo) | keep: % s | shown as written: % is a percent sign here,done
+c:locale_game:REFINE_BONUS_ITEM_ALL,Any,Każdy,Οποιοδήποτε,client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_ITEM_ARMOR,"Armour, Shield, Helmet","Zbroja, Tarcza, Hełm","Πανοπλία, ασπίδα, κράνος",client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_ITEM_JEWELRY,Jewellery,Biżuteria,Κοσμήματα,client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_NO_GOLD,No Yang cost.,Brak kosztów Yang.,Χωρίς κόστος σε Yang.,client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_NO_ITEM,No upgrade items needed.,Brak wymaganych ulepszaczy.,Δεν χρειάζονται αντικείμενα αναβάθμισης.,client: game texts (localeInfo),done
+c:locale_game:REFINE_BONUS_REFINE_LEVEL,Max. upgrade from +%d to +%d.,Max. ulepszenie z +%d na +%d.,Μέγ. αναβάθμιση από +%d σε +%d.,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:REFINE_BONUS_USE_LEVEL,Max. item level: %d,Max. poziom przedmiotu: %d,Μέγ. επίπεδο αντικειμένου: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:REPUTATION_DESERT,Sons of the Desert,Synowie Pustyni,Γιοι της ερήμου,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_ORC_VALLEY,Royal Guard,Królewska Gwardia,Βασιλική φρουρά,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_RANK2,Honoured,Szanowany,Τιμημένος,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_RANK3,Ally,Sojusznik,Σύμμαχος,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_SNAKE,Green Fangs,Zielone Kły,Πράσινοι Κυνόδοντες,client: game texts (localeInfo),done
+c:locale_game:SAVED_POSITION_MAP_PREVIEW_UNAVAILABLE,Preview unavailable.,Podgląd niedostępny.,Η προεπισκόπηση δεν είναι διαθέσιμη.,client: game texts (localeInfo),done
+c:locale_game:SAVED_POSITION_TOOLTIP_INFO,Preview of the saved location:,Podgląd zapisanej lokalizacji:,Προεπισκόπηση αποθηκευμένης τοποθεσίας:,client: game texts (localeInfo),done
+c:locale_game:SAVE_ACCOUNT_LOAD_SHORTCUT_TOOLTIP,|cfff0b324F%d|r - quick login.,|cfff0b324F%d|r - szybkie logowanie.,|cfff0b324F%d|r - γρήγορη σύνδεση.,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,done
+c:locale_game:SELECT_CANNOT_DELETE_LEVEL_LIMIT,The character level is too high.,Postać ma za duży poziom.,Το επίπεδο του χαρακτήρα είναι πολύ υψηλό.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CANNOT_DELETE_WRONG_SOCIAL_ID,Invalid character deletion code.,Niepoprawny kod usunięcia postaci.,Μη έγκυρος κωδικός διαγραφής χαρακτήρα.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_SAME_AS_LOGIN,The character name is the same as the account name.,Nazwa postaci jest identyczna jak nazwa konta.,Το όνομα του χαρακτήρα είναι ίδιο με το όνομα του λογαριασμού.,client: game texts (localeInfo),done
+c:locale_game:SHAMAN_DESCRIPTION,Bonus for using support skills on yourself.,Premia od użycia um. buffujących na samego siebie.,Μπόνους για χρήση υποστηρικτικών ικανοτήτων στον εαυτό σου.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_ATTR_ITEM_INFO,Search for items with at least 1 bonus.,Wyszukaj przedmioty z min. 1 bonusem.,Αναζήτηση αντικειμένων με τουλάχιστον 1 μπόνους.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_ARMOR,Armour,Uzbrojenie,Πανοπλίες,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_ARMOR_INFO,Search armour/shields/helmets.,Wyszukaj zbroje/tarcze/hełmy.,Αναζήτηση πανοπλιών/ασπίδων/κρανών.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_ATTR_ITEM,Item with Bonus,Przedmiot z Bonusem,Αντικείμενο με μπόνους,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_BOOKS,Books,Księgi,Βιβλία,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_DRAGON_VOCHER,DC/Premium Vouchers,Kupony SM/Premium,Κουπόνια DC/premium,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_FISHING,Fishing,Rybołówstwo,Ψάρεμα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_HERBALISM,Herbalism,Zielarstwo,Βοτανολογία,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_HORSE,Horse Items,Przedmioty Konne,Αντικείμενα αλόγου,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_JEWELRY,Jewellery,Biżuteria,Κοσμήματα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_JEWELRY_INFO,Search jewellery and shoes.,Wyszukaj biżuterię i buty.,Αναζήτηση κοσμημάτων και παπουτσιών.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_MINING,Mining,Górnictwo,Εξόρυξη,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_PASSIVE_SKILLS,Passive Skill Books,Księgi Um. Pasywnych,Βιβλία παθητικών ικανοτήτων,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_POLYMARBLE,Polymorph Marbles,Marmury Polimorfii,Σφαίρες μεταμόρφωσης,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE,Upgrade Items,Ulepszacze,Αντικείμενα αναβάθμισης,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT1,Desert I,Pustynia I,Έρημος I,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT2,Desert II,Pustynia II,Έρημος II,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_END,High level,Wysoki poziom,Υψηλό επίπεδο,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Χουάνγκ,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,M1,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,M2,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Σοχάν,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_OATH,Sworn,Zaprzysiężone,Ορκισμένοι,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_ORC,Valley,Dolina,Κοιλάδα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_PEARL,Pearls,Perły,Μαργαριτάρια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_SPECIAL,Special,Specjalne,Ειδικό,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_SKILL_SHAMAN_DRAGON,Shaman Dragon,Szaman Smok,Σαμάνος Δράκου,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_SKILL_SHAMAN_HEALER,Shaman Healing,Szaman Leczenie,Σαμάνος Θεραπείας,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_SOUL_STONE,Spirit Stones,Kamienie Duszy,Λίθοι πνεύματος,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_SPECIAL_ITEMS,Special Items,Przedmioty Specjalne,Ειδικά αντικείμενα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_WEAPON,Weapons,Bronie,Όπλα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_WEAPON_INFO,Search weapons.,Wyszukaj bronie.,Αναζήτηση όπλων.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_ASSASSIN_ARCHER,Ninja Archery,Ninja Łuk,Νίντζα Τοξοβολία,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_ASSASSIN_DAGGER,Ninja Blade,Ninja Ostrze,Νίντζα Λεπίδα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_SURA_BM,Sura Black Magic,Sura Czarna Magia,Σούρα Μαύρη μαγεία,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_SURA_WP,Sura Weaponry,Sura Mistrz Broni,Σούρα Τέχνη των όπλων,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_WARRIOR_BODY,Warrior Body,Wojownik Ciało,Πολεμιστής Σώμα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_WARRIOR_MENTAL,Warrior Mental,Wojownik Umysł,Πολεμιστής Πνεύμα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR1,Armour,Zbroje,Πανοπλίες,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR2,Shields,Tarcze,Ασπίδες,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR3,Helmets,Hełmy,Κράνη,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_AUTOPOTION,Auto Potions,Autopoty,Αυτόματα φίλτρα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH,Raw Fish,Ryby Surowe,Ωμό ψάρι,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_COOK,Grilled Fish,Ryby Pieczone,Ψητό ψάρι,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_OTHER,Other,Inne,Άλλο,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_PRIMARY,Basic Herbs,Podstawowe Zioła,Βασικά βότανα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_SPECIAL,Special Herbs,Specjalne Zioła,Ειδικά βότανα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_LEARN,Training,Szkolenie,Εκπαίδευση,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_OTHER,Other,Inne,Άλλο,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY1,Earrings,Kolczyki,Σκουλαρίκια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY2,Necklaces,Naszyjniki,Περιδέραια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY3,Bracelets,Bransolety,Βραχιόλια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_MINING_ORE,Ores,Rudy,Μεταλλεύματα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_MINING_SMELT,Smelted,Przetopy,Λιωμένα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE1,Defensive Juices,Soki Defensywne,Αμυντικοί χυμοί,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE2,Defensive Waters,Wody Defensywne,Αμυντικά νερά,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE3,Defensive Dews,Rosy Defensywne,Αμυντικές δροσιές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_NORMAL,Normal Potions,Zwykłe Mikstury,Κανονικά φίλτρα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE1,Offensive Juices,Soki Ofensywne,Επιθετικοί χυμοί,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE2,Offensive Waters,Wody Ofensywne,Επιθετικά νερά,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE3,Offensive Dews,Rosy Ofensywne,Επιθετικές δροσιές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OTHER,Other Potions,Inne Mikstury,Άλλα φίλτρα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER1,Boosting Juices,Soki Wzmacniające,Ενισχυτικοί χυμοί,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER2,Boosting Waters,Wody Wzmacniające,Ενισχυτικά νερά,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER3,Boosting Dews,Rosy Wzmacniające,Ενισχυτικές δροσιές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_BATTLE,Combat,Walka,Μάχη,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_LOOTBOX,Chests and Keys,Szkatułki i Klucze,Σεντούκια και κλειδιά,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_OTHER,Other,Inne,Άλλο,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_REFINE,Upgrading,Uszlachetnianie,Αναβάθμιση,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_VOUCHER,Vouchers,Kupony,Κουπόνια,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON1,One-handed,Jednoręczne,Μονόχειρα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON2,Two-handed,Dwuręczne,Δίχειρα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON3,Daggers,Sztylety,Στιλέτα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON4,Bows,Łuki,Τόξα,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON5,Bells,Dzwony,Καμπάνες,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON6,Fans,Wachlarze,Βεντάλιες,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_DEFENSIVE,Defensive Recipes,Receptury Defensywne,Αμυντικές συνταγές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_OFFENSIVE,Offensive Recipes,Receptury Ofensywne,Επιθετικές συνταγές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_OTHER,Other Recipes,Receptury Inne,Άλλες συνταγές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_POWER,Boosting Recipes,Receptury Wzmacniające,Ενισχυτικές συνταγές,client: game texts (localeInfo),done
+c:locale_game:SHOP_SERACH_SUB_QUEST_BIOLOGIST,Biologist's Research,Badania Biologa,Η έρευνα του βιολόγου,client: game texts (localeInfo),done
+c:locale_game:SHOP_TAX_INFO1,The shop's total value is reduced by tax. The kingdom's tax is now:,Suma wartości sklepu jest pomniejszona o podatek. Obecnie podatek w królestwie wynosi:,Η συνολική αξία του καταστήματος μειώνεται από τον φόρο. Ο φόρος του βασιλείου είναι τώρα:,client: game texts (localeInfo),done
+c:locale_game:SHOP_TAX_INFO2,"Selling every item in the shop, you pay %s in tax.",Sprzedając wszystkie przedmioty w sklepie zapłacisz %s podatku.,"Πουλώντας κάθε αντικείμενο του καταστήματος, πληρώνεις %s φόρο.",client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_AMBUSH_DESC,Area attack; Stealth can raise its attack power.,"Atak obszarowy, Siła ataku może być zwiększona dzięki umiejętności Krycie Się.",Επίθεση περιοχής· η αφάνεια μπορεί να αυξήσει τη δύναμή της.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ARROW_SHOWER_DESC,Shoots several arrows at several enemies.,Miotaj kilka strzał w kilku wrogów.,Ρίχνει πολλά βέλη σε πολλούς εχθρούς.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ASSASSIN_BLOODTHIRST,Bloodthirst,Żądza Krwi,Δίψα για αίμα,client: game texts (localeInfo),done
+c:locale_game:SKILL_ASSASSIN_BLOODTHIRST_DESC,Activates after an Ambush on a monster. Raises your daggers' attack against monsters.,Aktywuje się po ataku Zasadzką w potwora. Zwiększa siłę ataku ze sztyletów w potwory.,Ενεργοποιείται μετά από Ενέδρα σε τέρας. Αυξάνει την επίθεση των στιλέτων σου κατά τεράτων.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ATTACK_UP_DESC,Raises physical and magic damage dealt. Can be given to another player. Bonus when used on yourself.,Zwiększa zadawane obrażenia fizyczne i magiczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Αυξάνει τη φυσική και μαγική ζημιά που προκαλείς. Μπορεί να δοθεί σε άλλον παίκτη. Μπόνους όταν χρησιμοποιείται στον εαυτό σου.,client: game texts (localeInfo),done
+c:locale_game:SKILL_BASH_DESC,A violent frontal blow into a rectangular area.,Gwałtowne frontalne uderzenie w prostokątny obszar.,Ένα βίαιο μετωπικό χτύπημα σε ορθογώνια περιοχή.,client: game texts (localeInfo),done
+c:locale_game:SKILL_BERSERK_DESC,Raises attack and movement speed and raises the damage opponents deal.,Zwiększa szybkość ataku i ruchu oraz zwiększa obrażenia zadawane przez przeciwników.,Αυξάνει την ταχύτητα επίθεσης και κίνησης και αυξάνει τη ζημιά που προκαλούν οι αντίπαλοι.,client: game texts (localeInfo),done
+c:locale_game:SKILL_BLEEDING,Bleeding,Krwawienie,Αιμορραγία,client: game texts (localeInfo),done
+c:locale_game:SKILL_BLESSING_DESC,Raises resistance to physical attacks. Can be given to another player. Bonus when used on yourself.,Zwiększa odporność na ataki fizyczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Αυξάνει την αντίσταση σε φυσικές επιθέσεις. Μπορεί να δοθεί σε άλλον παίκτη. Μπόνους όταν χρησιμοποιείται στον εαυτό σου.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHARGE_DESC,A fast attack with a chance to stun the opponent.,Szybki atak z szansą na omdlenie przeciwnika.,Μια γρήγορη επίθεση με πιθανότητα να ζαλίσει τον αντίπαλο.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CURE_DESC,Restores HP at once. Chance to remove negative effects. Absorbs damage from monsters. Can be used on another player.,Natychmiast regeneruje Punkty Życia. Szansa na usunięcie negatywnych efektów. Absorpcja obrażeń od potworów. Możliwość użycia na innym graczu.,Αποκαθιστά αμέσως HP. Πιθανότητα αφαίρεσης αρνητικών επιδράσεων. Απορροφά ζημιά από τέρατα. Μπορεί να χρησιμοποιηθεί σε άλλον παίκτη.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DARK_ORB_DESC,A long-range attack on an opponent.,Atak długodystansowy w przeciwnika.,Επίθεση από απόσταση σε έναν αντίπαλο.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DARK_STRIKE_DESC,A long-range attack on several targets.,"Atak długodystansowy, atakuje wiele celów.",Επίθεση από απόσταση σε πολλούς στόχους.,client: game texts (localeInfo),done

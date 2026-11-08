@@ -117,8 +117,8 @@ c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Trank der Stä
 c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Trank der Ausdauerregeneration,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Zauberzeit von Fertigkeiten um %d%% verkürzt ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Gegenstandsart: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,,client: game texts (localeInfo),new
-c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,,client: game texts (localeInfo),new
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),done
+c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,Der Code wurde bereits benutzt.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Ungültiger Code.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_SUCCESS,The voucher was redeemed!,Pomyślnie wykorzystano kupon!,Der Gutschein wurde eingelöst!,client: game texts (localeInfo),done
@@ -599,21 +599,21 @@ c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Gib eine gültige Zahl ein,cl
 c:locale_game:GMP_ERR_OFFLINE,The player is offline,,Der Spieler ist offline,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,Der Spieler ist nicht online,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,Ausrüstung: Klicke den Spieler im Spiel an und wähle EQ,client: game texts (localeInfo),done
-c:locale_game:GMP_ONLINE,Online,,,client: game texts (localeInfo),new
+c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),done
 c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Offline seit %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_MAP,Map: %s,,Karte: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,TP/MP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_YANG,Yang: %s,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Konto: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,STR %s  VIT %s  DEX %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,check
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Statuspunkte %s, Fertigkeiten %s",client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_IP,IP: %s,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Pferd: Stufe %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_RANK,Rank: %s,,Rang: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_EXP,Exp: %s,,EXP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_JOB_WARRIOR,Warrior,,Krieger,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_NINJA,Ninja,,,client: game texts (localeInfo),new
-c:locale_game:GMP_JOB_SURA,Sura,,,client: game texts (localeInfo),new
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),done
 c:locale_game:GMP_JOB_SHAMAN,Shaman,,Schamane,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOVE,Movement,,Bewegung,client: game texts (localeInfo),done
 c:locale_game:GMP_GOTO_PLAYER,Go to,,Hingehen,client: game texts (localeInfo),done
@@ -626,7 +626,7 @@ c:locale_game:GMP_GIVE_ITEM,Give item,,Gegenstand geben,client: game texts (loca
 c:locale_game:GMP_SKILLS_M,All to M1,,Alle auf M1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_G,All to G1,,Alle auf G1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_P,All to P,,Alle auf P,client: game texts (localeInfo),done
-c:locale_game:GMP_VAL_YANG,Yang,,,client: game texts (localeInfo),new
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_CASH,Dragon Coins,,Drachenmünzen,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_LEVEL,Level,,Stufe,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_RANK,Rank,,Rang,client: game texts (localeInfo),done
@@ -686,14 +686,14 @@ c:locale_game:GMP_NOTICE_BIG,Big,,Groß,client: game texts (localeInfo),done
 c:locale_game:GMP_NOTICE_MAP,This map only,,Nur diese Karte,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Gib den Text der Ankündigung ein,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Events (Reichsbonus),client: game texts (localeInfo),done
-c:locale_game:GMP_EV_EXP,Exp %,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EV_DROP,Drop %,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EV_YANG,Yang %,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EV_EXP,Exp %,,EXP %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HOURS,Hours,,Stunden,client: game texts (localeInfo),done
 c:locale_game:GMP_EMPIRE_ALL,All,,Alle,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,,client: game texts (localeInfo),new
-c:locale_game:GMP_EMPIRE_JINNO,Jinno,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_START,Start event,,Event starten,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_STOP,Stop events,,Events beenden,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Zusätzliche Prozent, z. B. 100 = doppelt. Leer/0 = unverändert.",client: game texts (localeInfo),done

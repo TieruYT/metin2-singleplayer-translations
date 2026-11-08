@@ -161,40 +161,40 @@ c:locale_game:GM_PANEL_RATE_EXP,Experience:,,Experiência:,client: game texts (l
 c:locale_game:GM_PANEL_RATE_DROP,Item drop:,,Drop de itens:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_RATE_YANG,Yang drop:,,Drop de Yang:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHAT,Bots talk over their heads,,Os bots falam por cima da cabeça,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,"A linha por cima da cabeça de um bot (a caçar, a caminho do ferreiro, a pescar). Desativa-a para os jogadores a quem incomoda. O anúncio no chat global de uma melhoria +7/+8/+9 mantém-se de qualquer forma.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BOOKS,Skill books without the day's wait,,Livros de habilidade sem a espera do dia,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,"O jogo faz uma personagem esperar cerca de um dia entre duas leituras da mesma habilidade, por isso um bot precisa de um mês para levar uma habilidade de M1 a G1, e os livros acumulam-se na mochila entretanto. Ligado: um bot lê um livro mal o tenha - o próprio jogo é o único travão. Desligado: a espera diária do jogo, sem alterações.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_NIGHT,Night/snow after 22:00,,Noite/neve depois das 22:00,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_SCRAP,Scrap keepers,,Guardam sucata,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,"A parte dos vendedores de banca que põem as suas melhorias fracas (+0 a +3) à venda por uns trocos em vez de as vender a um NPC - material para queimar no ferreiro, como em servidores difíceis. Desligado por omissão.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REST,Resting in town,,Descanso na cidade,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,"A parte dos bots que ficam algum tempo junto às bancas depois de um recado na cidade em vez de voltarem logo a caçar. A 100 por cento a cidade fica animada, a 0 estão todos no terreno.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHEST,Moonlight Chest - from a killed monster,,Baú do Luar - de um monstro morto,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,"A frequência com que cai um baú: de um monstro morto e de um Metin destruído. O padrão do jogo é 1 e 30 por cento; mais baús significam mais pergaminhos de bónus, poções de velocidade e pergaminhos de bênção para os bots. Aplica-se em cinco segundos, a bots e jogadores.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_CHEST_STONE,Moonlight Chest - from a broken Metin,,Baú do Luar - de um Metin destruído,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,"A segunda metade da definição acima - uma probabilidade própria, sorteada quando uma pedra Metin se parte em vez de quando morre um monstro comum.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_RESTOCK,Buying potions,,Compra de poções,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,Volta à cidade assim que as poções vermelhas acabam.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REFINE,The blacksmith,,O ferreiro,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_REFINE_HELP,Upgrading weapons and armour instead of hunting.,,Melhorar armas e armaduras em vez de caçar.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_SKILL,Skill books,,Livros de habilidade,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,Ler livros para levar uma habilidade de M até G.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HORSE,The horse,,O cavalo,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HORSE_HELP,The stable and hunting medals in the Monkey Dungeon.,,O estábulo e a caça de medalhas na Masmorra dos Macacos.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BIOLOG,The Biologist,,O Biólogo,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_BIOLOG_HELP,Collecting for the Biologist instead of levelling.,,Recolher para o Biólogo em vez de subir de nível.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_METIN,Metin stones,,Pedras Metin,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,Caçar Metins em vez de monstros comuns.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_PARTY,Parties,,Grupos,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_PARTY_HELP,"Fighting together, not every bot on its own.",,"Lutar juntos, não cada bot sozinho.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_HUNTING,Hunting missions,,Missões de caça,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,Caçar para subir de nível no mapa indicado pela missão.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_LEVEL,Plain grinding,,Farm simples,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,O que um bot faz quando nada mais o chama. Aumenta-o e os recados perdem.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_FISHING,Fishing,,Pesca,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,"Quantos bots pescam de todo. Decidido uma vez por bot, por isso uma alteração chega à próxima geração de pescadores.",client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_AI_TRADE,Market stalls,,Bancas do mercado,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,"Quantos bots mantêm uma banca aberta. Os mercadores fazem-no sempre, diga o que disser este cursor.",client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_ITEM,/item - adds an item,,/item - adiciona um item,client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_ITEM_2,/item - adds several pieces of an item,,/item - adiciona várias unidades de um item,client: game texts (localeInfo),done
 c:locale_game:GM_COMMAND_M,/m - summons a monster or an NPC,,/m - invoca um monstro ou um NPC,client: game texts (localeInfo),done

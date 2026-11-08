@@ -5,9 +5,9 @@ c:pbt:b1939203e806,Companion shopping,Zakupy towarzysza,Yoldaş alışverişi,"c
 c:pbt:924e3026ca1c,Cancel orders,Anuluj zlecenia,Siparişleri iptal et,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7054a7a0a34b,Town maintenance,Porządki w mieście,Şehir işleri,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4a8df3c1caf2,Target quantity in bag (1-10000),Docelowa ilość w torbie (1-10000),Çantadaki hedef miktar (1-10000),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b0dd7568a666,A valuable ring decorated with jade and turquoise.,Drogocenny pierścień przyozdobiony nefrytem i turkusem.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e0d6b82950bb,A magical medal that empowers its wearer.,Magiczny medal wspierający jego właściciela.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5eab830be56d,Assault horse,Koń szturmowy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b0dd7568a666,A valuable ring decorated with jade and turquoise.,Drogocenny pierścień przyozdobiony nefrytem i turkusem.,Yeşim ve turkuazla süslenmiş değerli bir yüzük.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e0d6b82950bb,A magical medal that empowers its wearer.,Magiczny medal wspierający jego właściciela.,Takan kişiyi güçlendiren büyülü bir madalya.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5eab830be56d,Assault horse,Koń szturmowy,Hücum atı,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dcc454f62ce0,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,Hasar Yönlendirme %.0f%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %.0f",done
 c:pbt:5b721c5524ca,Redirected Damage Reduction %d%%,Zmniejszenie przekierowanych obrażeń %d%%,Yönlendirilen Hasar Azaltma %%%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:5ae06bfd401b,Right click - remove the effect,PPM - usuń efekt,Sağ tık - efekti kaldır,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -19,116 +19,116 @@ c:pbt:c1dc360937bb,Bracelets,Bransolety,Bilezikler,"client: our windows (compani
 c:pbt:664785616853,Shoes,Buty,Ayakkabı,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:22b0384fa032,Necklaces,Naszyjniki,Kolyeler,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:400a8e1a7f1a,Earrings,Kolczyki,Küpe,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:704977ed3280,Trinkets,Ozdoby,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:704977ed3280,Trinkets,Ozdoby,Süs eşyaları,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:08f100badc92,Potions,Mikstury,İksirler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4a7fdd8c1742,Books,Księgi,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4a7fdd8c1742,Books,Księgi,Kitaplar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09c28ae8f83b,Stones,Kamienie,Taşlar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6e6a6f2086bb,Other,Inne,Diğer,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fb360f9c09ac,yes,tak,evet,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fd1286353570,no,nie,hayır,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:387d7a59dbaa,ON,WŁ,AÇIK,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ad50489054dd,OFF,WYŁ,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:52a816352cf7,[Auto Hunt] ,[Auto Łowy] ,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:31b64d58c384,"Auto Hunt: autologin on - if the connection drops, the game logs in again by itself and the hunt goes on. Save the combat settings to keep it for next time.","Auto Łowy: autologin włączony - po zerwaniu połączenia gra sama zaloguje się ponownie i wznowi łowy. Zapisz ustawienia walki, żeby zapamiętać to na następny raz.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:6d8e2d197c9b,Auto Hunt: autologin off.,Auto Łowy: autologin wyłączony.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:db68f2c1dac5,Auto Hunt - how it works,Auto Łowy - jak to działa,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:4c9200300a05,"Start: the character fights by itself from where it stands. Stop ends the hunt, Save in the side drawer keeps this character's selected profile. K opens and closes both windows.","Start: postać sama walczy od miejsca, w którym stoi. Zatrzymaj kończy łowy, Zapisz w bocznym panelu pamięta wybrany profil tej postaci. K otwiera i zamyka oba okna.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:cc1ce7316255,Targets (Settings): click a block to enable or disable its category. Drag to set the order from left to right; disabled categories are skipped. Nearest target uses distance instead. Save keeps the settings in the combat profile.,"Cele (Ustawienia): kliknij bloczek, aby włączyć lub wyłączyć kategorię. Przeciągnij, aby ustawić kolejność od lewej do prawej; wyłączone kategorie są pomijane. Najbliższy cel kieruje się odległością. Zapisz zachowuje ustawienia w profilu walki.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:f3bd56183aa4,"Range (slider): how far targets and drops are looked for - with ""Return"" round the start, where the character walks back, without it round the character.","Zasięg (suwak): jak daleko szukać celów i łupu - z ""Wracaj"" wokół miejsca startu, do którego postać wraca, bez niego wokół postaci.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:973a5956b408,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Bonuses: 1-7; separate weapon average and skill damage: 1-100%. Any enabled threshold is enough; 0 disables one. See item selection help for details.,"Podnoszenie: wybierz przedmioty w osobnym oknie. Z i ` stosuja ten filtr, gdy ich przelacznik jest wlaczony. Bonusy: 1-7; osobno srednie i umiejetnosci broni: 1-100%. Wystarczy jeden wlaczony prog; 0 wylacza prog. Szczegoly w pomocy wyboru przedmiotow.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:373ddcb14c60,"Skills: drag one onto a slot; the number under it is the pause in seconds (0: as soon as it is ready). Buffs are recast when they run out, attack skills go only at a target in reach.","Umiejętności: przeciągnij skill na pole; liczba pod nim to przerwa w sekundach (0: gdy tylko gotowy). Buffy wracają, gdy zgasną, skille ataku idą tylko w cel w zasięgu.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e03a5621e1b9,Potions: used under the % of HP or SP written below them. Timed items: used every so many seconds unless their effect is still on.,"Mikstury: używane poniżej wpisanego % HP lub PE. Odpały: używane co tyle sekund, jeśli ich efekt już nie trwa.",,"client: our windows (companion, Auto Hunt, status lines) | keep: % o",new
-c:pbt:b8bca634bd20,"Revive: after a death the character stands up where it fell and waits for ""Revive HP %"" before it fights. Autologin: a dropped connection logs in again and the hunt goes on.","Wskrzeszenie: po śmierci postać wstaje na miejscu i przed walką czeka na ""HP po wskrz. %"". Autologin: po zerwaniu połączenia gra sama się loguje i wznawia łowy.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:cd4401711317,"Kiting: a Ninja with a bow on foot runs away from a nearby monster, stops and shoots. Does not apply to Metins or while mounted.","Atak i odwrót: ninja z łukiem pieszo odbiega od pobliskiego potwora, zatrzymuje się i strzela. Nie działa na metinach ani podczas jazdy konnej.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:c5e93a6d45ae,"Battle horse (from horse level 11): fights from the saddle where it stands, only what is near, from level 21 with the horse's skills too; gets off briefly for buffs.","Bojowiec (koń bojowy od 11 poz.): walka z siodła w miejscu, tylko z tym, co blisko, od 21 poz. konia także jego skillami; po buffy postać na chwilę zsiada.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:541aada1f0b9,Stronger contrast: enable / disable,Mocniejszy kontrast: włącz / wyłącz,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ad50489054dd,OFF,WYŁ,KAPALI,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52a816352cf7,[Auto Hunt] ,[Auto Łowy] ,[Otomatik Av] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:31b64d58c384,"Auto Hunt: autologin on - if the connection drops, the game logs in again by itself and the hunt goes on. Save the combat settings to keep it for next time.","Auto Łowy: autologin włączony - po zerwaniu połączenia gra sama zaloguje się ponownie i wznowi łowy. Zapisz ustawienia walki, żeby zapamiętać to na następny raz.",Otomatik Av: otomatik giriş açık - bağlantı koparsa oyun kendiliğinden yeniden giriş yapar ve av devam eder. Bir dahaki sefere de geçerli olması için savaş ayarlarını kaydet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d8e2d197c9b,Auto Hunt: autologin off.,Auto Łowy: autologin wyłączony.,Otomatik Av: otomatik giriş kapalı.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db68f2c1dac5,Auto Hunt - how it works,Auto Łowy - jak to działa,Otomatik Av - nasıl çalışır,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c9200300a05,"Start: the character fights by itself from where it stands. Stop ends the hunt, Save in the side drawer keeps this character's selected profile. K opens and closes both windows.","Start: postać sama walczy od miejsca, w którym stoi. Zatrzymaj kończy łowy, Zapisz w bocznym panelu pamięta wybrany profil tej postaci. K otwiera i zamyka oba okna.","Başlat: karakter bulunduğu yerden kendi başına savaşır. Durdur avı bitirir, yan çekmecedeki Kaydet bu karakterin seçili profilini saklar. K iki pencereyi de açıp kapatır.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc1ce7316255,Targets (Settings): click a block to enable or disable its category. Drag to set the order from left to right; disabled categories are skipped. Nearest target uses distance instead. Save keeps the settings in the combat profile.,"Cele (Ustawienia): kliknij bloczek, aby włączyć lub wyłączyć kategorię. Przeciągnij, aby ustawić kolejność od lewej do prawej; wyłączone kategorie są pomijane. Najbliższy cel kieruje się odległością. Zapisz zachowuje ustawienia w profilu walki.","Hedefler (Ayarlar): kategorisini açmak veya kapatmak için bir bloğa tıkla. Sırayı soldan sağa belirlemek için sürükle; kapalı kategoriler atlanır. En yakın hedef bunun yerine mesafeyi kullanır. Kaydet, ayarları savaş profilinde saklar.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3bd56183aa4,"Range (slider): how far targets and drops are looked for - with ""Return"" round the start, where the character walks back, without it round the character.","Zasięg (suwak): jak daleko szukać celów i łupu - z ""Wracaj"" wokół miejsca startu, do którego postać wraca, bez niego wokół postaci.","Menzil (kaydırıcı): hedeflerin ve düşen eşyaların ne kadar uzakta aranacağı - ""Geri dön"" açıkken karakterin geri yürüdüğü başlangıç noktası çevresinde, kapalıyken karakterin çevresinde.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:973a5956b408,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Bonuses: 1-7; separate weapon average and skill damage: 1-100%. Any enabled threshold is enough; 0 disables one. See item selection help for details.,"Podnoszenie: wybierz przedmioty w osobnym oknie. Z i ` stosuja ten filtr, gdy ich przelacznik jest wlaczony. Bonusy: 1-7; osobno srednie i umiejetnosci broni: 1-100%. Wystarczy jeden wlaczony prog; 0 wylacza prog. Szczegoly w pomocy wyboru przedmiotow.",Toplama: eşyaları ayrı pencerede seç. Z / ` filtreleri açıkken bunu kullanır. Bonuslar: 1-7; ayrı silah ortalaması ve beceri hasarı: 1-100%. Açık herhangi bir eşik yeterlidir; 0 eşiği kapatır. Ayrıntılar için eşya seçimi yardımına bak.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:373ddcb14c60,"Skills: drag one onto a slot; the number under it is the pause in seconds (0: as soon as it is ready). Buffs are recast when they run out, attack skills go only at a target in reach.","Umiejętności: przeciągnij skill na pole; liczba pod nim to przerwa w sekundach (0: gdy tylko gotowy). Buffy wracają, gdy zgasną, skille ataku idą tylko w cel w zasięgu.","Beceriler: birini bir yuvaya sürükle; altındaki sayı saniye cinsinden bekleme süresidir (0: hazır olur olmaz). Destek becerileri süreleri bitince yeniden kullanılır, saldırı becerileri yalnızca menzildeki bir hedefe kullanılır.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e03a5621e1b9,Potions: used under the % of HP or SP written below them. Timed items: used every so many seconds unless their effect is still on.,"Mikstury: używane poniżej wpisanego % HP lub PE. Odpały: używane co tyle sekund, jeśli ich efekt już nie trwa.",İksirler: altlarında yazan HP veya SP yüzdesinin altına düşünce kullanılır. Süreli eşyalar: etkileri hâlâ sürmüyorsa her belirli saniyede bir kullanılır.,"client: our windows (companion, Auto Hunt, status lines) | keep: % o",done
+c:pbt:b8bca634bd20,"Revive: after a death the character stands up where it fell and waits for ""Revive HP %"" before it fights. Autologin: a dropped connection logs in again and the hunt goes on.","Wskrzeszenie: po śmierci postać wstaje na miejscu i przed walką czeka na ""HP po wskrz. %"". Autologin: po zerwaniu połączenia gra sama się loguje i wznawia łowy.","Canlanma: ölümden sonra karakter düştüğü yerde ayağa kalkar ve savaşmadan önce ""Canlanma HP %"" değerine ulaşmayı bekler. Otomatik giriş: kopan bağlantıda yeniden giriş yapılır ve av devam eder.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd4401711317,"Kiting: a Ninja with a bow on foot runs away from a nearby monster, stops and shoots. Does not apply to Metins or while mounted.","Atak i odwrót: ninja z łukiem pieszo odbiega od pobliskiego potwora, zatrzymuje się i strzela. Nie działa na metinach ani podczas jazdy konnej.","Kaçarak vurma: yayı olan yaya bir Ninja yakındaki bir canavardan uzaklaşır, durur ve ok atar. Metinlerde veya binekteyken geçerli değildir.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c5e93a6d45ae,"Battle horse (from horse level 11): fights from the saddle where it stands, only what is near, from level 21 with the horse's skills too; gets off briefly for buffs.","Bojowiec (koń bojowy od 11 poz.): walka z siodła w miejscu, tylko z tym, co blisko, od 21 poz. konia także jego skillami; po buffy postać na chwilę zsiada.","Savaş atı (at seviyesi 11'den itibaren): eyerden, durduğu yerde ve yalnızca yakındakilerle savaşır, seviye 21'den itibaren atın becerileriyle de; destek becerileri için kısa süreliğine iner.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:541aada1f0b9,Stronger contrast: enable / disable,Mocniejszy kontrast: włącz / wyłącz,Daha güçlü kontrast: aç / kapat,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:efc007a393f6,Save,Zapisz,Kaydet,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ddcb77ff769e,Load,Wczytaj,Yükle,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6a29f08e06f5,Saves,Zapisy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:c0ae8f6ea841,Saved,Zapis,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:3159fe421b32,Empty,Pusty,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:c8f373d0c32d,Click to rename this save.,"Kliknij, aby zmienić nazwę zapisu.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:8ce686405ae9,Save name,Nazwa zapisu,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:27433f9a8719,could not save the profile name.,nie udało się zapisać nazwy profilu.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:849dff9fc304,saved %s in slot %d.,zapisano %s w slocie %d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
-c:pbt:11d391a9adc4,could not save %s in slot %d.,nie udało się zapisać %s w slocie %d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
-c:pbt:e0fd2d1a65a7,pickup filters,filtry podnoszenia,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ea7aa034b4ab,loaded %s from slot %d.,wczytano %s ze slotu %d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
-c:pbt:f2de341e547b,"no saved settings found (%s, slot %d).","nie znaleziono zapisu (%s, slot %d).",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
-c:pbt:9568397947eb,"could not read the saved settings (%s, slot %d).","nie udało się wczytać zapisu (%s, slot %d).",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
-c:pbt:3426015b248f,Auto Hunt - Combat,Auto Łowy - Walka,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6a29f08e06f5,Saves,Zapisy,Kayıtlar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c0ae8f6ea841,Saved,Zapis,Kaydedildi,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3159fe421b32,Empty,Pusty,Boş,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c8f373d0c32d,Click to rename this save.,"Kliknij, aby zmienić nazwę zapisu.",Bu kaydı yeniden adlandırmak için tıkla.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ce686405ae9,Save name,Nazwa zapisu,Kayıt adı,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:27433f9a8719,could not save the profile name.,nie udało się zapisać nazwy profilu.,profil adı kaydedilemedi.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:849dff9fc304,saved %s in slot %d.,zapisano %s w slocie %d.,"%s, %d. yuvaya kaydedildi.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:11d391a9adc4,could not save %s in slot %d.,nie udało się zapisać %s w slocie %d.,"%s, %d. yuvaya kaydedilemedi.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:e0fd2d1a65a7,pickup filters,filtry podnoszenia,toplama filtreleri,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea7aa034b4ab,loaded %s from slot %d.,wczytano %s ze slotu %d.,"%s, %d. yuvadan yüklendi.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:f2de341e547b,"no saved settings found (%s, slot %d).","nie znaleziono zapisu (%s, slot %d).","kayıtlı ayar bulunamadı (%s, yuva %d).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:9568397947eb,"could not read the saved settings (%s, slot %d).","nie udało się wczytać zapisu (%s, slot %d).","kayıtlı ayarlar okunamadı (%s, yuva %d).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:3426015b248f,Auto Hunt - Combat,Auto Łowy - Walka,Otomatik Av - Savaş,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e09212c7d3ea,Skills,Umiejętności,Beceriler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3e10d88efda9,Time (s),Czas (s),,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d986a0ed399a,HP / SP threshold (%),Próg HP / PE (%),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3e10d88efda9,Time (s),Czas (s),Süre (sn),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d986a0ed399a,HP / SP threshold (%),Próg HP / PE (%),HP / SP eşiği (%),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:44d25b5d1b6d,Items,Przedmioty,Eşyalar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1b81f28b5afb,Attack,Atak,Saldır,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2e08bbd34b71,Revive,Wskrzeszenie,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:7bfa3e908743,Revive HP %,HP po wskrz. %,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ba44ffde1745,Kiting,Atak i odwrót,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:8c47b1be2e09,Battle horse,Bojowiec,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:24f096b221f9,Return,Wracaj,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:60441217def1,Combat settings,Ustawienia walki,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:4f6384dd2beb,Automatically attacks selected targets within the configured range,Automatycznie atakuje wybrane cele w ustawionym zasięgu,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d54819e7772a,Automatically revives the character at the place of death. Resumes hunting after reaching the configured HP level,Automatycznie wskrzesza postać w miejscu śmierci. Wznawia łowy po odzyskaniu ustawionego poziomu HP,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5f6f8532c0d9,Returns to the auto hunt starting point when there is no attack target or item to pick up,"Wraca do miejsca rozpoczęcia autołowów, gdy nie ma celu do ataku ani przedmiotów do podniesienia",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d746684a23a2,"Battle horse: fights in place, only what is near - off only for buffs","Koń bojowy: atak w miejscu, tylko to, co blisko - po buffy zsiada",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5fd4632150d9,"Foot Ninja archer: runs away from a nearby monster, stops and shoots","Ninja łucznik pieszo: odbiega od pobliskiego potwora, zatrzymuje się i strzela",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2e08bbd34b71,Revive,Wskrzeszenie,Canlanma,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bfa3e908743,Revive HP %,HP po wskrz. %,Canlanma HP %,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba44ffde1745,Kiting,Atak i odwrót,Kaçarak vurma,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c47b1be2e09,Battle horse,Bojowiec,Savaş atı,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24f096b221f9,Return,Wracaj,Geri dön,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60441217def1,Combat settings,Ustawienia walki,Savaş ayarları,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f6384dd2beb,Automatically attacks selected targets within the configured range,Automatycznie atakuje wybrane cele w ustawionym zasięgu,Ayarlanan menzildeki seçili hedeflere otomatik saldırır,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d54819e7772a,Automatically revives the character at the place of death. Resumes hunting after reaching the configured HP level,Automatycznie wskrzesza postać w miejscu śmierci. Wznawia łowy po odzyskaniu ustawionego poziomu HP,Karakteri öldüğü yerde otomatik olarak canlandırır. Ayarlanan HP seviyesine ulaşınca ava devam eder,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f6f8532c0d9,Returns to the auto hunt starting point when there is no attack target or item to pick up,"Wraca do miejsca rozpoczęcia autołowów, gdy nie ma celu do ataku ani przedmiotów do podniesienia",Saldırılacak hedef veya toplanacak eşya kalmayınca otomatik avın başlangıç noktasına döner,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d746684a23a2,"Battle horse: fights in place, only what is near - off only for buffs","Koń bojowy: atak w miejscu, tylko to, co blisko - po buffy zsiada","Savaş atı: yerinde, yalnızca yakındakilerle savaşır - sadece destek becerileri için iner","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5fd4632150d9,"Foot Ninja archer: runs away from a nearby monster, stops and shoots","Ninja łucznik pieszo: odbiega od pobliskiego potwora, zatrzymuje się i strzela","Yaya Ninja okçu: yakındaki bir canavardan uzaklaşır, durur ve ok atar","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:952f375412e8,Start,Start,Başlat,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9e253470c876,Stop,Zatrzymaj,Durdur,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c7f73bb54d92,Settings,Ustawienia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c7f73bb54d92,Settings,Ustawienia,Ayarlar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cadfb5be2a34,Fishing,Ryby,Balıkçılık,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6fe38fedea01,Switch to automatic fishing.,Przelacz na automatyczne lowienie ryb.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:19b4b83e0ac9,Automatic fishing,Automatyczne lowienie,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5a26d9857d19,1. Equip a rod and a fishing pass.,1. Zaloz wedke i karte wedkarska.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5d6733214337,2. Stand beside water. Choose Start.,2. Stan przy wodzie. Wybierz Start.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:2beb40a0261b,Bait is taken from your inventory.,Przyneta jest pobierana z ekwipunku.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:25de1d0ec70d,Normal fishing requirements still apply.,Obowiazuja wymagania zwyklego lowienia.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:6dfdb56394c1,Movement or combat stops fishing.,Ruch lub walka zatrzymuja lowienie.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:4deccc0047a5,Does not buy bait or open caught fish.,Nie kupuje przynety ani nie otwiera ryb.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:01f3a8887d9e,Start again after relogging or warping.,Po relogu lub zmianie mapy wlacz ponownie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6fe38fedea01,Switch to automatic fishing.,Przelacz na automatyczne lowienie ryb.,Otomatik balık tutmaya geç.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19b4b83e0ac9,Automatic fishing,Automatyczne lowienie,Otomatik balık tutma,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5a26d9857d19,1. Equip a rod and a fishing pass.,1. Zaloz wedke i karte wedkarska.,1. Bir olta ve balıkçılık kartı kuşan.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d6733214337,2. Stand beside water. Choose Start.,2. Stan przy wodzie. Wybierz Start.,2. Suyun kenarında dur. Başlat'ı seç.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2beb40a0261b,Bait is taken from your inventory.,Przyneta jest pobierana z ekwipunku.,Yem envanterinden alınır.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25de1d0ec70d,Normal fishing requirements still apply.,Obowiazuja wymagania zwyklego lowienia.,Normal balık tutma koşulları yine geçerlidir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6dfdb56394c1,Movement or combat stops fishing.,Ruch lub walka zatrzymuja lowienie.,Hareket etmek veya savaşmak balık tutmayı durdurur.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4deccc0047a5,Does not buy bait or open caught fish.,Nie kupuje przynety ani nie otwiera ryb.,Yem satın almaz ve yakalanan balıkları açmaz.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01f3a8887d9e,Start again after relogging or warping.,Po relogu lub zmianie mapy wlacz ponownie.,Yeniden giriş yaptıktan veya ışınlandıktan sonra tekrar başlat.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:af169bb89cfb,Combat,Walka,Savaş,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c397cd03c935,Auto Hunt - Fishing,Auto Lowy - Lowienie,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:a93bdaa0b916,Enable / disable: ,Włącz / wyłącz: ,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:206d7fc90dfe,Waiting for HP (%d%%),Czekam na HP (%d%%),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
-c:pbt:63faa9df5d8e,Casting buffs,Rzucam buffy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5e63d1c6c525,Archer: kiting,Łucznik: atak i odwrót,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:a879bb70b32b,Getting round an obstacle,Omijam przeszkodę,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:1553480e017a,Taking the way round,Idę drogą dookoła,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:759ccbbb116e,Dismounting for skills,Zsiadam po skille,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:1c43a3f5e379,Rider: getting off for buffs,Bojowiec: zsiadam po buffy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e4f7b8c3f476,Casting skills,Rzucam skille,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e1f505a2c092,Rider: casting buffs,Bojowiec: rzucam buffy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:944cfb469ffa,Mounting the horse,Wsiadam na konia,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:81698cd8fdc7,Rider: getting on the horse,Bojowiec: wsiadam na konia,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:f10423117bb9,Rider - target: %s,Bojowiec - cel: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:1fba5f85a18e,Rider: waiting for monsters,Bojowiec: czekam na potwory,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:0d4595f6f665,Target: %s,Cel: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:aa9f8bfd272f,Picking up an item,Podnoszę przedmiot,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e197f22aac98,Looking for monsters,Szukam potworków,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ebea5fed56a8,Monsters,Moby,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:9334c768771b,Metins,Metiny,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:97ec1f0dd897,Bosses,Bossy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:8a63c51267b7,Click a block to enable or disable its category.,"Kliknij bloczek, aby włączyć lub wyłączyć kategorię.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ce091085a07d,Drag blocks: the leftmost category has the highest priority.,Przeciągnij bloczki: kategoria po lewej ma najwyższy priorytet.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:05dee3243618,"If that category has no target in range, the next enabled category is checked.","Gdy w tej kategorii brak celu w zasięgu, sprawdzana jest kolejna włączona kategoria.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:04a3365bbe63,Auto Hunt - Settings,Auto Łowy - Ustawienia,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:bb515659740a,Item pick-up,Podnoszenie przedmiotów,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:6cfadc16ce81,Automatic pick-up,Automatyczne podnoszenie,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e503e8d18dae,Automatically picks up items within the configured range according to the selected categories,"Automatycznie podnosi przedmioty w ustawionym zasięgu, zgodnie z wybranymi kategoriami",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:622636ac67d6,Filter for Z and `,Filtr dla Z i `,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c397cd03c935,Auto Hunt - Fishing,Auto Lowy - Lowienie,Otomatik Av - Balıkçılık,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a93bdaa0b916,Enable / disable: ,Włącz / wyłącz: ,Aç / kapat: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:206d7fc90dfe,Waiting for HP (%d%%),Czekam na HP (%d%%),HP bekleniyor (%d%%),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:63faa9df5d8e,Casting buffs,Rzucam buffy,Destek becerileri kullanılıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e63d1c6c525,Archer: kiting,Łucznik: atak i odwrót,Okçu: kaçarak vurma,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a879bb70b32b,Getting round an obstacle,Omijam przeszkodę,Bir engelin etrafından dolaşılıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1553480e017a,Taking the way round,Idę drogą dookoła,Dolambaçlı yoldan gidiliyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:759ccbbb116e,Dismounting for skills,Zsiadam po skille,Beceriler için attan iniliyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c43a3f5e379,Rider: getting off for buffs,Bojowiec: zsiadam po buffy,Binici: destek becerileri için iniyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4f7b8c3f476,Casting skills,Rzucam skille,Beceriler kullanılıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e1f505a2c092,Rider: casting buffs,Bojowiec: rzucam buffy,Binici: destek becerileri kullanıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:944cfb469ffa,Mounting the horse,Wsiadam na konia,Ata biniliyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:81698cd8fdc7,Rider: getting on the horse,Bojowiec: wsiadam na konia,Binici: ata biniyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f10423117bb9,Rider - target: %s,Bojowiec - cel: %s,Binici - hedef: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:1fba5f85a18e,Rider: waiting for monsters,Bojowiec: czekam na potwory,Binici: canavar bekliyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d4595f6f665,Target: %s,Cel: %s,Hedef: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:aa9f8bfd272f,Picking up an item,Podnoszę przedmiot,Eşya toplanıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e197f22aac98,Looking for monsters,Szukam potworków,Canavar aranıyor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ebea5fed56a8,Monsters,Moby,Canavarlar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9334c768771b,Metins,Metiny,Metinler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97ec1f0dd897,Bosses,Bossy,Bosslar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a63c51267b7,Click a block to enable or disable its category.,"Kliknij bloczek, aby włączyć lub wyłączyć kategorię.",Kategorisini açmak veya kapatmak için bir bloğa tıkla.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce091085a07d,Drag blocks: the leftmost category has the highest priority.,Przeciągnij bloczki: kategoria po lewej ma najwyższy priorytet.,Blokları sürükle: en soldaki kategori en yüksek önceliğe sahiptir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05dee3243618,"If that category has no target in range, the next enabled category is checked.","Gdy w tej kategorii brak celu w zasięgu, sprawdzana jest kolejna włączona kategoria.","O kategoride menzil içinde hedef yoksa, açık olan bir sonraki kategoriye bakılır.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04a3365bbe63,Auto Hunt - Settings,Auto Łowy - Ustawienia,Otomatik Av - Ayarlar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb515659740a,Item pick-up,Podnoszenie przedmiotów,Eşya toplama,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6cfadc16ce81,Automatic pick-up,Automatyczne podnoszenie,Otomatik toplama,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e503e8d18dae,Automatically picks up items within the configured range according to the selected categories,"Automatycznie podnosi przedmioty w ustawionym zasięgu, zgodnie z wybranymi kategoriami",Ayarlanan menzildeki eşyaları seçili kategorilere göre otomatik olarak toplar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:622636ac67d6,Filter for Z and `,Filtr dla Z i `,Z ve ` için filtre,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:408aba85c53a,On: Z / ` use item choices and minimum bonuses. Off: pick up everything.,Wl: Z / ` stosuja wybrane przedmioty i minimum bonusow. Wyl: podnosza wszystko.,Açık: Z / ` eşya seçimlerini ve minimum bonusları kullanır. Kapalı: her şeyi toplar.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:518fa1e886df,Select items...,Wybierz przedmioty...,Eşya seç...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b68c14290315,What to attack,Cele do atakowania,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d4f8824fb9a4,Uses distance instead of the block order. Dragging a block restores category ordering.,Wybiera cel według odległości zamiast kolejności bloczków. Przeciągnięcie bloczka przywraca kolejność kategorii.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:7ba4cf924d3e,Additional settings,Dodatkowe ustawienia,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:459581ded4b1,Autologin,Autologin,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:36e795e9663f,Log in again and resume auto hunt after a lost connection,Po utracie połączenia zaloguj ponownie i wznów autołowy,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:69c6b60fdc04,Auto Hunt shortcut,Skrót Auto Łowów,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:86b0f314fd64,Drag the icon,Przeciągnij ikonę,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e42192012cec,onto the quickbar,na pasek skrótów,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ab54e01938d6,Range: %d,Zasięg: %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
-c:pbt:1bc3102ff5fb,Nearest target,Najbliższy cel,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:7228e11fd406, (mounted: %d), (na koniu: %d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:b68c14290315,What to attack,Cele do atakowania,Neye saldırılsın,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4f8824fb9a4,Uses distance instead of the block order. Dragging a block restores category ordering.,Wybiera cel według odległości zamiast kolejności bloczków. Przeciągnięcie bloczka przywraca kolejność kategorii.,Blok sırası yerine mesafeyi kullanır. Bir bloğu sürüklemek kategori sıralamasını geri getirir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7ba4cf924d3e,Additional settings,Dodatkowe ustawienia,Ek ayarlar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:459581ded4b1,Autologin,Autologin,Otomatik giriş,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36e795e9663f,Log in again and resume auto hunt after a lost connection,Po utracie połączenia zaloguj ponownie i wznów autołowy,Bağlantı koptuktan sonra yeniden giriş yap ve otomatik ava devam et,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:69c6b60fdc04,Auto Hunt shortcut,Skrót Auto Łowów,Otomatik Av kısayolu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:86b0f314fd64,Drag the icon,Przeciągnij ikonę,Simgeyi sürükle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e42192012cec,onto the quickbar,na pasek skrótów,hızlı çubuğa,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab54e01938d6,Range: %d,Zasięg: %d,Menzil: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1bc3102ff5fb,Nearest target,Najbliższy cel,En yakın hedef,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7228e11fd406, (mounted: %d), (na koniu: %d), (binekteyken: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:0ab53071a18a,Chest opener,Otwieracz,Sandık açıcı,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b2a557673b1f,No chest chosen,Nie wybrano skrzynki,Sandık seçilmedi,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:da8c5b5304bf,Choose a chest from your inventory,Wybierz skrzynkę z EQ,Envanterinden bir sandık seç,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -257,30 +257,30 @@ c:pbt:6915211463ff,Applying display settings...,Zmienianie ustawień obrazu...,E
 c:pbt:68f51e4b9ca1,These settings could not be applied.,Nie można zastosować tych ustawień.,Bu ayarlar uygulanamadı.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4609daf9e56d,Display change failed (%d).,Błąd zmiany obrazu (%d).,Ekran değişikliği başarısız (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:b7829a25d8a8,Display / interface,Obraz / interfejs,Ekran / arayüz,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ba78ab6ae88,Hover over a prize to see its bonuses.,"Najedź na nagrodę, aby zobaczyć jej bonusy.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:09bf7888cde9,You have too few Dragon Coins.,Masz za mało Smoczych Monet.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:bdfce41a74f2,Close other windows and try again.,Zamknij inne okna i spróbuj ponownie.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:fc00ae3d3784,The wheel is still turning.,Koło jeszcze się kręci.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:131c30c3f8e3,You cannot spin the wheel now.,Nie możesz teraz kręcić kołem.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d17ebe45ae48,Unknown way of paying.,Nieznany sposób zapłaty.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:754b9a1336eb,The wheel is not available.,Koło niedostępne.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:f75c68dae1b8,You have no Lucky Ticket.,Nie masz Kuponu Losu.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:6ee419d36065,Wheel of Fortune,Koło Fortuny,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:093b995d0394,WHEEL OF FORTUNE,KOŁO FORTUNY,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:bda9f0424d9e,Spin and discover your prize.,Zakręć i odkryj swoją nagrodę.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:5631850dd717,Skip the animation,Pomiń animację,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:fe6f094f3f44,%s DC,%s SM,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:4ed3f9288b69,Lucky Ticket (%d),Kupon Losu (%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
-c:pbt:e1a0229f789b,You have no Lucky Ticket - choose Dragon Coins.,Nie masz Kuponu Losu - zaznacz Smocze Monety.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:b0df33014cd6,Use 1 Lucky Ticket on a spin of the wheel?,Użyć 1 Kuponu Losu na obrót koła?,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:c2fac2d906b7,Spend %s on a spin of the wheel?,Wydać %s na obrót koła?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:bd51a1021c4f,Waiting for the result...,Oczekiwanie na wynik...,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:cd9147bafef7,Spin finished. Waiting for your reward...,Losowanie zakończone. Oczekiwanie na nagrodę...,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:d50d1e72a370,You won: %s,Wygrałeś: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:43a51c97e470,[Wheel of Fortune] ,[Koło Fortuny] ,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ed8a90bc8a0f,No answer from the server.,Brak odpowiedzi serwera.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:25aa183f151b,No answer. Check your inventory.,Brak odpowiedzi. Sprawdź ekwipunek.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:bb01a19b8eaf,[Wheel of Fortune] You won: %s,[Koło Fortuny] Wygrałeś: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:0ba78ab6ae88,Hover over a prize to see its bonuses.,"Najedź na nagrodę, aby zobaczyć jej bonusy.",Bonuslarını görmek için imleci bir ödülün üzerine getir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09bf7888cde9,You have too few Dragon Coins.,Masz za mało Smoczych Monet.,Yeterli Ejderha Paran yok.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bdfce41a74f2,Close other windows and try again.,Zamknij inne okna i spróbuj ponownie.,Diğer pencereleri kapatıp tekrar dene.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc00ae3d3784,The wheel is still turning.,Koło jeszcze się kręci.,Çark hâlâ dönüyor.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:131c30c3f8e3,You cannot spin the wheel now.,Nie możesz teraz kręcić kołem.,Çarkı şu anda çeviremezsin.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d17ebe45ae48,Unknown way of paying.,Nieznany sposób zapłaty.,Bilinmeyen ödeme yöntemi.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:754b9a1336eb,The wheel is not available.,Koło niedostępne.,Çark kullanılamıyor.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f75c68dae1b8,You have no Lucky Ticket.,Nie masz Kuponu Losu.,Lucky Ticket'ın yok.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ee419d36065,Wheel of Fortune,Koło Fortuny,Şans Çarkı,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:093b995d0394,WHEEL OF FORTUNE,KOŁO FORTUNY,ŞANS ÇARKI,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bda9f0424d9e,Spin and discover your prize.,Zakręć i odkryj swoją nagrodę.,Çevir ve ödülünü keşfet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5631850dd717,Skip the animation,Pomiń animację,Animasyonu atla,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fe6f094f3f44,%s DC,%s SM,%s EP,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:4ed3f9288b69,Lucky Ticket (%d),Kupon Losu (%d),Lucky Ticket (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e1a0229f789b,You have no Lucky Ticket - choose Dragon Coins.,Nie masz Kuponu Losu - zaznacz Smocze Monety.,Lucky Ticket'ın yok - Ejderha Parası'nı seç.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b0df33014cd6,Use 1 Lucky Ticket on a spin of the wheel?,Użyć 1 Kuponu Losu na obrót koła?,Çarkı çevirmek için 1 Lucky Ticket kullanılsın mı?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2fac2d906b7,Spend %s on a spin of the wheel?,Wydać %s na obrót koła?,Çarkı çevirmek için %s harcansın mı?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bd51a1021c4f,Waiting for the result...,Oczekiwanie na wynik...,Sonuç bekleniyor...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd9147bafef7,Spin finished. Waiting for your reward...,Losowanie zakończone. Oczekiwanie na nagrodę...,Çevirme bitti. Ödülün bekleniyor...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d50d1e72a370,You won: %s,Wygrałeś: %s,Kazandın: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:43a51c97e470,[Wheel of Fortune] ,[Koło Fortuny] ,[Şans Çarkı] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed8a90bc8a0f,No answer from the server.,Brak odpowiedzi serwera.,Sunucudan yanıt yok.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25aa183f151b,No answer. Check your inventory.,Brak odpowiedzi. Sprawdź ekwipunek.,Yanıt yok. Envanterini kontrol et.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb01a19b8eaf,[Wheel of Fortune] You won: %s,[Koło Fortuny] Wygrałeś: %s,[Şans Çarkı] Kazandın: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:3b129319940f,Guild bots,Boty gildii,Lonca botları,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5a0da4e0a804,Call the free bots of your guild near you.,Wezwij wolne boty gildii z tej części świata.,Loncanın boştaki botlarını yanına çağır.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b1a2c392bdb7,Help me!,Pomocy!,İmdat!,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -366,7 +366,7 @@ c:pbt:977d44d9558b,"Summon your companion and set combat and pickup. Its window 
 c:pbt:fca1ec8b3d85,Auto Hunt,Auto Łowy,Otomatik Av,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:aabcf0e5b6dc,"Set targets, range, skills, potions and pickup kinds. Battle Rider fights from a combat horse.","Ustaw cele, zasięg, umiejętności, mikstury i rodzaje dropu. Bojowiec walczy z konia bojowego.","Hedefleri, menzili, becerileri, iksirleri ve toplama türlerini ayarla. Savaş Binicisi, savaş atından savaşır.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a48ae114274d,Pickup filters,Filtry dropu,Toplama filtreleri,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39655da2304d,K / P,K / P,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:39655da2304d,K / P,K / P,K / P,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cba05c465f4b,K: pickup kinds and filter for Z / `. P: Drop and Filter also govern bots collecting your party share.,K: rodzaje dropu i filtr dla Z / `. P: Drop i Filtr sterują też botami zbierającymi twój drop w PT.,"K: Z / ` için toplama türleri ve filtre. P: Drop ve Filtre, grup payını toplayan botlar için de geçerlidir.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1305fffae062,Fame and diagnostics,Sława i diagnostyka,Şöhret ve tanılama,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2c0697bd48b9,"F11 shows your fame and ranking. Ctrl+F11 shows or hides the diagnostics at the top right: position, FPS and camera (by Lostek).","F11 pokazuje twoją sławę i ranking. Ctrl+F11 pokazuje lub ukrywa informacje diagnostyczne w prawym górnym rogu: pozycję, FPS i kamerę (Lostek).","F11 şöhretini ve sıralamanı gösterir. Ctrl+F11 sağ üstteki tanılama bilgilerini gösterir veya gizler: konum, FPS ve kamera (Lostek tarafından).","client: our windows (companion, Auto Hunt, status lines)",done
@@ -408,55 +408,55 @@ c:pbt:5fe28116e643,Help and horse,Pomoc i koń,Yardım ve at,"client: our window
 c:pbt:c520865b329f,H opens and closes help. Ctrl+H keeps its horse action. Some features may be disabled in world settings.,H otwiera i zamyka pomoc. Ctrl+H zachowuje obsługę konia. Część funkcji może być wyłączona w ustawieniach świata.,H yardımı açar ve kapatır. Ctrl+H at eylemini korur. Bazı özellikler dünya ayarlarında kapatılmış olabilir.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:45e5f3f72e96,Commands,Komendy,Komutlar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b76736f1ad71,Command  |  what for,Komenda  |  czego dotyczy,Komut  |  ne için,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab82dcd51304,/companion summon | wait | free,/towarzysz przywolaj | czekaj | wolny,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ab82dcd51304,/companion summon | wait | free,/towarzysz przywolaj | czekaj | wolny,/companion summon | wait | free,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:70d14bc0423a,"Call your companion, make it wait or let it go free. /sidekick is the same. PL: /towarzysz przywolaj | czekaj | wolny.","Wezwij towarzysza, każ mu czekać albo puść go wolno. EN: /companion summon | wait | free (także /sidekick).","Yoldaşını çağır, beklet ya da serbest bırak. /sidekick de aynısı. PL: /towarzysz przywolaj | czekaj | wolny.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e15b3423d84b,/companion fight attack | defend | passive,/towarzysz walka atakuj | obrona | spokoj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e15b3423d84b,/companion fight attack | defend | passive,/towarzysz walka atakuj | obrona | spokoj,/companion fight attack | defend | passive,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a86fcf78cbf3,"Fighting stance: attacks on its own, only defends you, or does not fight. PL: /towarzysz walka atakuj | obrona | spokoj.","Postawa w walce: sam atakuje, tylko cię broni albo nie walczy. EN: /companion fight attack | defend | passive.","Savaş duruşu: kendisi saldırır, yalnızca seni korur ya da savaşmaz. PL: /towarzysz walka atakuj | obrona | spokoj.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a5189a27a351,/companion loot none | owner | all,/towarzysz zbieraj 0 | 1 | 2,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a5189a27a351,/companion loot none | owner | all,/towarzysz zbieraj 0 | 1 | 2,/companion loot none | owner | all,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:336d74d33c85,"What it picks up: nothing, only your drop, or the whole drop. PL: /towarzysz zbieraj 0 | 1 | 2.","Co zbiera: nic, tylko twój drop albo cały drop. EN: /companion loot none | owner | all.","Ne toplar: hiçbir şey, yalnızca senin dropun ya da tüm drop. PL: /towarzysz zbieraj 0 | 1 | 2.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f77105e898c,/companion protect | buffs | lure | ranged on|off,/towarzysz ochrona | buffy | luruj | dystans 0|1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9f77105e898c,/companion protect | buffs | lure | ranged on|off,/towarzysz ochrona | buffy | luruj | dystans 0|1,/companion protect | buffs | lure | ranged on|off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:55ed9866e01f,Pulls monsters off you when you are dying; buffs you; lures; hits archers and casters first. Example: /companion buffs on.,"Ściąga potwory, gdy giniesz; buffuje cię; luruje; najpierw bije łuczników i magów. Przykład: /towarzysz buffy 1 (EN: buffs on).",Ölmek üzereyken canavarları üstüne çeker; sana buff verir; çeker; önce okçulara ve büyücülere vurur. Örnek: /companion buffs on.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b544b1c8b96,/companion solo | party | chests | coins | lock on|off,/towarzysz sam | grupa | skrzynki | monety | blokada 0|1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1b544b1c8b96,/companion solo | party | chests | coins | lock on|off,/towarzysz sam | grupa | skrzynki | monety | blokada 0|1,/companion solo | party | chests | coins | lock on|off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1331f47dc39f,"Plays without you; joins your party; opens chests; spends Dragon Coins; leaves its gear alone. PL: sam, grupa, skrzynki, monety, blokada.","Gra bez ciebie; wchodzi do twojej grupy; otwiera skrzynie; wydaje Smocze Monety; nie rusza swojego sprzętu. EN: solo, party, chests, coins, lock.","Sensiz oynar; grubuna katılır; sandık açar; Ejder Parası harcar; ekipmanına dokunmaz. PL: sam, grupa, skrzynki, monety, blokada.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:729c31d7bc58,/companion shopping | fishing | status,/towarzysz zakupy | lowienie | stan,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:729c31d7bc58,/companion shopping | fishing | status,/towarzysz zakupy | lowienie | stan,/companion shopping | fishing | status,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d7aa7f28eda9,Send it shopping in town or fishing; status says what it is doing now. PL: /towarzysz zakupy | lowienie | stan.,"Wyślij go po zakupy do miasta albo na ryby; stan mówi, co teraz robi. EN: /companion shopping | fishing | status.",Onu kasabaya alışverişe ya da balığa gönder; status şu an ne yaptığını söyler. PL: /towarzysz zakupy | lowienie | stan.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9845468bf74d,/companion bag yang give | take <amount>,/towarzysz eq yang daj | wez <ilosc>,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9845468bf74d,/companion bag yang give | take <amount>,/towarzysz eq yang daj | wez <ilosc>,/companion bag yang give | take <miktar>,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dd54ec31bf81,Give your companion yang or take it back. Example: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,Daj towarzyszowi yang albo zabierz mu. Przykład: /towarzysz eq yang wez 1000000 (EN: /companion bag yang take 1000000).,Yoldaşına yang ver ya da geri al. Örnek: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bcacd50a224c,/companion bag sort | merge,/towarzysz eq sortuj | scal,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bcacd50a224c,/companion bag sort | merge,/towarzysz eq sortuj | scal,/companion bag sort | merge,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8ca3b9856d1e,Sorts your companion's bag or merges its stacks; items move with the mouse in its window (P). PL: /towarzysz eq sortuj | scal.,Uporządkuj plecak towarzysza albo scal jego stosy; przedmioty przenosisz myszą w jego oknie (P). EN: /companion bag sort | merge.,Yoldaşının çantasını sıralar ya da yığınları birleştirir; eşyaları penceresinde (P) fareyle taşırsın. PL: /towarzysz eq sortuj | scal.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0cd4442a53b9,/companion stats add str|dex|vit|int [n],/towarzysz statystyki dodaj st|dx|ht|iq [ile],,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0cd4442a53b9,/companion stats add str|dex|vit|int [n],/towarzysz statystyki dodaj st|dx|ht|iq [ile],/companion stats add str|dex|vit|int [n],"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d4d3f5d67618,"Spends its status points, e.g. /companion stats add str 5; stats reset is its one free reset. PL: statystyki dodaj st 5, statystyki odnow.","Wydaj jego punkty statusu, np. /towarzysz statystyki dodaj st 5; statystyki odnow to jeden darmowy reset. EN: stats add str 5, stats reset.","Statü puanlarını dağıtır, örn. /companion stats add str 5; stats reset tek ücretsiz sıfırlamasıdır. PL: statystyki dodaj st 5, statystyki odnow.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:655f5b60902f,/companion skills | stats manual on|off,/towarzysz umiejetnosci | statystyki reczne 0|1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:655f5b60902f,/companion skills | stats manual on|off,/towarzysz umiejetnosci | statystyki reczne 0|1,/companion skills | stats manual on|off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7ccd36cf825f,"You spend the skill or status points (on), or your companion does it itself (off). PL: /towarzysz umiejetnosci reczne 1.",Punkty umiejętności albo statusu rozdajesz ty (1) albo towarzysz sam (0). EN: /companion skills manual on.,Beceri ya da statü puanlarını sen dağıtırsın (on) ya da yoldaşın kendisi (off). PL: /towarzysz umiejetnosci reczne 1.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d87684e23ba,/companion polymorph ask | with | always | off,/towarzysz marmury pytaj | ztoba | zawsze | nie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4d87684e23ba,/companion polymorph ask | with | always | off,/towarzysz marmury pytaj | ztoba | zawsze | nie,/companion polymorph ask | with | always | off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:165d83c8b1da,"Polymorph marbles: asks after you transform, transforms with you, always, or never. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","Marmury przemiany: pyta po twojej przemianie, przemienia się z tobą, zawsze albo nigdy. EN: /companion polymorph ask | with | always | off.","Dönüşüm mermerleri: sen dönüşünce sorar, seninle dönüşür, her zaman ya da asla. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1f50534ba5f1,/companion saddle auto | always | never,/towarzysz kon auto | zawsze | nigdy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1f50534ba5f1,/companion saddle auto | always | never,/towarzysz kon auto | zawsze | nigdy,/companion saddle auto | always | never,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ba3cea4b7b35,"Fighting from the saddle: by its class, always while you ride, or always on foot. PL: /towarzysz kon auto | zawsze | nigdy.","Walka z konia: według klasy, zawsze z konia, gdy jedziesz, albo zawsze pieszo. EN: /companion saddle auto | always | never.","At üstünde savaş: sınıfına göre, sen binerken her zaman ya da her zaman yaya. PL: /towarzysz kon auto | zawsze | nigdy.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dbcee1c65633,/companion exp | support on|off,/towarzysz exp | wsparcie 0|1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:dbcee1c65633,/companion exp | support on|off,/towarzysz exp | wsparcie 0|1,/companion exp | support on|off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1872edeb9008,exp: your Anti-Exp Ring stops blocking its EXP (up to your level +30). support: it stays behind and buffs. PL: exp | wsparcie.,exp: twój pierścień anty-EXP nie blokuje jego EXP (do twojego poziomu +30). wsparcie: trzyma się z tyłu i buffuje. EN: exp | support.,exp: Anti-EXP yüzüğün artık onun EXP'sini engellemez (senin seviyen +30'a kadar). support: geride kalır ve buff verir. PL: exp | wsparcie.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:45c4823e77d1,/companion store on | off,/towarzysz sklep 1 | 0,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:45c4823e77d1,/companion store on | off,/towarzysz sklep 1 | 0,/companion store on | off,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:28c8e29c04d9,Opens or closes your companion's counter; without a number it says how the counter stands. PL: /towarzysz sklep 1 | 0.,"Otwiera albo zamyka stoisko towarzysza; bez liczby mówi, co się z nim dzieje. EN: /companion store on | off.",Yoldaşının tezgâhını açar ya da kapatır; sayı olmadan tezgâhın durumunu söyler. PL: /towarzysz sklep 1 | 0.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01376fa2658c,/companion dismiss yes,/towarzysz odprawa tak,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:01376fa2658c,/companion dismiss yes,/towarzysz odprawa tak,/companion dismiss yes,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0a3ea265da44,"Dismisses your companion for good - that character does not come back. Without ""yes"" it only asks. PL: /towarzysz odprawa tak.","Odprawia towarzysza na zawsze - tej postaci już nie odzyskasz. Bez ""tak"" tylko pyta. EN: /companion dismiss yes.","Yoldaşını temelli gönderir - o karakter geri gelmez. ""yes"" olmadan yalnızca sorar. PL: /towarzysz odprawa tak.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f2cf0a1a974d,/guild_bots help | exp | return,/gildia_boty pomoc | exp | wracajcie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f2cf0a1a974d,/guild_bots help | exp | return,/gildia_boty pomoc | exp | wracajcie,/guild_bots help | exp | return,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:54241a3d0070,Guild,Gildia,Lonca,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:26a3ee028295,"Your guild's bots: help in a fight, hunt together, go back. The same as the guild window's Guild bots button; /gildia_boty takes these words too.","Boty twojej gildii: pomoc w walce, wspólny exp, powrót. To samo co przycisk Boty gildii w oknie gildii. EN: /guild_bots help | exp | return.","Loncanın botları: savaşta yardım, birlikte avlanma, geri dönüş. Lonca penceresindeki Lonca botları düğmesiyle aynı; /gildia_boty bu kelimeleri de alır.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d99afeeb7ea6,/dice [max] | /dice <min> <max>,/dice [max] | /dice <od> <do>,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d99afeeb7ea6,/dice [max] | /dice <min> <max>,/dice [max] | /dice <od> <do>,/dice [max] | /dice <min> <max>,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e3e82846c325,Game,Gra,Oyun,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:3f0b780c77db,"Rolls a die, 1-100 by default; your whole party sees the result. Example: /dice 6.","Rzut kością, domyślnie 1-100; wynik widzi cała twoja grupa. Przykład: /dice 6.","Zar atar, varsayılan 1-100; tüm grubun sonucu görür. Örnek: /dice 6.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee888c848ef5,/ride | /unmount,/ride | /unmount,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ee888c848ef5,/ride | /unmount,/ride | /unmount,/ride | /unmount,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:3b79e36c67ea,"Get on your horse or on a mount seal (the same as Ctrl+G), and get off it.",Wsiądź na konia albo na wierzchowca z pieczęci (to samo co Ctrl+G) i zsiądź z niego.,Atına ya da mühür bineğine bin (Ctrl+G ile aynı) ve in.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de2ac055257a,/restart_here | /restart_town,/restart_here | /restart_town,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:de2ac055257a,/restart_here | /restart_town,/restart_here | /restart_town,/restart_here | /restart_town,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:027b10fe054e,After dying: stand up here or in town - the same as the buttons of the death window.,Po śmierci: wstań w miejscu albo w mieście - to samo co przyciski okna śmierci.,Öldükten sonra: burada ya da şehirde kalk - ölüm penceresinin düğmeleriyle aynı.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ebf877f1789,/escape,/escape,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0ebf877f1789,/escape,/escape,/escape,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2caa7ddc09f5,"Frees a character stuck on blocked ground. Not in a fight or while dead, and only once in a while.","Uwalnia postać, która utknęła w zablokowanym miejscu. Nie w walce i nie po śmierci, raz na jakiś czas.","Engelli zeminde sıkışan karakteri kurtarır. Savaşta ya da ölüyken olmaz, ara sıra kullanılır.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:966308760d05,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <ile>,,"client: our windows (companion, Auto Hunt, status lines) | keep: |c...|r colour codes",new
+c:pbt:966308760d05,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <ile>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,"client: our windows (companion, Auto Hunt, status lines) | keep: |c...|r colour codes",done
 c:pbt:ba1d534991bf,"Spends one status point, or several at once, e.g. /str+ 10 (strength) or /con+ 5 (vitality).","Wydaj jeden punkt statusu albo kilka naraz, np. /str+ 10 (siła) albo /con+ 5 (witalność).","Bir statü puanı ya da birkaçını birden harcar, örn. /str+ 10 (güç) ya da /con+ 5 (canlılık).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fabdd75fd1db,/change_channel 1-4,/change_channel 1-4,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fabdd75fd1db,/change_channel 1-4,/change_channel 1-4,/change_channel 1-4,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1b390b94e5ce,Moves you to another channel - the same as X+1-4 or a CH button by the minimap.,Przejdź na inny kanał - to samo co X+1-4 albo przycisk CH przy minimapie.,Seni başka bir kanala geçirir - X+1-4 ya da mini haritanın yanındaki bir CH düğmesiyle aynı.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8e5e664a3a76,/bot_rank,/bot_rank,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8e5e664a3a76,/bot_rank,/bot_rank,/bot_rank,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb87dc9da092,"The ten highest-level bots in the game, with their position and party.","Dziesięć botów o najwyższym poziomie w grze, z ich pozycją i grupą.","Oyundaki en yüksek seviyeli on bot, konumları ve gruplarıyla.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:adbaee89f258,/logout | /quit | /phase_select,/logout | /quit | /phase_select,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:adbaee89f258,/logout | /quit | /phase_select,/logout | /quit | /phase_select,/logout | /quit | /phase_select,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4118bbd7b8fd,"Log out, quit the game, or go back to character selection (after a few seconds).","Wyloguj się, zamknij grę albo wróć do wyboru postaci (po kilku sekundach).","Oturumu kapat, oyundan çık ya da karakter seçimine dön (birkaç saniye sonra).","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b66a609bf96f,Help - Metin2 Singleplayer,Pomoc - Metin2 Singleplayer,Yardım - Metin2 Singleplayer,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5fcebeefad3c,Basics,Podstawy,Temel bilgiler,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -505,12 +505,12 @@ c:pbt:da2b63a76327,Raises HP and defence.,Podnosi PŻ i obronę.,HP ve savunmay�
 c:pbt:8123c3249b76,Raises SP and magic attack.,Podnosi PE i magiczny atak.,SP'yi ve büyü saldırısını artırır.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2d9e43566a99,Raises attack.,Podnosi atak.,Saldırıyı artırır.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6eec259246b0,Raises attack and evasion.,Podnosi atak i uniki.,Saldırıyı ve kaçınmayı artırır.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca8aa56a1d8d,Own EXP,Osobny EXP,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:2f2467b6ce3d,"EXP despite your Anti-Exp Ring, up to your level +30.","EXP mimo twojego anty-EXP, do twojego poziomu +30.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:8dd3ec3d963a,Behind,Z tylu,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:494b05fa47c9,"While following, stays behind and buffs without fighting. Wait and other orders take priority.",Przy tobie stoi z tylu i buffuje bez walki. Czekaj i inne polecenia maja pierwszenstwo.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:9fc93acaa44f,Solo,Solo,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e9d950ac96af,Lock EQ,Blokada,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ca8aa56a1d8d,Own EXP,Osobny EXP,Kendi EXP'si,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f2467b6ce3d,"EXP despite your Anti-Exp Ring, up to your level +30.","EXP mimo twojego anty-EXP, do twojego poziomu +30.","Anti-EXP Yüzüğü'ne rağmen EXP, senin seviyenin +30 fazlasına kadar.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dd3ec3d963a,Behind,Z tylu,Arkada,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:494b05fa47c9,"While following, stays behind and buffs without fighting. Wait and other orders take priority.",Przy tobie stoi z tylu i buffuje bez walki. Czekaj i inne polecenia maja pierwszenstwo.,Takip ederken arkada kalır ve savaşmadan destek becerileri kullanır. Bekle ve diğer emirler önceliklidir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fc93acaa44f,Solo,Solo,Solo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9d950ac96af,Lock EQ,Blokada,EQ kilidi,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a6a535b865db,Ranged,Dystans,Menzil,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2ed967a66970,Waiting for the server...,Czekam na odpowiedź serwera...,Sunucu bekleniyor...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7f2eda10563c,You have no companion yet.,Nie masz jeszcze towarzysza.,Henüz bir yoldaşın yok.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -540,11 +540,11 @@ c:pbt:3799b2ccda5c,Reset %s?,Wyzerować %s?,%s sıfırlansın mı?,"client: our 
 c:pbt:ee5434bb8744, Its Master grade will be lost., Mistrz przepadnie., Master seviyesi kaybolacak.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:23e13c4fb77e,"Matching Forgetfulness Books: %d, or 1 Skill Reset Document.",%d KZ tej umiejętności albo 1 Zwój Powrotu Umiejętności.,Bu beceri için Unutkanlık Kitabı: %d veya 1 Beceri Sıfırlama Kağıdı.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:1d93c338318a,Master: 1 Skill Reset Document. Forgetfulness Books cannot be used.,Mistrz: 1 Zwój Powrotu Umiejętności. KZ nie zadziałają.,Usta: 1 Beceri Sıfırlama Kağıdı. Unutkanlık Kitapları kullanılamaz.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:64fbd995d3b6,Change,Zmień,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:05e626d6b14f,Scroll of Lore Change: every skill from zero and a path of your choice.,Zwój Zmiany Profesji: umiejętności od zera i ścieżka do wyboru.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:8922b50fb048,Which path? Scroll of Lore Change (from level 31).,Która ścieżka? Zwój Zmiany Profesji (od 31 poziomu).,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:01cdda7755a1,Path: %s. Every skill back to zero?,Ścieżka: %s. Wszystkie umiejętności od zera?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:e171d2e76cbf,Uses 1 scroll from your companion's bag or yours.,Zużywa 1 zwój z plecaka towarzysza albo twojego.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:64fbd995d3b6,Change,Zmień,Değiştir,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05e626d6b14f,Scroll of Lore Change: every skill from zero and a path of your choice.,Zwój Zmiany Profesji: umiejętności od zera i ścieżka do wyboru.,Bilgi Değişim Kağıdı: tüm beceriler sıfırdan ve seçtiğin bir beceri grubu.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8922b50fb048,Which path? Scroll of Lore Change (from level 31).,Która ścieżka? Zwój Zmiany Profesji (od 31 poziomu).,Hangi beceri grubu? Bilgi Değişim Kağıdı (seviye 31'den itibaren).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01cdda7755a1,Path: %s. Every skill back to zero?,Ścieżka: %s. Wszystkie umiejętności od zera?,Beceri grubu: %s. Tüm beceriler sıfırlansın mı?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e171d2e76cbf,Uses 1 scroll from your companion's bag or yours.,Zużywa 1 zwój z plecaka towarzysza albo twojego.,Yoldaşının çantasından veya seninkinden 1 kağıt kullanır.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ca032b5844df,What it does,Co robi,Ne yapıyor,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cded093321dd,Orders,Polecenia,Emirler,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0a088b311505,Drop,Drop,Drop,"client: our windows (companion, Auto Hunt, status lines)",check
@@ -552,7 +552,7 @@ c:pbt:171ca0385a0e,Behaviour,Zachowanie,Davranış,"client: our windows (compani
 c:pbt:490a7e43af7a,Now: %s,Teraz: %s,Şimdi: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:fcafeb95b595,"Now: down, getting up soon","Teraz: leży, zaraz wstanie","Şu an: yerdeyim, birazdan kalkıyorum","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cb83ead9f0c8,Where: %s,Gdzie: %s,Nerede: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:350f8e6f6efc,%d red / %d blue,%d czerw. / %d nieb.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:350f8e6f6efc,%d red / %d blue,%d czerw. / %d nieb.,%d kırmızı / %d mavi,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:2fc24d47c27c,Mode: %s,Tryb: %s,Mod: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:291a0a58dfa6,Call,Przywołaj,Çağır,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8eda27bd36f3,Wait here,Czekaj tu,Burada kal,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -603,11 +603,11 @@ c:pbt:944550bc67c5,Your companion is not in the game.,Towarzysz nie jest teraz w
 c:pbt:b03511c5e5d3,Companions are switched off here.,Towarzysze są tu wyłączeni.,Yoldaşlar burada kapalı.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0699ba601eaf,Update the client and the server.,Zaktualizuj klienta i serwer.,İstemciyi ve sunucuyu güncelle.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2eba6a03b89a,Unpin,Odepnij,Çöz,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1ca623701c36,Merge and sort the companion's bag,Scal i uporządkuj torbę towarzysza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1ca623701c36,Merge and sort the companion's bag,Scal i uporządkuj torbę towarzysza,Yoldaşın çantasını birleştir ve sırala,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ed5a8a14d33a,Deck %d,Zestaw %d,Deste %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:95e970d81c5d,%d / %d,%d / %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:95e970d81c5d,%d / %d,%d / %d,%d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:c1876298835d,Drag to your bag: the stone goes into your Alchemy.,Przeciagnij do swojej torby: kamien trafi do twojej alchemii.,Çantana sürükle: taş Simyana girer.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7c7cb72859f2,Pick up an item and click the pin to let your companion choose its equipment again.,"Podnieś przedmiot i kliknij pinezkę, aby towarzysz znów sam dobierał wyposażenie.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7c7cb72859f2,Pick up an item and click the pin to let your companion choose its equipment again.,"Podnieś przedmiot i kliknij pinezkę, aby towarzysz znów sam dobierał wyposażenie.",Yoldaşının ekipmanını yeniden kendisinin seçmesi için bir eşyayı al ve iğneye tıkla.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:31c5ddebe711,Nothing to unpin there.,Tego nie trzeba odpinać.,Orada sabitlenmiş bir şey yok.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:be28809fcf22,Take it off into the bag first.,Zdejmij go najpierw do torby.,Önce çıkarıp çantaya koy.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e15020ab0e03,Give it an item from your bag.,Daj mu przedmiot z torby.,Ona çantandan bir eşya ver.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -643,23 +643,23 @@ c:pbt:aa0d618af75d,Put on by you - your companion will not take it off,Założon
 c:pbt:f4baea35a4d3,A gift from you,Prezent od ciebie,Senden bir hediye,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c2a844c68869,Taken off by you - your companion will not put it on,Zdjęte przez ciebie - towarzysz sam tego nie założy,Sen çıkardın - yoldaşın giymez,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:20e23c7450d0,Ctrl + click: unpin,Ctrl + klik: odepnij,Ctrl + tık: sabitlemeyi kaldır,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e25ae629fc65,Shift + right click: remove the gift mark,Shift + prawy klik: zdejmij status prezentu,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:37587943934f,The gift mark changes only on an item of your companion's bag.,Status prezentu zmienisz tylko na przedmiocie z torby towarzysza.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:93d25e2abc6d,Update the server to change the gift mark.,"Zaktualizuj serwer, aby zmieniać status prezentu.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:2d9d6c383318,Remove the gift mark: %s?,Zdjąć status prezentu: %s?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:0847873f9a95,Your companion will be able to sell it.,Towarzysz będzie mógł to sprzedać.,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:558fed72ccfd,Mark as a gift: %s?,Oznaczyć jako prezent: %s?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:1d2946d6078f,Your companion will not sell it.,Towarzysz tego nie sprzeda.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e25ae629fc65,Shift + right click: remove the gift mark,Shift + prawy klik: zdejmij status prezentu,Shift + sağ tık: hediye işaretini kaldır,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37587943934f,The gift mark changes only on an item of your companion's bag.,Status prezentu zmienisz tylko na przedmiocie z torby towarzysza.,Hediye işareti yalnızca yoldaşının çantasındaki bir eşyada değişir.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93d25e2abc6d,Update the server to change the gift mark.,"Zaktualizuj serwer, aby zmieniać status prezentu.",Hediye işaretini değiştirmek için sunucuyu güncelle.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d9d6c383318,Remove the gift mark: %s?,Zdjąć status prezentu: %s?,Hediye işareti kaldırılsın mı: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0847873f9a95,Your companion will be able to sell it.,Towarzysz będzie mógł to sprzedać.,Yoldaşın bunu satabilecek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:558fed72ccfd,Mark as a gift: %s?,Oznaczyć jako prezent: %s?,Hediye olarak işaretlensin mi: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:1d2946d6078f,Your companion will not sell it.,Towarzysz tego nie sprzeda.,Yoldaşın bunu satmayacak.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e699a0e6ffe7,Right click: put on,Prawy klik: załóż,Sağ tık: kuşan,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d30caa454ba2,Right click: take off,Prawy klik: zdejmij,Sağ tık: çıkar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:262cdf2df410,Skill %d,Umiejętność %d,Beceri %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:3c1bcbc84ebb,Companion storage,Magazyn towarzysza,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:ab8163c6ce45,Unlock equipment choice (Ctrl + click),Odblokuj dobór wyposażenia (Ctrl + klik),,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:985618d4c29b,Companion bin,Kosz towarzysza,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:e33027ebddb1,Companion alchemy,Alchemia towarzysza,,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:7d622916e7a6,Storage contains %s entries. Dismissing deletes its contents.,Magazyn zawiera %s wpisów. Odprawienie usunie jego zawartość.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
-c:pbt:024b1d19eeee,Cancel to collect your items first. This cannot be undone.,"Anuluj, aby najpierw odebrać przedmioty. Tej operacji nie można cofnąć.",,"client: our windows (companion, Auto Hunt, status lines)",new
-c:pbt:54913f9af9ff,Dismiss and delete,Odpraw i usuń,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3c1bcbc84ebb,Companion storage,Magazyn towarzysza,Yoldaş deposu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab8163c6ce45,Unlock equipment choice (Ctrl + click),Odblokuj dobór wyposażenia (Ctrl + klik),Ekipman seçimini aç (Ctrl + tık),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:985618d4c29b,Companion bin,Kosz towarzysza,Yoldaş çöp kutusu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e33027ebddb1,Companion alchemy,Alchemia towarzysza,Yoldaş simyası,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d622916e7a6,Storage contains %s entries. Dismissing deletes its contents.,Magazyn zawiera %s wpisów. Odprawienie usunie jego zawartość.,Depoda %s kayıt var. Göndermek içeriğini siler.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:024b1d19eeee,Cancel to collect your items first. This cannot be undone.,"Anuluj, aby najpierw odebrać przedmioty. Tej operacji nie można cofnąć.",Önce eşyalarını almak için İptal'i seç. Bu işlem geri alınamaz.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54913f9af9ff,Dismiss and delete,Odpraw i usuń,Gönder ve sil,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d2c7d905301d,Split item,Rozdzielanie przedmiotu,Eşyayı böl,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9787f6ca7771,Units / package size,Liczba sztuk / wielkość paczki,Adet / paket boyutu,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:93af25db220a,Into packages (units):,Na paczki (limit szt.):,Paketlere (adet):,"client: our windows (companion, Auto Hunt, status lines)",done

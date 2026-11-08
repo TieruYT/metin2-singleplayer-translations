@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:GMP_ERR_EVENT_EMPTY,"Enter an Exp, Drop or Yang percent",,"Indtast en procent for EXP, drop eller Yang",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WORLD,World,,Verden,client: game texts (localeInfo),done
+c:locale_game:GMP_NIGHT,Night,,Nat,client: game texts (localeInfo),done
+c:locale_game:GMP_DAY,Day,,Dag,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_ON,Snow,,Sne,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_OFF,No snow,,Ingen sne,client: game texts (localeInfo),done
+c:locale_game:GMP_USERS,Players here,,Spillere her,client: game texts (localeInfo),done
+c:locale_game:GMP_WHO,Online count,,Antal online,client: game texts (localeInfo),done
+c:locale_game:GMP_END_DUELS,End duels,,Afslut dueller,client: game texts (localeInfo),done
+c:locale_game:GMP_EVENT_FLAGS,Event flags,,Event-flag,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_ON,Maintenance...,,Vedligeholdelse...,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_OFF,End maintenance,,Afslut vedligeholdelse,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_MAINT,Block new logins (maintenance)?,,Bloker nye logins (vedligeholdelse)?,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART,Restart server...,,Genstart server...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_RESTART,Restart the server? Everyone will be disconnected.,,Genstart serveren? Alle bliver afbrudt.,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART_OK,Restart requested,,Genstart anmodet,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR,Clear,,Ryd,client: game texts (localeInfo),done
+c:locale_game:GMP_CAT_STONES,Stones,,Sten,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_ITEM,Pick an item,,Vælg en genstand,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_BONUS,Pick bonus %d,,Vælg bonus %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_PICK_STONE,Pick stone %d,,Vælg sten %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_LOADING,Loading...,,Indlæser...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_RESULTS,No results,,Ingen resultater,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_NEW_ITEM,New item,,Ny genstand,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM,Item:,,Genstand:,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ITEM,none selected,,intet valgt,client: game texts (localeInfo),done
+c:locale_game:GMP_COUNT,Count:,,Antal:,client: game texts (localeInfo),done
+c:locale_game:GMP_FOR,For:,,Til:,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_INV,Inventory,,Inventar,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_SAFE,Storeroom,,Lager,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_MALL,Item-shop storage,,Itembutikkens lager,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BONUS,Bonuses (click to pick),,Bonusser (klik for at vælge),client: game texts (localeInfo),done
+c:locale_game:GMP_BONUS_NONE,no bonus,,ingen bonus,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_STONES,Stones,,Sten,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPTY,empty,,tom,client: game texts (localeInfo),done
+c:locale_game:GMP_CREATE,Create item,,Opret genstand,client: game texts (localeInfo),done
+c:locale_game:GMP_RESET_FORM,Reset form,,Nulstil formular,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_ITEM,Pick an item from the list,,Vælg en genstand på listen,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM_CREATED,Item created,,Genstand oprettet,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OWNER_OFFLINE,The recipient is not online,,Modtageren er ikke online,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BADVNUM,No such item,,Ingen sådan genstand,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SAFEBOX,The recipient must open the storeroom first,,Modtageren skal først åbne lageret,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_MALL,The recipient must open the item-shop storage first,,Modtageren skal først åbne itembutikkens lager,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOSPACE,No space,,Ingen plads,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_CHECK,Check account,,Tjek konto,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_STATUS,"Account: %s, lock: %s",,"Konto: %s, lås: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_HDR_BAN,Account ban,,Kontoudelukkelse,client: game texts (localeInfo),done
+c:locale_game:GMP_DAYS,%d days,,%d dage,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_BAN_DAYS,Days:,,Dage:,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_TEMP,Ban for days...,,Udeluk i dage...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_PERM,Permanent...,,Permanent...,client: game texts (localeInfo),done
+c:locale_game:GMP_UNBAN,Unban,,Ophæv udelukkelse,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,Udeluk %s i %s dage?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,Udeluk %s PERMANENT?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_KICK_ACC,Kick...,,Smid ud...,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_LIST,Muted list,,Liste over tavse,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_10M,Mute 10 min,,Gør tavs i 10 min,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1H,Mute 1 h,,Gør tavs i 1 t,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1D,Mute 1 day,,Gør tavs i 1 dag,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_GM,GM rank,,GM-rang,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Lav troldmand,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_HIGH,High Wizard,,Høj troldmand,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_GOD,God,,Gud,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_ADD,Grant rank,,Tildel rang,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_REMOVE,Remove GM...,,Fjern GM...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Fjern %ss GM-rang?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Kun en Implementor ændrer andre rangeringer. Gælder straks.,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_SAVED,Rank saved,,Rang gemt,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BOTS,Bots,,Bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_PID,Bot PID:,,Bot-PID:,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_DOTS,Pick...,,Vælg...,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Opret bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,Fjern bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_ACTIVE,Active bots,,Aktive bots,client: game texts (localeInfo),done
+c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Bots: %s af %s (i alt %s),client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Vælg et rige,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Monstre og Metins,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB,Monster:,,Monster:,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWN,Spawn,,Opret,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWNED,Spawned %s of %s,,Oprettet %s af %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_ERR_NO_MOB,No such monster,,Intet sådant monster,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,Ledige bots (klik for at udfylde PID),client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_BOTS,Active bots,,Aktive bots,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_MOBS,Monsters,,Monstre,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_METINS,Metins,,Metins,client: game texts (localeInfo),done
+c:locale_game:GMP_CLOSE_LIST,Close list,,Luk liste,client: game texts (localeInfo),done
+c:locale_game:GMP_PICKED,Picked: %s,,Valgt: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Hurtig oprettelse (almindelige Metins, alle bosser)",client: game texts (localeInfo),done
+c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Pulje... viser bosserne på et niveau,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_1,1 boss,,1 boss,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_5,5 bosses,,5 bosser,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_1,1 metin,,1 Metin,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_3,3 metins,,3 Metins,client: game texts (localeInfo),done
+c:locale_game:GMP_POOL,Pool...,,Pulje...,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CITIES,Cities,,Byer,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MAPS,Maps,,Kort,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Fangehuller,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPECIAL,Special,,Særligt,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Laugslandsby 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Laugslandsby 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Laugslandsby 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SEUNGRYONG,Seungryong Valley,,Seungryong-dalen,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_YONGBI,Yongbi Desert,,Yongbi-ørkenen,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SOHAN,Mount Sohan,,Sohan-bjerget,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_FIRELAND,Fireland,,Ildland,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GHOSTWOOD,Ghost Wood,,Spøgelsesskoven,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_REDWOOD,Red Wood,,Rødskoven,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GIANTS,Land of Giants,,Kæmpernes land,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WLPASS,Pass (wl_pass),,Pas (wl_pass),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CAPE,Cape Dragon Fire,,Kap Dragebrand,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DAWNMIST,Dawnmist Wood,,Daggrytågeskoven,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BLACKSAND,Bay Black Sand,,Sortsandsbugten,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_THUNDER,Thunder Mountains,,Tordenbjergene,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HWANG,Hwang Temple,,Hwang-templet,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DEVILTOWER,Demon Tower,,Dæmontårnet,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER1,Spider Dungeon 1,,Edderkoppefangehullet 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER2,Spider Dungeon 2,,Edderkoppefangehullet 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_E,Monkey Dungeon (easy),,Abefangehul (let),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_N,Monkey Dungeon (normal),,Abefangehul (normal),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_H,Monkey Dungeon (hard),,Abefangehul (svært),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE1,Grotto of Exile 1,,Eksilets grotte 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE2,Grotto of Exile 2,,Eksilets grotte 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BERAN,Beran-Setaou's Lair,,Beran-Setaous hule,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CATACOMB,Devil's Catacomb,,Djævlens katakombe,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_RAZADOR,Razador's Fortress,,Razadors fæstning,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_ICE,Ice Dungeon,,Isfangehullet,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_LABYRINTH,Labyrinth,,Labyrint,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_OX,OX Arena,,OX-arena,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WEDDING,Wedding Hall,,Bryllupssal,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUEL,Duel Arena,,Duelarena,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR1,Empire War 1,,Rigernes krig 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR2,Empire War 2,,Rigernes krig 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR3,Empire War 3,,Rigernes krig 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GMROOM,GM Room,,GM-rum,client: game texts (localeInfo),done
+c:locale_game:GMP_GO,Go,,Gå,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HINT,X/Y in global metres. Ctrl + click on the map = teleport.,,X/Y i globale meter. Ctrl + klik på kortet = teleport.,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WAYPOINTS,My places,,Mine steder,client: game texts (localeInfo),done
+c:locale_game:GMP_WP_EMPTY,%d. empty,,%d. tom,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_WP_SAVE,Save here,,Gem her,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RATES,Server rates (%),,Serverrater (%),client: game texts (localeInfo),done
+c:locale_game:GMP_SAVE,Save,,Gem,client: game texts (localeInfo),done
+c:locale_game:GMP_FETCH,Fetch,,Hent,client: game texts (localeInfo),done
+c:locale_game:GMP_RATES_HINT,"1-10000, 100 = normal. Applies at once.",,"1-10000, 100 = normal. Gælder straks.",client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_RATE,Rate: a number 1-10000,,Rate: et tal fra 1 til 10000,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AI,Bot behaviour,,Bottenes adfærd,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,Henter botindstillinger...,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Ændringer træder i kraft inden for sekunder,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RESTART,Restart,,Genstart,client: game texts (localeInfo),done
+c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,Klik på en kommando for at skrive den i chatten,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Udeluk,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,Serveren svarede ikke. Prøv igen.,client: game texts (localeInfo),done
+c:locale_interface:ACCEPT,Accept,Akceptuj,Acceptér,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Vil du bruge åndestenen?,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_TITLE,Use Spirit Stone,Użyj Kamienia Duszy,Brug åndesten,client: window texts (uiScriptLocale),done
+c:locale_interface:CANCEL,Cancel,Anuluj,Annuller,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_CONFIRM,Confirm new Password,Potwierdź nowe Hasło,Bekræft ny adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_NEW,New Password,Nowe Hasło,Ny adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_OLD,Old Password,Stare Hasło,Gammel adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_TITLE,Password Change,Zmiana Hasła,Skift adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ACTION,Emotion,Emocje,Følelse,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_EMOTICON,Emotion,Emocje,Følelse,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MAIN,Character,Postać,Karakter,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MUTUAL_ACTION,Mutual Emotion,Emocje wspólne,Fælles følelse,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_NORMAL_ACTION,Normal Emotion,Emocje podstawowe,Normal følelse,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_QUEST,Missions,Misje,Opgaver,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,Færdighed,client: window texts (uiScriptLocale),done
+c:locale_interface:CLOSE,Close,Zamknij,Luk,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,Kostumer,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,Kostumer,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,STY,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_CREATE,Create,Utwórz,Opret,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,SMI,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_LAST_POINT,Points,Punkty,Point,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_MAN,Man,Mężczyzna,Mand,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NAME,Name,Nazwa,Navn,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NEXT,Next,Dalej,Næste,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_PREV,Back,Wróć,Tilbage,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SEX,Gender,Płeć,Køn,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Udseende,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Nulstil,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Kvinde,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Forfiningshåndbog,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL,Required materials,Wymagane materiały,Nødvendige materialer,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL_OR,or,lub,eller,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_TITLE,Refinement Window,Okienko uszlachetniania,Forfiningsvindue,client: window texts (uiScriptLocale),done
+c:locale_interface:DO_REFINE,Refine,Uszlachetnij,Forfin,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_ACTIVATE,Activate,Aktywuj,Aktivér,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_1,Rough,Surowy,Rå,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_2,Cut,Szlifowany,Slebet,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_3,Rare,Rzadki,Sjælden,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_4,Antique,Antyczny,Antik,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_5,Legendary,Legendarny,Legendarisk,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_REFINE_WINDOW_TITLE,Refinement Window,Okienko uszlachetniania,Forfiningsvindue,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_1,Dragon Diamond,Smoczy Diament,Dragediamant,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_2,Dragon Ruby,Smoczy Rubin,Dragerubin,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_3,Dragon Jade,Smoczy Jadeit,Dragejade,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_4,Dragon Sapphire,Smoczy Szafir,Dragesafir,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_5,Dragon Garnet,Smoczy Granat,Dragegranat,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_6,Dragon Onyx,Smoczy Onyks,Drageonyx,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TITLE,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Dragestensalkymi,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_EXIT,Exit,Wyjdź,Afslut,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_NEXT,Next,Dalej,Næste,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_PREV,Back,Wstecz,Tilbage,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_SELECT,Choose,Wybierz,Vælg,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_ACCEPT,Accept,Akceptuj,Acceptér,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_TITLE,Trade,Handel,Handel,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEOPTION_TITLE,Game Options,Opcje Gry,Spilindstillinger,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_EXIT_OBSERVER,End Observer Mode,Zakończ Obserwowanie,Afslut tilskuertilstand,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_HELP,Help,Pomoc,Hjælp,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_QUEST,Tasks,Zadania,Opgaver,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_SKILL_UP,Raise Skills,Podnieś Umiejętności,Hæv færdigheder,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_STAT_UP,Raise State,Podnieś Status,Hæv egenskaber,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE,Class,Klasa,Klasse,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE_SELECT,Class,Klasa,Klasse,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BASENAME,Base Name,Podstawowa Nazwa,Grundnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_ID,Name,Nick,Navn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_REFRESH,Refresh (F5),Odśwież (F5),Opdatér (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_TEXT,Message,Wiadomość,Besked,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CATEGORY_TITLE,Building Units,Jednostki Budowlane,Byggeenheder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CHANGE,Change,Zmień,Skift,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_DIRECTION,Orientation,Kierunek,Retning,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_GRADE,Rank,Ranga,Rang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_INFO,Buildings and Cost Information,Informacje o Budynkach i Kosztach,Bygninger og prisoplysninger,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LIST_TITLE,Building List,Lista Budowli,Bygningsliste,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LOG,Log,Pień,Log,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_NAME,Building name,Nazwa Budowli,Bygningens navn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_OPERATE,Operate,Operuj,Betjen,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PLY,Plywood,Dykta,Krydsfiner,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_POSITION,Position,Miejsce,Position,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PREVIEW,Preview,Podgląd,Forhåndsvisning,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PRICE,Price,Cena,Pris,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_REFRESH,Refresh (F5),Odśwież (F5),Opdatér (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_STONE,Stone,Kamień,Sten,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_TITLE,Guild House Building,Budowa Siedziby Gildii,Opførelse af laugshus,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_CRYSTAL,Crystal,Kryształ,Krystal,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DEPOSIT,Deposit,Depozyt,Indbetal,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE1,Here,Tutaj,Her,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE2,Drop Resource,Upuść Surowiec,Aflever ressource,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GEM,Gem,Klejnot,Ædelsten,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_CHANGE_GRADE_NAME,New rank name,Nowa nazwa Rangi,Nyt rangnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_NUM,Nr.,Nr,Nr.,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_DELETE,Kick,Usuń,Smid ud,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_JOIN,Invite,Zapraszanie,Invitér,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_NOTICE,Write,Pisanie,Skriv,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_SKILL,Skills,Umiejętności,Færdigheder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_RANK,Rank,Ranga,Rang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_WRITE,Write,Napisz,Skriv,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO,Guild Information,Informacje o Gildii,Laugsoplysninger,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_CUR_EXP,Experience,Doświadczenie,Erfaring,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_DECALRE_WAR,Declare War,Wypowiedz Wojnę,Erklær krig,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD,Enemy Guild,Wrogie Gildie,Fjendtligt laug,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Brak,Ingen,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_LEVEL,Guild Level,Poziom Gildii,Laugsniveau,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MARK,Guild Sign,Logo Gildii,Laugsmærke,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER,Leader,Lider,Leder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER_VALUE,Leader,Lider,Leder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_AVG_LEVEL,Average Level,Średni Poziom,Gennemsnitligt niveau,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_NUM,No. of members,Liczba członków,Antal medlemmer,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME,Guild name,Nazwa Gildii,Laugsnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME_VALUE,This is a Guild Name,To jest nazwa Gildii,Dette er et laugsnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_OFFER_EXP,Invest,Inwestuj,Investér,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_REST_EXP,Needed Exp.,Wymagane PD,Nødvendig EXP,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_MARK,Upload Sign,Wgraj Logo,Upload mærke,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_SYMBOL,Upload Flag,Wgraj Flagę,Upload flag,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MARK,Guild Sign,Znak Gildii,Laugsmærke,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_JOB,Class,Klasa,Klasse,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_KNIGHT,Leader,Lider,Leder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_LEVEL,Level,Poziom,Niveau,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Navn,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Rang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Investeret,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Åndesten,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_NAME,Guild,Gildia,Laug,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Ressourceoplysninger,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Aktiv,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKIlL_HEAL_GSP,Win back Power,Regeneracja,Genvind kraft,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_PASSIVE,Passive,Pasywne,Passiv,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_POWER,Energy,Energia,Energi,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_STATE,Skills of the Guild,Umiejętności Gildii,Laugets færdigheder,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SYMBOL,Guild Flag,Flaga Gildii,Laugsflag,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ACCEPT,Accept War Declaration,Akceptuj Deklarację Wojny,Acceptér krigserklæring,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_BATTLE_TYPE,Battle Type,Rodzaj bitwy,Kamptype,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Flag,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Erklær laugskrig,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Fjende,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Felt,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER,Water,Woda,Vand,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Vandsten,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WITHDRAW,Take,Weź,Tag,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_ATTACK_KEY,Attack: left mouse button or space bar,Atak: lewy przycisk myszy lub spacja,Angreb: venstre museknap eller mellemrumstast,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHANGE_PK_MODE,Change attack mode: change setting of left mouse button,Zmiana trybu ataku: zmień akcję Lewego Przycisku Myszy,Skift angrebstilstand: skift indstilling for venstre museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON1,"(Character Window, Inventory Window,","(Okno Postaci, Ekwipunek","(Karaktervindue, inventarvindue,",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON2,List of Friends and Options),oraz Lista Przyjaciół i Opcje),venneliste og indstillinger),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON,Camera View: middle or right mouse button,Widok Kamery: środkowy lub prawy przycisk myszy.,Kameravisning: midterste eller højre museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_RIGHTBUTTON,Camera View: right or middle mouse button,Widok Kamery: prawy oraz środkowy przycisk myszy.,Kameravisning: højre eller midterste museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_EXP,Experience,Doświadczenie,Erfaring,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FURY,Ingame Item Shop,Sklep z Przedmiotami w grze,Itembutik i spillet,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_GUILD_WINDOW,Open Guild Window: Alt + G,Otwórz Okno Gildii: ALT + G,Åbn laugsvindue: Alt + G,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HELP,Display help: H,Wyświetl Pomoc: H,Vis hjælp: H,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HP,Hit Points (HP),Punkty Życia (PŻ),Livspoint (HP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MESSENGER_WINDOW,Open Friends List: Alt + M,Otwórz Listę Przyjaciół: ALT + M,Åbn venneliste: Alt + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_LEFT,Function of the Left Mouse button,Funkcja Lewego Przycisku Myszy,Funktion for venstre museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_RIGHT,Function of the Right Mouse button,Funkcja Prawego Przycisku Myszy,Funktion for højre museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOVE_KEY,"Panel: W, A, S, D or arrow keys","Sterowanie: W, S, A, D lub klawisze strzałek","Bevægelse: W, A, S, D eller piletaster",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHARACTER,Open character window: C,Otwórz Okno Postaci: C,Åbn karaktervindue: C,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHAT,Open chat window: Enter,Otwórz Okno Chatu: Enter,Åbn chatvindue: Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_INVENTORY,Open inventory window: I,Otwórz Okno Ekwipunku: I,Åbn inventarvindue: I,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_LOG,Open Chatlog: L,Otworzenie Panelu Wiadomości: L,Åbn chatlog: L,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_MINIMAP,Open mini map: Shift + M,Otwórz Mini Mapę: Shift + M,Åbn minikort: Shift + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_QUEST,Open Task Window: N,Otwórz Okno Zadań: N,Åbn opgavevindue: N,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_SKILL,Open Skill Window: V,Otwórz Okno Umiejętności: V,Åbn færdighedsvindue: V,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_WHISPER,Open Whisper Window: Shift + Enter,Otwórz Okno Szeptania: Shift + Enter,Åbn hviskevindue: Shift + Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_ZONEMAP,Open Large Map: M,Otwórz Podgląd Mapy: M,Åbn stort kort: M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_PICK_ITEM,Collect Items: ^ or Y or left mouse button,"Podnoszenie Przedmiotów: ` (tylda), Z lub Lewy Przycisk Myszki",Saml genstande op: ^ eller Y eller venstre museknap,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_QUICKSLOT,Fast Access Fields,Pole Szybkiego Dostępu,Hurtigfelter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SCREEN_CAPTURE,"Save Screenshot: Print (will be saved in file ""Metin2\screenshot"")","Zapisz Screenshota:  Print (Screen będzie zapisany w podkatalogu gry ""Metin2\screenshot"")","Gem skærmbillede: Print Screen (gemmes i mappen ""Metin2\screenshot"")",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SHOW_ALL_NAME,Display Names: Alt,Pokaż Nazwy: Alt,Vis navne: Alt,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SP,Spell Points (SP),Punkty Energii (PE),Magipoint (SP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,Systemknapper,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,Inventarside 1,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,Inventarside 2,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,Inventar,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Itembutik,client: window texts (uiScriptLocale),done
+c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,Filen er beskadiget. Installer igen. Tryk på ESC nu.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECT,Connect,Połącz,Forbind,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,Du forbindes til serveren,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_DEFAULT_SERVERADDR,"Servername, Channel 1","Nazwa Serwera, Kanał 1","Servernavn, kanal 1",client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,Afslut,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,Vælg sted til udstedelse af en faktura.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,Vælg,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,Afslut,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,Vælg server,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,Adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,Itembutikkens lager,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKET_TITLE,Load,Ładuj,Indlæs,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_REFRESH,Refresh,Odśwież,Opdatér,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_TITLE,Register Guild Sign,Zarejestruj Znak Gildii,Registrér laugsmærke,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSAGE,This is a Message,To jest Wiadomość,Dette er en besked,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_ADD_FRIEND,Add friend,Dodaj przyjaciela,Tilføj ven,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_DELETE_FRIEND,Delete friend,Usuń,Slet ven,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_MOBILE,Send Text Message,Wyślij SMS,Send sms,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_OPEN_GUILD,Open Guild Window,Otwórz Okno Gildii,Åbn laugsvindue,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_TITLE,Friends,Przyjaciele,Venner,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_USE_GUILD_MOVE_SKILL,Use the Guild Moving Skill,Użyj Umiejętności Przemieszczania Gildii,Brug laugets flyttefærdighed,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_WHISPER,Whisper,Szept,Hvisk,client: window texts (uiScriptLocale),done
+c:locale_interface:MINIMIZE,Minimize,Minimalizuj,Minimér,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_ATTACK,Attack,Atak,Angreb,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_AUTO_ATTACK,Attack automatically,Auto Atak,Angrib automatisk,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_CAMERA,Camera,Kamera,Kamera,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_SKILL,Skills,Umiejętności,Færdigheder,client: window texts (uiScriptLocale),done
+c:locale_interface:MUSICLIST_TITLE,Music Choices,Wybór muzyki,Musikvalg,client: window texts (uiScriptLocale),done
+c:locale_interface:NO,No,Nie,Nej,client: window texts (uiScriptLocale),done
+c:locale_interface:OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME,Name,Nazwa,Navn,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_OFF,Limited,Ograniczony,Begrænset,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_ON,Always,Zawsze,Altid,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK,Block,Blokuj,Bloker,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_EXCHANGE,Trade,Handel,Handel,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_FRIEND,Friends,Przyjaciele,Venner,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_GUILD,Guild,Gildia,Laug,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY,Group,Grupa,Gruppe,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY_REQUEST,Request,Prośba,Anmodning,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_WHISPER,Whisper,Szept,Hvisk,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE,Camera,Kamera,Kamera,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_LONG,Far,Dalej,Langt,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_SHORT,Close,Bliżej,Luk,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_DELETE_MOBILE_BUTTON,Delete Cell Phone Number,Usuń Numer Telefonu Komórkowego,Slet mobilnummer,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_EFFECT,Hit Info,Info o traf.,Slaginfo,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG,Fog,Mgła,Tåge,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_DENSE,Dense,Gęsta,Tæt,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_LIGHT,Light,Światło,Let,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MIDDLE,Middle,Środek,Mellem,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_INPUT_MOBILE_BUTTON,Enter Cell Phone Number,Wybierz Numer Telefonu Komórkowego,Indtast mobilnummer,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOBILE,Cell Phone,Telefon Komórkowy,Mobiltelefon,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC,Music,Muzyka,Musik,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Skift,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Metin2 standardmusik,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Navnefarve,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Rigets farve,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,PvP-tilstand,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Fri,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Du kan angribe alle spillere.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD,Guild,Gildia,Laug,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD_TOOLTIP,You can attack players outside your guild.,Możesz atakować wszystkich graczy oprócz Członków swojej Gildii.,Du kan angribe spillere uden for dit laug.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE,Peace,Pokój,Fred,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE_TOOLTIP,You cannot attack players from your kingdom.,Nie możesz zaatakować żadnego gracza swojego królestwa.,Du kan ikke angribe spillere fra dit rige.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE,Hostile,Wrogi,Fjendtlig,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE_TOOLTIP,You can attack players with a negative rank.,"Możesz atakować tylko tych, którzy mają negatywną Rangę.",Du kan angribe spillere med negativ rang.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT,Shop name,Nazwa sklepu,Butiksnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_OFF,Hide,Ukryj,Skjul,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_ON,Show,Pokaż,Vis,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SOUND,Sound Effects,Efekty,Lydeffekter,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD,Target Menu,Menu Celu,Målmenu,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Luk,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Vis,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING,Graphic,Grafika,Grafik,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Anvend,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TITLE,Options,Opcje,Indstillinger,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Chatlinje,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Skjul,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_ON,Show,Pokaż,Vis,client: window texts (uiScriptLocale),done
+c:locale_interface:PARTY_MEMBER_INFO_NAME,Name of the Group member,Nazwa Członka Grupy,Gruppemedlemmets navn,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_1,Enter your password,"Podaj hasło,",Indtast din adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_2,to open the storeroom.,by otworzyć magazyn.,for at åbne lageret.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_3,Already changed your password?,Zmieniłeś/aś już hasło?,Har du allerede ændret din adgangskode?,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_4,"If not, your password will be '000000'.","Jeśli nie, to Twoim hasłem jest: ""000000"".","Hvis ikke, er din adgangskode '000000'.",client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_5,Change your password in storage.,Zmień swoje hasło w magazynie.,Skift din adgangskode i lageret.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_TITLE,Saving Password,Zapamiętywanie Hasła,Lagerets adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:PICK_MONEY_TITLE,Divide,Podziel,Del,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_CLOSE_BUTTON,Close shop,Zamknij Sklep,Luk butik,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_NAME,Name of the shop,Nazwa Sklepu,Butikkens navn,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_TITLE,Open private shop,Otwórz własny Sklep,Åbn privat butik,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_COST,Upgrading Costs: 0 Yang,Ulepszanie Kosztuje: 0 Yang,Opgraderingspris: 0 Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_INFO,Chance to upgrade successfully: 100%,Szansa na udane Ulepszenie: 100%,Chance for vellykket opgradering: 100%,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_MONEY,Refinement fee,Opłata za uszlachetnienie,Forfiningsgebyr,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_SELECT,Refinement,Uszlachetnienie,Forfining,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_TTILE,Upgrades,Ulepszanie,Opgraderinger,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,Genopstå her,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,Genopstå i byen,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,Skift adgangskode,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,Lager,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,STY,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_CREATE,Create,Stwórz,Opret,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DELETE,Delete,Usuń,Slet,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,SMI,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,Rigets navn,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EXIT,Close,Zamknij,Luk,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_LEVEL,Level,Poziom,Niveau,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień Duszy,Vælg åndesten,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NAME,Name,Nazwa,Navn,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,Intet laug,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,Spilletid (min.),client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SELECT,Start,Start,Start,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SP,SP,PE,SP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,Vælg titel,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_BUY,Buy,Kup,Køb,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELL,Sell,Sprzedaj,Sælg,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TITLE,Shop,Sklep,Butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SKILL_SUPPORT_TITLE,Standard Skills,Standardowe Umiejętności,Standardfærdigheder,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP,Clarity grade,Stopień jakości,Klarhedsgrad,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP_SELECT,Clarity grade,Stopień jakości,Klarhedsgrad,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH,Strengthen,Wzmocnienie,Forstærk,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH_SELECT,Level,Poziom,Niveau,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEMOPTION_TITLE,System Options,Opcje Systemowe,Systemindstillinger,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,Skift karakter,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,Afslut spillet,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_HELP,Help,Pomoc,Hjælp,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,Log ud,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Itembutik,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,Systemindstillinger,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],Karakter [C/V/B/N],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],Chatvindue [Enter],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DISABLE,Deactivated,Dezaktywowano,Deaktiveret,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DRAGON_SOUL,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Dragestensalkymi,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_EXPAND,Expand window,Powiększ okno,Udvid vindue,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_INVENTORY,Inventory [I],Ekwipunek [I],Inventar [I],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_MESSENGER,Friends [Alt+M],Przyjaciele [Alt+M],Venner [Alt+M],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_NEXT_QUICKSLOT,"Next Fast Access Field [Shift+Number, Alt]",Następne Szybkie Pole Dostępu [Alt],"Næste hurtigbjælke [Shift+tal, Alt]",client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Number],Poprzednie Szybkie Pole Dostępu,Forrige hurtigbjælke [Shift+tal],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],Indstillinger[ESC],client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_BAN,Block,Blokuj,Bloker,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_NAME,Whisper,Szept,Hvisk,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_SEND,Send,Wyślij,Send,client: window texts (uiScriptLocale),done
+c:locale_interface:YES,Yes,Tak,Ja,client: window texts (uiScriptLocale),done
+c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,Stort kort,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_STATUS_TITLE,Character Status,,Karakterstatus,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ATTRIBUTES_TITLE,Attributes,,Egenskaber,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_CATEGORIES,Categories,,Kategorier,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ACCOUNT_STATE,Account,,Konto,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_GROUP,Group,Grupuj,Gruppe,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHOW_DAMAGE_TARGET,Target,Cel,Mål,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP,Shop display,Widok sklep,Butiksvisning,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_ON,Show,Pokaż,Vis,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_FOUND,Search only,Wyszukanie,Kun søgning,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_RANGE,Shop range,Zakres sklepów,Butiksrækkevidde,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHADOW,Shadow quality,Jakość cieni,Skyggekvalitet,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO,Monster info,Info potw.,Monsterinfo,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_AGGR,Aggressive,Agresywny,Aggressiv,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_LEVEL,Level,Poziom,Niveau,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE,Night,Noc,Nat,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_ON,On,WŁ,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_OFF,Off,WYŁ,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT,Environment,Otoczenie,Omgivelser,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_ON,On,WŁ,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_OFF,Off,WYŁ,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE,Snowfall,Opady śniegu,Snefald,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_ON,On,WŁ,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_OFF,Off,WYŁ,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE,Snow,Śnieg,Sne,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_ON,On,WŁ,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_OFF,Off,WYŁ,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE,Fog,Mgła,Tåge,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_ON,On,Włącz,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_OFF,Off,Wyłącz,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Synsafstand,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Nattilstand,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Slår nattilstand til på de fleste kort.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,Natten varer fra 22:00 til 06:00.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Bruger din computers ur.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Opgavetekst,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Hurtig,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Øjeblikkelig,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Effektinfo,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_0,Left,Na Lewo,Venstre,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_1,Right,Na Prawo,Højre,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_2,Hide,Ukryj,Skjul,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_LABEL,Bot titles,,Bottitler,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_PERSONALITY,Personality,,Personlighed,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_OFF,Off,,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_VERSION,Version: %d.%d.%d%s,,Version: %d.%d.%d%s,client: window texts (uiScriptLocale) | keep: %d %d %d %s,done
+c:locale_interface:SYSTEM_ESCAPE,Unstuck,Uwolnij się,Frigør,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MOVE_CHANNEL,Change Channel,Zmień kanał,Skift kanal,client: window texts (uiScriptLocale),done
+c:locale_interface:HORSE_INVENTORY,Saddlebags,Juki Konne,Sadeltasker,client: window texts (uiScriptLocale),done
+c:locale_interface:POCKET_DEPOSIT,Item Shop Storage,Depozyt ItemShop,Itembutikkens lager,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE,Shop,Sklep,Butik,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_SORT_STACK,Stack and sort,,Stabl og sortér,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_3,Inventory page 3,,Inventarside 3,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_4,Inventory page 4,,Inventarside 4,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_AUTOSTACK,Stack all items,Połącz wszystkie przedmioty,Stabl alle genstande,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_TITLE,Report Player,Zgłoś gracza,Anmeld spiller,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_REASON,Reason:,Powód zgłoszenia:,Grund:,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_SUBMIT,Report,Zgłoś,Anmeld,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME,Shop name,Nazwa sklepu,Butiksnavn,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT,Shop duration,Czas trwania sklepu,Butikkens varighed,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE,Create,Stwórz,Opret,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_PRICE,Cost: ,Koszt: ,Pris: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAY,day,dzień,dag,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAYS,days,dni,dage,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOUR,hour,godz.,time,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOURS,hours,godz.,timer,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_NORMAL,Normal shop,Zwykły sklep,Normal butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE,%d hours / %s,%d godz. | %s,%d timer / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE_DAYS,%d days / %s,%d dni | %s,%d dage / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_NORMAL,Normal shop / %s,Zwykły sklep | %s,Normal butik / %s,client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_CREATE_SELECT_DEFAULT,Select duration,Wybierz czas,Vælg varighed,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME_EMPTY,Please enter a shop name.,Proszę wpisać nazwę sklepu,Indtast et butiksnavn.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT_EMPTY,Please select a shop duration.,Proszę wybrać czas trwania sklepu,Vælg butikkens varighed.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_NAME,Your Shops,Twoje sklepy,Dine butikker,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_CREATE,Create Shop,Tworzenie sklepu,Opret butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_GET_YANG,Collect Yang,Pobierz Yang,Indsaml Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_NAME,Rename,Zmień nazwę,Omdøb,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_ENTER_NEW_NAME,Enter a new name,Wpisz nową nazwę,Indtast et nyt navn,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE,Close shop,Zamknij sklep,Luk butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE_QUEST,"Are you sure you want to close shop ""%s""?","Czy jesteś pewny że chcesz zamknąć sklep ""%s""?","Er du sikker på, at du vil lukke butikken ""%s""?",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_OPEN,Open shop,Otwórz sklep,Åbn butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TITLE,Manage Shop,Zarządzaj sklepem,Administrér butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT,Edit,Edytuj,Redigér,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM,Remove,Usuń,Fjern,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_PRICE,Change price,Zmień cenę,Skift pris,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_WINDOW,Edit Shop,Edytowanie sklepu,Redigér butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_CANCEL,Cancel editing,Anuluj edycje,Annullér redigering,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELECT,Select,Wybierz,Vælg,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM_QUEST,Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten przedmiot?,"Er du sikker på, at du vil fjerne denne genstand?",client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NOT_EARNED_YANG,This shop has not earned any Yang yet.,Sklep nie zarobił żadnych Yang do tej pory!,Denne butik har ikke tjent nogen Yang endnu.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_YANG_QUEST,"Collect %s from shop ""%s""?","Czy jesteś pewny że chcesz pobrać %s ze sklepu ""%s"" ?","Indsaml %s fra butikken ""%s""?",client: window texts (uiScriptLocale) | keep: %s %s,done
+c:locale_interface:SHOP_INFORMATION,Shop Information,Informacje o sklepie ,Butiksoplysninger,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_TITLE,Shop History,Historia Sklepu,Butikshistorik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_CLEAR,Clear history.,Wyczyść historię.,Ryd historik.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_FIRST,Action,Akcja,Handling,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_SECOND,Date,Data,Dato,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_ATTR,With bonus,Z bonusem,Med bonus,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH,Search,Szukaj,Søg,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TITLE,Item Search,Wyszukiwarka przedmiotów,Genstandssøgning,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TOOLTIP,Item Search [F5],Wyszukiwarka przedmiotów [F5],Genstandssøgning [F5],client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_CLEAR,Clear,Wyczyść,Ryd,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTRIBUTE_LIST_TITLE,Character Bonuses,Bonusy postaci,Karakterbonusser,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_TITLE,Refill Elixir,Ładowanie Eliksiru,Genopfyld eliksir,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_BUTTON_TOOLTIP,Refill elixir,Naładuj eliksir,Genopfyld eliksir,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_TITLE,Remove Spirit Stone,Wyjmij Kamień Duszy,Fjern åndesten,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_BUTTON,Remove,Wyjmij,Fjern,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_BLOCK,Block player,Zablokuj gracza,Bloker spiller,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TITLE,Settings,Ustawienia,Indstillinger,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RESOLUTION,Resolution,Rozdzielczość,Opløsning,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SOUND,Sound,Dźwięk,Lyd,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW,Display mode,Tryb ekranu,Visningstilstand,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_CUSTOM_RESOLUTION,Custom resolution,Własna Rozdzielczość,Brugerdefineret opløsning,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT,Font,Czcionka,Skrifttype,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_WINDOWED,Windowed,Okno,Vindue,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL,Fullscreen,Pełny ekran,Fuld skærm,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL_WINDOWED,Borderless,Pełne okno,Uden kant,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SAVE,Save,Zapisz,Gem,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE,View distance,Zakres rysowania,Synsafstand,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL1,Very short,Bardzo krótki,Meget kort,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Kort,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Mellem,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Lang,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Meget lang,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Maksimum,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Kantudjævning,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Nogle ændringer kræver genstart. Fortsæt?,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE,Interface scaling,Skaluj Interfejs,Skalering af brugerflade,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_NONE,Off,Nie skaluj,Fra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_YES,On,Skaluj,Til,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOWS,Shadows,Cienie,Skygger,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_NONE,None,Brak,Ingen,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND,Terrain,Teren,Terræn,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_AND_SOLO,Terrain and player,Teren i Gracz,Terræn og spiller,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, Gracz i NPC","Terræn, spiller og NPC'er",client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Lav,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Mellem,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Høj,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Teksturer,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Standard,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Klassiske teksturer,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_2,Classic effects,Stare efekty,Klassiske effekter,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_3,Classic textures and effects,Stare tekstury i efekty,Klassiske teksturer og effekter,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_LANGUAGE,Language,Język,Sprog,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_APPEARANCE,Costume 1,Kostium 1,Kostume 1,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_ATTRIBUTE,Costume 2,Kostium 2,Kostume 2,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_SKILLBOOK_TILE,Exchange books,Wymień księgi,Byt bøger,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_EXIT,Leave war,Opuść wojnę,Forlad krigen,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_WITHDRAW_GOLD,Withdraw,Wypłać,Hæv,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_STATS,Open Statistics: Y,Otwórz Okno Statystyk: Y,Åbn statistik: Y,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EARNED_YANG,Yang earned: ,Zarobionych yang: ,Tjente Yang: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SOLD_ITEMS,Items sold: ,Sprzedanych przedmiotów: ,Solgte genstande: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REST_ITEMS,Items remaining: ,Pozostałe przedmioty: ,Resterende genstande: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIME_TO_CLOSE,Closes in: ,Pozostało do zamknięcia: ,Lukker om: ,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_WINDOW_NAME,Your Gifts,Twoje podarki,Dine gaver,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_PREV_PAGE,Previous page,Poprzednia strona,Forrige side,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_NEXT_PAGE,Next page,Następna strona,Næste side,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_FROM,Sender,Wysłał,Afsender,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_REASON,Reason,Powód,Grund,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_ALL,Collect all,Odbierz wszystkie,Hent alt,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_QUEST,"Collect the item ""%s""?","Czy jesteś pewny że chcesz odebrać przedmiot ""%s""?","Hent genstanden ""%s""?",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:GIFT_GET_QUEST_ALL,Collect all items?,Czy jesteś pewny że chcesz odebrać wszystkie przedmioty ?,Hent alle genstande?,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_MONEY_DESC,Your shop earnings.,Twoje zarobione Yangi z sklepu.,Din butiks indtjening.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_REOPEN,Reopen shop,Otwórz ponownie,Genåbn butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_LOGS,Shop history,Historia sklepu,Butikshistorik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SHOP,Edit shop,Edytuj sklep,Redigér butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_FIND_SHOP,Find shop,Znajdź sklep,Find butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SIGN,Rename shop,Edytuj nazwę,Omdøb butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_CLOSE_SHOP,Close shop,Zamknij sklep,Luk butik,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW,Withdraw Yang,Wypłać Yang,Hæv Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW_ITEMS,Collect all items,Odbierz wszystkie przedmioty,Hent alle genstande,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSED,Closed,Zamknięty,Lukket,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NEAR_CLOSED,under %d minutes,poniżej %d minut,under %d minutter,client: window texts (uiScriptLocale) | keep: %d,done
+c:locale_interface:SHOP_PREMIUM_SLOT,Unlock these slots with a Premium Shop.,Te miejsca odblokujesz za pomocą Sklepu Premium.,Lås disse pladser op med en premiumbutik.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_LOCKED_SLOT,Unlock these slots through in-game activities.,Te miejsca odblokujesz aktywnościami w grze.,Lås disse pladser op gennem aktiviteter i spillet.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_ONLINE,The owner is online. Send a whisper.,Właściciel sklepu jest online. Wyślij PW.,Ejeren er online. Send en hvisken.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_OFFLINE,The owner is offline.,Właściciel sklepu jest offline.,Ejeren er offline.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME1,Control the fish with the space bar.,Kontrolujesz rybkę używając spacji,Styr fisken med mellemrumstasten.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME2,Keep the fish inside the area.,Rybka nie może wyjść poza pole,Hold fisken inden for området.,client: window texts (uiScriptLocale),done
+c:locale_interface:REFRESH,Refresh,Odśwież,Opdatér,client: window texts (uiScriptLocale),done
+c:locale_interface:SEARCH_ITEM,Search for an item,Wyszukaj przedmiot,Søg efter en genstand,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT_QUANTITY,Quantity,Ilość,Antal,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Fremstilling,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT,Craft,Wytwórz,Fremstil,client: window texts (uiScriptLocale),done
+c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Brugsbetingelser,client: window texts (uiScriptLocale),done
+c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Jeg har læst og accepterer reglerne.,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Gem,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Forbind,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Slet,client: window texts (uiScriptLocale),done
+c:locale_interface:BUTTON_HOMEPAGE,Website,Strona WWW,Hjemmeside,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TITLE,Available Classes,Dostępne profesje,Tilgængelige klasser,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TOOLTIP,(Hover over an icon),(Najedź myszką na ikonę),(Hold musen over et ikon),client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_TITLE,Statistics,Statystyki,Statistik,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_GENERAL,General,Ogólne,Generelt,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_CURRENT_SESSION,Current session,Obecna sesja,Nuværende session,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_RESET_SESSION,Reset,Wyzeruj,Nulstil,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TITLE,You are talking to a |cffffb514Game Master|r.,Rozmawiasz z |cffffb514Mistrzem Gry|r.,Du taler med en |cffffb514Game Master|r.,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP1,- Ask your question directly.,"- Zadawaj pytania od razu, bez wstępów.",- Stil dit spørgsmål direkte.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,- Pisz krótko i konkretnie.,- Hold din besked kort og klar.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,- Vent tålmodigt på et svar.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,Vedligeholdelse,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,Der er planlagt en driftsafbrydelse.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Vi beklager ulejligheden.,client: window texts (uiScriptLocale),done

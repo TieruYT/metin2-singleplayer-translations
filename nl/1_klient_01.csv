@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:AFF_LOVE_POINT,Love points: %d%%,Punkty Miłosne: %d%%,Liefdespunten: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ALIGNMENT_NAME,Rank points:,Punkty Rangi:,Rangpunten:,client: game texts (localeInfo),done
+c:locale_game:ATTACK_ERROR_UNKNOWN,Unknown attack error: %s,Nieznany błąd podczas ataku: %s,Onbekende aanvalsfout: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_ATTACK_DEST_IN_SAFE,The combatant is too far away.,Przeciwnik jest za daleko.,De tegenstander is te ver weg.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_ATTACK_SELF_IN_SAFE,I cannot attack my opponent from here.,Nie mogę zaatakować.,Van hieruit kan ik mijn tegenstander niet aanvallen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_EXCHANGE,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Je kunt je uitrusting niet wisselen tijdens het handelen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_SHOP,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Je kunt je uitrusting niet wisselen tijdens het handelen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA,You cannot open a private shop in a public area.,Nie możesz otworzyć Prywatnego Magazynu w miejscu publicznym.,Je kunt geen privéwinkel openen in een openbaar gebied.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_DEST_IN_SAFE,The enemy is too far away.,Wróg jest za daleko.,De vijand is te ver weg.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_EMPTY_ARROW,I need an arrow.,Potrzebuję Strzały.,Ik heb een pijl nodig.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here. ,Nie mogę tego zrobić.,Van hieruit kan ik mijn tegenstander niet aanvallen. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_APPROACH,I am sure that I cannot get any closer.,"Jestem pewny, że nie mogę podejść bliżej.",Ik weet zeker dat ik niet dichterbij kan komen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ATTACK,I cannot attack that.,Nie mogę zaatakować..,Dat kan ik niet aanvallen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_DEST_IN_SAFE,The opponent is too far away.,Wróg jest za daleko.,De tegenstander is te ver weg.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_EQUIP_FISHING_ROD,I need a Fishing Pole.,Potrzebuję Wędki.,Ik heb een hengel nodig.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this. ,"Najpierw potrzebuję Konia, zanim użyję tego.",Ik heb een paard nodig om dit te kunnen gebruiken. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_EMPTY_BOTTLE,I do not have an empty bottle.,Nie mam Pustej Butelki.,Ik heb geen lege fles.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle.,Nie mam Butelki Z Trucizną.,Ik heb geen gifflesje.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_TARGET,Who is the target?,Kto jest celem?,Wie is het doelwit?,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_HP,I do not have enough HP!,Nie mam wystarczającej ilości PŻ!,Ik heb niet genoeg HP!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_SP,I do not have enough SP!,Nie mam wystarczającej ilości PE!,Ik heb niet genoeg SP!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_HORSE_SKILL,I cannot use this whilst riding.,Nie mogę tego użyć podczas jazdy konnej.,Ik kan dit niet gebruiken tijdens het rijden.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_MATCHABLE_WEAPON,I cannot use this skill with this weapon.,Nie mogę użyć tej Umiejętności używając tej broni,Ik kan deze vaardigheid niet gebruiken met dit wapen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_YET_LEARN,I have not learned this skill.,Nie opanowałem tej umiejętności.,Ik heb deze vaardigheid niet geleerd.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_ALLIANCE,This only affects group members.,To działa tylko na członków grupy.,Dit werkt alleen op groepsleden.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_CORPSE,This only affects dead people.,To działa tylko na martwych ludzi.,Dit werkt alleen op doden.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_REMOVE_FISHING_ROD,I cannot use this skill with a Fishing Pole.,Nie mogę użyć tej umiejętności z Wędką.,Ik kan deze vaardigheid niet gebruiken met een hengel.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_SELF_IN_SAFE,I cannot attack from here.,Nie mogę zaatakować z tego miejsca.,Van hieruit kan ik niet aanvallen.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_USE_SELF,I cannot use this on myself.,Nie mogę tego użyć na sobie.,Ik kan dit niet op mezelf gebruiken.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_WAIT_COOLTIME,I cannot use this skill yet.,Nie mogę jeszcze użyć tej Umiejętności.,Ik kan deze vaardigheid nog niet gebruiken.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_USE,You cannot use this.,Nie możesz go użyć.,Je kunt dit niet gebruiken.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_DEST_REFUSE,%s has blocked whispering.,%s zablokował szeptanie całkowicie.,%s heeft fluisteren geblokkeerd.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_NOT_LOGON,%s is not online.,%s nie jest zalogowany.,%s is niet online.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering. ,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,Je kunt niemand iets toefluisteren als je fluisteren volledig hebt geblokkeerd. ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL,Channel,Kanał,Kanaal,client: game texts (localeInfo),done
+c:locale_game:CHANNELING_CANNOT_LOGOUT,You cannot go back to the login screen.,Nie możesz wrócić do okna logowania.,Je kunt niet terug naar het inlogscherm.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_EMPTY_SERVER,No server,Brak Serwera,Geen server,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NORMAL,Channel %d,Kanał %d,Kanaal %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CHANNEL_NOTIFY_FULL,This channel is full! Please choose another one.,Ten Kanał jest pełny! Proszę wybrać inny.,Dit kanaal is vol! Kies een ander kanaal.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NOT_FIND_INFO,No information found via the Channel.,Brak informacji o tym kanale.,Geen informatie over het kanaal gevonden.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_PVP,Free duel,Wolny pojedynek,Vrij duel,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,Kies het kanaal,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,Kies een regio.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,Kies een server,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,Testserver,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:CHAT_ALL,All,Wszystko,Alles,client: game texts (localeInfo),done
+c:locale_game:CHAT_BLOCK,Block,Blok,Blokkeren,client: game texts (localeInfo),done
+c:locale_game:CHAT_GUILD,Guild,Gildia,Gilde,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),done
+c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Deze zin bevat ongeldige woorden.,client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Oude berichten tonen [L],client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Chatlogboek,client: game texts (localeInfo),done
+c:locale_game:CHAT_NORMAL,Normal,Normalne,Normaal,client: game texts (localeInfo),done
+c:locale_game:CHAT_NOTICE,Announcement,Ogłoszenia,Mededeling,client: game texts (localeInfo),done
+c:locale_game:CHAT_PARTY,Group,Grupa,Groep,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_CHAT,Send chat,Wyślij wiadomość,Chat versturen,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_MEMO,Send whisper[Shift+Enter],Wyślij szept [Shift+Enter],Fluisterbericht versturen[Shift+Enter],client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT,Call,Wołaj,Roepen,client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT_LIMIT,You can only call every 15 seconds.,Możesz wołać tylko co 15 sekund.,Je kunt maar eens per 15 seconden roepen.,client: game texts (localeInfo),done
+c:locale_game:CHAT_WHISPER,Whispering,Szeptanie,Fluisteren,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_GM_NAME,You are not allowed to use 'GM' in your character name.,"Nie jesteś upoważniony do użycia ,GM‘ w swojej nazwie postaci.",Je mag 'GM' niet gebruiken in de naam van je personage.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_INSULT_NAME,This name is invalid.,Ta nazwa jest niepoprawna.,Deze naam is ongeldig.,client: game texts (localeInfo),done
+c:locale_game:CREATE_EXIST_SAME_NAME,Another character already has this name.,Inna postać już ma tą nazwę.,Een ander personage heeft deze naam al.,client: game texts (localeInfo),done
+c:locale_game:CREATE_FAILURE,You cannot create the character,Nie możesz stworzyć postaci,Je kunt het personage niet aanmaken,client: game texts (localeInfo),done
+c:locale_game:CREATE_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:CREATE_INPUT_NAME,Enter the name.,Wybierz nazwę.,Voer de naam in.,client: game texts (localeInfo),done
+c:locale_game:CREATE_PLUS_STAT,There are still status points available. ,Nadal pozostały punkty statusu.,Je hebt nog statuspunten beschikbaar. ,client: game texts (localeInfo),done
+c:locale_game:DAY,Days,Dni,Dagen,client: game texts (localeInfo),done
+c:locale_game:DO_YOU_BUY_ITEM1,Do you want to buy %s for %s?,Czy chcesz kupić %s za %s?,Wil je %s kopen voor %s?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_BUY_ITEM2,Do you want to buy %s %s for %s?,Czy chcesz kupić %s %s za %s?,Wil je %s %s kopen voor %s?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DO_YOU_DROP_MONEY,Do you want to drop %d Yang?,Czy chcesz upuścić %d Yang?,Wil je %d Yang laten vallen?,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DO_YOU_SELL_ITEM1,Do you want to sell %s for %s?,Czy chcesz sprzedać %s za %s?,Wil je %s verkopen voor %s?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_SELL_ITEM2,Do you want to sell %s %s for %s?,Czy chcesz sprzedać %s %s za %s?,Wil je %s %s verkopen voor %s?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE,This Dragon Stone cannot be refined.,Nie możesz uszlachetnić tego Smoczego Kamienia.,Deze drakensteen kan niet worden verfijnd.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE_MORE,This Dragon Stone has already reached the highest level.,Ten Smoczy Kamień osiągnął już najwyższy poziom.,Deze drakensteen heeft het hoogste niveau al bereikt.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING1,It is difficult to remove a Dragon Stone once it is attached.,Usunięcie Smoczego Kamienia nie jest prostą sprawą.,Een drakensteen is moeilijk te verwijderen als hij eenmaal is bevestigd.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Wil je toch doorgaan?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EXPIRED,Expired Dragon Stone,Wygasły Smoczy Kamień,Verlopen drakensteen,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_INVALID_DRAGON_SOUL,That is the wrong Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Dat is de verkeerde drakensteen.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_IS_NOT_DRAGON_SOUL,That is not a Dragon Stone.,To nie jest Smoczy Kamień.,Dat is geen drakensteen.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE,That is not the right Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Dat is niet de juiste drakensteen.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_ENOUGH_MATERIAL,You do not have enough material to refine.,Nie posiadasz wystarczająco materiału do uszlachetnienia.,Je hebt niet genoeg materiaal om te verfijnen.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_MATCHED_SLOT,The Dragon Stone does not fit in this slot.,Ten Smoczy Kamień nie pasuje do tego slotu.,De drakensteen past niet in dit vak.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL1,"Clarity: matt,","Jakość: matowy,","Zuiverheid: mat,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL2,"Clarity: clear,","Jakość: przejrzysty,","Zuiverheid: helder,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL3,"Clarity: flawless,","Jakość: bez skazy,","Zuiverheid: vlekkeloos,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL4,"Clarity: brilliant,","Jakość: znakomity,","Zuiverheid: briljant,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL5,"Clarity: excellent,","Jakość: wyborny,","Zuiverheid: uitstekend,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,Niveau: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING1,The Dragon Stone may be destroyed in the process.,Smoczy Kamień może ulec zniszczeniu.,De drakensteen kan hierbij worden vernietigd.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Wil je toch doorgaan?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNMATCHED_SLOT,That is the wrong slot.,To nieprawidłowy slot.,Dat is het verkeerde vak.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNQUALIFIED,You cannot yet use Dragon Stone alchemy.,Nie możesz jeszcze użyć alchemii Smoczych Kamieni.,Je kunt drakensteenalchemie nog niet gebruiken.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_EQUIP_ITEM,You cannot drop equipped items.,Nie możesz upuścić założonych przedmiotów.,Je kunt uitgeruste voorwerpen niet laten vallen.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_PRIVATE_SHOP,You cannot drop any items as long as a private shop is open.,Nie możesz upuścić Przedmiotu z ekwipunku jeśli otworzyłeś prywatny Magazyn.,Je kunt geen voorwerpen laten vallen zolang een privéwinkel open is.,client: game texts (localeInfo),done
+c:locale_game:DROP_MONEY_FAILURE_1000_OVER,You can drop a maximum of 999 Yang.,Możesz upuścić maksimum 999 Yang.,Je kunt maximaal 999 Yang laten vallen.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ANGRY,Aggravating,Denerwować,Uitdagen,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ATTRACTIVE,Seduction,Uwodzić,Verleiden,client: game texts (localeInfo),done
+c:locale_game:EMOTION_BANTER,Sneering,Drwić,Spotten,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_1,Cheers 1,Powitanie 1,Juichen 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_2,Cheers 2,Powitanie 2,Juichen 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERUP,Cheer,Rozweselać,Aanmoedigen,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHOOSE_ONE,Choose a target.,Wybierz cel,Kies een doelwit.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP,Claps,Klaszcz,Klappen,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP_KISS,Kiss,Pocałunek,Kus,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CONGRATULATION,Approval,Zgoda,Goedkeuring,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_1,Dance 1,Taniec 1,Dans 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,Dans 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,Dans 3,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,Dans 4,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,Dans 5,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,Vergeving,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,Tongzoen,client: game texts (localeInfo),done
+c:locale_game:EMOTION_JOY,Joy,Radość,Vreugde,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SAD,Sad,Smutek,Verdriet,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SHY,Rejection,Odmowa,Afwijzing,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SLAP,Hit,Uderzenie,Klap,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_A,Shinsoo Kingdom,Królestwo Shinsoo,Rijk Shinsoo,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_B,Chunjo Kingdom,Królestwo Chunjo,Rijk Chunjo,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_C,Jinno Kingdom,Królestwo Jinno,Rijk Jinno,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANNOT_GIVE,This item cannot be traded.,Nie możesz handlować tym przedmiotem.,Dit voorwerp kan niet worden geruild.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANT_EDIT_MONEY,You cannot change the sum now.,Nie możesz teraz zmienić kwoty.,Je kunt het bedrag nu niet wijzigen.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Nie możesz wymienić ubranych przedmiotów.,Je kunt uitgeruste voorwerpen niet ruilen.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_MONEY,Sum,Kwota,Bedrag,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,Handel met %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,Je bent het aas kwijt.,client: game texts (localeInfo),done
+c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,Het lijkt erop dat %s heeft toegehapt.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,Het lijkt erop dat %s aan de haak hangt.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS1,You captured %s!,,Je hebt %s gevangen!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,Je hebt %s uit het water gehaald!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,"Er heeft iets in het aas gebeten, maar je kunt niet zien wat het is.",client: game texts (localeInfo),done
+c:locale_game:FISHING_WRONG_PLACE,You cannot go fishing here.,Nie możesz tu łowić ryb.,Je kunt hier niet vissen.,client: game texts (localeInfo),done
+c:locale_game:FOR_FEMALE,for female,dla kobiet,voor vrouwen,client: game texts (localeInfo),done
+c:locale_game:FOR_MALE,for male,dla mężczyzn,voor mannen,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_MINING,You cannot mine Ore while riding.,Nie możesz wydobywać surowców podczas jazdy konnej.,Je kunt geen erts delven terwijl je rijdt.,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_PICK_ITEM,You cannot collect this Item as you did not win it.,"Nie możesz podnieść tego Przedmiotu, nie ty go zdobyłeś.","Je kunt dit voorwerp niet oprapen, omdat je het niet hebt gewonnen.",client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_CURSOR,The cursor could not be established.,Kursor nie może zostać utworzony.,De cursor kon niet worden ingesteld.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_DIRECTX,DirectX 8.1 must be installed so that the game can run.\nInstall DirectX 8.1 or higher.,Aby gra mogła ruszyć musi być zainstalowany DirectX 8.1 .\nZainstaluj DirectX 8.1 lub nowszy.,DirectX 8.1 moet geïnstalleerd zijn om het spel te kunnen starten.\nInstalleer DirectX 8.1 of hoger.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE,No graphic device could be found. \nCheck if your VGA card is correctly installed.,"Żadne graficzne urządzenie nie zostało znalezione.\nSprawdź, czy twoja karta VGA jest aktualnie zainstalowana.",Er is geen grafisch apparaat gevonden. \nControleer of je videokaart correct is geïnstalleerd.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_EXIST,"Graphic device could not be established. \nCheck if you have a VGA card. \nAlternatively, you can active the hardware accelerator.\n(Set hardware accelerator to max \nControl Panel->Display->Settings->Advanced->Troubleshoot tab)",Nie można było uruchomić karty graficznej.\nSprawdź czy masz kartę VGA.\nAlternatywniem możesz aktywować akcelerację sprzętową.\n(Ustaw suwak akceleracji sprzętowej na maks. \nPanel Sterowania->Ekran->Ustawienia->Zaawansowane->Rozwiązywanie Problemów),Het grafische apparaat kon niet worden geïnitialiseerd. \nControleer of je een videokaart hebt. \nJe kunt ook de hardwareversnelling inschakelen.\n(Zet de hardwareversnelling op maximaal \nConfiguratiescherm->Beeldscherm->Instellingen->Geavanceerd->tabblad Probleemoplossing),client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT,The graphics card of the computer does not support the window mode in 32bit Mode. \nChange to 16bit Mode or use Full Screen Mode.,Karta graficzna w komputerze nie obsługuje trybu ekranowego w trybie 32bit.\nUstaw tryb 16 bitowy lub użyj trybu pełnoekranowego.,De videokaart van de computer ondersteunt de venstermodus in 32-bitmodus niet. \nSchakel over naar 16-bitmodus of gebruik de volledig-schermmodus.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_ITEM_PROTO,No Item data there.\nInstall the game again.,Brak danych o Przedmiotach.\nZainstaluj grę jeszcze raz.,Geen voorwerpgegevens gevonden.\nInstalleer het spel opnieuw.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MAIN_WINDOW,Mainframe could not be established,Gra nie mogła zostać uruchomiona w okienku,Het hoofdsysteem kon niet worden geïnitialiseerd,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MOB_PROTO,No Monster Data there.\nInstall the game again.,Brak danych o Potworach.\nZainstaluj grę jeszcze raz.,Geen monstergegevens gevonden.\nInstalleer het spel opnieuw.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_NETWORK,Network devices could not be established.\nCheck your internet connection.,Nie można było uruchomić urządzeń sieciowych.\nSprawdź swoje ustawienia internetowe.,De netwerkapparaten konden niet worden geïnitialiseerd.\nControleer je internetverbinding.,client: game texts (localeInfo),done
+c:locale_game:GAME_PICK_MONEY,You received %s.,Otrzymałeś %s.,Je hebt %s ontvangen.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_128_HEIGHT,Height is not 128 Pixel,Wysokość nie ma 128px.,De hoogte is geen 128 pixels,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_12_HEIGHT,Height is not 12 Pixel,Wysokość nie ma 12px.,De hoogte is geen 12 pixels,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_16_WIDTH,Width is not 16 Pixel,Szerokość nie ma 16px.,De breedte is geen 16 pixels,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_64_WIDTH,Width is not 64 Pixel,Szerokość nie ma 64px.,De breedte is geen 64 pixels,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_FILE_FORMAT,The game does not support this picture.,Gra nie obsługuje tego obrazka.,Het spel ondersteunt deze afbeelding niet.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_PATH,Move the data into the folder metin2/upload.,Przenieś plik do folderu upload/ w głównym katalogu gry Metin2.,Verplaats de gegevens naar de map metin2/upload.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_SELECT,No picture file chosen.,Plik z obrazkiem nie został wybrany.,Geen afbeeldingsbestand gekozen.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_CTF_TITLE,Flag captured.,Flaga zdobyta.,Vlag veroverd.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_NORMAL_TITLE,Field Battle,Pole Bitwy,Veldslag,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_QUESTION_LINE_1,The Guild %s  declared war on your Guild.,Gildia %s wypowiedziała wojnę twojej Gildii.,Het gilde %s  heeft je gilde de oorlog verklaard.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_QUESTION_LINE_2,Do you accept? (%s),Akceptujesz? (%s),Accepteer je? (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_UNKNOWN_TITLE,...,...,...,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_WARP_TITLE,Arena Battle,Walka na arenie,Arenagevecht,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_GRADE,Rank,Ranga,Rang,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_NAME,Name of building,Nazwa Budynku,Naam van het gebouw,client: game texts (localeInfo),done
+c:locale_game:GUILD_CANNOT_HEAL_GSP_ANYMORE,The Dragon Ghost Energy is already fully restored.,Energia Ducha Smoka jest już w pełni zregenerowana.,De drakengeestenergie is al volledig hersteld.,client: game texts (localeInfo),done
+c:locale_game:GUILD_COMMENT,Write,Napisz,Schrijven,client: game texts (localeInfo),done
+c:locale_game:GUILD_CREATE_ERROR_INSULT_NAME,Guildname is not valid.,Nazwa Gildii jest niepoprawna.,De gildenaam is ongeldig.,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEFAULT_GRADE,Guild members,Członkowie Gildii,Gildeleden,client: game texts (localeInfo),done
+c:locale_game:GUILD_DELETE,Delete,Usuń,Verwijderen,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEPOSIT,Deposit,Depozyt,Storten,client: game texts (localeInfo),done
+c:locale_game:GUILD_DO_YOU_HEAL_GSP,Do you want to spend %s Yang to restore %d units of Dragon Ghost?,Czy chcesz odnowić za %s Yang %d Ducha Smoka?,Wil je %s Yang uitgeven om %d eenheden drakengeest te herstellen?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:GUILD_DO_YOU_JOIN, has invited you. Do you want to join the guild?,  zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?, heeft je uitgenodigd. Wil je lid worden van het gilde?,client: game texts (localeInfo),done
+c:locale_game:GUILD_EMPTY_AREA,Empty land,Wolna Ziemia,Leeg land,client: game texts (localeInfo),done
+c:locale_game:GUILD_ENEMY_GUILD_NAME,Guild name of the enemy,Nazwa Gildii wroga,Gildenaam van de vijand,client: game texts (localeInfo),done
+c:locale_game:GUILD_FACILITY,Outbuilding,Przybudówka,Bijgebouw,client: game texts (localeInfo),done
+c:locale_game:GUILD_GEM,Gem,Klejnot,Edelsteen,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEADQUARTER,Main Building,Budynek Główny,Hoofdgebouw,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEAL_GSP,Restore Dragon ghost,Regeneracja Ducha Smoka,Drakengeest herstellen,client: game texts (localeInfo),done
+c:locale_game:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Nikt,Geen,client: game texts (localeInfo),done
+c:locale_game:GUILD_MARK_NOT_ENOUGH_LEVEL,Minimum level of 3 required,Potrzebny przynajmniej 3 poziom,Minimaal niveau 3 vereist,client: game texts (localeInfo),done
+c:locale_game:GUILD_NAME,Guild name,Nazwa Gildii,Gildenaam,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MATERIAL,Not enough building material for this building.,Nie masz wystarczającej ilości surowców na tą budowlę.,Niet genoeg bouwmateriaal voor dit gebouw.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MONEY,Not enough Yang for this building.,Nie masz wystarczającej ilości Yang na tą budowlę.,Niet genoeg Yang voor dit gebouw.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NO_NOTICE_PERMISSION,You do not have the rights to make an announcement.,Nie masz praw do tworzenia ogłoszeń.,Je hebt niet de rechten om een mededeling te doen.,client: game texts (localeInfo),done
+c:locale_game:GUILD_OBJECT,Objects,Obiekty,Objecten,client: game texts (localeInfo),done
+c:locale_game:GUILD_OFFER_EXP,Invest experience,PD do przekazania,Ervaring investeren,client: game texts (localeInfo),done
+c:locale_game:GUILD_SHORT_EXP,Not enough experience points.,Za mało Punktów Doświadczenia.,Niet genoeg ervaringspunten.,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BASEINFO,Basic Information,Podstawowa Informacja,Basisinformatie,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BOARD,Blackboard,Tablica,Prikbord,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_GRADE,Rights Administration,Zarządzanie Prawami,Rechtenbeheer,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_INFO,Guild Information,Informacje o Gildii,Gilde-informatie,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_MEMBER,Guild Members,Członkowie Gildii,Gildeleden,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_SKILL,Guild Skills,Umiejętności Gildii,Gildevaardigheden,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_LIMIT_30MIN,Time: 30 Minutes,Czas: 30 Minut,Tijd: 30 minuten,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_REWARD_POTION,Reward: The winner receives a Potion,Nagroda: Zwycięzca otrzymuje Miksturę,Beloning: de winnaar krijgt een drankje,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_BATTLE_MAP,Location: Guild War Arena,Miejsce: Teatr Wojny Gildii,Locatie: gildeoorlogsarena,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_NORMAL_MAP,Location: Normal Map,Miejsce: Normalna Mapa,Locatie: normale kaart,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_CHECK_SCORE,The highest result wins the war.,Najlepszy wynik wygrywa Wojnę.,Het hoogste resultaat wint de oorlog.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG1,Capture the flag of your enemy,Zdobądź Flagę przeciwnika,Verover de vlag van je vijand,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG2,and carry it to your base.,i dostarcz ją do swojej bazy.,en breng hem naar je basis.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_WIPE_OUT_GUILD,Defeat all enemies to win.,Pokonaj wszystkich wrogów by wygrać.,Versla alle vijanden om te winnen.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WITHDRAW,Fallback,Wycofaj się,Terugtrekken,client: game texts (localeInfo),done
+c:locale_game:GUILD_YOU_DO_NOT_JOIN,You are not a member of any Guild.,Nie jesteś członkiem żadnej Gildii.,Je bent geen lid van een gilde.,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH0,Dead,Na skraju śmierci,Dood,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH1,Starving,Głodny,Uitgehongerd,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH2,Hungry,Wygłodzony,Hongerig,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH3,Full,Pełny,Verzadigd,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL1,Normal Horse,Normalny Koń,Normaal paard,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL2,Battle Horse,Opancerzony Koń,Strijdpaard,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL3,Military Horse,Wojskowy Koń,Militair paard,client: game texts (localeInfo),done
+c:locale_game:HOUR,Hours,Godzin,Uren,client: game texts (localeInfo),done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP1,Do you want to drop %s?,Czy chcesz upuścić %s?,Wil je %s laten vallen?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP2,Do you want to drop %s %d?,Czy chcesz upuścić %s %d?,Wil je %s %d laten vallen?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:INPUT_MATRIX_CARD_NUMBER,Enter Matrix Cardnumber.,Wpisz numer karty Matrix.,Voer het nummer van de matrixkaart in.,client: game texts (localeInfo),done
+c:locale_game:INPUT_MATRIX_CARD_TITLE,Matrix Card,Karta Matrix,Matrixkaart,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from your account settings here.,Wprowadź kod usunięcia z zarządzania kontem.,Voer hier de verwijdercode uit je accountinstellingen in.,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Personage verwijderen,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,Rollen van terugkeer kunnen niet worden gecombineerd.,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Wil je dit voorwerp gebruiken?,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Amateur-ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Kracht van de ninja's,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Ondode,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN,Shaman,Szaman,Sjamaan,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Amateur-sjamaan,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Kracht van de draak,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Bliksemkracht,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Amateur-sura,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Kracht van de fata morgana,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Kracht van de zwarte magie,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR,Warrior,Wojownik,Krijger,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR0,Amateur Warrior,Amator Wojownik,Amateur-krijger,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR1,Power of Arahan,Moc Ciała,Kracht van Arahan,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR2,Power of Partisans,Moc Umysłu,Kracht van de partizanen,client: game texts (localeInfo),done
+c:locale_game:LEFT_TIME,Time Remaining,Pozostały Czas,Resterende tijd,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_FAILURE,Error while connecting to the server.,Błąd podczas łączenia się z serwerem.,Fout bij het verbinden met de server.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_SUCCESS,You have been connected to the server.,Jesteś połączony z serwerem.,Je bent verbonden met de server.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNETING,You will be connected to the server...,Zostaniesz połączony z serwerem.,Je wordt verbonden met de server...,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_ALREAY,Your account is already connected.,Twoje konto jest już połączone.,Je account is al verbonden.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BE_SAME_KEY,Registration problem.,Problem z rejestracją.,Registratieprobleem.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_ID,Your account is banned.,Twoje konto jest zablokowane.,Je account is verbannen.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_LOGIN,Please choose one of the other servers!,Serwer Zamknięty - proszę wybrać inny!,Kies een van de andere servers!,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOBILL,Your account had no play time.,Twoje konto nie ma czasu gry.,Je account heeft geen speeltijd.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_AVAIL,Your account cannot be used.,Twoje konto nie może być użyte.,Je account kan niet worden gebruikt.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_EXIST_ID,Account name or password incorrect.,Nieprawidłowa nazwa konta lub hasło.,Accountnaam of wachtwoord onjuist.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_REPAIR_ID,Items have been restored for this account.,Przedmioty zostały przywrócone dla tego konta.,De voorwerpen van dit account zijn hersteld.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_SHUTDOWN,The server is not open yet.,Serwer nie jest jeszcze otwarty.,De server is nog niet open.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TOO_MANY_USER,You could not connect because too many players are online.,"Nie możesz się połączyć, ponieważ za dużo graczy jest online.",Je kon geen verbinding maken omdat er te veel spelers online zijn.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_UNKNOWN,You could not register for unknown reasons.,Nie możesz się zarejestrować z nieznanych powodów.,Registratie mislukt om onbekende redenen.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WEB_BLOCK,You have been blocked at the website. Please check your EMails.,Twoje konto zostało zablokowane na stronie www. Proszę sprawdzić swoją pocztę e-mail.,Je bent geblokkeerd op de website. Controleer je e-mail.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER,You entered a wrong number.,Wpisałeś nieprawidłowy numer.,Je hebt een verkeerd nummer ingevoerd.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE,You entered a wrong number three times. /n Your connection will be disabled.,Wybrałeś zły numer trzy razy. /n Twoje połączenie zostanie zerwane.,Je hebt drie keer een verkeerd nummer ingevoerd. /n Je verbinding wordt uitgeschakeld.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_PASSWORD,Account name or password incorrect.,"Nieprawidłowa nazwa konta, hasło lub PIN.",Accountnaam of wachtwoord onjuist.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_ID,Enter the ID.,Podaj swoje ID.,Voer de ID in.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_PASSWORD,Enter the password.,Wpisz swoje hasło.,Voer het wachtwoord in.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_PROCESSING,Logging in...,Logowanie...,Bezig met inloggen...,client: game texts (localeInfo),done
+c:locale_game:MALL_CANNOT_INSERT,You cannot place the Item.,Nie możesz umieścić Przedmiotu.,Je kunt het voorwerp niet plaatsen.,client: game texts (localeInfo),done
+c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Wachtwoord,client: game texts (localeInfo),done
+c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Gebied Yongan,client: game texts (localeInfo),done
+c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Seungryong-vallei,client: game texts (localeInfo),done
+c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Gebied Yayang,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
+c:locale_game:MAP_B1,Joan Area,Strefa Joan,Gebied Joan,client: game texts (localeInfo),done
+c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Imji-vallei,client: game texts (localeInfo),done
+c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Gebied Bokjung,client: game texts (localeInfo),done
+c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Nefrietbaai,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
+c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Gebied Pyungmoo,client: game texts (localeInfo),done
+c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Bangsan-vallei,client: game texts (localeInfo),done
+c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Gebied Bakra,client: game texts (localeInfo),done
+c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Kaap Drakenvuur,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),done
+c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Gautama-klif,client: game texts (localeInfo),done
+c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Yongbi-woestijn,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Land der Reuzen,client: game texts (localeInfo),done
+c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Gumsan-toren,client: game texts (localeInfo),done
+c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Berg Sohan,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Hwang-tempel,client: game texts (localeInfo),done
+c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Donderbergen,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),done
+c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Rood Woud,client: game texts (localeInfo),done
+c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Slangenveld,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Vriend toevoegen,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1,%s added you as a friend.,%s dodał Cię jako przyjaciela.,%s heeft je toegevoegd als vriend.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2,Accept?,Zaakceptować?,Accepteren?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE,Delete?,Usunąć?,Verwijderen?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE_PHONE_NUMBER,Do you want to delete the cell phone number?,Czy chcesz usunąć numer telefonu komórkowego?,Wil je het mobiele nummer verwijderen?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_MOVE,Do you want to go on?,Czy chcesz kontynuować?,Wil je doorgaan?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_EMPTY_LIST,Empty,Pusto,Leeg,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FAMILY,Family,Rodzina,Familie,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FRIEND,Friends,Przyjaciel,Vrienden,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_GUILD,Guild,Gildia,Gilde,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION,Enter the confirmation number that was sent to your cell phone.,"Wprowadź numer potwierdzający, który został wysłany na twój telefon komórkowy.",Voer het bevestigingsnummer in dat naar je mobiel is gestuurd.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE,Enter confirmation number,Wprowadź numer potwierdzający,Bevestigingsnummer invoeren,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1,Enter the cell phone number for the Text message sending.,Wprowadź numer telefonu komórkowego do wysyłania wiadomości tekstowych.,Voer het mobiele nummer in voor het versturen van sms'jes.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2,Do you want to enter the number now?,Czy chcesz teraz wprowadzić numer?,Wil je het nummer nu invoeren?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE,Enter cell phone number.,Wprowadź numer telefonu komórkowego.,Voer het mobiele nummer in.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_SEND_MOBILE_MESSAGE_TITLE,Send message.,Wyślij wiadomość.,Bericht versturen.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP,Open Mini Map,Otwórz Mini Mapę,Minikaart openen,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CANNOT_SEE,Mini Map cannot be seen.,Nie można zobaczyć Mini Mapy.,De minikaart is niet zichtbaar.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CAN_NOT_SHOW_AREAMAP,Large Map cannot be shown.,Mini Mapa nie może zostać pokazana.,De grote kaart kan niet worden getoond.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_DEC_SCALE,Zoom out,Oddal,Uitzoomen,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Inzoomen,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d toeschouwers,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Grote kaart openen,client: game texts (localeInfo),done
+c:locale_game:MINUTE,Minutes,Minut,Minuten,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,Tienduizend,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Honderd miljard,client: game texts (localeInfo),done
+c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Verkoopprijs:,client: game texts (localeInfo),done
+c:locale_game:MOVE_ITEM_FAILURE_PRIVATE_SHOP,You cannot move items while you have a private shop open.,"Nie możesz przesuwać przedmiotów, jeśli masz otwarty prywatny Magazyn.",Je kunt geen voorwerpen verplaatsen terwijl je een privéwinkel open hebt.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_EMPTY_MUSIC_LIST,No Backgroundmusic.,Brak muzyki w tle.,Geen achtergrondmuziek.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_METIN2_DEFAULT_THEMA,Metin2 Standard music,Standardowa muzyka Metin2,Standaardmuziek van Metin2,client: game texts (localeInfo),done
+c:locale_game:MUSIC_NOT_SELECT_MUSIC,No Music file chosen.,Plik z muzyką nie został wybrany.,Geen muziekbestand gekozen.,client: game texts (localeInfo),done
+c:locale_game:NEEFD_REST,You must rest first.,Musisz najpierw odpocząć.,Je moet eerst rusten.,client: game texts (localeInfo),done
+c:locale_game:NOT_YET_SUPPORT,Not yer supported,Nie jest obsługiwany,Nog niet ondersteund,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_CANNOT_SET_GUILD_MODE,You cannot activate Guild Mode when you do not belong to a Guild.,Nie możesz aktywować Trybu Gildii kiedy nie należysz do żadnej Gildii.,Je kunt de gildemodus niet inschakelen als je niet bij een gilde hoort.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_NOT_SUPPORT,You cannot choose this configuration in PvP Mode.,Nie możesz wybrać tej konfiguracji w Trybie PvP.,Je kunt deze instelling niet kiezen in PvP-modus.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_PROTECT,You need to have at least Level %d to be able to change the PvP Mode.,Potrzebujesz conajmniej Poziomu %d aby móć używać Trybu PvP.,Je moet minimaal niveau %d zijn om de PvP-modus te wijzigen.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_ATTACKER,Attack Value: +%d,Wartość Ataku: +%d,Aanvalswaarde: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,Aanvalssnelheid: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,Duur vaardigheid: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,Verdediging: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,Bonus-EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Max. SP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Max. HP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Groep opheffen,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., wil zich bij de groep aansluiten.,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", heeft je uitgenodigd voor zijn groep. Accepteren?,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE,EXP Distribution,Podział DOŚ,EXP-verdeling,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL,Level dependant,zależy od poziomu,Afhankelijk van niveau,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP,Higher level group members receive more EXP.,Członkowie grupy o wyższym poziomie otrzymują więcej PD.,Groepsleden met een hoger niveau krijgen meer EXP.,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY,even,równo,gelijk,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP,All Group members receive the same EXP.,Wszyscy otrzymują taką samą ilość PD.,Alle groepsleden krijgen evenveel EXP.,client: game texts (localeInfo),done
+c:locale_game:PARTY_HEAL_ALL_MEMBER,Restore everything.,Odnów wszystko.,Alles herstellen.,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the factor 1.5 .,"Zasięg grupy zwiększony o współczynnik 1,5.",Bereik van de groep vergroot met factor 1.5 .,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Bereik van de groep vergroot met factor 2.,client: game texts (localeInfo),done
+c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Groep verlaten,client: game texts (localeInfo),done
+c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,Bonus-EXP voor lang groepsspel: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),done
+c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Groepslid oproepen.,client: game texts (localeInfo),done
+c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Bonus voor HP- en SP-regeneratie: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,Je verzoek is afgewezen.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_ATTACKER,Constitute as Attacker.,Ustanów jako Atakującego.,Aanwijzen als aanvaller.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BERSERKER,Constitute as Berserker.,Ustanów jako Berserker.,Aanwijzen als berserker.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BUFFER,Constitute as Blocker.,Ustanów jako Blokującego.,Aanwijzen als blokkeerder.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_DEFENDER,Constitute as Defender.,Ustanów jako Obrońcę.,Aanwijzen als verdediger.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_NORMAL,Withdraw settings.,Wycofaj bonus.,Instellingen intrekken.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_SKILL_MASTER,Constitute as Skill Master.,Ustanów jako Mistrza Umiejętności.,Aanwijzen als vaardigheidsmeester.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_TANKER,Constitute as blade fighter.,Ustanów jako Walczącego W Zwarciu.,Aanwijzen als zwaardvechter.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SKILL_ATTACKER,Base Attack Value Attacker +%.0f,Podstawowa Wartość Ataku +%.0f,Basisaanvalswaarde aanvaller +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BERSERKER,Attack Speed Berserker +%.0f,Szybkość Ataku +%.0f,Aanvalssnelheid berserker +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BUFFER,Skill Duration Blocker +%.0f,Czas trwania +%.0f,Duur vaardigheden blokkeerder +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_DEFENDER,Defence Defender +%.0f,Obrona +%.0f,Verdediging verdediger +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_HP_REGEN,HP Regeneration +%.0f%%,Regeneracja PŻ +%.0f%%,HP-regeneratie +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_PARTY_AREA,Group range +%d%%,Zasięg Grupy +%d%%,Groepsbereik +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_SKILL_SKILL_MASTER,Max. SP Skill Master +%.0f,Siła magii na potwory +%.0f%%,Max. SP vaardigheidsmeester +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_SP_REGEN,SP Regeneration +%.0f%%,Regeneracja PE +%.0f%%,SP-regeneratie +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_TANKER,Max. HP blade fighter +%.0f,Max PŻ +%.0f,Max. HP zwaardvechter +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_WARP,Possible to call group members.,Możliwe wezwanie członków grupy.,Groepsleden kunnen worden opgeroepen.,client: game texts (localeInfo),done
+c:locale_game:PASSWORD_TITLE,Storeroom password,Hasło do magazynu,Wachtwoord opslag,client: game texts (localeInfo),done
+c:locale_game:PICK_ITEM_TITLE,Item Number,Numer Przedmiotu,Voorwerpnummer,client: game texts (localeInfo),done
+c:locale_game:PICK_MONEY_TITLE,Sum,Kwota,Bedrag,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CANNOT_SELL_ITEM,You cannot sell this item in a private shop.,Nie możesz sprzedać tego Przedmiotu w prywatnym Magazynie.,Je kunt dit voorwerp niet verkopen in een privéwinkel.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CLOSE_QUESTION,Do you want to close the private shop?,Czy chcesz zamknąć prywatny Magazyn?,Wil je de privéwinkel sluiten?,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE,Name of the private shop.,Wpisz nazwę swojego Sklepu.,Naam van de privéwinkel.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE,Price,Cena,Prijs,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL0,Chivalric,Rycerski,Ridderlijk,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL1,Noble,Szlachetny,Edel,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL2,Good,Dobry,Goed,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL3,Friendly,Przyjazny,Vriendelijk,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL4,Neutral,Neutralny,Neutraal,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL5,Aggressive,Agresywny,Agressief,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL6,Fraudulent,Nieuczciwy,Bedrieglijk,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL7,Malicious,Złośliwy,Kwaadaardig,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL8,Cruel,Okrutny,Wreed,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_GUILD,PvP - Guild activated,PvP - gildia aktywowana,PvP - Gilde ingeschakeld,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_KILL,PvP - Free activated,PvP - tryb wolny aktywowany,PvP - Vrij ingeschakeld,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_NORMAL,PvP - Peace activated,PvP - tryb pokojowy aktywowany.,PvP - Vrede ingeschakeld,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_PROTECT,PvP - Protection activated,Aktywowano ochronę przed PvP,PvP - Bescherming ingeschakeld,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_REVENGE,PvP - Hostile activated,PvP - tryb wrogi aktywowany,PvP - Vijandig ingeschakeld,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_KILL,Free,Wolny,Vrij,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Vrede,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Bescherming,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Vijandig,client: game texts (localeInfo),done
+c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Nieuwe quest ontvangen.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
+c:locale_game:QUEST_SEC,Sec.,Sek.,Sec.,client: game texts (localeInfo),done
+c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Tijd verstreken,client: game texts (localeInfo),done
+c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Geen tijdslimiet.,client: game texts (localeInfo),done
+c:locale_game:QUEST_ZEROSEC,0 Sec.,0 Sek.,0 sec.,client: game texts (localeInfo),done
+c:locale_game:QUICKSLOT_REGISTER_DISABLE_ITEM,This Item cannot be added to the Fast Access Field.,Ten Przedmiot nie może zostać dodany do Szybkiego Pola Dostępu.,Dit voorwerp kan niet aan de snelbalk worden toegevoegd.,client: game texts (localeInfo),done
+c:locale_game:RECEIVE_MESSAGE,%s sent you a message.,%s wysłał Ci wiadomość.,%s heeft je een bericht gestuurd.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_COST,Upgrade cost: %s,Cena za Ulepszenie: %s,Kosten van de verbetering: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_DESTROY_WARNING,This Item could be destroyed while upgrading.,Ten Przedmiot może zostać zniszczony podczas ulepszania.,Dit voorwerp kan bij het verbeteren worden vernietigd.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1,"This will improve the chance for upgrading,","To zwiększy szanse na ulepszenie,","Dit vergroot de kans op verbetering,",client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2,but if you fail the Item could be destroyed. /n Do you want to continue?,"ale jeśli zawiedziesz, Przedmiot zostanie zniszczony. Czy chcesz kontynuować?","maar als het mislukt, kan het voorwerp worden vernietigd. /n Wil je doorgaan?",client: game texts (localeInfo),done
+c:locale_game:REFINE_DOWN_GRADE_WARNING,The Item could be down graded this way.,Przedmiot może zostać zdegradowany w ten sposób.,Het voorwerp kan op deze manier een niveau dalen.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DO_YOU_SEPARATE_METIN,Do you want to remove all available spirit stones?,Czy chcesz usunąć wszystkie Kamienie Duszy?,Wil je alle aanwezige geestesstenen verwijderen?,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE,You failed.,Zawiodłeś.,Het is mislukt.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_CAN_NOT_ATTACH,%s cannot be included in that Item.,%s nie może zostać uwzględniony w tym Przedmiocie.,%s kan niet in dat voorwerp worden gezet.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_EQUIP_ITEM,You cannot upgrade equipped Items.,Nie możesz ulepszyć założonego Przedmiotu.,Je kunt uitgeruste voorwerpen niet verbeteren.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_METIN_INSEPARABLE_ITEM,No spirit stone can be taken away.,Żaden Kamień Duszy nie może zostać wyjęty.,Er kan geen geestessteen worden verwijderd.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NEED_BETTER_SCROLL,You need a better Advancement Scroll.,Potrzebujesz lepszego Zwoju.,Je hebt een betere verbeterrol nodig.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_GOLD_SOCKET,There is no Gold socket to include %s .,Nie ma Złotej Kieszeni by uwzględnić %s .,Er is geen gouden sleuf om %s in te zetten .,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_NO_MORE_SOCKET,You cannot make more Sockets.,Nie możesz zrobić więcej Kieszeni.,Je kunt geen extra sleuven maken.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_SOCKET0,There is no Socket to include the %s.,"Nie ma slotu, w którym można umieścić %s.",Er is geen sleuf om %s in te zetten.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_SOCKET_DISABLE_ITEM,You cannot make any Sockets on this Item.,Nie możesz zrobić żadnych Kieszeni w tym Przedmiocie.,Je kunt geen sleuven maken in dit voorwerp.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_UPGRADE_DISABLE_ITEM,This Item cannot be upgraded.,Ten Przedmiot nie może zostać ulepszony.,Dit voorwerp kan niet worden verbeterd.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS,The advancement of the Item was successful.,Pomyślne Ulepszenie Przedmiotu.,De verbetering van het voorwerp is geslaagd.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS_PROBALITY,Chance for Advancement %d%%,Szansa na Ulepszenie %d%%,Kans op verbetering %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:REFINE_WARNING2,Do you want to continue?,Czy chcesz kontynuować?,Wil je doorgaan?,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_ERROR,You entered the wrong password.,Wprowadziłeś złe hasło.,Je hebt het verkeerde wachtwoord ingevoerd.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_SELL_DISABLE_SAFEITEM,You cannot sell any of the saved Items.,Nie możesz sprzedać żadnego z zachowanych Przedmiotów.,Je kunt geen van de opgeslagen voorwerpen verkopen.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła muszą być identyczne.,De wachtwoorden moeten identiek zijn.,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,Schermafbeelding opgeslagen in '%s'.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,Schermafbeeldingsbestand,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,Opslaan van de schermafbeelding is mislukt.,client: game texts (localeInfo),done
+c:locale_game:SECOND,Sec,Sek,Sec,client: game texts (localeInfo),done
+c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,Je kunt het personage niet verwijderen.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,Je hebt de naam van het personage gewijzigd.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,Deze personagenaam bestaat al.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_INDEX,Try again.,Spróbuj ponownie.,Probeer het opnieuw.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_NAME,That,Nazwa jest niewłaściwa.,Dat,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_NAME_TITLE,Change character name.,Zmień nazwę postaci.,Naam van personage wijzigen.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELEING,Character will be deleted.,Postać zostanie usunięta.,Het personage wordt verwijderd.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELETED,Deletion successful.,Usuwanie pomyślne.,Verwijderen geslaagd.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DO_YOU_DELETE_REALLY,Do you want to continue?,Czy chcesz kontynuować?,Wil je doorgaan?,client: game texts (localeInfo),done
+c:locale_game:SELECT_EMPTY_SLOT,This is an empty field.,To jest wolne pole.,Dit is een leeg veld.,client: game texts (localeInfo),done
+c:locale_game:SELECT_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:SELECT_INPUT_CHANGING_NAME,Enter a new character name.,Wprowadź nową nazwę postaci.,Voer een nieuwe naam voor het personage in.,client: game texts (localeInfo),done
+c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,Geen gilde,client: game texts (localeInfo),done
+c:locale_game:SHOP_BUY_INFO,Choose the Item you want to buy in the shop window.,"Wybierz z wystawy przedmiot, który chcesz kupić.",Kies in het winkelvenster het voorwerp dat je wilt kopen.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_EQUIPMENT,You cannot sell  equipped Items.,Nie możesz sprzedawać ubranych przedmiotów.,Je kunt  uitgeruste voorwerpen niet verkopen.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_ITEM,This Item cannot be sold.,Ten Przedmiot nie może zostać sprzedany.,Dit voorwerp kan niet worden verkocht.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_UNKNOWN,Unknown Shop Error: %s,Nieznany Błąd Sklepu: %s,Onbekende winkelfout: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SHOP_INVALID_POS,This Item cannot be used here.,Ten Przedmiot nie może zostać tu użyty.,Dit voorwerp kan hier niet worden gebruikt.,client: game texts (localeInfo),done
+c:locale_game:SHOP_INVENTORY_FULL,Your inventory is full.,Nie ma miejsca w ekwipunku.,Je inventaris is vol.,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY,Not enough Yang,Niewystarczająca ilość Yang,Niet genoeg Yang,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY_EX,You do not have enough Yang.,Nie posiadasz wystarczająco Yang.,Je hebt niet genoeg Yang.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SELL_INFO,Choose the Item you want to sell  in your inventory window.,"Wybierz w oknie ekwipunku przedmiot, który chcesz sprzedać.",Kies in je inventarisvenster het voorwerp dat je wilt  verkopen.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SOLDOUT,Sold Out,Wyprzedany,Uitverkocht,client: game texts (localeInfo),done
+c:locale_game:SHOT_ERROR_UNKNOWN,Unknown Error during Long Distance Attack: %s,Nieznany błąd podczas ataku z dystansu: %s,Onbekende fout bij aanval op afstand: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_BOHO,Reflect,Odbicie,Weerkaatsen,client: game texts (localeInfo),done
+c:locale_game:SKILL_BUDONG,is not used anymore,nie jest już używany,wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK,You need EXP to learn this Skill.,Potrzebujesz DOŚ do nauki tej Umiejętności.,Je hebt EXP nodig om deze vaardigheid te leren.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn this Skill.,Potrzebujesz Księgi do nauki tej Umiejętności.,Je hebt een boek nodig om deze vaardigheid te leren.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHEONGEUN,Strong Body,,Sterk lichaam,client: game texts (localeInfo),done
+c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,Kritieke treffer,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,Gif aanbrengen,client: game texts (localeInfo),done
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,Camouflage,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAINT,Blackout,Omdlenie,Verduistering,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,Val vinden,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,Eeuwig vuur,client: game texts (localeInfo),done
+c:locale_game:SKILL_FISHMIND,Fishing Marble is active,Marmur Rybaka jest aktywny,De visknikker is actief,client: game texts (localeInfo),done
+c:locale_game:SKILL_GAMJI,Capture,Złap,Vangen,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,Aura van het zwaard,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEONGON,SKILL_GEONGON Not used anymore,SKILL_GEONGON Niewykorzystany,SKILL_GEONGON Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_GICHEON,Dragon's Aid,,Hulp van de draak,client: game texts (localeInfo),done
+c:locale_game:SKILL_GIGONG,Chi Rotation,Rotacja Chi,Chi-rotatie,client: game texts (localeInfo),done
+c:locale_game:SKILL_GONGPO,Fear,,Angst,client: game texts (localeInfo),done
+c:locale_game:SKILL_GRADE_NAME_GRAND_MASTER,%s Grand Master,%s Wielki Mistrz,%s Grootmeester,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_MASTER,%s Master,%s Mistrz,%s Meester,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_PERFECT_MASTER,%s Perfect Master,%s Perfekcyjny Mistrz,%s Perfecte meester,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GROUP_ASSASSIN_1,Blade,Ostrze,Zwaard,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_ASSASSIN_2,Arc,Łuk,Boog,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_HORSE,Riding,Jazda,Rijden,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_1,Dragon,Smok,Draak,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_2,Healing,Leczenie,Genezing,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,Wapen,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,Magie,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,Lichaam,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Geest,client: game texts (localeInfo),done
+c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,Betoverd zwaard,client: game texts (localeInfo),done
+c:locale_game:SKILL_GYEONGGONG,Feather Walking,,Veerlichte tred,client: game texts (localeInfo),done
+c:locale_game:SKILL_HEUKSIN,Dark Protection,,Duistere bescherming,client: game texts (localeInfo),done
+c:locale_game:SKILL_HOSIN,Blessing,,Zegen,client: game texts (localeInfo),done
+c:locale_game:SKILL_HWAYEOM,SKILL_HWAYEOM Not used anymore,SKILL_HWAYEOM Niewykorzystany,SKILL_HWAYEOM Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_HYEOLMA,SKILL_HYEOLMA Not used anymore,SKILL_HYEOLMA Niewykorzystany,SKILL_HYEOLMA Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_ATKSPD,Attack speed raised,Zwiększona Szybkość Ataku,Aanvalssnelheid verhoogd,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_MOVSPD,Moving speed raised,Zwiększona Szybkość Ruchu,Bewegingssnelheid verhoogd,client: game texts (localeInfo),done
+c:locale_game:SKILL_INMA,SKILL_INMA Not used anymore,SKILL_INMA niewykorzystany,SKILL_INMA Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEOJU,Curse,Klątwa,Vloek,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGEOP,Healing,Leczenie,Genezing,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGWI,Battle Flush,,Strijdroes,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINBANGEO,Full Defence,Całkowita Obrona,Volledige verdediging,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINGONGGYEOK,Full Attack,Całkowity Atak,Volledige aanval,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGCHE,SKILL_JEUNGCHE Not used anymore,SKILL_JEUNGCHE Niewykorzystany,SKILL_JEUNGCHE Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGHON,SKILL_JEUNGHON Not used anymore,SKILL_JEUNGHON Niewykorzystany,SKILL_JEUNGHON Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGRYEOK,Attack +,,Aanval +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGSOK,Speed +,Szybkość +,Snelheid +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIGAM,SKILL_JIGAM Not used anymore,SKILL_JIGAM Niewykorzystany,SKILL_JIGAM Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIPJUNG,SKILL_JIPJUNG Not used anymore,SKILL_JIPJUNG Niewykorzystany,SKILL_JIPJUNG Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,Betoverd harnas,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGEOM,SKILL_JUMAGEOM Not used anymore,SKILL_JUMAGEOM Niewykorzystany,SKILL_JUMAGEOM Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAEGEOM,SKILL_KWAEGEOM Not used anymore,SKILL_KWAEGEOM Niewykorzystany,SKILL_KWAEGEOM Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAESOK,Speed,,Snelheid,client: game texts (localeInfo),done
+c:locale_game:SKILL_LEGBOUND,SKILL_LEGBOUND Not used anymore,SKILL_LEGBOUND Niewykorzystany,SKILL_LEGBOUND Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUSA,SKILL_MUSA Not used anymore,SKILL_MUSA Niewykorzystany,SKILL_MUSA Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,Geest van de vlam,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_EMPTY_BOTTLE,I do not have an Empty Bottle.,Nie mam Pustej Butelki.,Ik heb geen lege fles.,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle,Nie mam Butelki z Trucizną,Ik heb geen gifflesje,client: game texts (localeInfo),done
+c:locale_game:SKILL_ONLY_FOR_GUILD_WAR,You can use this Skill during a Guild War only.,Możesz używać tej Umiejętności tylko podczas Wojny Gildii.,Je kunt deze vaardigheid alleen tijdens een gildeoorlog gebruiken.,client: game texts (localeInfo),done
+c:locale_game:SKILL_PABEOP,Neutralize Spell,,Spreuk neutraliseren,client: game texts (localeInfo),done
+c:locale_game:SKILL_POWERFUL_STRIKE,Dazing Attack,Atak Oszałamiający,Verdovende aanval,client: game texts (localeInfo),done
+c:locale_game:SKILL_SEOMGWANG,Lightning Bomb,Bomba Błyskawic,Bliksembom,client: game texts (localeInfo),done
+c:locale_game:SKILL_SINCHAK,SKILL_SINCHAK Not used anymore,SKILL_SINCHAK Niewykorzystany,SKILL_SINCHAK Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLEEP,Sleep,Uśpienie,Slaap,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLOW,Slow,Spowolnienie,Vertraging,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUN,Daze,Ogłuszenie,Verdoving,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUHO,Guard,Strażnik,Bewaking,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_DESCRIPTION,Chance of the Evocation: %d%%,Szansa na Przywołanie: %d%%,Kans op oproeping: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SKILL_TOOLTIP_INT,Intelligence,Inteligencja,Intelligentie,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOOLTIP_LEVEL,Level,Poziom,Niveau,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICDIE,Poisoning,Otrucie,Vergiftiging,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICPOWER,Poison attack value increased,Zwiększona Wartość Ataku Trucizną,Waarde van de gifaanval verhoogd,client: game texts (localeInfo),done
+c:locale_game:SKILL_TUSOK,Ghost Hit,Uderzenie Ducha,Spookslag,client: game texts (localeInfo),done
+c:locale_game:SKILL_WONSIN,SKILL_WONSIN Not used anymore,SKILL_WONSIN Niewykorzystany,SKILL_WONSIN Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:SKILL_YONGSIN,SKILL_YONGSIN Not used anymore,SKILL_YONGSIN Niewykorzystany,SKILL_YONGSIN Wordt niet meer gebruikt,client: game texts (localeInfo),done
+c:locale_game:STAT_MINUS_CON,Vitality Adjustment (Remaining chance: %d),Dostosowanie Witalności (Pozostała szansa: %d),Vitaliteit aanpassen (resterende kansen: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_DEX,Dexterity Adjustment (Remaining Chance: %d),Dostosowanie Zręczności (Pozostała Szansa: %d),Behendigheid aanpassen (resterende kansen: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_INT,Intelligence Adjustment (Rest of Chance: %d),Dostosowanie Inteligencji (Pozostałą szansa: %d),Intelligentie aanpassen (resterende kansen: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_STR,Strength Adjustment (Rest of Chance: %d),Dostosowanie Siły (Pozostałą szansa: %d),Kracht aanpassen (resterende kansen: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_TOOLTIP_CON,Increases HP and defence,Podwyższa PŻ i Obronę,Verhoogt HP en verdediging,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_DEX,Increases attack and evasion,Podwyższa atak i uniki,Verhoogt aanval en ontwijking,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_INT,"Increases SP, magic attack and defence","Podwyższa PE, magiczny atak i obronę.","Verhoogt SP, magische aanval en verdediging",client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_STR,Increases attack value and damage,Podwyższa Wartość Ataku i Uszkodzeń,Verhoogt aanvalswaarde en schade,client: game texts (localeInfo),done
+c:locale_game:SYMBOLLIST_TITLE,Register Guild flag,Zarejestruj Flagę Gildii,Gildevlag registreren,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_1,CPU Tiling Mode can upgrade the speed of a weaker PC.,CPU TNL może ulepszyć szybkość słabszego PC.,De CPU-tilingmodus kan een zwakkere pc versnellen.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_2,"If there are problem with the graphics choose either ,Systemoption‘ or ,CONFIG.exe‘","Jeśli jest problem z grafiką, wybierz ,Opcje System lub ,CONFIG.exe;","Kies bij problemen met de grafische weergave ,Systemoption‘ of ,CONFIG.exe‘",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL.,en schakel over naar de GPU-tilingmodus.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_1,GPU Tiling Mode can run slow on a weaker PC.,GPU TNL może działać wolniej na słabszych PC.,De GPU-tilingmodus kan traag zijn op een zwakkere pc.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_2,If there are problems with the graphics choose either 'System Options' or 'CONFIG.exe',"Jeśli zaistnieją problem z grafiką, wybierz 'Opcje Systemu' lub 'CONFIG.exe'",Kies bij problemen met de grafische weergave 'System Options' of 'CONFIG.exe',client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL,en schakel over naar de GPU-tilingmodus.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_TILING_EXIT,"To change to Tiling mode, the game has to be restarted.",Aby zmienić tryb TNL trzeba zrestartować grę.,Om de tilingmodus te wijzigen moet het spel opnieuw worden gestart.,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_ACCEPT_FIGHT,Agree,Zgoda,Akkoord,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_AVENGE,Revenge,Zemsta,Wraak,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_BUILDING_DESTROY,Destroy,Zniszcz,Vernietigen,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_DISMOUNT,Dismount,Zsiądź,Afstijgen,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EMOTION_ALLOW,Emotions,Emocje,Emoties,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCHANGE,Trading,Handel,Handelen,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCLUDE,Exclude,Wyklucz,Uitsluiten,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXIT_OBSERVER,End Observer Mode,Zakończ Tryb Obserwatora,Toeschouwersmodus beëindigen,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,Duel,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FRIEND,Friend,Przyjaciel,Vriend,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_GUILD,Guild Invitation,Zapr. Gildii,Gilde-uitnodiging,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_PARTY,Group Invitation,Zapr. Grupy,Groepsuitnodiging,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,Groep verlaten,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,Lid worden van groep,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,Uitrusting,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,Fluisteren,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Eindbaas,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,Niveau 5.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,Niveau 3.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,Niveau 1.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,Niveau 4.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,Niveau 2.,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ATTACK,Attack,Atak,Aanval,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,Automatisch aanvallen,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_CAMERA,Camera,Kamera,Camera,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_EXP,Experience,Doświadczenie,Ervaring,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_HP,HP,PŻ,HP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_MOVE,Move,Ruch,Bewegen,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SKILL,Skill,Umiejętność,Vaardigheid,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SP,SP,PE,SP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ST,ST,ST,KR,client: game texts (localeInfo),done
+c:locale_game:THING_COUNT,all,wszystko,alle,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTI_CRITICAL_PCT,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Weerstand tegen kritieke treffers +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_PENETRATE_PCT,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Weerstand tegen doorborende treffers +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_SELL,Cannot be sold in the shop.,Nie może zostać sprzedany w Magazynie,Kan niet in de winkel worden verkocht.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ANIMAL,Strong against Animals +%d%%,Silny przeciwko Zwierzętom +%d%%,Sterk tegen dieren +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ASSASSIN,Strong against Ninjas +%d%%,Silny przeciwko Ninja +%d%%,Sterk tegen ninja's +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_DEVIL,Strong against Devils +%d%%,Silny przeciwko Diabłom +%d%%,Sterk tegen duivels +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_HUMAN,Strong against Half Humans +%d%%,Silny przeciwko Ludziom +%d%%,Sterk tegen halfmensen +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MILGYO,Strong against Mystics +%d%%,Silny przeciwko Mistykom +%d%%,Sterk tegen mystici +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MONSTER,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Kracht tegen monsters +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC,Strong against Orcs +%d%%,Silny przeciwko Orkom +%d%%,Sterk tegen orks +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SHAMAN,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Sterk tegen sjamanen +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SURA,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,Sterk tegen sura +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_UNDEAD,Strong against Undead +%d%%,Silny przeciwko Nieumarłym +%d%%,Sterk tegen ondoden +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_WARRIOR,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,Sterk tegen krijgers +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%% ,Szansa na blok ciosów %d%%,Kans om een aanval van dichtbij te blokkeren %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_COMBAT_SP_RECOVER,Recover SP all 5 seconds in a Battle %d,Odzyskiwanie PE przez 5 sekund podczas Bitwy %d,Herstel SP elke 5 seconden in een gevecht %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%% ,Szansa na cios krytyczny +%d%%,Kans op kritieke treffer +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DAMAGE_SP_RECOVER,%d%% Chance to get back SP when hit,Szansa na transfer %d%% otrzymanych obrażeń do PE,%d%% kans om SP terug te krijgen als je wordt geraakt,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DODGE,Chance to avoid Arrows %d%%,Szansa na uniknięcie Strzały: %d%%,Kans om pijlen te ontwijken %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_EXP_DOUBLE_BONUS,%d%% Chance for EXP Bonus,Szansa na Bonus DOŚ: %d%%,%d%% kans op bonus-EXP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_GOLD_DOUBLE_BONUS,%d%% Chance to drop double Yang,Szansa na podwójną ilość Yang: %d%%,%d%% kans op dubbele Yang,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_FALL,Immune against falling down,Niewrażliwy na Upadek,Immuun voor neergaan,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_SLOW,Defence against slowing,Niewrażliwy na spowolnienie,Verdediging tegen vertraging,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN,Defence against blackouts,Niewrażliwy na omdlenia,Verdediging tegen black-outs,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items,Szansa na podwójną ilość Przedmiotów: %d%%,%d%% kans op dubbele voorwerpen,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,%d%% kans om HP te herstellen,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,%d%% kans om SP te herstellen,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,%d%% kans om SP te stelen,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Geen effect,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,Er gaan geen ervaringspunten verloren als je personage op de plek van zijn dood wordt herrezen. ,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,%d%% kans op doorborende treffers,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,Kans op vergiftiging %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,Gifweerstand %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,Effect van drankjes %d%% verhoogd,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,Kans om een vloek terug te kaatsen: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,%d%% kans om treffers van dichtbij terug te kaatsen  ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,Kans op verdediging tegen aanvallen van ninja's: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,Verdediging tegen klokken %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_DAGGER,Dagger Defence %d%%,Odporność na Sztylety: %d%%,Verdediging tegen dolken %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_FAN,Fan Defence %d%%,Odporność na Wachlarze: %d%%,Verdediging tegen waaiers %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SHAMAN,Defence chance against shaman attacks: %d%%,Odporność na Szamanów: %d%%,Kans op verdediging tegen aanvallen van sjamanen: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SURA,Defence chance against sura attacks: %d%%,Odporność na Sura: %d%%,Kans op verdediging tegen aanvallen van sura: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SWORD,Sword Defence %d%%,Odporność na Miecze: %d%%,Verdediging tegen zwaarden %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_TWOHAND,Two-Handed Defence %d%%,Odporność na Broń Dwuręczną: %d%%,Verdediging tegen tweehandige wapens %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WARRIOR,Defence chance against warrior attacks: %d%%,Odporność na Wojowników: %d%%,Kans op verdediging tegen aanvallen van krijgers: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WIND,Wind Resistance %d%%,Odporność na Wiatr: %d%%,Windweerstand %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_BONUS,Chance to learn from books upgraded by factor 2.5 .,Rada Pustelnika,Kans om van boeken te leren verhoogd met factor 2.5 .,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY,If learning fails you immediately have another try for free,"Jeśli trening się nie powiedzie, możesz od razu spróbować ponownie.","Als het leren mislukt, krijg je meteen nog een gratis poging",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SLOW_PCT,Slowing chance %d%%,Szansa na Spowolnienie %d%%,Kans op vertraging %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_HP,%d%% damage  will be absorbed by HP,%d%% obrażeń będzie dodanych do PŻ,%d%% schade  wordt door HP geabsorbeerd,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obrażeń będzie dodanych do PE,%d%% schade wordt door SP geabsorbeerd,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Kans op black-out %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Harnas,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Pijl,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Aanvalswaarde +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Aanvalssnelheid +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,Zonne-elixer,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_REST,Remainder: %.2f%%,Pozostało: %.2f%%,Resterend: %.2f%%,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_AUTO_POTION_SP,Moon Elixir,Eliksir Księżyca,Maanelixer,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_USING,Active,Aktywny,Actief,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_BOW_DISTANCE,Arc Range +%dm,Zasięg Łuku +%dm,Bereik boog +%dm,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_BUYPRICE,Price: %s,Cena: %s,Prijs: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_CAST_SPEED,Casting Speed +%d%%,Szybkość Zaklęcia +%d%%,Spreuksnelheid +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_CON,Vitality +%d,Witalność +%d,Vitaliteit +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%% ,Bonus kostiumu %d%% ,Kostuumbonus %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEF_GRADE,Defence +%d,Obrona +%d,Verdediging +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEX,Dexterity +%d,Zręczność +%d,Behendigheid +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK1,Earth,Ziemia,Aarde,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK2,Sky,Niebo,Hemel,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_EAR,Earring,Kolczyki,Oorbel,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ENERGY,Energy %d ,Energia %d,Energie %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ETC,And so on,I tak dalej,Enzovoort,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_EXP,Points %d / %d,Punkty %d / %d,Punten %d / %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FISHINGROD_LEVEL,Level: %d,Poziom: %d,Niveau: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE1,Give to the Fisherman,"Daj Rybakowi,",Geef het aan de visser,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE2,to get a better,aby dostać,om een betere,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE3,Fishing Pole.,Ulepszoną Wędkę.,hengel te krijgen.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISH_LEN,Lenght: %.2fcm,Długość: %.2fcm,Lengte: %.2fcm,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_HELMET,Helmet,Hełm,Helm,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HP_REGEN,HP Regeneration +%d%%,Regeneracja Mikstur PŻ: +%d%%,HP-regeneratie +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_INT,Intelligence +%d,Inteligencja +%d,Intelligentie +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_GRADE,Attack Value %d,Wartość Ataku: %d,Aanvalswaarde %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER,Attack Value %d - %d,Wartość Ataku: %d - %d,Aanvalswaarde %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_ONE_ARG,Attack Value %d,Wartość Ataku: %d,Aanvalswaarde %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_REFINE,Attack Value %d - %d (+%d),Wartość Ataku: %d - %d (+%d),Aanvalswaarde %d - %d (+%d),client: game texts (localeInfo) | keep: %d %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_SPEED,Attacking Speed %s,Szybkość Ataku: %s,Aanvalssnelheid %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_ITEM_DEF_GRADE,Defence %d,Obrona %d,Verdediging %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_FAST,Fast,Szybki,Snel,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_LIMIT_CON,Vitality Upper Limit: %d,Górna granica Witalności: %d,Bovengrens vitaliteit: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_DEX,Dexterity Upper Limit: %d,Górny limit Zręczności: %d,Bovengrens behendigheid: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_INT,Intelligence Upper Limit: %d,Górna granica Inteligencji: %d,Bovengrens intelligentie: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_LEVEL,From Level: %d,Od Poziomu: %d,Vanaf niveau: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_STR,Strenght Upper Limit: %d,Górna granica Siły: %d,Bovengrens kracht: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER,Magical Attack Value %d - %d,Wartość Magicznego Ataku: %d - %d,Magische aanvalswaarde %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG,Magical Attack Value %d,Wartość Magicznego Ataku: %d,Magische aanvalswaarde %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_DEF_POWER,Magical Defence %d,Magiczna Obrona %d,Magische verdediging %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,Normaal,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_SLOW,Slow,Wolny,Vertraging,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_FAST,Very fast,Bardzo szybki,Zeer snel,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_SLOW,Very slow,Bardzo wolny,Zeer langzaam,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_WEARABLE_JOB,[ Wearable ],[ Do ubrania ],[ Draagbaar ],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_LOTTERY_STEP_NUMBER,%d,%d,%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_LOTTO_NUMBER,Lucky Number: %d,Szczęśliwy Numer: %d,Geluksgetal: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATTBONUS_PER,Magic attack +%d%%,Magiczny atak +%d%%,Magische aanval +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATT_GRADE,Magical Attack Value +%d,Wartość Magicznego Ataku: +%d,Magische aanvalswaarde +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DEF_GRADE,Magical Defence +%d,Magiczna Obrona: +%d,Magische verdediging +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS,Attack Value +%d%%,Wartość Ataku: +%d%%,Aanvalswaarde +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku: +12~15%,Aanvalswaarde +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.",Een hand die gevallen Yang automatisch opraapt,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Verdediging +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Verdediging +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,iCafe-bonus-EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,Verhoogt de verkregen EXP met 50%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,Je kans om een zeldzame vis te vangen verdubbelt.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Kans om Yang te verkrijgen vermenigvuldigd met %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS_STATIC,Doubles your chance to capture Yang,Szansa znalezienia Yang zostanie podwojona,Verdubbelt je kans om Yang te verkrijgen,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Kans om voorwerpen te verkrijgen vermenigvuldigd met %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items plus %.1f%%,iCafe Szansa na zdobycie Przedmiotów plus %.1f%%,iCafe-kans om voorwerpen te verkrijgen plus %.1f%%,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,Verdubbelt je kans om voorwerpen te verkrijgen,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,Liefdespunten stijgen sneller.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,Je opslag krijgt 2 opslagruimtes,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Max. HP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Max. SP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Max. SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,Max. uithoudingsvermogen +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,Magische aanval/aanval van dichtbij +%d%%,client: game texts (localeInfo) | keep: %d,done

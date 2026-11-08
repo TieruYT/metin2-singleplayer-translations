@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:GMP_ERR_EVENT_EMPTY,"Enter an Exp, Drop or Yang percent",,"Введи процент EXP, дропа или янг",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WORLD,World,,Мир,client: game texts (localeInfo),done
+c:locale_game:GMP_NIGHT,Night,,Ночь,client: game texts (localeInfo),done
+c:locale_game:GMP_DAY,Day,,День,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_ON,Snow,,Снег,client: game texts (localeInfo),done
+c:locale_game:GMP_SNOW_OFF,No snow,,Без снега,client: game texts (localeInfo),done
+c:locale_game:GMP_USERS,Players here,,Игроки здесь,client: game texts (localeInfo),done
+c:locale_game:GMP_WHO,Online count,,Число онлайн,client: game texts (localeInfo),done
+c:locale_game:GMP_END_DUELS,End duels,,Завершить дуэли,client: game texts (localeInfo),done
+c:locale_game:GMP_EVENT_FLAGS,Event flags,,Флаги событий,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_ON,Maintenance...,,Тех. работы...,client: game texts (localeInfo),done
+c:locale_game:GMP_MAINT_OFF,End maintenance,,Завершить тех. работы,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_MAINT,Block new logins (maintenance)?,,Запретить новые входы (тех. работы)?,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART,Restart server...,,Перезапуск сервера...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_RESTART,Restart the server? Everyone will be disconnected.,,Перезапустить сервер? Все будут отключены.,client: game texts (localeInfo),done
+c:locale_game:GMP_RESTART_OK,Restart requested,,Перезапуск запрошен,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR,Clear,,Очистить,client: game texts (localeInfo),done
+c:locale_game:GMP_CAT_STONES,Stones,,Камни,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_ITEM,Pick an item,,Выбери предмет,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_BONUS,Pick bonus %d,,Выбери бонус %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_PICK_STONE,Pick stone %d,,Выбери камень %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_LOADING,Loading...,,Загрузка...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_RESULTS,No results,,Ничего не найдено,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_NEW_ITEM,New item,,Новый предмет,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM,Item:,,Предмет:,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ITEM,none selected,,ничего не выбрано,client: game texts (localeInfo),done
+c:locale_game:GMP_COUNT,Count:,,Количество:,client: game texts (localeInfo),done
+c:locale_game:GMP_FOR,For:,,Для:,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_INV,Inventory,,Инвентарь,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_SAFE,Storeroom,,Склад,client: game texts (localeInfo),done
+c:locale_game:GMP_PLACE_MALL,Item-shop storage,,Хранилище магазина предметов,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BONUS,Bonuses (click to pick),,"Бонусы (щёлкни, чтобы выбрать)",client: game texts (localeInfo),done
+c:locale_game:GMP_BONUS_NONE,no bonus,,нет бонуса,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_STONES,Stones,,Камни,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPTY,empty,,пусто,client: game texts (localeInfo),done
+c:locale_game:GMP_CREATE,Create item,,Создать предмет,client: game texts (localeInfo),done
+c:locale_game:GMP_RESET_FORM,Reset form,,Сбросить форму,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_ITEM,Pick an item from the list,,Выбери предмет из списка,client: game texts (localeInfo),done
+c:locale_game:GMP_ITEM_CREATED,Item created,,Предмет создан,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OWNER_OFFLINE,The recipient is not online,,Получатель не в сети,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BADVNUM,No such item,,Такого предмета нет,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SAFEBOX,The recipient must open the storeroom first,,Получатель должен сначала открыть склад,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_MALL,The recipient must open the item-shop storage first,,Получатель должен сначала открыть хранилище магазина предметов,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOSPACE,No space,,Нет места,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_CHECK,Check account,,Проверить аккаунт,client: game texts (localeInfo),done
+c:locale_game:GMP_ACC_STATUS,"Account: %s, lock: %s",,"Аккаунт: %s, блокировка: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_HDR_BAN,Account ban,,Бан аккаунта,client: game texts (localeInfo),done
+c:locale_game:GMP_DAYS,%d days,,%d дн.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_BAN_DAYS,Days:,,Дни:,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_TEMP,Ban for days...,,Бан на дни...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_PERM,Permanent...,,Навсегда...,client: game texts (localeInfo),done
+c:locale_game:GMP_UNBAN,Unban,,Снять бан,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,Забанить %s на %s дн.?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,Забанить %s НАВСЕГДА?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_KICK_ACC,Kick...,,Выкинуть...,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_LIST,Muted list,,Список заглушённых,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MUTE,Chat,,Чат,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_10M,Mute 10 min,,Заглушить на 10 мин,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1H,Mute 1 h,,Заглушить на 1 ч,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_1D,Mute 1 day,,Заглушить на 1 день,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_GM,GM rank,,Ранг GM,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Младший маг,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_HIGH,High Wizard,,Старший маг,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_GOD,God,,Бог,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_ADD,Grant rank,,Выдать ранг,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_REMOVE,Remove GM...,,Снять GM...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Снять ранг GM с %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Другие ранги меняет только Implementor. Действует сразу.,client: game texts (localeInfo),done
+c:locale_game:GMP_GM_SAVED,Rank saved,,Ранг сохранён,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_BOTS,Bots,,Боты,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_PID,Bot PID:,,PID бота:,client: game texts (localeInfo),done
+c:locale_game:GMP_PICK_DOTS,Pick...,,Выбрать...,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Создать ботов,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,Убрать ботов,client: game texts (localeInfo),done
+c:locale_game:GMP_BOT_ACTIVE,Active bots,,Активные боты,client: game texts (localeInfo),done
+c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Ботов: %s из %s (всего %s),client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Выбери королевство,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Монстры и Метины,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB,Monster:,,Монстр:,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN,Metin:,,Метин:,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWN,Spawn,,Создание,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWNED,Spawned %s of %s,,Создано %s из %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_ERR_NO_MOB,No such monster,,Такого монстра нет,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,"Свободные боты (щёлкни, чтобы вставить PID)",client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_BOTS,Active bots,,Активные боты,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_MOBS,Monsters,,Монстры,client: game texts (localeInfo),done
+c:locale_game:GMP_LIST_METINS,Metins,,Метины,client: game texts (localeInfo),done
+c:locale_game:GMP_CLOSE_LIST,Close list,,Закрыть список,client: game texts (localeInfo),done
+c:locale_game:GMP_PICKED,Picked: %s,,Выбрано: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Быстрое создание (обычные Метины, все боссы)",client: game texts (localeInfo),done
+c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Набор... показывает боссов одного уровня,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_1,1 boss,,1 босс,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_5,5 bosses,,5 боссов,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_1,1 metin,,1 Метин,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN_3,3 metins,,3 Метина,client: game texts (localeInfo),done
+c:locale_game:GMP_POOL,Pool...,,Набор...,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CITIES,Cities,,Города,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MAPS,Maps,,Карты,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Подземелья,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPECIAL,Special,,Особое,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Шинсу M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Шинсу M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Чонджо M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Чонджо M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Джинно M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Джинно M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Деревня гильдии 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Деревня гильдии 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Деревня гильдии 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SEUNGRYONG,Seungryong Valley,,Долина Сынрён,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_YONGBI,Yongbi Desert,,Пустыня Ёнби,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SOHAN,Mount Sohan,,Гора Сохан,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_FIRELAND,Fireland,,Огненная земля,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GHOSTWOOD,Ghost Wood,,Призрачный лес,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_REDWOOD,Red Wood,,Красный лес,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GIANTS,Land of Giants,,Земля великанов,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WLPASS,Pass (wl_pass),,Перевал (wl_pass),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CAPE,Cape Dragon Fire,,Мыс Драконьего огня,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DAWNMIST,Dawnmist Wood,,Лес рассветного тумана,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BLACKSAND,Bay Black Sand,,Бухта чёрного песка,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_THUNDER,Thunder Mountains,,Громовые горы,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HWANG,Hwang Temple,,Храм Хван,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DEVILTOWER,Demon Tower,,Башня демонов,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER1,Spider Dungeon 1,,Паучье подземелье 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SPIDER2,Spider Dungeon 2,,Паучье подземелье 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_E,Monkey Dungeon (easy),,Обезьянье подземелье (лёгкое),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_N,Monkey Dungeon (normal),,Обезьянье подземелье (обычное),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_MONKEY_H,Monkey Dungeon (hard),,Обезьянье подземелье (сложное),client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE1,Grotto of Exile 1,,Грот изгнанников 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_EXILE2,Grotto of Exile 2,,Грот изгнанников 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_BERAN,Beran-Setaou's Lair,,Логово Беран-Сетау,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CATACOMB,Devil's Catacomb,,Катакомбы дьявола,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_RAZADOR,Razador's Fortress,,Крепость Разадора,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_ICE,Ice Dungeon,,Ледяное подземелье,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_LABYRINTH,Labyrinth,,Лабиринт,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_OX,OX Arena,,Арена OX,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WEDDING,Wedding Hall,,Свадебный зал,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_DUEL,Duel Arena,,Арена дуэлей,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR1,Empire War 1,,Война королевств 1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR2,Empire War 2,,Война королевств 2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_WAR3,Empire War 3,,Война королевств 3,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_GMROOM,GM Room,,Комната GM,client: game texts (localeInfo),done
+c:locale_game:GMP_GO,Go,,Перейти,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_HINT,X/Y in global metres. Ctrl + click on the map = teleport.,,X/Y в глобальных метрах. Ctrl + щелчок по карте = телепорт.,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_WAYPOINTS,My places,,Мои места,client: game texts (localeInfo),done
+c:locale_game:GMP_WP_EMPTY,%d. empty,,%d. пусто,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GMP_WP_SAVE,Save here,,Сохранить здесь,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RATES,Server rates (%),,Множители сервера (%),client: game texts (localeInfo),done
+c:locale_game:GMP_SAVE,Save,,Сохранить,client: game texts (localeInfo),done
+c:locale_game:GMP_FETCH,Fetch,,Получить,client: game texts (localeInfo),done
+c:locale_game:GMP_RATES_HINT,"1-10000, 100 = normal. Applies at once.",,"1-10000, 100 = обычно. Действует сразу.",client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_RATE,Rate: a number 1-10000,,Множитель: число от 1 до 10000,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AI,Bot behaviour,,Поведение ботов,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,Получение настроек ботов...,client: game texts (localeInfo),done
+c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Изменения вступают в силу за несколько секунд,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_RESTART,Restart,,Перезапуск,client: game texts (localeInfo),done
+c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,"Щёлкни по команде, чтобы вывести её в чат",client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Бан,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Инфо,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,Сервер не ответил. Попробуй ещё раз.,client: game texts (localeInfo),done
+c:locale_interface:ACCEPT,Accept,Akceptuj,Принять,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Использовать камень духа?,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTACH_METIN_TITLE,Use Spirit Stone,Użyj Kamienia Duszy,Использовать камень духа,client: window texts (uiScriptLocale),done
+c:locale_interface:CANCEL,Cancel,Anuluj,Отмена,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_CONFIRM,Confirm new Password,Potwierdź nowe Hasło,Подтверди новый пароль,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_NEW,New Password,Nowe Hasło,Новый пароль,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_OLD,Old Password,Stare Hasło,Старый пароль,client: window texts (uiScriptLocale),done
+c:locale_interface:CHANGE_PASSWORD_TITLE,Password Change,Zmiana Hasła,Смена пароля,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ACTION,Emotion,Emocje,Эмоция,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_EMOTICON,Emotion,Emocje,Эмоция,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MAIN,Character,Postać,Персонаж,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_MUTUAL_ACTION,Mutual Emotion,Emocje wspólne,Парная эмоция,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_NORMAL_ACTION,Normal Emotion,Emocje podstawowe,Обычная эмоция,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_QUEST,Missions,Misje,Задания,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,Умение,client: window texts (uiScriptLocale),done
+c:locale_interface:CLOSE,Close,Zamknij,Закрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,Костюмы,client: window texts (uiScriptLocale),done
+c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,Костюмы,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,СИЛ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_CREATE,Create,Utwórz,Создать,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,ЛОВ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_LAST_POINT,Points,Punkty,Очки,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_MAN,Man,Mężczyzna,Мужчина,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NAME,Name,Nazwa,Имя,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_NEXT,Next,Dalej,Далее,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_PREV,Back,Wróć,Назад,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SEX,Gender,Płeć,Пол,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Облик,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SP,INT,INT,ИНТ,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Сбросить,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Женщина,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Справочник улучшений,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL,Required materials,Wymagane materiały,Необходимые материалы,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_REQUIRE_MATERIAL_OR,or,lub,или,client: window texts (uiScriptLocale),done
+c:locale_interface:CUBE_TITLE,Refinement Window,Okienko uszlachetniania,Окно улучшения,client: window texts (uiScriptLocale),done
+c:locale_interface:DO_REFINE,Refine,Uszlachetnij,Улучшить,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_ACTIVATE,Activate,Aktywuj,Активировать,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_1,Rough,Surowy,Необработанный,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_2,Cut,Szlifowany,Огранённый,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_3,Rare,Rzadki,Редкий,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_4,Antique,Antyczny,Древний,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_PAGE_BUTTON_5,Legendary,Legendarny,Легендарный,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_REFINE_WINDOW_TITLE,Refinement Window,Okienko uszlachetniania,Окно улучшения,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_1,Dragon Diamond,Smoczy Diament,Драконий алмаз,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_2,Dragon Ruby,Smoczy Rubin,Драконий рубин,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_3,Dragon Jade,Smoczy Jadeit,Драконий нефрит,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_4,Dragon Sapphire,Smoczy Szafir,Драконий сапфир,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_5,Dragon Garnet,Smoczy Granat,Драконий гранат,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TAP_TITLE_6,Dragon Onyx,Smoczy Onyks,Драконий оникс,client: window texts (uiScriptLocale),done
+c:locale_interface:DRAGONSOUL_TITLE,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Алхимия камней дракона,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_EXIT,Exit,Wyjdź,Выход,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_NEXT,Next,Dalej,Далее,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_PREV,Back,Wstecz,Назад,client: window texts (uiScriptLocale),done
+c:locale_interface:EMPIRE_SELECT,Choose,Wybierz,Выбрать,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_ACCEPT,Accept,Akceptuj,Принять,client: window texts (uiScriptLocale),done
+c:locale_interface:EXCHANGE_TITLE,Trade,Handel,Обмен,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEOPTION_TITLE,Game Options,Opcje Gry,Настройки игры,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_EXIT_OBSERVER,End Observer Mode,Zakończ Obserwowanie,Выйти из режима наблюдателя,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_HELP,Help,Pomoc,Помощь,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_QUEST,Tasks,Zadania,Задачи,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_SKILL_UP,Raise Skills,Podnieś Umiejętności,Повысить умения,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_STAT_UP,Raise State,Podnieś Status,Повысить характеристики,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE,Class,Klasa,Класс,client: window texts (uiScriptLocale),done
+c:locale_interface:GRADE_SELECT,Class,Klasa,Класс,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BASENAME,Base Name,Podstawowa Nazwa,Базовое имя,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_ID,Name,Nick,Имя,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_REFRESH,Refresh (F5),Odśwież (F5),Обновить (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BOARD_TEXT,Message,Wiadomość,Сообщение,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CATEGORY_TITLE,Building Units,Jednostki Budowlane,Строительные единицы,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_CHANGE,Change,Zmień,Изменить,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_DIRECTION,Orientation,Kierunek,Направление,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_GRADE,Rank,Ranga,Ранг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_INFO,Buildings and Cost Information,Informacje o Budynkach i Kosztach,Здания и стоимость,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LIST_TITLE,Building List,Lista Budowli,Список зданий,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_LOG,Log,Pień,Журнал,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_NAME,Building name,Nazwa Budowli,Название здания,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_OPERATE,Operate,Operuj,Управлять,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PLY,Plywood,Dykta,Фанера,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_POSITION,Position,Miejsce,Позиция,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PREVIEW,Preview,Podgląd,Предпросмотр,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_PRICE,Price,Cena,Цена,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_REFRESH,Refresh (F5),Odśwież (F5),Обновить (F5),client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_STONE,Stone,Kamień,Камень,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_BUILDING_TITLE,Guild House Building,Budowa Siedziby Gildii,Строительство дома гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_CRYSTAL,Crystal,Kryształ,Кристалл,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DEPOSIT,Deposit,Depozyt,Внести,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE1,Here,Tutaj,Здесь,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_DROP_RESOURCE2,Drop Resource,Upuść Surowiec,Сдать ресурс,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GEM,Gem,Klejnot,Самоцвет,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_CHANGE_GRADE_NAME,New rank name,Nowa nazwa Rangi,Новое название ранга,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_NUM,Nr.,Nr,№,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_DELETE,Kick,Usuń,Исключить,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_JOIN,Invite,Zapraszanie,Пригласить,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_NOTICE,Write,Pisanie,Написать,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_PERMISSION_SKILL,Skills,Umiejętności,Умения,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_RANK,Rank,Ranga,Ранг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_GRADE_WRITE,Write,Napisz,Написать,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO,Guild Information,Informacje o Gildii,Информация о гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_CUR_EXP,Experience,Doświadczenie,Опыт,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_DECALRE_WAR,Declare War,Wypowiedz Wojnę,Объявить войну,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD,Enemy Guild,Wrogie Gildie,Вражеская гильдия,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Brak,Нет,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_LEVEL,Guild Level,Poziom Gildii,Уровень гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MARK,Guild Sign,Logo Gildii,Знак гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER,Leader,Lider,Лидер,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MASTER_VALUE,Leader,Lider,Лидер,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_AVG_LEVEL,Average Level,Średni Poziom,Средний уровень,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_MEMBER_NUM,No. of members,Liczba członków,Число членов,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME,Guild name,Nazwa Gildii,Название гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_NAME_VALUE,This is a Guild Name,To jest nazwa Gildii,Это название гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_OFFER_EXP,Invest,Inwestuj,Вложить,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_REST_EXP,Needed Exp.,Wymagane PD,Нужно опыта,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_MARK,Upload Sign,Wgraj Logo,Загрузить знак,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_UPLOAD_SYMBOL,Upload Flag,Wgraj Flagę,Загрузить флаг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MARK,Guild Sign,Znak Gildii,Знак гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_JOB,Class,Klasa,Класс,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_KNIGHT,Leader,Lider,Лидер,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_LEVEL,Level,Poziom,Уровень,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Имя,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Ранг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Вложено,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Камень духа,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Минерал,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Янг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_NAME,Guild,Gildia,Гильдия,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Информация о ресурсах,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Активно,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKIlL_HEAL_GSP,Win back Power,Regeneracja,Вернуть силу,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_PASSIVE,Passive,Pasywne,Пассивное,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_POWER,Energy,Energia,Энергия,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SKILL_STATE,Skills of the Guild,Umiejętności Gildii,Умения гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_SYMBOL,Guild Flag,Flaga Gildii,Флаг гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ACCEPT,Accept War Declaration,Akceptuj Deklarację Wojny,Принять объявление войны,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_BATTLE_TYPE,Battle Type,Rodzaj bitwy,Тип битвы,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Флаг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Объявить войну гильдий,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Враг,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Поле,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Арена,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER,Water,Woda,Вода,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Водный камень,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WITHDRAW,Take,Weź,Взять,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_ATTACK_KEY,Attack: left mouse button or space bar,Atak: lewy przycisk myszy lub spacja,Атака: левая кнопка мыши или пробел,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHANGE_PK_MODE,Change attack mode: change setting of left mouse button,Zmiana trybu ataku: zmień akcję Lewego Przycisku Myszy,Смена режима атаки: изменить настройку левой кнопки мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON1,"(Character Window, Inventory Window,","(Okno Postaci, Ekwipunek","(Окно персонажа, окно инвентаря,",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CHARACTER_BUTTON2,List of Friends and Options),oraz Lista Przyjaciół i Opcje),список друзей и настройки),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON,Camera View: middle or right mouse button,Widok Kamery: środkowy lub prawy przycisk myszy.,Камера: средняя или правая кнопка мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_CONTROL_CAMERA_BY_RIGHTBUTTON,Camera View: right or middle mouse button,Widok Kamery: prawy oraz środkowy przycisk myszy.,Камера: правая или средняя кнопка мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_EXP,Experience,Doświadczenie,Опыт,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FURY,Ingame Item Shop,Sklep z Przedmiotami w grze,Внутриигровой магазин предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_GUILD_WINDOW,Open Guild Window: Alt + G,Otwórz Okno Gildii: ALT + G,Окно гильдии: Alt + G,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HELP,Display help: H,Wyświetl Pomoc: H,Показать помощь: H,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_HP,Hit Points (HP),Punkty Życia (PŻ),Очки здоровья (HP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MESSENGER_WINDOW,Open Friends List: Alt + M,Otwórz Listę Przyjaciół: ALT + M,Список друзей: Alt + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_LEFT,Function of the Left Mouse button,Funkcja Lewego Przycisku Myszy,Функция левой кнопки мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOUSE_RIGHT,Function of the Right Mouse button,Funkcja Prawego Przycisku Myszy,Функция правой кнопки мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_MOVE_KEY,"Panel: W, A, S, D or arrow keys","Sterowanie: W, S, A, D lub klawisze strzałek","Движение: W, A, S, D или стрелки",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHARACTER,Open character window: C,Otwórz Okno Postaci: C,Окно персонажа: C,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_CHAT,Open chat window: Enter,Otwórz Okno Chatu: Enter,Окно чата: Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_INVENTORY,Open inventory window: I,Otwórz Okno Ekwipunku: I,Окно инвентаря: I,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_LOG,Open Chatlog: L,Otworzenie Panelu Wiadomości: L,Журнал чата: L,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_MINIMAP,Open mini map: Shift + M,Otwórz Mini Mapę: Shift + M,Мини-карта: Shift + M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_QUEST,Open Task Window: N,Otwórz Okno Zadań: N,Окно заданий: N,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_SKILL,Open Skill Window: V,Otwórz Okno Umiejętności: V,Окно умений: V,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_WHISPER,Open Whisper Window: Shift + Enter,Otwórz Okno Szeptania: Shift + Enter,Окно шёпота: Shift + Enter,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_OPEN_ZONEMAP,Open Large Map: M,Otwórz Podgląd Mapy: M,Большая карта: M,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_PICK_ITEM,Collect Items: ^ or Y or left mouse button,"Podnoszenie Przedmiotów: ` (tylda), Z lub Lewy Przycisk Myszki",Подбор предметов: ^ или Y или левая кнопка мыши,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_QUICKSLOT,Fast Access Fields,Pole Szybkiego Dostępu,Панель быстрого доступа,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SCREEN_CAPTURE,"Save Screenshot: Print (will be saved in file ""Metin2\screenshot"")","Zapisz Screenshota:  Print (Screen będzie zapisany w podkatalogu gry ""Metin2\screenshot"")","Скриншот: Print Screen (сохраняется в папку ""Metin2\screenshot"")",client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SHOW_ALL_NAME,Display Names: Alt,Pokaż Nazwy: Alt,Показать имена: Alt,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SP,Spell Points (SP),Punkty Energii (PE),Очки маны (SP),client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,Системные кнопки,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,Страница инвентаря 1,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,Страница инвентаря 2,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,Инвентарь,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Магазин предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,Файл повреждён. Переустанови. Теперь нажми ESC.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECT,Connect,Połącz,Подключиться,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,Ты будешь подключён к серверу,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_DEFAULT_SERVERADDR,"Servername, Channel 1","Nazwa Serwera, Kanał 1","Имя сервера, канал 1",client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_EXIT,Exit,Wyjdź,Выход,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_REGION_TITLE,Choose Place for issuing an invoice.,Wybierz miejsce wydania faktury.,Выбери место для выставления счёта.,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_BUTTON,Choose,Wybierz,Выбрать,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_EXIT,Exit,Wyjdź,Выход,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SELECT_TITLE,Choose Server,Wybierz Serwer,Выбрать сервер,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_PASSWORD_TITLE,Password,Hasło,Пароль,client: window texts (uiScriptLocale),done
+c:locale_interface:MALL_TITLE,Item Shop Storeroom,Przedmioty z ItemShop,Склад магазина предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKET_TITLE,Load,Ładuj,Загрузить,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_REFRESH,Refresh,Odśwież,Обновить,client: window texts (uiScriptLocale),done
+c:locale_interface:MARKLIST_TITLE,Register Guild Sign,Zarejestruj Znak Gildii,Зарегистрировать знак гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSAGE,This is a Message,To jest Wiadomość,Это сообщение,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_ADD_FRIEND,Add friend,Dodaj przyjaciela,Добавить друга,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_DELETE_FRIEND,Delete friend,Usuń,Удалить друга,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_MOBILE,Send Text Message,Wyślij SMS,Отправить SMS,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_OPEN_GUILD,Open Guild Window,Otwórz Okno Gildii,Открыть окно гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_TITLE,Friends,Przyjaciele,Друзья,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_USE_GUILD_MOVE_SKILL,Use the Guild Moving Skill,Użyj Umiejętności Przemieszczania Gildii,Использовать умение перемещения гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_WHISPER,Whisper,Szept,Шёпот,client: window texts (uiScriptLocale),done
+c:locale_interface:MINIMIZE,Minimize,Minimalizuj,Свернуть,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_ATTACK,Attack,Atak,Атака,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_AUTO_ATTACK,Attack automatically,Auto Atak,Автоатака,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_CAMERA,Camera,Kamera,Камера,client: window texts (uiScriptLocale),done
+c:locale_interface:MOUSEBUTTON_SKILL,Skills,Umiejętności,Умения,client: window texts (uiScriptLocale),done
+c:locale_interface:MUSICLIST_TITLE,Music Choices,Wybór muzyki,Выбор музыки,client: window texts (uiScriptLocale),done
+c:locale_interface:NO,No,Nie,Нет,client: window texts (uiScriptLocale),done
+c:locale_interface:OK,OK,OK,OK,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME,Name,Nazwa,Имя,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_OFF,Limited,Ograniczony,Ограниченно,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_ON,Always,Zawsze,Всегда,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK,Block,Blokuj,Блок,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_EXCHANGE,Trade,Handel,Обмен,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_FRIEND,Friends,Przyjaciele,Друзья,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_GUILD,Guild,Gildia,Гильдия,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY,Group,Grupa,Группа,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_PARTY_REQUEST,Request,Prośba,Запрос,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_BLOCK_WHISPER,Whisper,Szept,Шёпот,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE,Camera,Kamera,Камера,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_LONG,Far,Dalej,Далеко,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_CAMERA_DISTANCE_SHORT,Close,Bliżej,Закрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_DELETE_MOBILE_BUTTON,Delete Cell Phone Number,Usuń Numer Telefonu Komórkowego,Удалить номер телефона,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_EFFECT,Hit Info,Info o traf.,Информация об ударах,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG,Fog,Mgła,Туман,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_DENSE,Dense,Gęsta,Густой,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_LIGHT,Light,Światło,Лёгкий,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MIDDLE,Middle,Środek,Средний,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_INPUT_MOBILE_BUTTON,Enter Cell Phone Number,Wybierz Numer Telefonu Komórkowego,Введи номер телефона,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOBILE,Cell Phone,Telefon Komórkowy,Мобильный телефон,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC,Music,Muzyka,Музыка,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Изменить,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Стандартная музыка Metin2,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Цвет имени,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Цвет королевства,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Обычный,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,Режим PvP,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Свободный,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Можно атаковать всех игроков.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD,Guild,Gildia,Гильдия,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_GUILD_TOOLTIP,You can attack players outside your guild.,Możesz atakować wszystkich graczy oprócz Członków swojej Gildii.,Можно атаковать игроков не из твоей гильдии.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE,Peace,Pokój,Мир,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_PEACE_TOOLTIP,You cannot attack players from your kingdom.,Nie możesz zaatakować żadnego gracza swojego królestwa.,Нельзя атаковать игроков своего королевства.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE,Hostile,Wrogi,Враждебный,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_PVPMODE_REVENGE_TOOLTIP,You can attack players with a negative rank.,"Możesz atakować tylko tych, którzy mają negatywną Rangę.",Можно атаковать игроков с отрицательным рангом.,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT,Shop name,Nazwa sklepu,Название лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_OFF,Hide,Ukryj,Скрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_VIEW_ON,Show,Pokaż,Показать,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SOUND,Sound Effects,Efekty,Звуковые эффекты,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD,Target Menu,Menu Celu,Меню цели,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Закрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Показать,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING,Graphic,Grafika,Графика,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Применить,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TITLE,Options,Opcje,Настройки,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Строка чата,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Скрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_CHAT_ON,Show,Pokaż,Показать,client: window texts (uiScriptLocale),done
+c:locale_interface:PARTY_MEMBER_INFO_NAME,Name of the Group member,Nazwa Członka Grupy,Имя участника группы,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_1,Enter your password,"Podaj hasło,","Введи пароль,",client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_2,to open the storeroom.,by otworzyć magazyn.,чтобы открыть склад.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_3,Already changed your password?,Zmieniłeś/aś już hasło?,Ты уже сменил пароль?,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_4,"If not, your password will be '000000'.","Jeśli nie, to Twoim hasłem jest: ""000000"".","Если нет, твой пароль - '000000'.",client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_DESC_5,Change your password in storage.,Zmień swoje hasło w magazynie.,Смени пароль на складе.,client: window texts (uiScriptLocale),done
+c:locale_interface:PASSWORD_TITLE,Saving Password,Zapamiętywanie Hasła,Пароль склада,client: window texts (uiScriptLocale),done
+c:locale_interface:PICK_MONEY_TITLE,Divide,Podziel,Разделить,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_CLOSE_BUTTON,Close shop,Zamknij Sklep,Закрыть лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_NAME,Name of the shop,Nazwa Sklepu,Название лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_TITLE,Open private shop,Otwórz własny Sklep,Открыть личную лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_COST,Upgrading Costs: 0 Yang,Ulepszanie Kosztuje: 0 Yang,Стоимость улучшения: 0 янг,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_INFO,Chance to upgrade successfully: 100%,Szansa na udane Ulepszenie: 100%,Шанс успешного улучшения: 100%,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_MONEY,Refinement fee,Opłata za uszlachetnienie,Плата за улучшение,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_SELECT,Refinement,Uszlachetnienie,Улучшение,client: window texts (uiScriptLocale),done
+c:locale_interface:REFINE_TTILE,Upgrades,Ulepszanie,Улучшения,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,Воскреснуть здесь,client: window texts (uiScriptLocale),done
+c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,Воскреснуть в городе,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,Сменить пароль,client: window texts (uiScriptLocale),done
+c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,Склад,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,СИЛ,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_CREATE,Create,Stwórz,Создать,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DELETE,Delete,Usuń,Удалить,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,ЛОВ,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,Название королевства,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_EXIT,Close,Zamknij,Закрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_LEVEL,Level,Poziom,Уровень,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień Duszy,Выбрать камень духа,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NAME,Name,Nazwa,Имя,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,Нет гильдии,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,Время в игре (мин.),client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SELECT,Start,Start,Старт,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SP,SP,PE,SP,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,Выбрать титул,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_BUY,Buy,Kup,Купить,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELL,Sell,Sprzedaj,Продать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TITLE,Shop,Sklep,Магазин,client: window texts (uiScriptLocale),done
+c:locale_interface:SKILL_SUPPORT_TITLE,Standard Skills,Standardowe Umiejętności,Обычные умения,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP,Clarity grade,Stopień jakości,Степень чистоты,client: window texts (uiScriptLocale),done
+c:locale_interface:STEP_SELECT,Clarity grade,Stopień jakości,Степень чистоты,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH,Strengthen,Wzmocnienie,Усилить,client: window texts (uiScriptLocale),done
+c:locale_interface:STRENGTH_SELECT,Level,Poziom,Уровень,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEMOPTION_TITLE,System Options,Opcje Systemowe,Системные настройки,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,Сменить персонажа,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,Выйти из игры,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_HELP,Help,Pomoc,Помощь,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,Выйти из аккаунта,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Магазин предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,Системные настройки,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],Персонаж [C/V/B/N],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],Окно чата [Enter],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DISABLE,Deactivated,Dezaktywowano,Отключено,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_DRAGON_SOUL,Dragon Stone Alchemy,Alchemia Smoczych Kamieni,Алхимия камней дракона,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_EXPAND,Expand window,Powiększ okno,Развернуть окно,client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_INVENTORY,Inventory [I],Ekwipunek [I],Инвентарь [I],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_MESSENGER,Friends [Alt+M],Przyjaciele [Alt+M],Друзья [Alt+M],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_NEXT_QUICKSLOT,"Next Fast Access Field [Shift+Number, Alt]",Następne Szybkie Pole Dostępu [Alt],"Следующая панель быстрого доступа [Shift+цифра, Alt]",client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Number],Poprzednie Szybkie Pole Dostępu,Предыдущая панель быстрого доступа [Shift+цифра],client: window texts (uiScriptLocale),done
+c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],Настройки[ESC],client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_BAN,Block,Blokuj,Блок,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_NAME,Whisper,Szept,Шёпот,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_SEND,Send,Wyślij,Отправить,client: window texts (uiScriptLocale),done
+c:locale_interface:YES,Yes,Tak,Да,client: window texts (uiScriptLocale),done
+c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,Большая карта,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_STATUS_TITLE,Character Status,,Состояние персонажа,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_ATTRIBUTES_TITLE,Attributes,,Атрибуты,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_CATEGORIES,Categories,,Категории,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ACCOUNT_STATE,Account,,Аккаунт,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ALWAYS_SHOW_NAME_GROUP,Group,Grupuj,Группа,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHOW_DAMAGE_TARGET,Target,Cel,Цель,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP,Shop display,Widok sklep,Отображение лавок,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_ON,Show,Pokaż,Показать,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_SHOP_FOUND,Search only,Wyszukanie,Только поиск,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SALESTEXT_RANGE,Shop range,Zakres sklepów,Радиус лавок,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SHADOW,Shadow quality,Jakość cieni,Качество теней,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO,Monster info,Info potw.,Информация о монстрах,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_AGGR,Aggressive,Agresywny,Агрессивный,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_MOB_INFO_LEVEL,Level,Poziom,Уровень,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE,Night,Noc,Ночь,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_ON,On,WŁ,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_NIGHT_MODE_OFF,Off,WYŁ,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT,Environment,Otoczenie,Окружение,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_ON,On,WŁ,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_ENV_EFFECT_OFF,Off,WYŁ,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE,Snowfall,Opady śniegu,Снегопад,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_ON,On,WŁ,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_MODE_OFF,Off,WYŁ,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE,Snow,Śnieg,Снег,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_ON,On,WŁ,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_SNOW_TEXTURE_MODE_OFF,Off,WYŁ,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE,Fog,Mgła,Туман,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_ON,On,Włącz,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_FOG_MODE_OFF,Off,Wyłącz,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Дальность обзора,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Ночной режим,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Авто,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Включает ночной режим на большинстве карт.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,Ночь длится с 22:00 до 06:00.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Используются часы твоего компьютера.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Текст заданий,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Обычный,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Быстро,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Мгновенно,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Информация об эффектах,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_0,Left,Na Lewo,Слева,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_1,Right,Na Prawo,Справа,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_FLOATING_TEXT_2,Hide,Ukryj,Скрыть,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_LABEL,Bot titles,,Титулы ботов,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_PERSONALITY,Personality,,Характер,client: window texts (uiScriptLocale),done
+c:locale_interface:BOT_TITLES_OFF,Off,,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_VERSION,Version: %d.%d.%d%s,,Версия: %d.%d.%d%s,client: window texts (uiScriptLocale) | keep: %d %d %d %s,done
+c:locale_interface:SYSTEM_ESCAPE,Unstuck,Uwolnij się,Освободиться,client: window texts (uiScriptLocale),done
+c:locale_interface:SYSTEM_MOVE_CHANNEL,Change Channel,Zmień kanał,Сменить канал,client: window texts (uiScriptLocale),done
+c:locale_interface:HORSE_INVENTORY,Saddlebags,Juki Konne,Седельные сумки,client: window texts (uiScriptLocale),done
+c:locale_interface:POCKET_DEPOSIT,Item Shop Storage,Depozyt ItemShop,Хранилище магазина предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE,Shop,Sklep,Магазин,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_SORT_STACK,Stack and sort,,Сложить и отсортировать,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_3,Inventory page 3,,Страница инвентаря 3,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_4,Inventory page 4,,Страница инвентаря 4,client: window texts (uiScriptLocale),done
+c:locale_interface:INVENTORY_AUTOSTACK,Stack all items,Połącz wszystkie przedmioty,Сложить все предметы,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_TITLE,Report Player,Zgłoś gracza,Пожаловаться на игрока,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_REASON,Reason:,Powód zgłoszenia:,Причина:,client: window texts (uiScriptLocale),done
+c:locale_interface:REPORT_PLAYER_SUBMIT,Report,Zgłoś,Пожаловаться,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME,Shop name,Nazwa sklepu,Название лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT,Shop duration,Czas trwania sklepu,Срок работы лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE,Create,Stwórz,Создать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_PRICE,Cost: ,Koszt: ,Стоимость: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAY,day,dzień,день,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_DAYS,days,dni,дней,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOUR,hour,godz.,час,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_HOURS,hours,godz.,часов,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_NORMAL,Normal shop,Zwykły sklep,Обычная лавка,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE,%d hours / %s,%d godz. | %s,%d ч / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_OFFLINE_DAYS,%d days / %s,%d dni | %s,%d дн. / %s,client: window texts (uiScriptLocale) | keep: %d %s,done
+c:locale_interface:SHOP_CREATE_SELECT_NORMAL,Normal shop / %s,Zwykły sklep | %s,Обычная лавка / %s,client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_CREATE_SELECT_DEFAULT,Select duration,Wybierz czas,Выбери срок,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NAME_EMPTY,Please enter a shop name.,Proszę wpisać nazwę sklepu,Введи название лавки.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIMEOUT_EMPTY,Please select a shop duration.,Proszę wybrać czas trwania sklepu,Выбери срок работы лавки.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_NAME,Your Shops,Twoje sklepy,Твои лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_WINDOW_CREATE,Create Shop,Tworzenie sklepu,Создать лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_GET_YANG,Collect Yang,Pobierz Yang,Забрать янг,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_NAME,Rename,Zmień nazwę,Переименовать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_ENTER_NEW_NAME,Enter a new name,Wpisz nową nazwę,Введи новое название,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE,Close shop,Zamknij sklep,Закрыть лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSE_QUEST,"Are you sure you want to close shop ""%s""?","Czy jesteś pewny że chcesz zamknąć sklep ""%s""?","Точно закрыть лавку ""%s""?",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:SHOP_OPEN,Open shop,Otwórz sklep,Открыть лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TITLE,Manage Shop,Zarządzaj sklepem,Управление лавкой,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT,Edit,Edytuj,Изменить,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM,Remove,Usuń,Убрать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CHANGE_PRICE,Change price,Zmień cenę,Изменить цену,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_WINDOW,Edit Shop,Edytowanie sklepu,Редактировать лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EDIT_SHOP_CANCEL,Cancel editing,Anuluj edycje,Отменить редактирование,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SELECT,Select,Wybierz,Выбрать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REMOVE_ITEM_QUEST,Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten przedmiot?,Точно убрать этот предмет?,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NOT_EARNED_YANG,This shop has not earned any Yang yet.,Sklep nie zarobił żadnych Yang do tej pory!,Эта лавка ещё не заработала янг.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_YANG_QUEST,"Collect %s from shop ""%s""?","Czy jesteś pewny że chcesz pobrać %s ze sklepu ""%s"" ?","Забрать %s из лавки ""%s""?",client: window texts (uiScriptLocale) | keep: %s %s,done
+c:locale_interface:SHOP_INFORMATION,Shop Information,Informacje o sklepie ,Информация о лавке,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_TITLE,Shop History,Historia Sklepu,История лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_HISTORY_CLEAR,Clear history.,Wyczyść historię.,Очистить историю.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_FIRST,Action,Akcja,Действие,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_COLUMN_SECOND,Date,Data,Дата,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_ATTR,With bonus,Z bonusem,С бонусом,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH,Search,Szukaj,Искать,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TITLE,Item Search,Wyszukiwarka przedmiotów,Поиск предметов,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_TOOLTIP,Item Search [F5],Wyszukiwarka przedmiotów [F5],Поиск предметов [F5],client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SEARCH_CLEAR,Clear,Wyczyść,Очистить,client: window texts (uiScriptLocale),done
+c:locale_interface:ATTRIBUTE_LIST_TITLE,Character Bonuses,Bonusy postaci,Бонусы персонажа,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_TITLE,Refill Elixir,Ładowanie Eliksiru,Пополнить эликсир,client: window texts (uiScriptLocale),done
+c:locale_interface:POTION_RECHARGE_BUTTON_TOOLTIP,Refill elixir,Naładuj eliksir,Пополнить эликсир,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_TITLE,Remove Spirit Stone,Wyjmij Kamień Duszy,Извлечь камень духа,client: window texts (uiScriptLocale),done
+c:locale_interface:SOCKET_EXTRACT_BUTTON,Remove,Wyjmij,Убрать,client: window texts (uiScriptLocale),done
+c:locale_interface:MESSENGER_BLOCK,Block player,Zablokuj gracza,Заблокировать игрока,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TITLE,Settings,Ustawienia,Настройки,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RESOLUTION,Resolution,Rozdzielczość,Разрешение,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SOUND,Sound,Dźwięk,Звук,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW,Display mode,Tryb ekranu,Режим отображения,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_CUSTOM_RESOLUTION,Custom resolution,Własna Rozdzielczość,Своё разрешение,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT,Font,Czcionka,Шрифт,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_WINDOWED,Windowed,Okno,Оконный,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL,Fullscreen,Pełny ekran,Полноэкранный,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_WINDOW_FULL_WINDOWED,Borderless,Pełne okno,Без рамки,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SAVE,Save,Zapisz,Сохранить,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE,View distance,Zakres rysowania,Дальность обзора,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL1,Very short,Bardzo krótki,Очень короткая,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Короткая,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Средняя,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Длинная,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Очень длинная,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ультра,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Максимум,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Сглаживание,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Некоторые изменения требуют перезапуска. Продолжить?,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE,Interface scaling,Skaluj Interfejs,Масштаб интерфейса,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_NONE,Off,Nie skaluj,Выкл,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_MODE_YES,On,Skaluj,Вкл,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOWS,Shadows,Cienie,Тени,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_NONE,None,Brak,Нет,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND,Terrain,Teren,Местность,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_AND_SOLO,Terrain and player,Teren i Gracz,Местность и игрок,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, Gracz i NPC","Местность, игрок и NPC",client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Низкое,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Средняя,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Высокое,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ультра,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Текстуры,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,По умолчанию,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Классические текстуры,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_2,Classic effects,Stare efekty,Классические эффекты,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_TEXTURE_3,Classic textures and effects,Stare tekstury i efekty,Классические текстуры и эффекты,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_LANGUAGE,Language,Język,Язык,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_APPEARANCE,Costume 1,Kostium 1,Костюм 1,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_ATTRIBUTE,Costume 2,Kostium 2,Костюм 2,client: window texts (uiScriptLocale),done
+c:locale_interface:COMB_SKILLBOOK_TILE,Exchange books,Wymień księgi,Обменять книги,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_WAR_EXIT,Leave war,Opuść wojnę,Покинуть войну,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_INFO_WITHDRAW_GOLD,Withdraw,Wypłać,Снять,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_STATS,Open Statistics: Y,Otwórz Okno Statystyk: Y,Статистика: Y,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_EARNED_YANG,Yang earned: ,Zarobionych yang: ,Заработано янг: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_SOLD_ITEMS,Items sold: ,Sprzedanych przedmiotów: ,Продано предметов: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_REST_ITEMS,Items remaining: ,Pozostałe przedmioty: ,Осталось предметов: ,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIME_TO_CLOSE,Closes in: ,Pozostało do zamknięcia: ,Закроется через: ,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_WINDOW_NAME,Your Gifts,Twoje podarki,Твои подарки,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_PREV_PAGE,Previous page,Poprzednia strona,Предыдущая страница,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_NEXT_PAGE,Next page,Następna strona,Следующая страница,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_FROM,Sender,Wysłał,Отправитель,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_REASON,Reason,Powód,Причина,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_ALL,Collect all,Odbierz wszystkie,Забрать всё,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_GET_QUEST,"Collect the item ""%s""?","Czy jesteś pewny że chcesz odebrać przedmiot ""%s""?","Забрать предмет ""%s""?",client: window texts (uiScriptLocale) | keep: %s,done
+c:locale_interface:GIFT_GET_QUEST_ALL,Collect all items?,Czy jesteś pewny że chcesz odebrać wszystkie przedmioty ?,Забрать все предметы?,client: window texts (uiScriptLocale),done
+c:locale_interface:GIFT_MONEY_DESC,Your shop earnings.,Twoje zarobione Yangi z sklepu.,Доход твоей лавки.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_REOPEN,Reopen shop,Otwórz ponownie,Открыть лавку снова,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_LOGS,Shop history,Historia sklepu,История лавки,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SHOP,Edit shop,Edytuj sklep,Редактировать лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_FIND_SHOP,Find shop,Znajdź sklep,Найти лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_EDIT_SIGN,Rename shop,Edytuj nazwę,Переименовать лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_CLOSE_SHOP,Close shop,Zamknij sklep,Закрыть лавку,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW,Withdraw Yang,Wypłać Yang,Снять янг,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_MANAGE_TOOLTIP_WITHDRAW_ITEMS,Collect all items,Odbierz wszystkie przedmioty,Забрать все предметы,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_CLOSED,Closed,Zamknięty,Закрыто,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_NEAR_CLOSED,under %d minutes,poniżej %d minut,меньше %d мин.,client: window texts (uiScriptLocale) | keep: %d,done
+c:locale_interface:SHOP_PREMIUM_SLOT,Unlock these slots with a Premium Shop.,Te miejsca odblokujesz za pomocą Sklepu Premium.,Открой эти ячейки с премиум-лавкой.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_LOCKED_SLOT,Unlock these slots through in-game activities.,Te miejsca odblokujesz aktywnościami w grze.,Открой эти ячейки игровыми достижениями.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_ONLINE,The owner is online. Send a whisper.,Właściciel sklepu jest online. Wyślij PW.,Владелец в сети. Напиши ему.,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_OWNER_OFFLINE,The owner is offline.,Właściciel sklepu jest offline.,Владелец не в сети.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME1,Control the fish with the space bar.,Kontrolujesz rybkę używając spacji,Управляй рыбой пробелом.,client: window texts (uiScriptLocale),done
+c:locale_interface:HELP_FISHING_GAME2,Keep the fish inside the area.,Rybka nie może wyjść poza pole,Удерживай рыбу в пределах области.,client: window texts (uiScriptLocale),done
+c:locale_interface:REFRESH,Refresh,Odśwież,Обновить,client: window texts (uiScriptLocale),done
+c:locale_interface:SEARCH_ITEM,Search for an item,Wyszukaj przedmiot,Найти предмет,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT_QUANTITY,Quantity,Ilość,Количество,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Создание,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFT,Craft,Wytwórz,Создать,client: window texts (uiScriptLocale),done
+c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Условия использования,client: window texts (uiScriptLocale),done
+c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Я прочитал правила и принимаю их.,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Сохранить,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Подключиться,client: window texts (uiScriptLocale),done
+c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Удалить,client: window texts (uiScriptLocale),done
+c:locale_interface:BUTTON_HOMEPAGE,Website,Strona WWW,Сайт,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TITLE,Available Classes,Dostępne profesje,Доступные классы,client: window texts (uiScriptLocale),done
+c:locale_interface:CLASS_INFO_TOOLTIP,(Hover over an icon),(Najedź myszką na ikonę),(Наведи курсор на значок),client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_TITLE,Statistics,Statystyki,Статистика,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_GENERAL,General,Ogólne,Общее,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_CURRENT_SESSION,Current session,Obecna sesja,Текущая сессия,client: window texts (uiScriptLocale),done
+c:locale_interface:PLAYER_STATS_RESET_SESSION,Reset,Wyzeruj,Сбросить,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TITLE,You are talking to a |cffffb514Game Master|r.,Rozmawiasz z |cffffb514Mistrzem Gry|r.,Ты общаешься с |cffffb514Game Master|r.,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP1,- Ask your question directly.,"- Zadawaj pytania od razu, bez wstępów.",- Задай вопрос сразу.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,- Pisz krótko i konkretnie.,- Пиши кратко и понятно.,client: window texts (uiScriptLocale),done
+c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,- Терпеливо жди ответа.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,Технические работы,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,Запланирован перерыв в работе сервиса.,client: window texts (uiScriptLocale),done
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Приносим извинения за неудобства.,client: window texts (uiScriptLocale),done
