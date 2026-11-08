@@ -3,8 +3,8 @@
 [English](README.md) | **Polski** | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 To repozytorium zawiera teksty gry **Metin2 Singleplayer** - klienta, nazwy
-przedmiotów i potworów, komunikaty serwera, questy, czat botów i launcher
-Windows - żeby gracze mogli przetłumaczyć grę na swój język. Są tu tylko
+przedmiotów i potworów, komunikaty serwera, questy, czat botów, launcher
+Windows i klasyczny panel WWW - żeby gracze mogli przetłumaczyć grę na swój język. Są tu tylko
 tłumaczenia, bez kodu gry.
 
 Każdy pull request jest sprawdzany automatycznie, a przyjęte tłumaczenia
@@ -33,6 +33,7 @@ mógł je pokazać i edytować (najwyżej 700 wierszy w pliku):
 | `4_questy_NN.csv` | dialogi questów |
 | `5_boty_czat_NN.csv` | czat botów, okrzyki potworów, frazy serwera |
 | `6_launcher_NN.csv` | launcher Windows |
+| `7_panel_NN.csv` | klasyczny panel WWW (panel administratora na porcie 7788, w przeglądarce) |
 
 Kolumny każdego pliku:
 
@@ -108,13 +109,23 @@ Nie trzeba tłumaczyć wszystkiego naraz - wyślij, co masz.
    | 1257 | lt, lv, et | ā č ē ģ ī ķ ļ ņ š ū ž, ą ę ė į ų |
 
    Rumuński: strona kodowa ma tylko **ş ţ z cedyllą**, nie ș ț z przecinkiem.
-   Launcher (`6_launcher_*`) to osobny program Windows i przyjmie każdą literę.
+   Launcher (`6_launcher_*`) to osobny program Windows i przyjmie każdą literę,
+   tak samo panel WWW (`7_panel_*`), strona w przeglądarce: oba są w **UTF-8**,
+   każda litera każdego języka.
 4. **Czat botów** (wiersze, w których notes mówi „ASCII letters only”): boty
    piszą jak gracze, zwykłymi literami a-z, bez znaków diakrytycznych.
 5. **Długość.** Gdzie notes mówi „max N characters”, gra nie ma miejsca na
    więcej.
 6. **Nowe linie** tylko tam, gdzie ma je angielski albo notes mówi „new lines
    allowed”.
+7. **Panel WWW** (`7_panel_*`): jego teksty trafiają na stronę internetową,
+   więc zachowaj znaczniki HTML z angielskiego dokładnie tak, jak są (`<b>`,
+   `</b>`, `<a href="...">`, `<br>` i pola w nawiasach ostrych w rodzaju
+   `<number>`) i nie dodawaj własnych `<`, `>` ani `javascript:`. Zmienne to
+   `%s`, `%d`, `%(nazwa)s` i `{nazwa}`; nazwane `%(nazwa)s` można przestawiać.
+   `%` ze spacją po nim (`25% a character`) to znak procentu. Język z choćby
+   jednym przetłumaczonym tekstem panelu pojawia się w przełączniku języków
+   panelu; to, czego nie przetłumaczono, panel pokazuje po angielsku.
 
 ## Nowy język
 

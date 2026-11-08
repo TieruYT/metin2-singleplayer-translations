@@ -3,8 +3,8 @@
 [English](README.md) | [Polski](README_PL.md) | **Türkçe** | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 Bu depo **Metin2 Singleplayer**'ın metinlerini içerir - oyun istemcisi, eşya
-ve canavar adları, sunucu mesajları, görevler, botların sohbeti ve Windows
-başlatıcısı (launcher) - böylece oyuncular oyunu kendi dillerine
+ve canavar adları, sunucu mesajları, görevler, botların sohbeti, Windows
+başlatıcısı (launcher) ve klasik web paneli - böylece oyuncular oyunu kendi dillerine
 çevirebilir. Burada yalnızca çeviriler var, oyun kodu yok.
 
 Her pull request otomatik olarak kontrol edilir; kabul edilen çeviriler
@@ -33,6 +33,7 @@ düzenleyebilmesi için parçalara bölünmüştür (dosya başına en fazla 700
 | `4_questy_NN.csv` | görev diyalogları |
 | `5_boty_czat_NN.csv` | botların sohbeti, canavarların sözleri, sunucunun ifadeleri |
 | `6_launcher_NN.csv` | Windows başlatıcısı |
+| `7_panel_NN.csv` | klasik web paneli (tarayıcıda, 7788 portundaki yönetici paneli) |
 
 Her dosyanın sütunları:
 
@@ -109,13 +110,22 @@ Her şeyi bir seferde çevirmeniz gerekmez - elinizde olanı gönderin.
 
    Rumence: kod sayfasında yalnızca **çengelli ş ţ** vardır, virgüllü ș ț
    yoktur. Başlatıcı (`6_launcher_*`) ayrı bir Windows programıdır ve her
-   harfi kabul eder.
+   harfi kabul eder; tarayıcıda açılan bir sayfa olan web paneli
+   (`7_panel_*`) de öyle: ikisi de **UTF-8**'dir, her dilin her harfi olur.
 4. **Botların sohbeti** (notes sütununda "ASCII letters only" yazan
    satırlar): botlar oyuncular gibi yazar, aksansız düz a-z harfleriyle.
 5. **Uzunluk.** notes "max N characters" diyorsa, oyunda daha fazlası için
    yer yoktur.
 6. **Yeni satırlar** yalnızca İngilizcede olan yerlerde ya da notes "new
    lines allowed" diyorsa.
+7. **Web paneli** (`7_panel_*`): metinleri bir web sayfasına girer, bu yüzden
+   İngilizcedeki HTML etiketlerini olduğu gibi koruyun (`<b>`, `</b>`,
+   `<a href="...">`, `<br>` ve `<number>` gibi köşeli parantezli yer
+   tutucular) ve kendinizden `<`, `>` ya da `javascript:` eklemeyin.
+   Değişkenleri `%s`, `%d`, `%(ad)s` ve `{ad}`'dir; adlı `%(ad)s` yer
+   değiştirebilir. Ardından boşluk gelen `%` (`25% a character`) yüzde
+   işaretidir. En az bir panel metni çevrilmiş bir dil, panelin dil
+   seçicisinde görünür; çevrilmemiş olanı panel İngilizce gösterir.
 
 ## Yeni bir dil
 
@@ -140,6 +150,8 @@ satırda şunları bildirir:
 - değiştirilmiş bir `english` sütunu;
 - İngilizcedekinden farklı değişkenler, yer tutucular, komutlar ya da renk
   kodları;
+- web panelinin sayfasında İngilizcedekinden farklı HTML etiketleri ya da
+  kendinden bir `<`, `>` veya `javascript:`;
 - dilin kod sayfası dışında bir harf, sekme, kontrol karakteri, izin
   verilmeyen yerde yeni satır, fazla uzun metin.
 
