@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",new
-c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",new
+c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Kans op aanhoudend vuur %.0f%%,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",done
 c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",new
 c:skilldesc:94:2,Blessing,Błogosławieństwo,Zegen,"client: skill tooltip, skill name (skill 94)",done
 c:skilldesc:94:3,Heaven,Ściana Nieba,,"client: skill tooltip, skill name (M) (skill 94)",new
@@ -13,7 +13,7 @@ c:skilldesc:95:2,Reflect,Odbicie,Weerkaatsen,"client: skill tooltip, skill name 
 c:skilldesc:95:3,Reflecting Water,Odbijająca Woda,,"client: skill tooltip, skill name (M) (skill 95)",new
 c:skilldesc:95:4,Crystal Mirror ,Krystaliczne Lustro,,"client: skill tooltip, skill name (G/P) (skill 95)",new
 c:skilldesc:95:5,Protect your partner or yourself with a reflecting circle.,Ochraniaj partnera lub siebie samego odbijającym kręgiem.,,"client: skill tooltip, description (skill 95)",new
-c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,,"client: skill tooltip, condition 1 (skill 95)",new
+c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Kaatst schade terug naar de aanvaller,"client: skill tooltip, condition 1 (skill 95)",done
 c:skilldesc:95:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 95)",new
 c:skilldesc:95:17,Reflected Physical Attack Damage: %.1f%% ,Odbicie Ataku Fizycznego: %.1f%%,,"client: skill tooltip, effect line 1 (skill 95) | keep: %.1f | max 64 characters",new
 c:skilldesc:96:2,Dragon's Strength,Pomoc Smoka,,"client: skill tooltip, skill name (skill 96)",new
@@ -27,29 +27,29 @@ c:skilldesc:106:2,Lightning Throw ,Rzut Piorunem,,"client: skill tooltip, skill 
 c:skilldesc:106:3,Lightning Toss,Piorun Kulisty,,"client: skill tooltip, skill name (M) (skill 106)",new
 c:skilldesc:106:4,Thunder Hurl,Śmiertelny Piorun,,"client: skill tooltip, skill name (G/P) (skill 106)",new
 c:skilldesc:106:5,Attack with Thunderbolts.,Miotaj pioruny.,,"client: skill tooltip, description (skill 106)",new
-c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,,"client: skill tooltip, condition 1 (skill 106)",new
-c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,,"client: skill tooltip, condition 2 (skill 106)",new
+c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,Afstandsaanval,"client: skill tooltip, condition 1 (skill 106)",done
+c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,Aanval op meerdere doelen,"client: skill tooltip, condition 2 (skill 106)",done
 c:skilldesc:106:8,Lightning Attribute,Atrybut Piorunu,,"client: skill tooltip, condition 3 (skill 106)",new
-c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magische aanvalskracht %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:107:2,Summon Lightning,Przywołanie błyskawicy,Bliksem oproepen,"client: skill tooltip, skill name (skill 107)",done
 c:skilldesc:107:3,Lightning Launch,Wystrzał błyskawicy,,"client: skill tooltip, skill name (M) (skill 107)",new
 c:skilldesc:107:4,Thunder Bolt,Grzmot,,"client: skill tooltip, skill name (G/P) (skill 107)",new
 c:skilldesc:107:5,Summon Thunderbolts from the sky.,Przywołuje błyskawice z nieba,,"client: skill tooltip, description (skill 107)",new
-c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,,"client: skill tooltip, condition 1 (skill 107)",new
-c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,,"client: skill tooltip, condition 2 (skill 107)",new
+c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,Afstandsaanval,"client: skill tooltip, condition 1 (skill 107)",done
+c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,Aanval op meerdere doelen,"client: skill tooltip, condition 2 (skill 107)",done
 c:skilldesc:107:8,Lightning Attribute|Fainting Effect,Atrybut Błyskawicy|Efekt Omdlenia,,"client: skill tooltip, condition 3 (skill 107)",new
-c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",new
-c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",new
+c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magische aanvalskracht %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Kans op bewusteloosheid: %.0f%%,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",done
 c:skilldesc:108:2,Lightning Claw ,Burzowy Szpon,,"client: skill tooltip, skill name (skill 108)",new
 c:skilldesc:108:3,Lightning Punch,Piorunowy Cios,,"client: skill tooltip, skill name (M) (skill 108)",new
 c:skilldesc:108:4,Thunder Punch ,Pięść Grzmotu,,"client: skill tooltip, skill name (G/P) (skill 108)",new
 c:skilldesc:108:5,Summon a Thunderbolt to your fist. ,Wykonaj Piorunową Pięść.,,"client: skill tooltip, description (skill 108)",new
-c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,,"client: skill tooltip, condition 1 (skill 108)",new
+c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,Afstandsaanval,"client: skill tooltip, condition 1 (skill 108)",done
 c:skilldesc:108:7,Lightning Attribute,Atrybut Błyskawicy,,"client: skill tooltip, condition 2 (skill 108)",new
 c:skilldesc:108:8,Chain Reaction Attack,Atak łańcuchowy,,"client: skill tooltip, condition 3 (skill 108)",new
-c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magische aanvalskracht %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:109:2,Cure,Leczenie,Genezen,"client: skill tooltip, skill name (skill 109)",done
-c:skilldesc:109:3,Heal,Uzdrowienie,,"client: skill tooltip, skill name (M) (skill 109)",new
+c:skilldesc:109:3,Heal,Uzdrowienie,Genezen,"client: skill tooltip, skill name (M) (skill 109)",done
 c:skilldesc:109:4,Aid of Light,Pomoc Światła,,"client: skill tooltip, skill name (G/P) (skill 109)",new
 c:skilldesc:109:5,Heal wounds with the aid of light.,Leczy urazy za pomocą światła,,"client: skill tooltip, description (skill 109)",new
 c:skilldesc:109:6,Restores HP,Regeneruje PŻ,,"client: skill tooltip, condition 1 (skill 109)",new
@@ -62,19 +62,19 @@ c:skilldesc:110:2,Swiftness,Zwinność ,,"client: skill tooltip, skill name (ski
 c:skilldesc:110:3,Quickness,Szybkość ,,"client: skill tooltip, skill name (M) (skill 110)",new
 c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,,"client: skill tooltip, skill name (G/P) (skill 110)",new
 c:skilldesc:110:5,Run as fast as the Wind.,Biegnij szybko jak wiatr ,,"client: skill tooltip, description (skill 110)",new
-c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,,"client: skill tooltip, condition 1 (skill 110)",new
+c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,Verhoogt bewegingssnelheid,"client: skill tooltip, condition 1 (skill 110)",done
 c:skilldesc:110:7,Reduce Casting Speed,Zmniejsza się Czas Ładowania Umiejętności,,"client: skill tooltip, condition 2 (skill 110)",new
 c:skilldesc:110:8,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 3 (skill 110)",new
-c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",new
+c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,Bewegingssnelheid +%.0f%%,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",done
 c:skilldesc:110:20,Casting Speed +%.0f%%,Czas Ładowania -%.0f%% ,,"client: skill tooltip, effect line 2 (skill 110) | keep: %.0f | max 64 characters",new
 c:skilldesc:111:2,Attack Up,Zwiększenie Ataku,,"client: skill tooltip, skill name (skill 111)",new
 c:skilldesc:111:3,Support Attack,Podwyższenie Ataku,,"client: skill tooltip, skill name (M) (skill 111)",new
 c:skilldesc:111:4,Strengthened Attack,Wzmocnienie Ataku,,"client: skill tooltip, skill name (G/P) (skill 111)",new
 c:skilldesc:111:5,Strengthen a partner.,Wzmacnia siłę partnera,,"client: skill tooltip, description (skill 111)",new
-c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,,"client: skill tooltip, condition 1 (skill 111)",new
+c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,Verhoogt aanvalskracht,"client: skill tooltip, condition 1 (skill 111)",done
 c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 111)",new
 c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,,"client: skill tooltip, condition 3 (skill 111)",new
-c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",new
+c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,Aanvalskracht +%.1f ,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",done
 c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",new
 c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",new
 c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",new
@@ -111,7 +111,7 @@ c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,,"client: skill toolti
 c:skilldesc:139:2,Power Wave,Fala Mocy,,"client: skill tooltip, skill name (skill 139)",new
 c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",,"client: skill tooltip, description (skill 139)",new
 c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,,"client: skill tooltip, condition 1 (skill 139)",new
-c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Aanvalskracht %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:140:2,Arrow Storm,Grad Strzał,,"client: skill tooltip, skill name (skill 140)",new
 c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),,"client: skill tooltip, description (skill 140)",new
 c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,,"client: skill tooltip, condition 1 (skill 140)",new
