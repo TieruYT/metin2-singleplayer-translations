@@ -8,21 +8,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | total |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| de | 4918/5750 | 9922/10016 | 1016/1016 | 171/8601 | 1571/3723 | 0/2308 | 17598/31414 (56.0%) |
+| de | 5062/5750 | 9922/10016 | 1016/1016 | 171/8601 | 1575/3723 | 0/2308 | 17746/31414 (56.5%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 31413/31413 (100.0%) |
-| fr | 4956/5750 | 9864/10016 | 1016/1016 | 171/8601 | 1571/3723 | 0/2308 | 17578/31414 (56.0%) |
+| fr | 5073/5750 | 9864/10016 | 1016/1016 | 171/8601 | 1571/3723 | 0/2308 | 17695/31414 (56.3%) |
 | es | 5748/5750 | 0/10016 | 1016/1016 | 0/8601 | 0/3723 | 2307/2308 | 9071/31414 (28.9%) |
-| it | 0/5750 | 0/10016 | 0/1016 | 0/8601 | 0/3723 | 0/2308 | 0/31414 (0.0%) |
-| ro | 4953/5750 | 9864/10016 | 1016/1016 | 171/8601 | 1571/3723 | 0/2308 | 17575/31414 (55.9%) |
-| hu | 0/5750 | 0/10016 | 0/1016 | 0/8601 | 0/3723 | 0/2308 | 0/31414 (0.0%) |
-| nl | - | - | - | - | - | - | (no folder) |
-| cs | 0/5750 | 0/10016 | 0/1016 | 0/8601 | 0/3723 | 0/2308 | 0/31414 (0.0%) |
-| el | - | - | - | - | - | - | (no folder) |
-| ru | - | - | - | - | - | - | (no folder) |
-| pt | 4971/5750 | 9864/10016 | 1014/1014 | 171/8601 | 1571/3723 | 0/2308 | 17591/31412 (56.0%) |
-| da | - | - | - | - | - | - | (no folder) |
-| ar | - | - | - | - | - | - | (no folder) |
-| ko | - | - | - | - | - | - | (no folder) |
+| it | 3679/5750 | 53/10016 | 24/1016 | 56/8601 | 100/3723 | 10/2308 | 3922/31414 (12.5%) |
+| ro | 5066/5750 | 9864/10016 | 1016/1016 | 171/8601 | 1571/3723 | 0/2308 | 17688/31414 (56.3%) |
+| hu | 3679/5750 | 53/10016 | 24/1016 | 56/8601 | 100/3723 | 10/2308 | 3922/31414 (12.5%) |
+| nl | 3679/5750 | 53/10016 | 24/1016 | 56/8601 | 100/3723 | 10/2308 | 3922/31414 (12.5%) |
+| cs | 3679/5750 | 53/10016 | 24/1016 | 56/8601 | 100/3723 | 10/2308 | 3922/31414 (12.5%) |
+| el | 3682/5750 | 54/10016 | 24/1016 | 57/8601 | 2/3723 | 10/2308 | 3829/31414 (12.2%) |
+| ru | 3682/5750 | 54/10016 | 24/1016 | 57/8601 | 2/3723 | 10/2308 | 3829/31414 (12.2%) |
+| pt | 5082/5750 | 9864/10016 | 1014/1014 | 171/8601 | 1571/3723 | 0/2308 | 17702/31412 (56.4%) |
+| da | 3679/5750 | 53/10016 | 24/1016 | 56/8601 | 100/3723 | 10/2308 | 3922/31414 (12.5%) |
+| ar | 3682/5750 | 54/10016 | 24/1016 | 57/8601 | 2/3723 | 10/2308 | 3829/31414 (12.2%) |
+| ko | 3682/5750 | 54/10016 | 24/1016 | 57/8601 | 2/3723 | 10/2308 | 3829/31414 (12.2%) |
 
 ## Erledigt
 
@@ -61,3 +61,18 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
   `Vampiric Merchant` → „Enigma Tapın. (Bonus B)“: passen nicht zum Englischen;
   neue Zeilen behalten die Namen bzw. „Vampir Tüccar“.
 - `SP` → „INT“ in einer Zeile.
+
+## Rückmeldung der Projektbetreuer (zum ersten Pull Request)
+
+- Validator auf `main`: keine Fehler, keine neuen Warnungen; nichts überschrieben.
+- Zeilenenden: Dateien, die auf `main` mit CRLF liegen (`es/`), behalten CRLF.
+  Nie nur wegen Zeilenenden ändern. `glossary/batch.py commit` schreibt solche
+  Dateien deshalb mit CRLF in den Commit. `git config core.autocrlf false` setzen.
+- nl, da: gleiche Codepage wie de/fr, kommen mit dem nächsten Client-Update.
+- ru, el: brauchen eine Änderung in der Client-EXE (cp1251/1253), kommen später.
+- ar (rechts-nach-links), ko (Doppelbyte): erst nach einer Analyse; die Daten
+  sind im Repository trotzdem willkommen.
+- READMEs: die englische README bleibt die Referenz; Übersetzungen können
+  hinterherhinken, wenn sie sich ändert.
+- `tools/validate.py` (ko = cp949) wurde auf Wunsch des Nutzers geändert; bei
+  Pull Requests von Nicht-Mitgliedern lehnt die CI Änderungen an `tools/` ab.

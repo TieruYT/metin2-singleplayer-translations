@@ -122,8 +122,11 @@ def fill(lang, mapping, only_file=None):
             if src not in mapping:
                 continue
             text = fix_blanks(src, mapping[src])
-            if 'ASCII letters only' in r[4] and lang not in NONLATIN:
-                text = fold_ascii(text)
+            if 'ASCII letters only' in r[4]:
+                if lang not in NONLATIN:
+                    text = fold_ascii(text)
+                elif not text.isascii():
+                    continue  # bots type plain a-z: filled later with a romanised text
             why = check(lang, fname, r[1], r[4], text)
             if why:
                 problems.append((lang, fname, r[0], why, text))
@@ -243,6 +246,20 @@ def git(*a):
     return subprocess.run(['git', '-C', ROOT] + list(a), capture_output=True, text=True).stdout
 
 
+def stage(rel):
+    """git add, but a file stored with CRLF on main keeps CRLF in the commit
+    (.gitattributes would normalise it to LF and every line would show as changed)."""
+    head = subprocess.run(['git', '-C', ROOT, 'show', 'HEAD:' + rel], capture_output=True).stdout
+    if b'\r\n' in head:
+        path = os.path.join(ROOT, rel)
+        data = open(path, 'rb').read().replace(b'\r\n', b'\n').replace(b'\n', b'\r\n')
+        sha = subprocess.run(['git', '-C', ROOT, 'hash-object', '-w', '--no-filters', '--stdin'],
+                             input=data, capture_output=True).stdout.decode().strip()
+        git('update-index', '--cacheinfo', '100644,%s,%s' % (sha, rel))
+    else:
+        git('add', rel)
+
+
 def cmd_commit(args):
     changed = [l for l in git('diff', '--name-only').split('\n') if l.endswith('.csv')]
     done = 0
@@ -256,7 +273,9 @@ def cmd_commit(args):
             if len(r) == 6:
                 old[r[0]] = r[3]
         n = sum(1 for r in rows[1:] if len(r) == 6 and r[3] != old.get(r[0], r[3]))
-        git('add', rel)
+        if not n:
+            continue  # only line endings differ: leave the file as it is on main
+        stage(rel)
         git('commit', '-q', '-m', '%s: %s übersetzt (%d Zeilen)%s' % (lang, fname[:-4], n, TRAILER))
         done += 1
     print('commits:', done)
