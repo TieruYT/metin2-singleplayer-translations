@@ -1,7 +1,7 @@
 id,english,polski,translation,notes,status
 b:value:mapa_dokad:52b3bc714cc0,into Colony,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:96422792f401,into the Colony,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
-b:value:mapa:7d8dbce35cec,Castle Battle,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:7d8dbce35cec,Castle Battle,,Kasteelslag,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:add14801482e,in Castle Battle,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:baaadba4a42b,in the Castle Battle,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:07c49b66b602,to Castle Battle,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
@@ -84,8 +84,8 @@ b:value:nagroda_exp:885ccb1f2894,a little,,,a value inside a bot chat line ({nag
 b:value:nagroda_exp:b39028df8e5d,some,,,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),new
 b:value:nagroda_exp:9da4941dcc86,little,,,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),new
 b:value:nagroda_exp:4ce2a0424290,huge,,,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),new
-b:value:opcja:6335a6f0ac18,Yes,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
-b:value:opcja:3cb1e607f711,No,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
+b:value:opcja:6335a6f0ac18,Yes,,Ja,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
+b:value:opcja:3cb1e607f711,No,,Nee,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
 b:value:punkt:17b56a6d61f7,by the blacksmith,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
 b:value:punkt:1bdf40b04d2e,by the storekeeper,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
 b:value:punkt:d108ba9a34b3,by the general store,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
@@ -113,7 +113,7 @@ b:value:event:a7cd6b386f9e,chest,,,a value inside a bot chat line ({event}) | AS
 b:value:event:d6bf2ac8e5aa,exp,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:0261947d160e,drop,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:5dd1e336e60a,OX,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
-b:value:event:abe13955878a,fishing,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:abe13955878a,fishing,,aan het vissen,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:7c6fbb10a935,okey,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:723fcc6c751b,hunt,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:zyczenie:5cd5483e4bed,necklace 4 bonuses,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
@@ -190,26 +190,26 @@ b:value:zyczenie:203bf6508278,vs animals,,,a value inside a bot chat line ({zycz
 b:value:zyczenie:1cdef716edf8,vs mystics,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
 b:value:punkt:44552a7e3b85,here,,,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),new
 b:value:miejsce:7c19458a629e,Yongan,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:7da30d4ad3bc,Waryong,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:7da30d4ad3bc,Waryong,,Waryong,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:262216f8cfe2,Yayang,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:48870af0431b,Jungrang,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:48870af0431b,Jungrang,,Jungrang,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:829ccff8c626,Monkey Dungeon,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:d0bcc103fadf,Joan,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:31c317056f6e,Bokjung,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:c2e7f08976f5,Pyungmoo,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:8dd269ffa60e,Bakra,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:34339745ec1b,Imha,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:e5b77d1e5eda,Mount Sohan,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:6a5f2188d440,Doyyumhwan,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:fbbcd8f0c5a0,Yongbi Desert,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:1ac3954d30fd,Orc Valley,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:39d39a52e3ea,Hwang Temple,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:442bd444cb69,Demon Tower,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:34339745ec1b,Imha,,Imha,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:e5b77d1e5eda,Mount Sohan,,Berg Sohan,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:6a5f2188d440,Doyyumhwan,,Doyyumhwan,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:fbbcd8f0c5a0,Yongbi Desert,,Yongbi-woestijn,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:1ac3954d30fd,Orc Valley,,Orkvallei,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:39d39a52e3ea,Hwang Temple,,Hwang-tempel,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:442bd444cb69,Demon Tower,,Demonentoren,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:91cb1f9839c9,Ghost Forest,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:3c50cb9b927f,Red Forest,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:959e752d5224,Grotto of Exile,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:d587b203230f,Grotto of Exile 2,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:3c50cb9b927f,Red Forest,,Rood Woud,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:959e752d5224,Grotto of Exile,,Grot der Verbanning,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:d587b203230f,Grotto of Exile 2,,Grot der Verbanning 2,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,Spinnenkerker 2,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:2c795176ca49,Spider Dungeon,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:b31499e63c9b,Monkey Dungeon II,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:70b0bb28251c,Monkey Dungeon III,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
@@ -226,7 +226,7 @@ b:value:format:bf0f099c6c37,{n}% {x}+,,,"a value inside a bot chat line ({format
 b:phrase:1f1dd908790c,You have gained %d exp.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
 b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:cb8a369011e5,,Czym jest Bingsu?,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:a6869600898d,Aura of the Sword,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:a6869600898d,Aura of the Sword,,Aura van het zwaard,"a phrase the server says (bots' help, notices)",done
 b:phrase:2c0ad07095c8,There is no one by that name,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:37da4b99062c,Close the other window first.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:0b14ed9f4cc9,Playerbot %u is not active.,,,"a phrase the server says (bots' help, notices) | keep: %u",new
@@ -308,7 +308,7 @@ b:phrase:b81e2523c3b5,"does not fight, only defends",,,"a phrase the server says
 b:phrase:30e13ab1c5de,I can fish from level %d.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
 b:phrase:34415edd099e,I'm out shopping already.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:7726350ea559,That cannot be worn.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:020c883ef1d7,There is nothing there.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:020c883ef1d7,There is nothing there.,,Daar is niets.,"a phrase the server says (bots' help, notices)",done
 b:phrase:eee9c71f4e8b,That cannot be taken off.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:aeed77c126d1,That cannot be used now.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:fca9aeeb499b,The hair colour is changed.,,,"a phrase the server says (bots' help, notices)",new
@@ -675,7 +675,7 @@ b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,,"a phrase the
 b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,,"a phrase the server says (bots' help, notices) | keep: %d %u",new
 b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:428e6ef00a33,Only an item of your companion's bag can be destroyed.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:428e6ef00a33,Only an item of your companion's bag can be destroyed.,,Alleen een voorwerp uit de tas van je metgezel kan worden vernietigd.,"a phrase the server says (bots' help, notices)",done
 b:phrase:3c558e5dde53,A wrong order - update the client.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:6df0f99cf491,There is no Dragon Stone there.,,,"a phrase the server says (bots' help, notices)",new
