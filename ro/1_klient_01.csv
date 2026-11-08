@@ -127,11 +127,11 @@ c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Ni
 c:locale_game:EXCHANGE_MONEY,Sum,Kwota,Suma,client: game texts (localeInfo),done
 c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,Schimb cu %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,Ati pierdut momeala.,client: game texts (localeInfo),done
-c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:FISHING_SUCCESS1,You captured %s!,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,,client: game texts (localeInfo),new
+c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,Se pare ca %s a muscat.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,Se pare ca %s e in carlig.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS1,You captured %s!,,Ai prins %s!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,Ai scos %s din apa!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,"Ceva a muscat momeala, dar nu poti vedea ce este.",client: game texts (localeInfo),done
 c:locale_game:FISHING_WRONG_PLACE,You cannot go fishing here.,Nie możesz tu łowić ryb.,Nu puteti pescui aici.,client: game texts (localeInfo),done
 c:locale_game:FOR_FEMALE,for female,dla kobiet,pentru femei,client: game texts (localeInfo),done
 c:locale_game:FOR_MALE,for male,dla mężczyzn,pentru barbati,client: game texts (localeInfo),done
@@ -448,20 +448,20 @@ c:locale_game:SKILL_BOHO,Reflect,Odbicie,Reflectare,client: game texts (localeIn
 c:locale_game:SKILL_BUDONG,is not used anymore,nie jest już używany,nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK,You need EXP to learn this Skill.,Potrzebujesz DOŚ do nauki tej Umiejętności.,Aveti nevoie de EXP pentru a invata aceasta abilitate.,client: game texts (localeInfo),done
 c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn this Skill.,Potrzebujesz Księgi do nauki tej Umiejętności.,Aveti nevoie de o carte pentru a invata aceasta abilitate.,client: game texts (localeInfo),done
-c:locale_game:SKILL_CHEONGEUN,Strong Body,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CHEONGEUN,Strong Body,,Corp puternic,client: game texts (localeInfo),done
 c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,Lovitura critica,client: game texts (localeInfo),done
 c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,Aplica otrava,client: game texts (localeInfo),done
-c:locale_game:SKILL_EUNHYEONG,Camouflage,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,Camuflaj,client: game texts (localeInfo),done
 c:locale_game:SKILL_FAINT,Blackout,Omdlenie,Pierderea cunostintei,client: game texts (localeInfo),done
 c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,Gaseste capcana,client: game texts (localeInfo),done
 c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,Foc permanent,client: game texts (localeInfo),done
 c:locale_game:SKILL_FISHMIND,Fishing Marble is active,Marmur Rybaka jest aktywny,Marmura de pescuit este activa,client: game texts (localeInfo),done
 c:locale_game:SKILL_GAMJI,Capture,Złap,Captura,client: game texts (localeInfo),done
-c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,Aura sabiei,client: game texts (localeInfo),done
 c:locale_game:SKILL_GEONGON,SKILL_GEONGON Not used anymore,SKILL_GEONGON Niewykorzystany,SKILL_GEONGON nu mai este folosit,client: game texts (localeInfo),done
-c:locale_game:SKILL_GICHEON,Dragon's Aid,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GICHEON,Dragon's Aid,,Ajutorul Dragonului,client: game texts (localeInfo),done
 c:locale_game:SKILL_GIGONG,Chi Rotation,Rotacja Chi,Rotatia Chi,client: game texts (localeInfo),done
-c:locale_game:SKILL_GONGPO,Fear,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GONGPO,Fear,,Frica,client: game texts (localeInfo),done
 c:locale_game:SKILL_GRADE_NAME_GRAND_MASTER,%s Grand Master,%s Wielki Mistrz,%s Mare Maestru,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:SKILL_GRADE_NAME_MASTER,%s Master,%s Mistrz,%s Maestru,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:SKILL_GRADE_NAME_PERFECT_MASTER,%s Perfect Master,%s Perfekcyjny Mistrz,%s Maestru Desavarsit,client: game texts (localeInfo) | keep: %s,done
@@ -474,10 +474,10 @@ c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,Arma,client: game texts (localeInf
 c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,Magie,client: game texts (localeInfo),done
 c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,Corp,client: game texts (localeInfo),done
 c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Mental,client: game texts (localeInfo),check
-c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,,client: game texts (localeInfo),new
-c:locale_game:SKILL_GYEONGGONG,Feather Walking,,,client: game texts (localeInfo),new
-c:locale_game:SKILL_HEUKSIN,Dark Protection,,,client: game texts (localeInfo),new
-c:locale_game:SKILL_HOSIN,Blessing,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,Lama fermecata,client: game texts (localeInfo),done
+c:locale_game:SKILL_GYEONGGONG,Feather Walking,,Pasul de pana,client: game texts (localeInfo),done
+c:locale_game:SKILL_HEUKSIN,Dark Protection,,Protectia intunecata,client: game texts (localeInfo),done
+c:locale_game:SKILL_HOSIN,Blessing,,Binecuvantare,client: game texts (localeInfo),done
 c:locale_game:SKILL_HWAYEOM,SKILL_HWAYEOM Not used anymore,SKILL_HWAYEOM Niewykorzystany,SKILL_HWAYEOM nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_HYEOLMA,SKILL_HYEOLMA Not used anymore,SKILL_HYEOLMA Niewykorzystany,SKILL_HYEOLMA nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_INC_ATKSPD,Attack speed raised,Zwiększona Szybkość Ataku,Viteza de atac marita,client: game texts (localeInfo),done
@@ -485,26 +485,26 @@ c:locale_game:SKILL_INC_MOVSPD,Moving speed raised,Zwiększona Szybkość Ruchu,
 c:locale_game:SKILL_INMA,SKILL_INMA Not used anymore,SKILL_INMA niewykorzystany,SKILL_INMA nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEOJU,Curse,Klątwa,Blestem,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEONGEOP,Healing,Leczenie,Vindecare,client: game texts (localeInfo),done
-c:locale_game:SKILL_JEONGWI,Battle Flush,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JEONGWI,Battle Flush,,Avant de lupta,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEONSINBANGEO,Full Defence,Całkowita Obrona,Aparare totala,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEONSINGONGGYEOK,Full Attack,Całkowity Atak,Atac total,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEUNGCHE,SKILL_JEUNGCHE Not used anymore,SKILL_JEUNGCHE Niewykorzystany,SKILL_JEUNGCHE nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEUNGHON,SKILL_JEUNGHON Not used anymore,SKILL_JEUNGHON Niewykorzystany,SKILL_JEUNGHON nu mai este folosit,client: game texts (localeInfo),done
-c:locale_game:SKILL_JEUNGRYEOK,Attack +,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JEUNGRYEOK,Attack +,,Atac +,client: game texts (localeInfo),done
 c:locale_game:SKILL_JEUNGSOK,Speed +,Szybkość +,Viteza +,client: game texts (localeInfo),done
 c:locale_game:SKILL_JIGAM,SKILL_JIGAM Not used anymore,SKILL_JIGAM Niewykorzystany,SKILL_JIGAM nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_JIPJUNG,SKILL_JIPJUNG Not used anymore,SKILL_JIPJUNG Niewykorzystany,SKILL_JIPJUNG nu mai este folosit,client: game texts (localeInfo),done
-c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,Armura fermecata,client: game texts (localeInfo),done
 c:locale_game:SKILL_JUMAGEOM,SKILL_JUMAGEOM Not used anymore,SKILL_JUMAGEOM Niewykorzystany,SKILL_JUMAGEOM nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_KWAEGEOM,SKILL_KWAEGEOM Not used anymore,SKILL_KWAEGEOM Niewykorzystany,SKILL_KWAEGEOM nu mai este folosit,client: game texts (localeInfo),done
-c:locale_game:SKILL_KWAESOK,Speed,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_KWAESOK,Speed,,Viteza,client: game texts (localeInfo),done
 c:locale_game:SKILL_LEGBOUND,SKILL_LEGBOUND Not used anymore,SKILL_LEGBOUND Niewykorzystany,SKILL_LEGBOUND nu mai este folosit,client: game texts (localeInfo),done
 c:locale_game:SKILL_MUSA,SKILL_MUSA Not used anymore,SKILL_MUSA Niewykorzystany,SKILL_MUSA nu mai este folosit,client: game texts (localeInfo),done
-c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,Spiritul flacarii,client: game texts (localeInfo),done
 c:locale_game:SKILL_NEED_EMPTY_BOTTLE,I do not have an Empty Bottle.,Nie mam Pustej Butelki.,Nu am o sticla goala.,client: game texts (localeInfo),done
 c:locale_game:SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle,Nie mam Butelki z Trucizną,Nu am o sticla cu otrava,client: game texts (localeInfo),done
 c:locale_game:SKILL_ONLY_FOR_GUILD_WAR,You can use this Skill during a Guild War only.,Możesz używać tej Umiejętności tylko podczas Wojny Gildii.,Puteti folosi aceasta abilitate doar in timpul unui razboi de breasla.,client: game texts (localeInfo),done
-c:locale_game:SKILL_PABEOP,Neutralize Spell,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_PABEOP,Neutralize Spell,,Neutralizarea vrajii,client: game texts (localeInfo),done
 c:locale_game:SKILL_POWERFUL_STRIKE,Dazing Attack,Atak Oszałamiający,Atac ametitor,client: game texts (localeInfo),done
 c:locale_game:SKILL_SEOMGWANG,Lightning Bomb,Bomba Błyskawic,Bomba fulger,client: game texts (localeInfo),done
 c:locale_game:SKILL_SINCHAK,SKILL_SINCHAK Not used anymore,SKILL_SINCHAK Niewykorzystany,SKILL_SINCHAK nu mai este folosit,client: game texts (localeInfo),done
@@ -604,7 +604,7 @@ c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa n
 c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,Sansa de otravire %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,Rezistenta la otrava %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,Efectul potiunilor marit cu %d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,Sansa de a reflecta blestemul: %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,%d%% sansa de a reflecta loviturile corp la corp  ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,Sansa de aparare impotriva atacurilor ninja: %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,Aparare impotriva clopotului %d%%,client: game texts (localeInfo) | keep: %d,done
