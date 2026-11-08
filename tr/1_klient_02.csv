@@ -372,7 +372,7 @@ c:locale_game:CHAT_TRADE_LIMIT,The trade chat takes one message every 30 seconds
 c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),check
 c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),check
-c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,,client: game texts (localeInfo),new
+c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,Yang,client: game texts (localeInfo),done
 c:locale_game:COMB_CANT_APPEND_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,Bu nesne kullanılamaz.,client: game texts (localeInfo),done
 c:locale_game:COMB_CANT_APPEND_SEALED_ITEM,You cannot use a soulbound item.,Nie możesz używać przedmiotu przywiązanego do duszy.,Ruha bağlı eşyaları kullanamazsın.,client: game texts (localeInfo),done
 c:locale_game:COMB_IS_CONTINUE_PROCESS,Do you want to continue?,Chcesz kontynuować?,Devam etmek istiyor musun?,client: game texts (localeInfo),done
@@ -385,7 +385,7 @@ c:locale_game:COMB_NOT_MEDIUM_ITEM,This item cannot be used.,Nie można użyć t
 c:locale_game:COMB_WILL_REMOVE_MATERIAL,Costume 2 will be destroyed.,Kostium 2 ulegnie zniszczeniu.,Kostüm 2 yok edilecek.,client: game texts (localeInfo),done
 c:locale_game:CONFIG_FONT_OPTION1,Default,Domyślna,Varsayılan,client: game texts (localeInfo),done
 c:locale_game:CONFIG_FONT_OPTION2,Large,Duża,Büyük,client: game texts (localeInfo),done
-c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,,client: game texts (localeInfo),new
+c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,Arial,client: game texts (localeInfo),done
 c:locale_game:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Bazı değişiklikler yeniden başlatma gerektirir. Devam etmek istiyor musun?,client: game texts (localeInfo),done
 c:locale_game:CONFIG_SCALE_MODE_WARNING,"* NOTE * Experimental option![ENTER]Interface scaling can lower the quality[ENTER]of the interface (graphics, font).[ENTER]|cff8ab98eGreen|r means the scaling MAY be the best fit.[ENTER]|cffe57976Red|r means the scaling may leave[ENTER]the game unresponsive.","* UWAGA * Opcja eksperymentalna![ENTER]Tryb Skalowania interfejsu może prowadzić do obniżenia[ENTER]jakości interfejsu (elementy graficzne, czcionka).[ENTER]Kolor |cff8ab98ezielony|r oznacza, że skalowanie MOŻE BYĆ najoptymalniejsze.[ENTER]Kolor |cffe57976czerwony|r oznacza, że skalowanie może doprowadzić[ENTER]do braku responsywności gry.","* NOT * Deneysel seçenek![ENTER]Arayüz ölçeklendirme, arayüzün kalitesini[ENTER]düşürebilir (grafikler, yazı tipi).[ENTER]|cff8ab98eYeşil|r, ölçeklendirmenin EN UYGUN olabileceği anlamına gelir.[ENTER]|cffe57976Kırmızı|r, ölçeklendirmenin oyunun[ENTER]yanıt vermemesine yol açabileceği anlamına gelir.",client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,done
 c:locale_game:CONFIRM_DELETE_ITEM_QUESTION,Do you want to delete %dx %s?,Czy chcesz usunąć %dx %s?,%dx %s silmek istiyor musun?,client: game texts (localeInfo) | keep: %d %s,done
@@ -622,8 +622,8 @@ c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT1,Desert I,Pustynia I,Çöl I,cl
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT2,Desert II,Pustynia II,Çöl II,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_END,High level,Wysoki poziom,Yüksek seviye,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Hwang,client: game texts (localeInfo),check
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,,client: game texts (localeInfo),new
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,M1,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,M2,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Sohan,client: game texts (localeInfo),check
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_OATH,Sworn,Zaprzysiężone,Yemin,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_ORC,Valley,Dolina,Vadi,client: game texts (localeInfo),done
