@@ -152,7 +152,7 @@ b:mchat:g:locale.monster_chat_907_5,Let me pass the disease on to you! ,Pozwól 
 b:mchat:g:locale.monster_chat_907_6,This tenacious cause of the mysterious disease! ,Te przeklęte patogeny! ,,monster's chatter over its head,new
 b:value:skill:fe858583f637,Three-Way Cut,,Haromiranyu vagas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:25524a7ee58a,Sword Spin,,Kardporges,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:d03eb1709e45,Berserk,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:d03eb1709e45,Berserk,,Berzerker,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:597bb3463972,Aura of the Sword,,A kard auraja,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:cb88ace92619,Dash,,Roham,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:9c9c452d335c,Spirit Strike (W),,Szellemcsapas (W),a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
@@ -163,12 +163,12 @@ b:value:skill:40adb3bf6047,Sword Strike,,Kardcsapas,a value inside a bot chat li
 b:value:skill:992e1a103086,Ambush,,Rajtautes,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:9fe60be737a4,Fast Attack,,Gyors tamadas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:cd4196179a44,Rolling Dagger,,Porgo tor,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:e64b7c99196a,Stealth,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:e64b7c99196a,Stealth,,Lopakodas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:067ed0caf6b6,Poisonous Cloud,,Mergezo felho,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:b59fa6ffbca4,Repetitive Shot,,Ismetelt loves,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:3678e6adec34,Spark,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:3678e6adec34,Spark,,Szikra,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:be62319b950a,Fire Arrow,,Tuznyil,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:8ffa2a1fee4f,Feather Walk,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:8ffa2a1fee4f,Feather Walk,,Tollleptek,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:d859ccf2673e,Poison Arrow,,Mergezett nyil,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:66703056dded,Arrow Shower,,Nyilzapor,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:4dc21859e07b,Finger Strike,,Ujjcsapas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
@@ -176,10 +176,10 @@ b:value:skill:0ccc37bb850a,Dragon Swirl,,Sarkanyorveny,a value inside a bot chat
 b:value:skill:9dd0d0934840,Enchanted Blade,,Elvarazsolt penge,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:036ace166d8e,Fear,,Felelem,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:600a6aeb4e4e,Enchanted Armour,,Elvarazsolt pancel,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:0c14c19a4e2b,Dispel,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:0c14c19a4e2b,Dispel,,Feloldas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:18b6528a92b4,Dark Strike,,Sotet csapas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:e1a1a402451b,Flame Strike,,Langcsapas,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
-b:value:skill:b875de820830,Flame Spirit,,,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),new
+b:value:skill:b875de820830,Flame Spirit,,Langszellem,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:e247a8a2102b,Dark Protection,,Sotet vedelem,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:53b1ce20e4c4,Spirit Strike (S),,Szellemcsapas (S),a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
 b:value:skill:054d0a8983f2,Dark Orb,,Sotet gomb,a value inside a bot chat line ({skill}) | ASCII letters only (no accents),done
@@ -484,14 +484,14 @@ b:value:mapa_dokad:82a16828ae23,to Devil Catacomb,,,a value inside a bot chat li
 b:value:mapa_dokad:a0aff58da573,to the Devil Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:df37f68ceeb5,into Devil Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:58fd74756520,into the Devil Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
-b:value:mapa:6df8d71b6dd1,Catacomb,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:6df8d71b6dd1,Catacomb,,Katakomba,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:8a1c506ebf47,in Catacomb,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:b31b5c3ff709,in the Catacomb,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:493f7d2ea317,to Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:431282836214,to the Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:d9223ba493d8,into Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:cf2744dfe69f,into the Catacomb,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
-b:value:mapa:7f3ea45438c4,Grotto,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:7f3ea45438c4,Grotto,,Barlang,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:daec2a421a36,in Grotto,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:535e359e0ecb,in the Grotto,,a Barlangban,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:c170937dabbb,to Grotto,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
@@ -533,7 +533,7 @@ b:value:mapa_dokad:6134e7ce0b87,to Yongbi Desert,,,a value inside a bot chat lin
 b:value:mapa_dokad:d7f45e6cbe7a,to the Yongbi Desert,,a Yongbi-sivatagba,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:8b01af1a1da4,into Yongbi Desert,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:6913ecea2870,into the Yongbi Desert,,be a Yongbi-sivatagba,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
-b:value:mapa:b76477550fd4,Desert,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:b76477550fd4,Desert,,Sivatag,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:74d7bc61ad9b,in Desert,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:ff2980f2cdb3,in the Desert,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
 b:value:mapa_dokad:1c03ac207029,to Desert,,,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),new
