@@ -30,7 +30,8 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
   fertig (fr, pt, ro, es, it, hu, cs, nl, da, el, ru, ar, ko); 03-07 folgen.
   HTML-Tags und Platzhalter wie im Englischen.
   Ungarisch: kein `%-a` ("98%-a") schreiben, der Validator liest `%-a` als
-  Variable; stattdessen "98 százaléka".
+  Variable. Stattdessen den Satz so bauen, dass nach `%` ein Leerzeichen folgt,
+  wie in den anderen Sprachen: "98% marad az esélyből", "(% az ölésekből)".
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
 - Glossar `glossary/glossary.csv`: 133 Begriffe, Spalten für alle Zielsprachen
   (pl = Referenz aus der Spalte `polski`).
