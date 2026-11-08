@@ -82,8 +82,8 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
 - Weitere Arbeit liegt auf dem neuen Zweig `claude/translations-2` (basiert auf
   dem gemergten `main`).
 - `1_klient_*` ist für alle Sprachen vollständig.
-- `es/` und `tr/` werden laut Betreuer gerade von anderen übersetzt: ab jetzt
-  keine weiteren Änderungen an `es/` (nur 2 Zeilen in `es/1_klient_06` stammen
-  von hier), `tr/` ist bereits vollständig.
+- `es/` und `tr/` werden laut Betreuer gerade auch von anderen übersetzt. Darum
+  nur einzelne leere Zeilen füllen und die CRLF-Zeilenenden von `es/` nie
+  umschreiben (sonst zeigt der Diff jede Zeile als geändert und es gibt Konflikte).
 - Validator-Falle: ein `|` direkt vor `E`, `e`, `H`, `h` oder `r` gilt als
   Farb-/Link-Code; Übersetzungen dürfen nach `|` nicht so beginnen.
