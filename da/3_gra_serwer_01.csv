@@ -160,7 +160,7 @@ e:34fb932aa106,%s has won the guild war against %s.,Gildia %s wygrała wojnę pr
 e:985d411b38fa,You need your fellow player's approval for this.,Potrzebujesz potwierdzenia partnera do tego.,,server message (chat/system line),new
 e:67c226b29674,[Guild] The guild war has been cancelled.,[Gildia] Wojna gildii została anulowana.,,server message (chat/system line),new
 e:e2997ab1eb82,The guild war between %s and %s has been cancelled.,Wojna pomiędzy Gildiami %s oraz %s została anulowana.,,server message (chat/system line) | keep: %s %s,new
-e:bbfa773e5a63,Close,Zamknij,,server message (chat/system line),new
+e:bbfa773e5a63,Close,Zamknij,Luk,server message (chat/system line),done
 e:95816e42ee92,Action cancelled. You have entered a battle.,Akcja anulowana. Bitwa została rozpoczęta.,,server message (chat/system line),new
 e:14958b431e2c,Someone has logged into your account. You will be disconnected from the server.,Ktoś zalogował się na Twoje konto. Zostaniesz rozłączony.,,server message (chat/system line),new
 e:e25cfd524d0c,A mysterious light appears from the tree.,Tajemnicze światło dobiega z drzewa.,,server message (chat/system line),new
@@ -245,9 +245,9 @@ e:bbc18462d679,Hit Points +%d,Punkty Życia +%d,,server message (chat/system lin
 e:6771da5b45cf,Spell Points +%d,Punkty Energii +%d,,server message (chat/system line) | keep: %d,new
 e:c4d19bad2df8,The Emperor Blessing is activated.,Błogosławieństwo Imperatora jest aktywne.,,server message (chat/system line),new
 e:9b7015a4cca0,Endurance +%d,Wytrzymałość +%d,,server message (chat/system line) | keep: %d,new
-e:06b936cc9821,Intelligence +%d,Inteligencja +%d,,server message (chat/system line) | keep: %d,new
-e:88be89e0b9e3,Strength +%d,Siła +%d,,server message (chat/system line) | keep: %d,new
-e:b99aeffd5948,Dexterity +%d,Zręczność +%d,,server message (chat/system line) | keep: %d,new
+e:06b936cc9821,Intelligence +%d,Inteligencja +%d,Intelligens +%d,server message (chat/system line) | keep: %d,done
+e:88be89e0b9e3,Strength +%d,Siła +%d,Styrke +%d,server message (chat/system line) | keep: %d,done
+e:b99aeffd5948,Dexterity +%d,Zręczność +%d,Smidighed +%d,server message (chat/system line) | keep: %d,done
 e:d1c3c6028379,Attack Speed +%d,Szybkość Ataku +%d,,server message (chat/system line) | keep: %d,new
 e:d5bbd65fa47c,Movement Speed %d,Szybkość Ruchu %d,,server message (chat/system line) | keep: %d,new
 e:c2b6f1f8b551,Cooldown Time -%d,Czas wypoczynku -%d,,server message (chat/system line) | keep: %d,new
@@ -273,17 +273,17 @@ e:cbd8cb7723c7,%d%% Chance of blocking a close-combat attack,%d%% szans na blok 
 e:b7cae0de4b02,%d%% Chance of blocking a long range attack,%d%% szans na blok ataku dystansowego,,server message (chat/system line) | keep: %d,new
 e:a7aa1c7872cf,One-Handed Sword defence %d%%,Odporność na Miecze %d%%,,server message (chat/system line) | keep: %d,new
 e:474a9cbbc799,Two-Handed Sword Defence %d%%,Odporność na Broń Dwuręczną %d%%,,server message (chat/system line) | keep: %d,new
-e:bebc2be33d06,Bell Defence %d%%,Odporność na Dzwony %d%%,,server message (chat/system line) | keep: %d,new
+e:bebc2be33d06,Bell Defence %d%%,Odporność na Dzwony %d%%,Forsvar mod klokker %d%%,server message (chat/system line) | keep: %d,done
 e:0946b2ce34a5,By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.,"Dzięki Imperatorowi Geum-Gang-Gwon, gracz %s otrzymuje 10%% więcej obrony przez 3 minuty.",,server message (chat/system line) | keep: %s,new
-e:2feed1f2fa5f,Fan Defence %d%%,Odporność na Wachlarze %d%%,,server message (chat/system line) | keep: %d,new
+e:2feed1f2fa5f,Fan Defence %d%%,Odporność na Wachlarze %d%%,Forsvar mod vifter %d%%,server message (chat/system line) | keep: %d,done
 e:628f60d010d0,Distant Attack Resistance %d%%,Odporność na Atak z odległości %d%%,,server message (chat/system line) | keep: %d,new
-e:1d70f00f2aee,Fire Resistance %d%%,Odporność na Ogień %d%%,,server message (chat/system line) | keep: %d,new
-e:c7c688cc4f80,Lightning Resistance %d%%,Odporność na Błyskawice %d%%,,server message (chat/system line) | keep: %d,new
-e:1d603dfca381,Magic Resistance %d%%,Odporność na Magię %d%%,,server message (chat/system line) | keep: %d,new
-e:e6b87ccfa057,Wind Resistance %d%%,Odporność na Wiatr %d%%,,server message (chat/system line) | keep: %d,new
+e:1d70f00f2aee,Fire Resistance %d%%,Odporność na Ogień %d%%,Ildmodstand %d%%,server message (chat/system line) | keep: %d,done
+e:c7c688cc4f80,Lightning Resistance %d%%,Odporność na Błyskawice %d%%,Lynmodstand %d%%,server message (chat/system line) | keep: %d,done
+e:1d603dfca381,Magic Resistance %d%%,Odporność na Magię %d%%,Magimodstand %d%%,server message (chat/system line) | keep: %d,done
+e:e6b87ccfa057,Wind Resistance %d%%,Odporność na Wiatr %d%%,Vindmodstand %d%%,server message (chat/system line) | keep: %d,done
 e:d44509e4742b,Reflect Direct Hit: %d%%,Odbicie bezpośredniego uderzenia: %d%%,,server message (chat/system line) | keep: %d,new
 e:54b51ce9158d,Reflect Curse: %d%%,Odbicie Klątwy: %d%%,,server message (chat/system line) | keep: %d,new
-e:b01517d2a159,Poison Resistance %d%%,Odporność na Trucizny %d%%,,server message (chat/system line) | keep: %d,new
+e:b01517d2a159,Poison Resistance %d%%,Odporność na Trucizny %d%%,Giftmodstand %d%%,server message (chat/system line) | keep: %d,done
 e:2be872d13a98,Spell Points (SP) will be increased by %d%% if you win.,"Jeśli wygrasz, Mana zostanie podniesiona do %d%%",,server message (chat/system line) | keep: %d,new
 e:916f628da4a7,The event is already running. (Flag: %d),Wydarzenie już trwa. (Flag: %d),,server message (chat/system line) | keep: %d,new
 e:289f483f1bc1,Experience increases by %d%% if you win against an opponent.,"Jeśli wygrasz, Doświadczenie wzrośnie do %d%%.",,server message (chat/system line) | keep: %d,new
@@ -312,9 +312,9 @@ e:ec2e4f9e3e0a,Experience %d%%,Doświadczenie %d%%,,server message (chat/system 
 e:995ba8ae30b5,Chance to find an item %.1f,Szansa na znalezienie przedmiotu %.1f,,server message (chat/system line) | keep: %.1f,new
 e:136606dc4cac,Chance to find Yang %.1f,Szansa na znalezienie Yang %.1f,,server message (chat/system line) | keep: %.1f,new
 e:f1a388d120ba,Maximum Energy +%d%%,Górny limit Energii +%d%%,,server message (chat/system line) | keep: %d,new
-e:3b6bb7980c8c,Skill Damage %d%%,Obrażenia Umiejętności %d%%,,server message (chat/system line) | keep: %d,new
+e:3b6bb7980c8c,Skill Damage %d%%,Obrażenia Umiejętności %d%%,Færdighedsskade %d%%,server message (chat/system line) | keep: %d,done
 e:263728155c5c,Hit Damage %d%%,Obrażenia Uderzeń %d%%,,server message (chat/system line) | keep: %d,new
-e:90e58488ac03,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,,server message (chat/system line) | keep: %d,new
+e:90e58488ac03,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,Modstand mod færdighedsskade %d%%,server message (chat/system line) | keep: %d,done
 e:34c3da0aaa76,Resistance against Hits %d%%,Odporność na Trafienia %d%%,,server message (chat/system line) | keep: %d,new
 e:f71c209db30a,%d%% Resistance against Warrior Attacks,%d%% Odporność na Ataki Wojownika,,server message (chat/system line) | keep: %d,new
 e:d7aaef4d79d0,Welcome to Metin2.,Witamy w Metin2.,,server message (chat/system line),new
@@ -330,7 +330,7 @@ e:e9f9a0cee0fa,You did not join this Guild.,Nie dołączyłeś do tej Gildii.,,s
 e:6e6483caf82e,The player has rejected your request to add him to your friend list.,Gracz odrzucił twoje zaproszenie do Listy Przyjaciół.,,server message (chat/system line),new
 e:38970cc53dbd,OX Event has started.,Konkurs OX rozpoczęty.,,server message (chat/system line),new
 e:6d76f67b9238,[Friends] You cannot add a GM to your list.,[Przyjaciele] Nie możesz dodać GM do Listy Przyjaciół.,,server message (chat/system line),new
-e:0e4ebce697e6,%s is not online.,%s nie jest online.,,server message (chat/system line) | keep: %s,new
+e:0e4ebce697e6,%s is not online.,%s nie jest online.,%s er ikke online.,server message (chat/system line) | keep: %s,done
 e:ec386a8b7932,"After a trade, you have to wait %d seconds before you can open a shop.","Po dokonaniu handlu musisz odczekać %d sekund, zanim będziesz mógł otworzyć Magazyn.",,server message (chat/system line) | keep: %d,new
 e:1b9a78cf4f86,You can trade again in %d seconds.,Możesz handlować ponownie za %d sekund.,,server message (chat/system line) | keep: %d,new
 e:dc3ad16c53f7,You have more than 2 Billion Yang. You cannot trade.,Masz więcej niż 2 miliardy Yang. Nie możesz handlować.,,server message (chat/system line),new
@@ -451,7 +451,7 @@ e:f96daa7f2f11,OX Event is over. No errors occurred. (Flag: %d),Event OX został
 e:2d77c6ecc1cb,Cannot run for office.,Nie może być głosowany.,,server message (chat/system line),new
 e:183fc773e77f,%s still has %u Yang available.,%s nadal ma %u Yang.,,server message (chat/system line) | keep: %s %u,new
 e:d349356f6b55,%s still has %d Yang available.,%s nadal ma %d Yang.,,server message (chat/system line) | keep: %s %d,new
-e:272c5d40c2b7,You do not have enough Yang.,Nie masz wystarczającej ilości Yang.,,server message (chat/system line),new
+e:272c5d40c2b7,You do not have enough Yang.,Nie masz wystarczającej ilości Yang.,Du har ikke nok Yang.,server message (chat/system line),done
 e:0f05430fb679,Item price has changed.,Cena przedmiotu zmieniła się.,,server message (chat/system line),new
 e:2fa5cd1e80e5,%s is deleted as an Emperor Candidate.,Kandydatura %s na Imperatora została skasowana.,,server message (chat/system line) | keep: %s,new
 e:7bff268ea015,%s is not a candidate for the emperor elections.,%s nie jest kandydatem na Imperatora.,,server message (chat/system line) | keep: %s,new
@@ -460,9 +460,9 @@ e:27a4bb6249ee,%s cannot be nominated as emperor.,%s nie może być nominowany n
 e:ac297dad159d,The %s Emperor gets driven out.,Imperator %s został odwołany.,,server message (chat/system line) | keep: %s,new
 e:4f840bcffe07,The %s Emperor cannot be driven out.,Imperator %s nie może zostać odwołany.,,server message (chat/system line) | keep: %s,new
 e:a8f6d01accc5,OX Event is not accepting any more participants.,Konkurs OX nie przyjmuje już nowych uczestników.,,server message (chat/system line),new
-e:b1c37e56d207,Shinsoo Kingdom,Królestwo Shinsoo,,server message (chat/system line),new
-e:235681f46a2f,Chunjo Kingdom,Królestwo Chunjo,,server message (chat/system line),new
-e:f9a4b4f92ce5,Jinno Kingdom,Królestwo Jinno,,server message (chat/system line),new
+e:b1c37e56d207,Shinsoo Kingdom,Królestwo Shinsoo,Shinsoo-riget,server message (chat/system line),done
+e:235681f46a2f,Chunjo Kingdom,Królestwo Chunjo,Chunjo-riget,server message (chat/system line),done
+e:f9a4b4f92ce5,Jinno Kingdom,Królestwo Jinno,Jinno-riget,server message (chat/system line),done
 e:c880cbf45e09,Your fishing points have increased! (%d/%d),Twoje punkty wędkarskie wzrosły! (%d/%d),,server message (chat/system line) | keep: %d %d,new
 e:ac689d0c34c7,You have reached the maximum number of fishing points.,Osiągnąłeś maksymalną ilość Punktów Wędkarskich.,,server message (chat/system line),new
 e:0fee2ee95b87,Go to the Fisherman and get your Fishing Pole upgraded!,Ulepsz swoją wędkę u Rybaka!,,server message (chat/system line),new
@@ -595,7 +595,7 @@ e:95007c897f49,[Group] You cannot call the target.,[Grupa] Nie możesz przenieś
 e:b29ece6b1d7c,[Group] You cannot call group members over to your current position.,[Grupa] Nie możesz teleportować członków grupy na swoją aktualną pozycję.,,server message (chat/system line),new
 e:bd2ea734f434,No (X),Nie (X),,server message (chat/system line),new
 e:7430cca37d43,"Your group works well together, and group members near the group leader will receive an experience bonus.","Twoja grupa jest bardzo zgrana i członkowie grupy, którzy znajdują się w pobliżu lidera, otrzymają bonus doświadczenia.",,server message (chat/system line),new
-e:e26c936bbeca,Leader,Lider,,server message (chat/system line),new
+e:e26c936bbeca,Leader,Lider,Leder,server message (chat/system line),done
 e:6853c98a6f43,Member,Członek,,server message (chat/system line),new
 e:db04f6a58eb6,[Guild] Provided Experience is larger then left Experience.,[Gildia] Ilość przekazanego doświadczenie jest prawdopodobnie za duża.,,server message (chat/system line),new
 e:7dfc78b433b2,[Guild] This message cannot be deleted.,[Gildia] Wiadomość nie może zostać usunięta.,,server message (chat/system line),new
