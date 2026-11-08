@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:TOOLTIP_MEMORIZED_POSITION,"%s(%d, %d)","%s (%d, %d)",,client: game texts (localeInfo) | keep: %s %d %d,new
+c:locale_game:TOOLTIP_MEMORIZED_POSITION_ERROR,"GPS ERROR(%d, %d)","BRAK NAZWY (%d, %d)",,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_MOV_SPEED,Moving Speed %d%%,Szybkość Ruchu %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NECK,Necklace,Naszyjnik,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_NEED_ALL_SP,Needed SP: Max.,Wymagane PE: Max,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_NEED_GSP,Needed Dragon ghost: %d,Wymagany Duch Smoka: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEED_HP,Needed HP: %d,Wymagane PŻ: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEED_HP_PER_SEC,HP / Sec.: %d,PŻ / sek.: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEED_SKILL_POINT,Needed Skill Points:,Wymagane Punkty Umiejętności:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_NEED_SP,Needed SP: %d,Wymagane PE: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEED_SP_PER_SEC,SP / Sec.: %d,PE / Sek.: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEXT_SKILL_LEVEL_1,Next Level: %d (Max. %d),Następny Poziom: %d (Max %d),,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_NEXT_SKILL_LEVEL_2,Next Level: %d (Max. %d-%d),Następny Poziom: %d (Max %d-%d),,client: game texts (localeInfo) | keep: %d %d %d,new
+c:locale_game:TOOLTIP_NORMAL_HIT_DAMAGE_BONUS,Average Damage %d%%,Średnie Obrażenia: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NORMAL_HIT_DEFEND_BONUS,Average Damage Resistance %d%%,Odporność na Obrażenia Fizyczne: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP1,More than %d Group members,Więcej niż %d Członków Grupy,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP2,Attack Level +%d,Poziom Ataku +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_INFO_GRADE_UP3,Defence Level +%d,Poziom Obrony +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_INFO_HEAL_18_LEVEL,Restore HP/SP of all Group members all 60 minutes.,Regeneracja PŻ/PE wszystkich Członków Grupy przez 60 minut.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_INFO_HEAL_40_LEVEL,Restore HP/SP of all Group members all 30 minutes,Regeneracja PŻ/PE wszystkich Członków Grupy przez 30 minut.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_INFO_RECALL_12_LEVEL,You have to wait 3 minutes after the death of a group member.,Musisz poczekać 3 minuty po śmierci członka grupy.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_INFO_RECALL_20_LEVEL,You can call Group members who are on the same server anytime.,"Możesz przywołać członków grupy, którzy są na tym samym serwerze.",,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_INFO_SET_ATTACKER,Attack Level +(Number of Group members./2) Attacker %d can be chosen.,Poziom Ataku +(ilość członków grupy/2) Napastnik %d może być wybrany.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_INFO_SET_TANKER,Defence Level +(Number of Group members) blade fighters 1 can be chosen.,Poziom Obrony +(ilość członków grupy) 1 Walczący Ostrzem może być wybrany.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PARTY_TITLE_GRADE_UP,[Attack/Defence upgraded],[Atak/Obrona ulepszony],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_TITLE_HEAL,[restore],[przywróć],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP,When you have more than %d Group members you get %d%% Bonus EXP .,"Jeśli masz więcej niż %d Członków Grupy, dostajesz %d%% Bonus DOŚ .",,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP,[Bonus EXP],[Bonus DOŚ],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_TITLE_RECALL,[Call],[Przywołaj],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_ATTACKER,[Constitute Attacker],[Ustanów Napastnika],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_TANKER,[Constitute Blade Fighter],[Ustanów Walczącego Ostrzem],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PICK_EXP,Points: %d / %d,Punkty: %d / %d,,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_PICK_LEVEL,Level: %d,Poziom: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_PICK_UPGRADE1,Give to the Lumberjack,Daj to Drwalowi,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PICK_UPGRADE2,to get a better,aby dostać,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_PICK_UPGRADE3,Pickaxe.,ulepszony Kilof.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_CURE,Cure negative effects.,Usuń negatywne skutki.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_PLUS_ATTACK_SPEED,Attack speed +%d,Szybkość Ataku +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_PLUS_HP_PERCENT,HP +%d%%,PŻ +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_PLUS_HP_POINT,HP +%d,PŻ +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_PLUS_MOVING_SPEED,Movement speed +%d,Szybkość Ruchu +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_PLUS_SP_PERCENT,SP +%d%%,PE +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_PLUS_SP_POINT,SP +%d,PE +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_SEC,Sec.,Sek.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_TIME,Duration:,Czas trwania:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_REQUIREMENT_21_LEVEL,You must have reached Level 21.,Musisz osiągnąć Poziom 21.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_REQUIREMENT_41_LEVEL,You must have reached Level 41.,Musisz osiągnąć Poziom 41.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_REQUIREMENT_LEVEL,You must have reached Level %d.,Musisz osiągnąć Poziom %d.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_REQUIREMENT_SKILL_LEVEL,%s Level %d needed.,%s Poziom %d wymagany.,,client: game texts (localeInfo) | keep: %s %d,new
+c:locale_game:TOOLTIP_REQUIREMENT_STAT_LEVEL,%s %d needed,%s %d wymagany,,client: game texts (localeInfo) | keep: %s %d,new
+c:locale_game:TOOLTIP_RESIST_BOW,Arrow Resistance %d%%,Odporność na Strzały: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_DARK,Resistance against darkness +%d%%,Odporność na mrok +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_EARTH,Earth resistance +%d%%,Odporność na ziemię +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_ELEC,Lightning Resistance %d%%,Odporność na Błyskawice: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_FIRE,Fire Resistance %d%%,Odporność na Ogień: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_ICE,Ice resistance +%d%%,Odporność na lód +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_MAGIC,Magic Resistance %d%%,Odporność na Magię: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_REST_USABLE_COUNT,Left: %d,Pozostało: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SEALED,Soulbound,Przywiązanie do duszy,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SELLPRICE,Price: %s,Cena: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:TOOLTIP_SHAMAN,Shaman,Szaman,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SHIELD,Shield,Tarcza,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SHOES,Shoes,Buty,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL,Skills,Umiejętności,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILLBOOK_NAME,Skill Book,Księga Umiejętności,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_GRADE,Attack Value: +,Wartość Ataku: +,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_POWER,Attack Value:,Wartość Ataku:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_ATT_SPEED,Attack Speed: +,Szybkość Ataku: +,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_DEF_GRADE,Defence:,Obrona:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_DODGE,Opponent Attack Value: -,Wartość Ataku przeciwnika: -,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_HEAL,Restore HP:,Regeneracja PŻ:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_MOV_SPEED,Moving Speed: +,Szybkość Ruchu: +,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_REFLECT_MELEE,Chance to reflect close combat attack:,Szansa na odbicie ataku:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_AFFECT_RESIST_NORMAL,Resistance against Body Damage:,Odporność na Obrażenia:,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_COOL_TIME,Recharge: ,Odnowa: ,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_DAMAGE_BONUS,Skill Damage %d%%,Obrażenia Umiejętności: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SKILL_DEFEND_BONUS,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SKILL_DURATION,Duration: %d Sek.,Czas trwania: %d Sek.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SKILL_FORGET_BOOK_NAME,Band of Oblivion,Księga Zapomnienia,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SKILL_LEVEL_MASTER,Current Level: %d (Master),Aktualny Poziom: %d (Mistrz),,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SKILL_LEVEL_WITH_MAX,Current Level: %d (Max. %d),Aktualny Poziom: %d (Max %d),,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_SOCKET_EMPTY,Empty,Pusty,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_SP_REGEN,SP Regeneration +%d%%,Regeneracja Mikstur PE: +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_STR,Strength +%d,Siła: +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SURA,Sura,Sura,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_TIME_CHARGER_FIX,Time charging %d sec.,Ładowanie czasu %d sek.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_TIME_CHARGER_PER,Time charging %d%%,Ładowanie czasu %d%% ,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_UNIQUE,Unique,Unikat,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_UNSEAL_LEFT_TIME,Unseals in %d hours and %d minutes.,Oderwanie od duszy za: %dH %dM,,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:TOOLTIP_WARRIOR,Warrior,Wojownik,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_WEAPON,Weapon,Broń,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_WRISTLET,Wristlet,Bransoleta,,client: game texts (localeInfo),new
+c:locale_game:UI_ACCEPT,Accept,Akceptuj,,client: game texts (localeInfo),new
+c:locale_game:UI_CANCEL,Cancel,Anuluj,,client: game texts (localeInfo),new
+c:locale_game:UI_CLOSE,Close,Zamknij,,client: game texts (localeInfo),new
+c:locale_game:UI_DEF_FONT,Tahoma:12,,,client: game texts (localeInfo),new
+c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,,client: game texts (localeInfo),new
+c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,,client: game texts (localeInfo),new
+c:locale_game:UI_DENY,Decline,Odrzuć,,client: game texts (localeInfo),new
+c:locale_game:UI_ITEM,Item,Przedmiot,,client: game texts (localeInfo),new
+c:locale_game:UI_LEFT_TIME,Remaining Time: %d Sec.,Pozostały Czas: %d Sek.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:UI_NEXT,Continue,Kontynuuj,,client: game texts (localeInfo),new
+c:locale_game:UI_NEXTPAGE,Next,Dalej,,client: game texts (localeInfo),new
+c:locale_game:UI_NOCONTENTS,No Content,Brak Zawartości,,client: game texts (localeInfo),new
+c:locale_game:UI_NONAME,No Name,Brak Nazwy,,client: game texts (localeInfo),new
+c:locale_game:UI_OK,OK,OK,,client: game texts (localeInfo),new
+c:locale_game:UI_POS_UNKNOWN,Unknown Place,Nieznane Położenie,,client: game texts (localeInfo),new
+c:locale_game:UI_PREVPAGE,Back,Wróć,,client: game texts (localeInfo),new
+c:locale_game:UI_UNKNOWN,Unknown,Nieznany,,client: game texts (localeInfo),new
+c:locale_game:UPLOAD_MARK_CHECK_NEED_RECONNECT,The upload has to be started again.,Wgrywanie musi zostać ponownie rozpoczęte.,,client: game texts (localeInfo),new
+c:locale_game:UPLOAD_MARK_UPLOAD_NEED_RECONNECT,The upload has to be started again.,Wgrywanie musi zostać ponownie rozpoczęte.,,client: game texts (localeInfo),new
+c:locale_game:USE_ITEM_FAILURE_PRIVATE_SHOP,You cannot use items while you have a private shop open.,"Nie możesz używać przedmiotów, jeśli otworzyłeś prywatny Magazyn.",,client: game texts (localeInfo),new
+c:locale_game:USE_SKILL_ERROR_UNKNOWN,Unknown Skill Error: %s,Nieznany Błąd Umiejętności: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:TARGET_BUTTON_REPORT,Report,Zgłoś,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_TIPS_SPLIT_ITEM,{} + {} split items.,{} + {} rozdziel przedmioty.,,client: game texts (localeInfo) | keep: {},new
+c:locale_game:MINIMAP_STRECH,Expand,Powiększ,,client: game texts (localeInfo),new
+c:locale_game:MINIMAP_SHRINK,Shrink,Zmniejsz,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_ESCAPE_OPTION,Use this if your character gets stuck.,"Użyj, kiedy zablokujesz się w ""teksturach"".",,client: game texts (localeInfo),new
+c:locale_game:AUTOSTACK_INVENTORY,All stackable items in your inventory have been combined.,Połączono wszystkie możliwe do połączenia przedmioty w ekwipunku.,,client: game texts (localeInfo),new
+c:locale_game:REPORT_PLAYER_REASON_HACK,Other hacks / cheats,Inne hacki/cheaty,,client: game texts (localeInfo),new
+c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,,client: game texts (localeInfo),new
+c:locale_game:REPORT_PLAYER_REASON_FISHBOT,Fishing bot,Fishbot,,client: game texts (localeInfo),new
+c:locale_game:REPORT_PLAYER_REASON_INSULT,Abusive language,Wyzwiska,,client: game texts (localeInfo),new
+c:locale_game:REPORT_PLAYER_SELECT_REASON,Select a reason for reporting this player.,Wybierz powód zgłoszenia.,,client: game texts (localeInfo),new
+c:locale_game:REPORT_DONE,Thank you for your report!,Dziękujemy za zgłoszenie!,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_WHISPER_TARGET_IS_BLOCKED,You cannot whisper to a blocked player.,Nie możesz szeptać do zablokowanej osoby.,,client: game texts (localeInfo),new
+c:locale_game:PRIVATE_SHOP_INPUT_EDIT_PRICE_DIALOG_TITLE,Edit price,Edytuj cene,,client: game texts (localeInfo),new
+c:locale_game:PRIVATE_SHOP_INPUT_EDIT_ALL_PRICE_DIALOG_TITLE,Edit prices in bulk,Edytuj masowo cene,,client: game texts (localeInfo),new
+c:locale_game:SELECT_CANNOT_DELETE_USING_OFFLINESHOP,Collect the items from your shop storage first.,Odbierz przedmioty z depozytu sklepu.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_MALL_SHOP_PREMIUM,Premium Shop,Sklep Premium,,client: game texts (localeInfo),new
+c:locale_game:SHOP_ERROR_EMPTY_SIGN,Enter a shop name.,Podaj nazwę sklepu.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_ERROR_EMPTY_STOCK,Add items to the shop.,Dodaj przedmioty do sklepu.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_ERROR_SELECT_TIME,Select the type of shop you want to open.,Wybierz jaki rodzaj sklepu chcesz otworzyć.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_ERROR_TOO_MUCH_GOLD,"Shop earnings cannot exceed 2,000,000,000 Yang.",Suma zarobków sklepu nie może przekroczyć 2.000.000.000 Yang.,,client: game texts (localeInfo),new
+c:locale_game:MYSHOP_BUY,Someone bought |cffd9ca75%dx %s|r from your shop for |cffd9ca75%s|r.,Ktoś zakupił |cffd9ca75%dx %s|r z Twojego sklepiku za |cffd9ca75%s|r.,,client: game texts (localeInfo) | keep: %d %s %s; |c...|r colour codes,new
+c:locale_game:MYSHOP_MANAGE_OPEN_ERROR,You have no open shop and your shop storage is empty.,"Nie masz otwartego sklepu, a depozyt sklepu jest pusty.",,client: game texts (localeInfo),new
+c:locale_game:SHOP_REMOVE_ITEM_QUESTION,Remove %dx %s from the shop?,Czy chcesz usunąć %dx %s ze sklepu?,,client: game texts (localeInfo) | keep: %d %s,new
+c:locale_game:SHOP_NAME_TITLE,Shop - %s,Sklep - %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:SHOP_PLACE_ITEM_ON_LOCKED_SLOT,You cannot place an item in this shop slot.,Nie możesz postawić przedmiotu na tym miejscu w sklepie.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_NO_PREMIUM,You do not have a premium shop.,Nie posiadasz sklepu premium.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT,From %d to %d hours,Od %d do %d godz.,,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT2,Over %d hours,Ponad %d godz.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:SHOP_DURATION_TOOLTIP_TEXT3,Under %d hours,Poniżej %d godz.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION1_1,An unfinished shop setup was found.,"Wykryto konfiguracje sklepu, który nie został otwarty.",,client: game texts (localeInfo),new
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION1_2,Restore your previous shop setup?,Czy chcesz przywrócić ostatnie ustawienie sklepu?,,client: game texts (localeInfo),new
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION2_1,"If items have moved in your inventory,","Uwaga: Jeżeli zmieniły się pozycje przedmiotów w ekwipunku,",,client: game texts (localeInfo),new
+c:locale_game:SHOP_LOAD_CONFIG_QUESTION2_2,the shop may contain the wrong items. Continue?,sklep może posiadać niepoprawne przedmioty. Kontynuować?,,client: game texts (localeInfo),new
+c:locale_game:MYSHOP_REOPEN_TITLE,Reopen Shop,Otwórz sklep ponownie,,client: game texts (localeInfo),new
+c:locale_game:MYSHOP_REOPEN_INPUT_PLACEHOLDER,Shop name,Nazwa sklepu,,client: game texts (localeInfo),new
+c:locale_game:SHOP_EXPIRE_NOTIFY_GUEST,The shop has closed or expired.,Sklep został zamknięty lub wygasł.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_HAS_BEEN_EDITED,The shop's listings have changed.,Oferta sklepu została edytowana.,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_SHOP_TITLE,%s's Shop,Sklep Gracza %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:OFFLINE_SHOP_ESTIMATED_REVENUE,Estimated net earnings:,Przewidywane zarobki netto:,,client: game texts (localeInfo),new
+c:locale_game:TOO_HIGH_SHOP_VALUE,The shop's value exceeds 2 billion Yang.,Wartość sklepu przekracza 2 miliardy Yang.,,client: game texts (localeInfo),new
+c:locale_game:OFFLINE_SHOP_CANNOT_PLACE_ITEM_ON_ITEM,You cannot place an item on another item.,Nie możesz położyć przedmiotu na innym przedmiocie.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_EDIT_MODE_ON,Shop editing enabled.,Włączono tryb edycji sklepu.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_EDIT_MODE_OFF,Shop editing disabled.,Wyłączono tryb edycji sklepu.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_NO_CATEGORY,Select a category.,Wybierz kategorię.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CLEAR_INFO,All offline shop markers have been cleared.,Wyczyszczono wszystkie znaczniki sklepów offline.,,client: game texts (localeInfo),new
+c:locale_game:QUICK_ADD_TO_MYSHOP,|Eshortcut/mright|e - add to shop.,|Eshortcut/mright|e - dodaj do sklepu.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:QUICK_REMOVE_FROM_MYSHOP,|Eshortcut/mleft|e - remove from shop.,|Eshortcut/mleft|e - usuń ze sklepu.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:QUICK_EDIT_MYSHOP,|Eshortcut/mright|e - edit price.,|Eshortcut/mright|e - edytuj cenę.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:QUICK_EDIT_MYSHOP_SIMILAR,|Eshortcut/ctrl|e + |Eshortcut/mright|e - edit similar prices.,|Eshortcut/ctrl|e + |Eshortcut/mright|e - edytuj cenę podobnych.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:QUICK_BUY_SHOP,|Eshortcut/mleft|e or |Eshortcut/mright|e - buy item.,|Eshortcut/mleft|e  lub |Eshortcut/mright|e - kup przedmiot.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:SKILL_BERSERK,Battle Flush,Berserk,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SWORD_AURA,Aura of the Sword,Aura Miecza,,client: game texts (localeInfo),new
+c:locale_game:SKILL_STRONG_BODY,Strong Body,Silne Ciało,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FEATHER_WALK,Feather Walking,Bezszelestny Chód,,client: game texts (localeInfo),new
+c:locale_game:SKILL_STEALTH,Camouflage,Krycie Się,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ENCHANTED_BLADE,Enchanted Blade,Czarowane Ostrze,,client: game texts (localeInfo),new
+c:locale_game:SKILL_TERROR,Fear,Strach,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ENCHANTED_ARMOR,Enchanted Armour,Czarowana Zbroja,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BLESSING,Blessing,Błogosławieństwo,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SWIFTNESS,Speed,Szybkość,,client: game texts (localeInfo),new
+c:locale_game:SKILL_MANASHIELD,Dark Protection,Mroczna Ochrona,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FLAME_SPIRIT,Ghost of the Flame,Ognisty Duch,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DRAGON_HELP,Dragon's Aid,Pomoc Smoka,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ATTACK_UP,Attack +,Atak +,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DISPEL,Neutralize Spell,Rozproszenie Magii,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FIRE_ARROW,Fire Arrow,Ognista Strzała,,client: game texts (localeInfo),new
+c:locale_game:MALL_ATT_BONUS_NAME,Dragon God Attack,Atak Boga Smoków,,client: game texts (localeInfo),new
+c:locale_game:MALL_HP_BONUS_NAME,Dragon God Life,Życie Boga Smoków,,client: game texts (localeInfo),new
+c:locale_game:MALL_IQ_BONUS_NAME,Dragon God Intelligence,Inteligencja Boga Smoków,,client: game texts (localeInfo),new
+c:locale_game:MALL_DEF_BONUS_NAME,Dragon God Defence,Obrona Boga Smoków,,client: game texts (localeInfo),new
+c:locale_game:MALL_EXP_BONUS_NAME,Potion of Wisdom,Mikstura Mądrości,,client: game texts (localeInfo),new
+c:locale_game:MALL_CRIT_BONUS_NAME,Critical Strike,Dłoń Krytyka,,client: game texts (localeInfo),new
+c:locale_game:MALL_PENET_BONUS_NAME,Piercing Strike,Dłoń Przebicia,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POLYMORPH,Polymorph,Polimorfia,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POINT_POLYMORPH,Transform into %s,Przemiana w %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:TOOLTIP_APPLY_TERROR,Opponent Attack Power -%d%%,Siła ataku wroga -%d%% ,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_RESIST_NORMAL_DAMAGE,Physical Attack Resistance %d%%,Odporność na ataki fizyczne %d%% ,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_FAST_PICKUP,Picking up items from the ground is faster by 500%.,Podnoszenie przedmiotów z ziemii szybsze o 500%.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ROOT,Root,Uziemienie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_HEAL_ON_ATTACK,Touch of Light,Dotyk Światła,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_REMOVE_ALL_RESIST,Broken Resistance,Złamanie odporności,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_DEATH_PENALTY,"If you die with a negative rank,;you do not risk losing an item.;The effect ends once it has saved;you from losing one.",W przypadku śmierci na ujemnej randze;nie ryzykujesz utratą przedmiotu.;Efekt znika w przypadku ochrony;potencjalnej utraty przedmiotu.,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_FIRE_RAGE,Dragon's Wrath,Smoczy Gniew,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_HEAVEN_PROTECTION,Heavenly Shield,Niebiańska Tarcza,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SPRINT_AFFECT,Moving speed greatly raised.,Prędkość ruchu znacznie zwiększona.,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_BLOODTHIRST,Bloodthirst,Żądza Krwi,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_DEBUFF_HEAVEN_PROTECTION,Heavenly Shield cannot be granted.,Niebiańska Tarcza nie może zostać nadana.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_TEMPLE,"Temple Curse;Your mind is clouded, so;you fight far worse.",Klątwa Świątyni;Twój umysł jest otępiony przez co;znacznie tracisz zdolności bojowe.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_DEVILTOWER_DAMAGE,"Corruption of Darkness;Your skin burns and cracks with dark energy,;leaving you open to more damage.","Spaczenie Ciemności;Skóra piecze i pęka pod wpływem mrocznej energii,;wystawiając cię na większe obrażenia.",,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_HERBALIST_BONUS,Chance to pick extra flowers.,Szansa na zerwanie dodatkowych kwiatów.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_COLLECT_NO_FAIL_TIME,The Biologist needs no time to examine a sample of poor quality.,Biolog nie potrzebuje czasu na przeanalizowanie próbki złej jakości.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_NO_FAIL_TIME,No rest needed after failed training.,Nie potrzebujesz odpoczynku w przypadku nieudanej nauki.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_NO_EXP,You receive no experience points.,Nie otrzymujesz doświadczenia.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_LEARN,Potion of Genius,Mikstura Geniuszu,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_EASY,Protection against the Monkey curse;in the Easy Dungeon.,Ochrona przed klątwą Małp;w Łatwym Lochu.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_NORMAL,Protection against the Monkey curse;in the Normal Dungeon.,Ochrona przed klątwą Małp;w Normalnym Lochu.,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_AFFECT_MONKEY_CURSE_HARD,Protection against the Monkey curse;in the Hard Dungeon.,Ochrona przed klątwą Małp;w Trudnym Lochu.,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_INFINITE,The effect never ends.,Efekt nigdy się nie kończy.,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_INACTIVE,Inactive,,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_DELETE_AFFECT,|Eshortcut/mright|e - remove effect,|Eshortcut/mright|e - usuń efekt,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:FLOATING_TEXT_END_AFFECT,Effect ended: %s,Efekt minął: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:TOOLTIP_APPLY_REFLECT_ARROW,Chance to reflect Arrows: %d%%,Szansa na odbicie Pocisku: %d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_HIT_HP_RECOVERY,Life thief +%d%%,Złodziej życia +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POINT_ATT_BONUS,Attack +%d%%,Atak +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_ST_REGEN,Endurance Regeneration +%d%%,Regeneracja ST: +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_DAGGER_ATT_GRADE_MONSTER,Dagger damage against monsters +%d,Obraż. sztyletów w potwory +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_ATT_GRADE_MONSTER,Attack Value against monsters +%d,Wartość Ataku w potwory +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RESIST_MONSTER_1000PCT,Resistance against monsters +%.1f%%,Odporność na potwory +%.1f%%,,client: game texts (localeInfo) | keep: %.1f,new
+c:locale_game:TOOLTIP_APPLY_ABSORB_DAMAGE,Absorbs %d damage,Absorpcja %d obrażen,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_ABSORB_DAMAGE_MONSTER,Absorbs %d damage from monsters,Absorpcja %d obrażen od potworów,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN_BREAK_PCT,Chance to break Defence against blackouts +%d%%,Szansa na Przebicie Niewrażliwości Omdlenia +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_SKILL_DURATION,Skill Duration +%d%%,Czas trwania umiejętności +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_BREAK_TEMPLE_CURSE,Chance to break the Temple Curse +%d%%,Szansa na złamanie Klątwy Świątyni +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC_VALLEY,Damage in the Valley of Seungryong +%d%%,Obrażenia w Dolinie Seungryong +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_STONE,Damage against Metin Stones +%d%%,Obrażenia przeciwko Metinom +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_BOSS,Damage against Bosses +%d%%,Obrażenia przeciwko Bossom +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT_MONSTER,Magic Damage against monsters +%d%%,Obrażenia magiczne przeciwko potworom +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_SWORD,Break Sword Defence +%d%%,Złamanie Odporności na Miecze +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_POINT_BREAK_RESIST_TWOHAND,Break Two-Handed Defence +%d%%,Złamanie Odporności na Broń Dwuręczną +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_DAGGER,Break Dagger Defence +%d%%,Złamanie Odporności na Sztylety +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_BELL,Break Bell Defence +%d%%,Złamanie Odporności na Dzwony +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_FAN,Break Fan Defence +%d%%,Złamanie Odporności na Wachlarze +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BREAK_RESIST_BOW,Break Arrow Resistance +%d%%,Złamanie Odporności na Strzały +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_RESIST_HUMAN,Resistance against Half Humans +%d%%,Odporność na Ludzi +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POINT_LEARN_CHANCE,Chance to learn upgraded by factor %.2f.,Szansa na pomyślną naukę zwiększona o współczynnik %.2f.,,client: game texts (localeInfo) | keep: %.2f,new
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT,Magic Damage +%d%%,Obrażenia magiczne +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_FIRE_PCT,Chance of lasting fire +%d%%,Szansa na Podpalenie +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_CONVERT_DAMAGE_TO_SP,+%d%% of damage will be taken from SP,+%d%% obrażeń zostanie odebranych z PE,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_DEF_BONUS,Defence Boost +%d%%,Wzmocnienie Obrony +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_DROP_RARE,Chance of capturing items with a bonus +%d%%,Szansa na zdobycie przedmiotu z bonusem +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POINT_CURSE_PCT,Received Damage +%d%%,Otrzymywane Obrażenia +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_MAGIC_ATT_GRADE_MONSTER,+%d magic damage against monsters,+%d obrażeń magicznych przeciwko potworom,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POINT_ATT_SPECIAL,Damage against Bosses/Mini-Bosses/Metins +%d%%,Obrażenia przeciwko Bossom/MiniBossom/Metinom +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_RARE_PCT,%d%% chance of a random bonus.,%d%% na losowy bonus.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_SPRINT,|Eshortcut/shift|e - activate,|Eshortcut/shift|e - aktywuj,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:TOOLTIP_NEED_STAMINA,Needed Endurance: %d,Wymagane ST: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_NEED_STAMINA_PER_SEC,Endurance / Sec.: %d,Stamina / sek.: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_POTION_GROUP,Group: %s,Grupa: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:TOOLTIP_POTION_GROUP_GENERAL_USE,General,Ogólne,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_GROUP_BOOST,Boost (max. 5),Wzmocnienie (max. 5),,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_GROUP_OFFENSIVE,Offensive (max. 3),Ofensywne (max. 3),,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_GROUP_DEFENSIVE,Defensive (max. 2),Defensywne (max. 2),,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_GROUP_FOOD,Food (max. 2),Jedzenie (max. 2),,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_POTION_COOLDOWN,Reusable after %s,Ponowne użycie po %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:CHAT_TRADE,Trade,Handel,,client: game texts (localeInfo),new
+c:locale_game:COMB_COST,Price: %s,Cena: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:CRAFTING_FILTER_ALL,All,Wszystko,,client: game texts (localeInfo),new
+c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,,client: game texts (localeInfo),new
+c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,,client: game texts (localeInfo),new
+c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,,client: game texts (localeInfo),new
+c:locale_game:ITEM_ACTON_DELETE,Delete,Usuń,,client: game texts (localeInfo),new
+c:locale_game:MAP_BAYBLACKSAND,Nephrite Bay,Nefrytowa Zatoka,,client: game texts (localeInfo),new
+c:locale_game:MAP_CAPEDRAGONHEAD,Cape Dragon Fire,Przylądek Smoczego Ognia,,client: game texts (localeInfo),new
+c:locale_game:MAP_DAWNMISTWOOD,Gautama Cliff,Klif Gautama,,client: game texts (localeInfo),new
+c:locale_game:MAP_DEVILCATACOMB,Devil's Catacomb,Diabelskie Katakumby,,client: game texts (localeInfo),new
+c:locale_game:MAP_DEVILTOWER1,Demon Tower,Wieża Demonów,,client: game texts (localeInfo),new
+c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,,client: game texts (localeInfo),new
+c:locale_game:MAP_GUILD_02,Waryong,Waryong,,client: game texts (localeInfo),new
+c:locale_game:MAP_GUILD_03,Imha,Imha,,client: game texts (localeInfo),new
+c:locale_game:MAP_MILGYO,Hwang Temple,Świątynia Hwang,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,,client: game texts (localeInfo),new
+c:locale_game:MAP_MT_THUNDER,Thunder Mountains,Gromiste Góry,,client: game texts (localeInfo),new
+c:locale_game:MAP_NUSLUCK01,Land of Giants,Kraina Gigantów,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_DESERT_01,Yongbi Desert,Pustynia Yongbi,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_FLAME_01,Doyyumhwan,Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_FLAME_DUNGEON_01,Red Dragon Fortress,Twierdza Czerwonego Smoka,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_SNOWM_01,Mount Sohan,Góra Sohan,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_SNOW_DUNGEON_01,Nemere's Watchtower,Strażnica Nemere,,client: game texts (localeInfo),new
+c:locale_game:MAP_N_THREEWAY,Valley of Seungryong,Dolina Seungryong,,client: game texts (localeInfo),new
+c:locale_game:MAP_SKIPIA_DUNGEON_01,Grotto of Exile,Grota Wygnańców,,client: game texts (localeInfo),new
+c:locale_game:MAP_SKIPIA_DUNGEON_02,Grotto of Exile,Grota Wygnańców,,client: game texts (localeInfo),new
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS_1,Spider Dungeon 1,Loch Pająków 1,,client: game texts (localeInfo),new
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS_2,Spider Dungeon 2,Loch Pająków 2,,client: game texts (localeInfo),new
+c:locale_game:MAP_SPIDERDUNGEON,Spider Dungeon 1,Loch Pająków 1,,client: game texts (localeInfo),new
+c:locale_game:MAP_SPIDERDUNGEON_02,Spider Dungeon 2,Loch Pająków 2,,client: game texts (localeInfo),new
+c:locale_game:MAP_SPIDERDUNGEON_02_1,Spider Dungeon 2,Loch Pająków 2,,client: game texts (localeInfo),new
+c:locale_game:MAP_TRENT,Ghost Wood,Las Duchów,,client: game texts (localeInfo),new
+c:locale_game:MAP_TRENT02_A,Red Forest,Czerwony Las,,client: game texts (localeInfo),new
+c:locale_game:MAP_WL_01,Snakefield,Wężowe Pole,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_CANCEL,Cancel,Anuluj,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_SELECT,OK,OK,,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_ITEM_WEAPON,Weapon,Broń,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_RANK1,Friendly,Przyjazny,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_QUEST,Missions,Misje,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY4,Shoes,Buty,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_CHAR,Character,Postać,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_QUEST,Missions,Misje,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_TOITEM,Reinforce Item,Wzmocnienie Przedmiotu,,client: game texts (localeInfo),new
+c:locale_game:SKILL_AMBUSH,Ambush,Zasadzka,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ARROW_SHOWER,Arrow Shower,Deszcz Strzał,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BASH,Bash,Walnięcie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CHARGE,Dash,Szarża,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CURE,Cure,Leczenie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DARK_ORB,Dark Orb,Mroczna Sfera,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DARK_STRIKE,Dark Strike,Mroczne Uderzenie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DRAGON_ROAR,Dragon's Roar,Smoczy Skowyt,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DRAGON_SWIRL,Dragon Swirl,Smoczy Wir,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FAST_ATTACK,Fast Attack,Szybki Atak,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FINGER_STRIKE,Finger Strike,Uderzenie Palcem,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FLAME_STRIKE,Flame Strike,Ogniste Uderzenie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FLYING_TALISMAN,Flying Talisman,Latający Talizman,,client: game texts (localeInfo),new
+c:locale_game:SKILL_LIGHTNING_CLAW,Lightning Claw,Burzowy Szpon,,client: game texts (localeInfo),new
+c:locale_game:SKILL_LIGHTNING_THROW,Lightning Throw,Rzut Piorunem,,client: game texts (localeInfo),new
+c:locale_game:SKILL_POISON_ARROW,Poison Arrow,Trująca Strzała,,client: game texts (localeInfo),new
+c:locale_game:SKILL_POISON_CLOUD,Poisonous Cloud,Trująca Chmura,,client: game texts (localeInfo),new
+c:locale_game:SKILL_REFLECT,Reflect,Odbicie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_REPETITIVE_SHOT,Repetitive Shot,Powtarzalny Strzał,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ROLLING_DAGGER,Rolling Dagger,Wirujący Sztylet,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SHOOTING_DRAGON,Shooting Dragon,Strzelający Smok,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SPIRIT_ORB,Spirit Strike (S),Duchowy Cios,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SPIRIT_STRIKE,Spirit Strike (W),Duchowe Uderzenie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_STUMP,Stump,Tąpnięcie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SUMMON_LIGHTNING,Summon Lightning,Przywołanie błyskawicy,,client: game texts (localeInfo),new
+c:locale_game:SKILL_SWORD_STRIKE,Sword Strike,Uderzenie Miecza,,client: game texts (localeInfo),new
+c:locale_game:SKILL_THREEWAY_CUT,Three-Way Cut,Trzystronne Cięcie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_WHIRLWIND,Sword Spin,Wir Miecza,,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_ARROW_DAMAGE_BONUS,Attack Value: %d,Wartość ataku: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:WHISPER_BAN,Block,Blokuj,,client: game texts (localeInfo),new
+c:locale_game:AFFECT_NEAR_END,< 10 sec,< 10 sek,,client: game texts (localeInfo),new
+c:locale_game:ASSASSIN_ARCHER_DESCRIPTION,Can shoot several targets at once.,Potrafi strzelać w kilka celów jednocześnie.,,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE,Defensive,Defensywne,,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE_MONSTER,Defensive (against monsters),Defensywne (przeciwko Potworom),,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_DEFENSIVE_PLAYER,Defensive (against players),Defensywne (przeciwko Graczom),,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE,Offensive,Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE_MONSTER,Offensive (against monsters),Ofensywne (przeciwko Potworom),,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_OFFENSIVE_PLAYER,Offensive (against players),Ofensywne (przeciwko Graczom),,client: game texts (localeInfo),new
+c:locale_game:ATTRIBUTE_LIST_OTHER,Other,Inne,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SELL_ITEM_HERE,The merchant is not interested in this item.,Handlarz nie jest zainteresowany tym przedmiotem.,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_ST,I do not have enough stamina!,Nie mam wystarczającej ilości ST!,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SKILL_ON_DEBUFF,I cannot use this while another effect lasts.,Nie mogę użyć w trakcie trwania innego efektu.,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SKILL_RED,"While the Indigo Wolf Soul is active, you cannot use the Purple Wolf Soul.","Gdy aktywna jest Dusza Wilka Indygo, nie możesz użyć Duszy Purpurowego Wilka.",,client: game texts (localeInfo),new
+c:locale_game:CANNOT_WHISPER_LOW_LEVEL,Without a Premium account you can whisper from level 15 and 1000 monsters killed.,Szept bez konta Premium dostępny jest od 15 poziomu i 1000 zabitych potworów.,,client: game texts (localeInfo),new
+c:locale_game:CANNOT_WHISPER_YOU_ARE_BLOCKED,The player you want to whisper to has blocked you.,Zostałeś zablokowany przez gracza do którego chcesz szeptać.,,client: game texts (localeInfo),new
+c:locale_game:CAPTCHA_LEFT_LABEL,Attempts left: %d,Pozostało prób: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:CAPTCHA_TIME_LABEL,Time left: %s seconds,Pozostało: %s sekund,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:CHANGE_PLAYER_NAME,Change character name,Zmiana nazwy postaci,,client: game texts (localeInfo),new
+c:locale_game:CHANGE_PLAYER_NAME_ERROR,The character name is invalid.,Nazwa Postaci jest niepoprawna.,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_99,Special Channel,Kanał Specjalny,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_STATUS_BUSY,BUSY,BUSY,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_STATUS_FULL,FULL,FULL,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_STATUS_OFFLINE,OFF,OFF,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,,client: game texts (localeInfo),new
+c:locale_game:CHANNEL_SWITCH_PREMIUM_ERROR,This channel is only for Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,,client: game texts (localeInfo),new
+c:locale_game:CHARACTER_CREATE_MODE,Create a character,Utwórz postać,,client: game texts (localeInfo),new
+c:locale_game:CHARACTER_SELECT_MODE,Choose a character,Wybierz postać,,client: game texts (localeInfo),new
+c:locale_game:CHAT_TRADE_LIMIT,The trade chat takes one message every 30 seconds.,Czat handlowy posiada ograniczenie 30 sekund od poprzedniej wiadomości.,,client: game texts (localeInfo),new
+c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,,client: game texts (localeInfo),new
+c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,,client: game texts (localeInfo),new
+c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,,client: game texts (localeInfo),new
+c:locale_game:COMB_CANT_APPEND_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,,client: game texts (localeInfo),new
+c:locale_game:COMB_CANT_APPEND_SEALED_ITEM,You cannot use a soulbound item.,Nie możesz używać przedmiotu przywiązanego do duszy.,,client: game texts (localeInfo),new
+c:locale_game:COMB_IS_CONTINUE_PROCESS,Do you want to continue?,Chcesz kontynuować?,,client: game texts (localeInfo),new
+c:locale_game:COMB_NOTICE,You cannot open a private shop while exchanging books.,Nie możesz otworzyć prywatnego sklepu podczas wymiany ksiąg.,,client: game texts (localeInfo),new
+c:locale_game:COMB_NOTICE_NOT_OPEN,You cannot exchange books while your private shop is open.,"Nie możesz wymienić ksiąg, gdy masz otwarty prywatny sklep.",,client: game texts (localeInfo),new
+c:locale_game:COMB_NOT_ALL_SLOT_APPEND_ITEM,You need a second costume to transfer the bonuses.,"Aby przekazać bonusy, potrzebujesz 2. kostiumu.",,client: game texts (localeInfo),new
+c:locale_game:COMB_NOT_FULL_BOOK,"No, that is no deal. I told you already: I want 10 books for an exchange.","Nie, tak to nie ubijemy interesu. Już ci przecież wytłumaczyłem, że chcę 10 ksiąg, aby dokonać wymiany.",,client: game texts (localeInfo),new
+c:locale_game:COMB_NOT_ITEM_IN_INVENTORY,You cannot use equipped items.,Nie możesz używać założonych przedmiotów.,,client: game texts (localeInfo),new
+c:locale_game:COMB_NOT_MEDIUM_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,,client: game texts (localeInfo),new
+c:locale_game:COMB_WILL_REMOVE_MATERIAL,Costume 2 will be destroyed.,Kostium 2 ulegnie zniszczeniu.,,client: game texts (localeInfo),new
+c:locale_game:CONFIG_FONT_OPTION1,Default,Domyślna,,client: game texts (localeInfo),new
+c:locale_game:CONFIG_FONT_OPTION2,Large,Duża,,client: game texts (localeInfo),new
+c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,,client: game texts (localeInfo),new
+c:locale_game:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",,client: game texts (localeInfo),new
+c:locale_game:CONFIG_SCALE_MODE_WARNING,"* NOTE * Experimental option![ENTER]Interface scaling can lower the quality[ENTER]of the interface (graphics, font).[ENTER]|cff8ab98eGreen|r means the scaling MAY be the best fit.[ENTER]|cffe57976Red|r means the scaling may leave[ENTER]the game unresponsive.","* UWAGA * Opcja eksperymentalna![ENTER]Tryb Skalowania interfejsu może prowadzić do obniżenia[ENTER]jakości interfejsu (elementy graficzne, czcionka).[ENTER]Kolor |cff8ab98ezielony|r oznacza, że skalowanie MOŻE BYĆ najoptymalniejsze.[ENTER]Kolor |cffe57976czerwony|r oznacza, że skalowanie może doprowadzić[ENTER]do braku responsywności gry.",,client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,new
+c:locale_game:CONFIRM_DELETE_ITEM_QUESTION,Do you want to delete %dx %s?,Czy chcesz usunąć %dx %s?,,client: game texts (localeInfo) | keep: %d %s,new
+c:locale_game:CONFIRM_DELETE_ITEM_QUESTION2,This cannot be undone!,Proces jest nieodwracalny!,,client: game texts (localeInfo),new
+c:locale_game:CRAFTING_ATTR_CHANGER_INFO,Note![ENTER]The price of crafting Enchant Items changes.[ENTER]It depends on the state of the economy[ENTER]and is watched by the administration.,Uwaga![ENTER]Cena wytworzenia zmianek jest zmienna.[ENTER]Jej cena zależy od obecnego stanu gospodarki[ENTER]i jest stale monitorowana przez administrację.,,client: game texts (localeInfo) | keep: [ENTER] = new line,new
+c:locale_game:CRAFTING_FILTER_AVAILABLE,Available,Dostępne,,client: game texts (localeInfo),new
+c:locale_game:CRAFTING_FILTER_NOT_AVAILABLE,Unavailable,Niedostępne,,client: game texts (localeInfo),new
+c:locale_game:CRAFTING_ITEM_NOT_AVAILABLE,The item is not available.,Przedmiot jest niedostępny.,,client: game texts (localeInfo),new
+c:locale_game:CRAFTING_REQUIRE_LEVEL,Character level %d required.,Wymagany %d poziom postaci.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:CRAFTING_REQUIRE_RECIPE,Recipe knowledge required (%d/%d),Wymagana znajomość receptury (%d/%d),,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:CRAFTING_SELECT_ITEM,Select an item.,Wybierz przedmiot.,,client: game texts (localeInfo),new
+c:locale_game:CREATE_ERROR_LIMIT_LEVEL,Your character must be at least level 80.,Twoja postać musi znajdować się przynajmniej na poziomie 80.,,client: game texts (localeInfo),new
+c:locale_game:CREATE_ERROR_TIME_LIMIT,You can create a new character only every 30 seconds.,Możesz tworzyć nową postać tylko co 30 sek.,,client: game texts (localeInfo),new
+c:locale_game:CREATE_ERROR_WRONG_STRING,Your character name cannot contain special characters.,Nazwa twojej postaci nie może zawierać znaków specjalnych.,,client: game texts (localeInfo),new
+c:locale_game:CREATE_FULL,You cannot create any more characters.,Nie możesz tworzyć więcej postaci.,,client: game texts (localeInfo),new
+c:locale_game:CREDENTIALS_FILL,Enter your login and password to save them.,"Podaj login i hasło, aby je zapisać.",,client: game texts (localeInfo),new
+c:locale_game:DONT_USE_ITEM_WHEN_SHOW_CONFIRM,You cannot move items while a question is open.,Nie możesz przemieszczać przedmiotów w trakcie zapytania.,,client: game texts (localeInfo),new
+c:locale_game:DO_YOU_BUY_ITEM_ALL_SIMILAR,(Buy every item of this kind),(Kup wszystkie przedmioty tego typu),,client: game texts (localeInfo),new
+c:locale_game:DURATION1,Very short,Bardzo krótko,,client: game texts (localeInfo),new
+c:locale_game:DURATION2,Short,Krótko,,client: game texts (localeInfo),new
+c:locale_game:DURATION3,Medium,Średnio,,client: game texts (localeInfo),new
+c:locale_game:DURATION4,Long,Długo,,client: game texts (localeInfo),new
+c:locale_game:DURATION5,Very long,Bardzo długo,,client: game texts (localeInfo),new
+c:locale_game:EMPIRE_SELECT_MODE,Choose a kingdom,Wybierz królestwo,,client: game texts (localeInfo),new
+c:locale_game:EXCHANGE_TITLE_LEVEL,Trade with %s (%d),Handluj z %s (%d),,client: game texts (localeInfo) | keep: %s %d,new
+c:locale_game:EXIT_GUILD_WAR_ASK,Do you want to leave the guild war?,Czy chcesz opuścić wojnę gildii?,,client: game texts (localeInfo),new
+c:locale_game:FAST_STAT_ADD_TITLE,Quick stat allocation,Szybkie rozdanie statystyk,,client: game texts (localeInfo),new
+c:locale_game:FIRST_SHOUT_TIP,Only players of your kingdom see the SHOUT chat.[ENTER]The global chat is the trade chat (write |cffffd000@|rmessage)[ENTER] [ENTER]NOTE![ENTER]The trade chat is for trade offers only.[ENTER]Other messages may be punished with a chat ban.,Czat WOŁAJ widzą tylko gracze z Twojego królestwa.[ENTER]Czatem globalnym jest czat handlowy (napisz |cffffd000@|rwiadomość)[ENTER] [ENTER]UWAGA![ENTER]Czat handlowy służy tylko do ofert handlowych.[ENTER]Inne wiadomości mogą zostać ukarane czasową blokadą czatu.,,client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,new
+c:locale_game:FISHING_CHANCE_BONUS,Chance of a successful catch +%d%%,Szansa na pomyślne wyłowienie +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:FISHING_GAME_TUTORIAL_QUESTION1,Congratulations! Do you want to see the guide,Gratulacje! Czy chcesz wyświetlać poradnik,,client: game texts (localeInfo),new
+c:locale_game:FISHING_GAME_TUTORIAL_QUESTION2,when you fish again?,przy kolejnych próbach łowienia?,,client: game texts (localeInfo),new
+c:locale_game:FISHING_POOL_BONUS,Fishing pool bonus +%d,Bonus puli rybołówstwa +%d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GATHER_SKILL_BONUS,Chance of picking a flower +%d%%,Szansa na zerwanie kwiatu +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:GUILD_WAR1,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:GUILD_WAR2,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:GUILD_WAR3,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:GUILD_WAR4,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:HERB_CRAFT_CATEGORY_BOOST,Boosting,Wzmacniające,,client: game texts (localeInfo),new
+c:locale_game:HERB_CRAFT_CATEGORY_DEFENSIVE,Defensive,Defensywne,,client: game texts (localeInfo),new
+c:locale_game:HERB_CRAFT_CATEGORY_OFFENSIVE,Offensive,Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:HIDE_INTERFACE_TIP,CTRL+TAB - Show the interface again.,CTRL+TAB - Przywróć interfejs.,,client: game texts (localeInfo),new
+c:locale_game:HORSE_INVENTORY_LOCKED,Reach riding level 1[ENTER]and talk to the Stable Boy.,Osiągnij 1 poziom jeździectwa[ENTER]i porozmawiaj ze Stajennym.,,client: game texts (localeInfo) | keep: [ENTER] = new line,new
+c:locale_game:HORSE_INVENTORY_UNLOCK_INFO,Meet the requirements to unlock more slots.,"Spełnij wymagania, aby odblokować dodatkowe miejsca.",,client: game texts (localeInfo),new
+c:locale_game:HORSE_INVENTORY_UNLOCK_LEVEL_REQ,Riding level %d required,Wymagany %d Poziom Jeździectwa,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:HOUR_SHORT,h,g.,,client: game texts (localeInfo),new
+c:locale_game:INTRO_CREATE_ACTIVE_SKILLS_TITLE,Active Skills,Aktywne Umiejętności,,client: game texts (localeInfo),new
+c:locale_game:INTRO_CREATE_OTHER,Other,Inne,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_BUY_BUTTON,Buy %d (%s),Kup %d (%s),,client: game texts (localeInfo) | keep: %d %s,new
+c:locale_game:ITEMSHOP_CATEGORY_ADD_COINS,Top up DC!,Doładuj SM!,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_BOOSTERS,Potions,Mikstury,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_DRAGON_MARK,Dragon Marks,Smocze Znaki,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_DRAGON_VOUCHERS,DC Vouchers,Kupony SM,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_EQUIPMENT,Equipment,Wyposażenie,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_FEATURED,Featured,Polecane,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_HAIR,Hairstyles,Fryzury,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_MARRIAGE,Marriage,Małżeństwo,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_REFINE,Upgrading,Uszlachetnianie,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_SCROLLS_AND_BOOKS,Scrolls and books,Zwoje i księgi,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_SUBSCRIPTION,Premium Account,Konto Premium,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_TIMED,Flash Offers,Oferty Błyskawiczne,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_USE_VOUCHER,Redeem a voucher,Wykorzystaj voucher,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CHECK,Check,Sprawdź,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_CONFIM_BUY,Do you want to buy %s (x%d) for %s?,Czy chcesz kupić %s (szt. %d) za %s?,,client: game texts (localeInfo) | keep: %s %d %s,new
+c:locale_game:ITEMSHOP_EVENT_HAPPYHOUR,Happy Hour,Happy Hour,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_HAPPYHOUR_ITEM_DESCRIPTION,|cffe093f5Happy Hour|r is on! During the event[ENTER]a top-up gives you |cffe093f5+%d%%|r more DC![ENTER]The event lasts until |cffe093f5%s|r.,Obecnie trwa |cffe093f5Happy Hour|r! W ramach wydarzenia[ENTER]przy doładowaniu otrzymasz |cffe093f5+%d%%|r więcej SM![ENTER]Wydarzenie trwa do |cffe093f5%s|r.,,client: game texts (localeInfo) | keep: %d %s; |c...|r colour codes; [ENTER] = new line,new
+c:locale_game:ITEMSHOP_MIN_LEVEL,Level required to buy: %d,Wymagany poziom do zakupu: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:ITEMSHOP_NO_AUCTIONS,There are no flash offers right now.,Obecnie nie ma żadnych ofert błyskawicznych.,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_NO_DESCRIPTION,Hover over an item to see its description.,"Najedź myszką na przedmiot, aby zobaczyć opis.",,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_SEARCH_DRAGON_VOUCHER_DESC,You can quickly find every[ENTER]DC voucher in the players' shops.[ENTER]See where you can buy a voucher.,"Możesz w szybki sposób wyszukać wszystkie[ENTER]kupony SM na rynku sklepów graczy.[ENTER]Sprawdź, gdzie możesz kupić kupon.",,client: game texts (localeInfo) | keep: [ENTER] = new line,new
+c:locale_game:ITEMSHOP_SEARCH_DRAGON_VOUCHER_TITLE,Find DC Vouchers!,Znajdź Kupony SM!,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_SEARCH_PLACEHOLDER,Search the whole shop,Szukaj przedmiotu w całym sklepie,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_SUBSCRIPTION_ITEM_DESCRIPTION,"See the |cffffb62ePremium account|r offer,[ENTER]the best choice for most players.","Sprawdź ofertę |cffffb62ekonta premium|r,[ENTER]to najlepszy wybór dla większości graczy.",,client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,new
+c:locale_game:ITEMSHOP_TASKBAR_TOOLTIP,ItemShop,ItemShop,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_TIME_ACCOUNT_LIMIT,|cff0084ffLimit of %d purchases per account.|r,|cff0084ffLimit %d zakupów na konto.|r,,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,new
+c:locale_game:ITEMSHOP_TIME_AUCTION_END,Ends in %s,Koniec za %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:ITEMSHOP_TIME_AUCTION_START,Starts in %s,Zaczyna się za %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:ITEMSHOP_TIME_EVENT_ITEM_DESCRIPTION,Grab the |cff2b80ffflash offers|r![ENTER]The auctions last until |cff2b80ff%s|r at the latest[ENTER]or while stocks last.,Skorzystaj z |cff2b80ffofert błyskawicznych|r![ENTER]Aukcje trwają najpóźniej do |cff2b80ff%s|r[ENTER]lub do wyczerpania zapasów.,,client: game texts (localeInfo) | keep: %s; |c...|r colour codes; [ENTER] = new line,new
+c:locale_game:ITEMSHOP_TIME_ITEM_EVENT_END,Auction ended,Aukcja zakończona,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_TIME_PROGRESS_TOOLTIP,%d%% of the stock left.,Pozostało %d%% depozytu.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:ITEMSHOP_USE_VOUCHER,Redeem,Wykorzystaj,,client: game texts (localeInfo),new
+c:locale_game:ITEMSHOP_USE_VOUCHER_PLACEHOLDER,Enter the code...,Podaj kod...,,client: game texts (localeInfo),new
+c:locale_game:ITEM_ACTION_DROP,Drop,Wyrzuć,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_MAX_ITEM_COUNT,You cannot add any more items.,Nie możesz dodać więcej przedmiotów.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_NO_ITEM,Add an item to exchange.,Dodaj przedmiot do wymiany.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_REFINEITEM,Add an upgrade item to exchange.,Dodaj ulepszacz do wymiany.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_SKILLBOOK,Add a Skill Book to exchange.,Dodaj Księgę Umiejętności do wymiany.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_NO_ITEM_SOUL_STONE,Add a Spirit Stone to exchange.,Dodaj Kamień Duszy do wymiany.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM,You cannot exchange this item.,Nie możesz wymienić tego przedmiotu.,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_BOOK,"You cannot exchange this item (Skill Books, Forgetting Books or Recipes only).",Nie możesz wymienić tego przedmiotu (tylko Księgi Umiejętności/Zapomnienia lub Receptury).,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_REFINEITEM,You cannot exchange this item (upgrade items only).,Nie możesz wymienić tego przedmiotu (tylko Ulepszacze).,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_SKILLBOOK,You cannot exchange this item (Skill Books only).,Nie możesz wymienić tego przedmiotu (tylko Księgi Umiejętności).,,client: game texts (localeInfo),new
+c:locale_game:ITEM_EXCHANGE_WRONG_ITEM_SOULSTONE,You cannot exchange this item (Spirit Stones only).,Nie możesz wymienić tego przedmiotu (tylko Kamienie Duszy).,,client: game texts (localeInfo),new
+c:locale_game:ITEM_ROD_BAIT,Bait: %s,Przynęta: %s,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:ITEM_UNEQUIP_DESTROY_WARNING,Taking this item off destroys it.,Zdjęcie tego przedmiotu spowoduje jego usunięcie.,,client: game texts (localeInfo),new
+c:locale_game:LEFT_USE_TIME,Remaining Time of Use,Pozostały Czas Używania,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_DISPUTE,The account is blocked until a dispute is settled.,Konto jest tymczasowo zablokowane do rozwiązania sporu.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_ERROR,An error occurred while connecting to the channel.,Wystąpił błąd podczas łączenia z kanałem.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_MAINTENANCE,Maintenance is in progress.,Obecnie trwa przerwa techniczna.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_NEW_PASSWORD,Set a new password on the website.,Ustaw nowe hasło na stronie.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_NOT_ACTIVE,The account is not activated. Check your e-mail.,Konto nie jest aktywowane. Sprawdź pocztę e-mail.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_NO_PREMIUM,The chosen channel is only for Premium accounts.,Wybrany kanał dostępny jest tylko dla kont Premium.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_SAMELOGIN,Someone connected to your account.,Ktoś połączył się z Twoim kontem.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_FAILURE_UPDATE,The game client needs an update through the patcher.,Wymagana aktualizacja klienta gry przez Patcher.,,client: game texts (localeInfo),new
+c:locale_game:LOGIN_INPUT_PIN,Enter your PIN.,Wpisz swój PIN.,,client: game texts (localeInfo),new
+c:locale_game:MAGIC_EXTRACT_CHANCE_INFO,"The more bonuses, the higher the chance.",Im więcej bonusów tym większa szansa.,,client: game texts (localeInfo),new
+c:locale_game:MAGIC_EXTRACT_WRONG_ITEM,The item must have 1 to 3 bonuses.,Przedmiot musi posiadać od 1 do 3 bonusów.,,client: game texts (localeInfo),new
+c:locale_game:MAINTENANCE_DIALOG_DURATION,Expected duration: |cffffaa21%s|r,Przewidywany czas trwania: |cffffaa21%s|r,,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,new
+c:locale_game:MAINTENANCE_DIALOG_START_TIME,Maintenance starts at: |cffffaa21%s|r,Godzina rozpoczęcia prac: |cffffaa21%s|r,,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,new
+c:locale_game:MAINTENANCE_WHISPER,Services will be unavailable from %s. Duration: %s.,Przewidziana przerwa w dostępie do usług od godziny %s. Czas trwania %s.,,client: game texts (localeInfo) | keep: %s %s,new
+c:locale_game:MAP_DUEL,Training Arena,Arena Treningowa,,client: game texts (localeInfo),new
+c:locale_game:MAP_E,Colony,Kolonia,,client: game texts (localeInfo),new
+c:locale_game:MAP_EMPIREWAR01,Castle Battle,Walka o Zamek,,client: game texts (localeInfo),new
+c:locale_game:MAP_EMPIREWAR02,Castle Battle,Walka o Zamek,,client: game texts (localeInfo),new
+c:locale_game:MAP_EMPIREWAR03,Castle Battle,Walka o Zamek,,client: game texts (localeInfo),new
+c:locale_game:MAP_HOLYPLACE_DESERT,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,,client: game texts (localeInfo),new
+c:locale_game:MAP_HOLYPLACE_FLAME,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_HOLYPLACE_ICE,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_OXEVENT,OX Quiz,Konkurs OX,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_DESERT_01,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_DESERT_02,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_DESERT_03,Kingdom War - Desert Land,Wojna Królestw - Pustynna Kraina,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_FLAME_01,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_FLAME_02,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_FLAME_03,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_ICE_01,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_ICE_02,Playground,Plac Zabaw,,client: game texts (localeInfo),new
+c:locale_game:MAP_PATHWAY_ICE_03,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SKIPIA_DUNGEON_BOSS,Dragon Temple,Świątynia Smoka,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI,Kingdom War,Wojna Królestw,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_DESERT_01,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_DESERT_HILL_01,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_DESERT_HILL_02,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_DESERT_HILL_03,Kingdom War - Desert Country,Wojna Królestw - Pustynny Kraj,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_FLAME_HILL_01,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_FLAME_HILL_02,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_FLAME_HILL_03,Kingdom War - Fire Land,Wojna Królestw - Ognista Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_SNOW,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_SNOW_PASS01,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_SNOW_PASS02,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_SUNGZI_SNOW_PASS03,Kingdom War - Ice Land,Wojna Królestw - Lodowa Ziemia,,client: game texts (localeInfo),new
+c:locale_game:MAP_T1,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:MAP_T2,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:MAP_T3,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:MAP_T4,Guild War Area,Obszar Wojny Gildii,,client: game texts (localeInfo),new
+c:locale_game:MAP_WEDDING_01,Wedding Map,Mapa Wesela,,client: game texts (localeInfo),new
+c:locale_game:MASS_SELL_QUESTION,Do you want to sell in bulk?,Czy chcesz dokonać masowej sprzedaży?,,client: game texts (localeInfo),new
+c:locale_game:MASS_SELL_WARNING_ATTRIBUTE,An item with a bonus was found. Continue?,"Wykryto przedmiot z bonusem, kontynuować?",,client: game texts (localeInfo),new
+c:locale_game:MASS_SELL_WARNING_HIGH_PRICE,A possibly valuable item was found. Continue?,"Wykryto potencjalnie wartościowy przedmiot, kontynuować?",,client: game texts (localeInfo),new
+c:locale_game:MASS_SELL_WARNING_REFINE_LEVEL,A high upgrade level was found. Continue?,"Wykryto wysoki poziom ulepszenia, kontynuować?",,client: game texts (localeInfo),new
+c:locale_game:MESSENGER_BLOCK,Block player,Zablokuj gracza,,client: game texts (localeInfo),new
+c:locale_game:MESSENGER_BLOCKED,Blocked,Zablokowani,,client: game texts (localeInfo),new
+c:locale_game:MINING_SKILL_BONUS,Chance of mining ore +%d%%,Szansa na wydobycie rudy +%d%%,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:MINUTE_SHORT,m,m.,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_99,Special Channel,Kanał Specjalny,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_NOTICE,You are connected to channel %d.,Jesteś połączony z kanałem %d.,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:MOVE_CHANNEL_NOTICE_99,You are connected to the special channel.,Jesteś połączony z kanałem specjalnym.,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_NOT_MOVE,You cannot change the channel.,Nie możesz zmienić kanału.,,client: game texts (localeInfo),new
+c:locale_game:MOVE_CHANNEL_TITLE,Change channel,Zmień kanał,,client: game texts (localeInfo),new
+c:locale_game:NAME_PROFANE_WORDS,The name contains forbidden words.,Nazwa zawiera niedozwolone słowa.,,client: game texts (localeInfo),new
+c:locale_game:ONE_DAY,Day,Dzień,,client: game texts (localeInfo),new
+c:locale_game:OPEN_URL_INFO,Opens a link to a website.,Otwiera odnośnik do strony www.,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ANSWER_TIMEOVER,The invitation was declined.,Zaproszenie zostało odrzucone.,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_ATTACKER,Attacker role:,Rola Atakujący:,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_BERSERK,Berserker role:,Rola Berserkera:,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_BUFFER,Blocker role:,Rola Blokującego:,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_DEFENDER,Defender role:,Rola Obrońcy:,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_SKILL_MASTER,Skill Master role:,Rola Mistrza Um.:,,client: game texts (localeInfo),new
+c:locale_game:PARTY_ROLE_TANKER,Melee Fighter role:,Rola Walczącego w Zwarciu:,,client: game texts (localeInfo),new
+c:locale_game:PKMODE_FREE_WARNING,You risk losing an item!,Ryzykujesz utratą przedmiotu!,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_BOSS,Bosses defeated,Pokonane bossy,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_CHEST,Chests opened,Otwarte skrzynie,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DAMAGE,Highest damage dealt (normal),Największe zadane obrażenia (zwykłe),,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DAMAGE_HORSE,Highest damage dealt (on horseback),Największe zadane obrażenia (konno),,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DAMAGE_SKILL,Highest damage dealt (skill),Największe zadane obrażenia (umiejętność),,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DEATH,Deaths,Ilość śmierci,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DEATH_MOB,Deaths by monsters,Ilość śmierci przez potwory,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DEATH_PLAYER,Deaths by players,Ilość śmierci przez graczy,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DUEL,Duels won,Wygrane pojedynki,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_DUNGEON,Dungeons completed,Ukończone lochy,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_EMPIRE,Players defeated (other kingdoms),Pokonani gracze (przeciwne król.),,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_FISHING,Fish caught,Wyłowione ryby,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_GOLD,Yang earned,Zdobyte Yang,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_GOLD_SELL_SHOP,Yang from selling to NPCs,Suma Yang ze sprzedaży u NPC,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_HERBALISM,Flowers picked,Zebrane kwiaty,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_MINIBOSS,Mini-bosses defeated,Pokonane minibossy,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_MINING,Ores mined,Wykopane rudy,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_MONSTER,Monsters killed,Zabite potwory,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_QUESTBOOK,Mission books completed,Ukończone księgi misji,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_REFINE_FAIL_SMITH,Items burnt at the Blacksmith,Spalone przedmioty u Kowala,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_REFINE_SUCCESS,Successful upgrades,Pomyślne ulepszenia,,client: game texts (localeInfo),new
+c:locale_game:PLAYER_STATS_STONE,Metin Stones destroyed,Zniszczone kamienie Metin,,client: game texts (localeInfo),new
+c:locale_game:POTION_RECHARGE_FIRST_AUTOPOTION,Add an elixir first.,Najpierw dodaj eliksir.,,client: game texts (localeInfo),new
+c:locale_game:POTION_RECHARGE_NO_SLOTS,All potion slots are taken.,Wszystkie miejsca na mikstury zostały zajęte.,,client: game texts (localeInfo),new
+c:locale_game:POTION_RECHARGE_TOOLTIP,"The elixir is empty,|go to the Alchemist.","Eliksir jest pusty,|udaj się do Alchemika.",,client: game texts (localeInfo),new
+c:locale_game:POTION_RECHARGE_WRONG_ITEM,You cannot add this item.,Nie możesz dodać tego przedmiotu.,,client: game texts (localeInfo),new
+c:locale_game:QUICK_BUY_ALL_SIMILAR,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - buy all similar.,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - kup wszystkie podobne.,,client: game texts (localeInfo) | keep: |c...|r colour codes,new
+c:locale_game:REFINE_BONUS_100_CHANCE,100% success chance when upgrading.,100% szans na ulepszenie.,,client: game texts (localeInfo) | keep: % s | shown as written: % is a percent sign here,new
+c:locale_game:REFINE_BONUS_ITEM_ALL,Any,Każdy,,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_ITEM_ARMOR,"Armour, Shield, Helmet","Zbroja, Tarcza, Hełm",,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_ITEM_JEWELRY,Jewellery,Biżuteria,,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_NO_GOLD,No Yang cost.,Brak kosztów Yang.,,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_NO_ITEM,No upgrade items needed.,Brak wymaganych ulepszaczy.,,client: game texts (localeInfo),new
+c:locale_game:REFINE_BONUS_REFINE_LEVEL,Max. upgrade from +%d to +%d.,Max. ulepszenie z +%d na +%d.,,client: game texts (localeInfo) | keep: %d %d,new
+c:locale_game:REFINE_BONUS_USE_LEVEL,Max. item level: %d,Max. poziom przedmiotu: %d,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:REPUTATION_DESERT,Sons of the Desert,Synowie Pustyni,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_ORC_VALLEY,Royal Guard,Królewska Gwardia,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_RANK2,Honoured,Szanowany,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_RANK3,Ally,Sojusznik,,client: game texts (localeInfo),new
+c:locale_game:REPUTATION_SNAKE,Green Fangs,Zielone Kły,,client: game texts (localeInfo),new
+c:locale_game:SAVED_POSITION_MAP_PREVIEW_UNAVAILABLE,Preview unavailable.,Podgląd niedostępny.,,client: game texts (localeInfo),new
+c:locale_game:SAVED_POSITION_TOOLTIP_INFO,Preview of the saved location:,Podgląd zapisanej lokalizacji:,,client: game texts (localeInfo),new
+c:locale_game:SAVE_ACCOUNT_LOAD_SHORTCUT_TOOLTIP,|cfff0b324F%d|r - quick login.,|cfff0b324F%d|r - szybkie logowanie.,,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,new
+c:locale_game:SELECT_CANNOT_DELETE_LEVEL_LIMIT,The character level is too high.,Postać ma za duży poziom.,,client: game texts (localeInfo),new
+c:locale_game:SELECT_CANNOT_DELETE_WRONG_SOCIAL_ID,Invalid character deletion code.,Niepoprawny kod usunięcia postaci.,,client: game texts (localeInfo),new
+c:locale_game:SELECT_CHANGE_FAILURE_SAME_AS_LOGIN,The character name is the same as the account name.,Nazwa postaci jest identyczna jak nazwa konta.,,client: game texts (localeInfo),new
+c:locale_game:SHAMAN_DESCRIPTION,Bonus for using support skills on yourself.,Premia od użycia um. buffujących na samego siebie.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_ATTR_ITEM_INFO,Search for items with at least 1 bonus.,Wyszukaj przedmioty z min. 1 bonusem.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_ARMOR,Armour,Uzbrojenie,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_ARMOR_INFO,Search armour/shields/helmets.,Wyszukaj zbroje/tarcze/hełmy.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_ATTR_ITEM,Item with Bonus,Przedmiot z Bonusem,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_BOOKS,Books,Księgi,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_DRAGON_VOCHER,DC/Premium Vouchers,Kupony SM/Premium,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_FISHING,Fishing,Rybołówstwo,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_HERBALISM,Herbalism,Zielarstwo,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_HORSE,Horse Items,Przedmioty Konne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_JEWELRY,Jewellery,Biżuteria,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_JEWELRY_INFO,Search jewellery and shoes.,Wyszukaj biżuterię i buty.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_MINING,Mining,Górnictwo,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_PASSIVE_SKILLS,Passive Skill Books,Księgi Um. Pasywnych,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_POLYMARBLE,Polymorph Marbles,Marmury Polimorfii,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE,Upgrade Items,Ulepszacze,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT1,Desert I,Pustynia I,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT2,Desert II,Pustynia II,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_END,High level,Wysoki poziom,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_OATH,Sworn,Zaprzysiężone,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_ORC,Valley,Dolina,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_PEARL,Pearls,Perły,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_SPECIAL,Special,Specjalne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_SKILL_SHAMAN_DRAGON,Shaman Dragon,Szaman Smok,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_SKILL_SHAMAN_HEALER,Shaman Healing,Szaman Leczenie,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_SOUL_STONE,Spirit Stones,Kamienie Duszy,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_SPECIAL_ITEMS,Special Items,Przedmioty Specjalne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_WEAPON,Weapons,Bronie,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_CATEGORY_WEAPON_INFO,Search weapons.,Wyszukaj bronie.,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_ASSASSIN_ARCHER,Ninja Archery,Ninja Łuk,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_ASSASSIN_DAGGER,Ninja Blade,Ninja Ostrze,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_SURA_BM,Sura Black Magic,Sura Czarna Magia,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_SURA_WP,Sura Weaponry,Sura Mistrz Broni,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_WARRIOR_BODY,Warrior Body,Wojownik Ciało,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUBCATEGORY_SKILL_WARRIOR_MENTAL,Warrior Mental,Wojownik Umysł,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR1,Armour,Zbroje,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR2,Shields,Tarcze,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_ARMOR3,Helmets,Hełmy,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_AUTOPOTION,Auto Potions,Autopoty,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH,Raw Fish,Ryby Surowe,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_COOK,Grilled Fish,Ryby Pieczone,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_OTHER,Other,Inne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_PRIMARY,Basic Herbs,Podstawowe Zioła,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_SPECIAL,Special Herbs,Specjalne Zioła,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_LEARN,Training,Szkolenie,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_OTHER,Other,Inne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY1,Earrings,Kolczyki,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY2,Necklaces,Naszyjniki,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY3,Bracelets,Bransolety,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_MINING_ORE,Ores,Rudy,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_MINING_SMELT,Smelted,Przetopy,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE1,Defensive Juices,Soki Defensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE2,Defensive Waters,Wody Defensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_DEFENSIVE3,Defensive Dews,Rosy Defensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_NORMAL,Normal Potions,Zwykłe Mikstury,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE1,Offensive Juices,Soki Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE2,Offensive Waters,Wody Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OFFENSIVE3,Offensive Dews,Rosy Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_OTHER,Other Potions,Inne Mikstury,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER1,Boosting Juices,Soki Wzmacniające,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER2,Boosting Waters,Wody Wzmacniające,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_POTION_POWER3,Boosting Dews,Rosy Wzmacniające,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_BATTLE,Combat,Walka,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_LOOTBOX,Chests and Keys,Szkatułki i Klucze,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_OTHER,Other,Inne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_REFINE,Upgrading,Uszlachetnianie,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_SPECIAL_VOUCHER,Vouchers,Kupony,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON1,One-handed,Jednoręczne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON2,Two-handed,Dwuręczne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON3,Daggers,Sztylety,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON4,Bows,Łuki,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON5,Bells,Dzwony,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_WEAPON6,Fans,Wachlarze,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_DEFENSIVE,Defensive Recipes,Receptury Defensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_OFFENSIVE,Offensive Recipes,Receptury Ofensywne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_OTHER,Other Recipes,Receptury Inne,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SEARCH_SUB_CATEOGRY_RECIPE_POWER,Boosting Recipes,Receptury Wzmacniające,,client: game texts (localeInfo),new
+c:locale_game:SHOP_SERACH_SUB_QUEST_BIOLOGIST,Biologist's Research,Badania Biologa,,client: game texts (localeInfo),new
+c:locale_game:SHOP_TAX_INFO1,The shop's total value is reduced by tax. The kingdom's tax is now:,Suma wartości sklepu jest pomniejszona o podatek. Obecnie podatek w królestwie wynosi:,,client: game texts (localeInfo),new
+c:locale_game:SHOP_TAX_INFO2,"Selling every item in the shop, you pay %s in tax.",Sprzedając wszystkie przedmioty w sklepie zapłacisz %s podatku.,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:SKILL_AMBUSH_DESC,Area attack; Stealth can raise its attack power.,"Atak obszarowy, Siła ataku może być zwiększona dzięki umiejętności Krycie Się.",,client: game texts (localeInfo),new
+c:locale_game:SKILL_ARROW_SHOWER_DESC,Shoots several arrows at several enemies.,Miotaj kilka strzał w kilku wrogów.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ASSASSIN_BLOODTHIRST,Bloodthirst,Żądza Krwi,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ASSASSIN_BLOODTHIRST_DESC,Activates after an Ambush on a monster. Raises your daggers' attack against monsters.,Aktywuje się po ataku Zasadzką w potwora. Zwiększa siłę ataku ze sztyletów w potwory.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_ATTACK_UP_DESC,Raises physical and magic damage dealt. Can be given to another player. Bonus when used on yourself.,Zwiększa zadawane obrażenia fizyczne i magiczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BASH_DESC,A violent frontal blow into a rectangular area.,Gwałtowne frontalne uderzenie w prostokątny obszar.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BERSERK_DESC,Raises attack and movement speed and raises the damage opponents deal.,Zwiększa szybkość ataku i ruchu oraz zwiększa obrażenia zadawane przez przeciwników.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BLEEDING,Bleeding,Krwawienie,,client: game texts (localeInfo),new
+c:locale_game:SKILL_BLESSING_DESC,Raises resistance to physical attacks. Can be given to another player. Bonus when used on yourself.,Zwiększa odporność na ataki fizyczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CHARGE_DESC,A fast attack with a chance to stun the opponent.,Szybki atak z szansą na omdlenie przeciwnika.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CURE_DESC,Restores HP at once. Chance to remove negative effects. Absorbs damage from monsters. Can be used on another player.,Natychmiast regeneruje Punkty Życia. Szansa na usunięcie negatywnych efektów. Absorpcja obrażeń od potworów. Możliwość użycia na innym graczu.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DARK_ORB_DESC,A long-range attack on an opponent.,Atak długodystansowy w przeciwnika.,,client: game texts (localeInfo),new
+c:locale_game:SKILL_DARK_STRIKE_DESC,A long-range attack on several targets.,"Atak długodystansowy, atakuje wiele celów.",,client: game texts (localeInfo),new
