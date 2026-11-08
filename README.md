@@ -3,9 +3,9 @@
 **English** | [Polski](README_PL.md) | [Türkçe](README_TR.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Italiano](README_IT.md) | [Português](README_PT.md) | [Română](README_RO.md) | [Magyar](README_HU.md) | [Nederlands](README_NL.md) | [Čeština](README_CS.md) | [Dansk](README_DA.md) | [Ελληνικά](README_EL.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [한국어](README_KO.md)
 
 This repository holds the texts of **Metin2 Singleplayer** - the game client,
-the item and monster names, the server's messages, the quests, the bots' chat
-and the Windows launcher - so that players can translate the game into their
-own language. It contains translations only: no game code.
+the item and monster names, the server's messages, the quests, the bots' chat,
+the Windows launcher and the classic web panel - so that players can translate
+the game into their own language. It contains translations only: no game code.
 
 Every pull request is checked automatically, and accepted translations go into
 the game in the following versions.
@@ -33,6 +33,7 @@ can show and edit them (at most 700 rows a file):
 | `4_questy_NN.csv` | the quests' dialogs |
 | `5_boty_czat_NN.csv` | the bots' chat, the monsters' chatter, the server's phrases |
 | `6_launcher_NN.csv` | the Windows launcher |
+| `7_panel_NN.csv` | the classic web panel (the admin panel on port 7788, in the browser) |
 
 Every file has the columns:
 
@@ -107,13 +108,22 @@ You need not translate everything at once - send what you have.
 
    Romanian: the code page has **ş ţ with a cedilla** only, not ș ț with a
    comma. The launcher (`6_launcher_*`) is a Windows program of its own and
-   takes any letter.
+   takes any letter, and so does the web panel (`7_panel_*`), a page in a
+   browser: both are **UTF-8**, any letter of any language.
 4. **The bots' chat** (rows whose notes say "ASCII letters only"): the bots
    type like players, in plain letters a-z with no accents.
 5. **Length.** Where the notes say "max N characters", the game has no room
    for more.
 6. **New lines** only where the English has them or the notes say "new lines
    allowed".
+7. **The web panel** (`7_panel_*`): its texts go into a web page, so keep the
+   English's HTML tags exactly as they are (`<b>`, `</b>`, `<a href="...">`,
+   `<br>`, and the `<number>`-style placeholders in angle brackets) and add no
+   `<`, `>` or `javascript:` of your own. Its variables are `%s`, `%d`,
+   `%(name)s` and `{name}`; a named `%(name)s` may move. A `%` followed by a
+   space (`25% a character`) is a percent sign. A language with at least one
+   translated panel text appears in the panel's language switch; what is not
+   translated shows in English.
 
 ## A new language
 
@@ -137,6 +147,8 @@ the row it found it:
 - an `id` that is not in `template/`, or twice;
 - a changed `english` column;
 - other variables, placeholders, tags or colour codes than the English;
+- in the web panel's sheet, other HTML tags than the English, or a `<`, `>`
+  or `javascript:` of its own;
 - a letter outside the language's code page, a tab, a control character, a
   new line where none is allowed, a text too long.
 

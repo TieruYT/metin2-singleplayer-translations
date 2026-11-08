@@ -20,9 +20,13 @@ file of the same name in template/:
   - no tab or control character, and a new line only where the English has
     one or the notes say "new lines allowed";
   - every letter is in the Windows code page the game draws the language in
-    (the launcher's sheet takes any letter; a text the notes mark "ASCII
-    letters only" uses plain letters alone), and
-    the text is no longer than the notes allow.
+    (the launcher's sheet and the web panel's take any letter: UTF-8; a text
+    the notes mark "ASCII letters only" uses plain letters alone), and
+    the text is no longer than the notes allow;
+  - the web panel's sheet (7_panel) keeps the English's HTML tags exactly,
+    its count of '<' and '>', and brings no javascript: of its own - its
+    texts go into a web page; its variables are Python's (%s, %(name)s, which
+    may move), and a [WORD] there is ordinary text.
 
 Only Python 3's standard library is used. Exit code 1 when an error is found.
 """
@@ -68,36 +72,62 @@ PLACEHOLDER = re.compile(r'\{[^{}\s]*\}')
 TAG = re.compile(r'\[(?!ENTER\])/?[A-Z][A-Z_]{3,}(?:[ ;=][^\]\[]*)?\]')
 CODE = re.compile(r'\|c[0-9a-fA-F]{8}|\|[rhHEe]')
 MAX_LENGTH = re.compile(r'max (\d+) characters')
-PART = re.compile(r'^(?P<sheet>[1-6]_[a-z_]+?)(?:_(?P<part>\d+))?\.csv$')
+PART = re.compile(r'^(?P<sheet>[1-7]_[a-z_]+?)(?:_(?P<part>\d+))?\.csv$')
+HTML_TAG = re.compile(r'</?[A-Za-z][^<>]*>')
+# The sheets shown by a program of their own, which draws any letter (UTF-8),
+# not by the game client and its one code page.
+UTF8_SHEETS = ('6_launcher', '7_panel')
+# The classic web panel's sheet: HTML and Python's %-formatting.
+PANEL_SHEET = '7_panel'
 
 
-def variables(text):
+def variables(text, panel=False):
     """The printf arguments a text takes, by kind and in order. A '%' that is
-    a percent sign in prose ("20% during", "% Erfolg") is not one."""
+    a percent sign in prose ("20% during", "% Erfolg") is not one. The web
+    panel's texts are Python's %-formatting, which has no ' flag and whose
+    space flag nobody writes ("25% a character", Turkish "%'si" are prose),
+    and whose named %(name)s may move (compared as a set)."""
     out = []
     for m in CONVERSION.finditer(text):
         if m.group(5) == '%':
             continue
         after = text[m.end():m.end() + 1]
-        if ' ' in m.group(1) and after.isalpha():
+        if ' ' in m.group(1) and (panel or after.isalpha()):
             continue
-        out.append(KIND[m.group(5)] + (m.group(4) or ''))
+        if panel and "'" in m.group(1):
+            continue
+        name = re.match(r'%\((\w+)\)', m.group(0))
+        out.append((name.group(1) + ':' if name else '') + KIND[m.group(5)] + (m.group(4) or ''))
+    if panel and any(':' in c for c in out):
+        out.sort()
     return out
+
+
+def html_problem(english, text):
+    """The web panel's rule: a translation keeps the English's markup."""
+    a, b = sorted(HTML_TAG.findall(english)), sorted(HTML_TAG.findall(text))
+    if a != b:
+        return 'HTML tags %s, the English has %s (keep them exactly)' % (' '.join(b) or 'none', ' '.join(a) or 'none')
+    if (english.count('<'), english.count('>')) != (text.count('<'), text.count('>')):
+        return "a '<' or '>' that the English does not have"
+    if 'javascript:' in text.lower() and 'javascript:' not in english.lower():
+        return 'a javascript: address'
+    return None
 
 
 def codes(text):
     return sorted(c[:2].lower() if c.startswith('|c') else c for c in CODE.findall(text))
 
 
-def problem(english, notes, text, codepage):
+def problem(english, notes, text, codepage, panel=False):
     """Why `text` cannot be the translation of `english`, or None."""
     multiline = '\n' in english or 'new lines allowed' in notes
     if not multiline and ('\n' in text or '\r' in text):
         return 'a new line in a one-line text (use [ENTER] only if the English has it)'
-    if '\t' in text:
+    if '\t' in text and '\t' not in english:
         return 'a tab character'
     for c in text:
-        if (ord(c) < 0x20 and c not in '\r\n') or ord(c) == 0x7f:
+        if (ord(c) < 0x20 and c not in '\r\n\t') or ord(c) == 0x7f:
             return 'a control character %r' % c
     if 'ASCII letters only' in notes:
         for c in text:
@@ -112,14 +142,18 @@ def problem(english, notes, text, codepage):
     if m and len(raw) > int(m.group(1)):
         return 'too long: %d characters, at most %s' % (len(raw), m.group(1))
     if 'percent sign here' not in notes:
-        a, b = variables(english), variables(text)
+        a, b = variables(english, panel), variables(text, panel)
         if a != b:
             return 'variables %s, the English has %s (same ones, same order)' % (
                 ' '.join(b) or 'none', ' '.join(a) or 'none')
     for name, find in (('placeholders', PLACEHOLDER.findall), ('tags', TAG.findall), ('colour/link codes', codes)):
+        if panel and name == 'tags':
+            continue   # the quest window's markup; the web panel shows a [WORD] as it is
         a, b = sorted(find(english)), sorted(find(text))
         if a != b:
             return '%s %s, the English has %s' % (name, ' '.join(b) or 'none', ' '.join(a) or 'none')
+    if panel:
+        return html_problem(english, text)
     return None
 
 
@@ -210,8 +244,10 @@ def validate_language(code, template, report, base=None):
             report.error(rel, 1, 'not a file of template/ (keep the template\'s file names)')
             continue
         table = template[m.group('sheet')]
-        # The launcher is a Windows program of its own and shows any letter.
-        sheet_codepage = 'utf-8' if m.group('sheet') == '6_launcher' else codepage
+        # The launcher is a Windows program of its own and the web panel a
+        # page in a browser: both show any letter.
+        sheet_codepage = 'utf-8' if m.group('sheet') in UTF8_SHEETS else codepage
+        panel = m.group('sheet') == PANEL_SHEET
         data = read_file(path)
         header, rows, delimiter = read_csv(data, rel)
         if header != COLUMNS:
@@ -253,7 +289,7 @@ def validate_language(code, template, report, base=None):
             if not text.strip():
                 continue
             stats[1] += 1
-            why = problem(t_english, t_notes, text, sheet_codepage)
+            why = problem(t_english, t_notes, text, sheet_codepage, panel)
             if why:
                 if base and before.get(rid) == text:
                     report.old += 1

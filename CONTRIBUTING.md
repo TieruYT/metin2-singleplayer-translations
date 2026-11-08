@@ -11,7 +11,9 @@ In short:
 2. Never change `id` or `english`, and keep every variable and code of the
    English (`%s` `%d` `{0}` `[ENTER]` `|c...|r` `|H...|h` `|E...|e`).
 3. Use only the letters of your language's code page (see the README); the
-   bots' chat lines use plain a-z.
+   bots' chat lines use plain a-z. The launcher (`6_launcher_*`) and the web
+   panel (`7_panel_*`) are UTF-8 and take any letter; in the web panel keep
+   the English's HTML tags (`<b>`, `<a href="...">`...) exactly and add none.
 4. A new language: copy `template/` to a folder named with its ISO 639-1 code.
 5. One pull request per language is easiest to review. Say in a sentence what
    you translated or corrected.
