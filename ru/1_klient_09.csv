@@ -1,0 +1,476 @@
+id,english,polski,translation,notes,status
+c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",new
+c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",new
+c:skilldesc:94:2,Blessing,Błogosławieństwo,,"client: skill tooltip, skill name (skill 94)",new
+c:skilldesc:94:3,Heaven,Ściana Nieba,,"client: skill tooltip, skill name (M) (skill 94)",new
+c:skilldesc:94:4,Dragon,Błogosławieństwo Smoka,,"client: skill tooltip, skill name (G/P) (skill 94)",new
+c:skilldesc:94:5,Protect your partner or yourself with a protection circle.,Ochraniaj partnera lub siebie samego kręgiem ochronnym.,,"client: skill tooltip, description (skill 94)",new
+c:skilldesc:94:6,Physical Attack Resistance,Odporność na fizyczne obrażenia,,"client: skill tooltip, condition 1 (skill 94)",new
+c:skilldesc:94:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 94)",new
+c:skilldesc:94:17,Physical Attack Resistance %.1f%% ,Odporność Na Ataki Fizyczne %.1f%%,,"client: skill tooltip, effect line 1 (skill 94) | keep: %.1f | max 64 characters",new
+c:skilldesc:95:2,Reflect,Odbicie,,"client: skill tooltip, skill name (skill 95)",new
+c:skilldesc:95:3,Reflecting Water,Odbijająca Woda,,"client: skill tooltip, skill name (M) (skill 95)",new
+c:skilldesc:95:4,Crystal Mirror ,Krystaliczne Lustro,,"client: skill tooltip, skill name (G/P) (skill 95)",new
+c:skilldesc:95:5,Protect your partner or yourself with a reflecting circle.,Ochraniaj partnera lub siebie samego odbijającym kręgiem.,,"client: skill tooltip, description (skill 95)",new
+c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,,"client: skill tooltip, condition 1 (skill 95)",new
+c:skilldesc:95:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 95)",new
+c:skilldesc:95:17,Reflected Physical Attack Damage: %.1f%% ,Odbicie Ataku Fizycznego: %.1f%%,,"client: skill tooltip, effect line 1 (skill 95) | keep: %.1f | max 64 characters",new
+c:skilldesc:96:2,Dragon's Strength,Pomoc Smoka,,"client: skill tooltip, skill name (skill 96)",new
+c:skilldesc:96:3,Dragon's Support,Wsparcie Smoka,,"client: skill tooltip, skill name (M) (skill 96)",new
+c:skilldesc:96:4,Dragon Power,Siła Smoka,,"client: skill tooltip, skill name (G/P) (skill 96)",new
+c:skilldesc:96:5,Strengthens you or your partner's attack.,Zwiększ Twój atak lub kogoś z grupy.,,"client: skill tooltip, description (skill 96)",new
+c:skilldesc:96:6,Increases chance of a critical hit,Zwiększa szansę na krytyczne uderzenie,,"client: skill tooltip, condition 1 (skill 96)",new
+c:skilldesc:96:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 96)",new
+c:skilldesc:96:17,Chance of critical hit %.1f%% ,Szansa na cios krytyczny: +%.1f%% ,,"client: skill tooltip, effect line 1 (skill 96) | keep: %.1f | max 64 characters",new
+c:skilldesc:106:2,Lightning Throw ,Rzut Piorunem,,"client: skill tooltip, skill name (skill 106)",new
+c:skilldesc:106:3,Lightning Toss,Piorun Kulisty,,"client: skill tooltip, skill name (M) (skill 106)",new
+c:skilldesc:106:4,Thunder Hurl,Śmiertelny Piorun,,"client: skill tooltip, skill name (G/P) (skill 106)",new
+c:skilldesc:106:5,Attack with Thunderbolts.,Miotaj pioruny.,,"client: skill tooltip, description (skill 106)",new
+c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,,"client: skill tooltip, condition 1 (skill 106)",new
+c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,,"client: skill tooltip, condition 2 (skill 106)",new
+c:skilldesc:106:8,Lightning Attribute,Atrybut Piorunu,,"client: skill tooltip, condition 3 (skill 106)",new
+c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:107:2,Summon Lightning,Przywołanie błyskawicy,,"client: skill tooltip, skill name (skill 107)",new
+c:skilldesc:107:3,Lightning Launch,Wystrzał błyskawicy,,"client: skill tooltip, skill name (M) (skill 107)",new
+c:skilldesc:107:4,Thunder Bolt,Grzmot,,"client: skill tooltip, skill name (G/P) (skill 107)",new
+c:skilldesc:107:5,Summon Thunderbolts from the sky.,Przywołuje błyskawice z nieba,,"client: skill tooltip, description (skill 107)",new
+c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,,"client: skill tooltip, condition 1 (skill 107)",new
+c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,,"client: skill tooltip, condition 2 (skill 107)",new
+c:skilldesc:107:8,Lightning Attribute|Fainting Effect,Atrybut Błyskawicy|Efekt Omdlenia,,"client: skill tooltip, condition 3 (skill 107)",new
+c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",new
+c:skilldesc:108:2,Lightning Claw ,Burzowy Szpon,,"client: skill tooltip, skill name (skill 108)",new
+c:skilldesc:108:3,Lightning Punch,Piorunowy Cios,,"client: skill tooltip, skill name (M) (skill 108)",new
+c:skilldesc:108:4,Thunder Punch ,Pięść Grzmotu,,"client: skill tooltip, skill name (G/P) (skill 108)",new
+c:skilldesc:108:5,Summon a Thunderbolt to your fist. ,Wykonaj Piorunową Pięść.,,"client: skill tooltip, description (skill 108)",new
+c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,,"client: skill tooltip, condition 1 (skill 108)",new
+c:skilldesc:108:7,Lightning Attribute,Atrybut Błyskawicy,,"client: skill tooltip, condition 2 (skill 108)",new
+c:skilldesc:108:8,Chain Reaction Attack,Atak łańcuchowy,,"client: skill tooltip, condition 3 (skill 108)",new
+c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:109:2,Cure,Leczenie,,"client: skill tooltip, skill name (skill 109)",new
+c:skilldesc:109:3,Heal,Uzdrowienie,,"client: skill tooltip, skill name (M) (skill 109)",new
+c:skilldesc:109:4,Aid of Light,Pomoc Światła,,"client: skill tooltip, skill name (G/P) (skill 109)",new
+c:skilldesc:109:5,Heal wounds with the aid of light.,Leczy urazy za pomocą światła,,"client: skill tooltip, description (skill 109)",new
+c:skilldesc:109:6,Restores HP,Regeneruje PŻ,,"client: skill tooltip, condition 1 (skill 109)",new
+c:skilldesc:109:7,Cures Negative Effects,Leczy negatywne efekty,,"client: skill tooltip, condition 2 (skill 109)",new
+c:skilldesc:109:8,Usable on a party member|Activates Heavenly Shield,Możliwość użycia na członku grupy|Aktywuje Niebiańską Tarcze,,"client: skill tooltip, condition 3 (skill 109)",new
+c:skilldesc:109:17,Restore HP %.0f-%.0f,Przywraca PŻ %.0f,,"client: skill tooltip, effect line 1 (skill 109) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:109:20,Cures Negative Effects Chance %.0f%%,Szansa na usunięcie negat. efektów %.0f%%,,"client: skill tooltip, effect line 2 (skill 109) | keep: %.0f | max 64 characters",new
+c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",new
+c:skilldesc:110:2,Swiftness,Zwinność ,,"client: skill tooltip, skill name (skill 110)",new
+c:skilldesc:110:3,Quickness,Szybkość ,,"client: skill tooltip, skill name (M) (skill 110)",new
+c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,,"client: skill tooltip, skill name (G/P) (skill 110)",new
+c:skilldesc:110:5,Run as fast as the Wind.,Biegnij szybko jak wiatr ,,"client: skill tooltip, description (skill 110)",new
+c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,,"client: skill tooltip, condition 1 (skill 110)",new
+c:skilldesc:110:7,Reduce Casting Speed,Zmniejsza się Czas Ładowania Umiejętności,,"client: skill tooltip, condition 2 (skill 110)",new
+c:skilldesc:110:8,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 3 (skill 110)",new
+c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",new
+c:skilldesc:110:20,Casting Speed +%.0f%%,Czas Ładowania -%.0f%% ,,"client: skill tooltip, effect line 2 (skill 110) | keep: %.0f | max 64 characters",new
+c:skilldesc:111:2,Attack Up,Zwiększenie Ataku,,"client: skill tooltip, skill name (skill 111)",new
+c:skilldesc:111:3,Support Attack,Podwyższenie Ataku,,"client: skill tooltip, skill name (M) (skill 111)",new
+c:skilldesc:111:4,Strengthened Attack,Wzmocnienie Ataku,,"client: skill tooltip, skill name (G/P) (skill 111)",new
+c:skilldesc:111:5,Strengthen a partner.,Wzmacnia siłę partnera,,"client: skill tooltip, description (skill 111)",new
+c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,,"client: skill tooltip, condition 1 (skill 111)",new
+c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,,"client: skill tooltip, condition 2 (skill 111)",new
+c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,,"client: skill tooltip, condition 3 (skill 111)",new
+c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",new
+c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",new
+c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",new
+c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",new
+c:skilldesc:121:2,Leadership,Dowodzenie,,"client: skill tooltip, skill name (skill 121)",new
+c:skilldesc:121:5,Ability to lead partners.,Umiejętność dowodzenia członkami grupy.,,"client: skill tooltip, description (skill 121)",new
+c:skilldesc:122:2,Combo,Kombinacja,,"client: skill tooltip, skill name (skill 122)",new
+c:skilldesc:122:5,Increase Combo attack.,Ulepsza atak Kombo,,"client: skill tooltip, description (skill 122)",new
+c:skilldesc:123:2,Fishing,Łowienie,,"client: skill tooltip, skill name (skill 123)",new
+c:skilldesc:123:5,Fishing knowledge.,Wiedza o łowieniu ryb.,,"client: skill tooltip, description (skill 123)",new
+c:skilldesc:124:2,Gathering,Zbieractwo,,"client: skill tooltip, skill name (skill 124)",new
+c:skilldesc:124:5,Ability to retrieve natural resources.,Umiejętność w pozyskiwaniu zasobów z natury.,,"client: skill tooltip, description (skill 124)",new
+c:skilldesc:125:2,Item Creation,Tworzenie Przedmiotu,,"client: skill tooltip, skill name (skill 125)",new
+c:skilldesc:125:5,Create an item.,Stwórz przedmiot,,"client: skill tooltip, description (skill 125)",new
+c:skilldesc:126:2,Shinsoo Language,Język Shinsoo,,"client: skill tooltip, skill name (skill 126)",new
+c:skilldesc:126:5,You can understand the Shinsoo language.,Rozumiesz język Shinsoo.,,"client: skill tooltip, description (skill 126)",new
+c:skilldesc:127:2,Chunjo Language,Język Chunjo,,"client: skill tooltip, skill name (skill 127)",new
+c:skilldesc:127:5,You can understand the Chunjo language.,Rozumiesz język Chunjo.,,"client: skill tooltip, description (skill 127)",new
+c:skilldesc:128:2,Jinno Language,Język Jinno,,"client: skill tooltip, skill name (skill 128)",new
+c:skilldesc:128:5,You can understand the Jinno language.,Rozumiesz język Jinno.,,"client: skill tooltip, description (skill 128)",new
+c:skilldesc:129:2,Polymorph,Polimorfia,,"client: skill tooltip, skill name (skill 129)",new
+c:skilldesc:129:5,Transform into a monster.,Przemiana w potwora,,"client: skill tooltip, description (skill 129)",new
+c:skilldesc:130:2,Horse Riding,Jeździectwo,,"client: skill tooltip, skill name (skill 130)",new
+c:skilldesc:130:5,Ability to ride a horse.,Umiejętność jazdy na koniu,,"client: skill tooltip, description (skill 130)",new
+c:skilldesc:131:2,Call Horse,Przywołaj Konia,,"client: skill tooltip, skill name (skill 131)",new
+c:skilldesc:131:5,Summon a horse.,Zwiększa szansę na przywołanie konia.,,"client: skill tooltip, description (skill 131)",new
+c:skilldesc:132:2,Sprint,Sprint,,"client: skill tooltip, skill name (skill 132)",new
+c:skilldesc:132:5,"In the old days of our world, people ran their prey to death. Uses stamina (yellow bar). Increases movement speed up to 150 points on foot, with no limit while riding.","W dawnych czasach naszego świata, ludzie zabiegiwali zwierzynę na śmierć. Utylizuje punkty staminy (żółty pasek). Zwiększa szybkość ruchu do 150 punktów (pieszo), konno bez ograniczeń.",,"client: skill tooltip, description (skill 132)",new
+c:skilldesc:137:2,Horseback Slash,Cięcie z Siodła,,"client: skill tooltip, skill name (skill 137)",new
+c:skilldesc:137:5,Attack enemies whilst riding a horse. (from lv. 50),Atakuj wrogów podczas jazdy konnno. (od poz.50),,"client: skill tooltip, description (skill 137)",new
+c:skilldesc:137:6,Riding Skill,Umiejętność Jeździecka,,"client: skill tooltip, condition 1 (skill 137)",new
+c:skilldesc:138:2,Horse Stump,Stąpnięcie Konia,,"client: skill tooltip, skill name (skill 138)",new
+c:skilldesc:138:5,Attack all nearby enemies. (from level 52),Zaatakuj wszystkich wrogów w pobliżu. (od p. 52),,"client: skill tooltip, description (skill 138)",new
+c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,,"client: skill tooltip, condition 1 (skill 138)",new
+c:skilldesc:139:2,Power Wave,Fala Mocy,,"client: skill tooltip, skill name (skill 139)",new
+c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",,"client: skill tooltip, description (skill 139)",new
+c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,,"client: skill tooltip, condition 1 (skill 139)",new
+c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",new
+c:skilldesc:140:2,Arrow Storm,Grad Strzał,,"client: skill tooltip, skill name (skill 140)",new
+c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),,"client: skill tooltip, description (skill 140)",new
+c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,,"client: skill tooltip, condition 1 (skill 140)",new
+c:skilldesc:151:2,Dragon Eyes,Smocze Oczy,,"client: skill tooltip, skill name (skill 151)",new
+c:skilldesc:151:5,Increase Maximum Dragon Ghost.,Zwiększa maksimum Ducha Smoka,,"client: skill tooltip, description (skill 151)",new
+c:skilldesc:151:17,Max. Dragon Ghost Increase +%.0f,Maksymalny Duch Smoka +%.0f,,"client: skill tooltip, effect line 1 (skill 151) | keep: %.0f | max 64 characters",new
+c:skilldesc:152:2,Blood of Dragon God,Krew Boga Smoków,,"client: skill tooltip, skill name (skill 152)",new
+c:skilldesc:152:5,Increase Max HP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PŻ.,,"client: skill tooltip, description (skill 152)",new
+c:skilldesc:152:6,Guild War Only,Tylko Wojna gildii,,"client: skill tooltip, condition 1 (skill 152)",new
+c:skilldesc:152:17,Max. HP Increase +%.0f%%,Maks. PŻ +%.0f%%,,"client: skill tooltip, effect line 1 (skill 152) | keep: %.0f | max 64 characters",new
+c:skilldesc:153:2,Benediction of Dragon God,Błogosławieństwo Boga Smoków,,"client: skill tooltip, skill name (skill 153)",new
+c:skilldesc:153:5,Increase Max SP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PE.,,"client: skill tooltip, description (skill 153)",new
+c:skilldesc:153:6,Guild War Only,Tylko wojna gildii,,"client: skill tooltip, condition 1 (skill 153)",new
+c:skilldesc:153:17,Max. SP Increase +%.0f%%,Maks. PE +%.0f%%,,"client: skill tooltip, effect line 1 (skill 153) | keep: %.0f | max 64 characters",new
+c:skilldesc:154:5,Increase defence of all guild members for a period of time.,Zwiększ na pewien czas swoją obronę.,,"client: skill tooltip, description (skill 154)",new
+c:skilldesc:154:6,Guild War Only,Tylko wojna gildii,,"client: skill tooltip, condition 1 (skill 154)",new
+c:skilldesc:154:17,Defence Increase +%.1f%%,Obrona +%.1f%%,,"client: skill tooltip, effect line 1 (skill 154) | keep: %.1f | max 64 characters",new
+c:skilldesc:155:2,Acceleration,Akceleracja,,"client: skill tooltip, skill name (skill 155)",new
+c:skilldesc:155:5,Increase attack and motion speed of all guild members for a period of time.,Zwiększa przez określony czas szybkość ataku i szybkość ruchu,,"client: skill tooltip, description (skill 155)",new
+c:skilldesc:155:6,Guild War Only,Tylko wojna gildii,,"client: skill tooltip, condition 1 (skill 155)",new
+c:skilldesc:155:17,Attack Speed and Motion Increase +%.1f,Szybkość ataku i ruchu zwiększona +%.1f,,"client: skill tooltip, effect line 1 (skill 155) | keep: %.1f | max 64 characters",new
+c:skilldesc:156:2,Rage of Dragon God,Furia Boga Smoków,,"client: skill tooltip, skill name (skill 156)",new
+c:skilldesc:156:5,Increase Critical Hit Chance of all guild members for a period of time.,Zwiększ na pewien czas szanse na zadanie ciosu krytycznego.,,"client: skill tooltip, description (skill 156)",new
+c:skilldesc:156:6,Guild War Only,Tylko wojna gildii,,"client: skill tooltip, condition 1 (skill 156)",new
+c:skilldesc:156:17,Increase Critical Hit Chance +%.0f%%,szansę na cios krytyczny +%.0f%%,,"client: skill tooltip, effect line 1 (skill 156) | keep: %.0f | max 64 characters",new
+c:skilldesc:157:2,Casting Aid,Magiczna Pomoc,,"client: skill tooltip, skill name (skill 157)",new
+c:skilldesc:157:5,Decrease cool down time of all guild members for a period of time.,Zmniejsz na pewien czas czas regeneracji swoich umiejętności.,,"client: skill tooltip, description (skill 157)",new
+c:skilldesc:157:6,Guild War Only,Tylko wojna gildii,,"client: skill tooltip, condition 1 (skill 157)",new
+c:skilldesc:157:17,Casting Speed Increase +%.0f%%,Czas regeneracji -%.0f%%,,"client: skill tooltip, effect line 1 (skill 157) | keep: %.0f | max 64 characters",new
+c:file:rules,"General
+1.1. Metin2 Singleplayer is a free fan project: the server runs on your own computer and the world is populated by bots (Playerbots). The project is not affiliated with Gameforge or Webzen.[ENTER]1.2. Releases and updates of the project are published on GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. You play at your own risk. The project is provided ""as is"", without any warranty.
+Rules
+2.1. On your own server you play as you like. The admin / admin account is the test account of your installation.[ENTER]2.2. If you share the server with friends, you are its administrator and you keep order: fair play, respect for others, no cheating and no spoiling other people's game.[ENTER]2.3. Do not pass the package off as your own and do not make money from it. Since version 2.2.55 the project is licensed under CC BY-NC-ND 4.0 (the LICENSE file in the server folder): you may use it and share the official packages unchanged if you credit the author and do not make money from it; you may not share adaptations or separate distributions. The project is and stays free.
+Supporting the project
+3.1. Development, testing and the test server cost time and money. If you enjoy the project, you can buy the authors a coffee: buycoffee.to/metin2-playerbots.[ENTER]3.2. Support is entirely voluntary and unlocks nothing in the game.
+Community and help
+4.1. The project's Discord: discord.gg/DyCxXdZtnV - report bugs, ideas and questions there; news of new versions appears there too.[ENTER]4.2. When you report a bug, attach the log bundle from the launcher (DIAGNOSTICS, ""Collect logs (ZIP)""). Without it, hardly anything can be fixed.
+Privacy
+5.1. Everything runs locally: the client connects only to 127.0.0.1, and the server opens no ports to the outside.[ENTER]5.2. The game sends your data nowhere. The launcher connects to GitHub only to check whether there is a new version.
+Changes to these rules
+6.1. A new version of the game may bring new content to this window. It will then be shown again at your next login.[ENTER]6.2. Have fun!","Postanowienia ogólne
+1.1. Metin2 Singleplayer to darmowy projekt fanowski: serwer działa na Twoim komputerze, a świat zaludniają boty (Playerbots). Projekt nie jest powiązany z Gameforge ani Webzen.[ENTER]1.2. Wydania i aktualizacje projektu są publikowane na GitHubie: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Korzystasz z gry na własną odpowiedzialność. Projekt jest dostarczany w stanie „jak jest”, bez gwarancji.
+Zasady
+2.1. Na własnym serwerze grasz, jak chcesz. Konto admin / admin jest kontem testowym Twojej instalacji.[ENTER]2.2. Jeżeli udostępniasz serwer znajomym, to Ty jesteś jego administratorem i odpowiadasz za porządek: gra fair, szacunek dla innych, żadnych oszustw ani przeszkadzania w grze.[ENTER]2.3. Nie podawaj paczki jako własnej i nie zarabiaj na niej. Od wersji 2.2.55 projekt jest na licencji CC BY-NC-ND 4.0 (plik LICENSE w folderze serwera): możesz z niego korzystać i udostępniać oficjalne paczki bez zmian, jeśli podasz autora i nie zarabiasz na nim; przeróbek i osobnych dystrybucji udostępniać nie wolno. Projekt jest i pozostaje darmowy.
+Wsparcie projektu
+3.1. Rozwój, testy i serwer testowy kosztują czas i pieniądze. Jeżeli projekt sprawia Ci radość, możesz postawić kawę autorom: buycoffee.to/metin2-playerbots.[ENTER]3.2. Wsparcie jest całkowicie dobrowolne i niczego nie odblokowuje w grze.
+Społeczność i pomoc
+4.1. Discord projektu: discord.gg/DyCxXdZtnV — tam zgłaszaj błędy, pomysły i pytania, tam też pojawiają się informacje o nowych wersjach.[ENTER]4.2. Zgłaszając błąd, dołącz paczkę logów z launchera (przycisk „ZBIERZ LOGI”). Bez niej trudno cokolwiek naprawić.
+Prywatność
+5.1. Wszystko działa lokalnie: klient łączy się wyłącznie z 127.0.0.1, serwer nie otwiera żadnych portów na zewnątrz.[ENTER]5.2. Gra nie wysyła nigdzie Twoich danych. Launcher łączy się z GitHubem tylko po to, żeby sprawdzić, czy jest nowa wersja.
+Zmiany regulaminu
+6.1. Nowa wersja gry może przynieść nową treść tego okna. Pokaże się ono ponownie przy najbliższym logowaniu.[ENTER]6.2. Miłej gry!",,client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:jobdesc_warrior,"[DELAY value;0]
+By virtue of their heavy[ENTER]
+armour, weapons and skills,[ENTER]
+Warriors play a crucial role[ENTER]
+in close combat situations.[ENTER]
+Their two aims in life are[ENTER]
+[WAIT]
+for raw physical strength[ENTER]
+combined with a balanced and[ENTER]
+serene psyche. Depending on[ENTER]
+their chosen specialisation,[ENTER]
+Warriors can deal out[ENTER]
+[WAIT]
+devastating amounts of[ENTER]
+damage with two-handed[ENTER]
+weapons, or skilfully[ENTER]
+combine shield and sword to[ENTER]
+neutralise the attacks of[ENTER]
+[WAIT]
+multiple enemies.","[DELAY value;0]
+Dzięki swoim umiejętnościom[ENTER]
+oraz możliwości noszenia[ENTER]
+ciężkich zbroi Wojownicy[ENTER]
+odgrywają ważną rolę w[ENTER]
+walkach w zwarciu. Jedyne[ENTER]
+czego pragną, to bardzo[ENTER]
+silne ciało i zbalansowany[ENTER]
+umysł. Zgodnie z ich[ENTER]
+zwyczajami i specjalizacją[ENTER]
+mogą albo zadawać ogromne[ENTER]
+obrażenia dzięki oburęcznym[ENTER]
+broniom albo parować ataki[ENTER]
+wroga mieczem i tarczą.",,client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:jobdesc_assassin,"[DELAY value;0]
+Ninjas are professional[ENTER]
+killers, capable of carrying[ENTER]
+out silent and deadly[ENTER]
+attacks from their ambush.[ENTER]
+To maximise their speed and[ENTER]
+[WAIT]
+agility, these shadowy[ENTER]
+assassins of the night wear[ENTER]
+only the lightest armour, so[ENTER]
+as not to hinder their fleet[ENTER]
+and fluid movements.[ENTER]
+[WAIT]
+Depending on their[ENTER]
+particular areas of[ENTER]
+expertise, Ninjas can use[ENTER]
+their mastery of the dagger[ENTER]
+in close quarters, or wield[ENTER]
+[WAIT]
+a bow and arrow from[ENTER]
+distance.","[DELAY value;0]
+Ninja są profesjonalnymi[ENTER]
+zabójcami, którzy są w[ENTER]
+stanie zaatakować swojego[ENTER]
+przeciwnika z zaskoczenia.[ENTER]
+Aby zapewnić sobie[ENTER]
+odpowiednią zwinność i[ENTER]
+szybkość, prawdziwi Ninja[ENTER]
+noszą tylko lekkie pancerze[ENTER]
+ochronne. Zgodnie z ich[ENTER]
+profesją Ninja są albo[ENTER]
+mistrzami sztyletów albo[ENTER]
+doskonale atakują z dystansu[ENTER]
+za pomocą Łuku.",,client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:jobdesc_sura,"[DELAY value;0]
+Suras are fighters who were[ENTER]
+blessed with magical powers[ENTER]
+when they agreed to allow[ENTER]
+the Seed of Evil to grow in[ENTER]
+their arms. The magic under[ENTER]
+[WAIT]
+their control allows them to[ENTER]
+inflict damage on their[ENTER]
+enemies from afar, and they[ENTER]
+make competent melee[ENTER]
+fighters thanks to their[ENTER]
+[WAIT]
+excellent swordsmanship.[ENTER]
+Depending on their choice of[ENTER]
+specialisation, Suras can[ENTER]
+improve their attack spells[ENTER]
+or develop additional[ENTER]
+[WAIT]
+strengthening spells.","[DELAY value;0]
+Sura to wojownicy, którzy[ENTER]
+otrzymali potężne magiczne[ENTER]
+moce, gdy zgodzili się na[ENTER]
+przyjęcie do ich rąk[ENTER]
+diabelskiego nasiona. Dzięki[ENTER]
+temu są w stanie sprawnie[ENTER]
+posługiwać się mieczem w[ENTER]
+zwarciu albo ranić wroga na[ENTER]
+dystans przy użyciu magii.[ENTER]
+Poprzez specjalizację mogą[ENTER]
+ulepszać swoje zaklęcia[ENTER]
+ofensywne albo otrzymać inne[ENTER]
+moce wspierające.",,client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:jobdesc_shaman,"[DELAY value;0]
+Employing the wisdom achieve[ENTER]
+through long years of[ENTER]
+intense study, the Shamans[ENTER]
+use spells and magic to[ENTER]
+attack their foes. Their[ENTER]
+[WAIT]
+mystical powers are also of[ENTER]
+great effect in supporting[ENTER]
+their allies. Depending on[ENTER]
+their focus, Shamans can[ENTER]
+provide a boost to attacks,[ENTER]
+[WAIT]
+or instead choose to enhance[ENTER]
+individual healing and[ENTER]
+support spells.","[DELAY value;0]
+Szamani są bardzo mądrzy i[ENTER]
+używają potężnych zaklęć[ENTER]
+oraz magii. Podczas bitwy i[ENTER]
+w trakcie wspierania swoich[ENTER]
+przyjaciół ich mistyczne[ENTER]
+zaklęcia są bardzo pomocne.[ENTER]
+Poprzez specjalizację[ENTER]
+Szamani mogą albo zwiększać[ENTER]
+swoją siłę ofensywną, albo[ENTER]
+ulepszać swoje umiejętności[ENTER]
+leczące i zaklęcia[ENTER]
+wspierające.",,client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:empiredesc_a,"[DELAY value;10]
+Shinsoo Kingdom[ENTER]
+[ENTER]
+The Shinsoo kingdom is located in the[ENTER]
+southern part of the continent. The[ENTER]
+main activity of[ENTER]
+[WAIT]
+the population is[ENTER]
+trade. Opened[ENTER]
+after the disintegration of the[ENTER]
+former empire by Yoon-Yoing,[ENTER]
+trade with[ENTER]
+[WAIT]
+the east quickly became[ENTER]
+a profitable arrangement.[ENTER]
+Shinsoo has conflicts[ENTER]
+with the western kingdom[ENTER]
+and the trade road[ENTER]
+[WAIT]
+can be dangerous.[ENTER]
+When they recognized[ENTER]
+the threat posed by[ENTER]
+the Metin Stones, the[ENTER]
+merchants armed themselves. Their [ENTER]
+[WAIT]
+aim is to defend themselves[ENTER]
+against western attacks,[ENTER]
+reopen the trade road [ENTER]
+and reunite the former[ENTER]
+empire under their[ENTER]
+[WAIT]
+Emperor.","[DELAY value;0]
+Królestwo Shinsoo[ENTER]
+[ENTER]
+Królestwo Shinsoo znajduje[ENTER]
+się na południu kontynentu.[ENTER]
+Mieszkańcy są w większości[ENTER]
+zajęci handlem. Stworzone[ENTER]
+przez Yoon-Yoing po tym, jak[ENTER]
+imperium upadło, stosunki[ENTER]
+handlowe ze wschodem[ENTER]
+doprowadziły szybko do[ENTER]
+ożywienia.[ENTER]
+Mieszkańcy walczą non stop z[ENTER]
+zachodem i ta trasa handlowa[ENTER]
+jest całkowicie odcięta.[ENTER]
+Będąc świadomi, że kamienie[ENTER]
+[WAIT]
+Metin są zagrożeniem dla ich[ENTER]
+podstaw życia, handlarze[ENTER]
+uzbroili się. Ich celem jest[ENTER]
+być w stanie przetrzymać[ENTER]
+ataki z zachodu, aby[ENTER]
+otworzyć ponownie wszystkie[ENTER]
+trasy handlowe i aby[ENTER]
+zjednoczyć cały kontynent[ENTER]
+pod ich dowództwem.",,client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:empiredesc_b,"[DELAY value;10]
+Chunjo Kingdom[ENTER]
+[ENTER]
+The Chunjo Kingdom is[ENTER]
+located in the western part of[ENTER]
+the continent. It is a theocratic[ENTER]
+[WAIT]
+kingdom and is controlled[ENTER]
+by its spiritual leader. It[ENTER]
+was founded by[ENTER]
+Yoon-Young, a cousin of the[ENTER]
+former emperor. Yoon's[ENTER]
+[WAIT]
+wife possessed vast[ENTER]
+magical powers, and it was she[ENTER]
+helped very soon to see the[ENTER]
+threat caused by[ENTER]
+metin stones. He said[ENTER]
+[WAIT]
+many times that there was something[ENTER]
+what to do but was[ENTER]
+ignored. So it led to[ENTER]
+its people to a rebellion[ENTER]
+against the empire, that the[ENTER]
+[WAIT]
+seasoning was still standing.[ENTER]
+After the Empire[ENTER]
+succumbed, his kingdom entered[ENTER]
+at war with the regions[ENTER]
+east and had problems[ENTER]
+[WAIT]
+with the south. The people of[ENTER]
+kingdom of Chunjo wanted[ENTER]
+reign over all[ENTER]
+continent to have[ENTER]
+control of growing power[ENTER]
+[WAIT]
+of the Metin Stones.","[DELAY value;0]
+Królestwo Chunjo[ENTER]
+[ENTER]
+Królestwo Chunjo jest[ENTER]
+położone na wschodzie[ENTER]
+kontynentu. Jest to[ENTER]
+królestwo teokratyczne i[ENTER]
+jest prowadzone przez[ENTER]
+duchowych Przywódców.[ENTER]
+Królestwo było stworzone[ENTER]
+przez Yoon-Young, który jest[ENTER]
+kuzynem poprzedniego[ENTER]
+Imperatora. Jego żona,[ENTER]
+posiadająca potężne magiczne[ENTER]
+umiejętności, pomogła mu[ENTER]
+bardzo wcześnie dostrzec[ENTER]
+[WAIT]
+masywne zagrożenie[ENTER]
+spowodowane przez Kamienie[ENTER]
+Metin.[ENTER]
+Powiedział wiele razy, że[ENTER]
+coś trzeba zrobić, ale[ENTER]
+został zignorowany. Więc[ENTER]
+oprowadził swoich ludzi do[ENTER]
+rebelii przeciw istniejącemu[ENTER]
+jeszcze wtedy Imperium.[ENTER]
+Kiedy Imperium rozpadło się,[ENTER]
+jego Królestwo jest do tej[ENTER]
+pory w stanie wojny z[ENTER]
+regionami wschodnimi i ma[ENTER]
+problemy z Południem. Ludzie[ENTER]
+z królestwa Chunjo chcą[ENTER]
+[WAIT]
+zdobyć kontrolę nad całym[ENTER]
+kontynentem dzięki czemu[ENTER]
+będą w stanie pozbyć się[ENTER]
+rosnących mocy Kamieni[ENTER]
+Metin.",,client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:file:empiredesc_c,"[DELAY value;10]
+Jinno Kingdom[ENTER]
+[ENTER]
+The Jinno kingdom is located in[ENTER]
+the eastern part of the[ENTER]
+continent. This kingdom was[ENTER]
+[WAIT]
+ founded on military might and[ENTER]
+the population is aggressive and militant.[ENTER]
+The leader of the Jinno[ENTER]
+kingdom is Ee-Ryoong,[ENTER]
+the son of the last[ENTER]
+[WAIT]
+emperor. He believes that he[ENTER]
+can reunite the former[ENTER]
+empire through war.[ENTER]
+Fears about the implications[ENTER]
+or effects of the Metin Stones[ENTER]
+[WAIT]
+are officially ignored. But[ENTER]
+secretly, Ee-Ryoong is trying[ENTER]
+to find a way to use[ENTER]
+the deadly power of[ENTER]
+the Metin Stones[ENTER]
+[WAIT]
+for military purposes.","[DELAY value;0]
+Królestwo Jinno[ENTER]
+[ENTER]
+Królestwo Jinoo znajduje się[ENTER]
+we wschodnich regionach[ENTER]
+kontynentu. Podstawą[ENTER]
+królestwa jest siła[ENTER]
+militarna. Jego ludzie są[ENTER]
+agresywni i lubiący wojnę.[ENTER]
+Królestwem Jinoo zarządza[ENTER]
+Ee-Ryoong, syn ostatniego[ENTER]
+Imperatora. Czuje się[ENTER]
+wybrany do zjednoczenia[ENTER]
+starego Imperium poprzez[ENTER]
+jego dominację i silną[ENTER]
+Armię.[ENTER]
+[WAIT]
+Boi się,że znaczenie i[ENTER]
+efekty Kamieni Metin są[ENTER]
+oficjalnie ignorowane przez[ENTER]
+Królestwo Jinoo.[ENTER]
+Sekretnie,	Ee-Ryoong próbuje[ENTER]
+wykorzystać destrukcyjne[ENTER]
+moce Kamieni Metin dla[ENTER]
+wojny.",,client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
