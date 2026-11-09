@@ -167,8 +167,8 @@ b:value:bon:e516401ecfec,arrow res,,,a value inside a bot chat line ({bon}) | AS
 b:value:bon:ed112f9e7474,magic res,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:14246a6b0fa4,attack value,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:cd01ee6f456c,defence,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
-b:value:format:d94103efd6b3,{n}% {x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
-b:value:format:43bfa05d6748,+{n}% {x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
+b:value:format:d94103efd6b3,{n}% {x},,{n}% {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:43bfa05d6748,+{n}% {x},,+{n}% {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:value:format:f2f4831b0880,{x} {n} bonuses,,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
 b:value:bon:792c42e1e0ba,critical,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:571dee0920a1,piercing,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
@@ -221,8 +221,8 @@ b:value:event:45ed70dfbac7,Moonlight Treasure Chests drop from monsters,,,a valu
 b:value:event:1fbb9e67d057,Moonlight Treasure Chests drop from Metin stones,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:372e3eba1d79,Moonlight Treasure Chests: drops disabled in settings,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:397f69667067,on Mount Sohan,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
-b:value:format:a08585f8e096,{n}{x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
-b:value:format:bf0f099c6c37,{n}% {x}+,,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
+b:value:format:a08585f8e096,{n}{x},,{n}{x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:bf0f099c6c37,{n}% {x}+,,{n}% {x}+,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:phrase:1f1dd908790c,You have gained %d exp.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
 b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:cb8a369011e5,,Czym jest Bingsu?,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
