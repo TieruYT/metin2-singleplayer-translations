@@ -57,7 +57,10 @@ CODEPAGES = {
     'tl': 'cp1252', 'sw': 'cp1252', 'af': 'cp1252',
     'el': 'cp1253', 'tr': 'cp1254', 'az': 'cp1254', 'he': 'cp1255', 'ar': 'cp1256', 'fa': 'cp1256',
     'lt': 'cp1257', 'lv': 'cp1257', 'et': 'cp1257', 'vi': 'cp1258', 'ko': 'cp949',
+    'en': 'cp1252',
 }
+# A regional variant has a folder of its own (en_US/ next to the British
+# source): it is drawn in the code page of its language.
 
 # printf conversions: %s, %d, %5.1f, %lld, %%...
 CONVERSION = re.compile(r"%(?:\(\w+\))?([-+ #0']*)(\*|\d+)?(?:\.(\*|\d*))?(hh|ll|I64|h|l|L|q|j|z|t)?"
@@ -228,6 +231,8 @@ def load_template(report):
 def validate_language(code, template, report, base=None):
     folder = os.path.join(ROOT, code)
     codepage = CODEPAGES.get(code)
+    if codepage is None and re.match(r'^[a-z]{2,3}_[A-Z]{2}$', code):
+        codepage = CODEPAGES.get(code.split('_')[0])   # en_US: the code page of en
     stats = [0, 0]   # rows, translated
     if codepage is None:
         report.error('%s/' % code, 1, "'%s' is no language code this repository knows: use the ISO 639-1 code "
@@ -312,7 +317,7 @@ def main(argv=None):
         return 1
     codes = args.languages or sorted(
         d for d in os.listdir(ROOT)
-        if os.path.isdir(os.path.join(ROOT, d)) and re.match(r'^[a-z]{2,3}$', d))
+        if os.path.isdir(os.path.join(ROOT, d)) and re.match(r'^[a-z]{2,3}(_[A-Z]{2})?$', d))
     lines = ['| language | rows | translated |', '|---|---:|---:|']
     for code in codes:
         if not os.path.isdir(os.path.join(ROOT, code)):
