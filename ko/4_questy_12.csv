@@ -188,69 +188,69 @@ q:pkg:g:warehouse._70_say,"You should change it for security reasons.[ENTER][ENT
 q:pkg:g:warehouse._80_say,"Well, I'm not forcing anybody. If you don't feel[ENTER]like it come back later. ","No cóż, nikogo przecież nie zmuszam. Jak nie[ENTER]teraz to przyjdź najwyżej później. ","뭐, 억지로 시키진 않아. 내키지 않으면[ENTER]나중에 다시 와. ",quest dialog (the game's quests: warehouse) | keep: [ENTER] = new line,done
 q:pkg:g:warehouse._90_npcChat,Open Storeroom ,Otwórz Magazyn ,창고 열기 ,quest dialog (the game's quests: warehouse),done
 q:pkg:t:beta.collect.already_completed,This bonus has already been granted.,Ten bonus został już przyznany.,이 보너스는 이미 지급됐어.,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.collect.ask,Shall I grant you the bonuses from the Biologist's research?,Czy nadać Ci bonusy z badań biologa?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.collect.chat,BETA: Biologist bonuses,BETA: Bonusy Biologa,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.collect.low_lvl,You need level %d.,Potrzebujesz %d poziom.,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.collect.success,The bonus has been granted and the Biologist's quest completed.,Pomyślnie nadano bonus i ukończono misję biologa.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.ask,Do you want to change the EXP rates?,Czy chcesz zmienić raty doświadczenia?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.chat,BETA: Change EXP rates,BETA: Zmiana rat doświadczenia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.status,Current EXP rates: %d%%,Obecne raty doświadczenia: %d%%,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.custom_exp.status_question_turn_off,Do you want to turn off the EXP rates for your character?,Czy chcesz wyłączyć raty doświadczenia na swojej postaci?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.status_question_turn_on,Do you want to turn on the EXP rates for your character?,Czy chcesz włączyć raty doświadczenia na swojej postaci?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.success,EXP rates set successfully.,Pomyślnie ustawiono raty doświadczenia.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.turn_off,Turn off,Wyłącz,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.already,You have already collected your equipment.,Odebrałeś już EQ.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.ask,Do you want equipment? You can only do this once per character. For which character level do you want to receive equipment?,Czy chcesz EQ? Możesz to zrobić tylko raz na postać. Na który poziom postaci chcesz otrzymać EQ?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.chat,BETA: Collect equipment,BETA: Odbierz EQ,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.low_lvl,Your level must be equal to or higher than the one you chose.,Musisz mieć większy lub równy poziom od wybranego.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.success,Equipment granted.,Nadano EQ.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.ask,Shall I give you Yang?,Czy nadać ci Yang?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.chat,BETA: Give me some Yang,BETA: Daj trochę Yang,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.info,At your current level you will receive %s Yang. You can collect it every 1 day (except in stage 4).,Na obecnym poziomie otrzymasz %s Yang. Możesz je odbierać co 1 dzień (wyjątek etap4).,,quest dialog (the game's quests: beta) | keep: %s,new
-q:pkg:t:beta.gold.success,Yang granted successfully.,Pomyślnie nadano Yang.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.wait,You must wait %s before you can collect it again.,Musisz odczekać %s do następnego odbioru.,,quest dialog (the game's quests: beta) | keep: %s,new
-q:pkg:t:beta.horse_level.ask,Shall I set the level of your steed?,Czy ustawić poziom Twojego rumaka?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.chat,BETA: Give me a horse,BETA: Daj Konia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.1,Level 1 - Beginner's Horse ,1 poziom - Zwykły Koń ,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.2,Level 11 - Armed Horse,11 poziom - Koń Bojowy,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.3,Level 21 - Military Horse,21 poziom - Koń Militarny,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.collect.ask,Shall I grant you the bonuses from the Biologist's research?,Czy nadać Ci bonusy z badań biologa?,생물학자 연구 보너스를 줄까?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.collect.chat,BETA: Biologist bonuses,BETA: Bonusy Biologa,베타: 생물학자 보너스,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.collect.low_lvl,You need level %d.,Potrzebujesz %d poziom.,%d레벨이 필요해.,quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.collect.success,The bonus has been granted and the Biologist's quest completed.,Pomyślnie nadano bonus i ukończono misję biologa.,보너스가 지급되었고 생물학자 퀘스트가 완료됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.ask,Do you want to change the EXP rates?,Czy chcesz zmienić raty doświadczenia?,경험치 배율을 바꿀래?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.chat,BETA: Change EXP rates,BETA: Zmiana rat doświadczenia,베타: 경험치 배율 변경,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.status,Current EXP rates: %d%%,Obecne raty doświadczenia: %d%%,현재 경험치 배율: %d%%,quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.custom_exp.status_question_turn_off,Do you want to turn off the EXP rates for your character?,Czy chcesz wyłączyć raty doświadczenia na swojej postaci?,네 캐릭터의 경험치 배율을 끌래?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.status_question_turn_on,Do you want to turn on the EXP rates for your character?,Czy chcesz włączyć raty doświadczenia na swojej postaci?,네 캐릭터의 경험치 배율을 켤래?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.success,EXP rates set successfully.,Pomyślnie ustawiono raty doświadczenia.,경험치 배율이 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.turn_off,Turn off,Wyłącz,끄기,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.already,You have already collected your equipment.,Odebrałeś już EQ.,이미 장비를 받았어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.ask,Do you want equipment? You can only do this once per character. For which character level do you want to receive equipment?,Czy chcesz EQ? Możesz to zrobić tylko raz na postać. Na który poziom postaci chcesz otrzymać EQ?,장비가 필요해? 캐릭터당 한 번만 받을 수 있어. 몇 레벨용 장비를 받을래?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.chat,BETA: Collect equipment,BETA: Odbierz EQ,베타: 장비 받기,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.low_lvl,Your level must be equal to or higher than the one you chose.,Musisz mieć większy lub równy poziom od wybranego.,레벨이 선택한 레벨 이상이어야 해.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.success,Equipment granted.,Nadano EQ.,장비를 지급했어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.ask,Shall I give you Yang?,Czy nadać ci Yang?,냥을 줄까?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.chat,BETA: Give me some Yang,BETA: Daj trochę Yang,베타: 냥 좀 줘,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.info,At your current level you will receive %s Yang. You can collect it every 1 day (except in stage 4).,Na obecnym poziomie otrzymasz %s Yang. Możesz je odbierać co 1 dzień (wyjątek etap4).,현재 레벨에서는 %s냥을 받게 돼. 하루에 한 번 받을 수 있어(4단계 제외).,quest dialog (the game's quests: beta) | keep: %s,done
+q:pkg:t:beta.gold.success,Yang granted successfully.,Pomyślnie nadano Yang.,냥을 지급했어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.wait,You must wait %s before you can collect it again.,Musisz odczekać %s do następnego odbioru.,다시 받으려면 %s 기다려야 해.,quest dialog (the game's quests: beta) | keep: %s,done
+q:pkg:t:beta.horse_level.ask,Shall I set the level of your steed?,Czy ustawić poziom Twojego rumaka?,네 말의 레벨을 설정해 줄까?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.chat,BETA: Give me a horse,BETA: Daj Konia,베타: 말 줘,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.1,Level 1 - Beginner's Horse ,1 poziom - Zwykły Koń ,1레벨 - 초보자용 말 ,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.2,Level 11 - Armed Horse,11 poziom - Koń Bojowy,11레벨 - 무장한 말,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.3,Level 21 - Military Horse,21 poziom - Koń Militarny,21레벨 - 군마,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.horse_level.options.4,Cancel,Anuluj,취소,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.horse_level.success,Your horse's level has been set.,Poziom konia został ustawiony.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.info,Thank you for taking part in the tests. Please send your reports through support after logging in to the website.,Dziękujemy za udział w testach. Bardzo prosimy zgłaszać przez support po zalogowaniu na stronę.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.info2,"You will find the Test NPC in every M1, in the middle of town.",NPC Testowego znajdziesz w każdym M1 w środku miasta.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.letter,Test Server,Serwer Testowy,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.notice,Welcome to the Metin2 SinglePlayer test server!,Witaj na serwerze testowym Metin2009!,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.itemshop.chat,BETA: Give me a DR Voucher,BETA: Daj Kupon SM,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.itemshop.say,Don't blow it all on nonsense!,Nie przewal na głupoty!,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.ask,Shall I level you up?,Podexpić Cię?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.ask2,Are you sure you want me to level you up to level %d?,Na pewno podexpić Cię do %d poziomu?,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.level_up.chat,BETA: Set character level,BETA: Ustaw poziom postaci,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.fail,I don't level anyone backwards.,Nie podexpiam do tyłu.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.success,Level set successfully.,Pomyślnie ustawiono poziom.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reputation.chat,BETA: Set reputation,BETA: Ustaw reputacje,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reputation.success,The reputation of all factions has been set to the maximum level.,Ustawiono maksymalny poziom reputacji wszystkich frakcji.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.ask,Do you want to reset your skill group? All your skills will be reset and you will be able to choose your skill group again (just like the reset at the Old Lady).,"Czy chcesz zresetować profesję? Wszystkie umiejętności zostaną zresetowane, a Ty będziesz mógł wybrać profesję od nowa (tak jak reset u Staruszki).",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.chat,BETA: Reset skill group,BETA: Reset profesji,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.success,Your skill group has been reset.,Zresetowano profesję.,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.horse_level.success,Your horse's level has been set.,Poziom konia został ustawiony.,말의 레벨이 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.info,Thank you for taking part in the tests. Please send your reports through support after logging in to the website.,Dziękujemy za udział w testach. Bardzo prosimy zgłaszać przez support po zalogowaniu na stronę.,테스트에 참여해 줘서 고마워. 웹사이트에 로그인한 뒤 고객 지원을 통해 보고서를 보내 줘.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.info2,"You will find the Test NPC in every M1, in the middle of town.",NPC Testowego znajdziesz w każdym M1 w środku miasta.,테스트 NPC는 모든 M1의 마을 한가운데에 있어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.letter,Test Server,Serwer Testowy,테스트 서버,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.notice,Welcome to the Metin2 SinglePlayer test server!,Witaj na serwerze testowym Metin2009!,Metin2 SinglePlayer 테스트 서버에 온 걸 환영해!,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.itemshop.chat,BETA: Give me a DR Voucher,BETA: Daj Kupon SM,베타: DR 쿠폰 줘,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.itemshop.say,Don't blow it all on nonsense!,Nie przewal na głupoty!,쓸데없는 데 다 날리지 마!,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.ask,Shall I level you up?,Podexpić Cię?,레벨을 올려 줄까?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.ask2,Are you sure you want me to level you up to level %d?,Na pewno podexpić Cię do %d poziomu?,정말 %d레벨로 올려 줄까?,quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.level_up.chat,BETA: Set character level,BETA: Ustaw poziom postaci,베타: 캐릭터 레벨 설정,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.fail,I don't level anyone backwards.,Nie podexpiam do tyłu.,레벨을 낮춰 주지는 않아.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.success,Level set successfully.,Pomyślnie ustawiono poziom.,레벨이 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reputation.chat,BETA: Set reputation,BETA: Ustaw reputacje,베타: 평판 설정,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reputation.success,The reputation of all factions has been set to the maximum level.,Ustawiono maksymalny poziom reputacji wszystkich frakcji.,모든 세력의 평판이 최고 단계로 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.ask,Do you want to reset your skill group? All your skills will be reset and you will be able to choose your skill group again (just like the reset at the Old Lady).,"Czy chcesz zresetować profesję? Wszystkie umiejętności zostaną zresetowane, a Ty będziesz mógł wybrać profesję od nowa (tak jak reset u Staruszki).",스킬 계열을 초기화할래? 모든 스킬이 초기화되고 스킬 계열을 다시 고를 수 있어(노파에게서 하는 초기화와 같아).,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.chat,BETA: Reset skill group,BETA: Reset profesji,베타: 스킬 계열 초기화,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.success,Your skill group has been reset.,Zresetowano profesję.,스킬 계열이 초기화됐어.,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.shop.base_shop,General,Ogólne,일반,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.shop.chat,BETA: Open shop,BETA: Otwórz sklep,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.shop.chat,BETA: Open shop,BETA: Otwórz sklep,베타: 상점 열기,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.shop.herb_shop,Recipes,Receptury,제조법,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.shop.high_item,Items +9,Itemy +9,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.high_item2,Items +9 and Spirit Stones +4,Itemy +9 i KD+4,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.high_weapon,Weapons lv. 70/75,Bronie 70/75 lvl,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.potion_shop,Dews and Potions,Rosy i Mikstury,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop1,Upgrade materials M1/M2,Ulepszacze M1/M2,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop2,Upgrade materials Valley/Hwang/Desert,Ulepszacze Dolina/Hwang/Pustynia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop3,Upgrade materials Sohan/Hell/Forest/DT,Ulepszacze Sohan/Piekło/Las/DT,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.ask,Do you want me to set all your class skills to G1? They must be between M1 and M10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na G1? Muszą być one na poziomie od M1 do M10, abym zmienił ich poziom.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.chat,BETA: Set skills to G1,BETA: Ustaw skille na G1,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.fail,I found no skill that I could set to G1.,"Nie znalazłem skilla, który mógłbym ustawić na G1.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.success,Your skills have been set to G1.,Pomyślnie ustawiono poziom skilli na G1.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.ask,Do you want me to set all your class skills to P? They must be between M1 and G10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na P? Muszą być one na poziomie od M1 do G10, abym zmienił ich poziom.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.chat,BETA: Set skills to P,BETA: Ustaw skille na P,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.fail,I found no skill that I could set to P.,"Nie znalazłem skilla, który mógłbym ustawić na P.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.success,Your skills have been set to P.,Pomyślnie ustawiono poziom skilli na P.,,quest dialog (the game's quests: beta),new
-q:pkg:t:black_steel_crafting.craft_chat,Black Armour Crafting,Wytwarzanie Czarnego Pancerza,,quest dialog (the game's quests: black_steel_crafting),new
+q:pkg:t:beta.shop.high_item,Items +9,Itemy +9,+9 아이템,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.high_item2,Items +9 and Spirit Stones +4,Itemy +9 i KD+4,+9 아이템 및 +4 영석,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.high_weapon,Weapons lv. 70/75,Bronie 70/75 lvl,무기 Lv. 70/75,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.potion_shop,Dews and Potions,Rosy i Mikstury,이슬과 물약,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop1,Upgrade materials M1/M2,Ulepszacze M1/M2,개량 재료 M1/M2,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop2,Upgrade materials Valley/Hwang/Desert,Ulepszacze Dolina/Hwang/Pustynia,개량 재료 계곡/황사원/사막,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop3,Upgrade materials Sohan/Hell/Forest/DT,Ulepszacze Sohan/Piekło/Las/DT,개량 재료 서한산/지옥/숲/사귀 타워,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.ask,Do you want me to set all your class skills to G1? They must be between M1 and M10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na G1? Muszą być one na poziomie od M1 do M10, abym zmienił ich poziom.",직업 스킬을 전부 G1로 설정해 줄까? 레벨을 바꾸려면 M1에서 M10 사이여야 해.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.chat,BETA: Set skills to G1,BETA: Ustaw skille na G1,베타: 스킬을 G1로 설정,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.fail,I found no skill that I could set to G1.,"Nie znalazłem skilla, który mógłbym ustawić na G1.",G1로 설정할 수 있는 스킬을 찾지 못했어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.success,Your skills have been set to G1.,Pomyślnie ustawiono poziom skilli na G1.,스킬이 G1로 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.ask,Do you want me to set all your class skills to P? They must be between M1 and G10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na P? Muszą być one na poziomie od M1 do G10, abym zmienił ich poziom.",직업 스킬을 전부 P로 설정해 줄까? 레벨을 바꾸려면 M1에서 G10 사이여야 해.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.chat,BETA: Set skills to P,BETA: Ustaw skille na P,베타: 스킬을 P로 설정,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.fail,I found no skill that I could set to P.,"Nie znalazłem skilla, który mógłbym ustawić na P.",P로 설정할 수 있는 스킬을 찾지 못했어.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.success,Your skills have been set to P.,Pomyślnie ustawiono poziom skilli na P.,스킬이 P로 설정됐어.,quest dialog (the game's quests: beta),done
+q:pkg:t:black_steel_crafting.craft_chat,Black Armour Crafting,Wytwarzanie Czarnego Pancerza,흑철 갑옷 제작,quest dialog (the game's quests: black_steel_crafting),done
 q:pkg:t:black_steel_crafting.state_pre_start.chat,A Favour,Przysługa,,quest dialog (the game's quests: black_steel_crafting),new
 q:pkg:t:black_steel_crafting.state_pre_start.talk1,"I am impressed by how far you have come. I have seen many who fell much sooner, but there is something special about you. A potential one does not often see.","Jestem pod wrażeniem, jak daleko zaszedłeś. Widziałam wielu, którzy upadli znacznie wcześniej, ale ty masz w sobie coś wyjątkowego. Potencjał, którego nie widuje się często.",,quest dialog (the game's quests: black_steel_crafting),new
 q:pkg:t:black_steel_crafting.state_pre_start.talk2,"Although your road has been full of challenges, you now stand on the threshold of true power. And I... can help you with that. You see, for a small favour I can offer you something special - armour forged from Black Steel. Armour that will make you all but invincible.","Choć twoja droga była pełna wyzwań, jesteś teraz na granicy prawdziwej potęgi. A ja... mogę ci w tym pomóc. Widzisz, za drobną przysługę mogę zaoferować ci coś wyjątkowego – zbroję wykutą z Czarnej Stali. Pancerz, który uczyni cię niemal niepokonanym.",,quest dialog (the game's quests: black_steel_crafting),new
