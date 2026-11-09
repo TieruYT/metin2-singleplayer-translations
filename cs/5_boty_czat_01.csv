@@ -1,5 +1,5 @@
 id,english,polski,translation,notes,status
-b:live:A_001,+9 {skrot}!!!,weszlo +9 na {skrot}!!!,,"bot's chat line (global, refine9) | keep: {skrot} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:A_001,+9 {skrot}!!!,weszlo +9 na {skrot}!!!,+9 {skrot}!!!,"bot's chat line (global, refine9) | keep: {skrot} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:A_002,got +9 {skrot} xD,{skrot} +9 jest xD,,"bot's chat line (global, refine9) | keep: {skrot} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:A_007,"smith in a good mood, got +8","kowal ma dzisiaj dobry humor, +8 wbite",,"bot's chat line (global, refine8) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:A_008,"+9 {skrot}, jealous yet xd","+9 {skrot}, mozecie zazdroscic xd",,"bot's chat line (global, refine9) | keep: {skrot} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -88,7 +88,7 @@ b:live:J_020,still looking for pt {mapa_gdzie},dalej szukam pt {mapa_gdzie},,"bo
 b:live:J_021,nobody? seriously?,nikt? serio?,,"bot's chat line (global, lfg_retry) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:J_022,no one? going solo then,"ehh nikt, to ide sam",,"bot's chat line (global, lfg_empty) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:J_024,me,ja,,"bot's chat line (global, lfg_reply) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:J_025,+1,+1,,"bot's chat line (global, lfg_reply) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:J_025,+1,+1,+1,"bot's chat line (global, lfg_reply) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:J_026,inv,inv,,"bot's chat line (global, lfg_reply) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:J_031,invite me,zapros mnie,,"bot's chat line (whisper, lfg_private) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:J_033,id like to join,ja chetnie,,"bot's chat line (whisper, lfg_private) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -169,7 +169,7 @@ b:live:C_016,maybe ill get lucky too,moze mi tez sie uda,,"bot's chat line (glob
 b:live:C_017,nice nice,ladnie ladnie,,"bot's chat line (global, reaction_success) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:C_021,oh damn,o kurde,,"bot's chat line (global, reaction_success) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:C_024,congratulations,gratulacje,,"bot's chat line (global, reaction_success) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:C_031,F,F,,"bot's chat line (global, reaction_failure) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:C_031,F,F,F,"bot's chat line (global, reaction_failure) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:C_033,happens to everyone,kazdemu sie zdarza,,"bot's chat line (global, reaction_failure) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:C_035,thats the smith for you,taki ten kowal,,"bot's chat line (global, reaction_failure) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:C_040,that sucks,zal,,"bot's chat line (global, reaction_failure) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -376,7 +376,7 @@ b:live:R_016,"{gracz} I remember you, {ile}:0 for you, I will get you back","{gr
 b:live:R_017,{gracz} you again? xd,{gracz} ty znowu? xd,,"bot's chat line (global, human_pk_repeat) | keep: {gracz} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:U_030,"{score}, rematch?","{score}, rewanz?",,"bot's chat line (local, duel_lost) | keep: {score} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:U_031,"{score}, gg","{score}, gg",,"bot's chat line (local, duel_won) | keep: {score} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:E_060,{score},{score},,"bot's chat line (local, revenge) | keep: {score} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:E_060,{score},{score},{score},"bot's chat line (local, revenge) | keep: {score} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:H_055,will you sell {item}?,sprzedasz {item}?,,"bot's chat line (whisper, trade_interest) | keep: {item} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:A_024,"blacksmith 1 : me 0... wait, it worked xD","kowal 1 : ja 0... a nie czekaj, weszlo xD",,"bot's chat line (global, refine8) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:A_031,shield +9 xD nobody upgrades shields but i do,tarcza +9 xD nikt nie kuje tarcz a ja tak,,"bot's chat line (global, refine9) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -440,7 +440,7 @@ b:live:V_031,jealous,zazdro,,"bot's chat line (global, reaction_success) | ASCII
 b:live:V_033,how many change stones?,ile zmianek poszlo?,,"bot's chat line (global, mix_question) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:V_034,youre lying xd,klamiesz xd,,"bot's chat line (global, reaction_tease) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:V_036,just dont refine at night xd,tylko nie kuj w nocy xd,,"bot's chat line (global, reaction_success) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:V_037,{bon},{bon},,"bot's chat line (global, bonus_answer) | keep: {bon} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:V_037,{bon},{bon},{bon},"bot's chat line (global, bonus_answer) | keep: {bon} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:W_011,opened 50 chests and nothing interesting,otworzylem 50 szkatulek i nic ciekawego,,"bot's chat line (global, moon_potions50) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:W_013,"chest gave me a book for {skill}, anyone need it?","ze szkatulki ku na {skill}, komus potrzebna?",,"bot's chat line (global, moon_book) | keep: {skill} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:W_018,already opened 100 chests...,juz 100 szkatulek otworzonych...,,"bot's chat line (global, moon_open100) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
