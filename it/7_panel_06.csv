@@ -282,100 +282,100 @@ p:bb3588b996d3,line {line}: the count must be a whole number,linia {line}: iloś
 p:f8937cdff26a,"line {line}: the percent must be a number 0..{high}, with a dot","linia {line}: procent musi być liczbą od 0 do {high}, z kropką","riga {line}: la percentuale deve essere un numero 0..{high}, con il punto","panel: module text / panel: drop_tables.py | keep: {high} {line} | the classic web panel (browser, UTF-8: any letter)",done
 p:447112486c13,line {line}: the probability must be a whole number 0..{high},linia {line}: szansa musi być liczbą całkowitą od 0 do {high},riga {line}: la probabilità deve essere un numero intero 0..{high},"panel: module text / panel: drop_tables.py | keep: {high} {line} | the classic web panel (browser, UTF-8: any letter)",done
 p:e67ad579a4df,line {line}: the rare chance must be 0..100,linia {line}: szansa na rzadki musi być od 0 do 100,riga {line}: la probabilità rara deve essere 0..100,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
-p:8943fa96aeac,line {line}: there is no item {item} in item_proto,linia {line}: nie ma przedmiotu {item} w item_proto,,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:58b5e1ce2690,line {line}: {item} is no chest group number,linia {line}: {item} to nie numer grupy skrzyni,,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:60c0a3f60ddb,line {line}: {item} names no chest group of this file,linia {line}: {item} nie wskazuje żadnej grupy skrzyni w tym pliku,,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:cd0e6a0d0446,load: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:cbc91f6aa0f9,lv1–lv5: the bonus's value at each grade.,lv1–lv5: wartość bonusu na kolejnym stopniu.,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:fb7ac949abb0,map %d,mapa %d,,"panel: module text / panel: editsql/modules.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:fb428d1e4c6c,max. %s,maks. %s,,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:a7a17e7c4daa,"median of {n} offers on the market: the same item, plus and number of bonuses","mediana {n} ofert na rynku: ten sam przedmiot, plus i liczba bonusów",,"panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:9831d0bdd8dc,min. maximum bonuses,min. bonusów maksymalnych,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b1d3f9492673,min. value,min. wartość,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5a013c495082,missing,brak,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:9a65519f1ee3,monster it comes back as,potwor po odrodzeniu,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
+p:8943fa96aeac,line {line}: there is no item {item} in item_proto,linia {line}: nie ma przedmiotu {item} w item_proto,riga {line}: in item_proto non c'è l'oggetto {item},"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:58b5e1ce2690,line {line}: {item} is no chest group number,linia {line}: {item} to nie numer grupy skrzyni,riga {line}: {item} non è un numero di gruppo di forziere,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:60c0a3f60ddb,line {line}: {item} names no chest group of this file,linia {line}: {item} nie wskazuje żadnej grupy skrzyni w tym pliku,riga {line}: {item} non indica alcun gruppo di forziere di questo file,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:cd0e6a0d0446,load: ,,caricamento: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:cbc91f6aa0f9,lv1–lv5: the bonus's value at each grade.,lv1–lv5: wartość bonusu na kolejnym stopniu.,lv1–lv5: il valore del bonus a ogni grado.,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:fb7ac949abb0,map %d,mapa %d,mappa %d,"panel: module text / panel: editsql/modules.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:fb428d1e4c6c,max. %s,maks. %s,max. %s,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:a7a17e7c4daa,"median of {n} offers on the market: the same item, plus and number of bonuses","mediana {n} ofert na rynku: ten sam przedmiot, plus i liczba bonusów","mediana di {n} offerte sul mercato: stesso oggetto, plus e numero di bonus","panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:9831d0bdd8dc,min. maximum bonuses,min. bonusów maksymalnych,min. bonus massimi,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:b1d3f9492673,min. value,min. wartość,valore min.,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:5a013c495082,missing,brak,mancante,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:9a65519f1ee3,monster it comes back as,potwor po odrodzeniu,mostro in cui ritorna,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
 p:6ae999552a0d,name,nazwa,nome,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:fd1286353570,no,nie,no,"panel: module text / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
-p:0c801a313d5c,no bits set,brak ustawionych bitów,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:3060a393d6aa,no bonuses,bez bonusów,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1f07f6dd9ed0,no core reads this table - a save will not change the game.,żaden rdzeń nie czyta tej tabeli - zapis nie zmieni gry.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:103944bc7444,no game database is visible,nie widze zadnej bazy gry,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:5f5e7972b215,no item,żaden przedmiot,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1bd268a9a929,no key: there is no telling which row to change,"brak klucza: nie wiem, ktory wiersz zmienic",,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:678ee8c17f69,no materials,bez materiałów,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:4ea26d69d5b2,no name,bez nazwy,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:320ee1b77189,no picture of map %s,brak rysunku mapy %s,,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:c13092528a60,no restart script in this environment - restart the cores by hand,brak skryptu restartu w tym środowisku - zrestartuj rdzenie ręcznie,,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6a2be2bb3e1c,no such item,nie ma przedmiotu,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:028011887765,no such monster,nie ma potwora,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:7ff6005d3fb5,no such recipe in crafting_proto - the game skips it,nie ma takiego przepisu w crafting_proto - gra go pomija,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6caddf394946,not for your character,nie dla Twojej postaci,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:de04fa0e29f9,of,z,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2449d652417b,of ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:0c801a313d5c,no bits set,brak ustawionych bitów,nessun bit impostato,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:3060a393d6aa,no bonuses,bez bonusów,nessun bonus,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1f07f6dd9ed0,no core reads this table - a save will not change the game.,żaden rdzeń nie czyta tej tabeli - zapis nie zmieni gry.,nessun core legge questa tabella - salvare non cambierà il gioco.,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:103944bc7444,no game database is visible,nie widze zadnej bazy gry,nessun database di gioco è visibile,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:5f5e7972b215,no item,żaden przedmiot,nessun oggetto,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1bd268a9a929,no key: there is no telling which row to change,"brak klucza: nie wiem, ktory wiersz zmienic",nessuna chiave: non si può sapere quale riga cambiare,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:678ee8c17f69,no materials,bez materiałów,nessun materiale,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:4ea26d69d5b2,no name,bez nazwy,nessun nome,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
+p:320ee1b77189,no picture of map %s,brak rysunku mapy %s,nessuna immagine della mappa %s,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:c13092528a60,no restart script in this environment - restart the cores by hand,brak skryptu restartu w tym środowisku - zrestartuj rdzenie ręcznie,nessuno script di riavvio in questo ambiente - riavvia i core a mano,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6a2be2bb3e1c,no such item,nie ma przedmiotu,oggetto inesistente,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:028011887765,no such monster,nie ma potwora,mostro inesistente,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:7ff6005d3fb5,no such recipe in crafting_proto - the game skips it,nie ma takiego przepisu w crafting_proto - gra go pomija,ricetta inesistente in crafting_proto - il gioco la salta,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6caddf394946,not for your character,nie dla Twojej postaci,non per il tuo personaggio,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:de04fa0e29f9,of,z,di,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2449d652417b,of ,,di ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:7a85f4764bbd,ok,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f7ad1c9d26ca,ok / all · rate ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:f7ad1c9d26ca,ok / all · rate ,,ok / tutti · tasso ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:db3d405b1067,on,,attivo,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:056ce636f42b,on the channels,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:52d1a5bdb235,only for my character,tylko dla mojej postaci,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bdb795013356,open recipe #%s,otwórz przepis #%s,,"panel: module text / panel: editsql/editor.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:1db1e9d889d0,open stalls,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:579233b2c479,owner,wlasciciel,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d9df9b57549c,package file,plik paczki,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:889c6853a117,player,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:04925aae9da4,players only,tylko gracze,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0fee558eeb6a,plot,dzialka,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bc114e1be50c,plus too low,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:3b82dccc1de9,polymorph item,przedmiot polimorfii,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bfb17db89158,postponed,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:50644481c7cd,present,jest,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2097c33723b6,price,cena,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:102e4d6058f4,price list × bonuses × yang rate × inflation,cennik × bonusy × przelicznik yang × inflacja,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:513c55f13f52,price list × yang rate × inflation × supply,cennik × przelicznik yang × inflacja × podaż,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b42468026343,prompt('The action “'+c.querySelector('b').textContent+'” ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:1088d042d381,put aside,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:80fa8d4ab535,put aside: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:cecb007f4581,quests,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:fdb0f3e31916,queue: %s,kolejka: %s,,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:ff3087095d87,rank %s,ranga %s,,"panel: module text / panel: editsql/labels.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:a7afddb68260,read,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f903771f2380,read only,tylko do odczytu,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:8c427177098d,read: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:d1e0081e5eff,"recipe: %d ingredients at most (the engine skips the rest), there are %d","recipe: najwyżej %d składników (silnik pomija resztę), jest %d",,"panel: module text / panel: editsql/safety.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",new
-p:251ba36cff02,"recipe: a recipe needs at least one ingredient (vnum,count)","recipe: przepis potrzebuje co najmniej jednego składnika (vnum,ilość)",,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:678a95cdd7c7,"recipe: an empty place between commas (e.g. ""50901,,5"") - the db core cannot read such a recipe and will not start","recipe: puste miejsce między przecinkami (np. „50901,,5”) - rdzeń db nie wczyta takiego przepisu i nie wstanie",,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a9743103f8ce,recipe: an ingredient's vnum must be above zero (it is %d),recipe: vnum składnika musi być większy od zera (jest %d),,"panel: module text / panel: editsql/safety.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:f303a2cd31af,recipe: item %d is in the ingredients twice - add the counts together,recipe: przedmiot %d jest w składnikach dwa razy - połącz ilości,,"panel: module text / panel: editsql/safety.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:f686a27fc595,recipe: the count of ingredient %d must be 1 to 2147483647 (it is %d),recipe: ilość składnika %d musi być od 1 do 2147483647 (jest %d),,"panel: module text / panel: editsql/safety.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",new
-p:6c75c946e68e,"recipe: the ingredients are numbers only, separated by commas (vnum,count,...), and there is: %s","recipe: składniki to same liczby rozdzielone przecinkami (vnum,ilość,...), a jest: %s",,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:08e777923553,"recipe: the last ingredient has no count (vnum,count pairs are needed)","recipe: ostatni składnik nie ma ilości (potrzebne pary vnum,ilość)",,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:be79e07caaea,refining recipe,przepis ulepszenia,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bd6d3f54d532,refining result,wynik ulepszenia,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:26b56c1bdfb0,refresh,odśwież,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2a89f5d8edec,removal,usunięcie,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:db99845855b2,remove,usuń,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e8cdc05b346a,row,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:0e2d5fa49e4e,row key,klucz wiersza,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6c30d2615392,rows,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:75ebcb361c65,score,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:272aa98482b4,seller's name,nazwa sprzedawcy,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:852624c4a707,set from the panel,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5042d1466675,shop,sklep,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1f0a8ec124c2,shop NPC,NPC sklepu,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b2ae3fb73d1a,shop closed,sklep zamknięty,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1c4778b9af0b,show all,pokaż wszystkie,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e9d60efe83a6,skills: ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:1d94fb60ee77,special drop,drop specjalny,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:ac5d84bfae72,stage,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:c3ee137d4f22,table,tabela,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:bcf0401e745b,table: %s,tabela: %s,,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:7b6065bb71eb,text outside a group (line {line}),tekst poza grupą (linia {line}),,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:6fc9f460b014,"the change takes effect after a restart of the cores (bin/db reads the data when it starts) - once every change is saved, go to “Apply”.",zmiana zadziała po restarcie rdzeni (dane czyta bin/db przy starcie) - po zapisaniu wszystkich zmian wejdź w „Zastosuj”.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:fb14d576197f,the change takes effect at once.,zmiana działa od razu.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a909af2197bf,"the chest type must be normal, Pct, Quest or special","typ skrzyni musi być zwykły, Pct, Quest albo special",,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:386dcc68c9cc,the chest's number must be a whole number from 1,numer skrzyni musi być liczbą całkowitą od 1,,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:946f40085664,"the client keeps its own copy of this table (pack\gamedata) and shows the change - the item's tooltip, its NPC price, a monster's level - only after a sync: in the launcher OPEN WEB PANEL → “Synchronize item data to the client”, and for a friend or a client on a VPS a package to download.","klient ma własną kopię tej tabeli (pack\gamedata) i pokaże zmianę - opis przedmiotu, cenę u NPC, poziom potwora - dopiero po synchronizacji: w launcherze OTWÓRZ PANEL WWW → „Synchronizuj dane przedmiotów z klientem”, a dla znajomego albo klienta na VPS paczka do pobrania.",,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b397c95e768d,the effect in the game is not confirmed for this table.,efekt w grze nie jest potwierdzony dla tej tabeli.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:53e1b09b35ce,the first line is not '# m2-drop-override {format} {file}',pierwsza linia to nie „# m2-drop-override {format} {file}”,,"panel: module text / panel: drop_tables.py | keep: {file} {format} | the classic web panel (browser, UTF-8: any letter)",new
+p:056ce636f42b,on the channels,,sui canali,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:52d1a5bdb235,only for my character,tylko dla mojej postaci,solo per il mio personaggio,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bdb795013356,open recipe #%s,otwórz przepis #%s,apri ricetta #%s,"panel: module text / panel: editsql/editor.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:1db1e9d889d0,open stalls,,bancarelle aperte,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:579233b2c479,owner,wlasciciel,proprietario,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d9df9b57549c,package file,plik paczki,file del pacchetto,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:889c6853a117,player,,giocatore,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:04925aae9da4,players only,tylko gracze,solo giocatori,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0fee558eeb6a,plot,dzialka,terreno,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bc114e1be50c,plus too low,,plus troppo basso,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:3b82dccc1de9,polymorph item,przedmiot polimorfii,oggetto di trasformazione,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bfb17db89158,postponed,,rinviato,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:50644481c7cd,present,jest,presente,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2097c33723b6,price,cena,prezzo,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:102e4d6058f4,price list × bonuses × yang rate × inflation,cennik × bonusy × przelicznik yang × inflacja,listino × bonus × tasso dello yang × inflazione,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:513c55f13f52,price list × yang rate × inflation × supply,cennik × przelicznik yang × inflacja × podaż,listino × tasso dello yang × inflazione × offerta,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:b42468026343,prompt('The action “'+c.querySelector('b').textContent+'” ,,prompt('L’azione «'+c.querySelector('b').textContent+'» ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:1088d042d381,put aside,,messo da parte,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:80fa8d4ab535,put aside: ,,messo da parte: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:cecb007f4581,quests,,missioni,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:fdb0f3e31916,queue: %s,kolejka: %s,coda: %s,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:ff3087095d87,rank %s,ranga %s,rango %s,"panel: module text / panel: editsql/labels.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:a7afddb68260,read,,letto,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:f903771f2380,read only,tylko do odczytu,sola lettura,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:8c427177098d,read: ,,letto: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:d1e0081e5eff,"recipe: %d ingredients at most (the engine skips the rest), there are %d","recipe: najwyżej %d składników (silnik pomija resztę), jest %d","ricetta: al massimo %d ingredienti (il motore salta il resto), ce ne sono %d","panel: module text / panel: editsql/safety.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",done
+p:251ba36cff02,"recipe: a recipe needs at least one ingredient (vnum,count)","recipe: przepis potrzebuje co najmniej jednego składnika (vnum,ilość)","ricetta: una ricetta richiede almeno un ingrediente (vnum,count)","panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:678a95cdd7c7,"recipe: an empty place between commas (e.g. ""50901,,5"") - the db core cannot read such a recipe and will not start","recipe: puste miejsce między przecinkami (np. „50901,,5”) - rdzeń db nie wczyta takiego przepisu i nie wstanie","ricetta: uno spazio vuoto tra le virgole (es. ""50901,,5"") - il core db non può leggere una ricetta simile e non si avvierà","panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:a9743103f8ce,recipe: an ingredient's vnum must be above zero (it is %d),recipe: vnum składnika musi być większy od zera (jest %d),ricetta: la vnum di un ingrediente deve essere maggiore di zero (è %d),"panel: module text / panel: editsql/safety.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f303a2cd31af,recipe: item %d is in the ingredients twice - add the counts together,recipe: przedmiot %d jest w składnikach dwa razy - połącz ilości,ricetta: l'oggetto %d è due volte negli ingredienti - somma le quantità,"panel: module text / panel: editsql/safety.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f686a27fc595,recipe: the count of ingredient %d must be 1 to 2147483647 (it is %d),recipe: ilość składnika %d musi być od 1 do 2147483647 (jest %d),ricetta: la quantità dell'ingrediente %d deve essere da 1 a 2147483647 (è %d),"panel: module text / panel: editsql/safety.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",done
+p:6c75c946e68e,"recipe: the ingredients are numbers only, separated by commas (vnum,count,...), and there is: %s","recipe: składniki to same liczby rozdzielone przecinkami (vnum,ilość,...), a jest: %s","ricetta: gli ingredienti sono solo numeri separati da virgole (vnum,count,...), e c'è: %s","panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:08e777923553,"recipe: the last ingredient has no count (vnum,count pairs are needed)","recipe: ostatni składnik nie ma ilości (potrzebne pary vnum,ilość)","ricetta: l'ultimo ingrediente non ha quantità (servono coppie vnum,count)","panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:be79e07caaea,refining recipe,przepis ulepszenia,ricetta di raffinamento,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bd6d3f54d532,refining result,wynik ulepszenia,risultato del raffinamento,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:26b56c1bdfb0,refresh,odśwież,aggiorna,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2a89f5d8edec,removal,usunięcie,rimozione,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:db99845855b2,remove,usuń,rimuovi,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e8cdc05b346a,row,,riga,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0e2d5fa49e4e,row key,klucz wiersza,chiave della riga,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6c30d2615392,rows,,righe,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:75ebcb361c65,score,,punteggio,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:272aa98482b4,seller's name,nazwa sprzedawcy,nome del venditore,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:852624c4a707,set from the panel,,impostato dal pannello,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:5042d1466675,shop,sklep,negozio,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1f0a8ec124c2,shop NPC,NPC sklepu,PNG del negozio,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:b2ae3fb73d1a,shop closed,sklep zamknięty,negozio chiuso,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1c4778b9af0b,show all,pokaż wszystkie,mostra tutto,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e9d60efe83a6,skills: ,,abilità: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:1d94fb60ee77,special drop,drop specjalny,drop speciale,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:ac5d84bfae72,stage,,fase,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:c3ee137d4f22,table,tabela,tabella,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:bcf0401e745b,table: %s,tabela: %s,tabella: %s,"panel: module text / panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:7b6065bb71eb,text outside a group (line {line}),tekst poza grupą (linia {line}),testo fuori da un gruppo (riga {line}),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:6fc9f460b014,"the change takes effect after a restart of the cores (bin/db reads the data when it starts) - once every change is saved, go to “Apply”.",zmiana zadziała po restarcie rdzeni (dane czyta bin/db przy starcie) - po zapisaniu wszystkich zmian wejdź w „Zastosuj”.,"la modifica ha effetto dopo un riavvio dei core (bin/db legge i dati all'avvio) - quando tutte le modifiche sono salvate, vai su “Applica”.","panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:fb14d576197f,the change takes effect at once.,zmiana działa od razu.,la modifica ha effetto subito.,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:a909af2197bf,"the chest type must be normal, Pct, Quest or special","typ skrzyni musi być zwykły, Pct, Quest albo special","il tipo di forziere deve essere normal, Pct, Quest o special","panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:386dcc68c9cc,the chest's number must be a whole number from 1,numer skrzyni musi być liczbą całkowitą od 1,il numero del forziere deve essere un numero intero da 1,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:946f40085664,"the client keeps its own copy of this table (pack\gamedata) and shows the change - the item's tooltip, its NPC price, a monster's level - only after a sync: in the launcher OPEN WEB PANEL → “Synchronize item data to the client”, and for a friend or a client on a VPS a package to download.","klient ma własną kopię tej tabeli (pack\gamedata) i pokaże zmianę - opis przedmiotu, cenę u NPC, poziom potwora - dopiero po synchronizacji: w launcherze OTWÓRZ PANEL WWW → „Synchronizuj dane przedmiotów z klientem”, a dla znajomego albo klienta na VPS paczka do pobrania.","il client tiene una propria copia di questa tabella (pack\gamedata) e mostra la modifica - il tooltip dell'oggetto, il prezzo dal PNG, il livello di un mostro - solo dopo una sincronizzazione: nel launcher OPEN WEB PANEL → “Synchronize item data to the client”, e per un amico o un client su un VPS un pacchetto da scaricare.","panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:b397c95e768d,the effect in the game is not confirmed for this table.,efekt w grze nie jest potwierdzony dla tej tabeli.,l'effetto nel gioco non è confermato per questa tabella.,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:53e1b09b35ce,the first line is not '# m2-drop-override {format} {file}',pierwsza linia to nie „# m2-drop-override {format} {file}”,la prima riga non è '# m2-drop-override {format} {file}',"panel: module text / panel: drop_tables.py | keep: {file} {format} | the classic web panel (browser, UTF-8: any letter)",done
 p:fe78b536db25,the game would stop reading the merged file: {why},gra przestałaby czytać połączony plik: {why},,"panel: module text / panel: drop_tables.py | keep: {why} | the classic web panel (browser, UTF-8: any letter)",new
 p:f3256b46c53b,the game's file had this group {n} times; one is written,plik gry miał tę grupę {n} razy; zapisana zostaje jedna,,"panel: module text / panel: drop_tables.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
 p:00098651ab85,"the game's own line {line} names item {item}, which item_proto lacks (the game skips it)","własna linia gry {line} wskazuje przedmiot {item}, którego nie ma w item_proto (gra ją pomija)",,"panel: module text / panel: drop_tables.py | keep: {item} {line} | the classic web panel (browser, UTF-8: any letter)",new
