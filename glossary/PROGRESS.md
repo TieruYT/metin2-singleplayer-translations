@@ -23,6 +23,7 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 | da | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
 | ar | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
 | ko | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
+| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3687/3723 | 2308/2308 | 4414/4414 | 35792/35828 (99.9%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -97,6 +98,30 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
     übersetzt wurde einheitlich Baek-Go.
   - de: „battle bailiff“ im Regeltext des Reichskampfs als „Kampfvogt“
     übersetzt; der bestehende Itemname dafür ist „Gildenkriegsmeister“.
+- Nacharbeit zu 4_questy_04 (auf Wunsch):
+  - „Monkey Dungeon“ in meinen Zeilen auf die Spielnamen vereinheitlicht
+    (de Affendungeon, fr Donjon des Singes, pt Masmorra dos Macacos,
+    ro Temnita Maimutelor, es Mazmorra de Monos, hu majomkazamata,
+    nl Apenkerker, el Μπουντρούμι των Πιθήκων, it Dungeon delle scimmie).
+  - „battle bailiff“ im Regeltext des Reichskampfs in allen 14 Sprachen an den
+    NPC-Namen angeglichen (de Gildenkriegsmeister, ro Administratorul luptelor …).
+  - de Itemtabelle korrigiert: m:name:8502 „Eis-Golem“ → „Wildschwein“,
+    m:name:20086 „Aufgewertete Gegenstände“ → „Handu-Up“; ebenso ro 20086
+    „Obiecte uppgrade“ → „Handu-Up“ (wie fr/pt/tr).
+  - Glossar: doppelte Zeile „Horse Medal“ zusammengeführt (Werte, die in den
+    Übersetzungen benutzt werden; pl aus der alten Zeile übernommen).
+  - Nur upstream (in template/) lösbar, da `english`/`polski` nicht geändert
+    werden dürfen: `horse_summon._290_say` hat in `polski` deutschen Text
+    („s Feuerphönix“); das Englische schreibt den Arzt teils „Baek-So“
+    (`locale.huanso.find_text_1`) und „Beak-Go“ (`locale.huanso.find_text_2`,
+    `npc_talk._120_say`). Alle Übersetzungen verwenden einheitlich Baek-Go.
+  - Bestehende (nicht eigene) Zeilen in el/ar 7_panel_03–05 schreiben Baek-Go
+    lateinisch statt Μπεκ-Γκο / بيك-غو; nicht geändert.
+- en_US: neuer Ordner mit amerikanischem Englisch (35.792 Zeilen, davon 1.551
+  mit US-Schreibweise wie color/armor/defense/jewelry/soccer), erzeugt mit
+  `python3 glossary/build_en_us.py`; `tools/validate.py` erlaubt dafür
+  Regionalordner wie `en_US` (Codepage von `en`). Offen bleiben nur 36 Zeilen
+  ohne englischen Text (nur `polski`).
 - Reich-Begriff angeglichen (nur eigene Zeilen in 6_launcher, 7_panel und
   4_questy_01): ko 제국, nl rijk, da rige, cs říše, wie im Glossar und im Client.
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
