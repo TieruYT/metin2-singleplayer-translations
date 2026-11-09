@@ -269,9 +269,9 @@ boty z pola niżej - u góry widać sumę. 0 tam = bez nich.
 Więcej botów to więcej pracy dla komputera.
 Zmiana działa po restarcie serwera.","CH1과 CH2에서 동시에 플레이하는 봇 수입니다.
 
-이 수는 세 왕국에 똑같이 나뉩니다:
+이 수는 세 제국에 똑같이 나뉩니다:
 예: 900이면 Shinsoo, Chunjo, Jinno에 각각 봇 300.
-왕국마다 봇 캐릭터는 1500개이며 그 이상은 안 됩니다.
+제국마다 봇 캐릭터는 1500개이며 그 이상은 안 됩니다.
 
 채널이 3~4개면 아래 칸의 새 봇이
 그 위에 추가로 CH3과 CH4에서 플레이합니다 - 합계는 위에 표시됩니다.
@@ -322,7 +322,7 @@ Królestwo nie da więcej botów, niż ma postaci (1500).","슬라이더 수에 
 예: 슬라이더 1000, 여기 500: 시작 후 봇 1000이 들어오고,
 이후 몇 시간 동안 500이 한 명씩 더 옵니다.
 
-왕국은 가진 캐릭터 수(1500)보다 많은 봇을 내지 않습니다.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+제국은 가진 캐릭터 수(1500)보다 많은 봇을 내지 않습니다.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:0873886a2ff6,"Over how many hours the extra bots from the field
 above arrive. They are spread evenly over that time.
 
@@ -355,12 +355,12 @@ botów gra w każdym królestwie (0-1500). Suwak jest wtedy
 wyłączony, a u góry widać sumę.
 
 Np. Chunjo 1000, Shinsoo 0, Jinno 0 = boty grają tylko
-w żółtym królestwie. Królestwo z 0 nie ma żadnego bota.","슬라이더의 한 숫자 대신 왕국마다
+w żółtym królestwie. Królestwo z 0 nie ma żadnego bota.","슬라이더의 한 숫자 대신 제국마다
 몇 봇이 플레이할지 정합니다 (0-1500). 그러면 슬라이더는
 꺼지고, 합계는 위에 표시됩니다.
 
 예: Chunjo 1000, Shinsoo 0, Jinno 0 = 봇은
-노란 왕국에서만 플레이. 0인 왕국에는 봇이 전혀 없습니다.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+노란 제국에서만 플레이. 0인 제국에는 봇이 전혀 없습니다.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c6c4425e7667,"How many game channels the server runs. At the login
 you choose a channel.
 
@@ -432,8 +432,8 @@ po równo na królestwa i pół na pół między CH3 i CH4.
 To osobna liczba od suwaka i DOCHODZI do niego: suwak 910
 i tu 500 to razem 1410 botów (u góry widać sumę).
 0 = bez świeżych botów. Działa przy 3 i 4 kanałach.","CH3과 CH4에서 동시에 플레이하는 새 봇 수 - 레벨 1부터의
-자체 캐릭터로, 왕국당 500개이며 채널 3~4개로
-처음 시작할 때 만들어집니다. 이 수는 왕국에 똑같이,
+자체 캐릭터로, 제국당 500개이며 채널 3~4개로
+처음 시작할 때 만들어집니다. 이 수는 제국에 똑같이,
 CH3과 CH4에 반반씩 나뉩니다.
 
 슬라이더와 별개의 숫자이며 거기에 더해집니다:
@@ -444,7 +444,7 @@ number is split equally between the kingdoms (1500 bot characters each,
 at most 2500). Fresh bots of CH3/CH4 (below) come on top. Needs a restart.","Ilu botów ma grać jednocześnie na CH1 i CH2? Liczba z suwaka dzieli się
 po równo między królestwa (każde ma 1500 postaci botów, najwyżej 2500).
 Świeże boty z CH3/CH4 (niżej) dochodzą do niej. Zmiana: po restarcie.","CH1과 CH2에서 동시에 몇 봇이 플레이할까요? 슬라이더의
-수는 왕국에 똑같이 나뉩니다 (왕국마다 봇 캐릭터 1500,
+수는 제국에 똑같이 나뉩니다 (제국마다 봇 캐릭터 1500,
 최대 2500). CH3/CH4의 새 봇(아래)은 추가됩니다. 재시작 필요.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9b5e2f8a71fb,Bot count,Liczba botów,봇 수,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3a6f2fcf3e9e,Bots: {#0},Boty: {#0},봇: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -458,8 +458,8 @@ l:2de2a301a563,Extra bots later (0-2500):,Dodatkowe boty później (0-2500):,나
 l:457cdcc4db96,Extra bots later,Dodatkowe boty później,나중에 추가 봇,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:93e500ac06eb,"Extra bots arrive over (h, 1-168):","Dodatkowe boty dochodzą przez (h, 1-168):","추가 봇 도착 기간 (시간, 1-168):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d2f4629f6c7e,Time over which the extra bots arrive,Czas dochodzenia dodatkowych botów,추가 봇이 도착하는 기간,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e840e47ebe16,Individual numbers for the kingdoms,Indywidualne wartości dla królestw,왕국별 개별 숫자,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b94cf6561616,Per kingdom,Osobno dla królestw,왕국별,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e840e47ebe16,Individual numbers for the kingdoms,Indywidualne wartości dla królestw,제국별 개별 숫자,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:b94cf6561616,Per kingdom,Osobno dla królestw,제국별,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3dc0dda2040e,"Shinsoo (red, 0-1500):","Shinsoo (czerwone, 0-1500):","Shinsoo (빨강, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ba10be01a395,"Chunjo (yellow, 0-1500):","Chunjo (żółte, 0-1500):","Chunjo (노랑, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dfc79b16756f,"Jinno (blue, 0-1500):","Jinno (niebieskie, 0-1500):","Jinno (파랑, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1039,7 +1039,7 @@ l:b01c5ca7dab5,Launcher log created.,Utworzono dziennik launchera.,런처 로그
 l:c66f285b41fb,VPS: saved limit {0} bots. The in-game counter is for one channel.,VPS: zapisany limit {0} botów. Licznik w grze dotyczy jednego kanału.,VPS: 봇 한도 {0} 저장됨. 게임 안의 카운터는 채널 하나 기준입니다.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ad0120a55656,"Save bots and channels on the VPS? After saving, I will ask about applying them and restarting now (recreating game from .env). You can defer the restart. A panel core restart, docker restart and a reboot do not apply the new .env.","Zapisać boty i kanały na VPS? Po zapisie zapytam o zastosowanie i restart teraz (odtworzenie game z .env). Możesz odłożyć restart. Restart rdzeni z panelu, docker restart i reboot nie stosują nowego .env.","VPS에 봇과 채널을 저장할까요? 저장한 뒤 적용하고 지금 재시작할지(.env로 game 다시 만들기) 묻겠습니다. 재시작은 미룰 수 있습니다. 패널 코어 재시작, docker restart, 재부팅은 새 .env를 적용하지 않습니다.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:88a124f194ca,Bots on the VPS,Boty na VPS,VPS의 봇,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6ba428dbdbc3,"per kingdom: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","osobno dla królestw: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","왕국별: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:6ba428dbdbc3,"per kingdom: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","osobno dla królestw: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","제국별: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:216c993433c1,{#0} playing bots,{#0} grających botów,플레이 중인 봇 {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9d0ca9b11480,", two channels ({#0}% of the bots on CH2)",", dwa kanały ({#0}% botów na CH2)",", 채널 2개 (CH2에 봇 {#0}%)","launcher window or message | keep: % o; {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:bb94b5317d31,", three channels ({#0}% of the bots on CH2, {#1} fresh bots on CH3)",", trzy kanały ({#0}% botów na CH2, {#1} świeżych botów na CH3)",", 채널 3개 (CH2에 봇 {#0}%, CH3에 새 봇 {#1})","launcher window or message | keep: % o; {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1470,7 +1470,7 @@ l:c7f73bb54d92,Settings,Ustawienia,설정,"launcher window or message | new line
 l:55462edfc4a6,PLAY GAME,ROZPOCZNIJ GRĘ,게임 시작,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9018baa02deb,START SERVER,URUCHOM SERWER,서버 시작,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:395d9d7dc991,Web panel,Panel WWW,웹 패널,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","봇 수, 왕국, 인구 증가 속도.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","봇 수, 제국, 인구 증가 속도.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:31331b60c306,Character progression and difficulty.,Rozwój postaci i poziom trudności.,캐릭터 성장과 난이도.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4f10fd43a6c6,Rate editor in the web panel.,Edytor mnożników w panelu WWW.,웹 패널의 배율 편집기.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d79c02b6b1ff,VPS server settings.,Ustawienia serwera VPS.,VPS 서버 설정.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
