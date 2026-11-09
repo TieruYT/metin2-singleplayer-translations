@@ -3,7 +3,7 @@
 import csv, glob, os
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 LANGS = ['de', 'tr', 'fr', 'es', 'it', 'ro', 'hu', 'nl', 'cs', 'el', 'ru', 'pt', 'da', 'ar', 'ko']
-SHEETS = ['1_klient', '2_przedmioty_potwory', '3_gra_serwer', '4_questy', '5_boty_czat', '6_launcher']
+SHEETS = ['1_klient', '2_przedmioty_potwory', '3_gra_serwer', '4_questy', '5_boty_czat', '6_launcher', '7_panel']
 print('| lang | ' + ' | '.join(SHEETS) + ' | total |')
 print('|---|' + '---:|' * (len(SHEETS) + 1))
 for lang in LANGS:
