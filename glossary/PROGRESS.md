@@ -8,21 +8,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 9922/10016 | 1016/1016 | 188/8601 | 1582/3723 | 880/2308 | 4414/4414 | 23752/35828 (66.3%) |
+| de | 5750/5750 | 9922/10016 | 1016/1016 | 188/8601 | 1582/3723 | 2307/2308 | 4414/4414 | 25179/35828 (70.3%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 9864/10016 | 1016/1016 | 192/8601 | 1588/3723 | 880/2308 | 4414/4414 | 23704/35828 (66.2%) |
-| es | 5750/5750 | 35/10016 | 1016/1016 | 21/8601 | 15/3723 | 2307/2308 | 4414/4414 | 13558/35828 (37.8%) |
-| it | 5750/5750 | 105/10016 | 1016/1016 | 97/8601 | 320/3723 | 878/2308 | 4414/4414 | 12580/35828 (35.1%) |
-| ro | 5750/5750 | 9864/10016 | 1016/1016 | 192/8601 | 1601/3723 | 880/2308 | 4414/4414 | 23717/35828 (66.2%) |
-| hu | 5750/5750 | 105/10016 | 1016/1016 | 97/8601 | 320/3723 | 878/2308 | 4414/4414 | 12580/35828 (35.1%) |
-| nl | 5750/5750 | 105/10016 | 1016/1016 | 97/8601 | 320/3723 | 878/2308 | 4414/4414 | 12580/35828 (35.1%) |
-| cs | 5750/5750 | 105/10016 | 1016/1016 | 97/8601 | 320/3723 | 878/2308 | 4414/4414 | 12580/35828 (35.1%) |
-| el | 5750/5750 | 106/10016 | 1016/1016 | 98/8601 | 70/3723 | 878/2308 | 4414/4414 | 12332/35828 (34.4%) |
-| ru | 5750/5750 | 106/10016 | 1016/1016 | 98/8601 | 68/3723 | 878/2308 | 4414/4414 | 12330/35828 (34.4%) |
-| pt | 5750/5750 | 9864/10016 | 1014/1014 | 192/8601 | 1588/3723 | 880/2308 | 4414/4414 | 23702/35826 (66.2%) |
-| da | 5750/5750 | 105/10016 | 1016/1016 | 97/8601 | 320/3723 | 878/2308 | 4414/4414 | 12580/35828 (35.1%) |
-| ar | 5750/5750 | 106/10016 | 1016/1016 | 98/8601 | 68/3723 | 878/2308 | 4414/4414 | 12330/35828 (34.4%) |
-| ko | 5750/5750 | 106/10016 | 1016/1016 | 98/8601 | 68/3723 | 878/2308 | 4414/4414 | 12330/35828 (34.4%) |
+| fr | 5750/5750 | 9864/10016 | 1016/1016 | 192/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 25131/35828 (70.1%) |
+| es | 5750/5750 | 35/10016 | 1016/1016 | 21/8601 | 15/3723 | 2308/2308 | 4414/4414 | 13559/35828 (37.8%) |
+| it | 5750/5750 | 105/10016 | 1016/1016 | 99/8601 | 320/3723 | 2307/2308 | 4414/4414 | 14011/35828 (39.1%) |
+| ro | 5750/5750 | 9864/10016 | 1016/1016 | 192/8601 | 1601/3723 | 2307/2308 | 4414/4414 | 25144/35828 (70.2%) |
+| hu | 5750/5750 | 105/10016 | 1016/1016 | 99/8601 | 320/3723 | 2307/2308 | 4414/4414 | 14011/35828 (39.1%) |
+| nl | 5750/5750 | 105/10016 | 1016/1016 | 99/8601 | 320/3723 | 2307/2308 | 4414/4414 | 14011/35828 (39.1%) |
+| cs | 5750/5750 | 105/10016 | 1016/1016 | 99/8601 | 320/3723 | 2307/2308 | 4414/4414 | 14011/35828 (39.1%) |
+| el | 5750/5750 | 106/10016 | 1016/1016 | 100/8601 | 70/3723 | 2307/2308 | 4414/4414 | 13763/35828 (38.4%) |
+| ru | 5750/5750 | 106/10016 | 1016/1016 | 100/8601 | 68/3723 | 2307/2308 | 4414/4414 | 13761/35828 (38.4%) |
+| pt | 5750/5750 | 9864/10016 | 1014/1014 | 192/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 25129/35826 (70.1%) |
+| da | 5750/5750 | 105/10016 | 1016/1016 | 99/8601 | 320/3723 | 2307/2308 | 4414/4414 | 14011/35828 (39.1%) |
+| ar | 5750/5750 | 106/10016 | 1016/1016 | 100/8601 | 68/3723 | 2307/2308 | 4414/4414 | 13761/35828 (38.4%) |
+| ko | 5750/5750 | 106/10016 | 1016/1016 | 100/8601 | 68/3723 | 2307/2308 | 4414/4414 | 13761/35828 (38.4%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -53,6 +53,8 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
   Spielnamen im Panel: "Plague Pass"/"Plague Chest" bleiben englisch wie die
   Item-Namen; ro "Jack Calabaza" so übernommen wie im bestehenden NPC-Namen
   (spanisches Wort, Auffälligkeit – nicht korrigiert).
+- 6_launcher (6_launcher_01 bis _04): alle leeren Zellen in allen Sprachen
+  gefüllt, bis auf eine Zeile (siehe unten, BLESSING-Zeile).
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
 - Glossar `glossary/glossary.csv`: 133 Begriffe, Spalten für alle Zielsprachen
   (pl = Referenz aus der Spalte `polski`).
@@ -78,6 +80,19 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `pytho
 - `es/`: ~9.000 übersetzte Zeilen haben noch `status` `new`.
 - Der Validator meldet auf `main` bereits 121 Fehler in bestehenden Zeilen
   (vor allem tr `5_boty_czat_*`: Variablen, die im Englischen fehlen).
+
+- `6_launcher_03.csv`, Zeile `l:e7d018eb4b06` („Blessing Scrolls from Metin
+  stones: chance changed from 5% to 1% …“) bleibt in de, fr, pt, ro, it, hu,
+  cs, nl, da, el, ru, ar und ko leer. Der Validator liest im Englischen
+  „5% to“ als Variable `% t` + `o` (printf-Leerzeichen-Flag) und findet
+  `ut`; jede Übersetzung ohne genau diese Zeichenfolge wird abgelehnt.
+  tr hat in dieser Zeile denselben Altfehler, es hat den englischen Text.
+  Vorschlag ans Projekt: Englisch auf „5 % to 1 %“ oder „5 percent“ ändern
+  oder die Regel im Validator anpassen.
+- ro: 6_launcher_02 „Sprijină proiectul“ (von uns, aus 1_klient_06 übernommen)
+  auf „Sprijina proiectul“ geändert. Die bestehenden ro-Zeilen mit Diakritika
+  in 1_klient_05/06 und 2_przedmioty_potwory_09–11 sind nicht von uns und
+  wurden nicht geändert.
 
 ### Inhalt tr (falsche bestehende Übersetzungen)
 - `Elder Rider` → „Ticaret yöneticisi“ (= Handelsverwalter); neue Zeilen: „Yaşlı Süvari“.
