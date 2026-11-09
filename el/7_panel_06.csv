@@ -312,7 +312,7 @@ p:7ff6005d3fb5,no such recipe in crafting_proto - the game skips it,nie ma takie
 p:6caddf394946,not for your character,nie dla Twojej postaci,όχι για τον χαρακτήρα σου,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:de04fa0e29f9,of,z,από,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
 p:2449d652417b,of ,,από ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7a85f4764bbd,ok,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:7a85f4764bbd,ok,,ok,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:f7ad1c9d26ca,ok / all · rate ,,ok / όλα · ποσοστό ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:db3d405b1067,on,,ενεργό,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:056ce636f42b,on the channels,,στα κανάλια,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -409,7 +409,7 @@ p:d0a838b326e1,units in the world,,μονάδες στον κόσμο,"panel: mo
 p:6809b796d5bb,up: ,,πάνω: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8f3a07543988,view,widok,προβολή,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:7a97daa1d930,vnum: recipe #%s already exists - pick a free number,vnum: przepis #%s już istnieje - wybierz wolny numer,vnum: η συνταγή #%s υπάρχει ήδη - διάλεξε ελεύθερο αριθμό,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
-p:12625ba3c14e,waiting,czeka,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
+p:12625ba3c14e,waiting,czeka,σε αναμονή,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:04ae0d81a432,weight %d,waga %d,βάρος %d,"panel: module text / panel: editsql/editor.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:167b6c4a4e41,yang,yang,yang,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e3c04c320463,yang / unit,,yang / τεμάχιο,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -658,44 +658,44 @@ p:8090608ee39d,Event off,,Εκδήλωση ανενεργή,"panel: module text 
 p:ec2bbf57b073,Switch the event on,,Ενεργοποίηση εκδήλωσης,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:3bc467b09166,Switch the event off,,Απενεργοποίηση εκδήλωσης,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:fc7d0c410a56,Switching on also switches the world bosses on (they appear only after stage 3). Switching off leaves every other setting as it is.,,Η ενεργοποίηση ενεργοποιεί και τα boss του κόσμου (εμφανίζονται μόνο μετά το στάδιο 3). Η απενεργοποίηση αφήνει κάθε άλλη ρύθμιση όπως είναι.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:1288fc8ccb3c,The world lacks some of the event's items and monsters,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:237212309f62,The migrator says at a start which number another content holds.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:80355ee236d2,Collection and drops,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:11e425fbc1ed,Stage 1 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:798a54c38ee2,Stage 2 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9a563d9228fc,Stage 3 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:3b4ff803ab9f,Seasonal stones after stage 3,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7aa3c2f05add,Seasonal stone spawn chance (%),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:8381879db3b2,Thresholds must rise: 1 ≤ stage 1 < stage 2 < stage 3 ≤ 1 000 000.,Progi muszą rosnąć: 1 ≤ etap 1 < etap 2 < etap 3 ≤ 1 000 000.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:301beeb0e6a5,Latest donations,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:43dc8532f7e5,Amount,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:e29c3da43ab4,No donation in this collection yet.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:85299db45e3e,Reset the collection,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:26f04bd8d4c3,I confirm the reset,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:96db71958e0d,Reset the collection? This cannot be undone.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:af484c494169,Item (VNUM),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ffd06810b930,Draws,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:df4cbfeafe6f,Sum of the enabled chances,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f9856ee6a566,Empty rows are left out. Save the table to see the new sum.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ea0f9083aeba,Save the chest,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5b201a4df904,Sock Shop,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:c49e014041aa,Shop open,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:875ee57cc8e4,Price (socks),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:a78450074014,"Ride time (minutes, seals only)",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:71003069bc9b,Save the shop,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:66d173b455eb,Calendar on,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:0bca7a60e33d,Edition (year),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:bc11a38308dc,First day (local date),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:0d4a7c4ea9d7,"End (local date, at most 24 days later)",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ad5beb0d0004,GM test day (0 = none),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:01458aa6e999,Require the Biologist's Orc Teeth (checked when a gift is claimed),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:df27bd08fe78,"One reward a day per account, into its ItemShop storage. A day changes at the server's local midnight. A day is ready when its enabled chances add up to 100%; a day without rows gives nothing.",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:67f7d4922df0,Save the calendar,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:1288fc8ccb3c,The world lacks some of the event's items and monsters,,Στον κόσμο λείπουν κάποια αντικείμενα και τέρατα της εκδήλωσης,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:237212309f62,The migrator says at a start which number another content holds.,,Ο migrator λέει κατά την εκκίνηση ποιον αριθμό κατέχει άλλο περιεχόμενο.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:80355ee236d2,Collection and drops,,Συλλογή και λεία,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:11e425fbc1ed,Stage 1 from,,Στάδιο 1 από,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:798a54c38ee2,Stage 2 from,,Στάδιο 2 από,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9a563d9228fc,Stage 3 from,,Στάδιο 3 από,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:3b4ff803ab9f,Seasonal stones after stage 3,,Εποχικές πέτρες μετά το στάδιο 3,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7aa3c2f05add,Seasonal stone spawn chance (%),,Πιθανότητα εμφάνισης εποχικών πετρών (%),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:8381879db3b2,Thresholds must rise: 1 ≤ stage 1 < stage 2 < stage 3 ≤ 1 000 000.,Progi muszą rosnąć: 1 ≤ etap 1 < etap 2 < etap 3 ≤ 1 000 000.,Τα κατώφλια πρέπει να ανεβαίνουν: 1 ≤ στάδιο 1 < στάδιο 2 < στάδιο 3 ≤ 1 000 000.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:301beeb0e6a5,Latest donations,,Τελευταίες δωρεές,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:43dc8532f7e5,Amount,,Ποσό,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:e29c3da43ab4,No donation in this collection yet.,,Δεν υπάρχει ακόμη δωρεά σε αυτή τη συλλογή.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:85299db45e3e,Reset the collection,,Επαναφορά της συλλογής,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:26f04bd8d4c3,I confirm the reset,,Επιβεβαιώνω την επαναφορά,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:96db71958e0d,Reset the collection? This cannot be undone.,,Επαναφορά της συλλογής; Δεν αναιρείται.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:af484c494169,Item (VNUM),,Αντικείμενο (VNUM),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ffd06810b930,Draws,,Κληρώσεις,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:df4cbfeafe6f,Sum of the enabled chances,,Άθροισμα των ενεργών πιθανοτήτων,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:f9856ee6a566,Empty rows are left out. Save the table to see the new sum.,,Οι κενές γραμμές παραλείπονται. Αποθήκευσε τον πίνακα για να δεις το νέο άθροισμα.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ea0f9083aeba,Save the chest,,Αποθήκευση σεντουκιού,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:5b201a4df904,Sock Shop,,Κατάστημα καλτσών,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:c49e014041aa,Shop open,,Κατάστημα ανοιχτό,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:875ee57cc8e4,Price (socks),,Τιμή (κάλτσες),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:a78450074014,"Ride time (minutes, seals only)",,"Χρόνος ιππασίας (λεπτά, μόνο σφραγίδες)","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:71003069bc9b,Save the shop,,Αποθήκευση καταστήματος,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:66d173b455eb,Calendar on,,Ημερολόγιο ενεργό,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0bca7a60e33d,Edition (year),,Έκδοση (έτος),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:bc11a38308dc,First day (local date),,Πρώτη ημέρα (τοπική ημερομηνία),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0d4a7c4ea9d7,"End (local date, at most 24 days later)",,"Λήξη (τοπική ημερομηνία, το πολύ 24 ημέρες αργότερα)","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ad5beb0d0004,GM test day (0 = none),,Ημέρα δοκιμής GM (0 = καμία),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:01458aa6e999,Require the Biologist's Orc Teeth (checked when a gift is claimed),,Απαίτηση των Δοντιών Ορκ του Βιολόγου (ελέγχεται όταν παραλαμβάνεται δώρο),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:df27bd08fe78,"One reward a day per account, into its ItemShop storage. A day changes at the server's local midnight. A day is ready when its enabled chances add up to 100%; a day without rows gives nothing.",,"Μία ανταμοιβή την ημέρα ανά λογαριασμό, στην αποθήκη ItemShop του. Η ημέρα αλλάζει στα τοπικά μεσάνυχτα του server. Μια ημέρα είναι έτοιμη όταν οι ενεργές πιθανότητές της αθροίζουν 100%· μια ημέρα χωρίς γραμμές δεν δίνει τίποτα.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:67f7d4922df0,Save the calendar,,Αποθήκευση ημερολογίου,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:987b9ced08d4,Day,,Ημέρα,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:75c0533730ca,ready,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:67f2141f8c48,not configured,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:8961abaa81f1,rewards,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:99e69fa3d509,Save day %d,,,"panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:f50abd61203c,claims this edition,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:6890dbf63fd2,World bosses,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:3af4cf53e7d3,Bosses on (master switch),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:75c0533730ca,ready,,έτοιμο,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:67f2141f8c48,not configured,,δεν έχει ρυθμιστεί,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:8961abaa81f1,rewards,,ανταμοιβές,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:99e69fa3d509,Save day %d,,Αποθήκευση ημέρας %d,"panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f50abd61203c,claims this edition,,παραλαβές σε αυτή την έκδοση,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:6890dbf63fd2,World bosses,,Boss του κόσμου,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:3af4cf53e7d3,Bosses on (master switch),,Boss ενεργά (κεντρικός διακόπτης),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
