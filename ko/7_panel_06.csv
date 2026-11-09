@@ -95,100 +95,100 @@ p:12e6abb4233a,VNUM or the chest's name,VNUM albo nazwa skrzynki,VNUM 또는 상
 p:5c98b3145061,"VPS load: CPU, memory and disk.",,"VPS 부하: CPU, 메모리, 디스크.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8dce170de238,Value,Wartość,값,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:f05c559d9450,Values (grades 1–5),Wartości (stopnie 1–5),값 (등급 1–5),"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
-p:51951c82244c,Values before the server's multipliers (the Rates page).,Wartości przed mnożnikami serwera (strona Mnożniki).,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0ec5de35f8b5,Values by grade,Wartości na stopnie,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:69bd4ef9fbd0,View,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:fd1392caa027,Visit attempt limit,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:8cdb22619d04,Visit time limit,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:51951c82244c,Values before the server's multipliers (the Rates page).,Wartości przed mnożnikami serwera (strona Mnożniki).,서버 배율 적용 전 값(배율 페이지).,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0ec5de35f8b5,Values by grade,Wartości na stopnie,등급별 값,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:69bd4ef9fbd0,View,,보기,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:fd1392caa027,Visit attempt limit,,방문 시도 한도,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:8cdb22619d04,Visit time limit,,방문 시간 한도,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:be320b06f43b,Vitality,Witalność,체력,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
-p:a3cc9b469fde,Vitality (HT),Witalność (HT),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:767706b4d144,Waiting for Blessing Scroll,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5b60fdae0c28,Waiting for a spare,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:31ae595dac30,Waiting for the game core's answer ({n} s)…,Czekam na odpowiedź rdzenia gry ({n} s)…,,"panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:fcdd29dd9727,Waiting for the player (2 minutes at most),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9f39c0281a68,Was,Było,,"panel: module text / panel: editsql/bulk.py | the classic web panel (browser, UTF-8: any letter)",new
-p:7ea28d136d5d,Weapon 1,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9d1557def1b5,Weapon 2,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7bfb6113a649,Weekly schedule,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:dd48a1bdd3b8,Weekly season,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f6ec5f5a4cd1,"What a chest holds is NOT in the database: the engine reads it from special_item_group.txt (keyed by this item's vnum) - change it in the panel's ""Chests and drops"" editor. Here you change the chest's own name, price and stack.","Zawartości skrzynki NIE ma w bazie: silnik czyta ją z pliku special_item_group.txt (klucz to vnum tego przedmiotu) - zmienisz ją w edytorze „Skrzynki i drop” panelu. Tutaj zmienisz nazwę, cenę i stos samej skrzynki.",,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a65f236617e9,What bots do,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:52a68ab03f4f,"What can be bought, for how much and from which level.","Co, za ile i od jakiego poziomu można kupić.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e314d3091969,When it takes effect,Kiedy działa,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:8e9de181bc2a,Where it is used,Gdzie jest używany,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:87878e5dfe26,Where it is worn (wearflag),Miejsce noszenia (wearflag),,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:25a59ed904c4,"Which bonuses roll on which slot, and with what values.",Które bonusy losują się na jakim slocie i z jakimi wartościami.,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2c625ea2bc43,Which slots it can roll on,Na jakim slocie może się wylosować,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:7d531617dd39,Who,Kto,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:fbf90b76e72f,Who changed what and when - with one-click undo.,"Kto, kiedy i co zmienił - z cofaniem jednym kliknięciem.",,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a2e3e4baf211,Whole row,Cały wiersz,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:364e0a77b2dc,Why a bargain?,Skąd ta okazja?,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d5fc12cb4c00,Why a restart,Dlaczego restart,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:cd92b3f6218a,Why an unusual price?,Dlaczego cena nietypowa?,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f445cd62f5d6,Why the GM steps in,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:a58ddf50c5ea,Width,Szerokość,,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",new
-p:803134acbcd2,Will be,Będzie,,"panel: module text / panel: editsql/bulk.py | the classic web panel (browser, UTF-8: any letter)",new
-p:41dfc0a6c927,Window,Okno,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:70876d901270,Window %s,Okno %s,,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:ac8f66d2b06d,Window page,Strona okna,,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c32c599906ff,Without a primary key,Bez klucza głównego,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f0d50a56cf0f,World and trade,Świat i handel,,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",new
-p:3dc2767e8206,World in numbers,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:cafe5884febc,Worn,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:05a8d1bbe75f,Worn gear,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:fedc72a47027,Wrong order data – reload the page.,Złe dane zlecenia – odśwież stronę.,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:452b52ea8b59,Wrong password.,Nieprawidłowe hasło.,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:05980d141194,Wrong value – this filter is not sent.,Błędna wartość – filtr nie jest wysyłany.,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:372037369ff6,"X/Y is the plot's top left corner, counted from the map's top left corner (not the world's absolute coordinates).",X/Y to lewy górny róg działki liczony od lewego górnego rogu mapy (nie bezwzględne współrzędne świata).,,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1b6755373d8a,Yang carried,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7e4b0804d4bb,Yang in circulation,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:31134623c7e2,Yang in circulation (7 days),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:c9b34c4dc8ed,Yang per bot,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f534a15f05b9,Yang rain,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:1c20aeae2141,"Yes, restart",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7318f7cac5d9,Yongan (Shinsoo M1),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:993ca07e0602,You are about to delete <b>%d %s</b> from the table <b>%s.%s</b>. <b>Nothing has been deleted yet</b> - check the list and confirm. The deletion goes into the Change history; one “Undo” brings all these rows back at once.,Usuniesz <b>%d %s</b> z tabeli <b>%s.%s</b>. <b>Nic nie zostało jeszcze usunięte</b> - sprawdź listę i potwierdź. Usunięcie trafi do Historii zmian; jedno „Cofnij” przywróci wszystkie te wiersze naraz.,,"panel: module text / panel: editsql/__init__.py | keep: %d %s %s %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",new
-p:35e60eb54636,"You can also add a recipe to a window on the recipe's page, or right when you add it.",Przepis do okna dodasz też na stronie przepisu albo od razu przy jego dodawaniu.,,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:9cda431df010,Your character is not in the game now (or the game core did not answer within 15 s).,Twoja postać nie jest teraz w grze (albo rdzeń gry nie odpowiedział w 15 s).,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:287db6aa55bd,"Your character on a player's account: its class and level for the badges, the TP's target.","Twoja postać na koncie gracza: klasa i poziom do plakietek, cel przycisku TP.",,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:ab42293e29e1,Your name,Twoja nazwa,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d245e54216f6,Zoom 50%,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:cdba2951eada,a '# remove' line after the first group (line {line}),linia „# remove” po pierwszej grupie (linia {line}),,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:5da61b31733b,a '}}' outside every group ends the file at line {line},„}}” poza grupą kończy plik w linii {line},,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:5053ccef062f,a Group line needs exactly one name (line {line}),linia Group potrzebuje dokładnie jednej nazwy (linia {line}),,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:845a16ebdba5,a NUL byte in the file,bajt NUL w pliku,,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:913ff59b65b4,a bad '# remove' key (line {line}),zły klucz „# remove” (linia {line}),,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:92504ba7e225,"a chest with no line gives nothing, and opening it crashes the core","skrzynia bez linii nic nie daje, a jej otwarcie wywraca rdzeń",,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:033938261014,a group whose second line is not '{{' (line {line}),"grupa, której druga linia to nie „{{” (linia {line})",,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:71c6e1edc77c,a group with no line drops nothing - remove the group instead,grupa bez linii nic nie daje - zamiast tego usuń grupę,,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:975f08581563,a group without its closing '}}',grupa bez zamykającego „}}”,,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:dcc75d78b6fd,a group without its key (line {line}),grupa bez klucza (linia {line}),,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",new
-p:64554a994802,a restart of the cores was requested,restart rdzeni zlecony,,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0a1f3479a0e6,a system database,baza systemowa,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:a4d959412cb4,a table without a primary key - read only,tabela bez klucza głównego - tylko do odczytu,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:02eae3fc91f6,"a value with a space, a quote, a brace, a # or a letter outside ASCII","wartość ze spacją, cudzysłowem, klamrą, # albo literą spoza ASCII",,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",new
-p:8f53ed0fec22,abandoned,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ca20728d35f0,account,konto,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6570a34d5bdf,accounts are not edited in this form,kont nie edytuje się z tego formularza,,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",new
+p:a3cc9b469fde,Vitality (HT),Witalność (HT),체력 (HT),"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
+p:767706b4d144,Waiting for Blessing Scroll,,축복의 서 대기 중,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:5b60fdae0c28,Waiting for a spare,,예비 아이템 대기 중,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:31ae595dac30,Waiting for the game core's answer ({n} s)…,Czekam na odpowiedź rdzenia gry ({n} s)…,게임 코어의 응답을 기다리는 중({n}초)…,"panel: module text / panel: market_preview/texts.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:fcdd29dd9727,Waiting for the player (2 minutes at most),,플레이어 대기 중(최대 2분),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9f39c0281a68,Was,Było,이전,"panel: module text / panel: editsql/bulk.py | the classic web panel (browser, UTF-8: any letter)",done
+p:7ea28d136d5d,Weapon 1,,무기 1,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9d1557def1b5,Weapon 2,,무기 2,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7bfb6113a649,Weekly schedule,,주간 일정,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:dd48a1bdd3b8,Weekly season,,주간 시즌,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:f6ec5f5a4cd1,"What a chest holds is NOT in the database: the engine reads it from special_item_group.txt (keyed by this item's vnum) - change it in the panel's ""Chests and drops"" editor. Here you change the chest's own name, price and stack.","Zawartości skrzynki NIE ma w bazie: silnik czyta ją z pliku special_item_group.txt (klucz to vnum tego przedmiotu) - zmienisz ją w edytorze „Skrzynki i drop” panelu. Tutaj zmienisz nazwę, cenę i stos samej skrzynki.","상자 내용물은 데이터베이스에 없어: 엔진은 special_item_group.txt에서 이 아이템의 vnum으로 읽어 - 패널의 ""상자와 드롭"" 편집기에서 바꿔. 여기서는 상자 자체의 이름, 가격, 겹침 수를 바꿔.","panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:a65f236617e9,What bots do,,봇들이 하는 일,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:52a68ab03f4f,"What can be bought, for how much and from which level.","Co, za ile i od jakiego poziomu można kupić.","무엇을 얼마에, 몇 레벨부터 살 수 있는지.","panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e314d3091969,When it takes effect,Kiedy działa,적용 시점,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:8e9de181bc2a,Where it is used,Gdzie jest używany,사용 위치,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:87878e5dfe26,Where it is worn (wearflag),Miejsce noszenia (wearflag),착용 위치(wearflag),"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
+p:25a59ed904c4,"Which bonuses roll on which slot, and with what values.",Które bonusy losują się na jakim slocie i z jakimi wartościami.,"어떤 보너스가 어느 칸에, 어떤 값으로 나오는지.","panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2c625ea2bc43,Which slots it can roll on,Na jakim slocie może się wylosować,나올 수 있는 칸,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:7d531617dd39,Who,Kto,누가,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:fbf90b76e72f,Who changed what and when - with one-click undo.,"Kto, kiedy i co zmienił - z cofaniem jednym kliknięciem.",누가 언제 무엇을 바꿨는지 - 클릭 한 번으로 되돌리기.,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:a2e3e4baf211,Whole row,Cały wiersz,행 전체,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
+p:364e0a77b2dc,Why a bargain?,Skąd ta okazja?,왜 특가야?,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d5fc12cb4c00,Why a restart,Dlaczego restart,왜 재시작해?,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:cd92b3f6218a,Why an unusual price?,Dlaczego cena nietypowa?,왜 특이한 가격이야?,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f445cd62f5d6,Why the GM steps in,,GM이 개입하는 이유,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:a58ddf50c5ea,Width,Szerokość,너비,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
+p:803134acbcd2,Will be,Będzie,이후,"panel: module text / panel: editsql/bulk.py | the classic web panel (browser, UTF-8: any letter)",done
+p:41dfc0a6c927,Window,Okno,창,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:70876d901270,Window %s,Okno %s,창 %s,"panel: module text / panel: editsql/modules.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:ac8f66d2b06d,Window page,Strona okna,창 페이지,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
+p:c32c599906ff,Without a primary key,Bez klucza głównego,기본 키 없음,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f0d50a56cf0f,World and trade,Świat i handel,세계와 거래,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
+p:3dc2767e8206,World in numbers,,숫자로 보는 세계,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:cafe5884febc,Worn,,착용,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:05a8d1bbe75f,Worn gear,,착용 장비,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:fedc72a47027,Wrong order data – reload the page.,Złe dane zlecenia – odśwież stronę.,주문 데이터가 잘못됐어 – 페이지를 새로고침해.,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:452b52ea8b59,Wrong password.,Nieprawidłowe hasło.,비밀번호가 틀렸어.,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:05980d141194,Wrong value – this filter is not sent.,Błędna wartość – filtr nie jest wysyłany.,값이 잘못됐어 – 이 필터는 보내지 않아.,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:372037369ff6,"X/Y is the plot's top left corner, counted from the map's top left corner (not the world's absolute coordinates).",X/Y to lewy górny róg działki liczony od lewego górnego rogu mapy (nie bezwzględne współrzędne świata).,"X/Y는 부지의 왼쪽 위 모서리로, 맵의 왼쪽 위 모서리부터 세(세계의 절대 좌표가 아님).","panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1b6755373d8a,Yang carried,,소지 양,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7e4b0804d4bb,Yang in circulation,,유통 중인 양,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:31134623c7e2,Yang in circulation (7 days),,유통 중인 양 (7일),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:c9b34c4dc8ed,Yang per bot,,봇당 양,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:f534a15f05b9,Yang rain,,양 비,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:1c20aeae2141,"Yes, restart",,"응, 재시작해","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7318f7cac5d9,Yongan (Shinsoo M1),,용안 (Shinsoo M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:993ca07e0602,You are about to delete <b>%d %s</b> from the table <b>%s.%s</b>. <b>Nothing has been deleted yet</b> - check the list and confirm. The deletion goes into the Change history; one “Undo” brings all these rows back at once.,Usuniesz <b>%d %s</b> z tabeli <b>%s.%s</b>. <b>Nic nie zostało jeszcze usunięte</b> - sprawdź listę i potwierdź. Usunięcie trafi do Historii zmian; jedno „Cofnij” przywróci wszystkie te wiersze naraz.,"<b>%d %s</b>을(를) 테이블 <b>%s.%s</b>에서 삭제하려고 해. <b>아직 아무것도 삭제되지 않았어</b> - 목록을 확인하고 확정해. 삭제는 변경 기록에 남고, “되돌리기” 한 번이면 이 행들이 한꺼번에 돌아와.","panel: module text / panel: editsql/__init__.py | keep: %d %s %s %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",done
+p:35e60eb54636,"You can also add a recipe to a window on the recipe's page, or right when you add it.",Przepis do okna dodasz też na stronie przepisu albo od razu przy jego dodawaniu.,"레시피 페이지에서, 또는 추가할 때 바로 창에 레시피를 넣을 수도 있어.","panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:9cda431df010,Your character is not in the game now (or the game core did not answer within 15 s).,Twoja postać nie jest teraz w grze (albo rdzeń gry nie odpowiedział w 15 s).,네 캐릭터가 지금 게임에 없어(또는 게임 코어가 15초 안에 응답하지 않았어).,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:287db6aa55bd,"Your character on a player's account: its class and level for the badges, the TP's target.","Twoja postać na koncie gracza: klasa i poziom do plakietek, cel przycisku TP.","플레이어 계정의 네 캐릭터: 배지용 직업과 레벨, TP의 대상.","panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:ab42293e29e1,Your name,Twoja nazwa,네 이름,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d245e54216f6,Zoom 50%,,확대 50%,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:cdba2951eada,a '# remove' line after the first group (line {line}),linia „# remove” po pierwszej grupie (linia {line}),첫 그룹 뒤의 '# remove' 줄({line}번째 줄),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:5da61b31733b,a '}}' outside every group ends the file at line {line},„}}” poza grupą kończy plik w linii {line},모든 그룹 밖의 '}}'가 {line}번째 줄에서 파일을 끝내,"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:5053ccef062f,a Group line needs exactly one name (line {line}),linia Group potrzebuje dokładnie jednej nazwy (linia {line}),Group 줄에는 이름이 정확히 하나 필요해({line}번째 줄),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:845a16ebdba5,a NUL byte in the file,bajt NUL w pliku,파일 안의 NUL 바이트,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:913ff59b65b4,a bad '# remove' key (line {line}),zły klucz „# remove” (linia {line}),잘못된 '# remove' 키({line}번째 줄),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:92504ba7e225,"a chest with no line gives nothing, and opening it crashes the core","skrzynia bez linii nic nie daje, a jej otwarcie wywraca rdzeń","줄이 없는 상자는 아무것도 주지 않고, 열면 코어가 다운돼","panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:033938261014,a group whose second line is not '{{' (line {line}),"grupa, której druga linia to nie „{{” (linia {line})",두 번째 줄이 '{{'가 아닌 그룹({line}번째 줄),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:71c6e1edc77c,a group with no line drops nothing - remove the group instead,grupa bez linii nic nie daje - zamiast tego usuń grupę,줄이 없는 그룹은 아무것도 떨어뜨리지 않아 - 대신 그룹을 제거해,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:975f08581563,a group without its closing '}}',grupa bez zamykającego „}}”,닫는 '}}'가 없는 그룹,"panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:dcc75d78b6fd,a group without its key (line {line}),grupa bez klucza (linia {line}),키가 없는 그룹({line}번째 줄),"panel: module text / panel: drop_tables.py | keep: {line} | the classic web panel (browser, UTF-8: any letter)",done
+p:64554a994802,a restart of the cores was requested,restart rdzeni zlecony,코어 재시작이 요청됐어,"panel: module text / panel: editsql/safety.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0a1f3479a0e6,a system database,baza systemowa,시스템 데이터베이스,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:a4d959412cb4,a table without a primary key - read only,tabela bez klucza głównego - tylko do odczytu,기본 키가 없는 테이블 - 읽기 전용,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:02eae3fc91f6,"a value with a space, a quote, a brace, a # or a letter outside ASCII","wartość ze spacją, cudzysłowem, klamrą, # albo literą spoza ASCII","공백, 따옴표, 중괄호, # 또는 ASCII 밖의 문자가 있는 값","panel: module text / panel: drop_tables.py | the classic web panel (browser, UTF-8: any letter)",done
+p:8f53ed0fec22,abandoned,,포기,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ca20728d35f0,account,konto,계정,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6570a34d5bdf,accounts are not edited in this form,kont nie edytuje się z tego formularza,계정은 이 양식에서 편집하지 않아,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
 p:2bb6b986c5d6,active,,활성,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:c3805175370d,addition,dodanie,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
-p:8e7e337c4b47,after a restart of the cores,po restarcie rdzeni,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
+p:c3805175370d,addition,dodanie,추가,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
+p:8e7e337c4b47,after a restart of the cores,po restarcie rdzeni,코어 재시작 후,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:d87c448044de,all,wszystkie,전체,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
-p:9a235101af50,all accounts,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5760e9a60fba,all classes,wszystkie klasy,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:79712ac867f8,all in progress,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:fb649a9c477c,and %d more,i %d więcej,,"panel: module text / panel: editsql/editor.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:c5fe0200d1c7,any,dowolne,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
-p:afd95096bc5d,at least X% cheaper,co najmniej X% taniej,,"panel: module text / panel: market_preview/texts.py | keep: % c | the classic web panel (browser, UTF-8: any letter)",new
-p:977af9a3687c,at most {n} lines,najwyżej {n} linii,,"panel: module text / panel: drop_tables.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:e548afc48835,at once,od razu,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
+p:9a235101af50,all accounts,,모든 계정,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:5760e9a60fba,all classes,wszystkie klasy,모든 직업,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:79712ac867f8,all in progress,,진행 중인 것 전부,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:fb649a9c477c,and %d more,i %d więcej,외 %d개,"panel: module text / panel: editsql/editor.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:c5fe0200d1c7,any,dowolne,전체,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
+p:afd95096bc5d,at least X% cheaper,co najmniej X% taniej,최소 X% 저렴,"panel: module text / panel: market_preview/texts.py | keep: % c | the classic web panel (browser, UTF-8: any letter)",done
+p:977af9a3687c,at most {n} lines,najwyżej {n} linii,최대 {n}줄,"panel: module text / panel: drop_tables.py | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:e548afc48835,at once,od razu,즉시,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:84f6bb20d960,at the blacksmith,,대장장이에게서,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:a53d90aa36d5,at the guild forge,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:a178769da51b,avg ,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:4fc3dbf46f9a,avg. HP %d,śr. PŻ %d,,"panel: module text / panel: editsql/labels.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:869413988a85,back to automatic,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9b4e473e4de7,bag,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ac6944e565e2,base price from the price list for +{row}: {p},cena bazowa z CENY dla +{row}: {p},,"panel: module text / panel: market_preview/texts.py | keep: {p} {row} | the classic web panel (browser, UTF-8: any letter)",new
+p:a53d90aa36d5,at the guild forge,,길드 대장간에서,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:a178769da51b,avg ,,평균 ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:4fc3dbf46f9a,avg. HP %d,śr. PŻ %d,평균 HP %d,"panel: module text / panel: editsql/labels.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:869413988a85,back to automatic,,자동으로 되돌리기,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9b4e473e4de7,bag,,가방,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ac6944e565e2,base price from the price list for +{row}: {p},cena bazowa z CENY dla +{row}: {p},+{row}의 가격표 기본가: {p},"panel: module text / panel: market_preview/texts.py | keep: {p} {row} | the classic web panel (browser, UTF-8: any letter)",done
 p:5a11f00b367a,below tier,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:8f6c6078ac9b,"bin/db reads items, monsters, refining and shops from the database when it starts.","bin/db czyta przedmioty, potwory, ulepszenia i sklepy z bazy przy starcie.",,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
 p:302b0d3ea4ab,bin/game reads the experience table when it starts too.,bin/game czyta tabelę doświadczenia też przy starcie.,,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",new
