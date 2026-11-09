@@ -23,7 +23,7 @@ q:pkg:g:locale.old_pirate.success_thanks,"Old Pirate:[ENTER]What? I have been in
 q:pkg:g:locale.old_pirate.talk,Are you the Old Pirate? ,Jesteś Starym Piratem? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.old_pirate.talk_about_medicine,Why don't you go see a doctor? ,Dlaczego nie porozmawiasz z doktorem? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.oldwoman.no_matter,I don't have anything to do with you! ,Nie mam z tobą nic wspólnego! ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.oldwoman.not_enough_money,You don't have enough Yang! ,Nie masz wystarczającej ilości Yang! ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.oldwoman.not_enough_money,You don't have enough Yang! ,Nie masz wystarczającej ilości Yang! ,Δεν έχεις αρκετά Yang! ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.oldwoman.skill_reset1,"I see that you have experienced quite a few[ENTER]things in you life, despite being so young. Poor[ENTER]thing![ENTER][DELAY value;150] . . . [/DELAY][ENTER][ENTER]You know what? Let me reset your skill points.[ENTER]You can improve your skills by redistributing[ENTER]them. Of course, this isn't free. The price[ENTER]is  ","Masz już trochę doświadczenia, mimo młodego[ENTER]wieku...[ENTER][DELAY value;150] . . . [/DELAY][ENTER][ENTER]Wiesz co? Mogę pomóc Ci zresetować punkty[ENTER]umiejętności. Dzięki temu będziesz mógł od nowa[ENTER]je przydzielić.[ENTER]No tak... jak się pewnie domyślasz, taka usługa[ENTER]nie jest darmowa. Jej cena to  ",,quest dialog (the game's quests: locale) | keep: [/DELAY] [DELAY value;150]; [ENTER] = new line,new
 q:pkg:g:locale.oldwoman.skill_reset2,"Yang. Do you want to reset it? This experience is[ENTER]on special offer at the moment, so think about[ENTER]it. ",Yang. Czy chcesz je zresetować? Aktualna cena[ENTER]zawiera wyjątkową zniżkę. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.oldwoman.skill_reset_no,Thanks. Maybe later. ,Później. ,,quest dialog (the game's quests: locale),new
@@ -33,7 +33,7 @@ q:pkg:g:locale.quest_temp_reward_2,"During the testing period of the quests, no[
 q:pkg:g:locale.quest_word,Task: ,Zadanie: ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.questscroll.exist,Another quest is already in progress. ,Inna misja jest już aktywna. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.questscroll.finish,Quest completed! You have received the following[ENTER]reward: ,Misja zakończona![ENTER]Jako nagrodę otrzymano: ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.questscroll.finish_button,Quest completed. ,Misja zakończona. ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.questscroll.finish_button,Quest completed. ,Misja zakończona. ,Η αποστολή ολοκληρώθηκε. ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.questscroll_10_hunt,Snakemen soldiers ,Wężowi Żołnierze ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.questscroll_10_mis,"Kill the soldiers who're half man, half snake. ",Zabij żołnierzy będących pół ludźmi i pół wężami. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.questscroll_10_text,"You can't call them human. But it is also wrong[ENTER]to say they aren't. They look like humans but[ENTER]head, skin and behaviour are those of toxic[ENTER]snakes. They are in the desert and attack[ENTER]peddlers.[ENTER]Kill 20 of those who are half human, half snake.[ENTER]If you kill them, you'll get the following as a[ENTER]reward: ","Nie można nazwać ich ludźmi. Ale też nie można[ENTER]powiedzieć, że nimi nie są. Wyglądają jak ludzie,[ENTER]ale ich głowa, skóra i usposobienie bardziej[ENTER]przypominają węża. Można ich spotkać na pustyni,[ENTER]często atakują handlarzy.[ENTER]Zabij 20 Wężowych Ludzi a nie ominie Cię nagroda: ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
@@ -125,25 +125,25 @@ q:pkg:g:locale.quiz_18_2_choice,Perfect master ,Perfekcyjny Mistrz ,,quest dialo
 q:pkg:g:locale.quiz_18_3_choice,Grand master ,Wielki Mistrz ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_18_4_choice,Master ,Mistrz ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_19_0_question,Which one isn't a skill of body-force training? ,Która umiejętność nie należy do Wojownika Ciało? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_19_1_choice,Three way cut ,Trzystronne Cięcie ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_19_2_choice,Swordwhirl ,Wir Miecza ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_19_1_choice,Three way cut ,Trzystronne Cięcie ,Τριπλό κόψιμο ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_19_2_choice,Swordwhirl ,Wir Miecza ,Περιστροφή ξίφους ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_19_3_choice,Running ,Zwinność ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_1_0_question,Which game has the most users? ,Która gra ma najwięcej użytkowników? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_20_0_question,Which one isn't a skill of mental-fight training? ,Która umiejętność nie należy do Wojownika Umysłu? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_20_1_choice,Hit ,Walnięcie ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_20_2_choice,Strong body ,Silne Ciało ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_20_3_choice,Sword hit ,Uderzenie Miecza ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_20_2_choice,Strong body ,Silne Ciało ,Δυνατό σώμα ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_20_3_choice,Sword hit ,Uderzenie Miecza ,Χτύπημα ξίφους ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_20_4_choice,Angular hit ,Uderzenie Duchem ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_21_0_question,Which one isn't a skill of archery training? ,Która umiejętność nie należy do Ninja Łucznika? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_21_1_choice,Ambush ,Zasadzka ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_21_2_choice,Repetitive shot ,Powtarzalny Strzał ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_21_3_choice,Spark ,Iskrzące Uderzenie ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_21_4_choice,Poison Arrow ,Trująca Strzała ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_21_1_choice,Ambush ,Zasadzka ,Ενέδρα ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_21_2_choice,Repetitive shot ,Powtarzalny Strzał ,Επαναλαμβανόμενη βολή ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_21_3_choice,Spark ,Iskrzące Uderzenie ,Σπίθα ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_21_4_choice,Poison Arrow ,Trująca Strzała ,Δηλητηριώδες βέλος ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_22_0_question,Which one isn't a skill of blade-fight training? ,Która umiejętność nie jest umiejętnością Ninja[ENTER]Ostrza? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_22_1_choice,Fast attack ,Szybki Atak ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_22_2_choice,Fire Arrow ,Ognista Strzała ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_22_3_choice,Rolling dagger ,Wirujący Sztylet ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_22_4_choice,Stealth ,Krycie Się ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_22_1_choice,Fast attack ,Szybki Atak ,Γρήγορη επίθεση ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_22_2_choice,Fire Arrow ,Ognista Strzała ,Βέλος φωτιάς ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_22_3_choice,Rolling dagger ,Wirujący Sztylet ,Περιστρεφόμενο στιλέτο ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_22_4_choice,Stealth ,Krycie Się ,Κρυφότητα ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_23_0_question,Who can join weaponry training? ,Kto może szkolić się u Trenera Mocy Broni? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_23_1_choice,Warrior ,Wojownik ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_23_4_choice,Shaman ,Szaman ,,quest dialog (the game's quests: locale),new
@@ -163,19 +163,19 @@ q:pkg:g:locale.quiz_28_0_question,Who can join Healing Force training? ,Która k
 q:pkg:g:locale.quiz_28_1_choice,Warrior ,Wojownik ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_28_4_choice,Shaman ,Szaman ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_29_0_question,Which one is a skill of weaponry training? ,Którą umiejętnością włada Sura Broń? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_29_1_choice,Magic blade ,Czarowane Ostrze ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_29_2_choice,Ghost hit ,Duchowy Cios ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_29_3_choice,Dark protection ,Mroczna Ochrona ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_29_4_choice,Ghost of the flame ,Ognisty Duch ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_29_1_choice,Magic blade ,Czarowane Ostrze ,Μαγεμένη λεπίδα ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_29_2_choice,Ghost hit ,Duchowy Cios ,Χτύπημα φαντάσματος ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_29_3_choice,Dark protection ,Mroczna Ochrona ,Σκοτεινή προστασία ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_29_4_choice,Ghost of the flame ,Ognisty Duch ,Πνεύμα φλόγας ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_2_0_question,Which kingdom doesn't exist in Metin2 SinglePlayer? ,Które Królestwo nie istnieje w Metin2009? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_2_1_choice,Shinsoo kingdom ,Shinsoo ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_2_1_choice,Shinsoo kingdom ,Shinsoo ,Βασίλειο Σίνσου ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_2_2_choice,Pyungmoo kingdom ,Pyungmoo ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_2_3_choice,Jinno Kingdom ,Jinno ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_2_4_choice,Chunjo kingdom ,Chunjo ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_2_3_choice,Jinno Kingdom ,Jinno ,Βασίλειο Τζίνο ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_2_4_choice,Chunjo kingdom ,Chunjo ,Βασίλειο Τσούντζο ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_30_0_question,Which one is a skill of black magic training? ,Która umiejętność to umiejętność Czarnej Magii? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_30_1_choice,Finger hit ,Uderzenie Palcem ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_30_2_choice,Dragon whirl ,Smoczy Wir ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_30_3_choice,Dark hit ,Mroczne Uderzenie ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_30_1_choice,Finger hit ,Uderzenie Palcem ,Χτύπημα με δάχτυλο ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_30_2_choice,Dragon whirl ,Smoczy Wir ,Δίνη του δράκου ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_30_3_choice,Dark hit ,Mroczne Uderzenie ,Σκοτεινό χτύπημα ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_30_4_choice,Bewitched armour ,Zaczarowana Zbroja ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_31_0_question,Which one is not the second village in Metin2 SinglePlayer? ,Która ze wskazanych nie jest drugą wioską w[ENTER]Metin2009? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_31_1_choice,Bokjung area ,Bokjung ,,quest dialog (the game's quests: locale),new
@@ -187,24 +187,24 @@ q:pkg:g:locale.quiz_32_2_choice,Mongchoo area ,Mongchoo ,,quest dialog (the game
 q:pkg:g:locale.quiz_32_3_choice,Pyungmoo area ,Pyungmoo ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_32_4_choice,Joan area ,Joan ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_33_0_question,Which of these is not a neutral zone in Metin2 SinglePlayer? ,Który z wymienionych to teren nie neutralny w[ENTER]Metin2009? ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_33_1_choice,Valley of Seungryong ,Dolina Seungryong ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_33_2_choice,Yongbi Desert ,Pustynia Yongbi ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_33_1_choice,Valley of Seungryong ,Dolina Seungryong ,Κοιλάδα Σεουνγκριόνγκ ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_33_2_choice,Yongbi Desert ,Pustynia Yongbi ,Έρημος Γιόνγκμπι ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_33_3_choice,South Pole Continent ,Północny Kontynent ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_33_4_choice,Mount Sohan ,Góra Sohan ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_33_4_choice,Mount Sohan ,Góra Sohan ,Όρος Σοχάν ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_34_0_question,Which one of these isn't a skill of the Dragon[ENTER]Force training? ,Którą umiejętnością nie włada Szaman Smok? ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.quiz_34_1_choice,Infiltration ,Wyrzut ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_34_2_choice,Dragon Shooting ,Strzelający Smok ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_34_3_choice,Flying Talisman ,Latający Tamizman ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_34_4_choice,Blessing ,Błogosławieństwo ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_34_2_choice,Dragon Shooting ,Strzelający Smok ,Δράκος βολής ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_34_3_choice,Flying Talisman ,Latający Tamizman ,Ιπτάμενο φυλαχτό ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_34_4_choice,Blessing ,Błogosławieństwo ,Ευλογία ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_35_0_question,Which one isn't a skill of the Healing Force[ENTER]training? ,Która umiejętność nie należy do sztuki leczenia? ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.quiz_35_1_choice,Lightning throw ,Błyskawiczny Rzut ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_35_1_choice,Lightning throw ,Błyskawiczny Rzut ,Ρίψη κεραυνού ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_35_2_choice,Thunder ,Błyskawica ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_35_3_choice,Summon lightning ,Przywołanie Błyskawicy ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_35_4_choice,Cure ,Leczenie ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_35_3_choice,Summon lightning ,Przywołanie Błyskawicy ,Κάλεσμα κεραυνού ,quest dialog (the game's quests: locale),done
+q:pkg:g:locale.quiz_35_4_choice,Cure ,Leczenie ,Ίαση ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_36_0_question,Which skill in Metin2 is not a skill for combat[ENTER]support? ,Która umiejętność nadaje się do walki? ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.quiz_36_2_choice,Fishing ,Łowienie ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_36_3_choice,Leadership ,Przywództwo ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_36_4_choice,Dragon's Aid ,Pomoc Smoka ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_36_4_choice,Dragon's Aid ,Pomoc Smoka ,Βοήθεια του δράκου ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_37_0_question,From what level can you add skillpoints to the[ENTER]skills? ,Od jakiego poziomu można dodawać Punkty[ENTER]Umiejętności? ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.quiz_37_1_choice,Level 5 ,5 ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_37_2_choice,Level 20 ,20 ,,quest dialog (the game's quests: locale),new
@@ -335,7 +335,7 @@ q:pkg:g:locale.quiz_5_4_choice,Kissing ,Pocałunki ,,quest dialog (the game's qu
 q:pkg:g:locale.quiz_60_0_question,What's the maximum number of people in a group? ,Ile maksymalnie osób może liczyć grupa? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_61_0_question,Which skill allows you to give group members[ENTER]special bonuses? ,Za pomocą jakiej umiejętności można przydzielić[ENTER]członkom grupy wyjątkowe bonusy? ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.quiz_61_2_choice,Polymorph ,Polimorfia ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.quiz_61_3_choice,Stealth ,Krycie Się ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.quiz_61_3_choice,Stealth ,Krycie Się ,Κρυφότητα ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.quiz_61_4_choice,Leadership ,Przywództwo ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_62_0_question,Which level is required for founding a guild? ,Jaki poziom jest wymagany aby założyć gildię? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.quiz_62_1_choice,Level 40 ,40 ,,quest dialog (the game's quests: locale),new
@@ -407,7 +407,7 @@ q:pkg:g:locale.quiz_9_3_choice,Black Ruin Bow ,Łuk Czarnych Ruin ,,quest dialog
 q:pkg:g:locale.quiz_9_4_choice,Red Eye Bow ,Łuk Czerwonego Oka ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.remove_polymorph_chat,Abort transforming. ,Anuluj przemianę. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.remove_polymorph_msg,I'm going to abort the transforming. ,Przerwę przemianę. ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.reward,Reward: ,Nagroda: ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.reward,Reward: ,Nagroda: ,Ανταμοιβή: ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.show_guild_cur_score,Show own guild score ,Pokaż wynik mojej Gildii ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.show_guild_ranking_around,Show own guild ranking ,Pokaż ranking mojej Gildii ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.show_guild_ranking_top,Show highest-ranked guilds (Ranks 1-8) ,Pokaż ranking Gildii (top 1-8) ,,quest dialog (the game's quests: locale),new
@@ -478,11 +478,11 @@ q:pkg:g:locale.stamina_food.baekgo_accept_failure_info_text_1,Return to Oakgu. ,
 q:pkg:g:locale.stamina_food.baekgo_accept_failure_info_text_2,Tell Oakgu that you couldn't find green frog meat. ,"Powiedz Oakgu, że nie mogłeś znaleźć mięsa z[ENTER]zielonej żaby. ",,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.stamina_food.butcher.start_say,"Old man in the restaurant Suhpyung:[ENTER]My body isn't as useful as it used to be. When I[ENTER]was young, I could work a week straight, and I[ENTER]still had the energy to drink every night! Now,[ENTER]even standing around is hard. In times like[ENTER]these, a bowl of green frog soup seems like a[ENTER]good way of regaining your energy. ","Staruszek w restauracji Suhpyung:[ENTER]Moje ciało nie jest już w takiej formie jak[ENTER]kiedyś. Kiedy byłem młody, mogłem pracować równo[ENTER]tydzień i nadal mieć siłę na picie każdej nocy![ENTER]Teraz nawet stanie jest ciężkie.[ENTER]W takich momentach przydałaby się butelka Żabiej[ENTER]zupy do zregenerowania energii. ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stamina_food.butcher.start_say2,"Old Man in the restaurant Suhpyung:[ENTER]You want to know what green frog soup is? If you[ENTER]eat one bowl of this, you'll never be tired[ENTER]again! Even if you worked in the fields for one[ENTER]straight week, you'd still have energy in the[ENTER]evenings! A friend of mine named Oakgu is the[ENTER]best cook for green frog soup I know. However,[ENTER]for some reason, he doesn't make the soup[ENTER]anymore. ","Staruszek w restauracji Suhpyung:[ENTER]Chcesz wiedzieć co to jest Żabia zupa? Jeśli[ENTER]zjesz jedną butelkę tego, nigdy się nie zmęczysz![ENTER]Nawet jeśli będziesz pracować na polach równo[ENTER]tydzień, nadal będziesz miał energię wieczorami![ENTER]Mój przyjaciel Oakgu jest najlepszy w gotowaniu[ENTER]zielonej Żabiej zupy. Z jakiegoś powodu już jej[ENTER]więcej nie robi... ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.stamina_food.butcher.talk,Talk. ,Rozmowa. ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.stamina_food.butcher.talk,Talk. ,Rozmowa. ,Μίλα. ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.stamina_food.complete_say,"Oakgu:[ENTER]You got it? Don't tell anyone about the green[ENTER]frog soup. Especially not that bastard in the[ENTER]restaurant Suhpyung! This isn't enough; if people[ENTER]hear about the green frog soup, they'll all come[ENTER]here and eat it! ","Oakgu:[ENTER]Dostałeś to? Nigdy nie mów nikomu o zielonej[ENTER]Żabiej zupie. A na pewno nie temu draniowi z[ENTER]restauracji Suhpyung! To nie wystarczy. Jeśli[ENTER]ludzie o tym usłyszą, przyjdą i zjedzą wszystko! ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stamina_food.food_manager.order_say,"Oakgu:[ENTER]Green frog soup? Yes! I used to make it. But that[ENTER]was back when I was young. I wasn't afraid of the[ENTER]dangerous monsters, and that's why I was able to[ENTER]hunt green frogs. ",Oakgu:[ENTER]Zielona Żabia zupa? Tak! Gotowałem ją w dawnych[ENTER]czasach. Ale mogłem ją zrobić tylko kiedy byłem[ENTER]młody. Wtedy nie obawiałem się groźnych potworów[ENTER]i mogłem spokojnie polować na zielone żaby. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stamina_food.food_manager.order_say2,"Oakgu:[ENTER]But now? Now I'm old, and I don't have enough[ENTER]energy for this. I would like to eat green frog[ENTER]soup myself, but green frogs aren't easy to kill.[ENTER]If you got me some green frog meat, I'd be able[ENTER]to make the best green frog soup ever for you! ","Oakgu:[ENTER]A teraz? Jestem stary i nie mam tyle siły na to.[ENTER]Chciałbym znów zjeść zieloną Żabią zupę. Ale[ENTER]zielone żaby nie jest łatwo zabić! Jeśli[ENTER]zdobędziesz dla mnie jakiś zielony Żabi posiłek,[ENTER]będę mógł zrobić najlepszą na świecie zupę! ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.stamina_food.food_manager.talk,Talk. ,Rozmowa. ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.stamina_food.food_manager.talk,Talk. ,Rozmowa. ,Μίλα. ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.stamina_food.food_manager.talk_about_greeenfrog_soup,About the green frog soup ,O Zupie z Zielonych Żab ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.stamina_food.i_dont_have_the_greeenfrog_meat_yet,I don't have green frog meat yet. ,Nie mam jeszcze mięsa z zielonej żaby. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.stamina_food.i_have_the_greenfrog_meat,I got the green frog meat! ,Mam mięso z zielonej żaby! ,,quest dialog (the game's quests: locale),new
@@ -531,7 +531,7 @@ q:pkg:g:locale.stash.enlarge_3_counter,Members of the esoteric sect left,Pozosta
 q:pkg:g:locale.stash.enlarge_3_msg1,"You again![ENTER][ENTER]How about serving the kingdom once more?[ENTER]Somewhere, there's an esoteric sect, following[ENTER]some dark faith.[ENTER]Capture 100 members of this sect and bring them[ENTER]here. You have 30 minutes. ",Jesteś dokuczliwy![ENTER]Co powiesz na służenie Królestwu? Tam gdzieś jest[ENTER]Tajemna Sekta wyznająca mroczną religię. Złap 100[ENTER]członków tej sekty i przynieś ich tu. Masz 30[ENTER]minut. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stash.enlarge_3_notyet,The esoteric sect is still very strong. Give it[ENTER]your best! ,Tajemnicza sekta jest nadal silna.[ENTER]Pokonaj ją! ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stash.enlarge_3_success,Good work![ENTER]I'm going to reward your efforts by expanding[ENTER]your Storeroom. ,Dobra robota![ENTER]Nagrodzę twoją pracę powiększeniem Magazynu. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.stash.enlarge_3_timer,Remaining time ,Pozostały czas ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.stash.enlarge_3_timer,Remaining time ,Pozostały czas ,Υπολειπόμενος χρόνος ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.stash.enlarge_3_title,Expand your Storeroom by eliminating the esoteric[ENTER]sect! ,Powiększ swój Magazyn dzięki zajęciu się sprawą[ENTER]Ezoterycznej Sekty! ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stash.enlarge_first1,"You want to expand your Storeroom? Hmm, let me[ENTER]find out how well you serve your kingdom. ","Czy chcesz powiększyć swój Magazyn? Pozwól, że[ENTER]sprawdzę jak wiernie służysz naszemu Królestwu. ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.stash.enlarge_first1_cannot,"I'm sorry, but I can't do anything for you at the[ENTER]moment. I've expanded so many people's storage[ENTER]spaces that there isn't any space left now. It'll[ENTER]be a while before I can expand my storeroom[ENTER]again. Why don't you just use the space that you[ENTER]have at the moment? ","Przykro mi, nie mogę Ci w tej chwili pomóc.[ENTER]Powiększyłem magazyn tak wielu osobom...[ENTER]teraz już prawie w ogóle nie ma tutaj wolnego[ENTER]miejsca. Na pewno minie trochę czasu zanim[ENTER]sytuacja się poprawi. Dlaczego po prostu nie[ENTER]użyjesz miejsca, które masz obecnie? ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
@@ -565,7 +565,7 @@ q:pkg:g:locale.years_greetings.greet_msg,Are you here to greet me with a bow? ,"
 q:pkg:g:locale.years_greetings.no_money_this_time,"I wish you all the best for the coming year.[ENTER]However, you have already received your gift. Did[ENTER]you think that I wouldn't remember you? ","Ja również życzę tobie wszystkiego najlepszego na[ENTER]ten rok. Prezent już jednak otrzymałeś. Nie[ENTER]myślisz chyba, że już ciebie zapomniałem? ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.years_greetings.not_enoguh_inventory,Too bad. You don't have any space in your[ENTER]inventory. Come back once you have cleared up. ,"Przepraszam, nie masz miejsca w ekwipunku.[ENTER]Przyjdź później, gdy pozbędziesz się kilku[ENTER]rupieci. ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.years_greetings.select_1,Yes! Good luck in the new year! ,Tak! Dużo szczęścia w Nowym Roku! ,,quest dialog (the game's quests: locale),new
-q:pkg:g:locale.years_greetings.select_2,No ,Nie ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.years_greetings.select_2,No ,Nie ,Όχι ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.years_greetings.select_3,Why is everyone bowing? ,Dlaczego wszyscy się kłaniają? ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.years_greetings.under_level_15,"Oh thank you! I wish you the greatest and best of[ENTER]luck for the new year![ENTER]Unfortunately, I don't have a present for you.[ENTER]only those who have already reached level 15 are[ENTER]allowed these gifts. Don't feel too bad about it[ENTER]though, I'm certain the new year has plenty of[ENTER]great things in store for you! ","Och, wielkie dzięki! Życzę Ci wszystkiego[ENTER]najlepszego w Nowym Roku![ENTER]Niestety nie mam tobie nic do zaoferowania.[ENTER]Prezent otrzymują jedynie ci, którzy ukończyli[ENTER]poziom 15. Nie jest to jednak powód do smutku,[ENTER]nowy rok przyniesie tobie na pewno dużo dobrego! ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.yeonnahwan.event_item,Giant Axe+0 ,Olbrz. Topór+0 ,,quest dialog (the game's quests: locale),new
@@ -580,7 +580,7 @@ q:pkg:g:locale.yeonnahwan.kill_unggwi_text_1,Collect golden teeth from the Dark 
 q:pkg:g:locale.yeonnahwan.kill_unggwi_text_2,Collect golden teeth from Dark Orcs and take them[ENTER]to Yonah. ,Zgromadź Złote Zęby od Unggwis i dostarcz je do[ENTER]Yonah. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
 q:pkg:g:locale.yeonnahwan.report_label,Return to Yonah ,Powrót do Yonah ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.yeonnahwan.report_text,Describe the manufacturing of the new porcelain[ENTER]to Yonah. ,Opisz wytwarzanie nowej porcelany Garncarzowi[ENTER]Yonah. ,,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
-q:pkg:g:locale.yes,Yes ,Tak ,,quest dialog (the game's quests: locale),new
+q:pkg:g:locale.yes,Yes ,Tak ,Ναι ,quest dialog (the game's quests: locale),done
 q:pkg:g:locale.yuhwan.failure_info_label,Return to Yu-Hwan the musician. ,Wróć do muzyka Yu-Hwan. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.yuhwan.failure_info_text_1,Go back to Yu-Hwan the musician. ,Wróć do muzyka Yu-Hwan. ,,quest dialog (the game's quests: locale),new
 q:pkg:g:locale.yuhwan.failure_info_text_2,Tell Yu-Hwan the musician that you couldn't find[ENTER]the spider web. ,"Powiedz Muzykowi Yu-Hwan, że nie mogłeś odnaleźć[ENTER]pajęczej sieci. ",,quest dialog (the game's quests: locale) | keep: [ENTER] = new line,new
@@ -599,7 +599,7 @@ q:pkg:g:main_quest_flame_lv100._020_say,Yak-Hwan is looking for you. Please go t
 q:pkg:g:main_quest_flame_lv100._030_say,Welcome. Yon-I-Walker has ended his[ENTER]investigations. The phenomenon that you observed[ENTER]in Fireland has been identified as Black Matter. ,"Witaj. Yon-I-Walker zakończył badania. Ten[ENTER]fenomen, który udało ci się zaobserwować na[ENTER]Ognistej Ziemi, określany jest mianem Czarnej[ENTER]Materii. ",,quest dialog (the game's quests: main_quest_flame_lv100) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv100._040_say,"It flows out of the interior of the fortress and[ENTER]alters the demons in the surroundings. The longer[ENTER]the amount of time they are under its influence,[ENTER]the stronger and more aggressive they become. We[ENTER]need to stop this Black Matter from spreading[ENTER]further! ","Wydobywa się ona z twierdzy i przemienia demony w[ENTER]okolicy. Im dużej są one pod jej wpływem, tym[ENTER]stają się silniejsze i agresywniejsze. Musimy[ENTER]zapobiec rozszerzaniu się Czarnej Materii. ",,quest dialog (the game's quests: main_quest_flame_lv100) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv100._060_say,"Whilst our alchemist searches for a solution, we[ENTER]shouldn't sit around on our thumbs here. Return[ENTER]to the Fireland and defeat 300 demons in the[ENTER]fortress' surroundings. ","Nie możemy przecież siedzieć z założonymi rękami,[ENTER]podczas gdy nasz alchemik szuka jakiegoś[ENTER]rozwiązania. Wróć do Ognistej Ziemi i zabij 300[ENTER]demonów grasujących w pobliżu twierdzy. ",,quest dialog (the game's quests: main_quest_flame_lv100) | keep: [ENTER] = new line,new
-q:pkg:g:main_quest_flame_lv100._070_say,Naturally. ,Oczywiście. ,,quest dialog (the game's quests: main_quest_flame_lv100),new
+q:pkg:g:main_quest_flame_lv100._070_say,Naturally. ,Oczywiście. ,Φυσικά. ,quest dialog (the game's quests: main_quest_flame_lv100),done
 q:pkg:g:main_quest_flame_lv100._080_say,Thank you. Now hurry! ,Dziękuję. A teraz pośpiesz się! ,,quest dialog (the game's quests: main_quest_flame_lv100),new
 q:pkg:g:main_quest_flame_lv100._090_notice,Defeat 300 Fireland demons in the fortress[ENTER]surroundings and at the location of the Sun[ENTER]Herbs. ,"Wyeliminuj 300 demonów Ognistej Ziemi grasujących[ENTER]w pobliżu twierdzy oraz w miejscu, gdzie rosną[ENTER]Słoneczne Zioła. ",,quest dialog (the game's quests: main_quest_flame_lv100) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv100._100_sayTitle,Demon Hunt ,Dämonenhatz ,,quest dialog (the game's quests: main_quest_flame_lv100),new
@@ -688,7 +688,7 @@ q:pkg:g:main_quest_flame_lv102._010_sendLetter,Storm the Fortress ,Szturm Twierd
 q:pkg:g:main_quest_flame_lv102._020_say,Yak-Hwan is looking for you. He wants to let you[ENTER]in on the further planning. ,Szuka cię Yak-Hwan. Prawdopodobnie chce cię[ENTER]wtajemniczyć w dalsze plany. ,,quest dialog (the game's quests: main_quest_flame_lv102) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv102._030_say,"We have barricaded the Red Dragon Fortress. With[ENTER]this, no more infected demons can get out and we[ENTER]can prevent the continued spread of Black Matter. ",Zabarykadowaliśmy Twierdzę Czerwonego Smoka. W[ENTER]ten sposób nie przedostaną się na zewnątrz żadne[ENTER]zarażone demony i tym samym zapobiegniemy[ENTER]dalszemu rozprzestrzenianiu się Czarnej Materii. ,,quest dialog (the game's quests: main_quest_flame_lv102) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv102._040_say,"Your task is now in the fortress[ENTER]invade, so many demons as possible[ENTER]harmless to make and find out whether it[ENTER]is the legendary red dragon is caught. ",Deine Aufgabe wird es nun sein in die Festung einzufallen so viele Dämonen wie möglich unschädlich zu machen und herauszufinden ob darin tatsächlich der legendäre Rotdrache gefangen ist ,,quest dialog (the game's quests: main_quest_flame_lv102) | keep: [ENTER] = new line,new
-q:pkg:g:main_quest_flame_lv102._050_say,Understood. ,Zgoda. ,,quest dialog (the game's quests: main_quest_flame_lv102),new
+q:pkg:g:main_quest_flame_lv102._050_say,Understood. ,Zgoda. ,Κατάλαβα. ,quest dialog (the game's quests: main_quest_flame_lv102),done
 q:pkg:g:main_quest_flame_lv102._060_say,Perform 30 demons and bring me as evidence[ENTER]for your daemon claws. ,Erledige 30 Dämonen und bringe mir als Beweis dafür ihre Dämonenkrallen ,,quest dialog (the game's quests: main_quest_flame_lv102) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv102._070_notice,Perform 30 demons and bring yak-hwan as evidence[ENTER]your daemon claws. ,Erledige 30 Dämonen und bringe Yak Hwan als Beweis ihre Dämonenkrallen ,,quest dialog (the game's quests: main_quest_flame_lv102) | keep: [ENTER] = new line,new
 q:pkg:g:main_quest_flame_lv102._080_sayTitle,Storm the Red Dragon Fortress! ,Szturmuj Twierdzę Czerwonego Smoka! ,,quest dialog (the game's quests: main_quest_flame_lv102),new
