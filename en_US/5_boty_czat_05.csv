@@ -224,8 +224,8 @@ b:value:mapa_gdzie:397f69667067,on Mount Sohan,,on Mount Sohan,a value inside a 
 b:value:format:a08585f8e096,{n}{x},,{n}{x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:value:format:bf0f099c6c37,{n}% {x}+,,{n}% {x}+,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:phrase:1f1dd908790c,You have gained %d exp.,,You have gained %d exp.,"a phrase the server says (bots' help, notices) | keep: %d",done
-b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:cb8a369011e5,,Czym jest Bingsu?,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,Thanks for the help with the mob!,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:cb8a369011e5,,Czym jest Bingsu?,What is Bingsu?,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:a6869600898d,Aura of the Sword,,Aura of the Sword,"a phrase the server says (bots' help, notices)",done
 b:phrase:2c0ad07095c8,There is no one by that name,,There is no one by that name,"a phrase the server says (bots' help, notices)",done
 b:phrase:37da4b99062c,Close the other window first.,,Close the other window first.,"a phrase the server says (bots' help, notices)",done
@@ -249,8 +249,8 @@ b:phrase:7102128c349d,Account with id %d not found.,,Account with id %d not foun
 b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:3cc98c0f66ee,Spy mode is active!,,Spy mode is active!,"a phrase the server says (bots' help, notices)",done
 b:phrase:58d3f96a74df,Whisper to %s(%s) from %s,,Whisper to %s(%s) from %s,"a phrase the server says (bots' help, notices) | keep: %s %s %s",done
-b:phrase:de12142429db,,nie mozesz zablokowac GMa,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:a0af7c3eed38,,za trudn,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:de12142429db,,nie mozesz zablokowac GMa,you can't block a GM,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:a0af7c3eed38,,za trudn,too hard,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:de855b5e2883,I'm not luring for you,,I'm not luring for you,"a phrase the server says (bots' help, notices)",done
 b:phrase:4bbc0b21cf92,"Dobra, koncze lurowanie",,"Dobra, koncze lurowanie","a phrase the server says (bots' help, notices)",done
 b:phrase:083f962a89de,Invite me to your party first,,Invite me to your party first,"a phrase the server says (bots' help, notices)",done
@@ -270,14 +270,14 @@ b:phrase:36d7f6f57fbb,"dropper, pelny plecak",,"dropper, pelny plecak","a phrase
 b:phrase:183e738f2852,chcialbym kupic od ciebie,,chcialbym kupic od ciebie,"a phrase the server says (bots' help, notices)",done
 b:phrase:86f73bf95395,chce kupic,,chce kupic,"a phrase the server says (bots' help, notices)",done
 b:phrase:f6f80d0adacd,wszystko ok,,wszystko ok,"a phrase the server says (bots' help, notices)",done
-b:phrase:cd4dac748588,,mozesz odejsc,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:cd4dac748588,,mozesz odejsc,you can go,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:f9dbdf30b5cc,wracaj do siebie,,wracaj do siebie,"a phrase the server says (bots' help, notices)",done
 b:phrase:bb68ed3653a5,przestan do mnie pisac,,przestan do mnie pisac,"a phrase the server says (bots' help, notices)",done
 b:phrase:253235bb6d9e,przestan mnie zaczepiac,,przestan mnie zaczepiac,"a phrase the server says (bots' help, notices)",done
-b:phrase:4a767b90c212,,nie pisz mi,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:5a00b53c2f08,,odczep sie,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:4dc46ad08b15,,nie zaczepiaj,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:540afebdaa77,,nie chce z toba gadac,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:4a767b90c212,,nie pisz mi,don't message me,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:5a00b53c2f08,,odczep sie,leave me alone,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:4dc46ad08b15,,nie zaczepiaj,don't bother me,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:540afebdaa77,,nie chce z toba gadac,i don't want to talk to you,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:f5869123311e,Taking books to the storage,,Taking books to the storage,"a phrase the server says (bots' help, notices)",done
 b:phrase:4695b589a3e3,Going to the general store,,Going to the general store,"a phrase the server says (bots' help, notices)",done
 b:phrase:eb10c3288fae,Going to the armour dealer,,Going to the armor dealer,"a phrase the server says (bots' help, notices)",done
@@ -321,7 +321,7 @@ b:phrase:587726c3c4e3,Your stack is full already.,,Your stack is full already.,"
 b:phrase:7b851821f8b0,You have no room in your bag.,,You have no room in your bag.,"a phrase the server says (bots' help, notices)",done
 b:phrase:ced4160a2fc1,Taken from your companion:,,Taken from your companion:,"a phrase the server says (bots' help, notices)",done
 b:phrase:d246a7cc47b5,The handover failed.,,The handover failed.,"a phrase the server says (bots' help, notices)",done
-b:phrase:db1c1906475a,,Towarzysz nie ma tyle yang.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:db1c1906475a,,Towarzysz nie ma tyle yang.,Your companion doesn't have that much Yang.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:8060934dc47d,I couldn't get to the water.,,I couldn't get to the water.,"a phrase the server says (bots' help, notices)",done
 b:phrase:f152fe7ab096,It has to get up first.,,It has to get up first.,"a phrase the server says (bots' help, notices)",done
 b:phrase:692ecdd0013b,No room in the bag.,,No room in the bag.,"a phrase the server says (bots' help, notices)",done
@@ -377,7 +377,7 @@ b:phrase:31bda7537934,Talk to the Captain,,Talk to the Captain,"a phrase the ser
 b:phrase:d824bb948f39,Destroy the Metin of Battle,,Destroy the Metin of Battle,"a phrase the server says (bots' help, notices)",done
 b:phrase:30f45262a0f3,Go to the Captain,,Go to the Captain,"a phrase the server says (bots' help, notices)",done
 b:phrase:4511378cdec8,dajmy spokoj,,dajmy spokoj,"a phrase the server says (bots' help, notices)",done
-b:phrase:bf52b20306dc,,"Haha, za szybko.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:bf52b20306dc,,"Haha, za szybko.","Haha, too fast.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:3ba5d8523d65,Let's just play for now.,,Let's just play for now.,"a phrase the server says (bots' help, notices)",done
 b:phrase:fee0f20165e0,"Heh, you already said that.",,"Heh, you already said that.","a phrase the server says (bots' help, notices)",done
 b:phrase:af9dd705515e,"Good to see you, my tank.",,"Good to see you, my tank.","a phrase the server says (bots' help, notices)",done
@@ -389,7 +389,7 @@ b:phrase:58c59c8d0b0b,"That's a big gift, thank you.",,"That's a big gift, thank
 b:phrase:6f789ac6bb32,"Hehe, thanks for the gift!",,"Hehe, thanks for the gift!","a phrase the server says (bots' help, notices)",done
 b:phrase:6bb20104ec93,Are you flirting with me?,,Are you flirting with me?,"a phrase the server says (bots' help, notices)",done
 b:phrase:6c0e45a996d1,"Haha, I came here to grind.",,"Haha, I came here to grind.","a phrase the server says (bots' help, notices)",done
-b:phrase:557cec5fa4ed,,sprzedawac czy zostawic,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:557cec5fa4ed,,sprzedawac czy zostawic,sell or keep,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:05250256d7a2,Player %s reached level %u!,,Player %s reached level %u!,"a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:b180ba5814c4,You said you were saving for,,You said you were saving for,"a phrase the server says (bots' help, notices)",done
 b:phrase:a7446dc01afa,. Still your goal?,,. Still your goal?,"a phrase the server says (bots' help, notices)",done
@@ -397,7 +397,7 @@ b:phrase:6ace6fcf3252,"I'm close, coming over to you",,"I'm close, coming over t
 b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:855b73baad5f,"%s, see you there in ~%u min",,"%s, see you there in ~%u min","a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:5d82e8f86e7e,%s is at your side.,,%s is at your side.,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:2a84ff3baef5,,nie bij,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:2a84ff3baef5,,nie bij,don't hit,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:c9693673261b,No reward data for %s.,,No reward data for %s.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:099575a9a595,I have to get up first.,,I have to get up first.,"a phrase the server says (bots' help, notices)",done
 b:phrase:36830cafd28b,Item sold for %lld yang,,Item sold for %lld yang,"a phrase the server says (bots' help, notices) | keep: %lld",done
@@ -433,8 +433,8 @@ b:phrase:54b5ed2de82c,"[War] A war with the guild %s is on already, or ending.",
 b:phrase:792394004ad2,[War] The war map is not ready yet. Try again shortly.,,[War] The war map is not ready yet. Try again shortly.,"a phrase the server says (bots' help, notices)",done
 b:phrase:efdafcb2ff5c,[War] War declared on the bot guild %s. Battlefield: %s. The answer comes in a few seconds in the guild chat.,,[War] War declared on the bot guild %s. Battlefield: %s. The answer comes in a few seconds in the guild chat.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:5d7e1059f924,Only a skill's buff can be removed with a right click.,,Only a skill's buff can be removed with a right click.,"a phrase the server says (bots' help, notices)",done
-b:phrase:8b33ae46960a,,"[Guild] Orders to your guild's bots: /gildia_boty help, /gildia_boty exp, /gildia_boty return.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:44e268e7759b,,"[Gildia] Rozkazy dla botow gildii: /gildia_boty pomoc, /gildia_boty exp, /gildia_boty wracajcie.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:8b33ae46960a,,"[Guild] Orders to your guild's bots: /gildia_boty help, /gildia_boty exp, /gildia_boty return.","[Guild] Orders to your guild's bots: /gildia_boty help, /gildia_boty exp, /gildia_boty return.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:44e268e7759b,,"[Gildia] Rozkazy dla botow gildii: /gildia_boty pomoc, /gildia_boty exp, /gildia_boty wracajcie.","[Guild] Orders for the guild bots: /gildia_boty pomoc, /gildia_boty exp, /gildia_boty wracajcie.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:d5657b7d574e,[Guild] No guild bot was coming to you.,,[Guild] No guild bot was coming to you.,"a phrase the server says (bots' help, notices)",done
 b:phrase:7a25b1f23256,[Guild] You are not in a guild.,,[Guild] You are not in a guild.,"a phrase the server says (bots' help, notices)",done
 b:phrase:80dc3120f2c9,"[Guild] The guild master gives the bots orders, and the ranks allowed to use the guild's skills (the Grades tab).",,"[Guild] The guild master gives the bots orders, and the ranks allowed to use the guild's skills (the Grades tab).","a phrase the server says (bots' help, notices)",done
@@ -627,7 +627,7 @@ b:phrase:f93499c4e9e8,I have to get up first - I'll be right there.,,I have to g
 b:phrase:da9c377473a3,Off to level on my own. Call me from the Companion letter when you need me.,,Off to level on my own. Call me from the Companion letter when you need me.,"a phrase the server says (bots' help, notices)",done
 b:phrase:a4fd671cc32c,Close the shop and collect the goods and proceeds first. I cannot leave with your goods on the counter.,,Close the shop and collect the goods and proceeds first. I cannot leave with your goods on the counter.,"a phrase the server says (bots' help, notices)",done
 b:phrase:3583655f5235,Your companion has left. You can choose a new one in the Companion letter.,,Your companion has left. You can choose a new one in the Companion letter.,"a phrase the server says (bots' help, notices)",done
-b:phrase:9da8b0cfd072,,"Dobra, nie luruje - walcze przy tobie.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:9da8b0cfd072,,"Dobra, nie luruje - walcze przy tobie.","Okay, no luring - I'll fight next to you.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:a37ca51dd941,"All right, I lure: while you stand on a spot, I pull up to 3 packs of monsters from around and bring them to you.",,"All right, I lure: while you stand on a spot, I pull up to 3 packs of monsters from around and bring them to you.","a phrase the server says (bots' help, notices)",done
 b:phrase:9d350f2ee946,"Luring is on, but I'm not fighting now - set the fight to ""Attack"" or ""No 1st hit"" and I'll start.",,"Luring is on, but I'm not fighting now - set the fight to ""Attack"" or ""No 1st hit"" and I'll start.","a phrase the server says (bots' help, notices)",done
 b:phrase:1e8b2afc070a,"All right, no luring - I fight at your side.",,"All right, no luring - I fight at your side.","a phrase the server says (bots' help, notices)",done
@@ -644,7 +644,7 @@ b:phrase:17778cf45306,"I have nothing to sell - the rest are gifts, locked piece
 b:phrase:57492b2ba745,Back from shopping: I spent %lld yang and have %u red and %u blue potions.,,Back from shopping: I spent %lld yang and have %u red and %u blue potions.,"a phrase the server says (bots' help, notices) | keep: %lld %u %u",done
 b:phrase:084410d3b946,I'm playing on my own now and do my own shopping. Call me first.,,I'm playing on my own now and do my own shopping. Call me first.,"a phrase the server says (bots' help, notices)",done
 b:phrase:bc34a4067f88,I can't get to my town from here.,,I can't get to my town from here.,"a phrase the server says (bots' help, notices)",done
-b:phrase:8ddec1e4fe03,,Stad nie dojde do swojego miasta.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:8ddec1e4fe03,,Stad nie dojde do swojego miasta.,I can't get to my town from here.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:2229da6583bc,Off %s to shop. Back when I'm done.,,Off %s to shop. Back when I'm done.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:86c72e2689be,Costumes are switched off on this server.,,Costumes are switched off on this server.,"a phrase the server says (bots' help, notices)",done
 b:phrase:c548694c309f,Only a Bleach takes a hairstyle off: put one in your companion's bag and right-click it.,,Only a Bleach takes a hairstyle off: put one in your companion's bag and right-click it.,"a phrase the server says (bots' help, notices)",done
@@ -661,7 +661,7 @@ b:phrase:d950963ec11e,That does not go in that place.,,That does not go in that 
 b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,What it wears there cannot be taken off.,"a phrase the server says (bots' help, notices)",done
 b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,Put on. Your companion will not take it off by itself.,"a phrase the server says (bots' help, notices)",done
 b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,It will put it on as soon as its blow is done.,"a phrase the server says (bots' help, notices)",done
-b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",It'll put it on as soon as it finishes the attack.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,"a phrase the server says (bots' help, notices)",done
 b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,I can't put that on now - I'll try again in a moment.,"a phrase the server says (bots' help, notices)",done
 b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,A dye does nothing to a hairstyle - take it off with a Bleach first.,"a phrase the server says (bots' help, notices)",done
@@ -669,7 +669,7 @@ b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,
 b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,That cannot be used now - try again in a moment.,"a phrase the server says (bots' help, notices)",done
 b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,The hairstyle stayed on - try again in a moment.,"a phrase the server says (bots' help, notices)",done
 b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,The hairstyle is off and in your companion's bag. Now you can put another on.,"a phrase the server says (bots' help, notices)",done
-b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,This item is busy right now.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,Dragon stones cannot be handed over here.,"a phrase the server says (bots' help, notices)",done
 b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,Added to your companion's stack: %d of %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
 b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,Added to your stack: %d of %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
