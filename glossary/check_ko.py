@@ -5,7 +5,7 @@
 
 Uses the checks of tools/validate.py (variables in the same order,
 placeholders, tags, colour codes, new lines, length) with code page cp949
-for the game's sheets and UTF-8 for the launcher. tools/validate.py itself
+for the game's sheets and UTF-8 for the launcher and the web panel. tools/validate.py itself
 is not changed.
 """
 import collections
@@ -33,7 +33,7 @@ def main():
         if not m or m.group('sheet') not in template:
             continue
         table = template[m.group('sheet')]
-        codepage = 'utf-8' if m.group('sheet') == '6_launcher' else 'cp949'
+        codepage = 'utf-8' if m.group('sheet') in validate.UTF8_SHEETS else 'cp949'
         rel = 'ko/' + name
         header, data, _d = validate.read_csv(validate.read_file(os.path.join(folder, name)), rel)
         if header != validate.COLUMNS:

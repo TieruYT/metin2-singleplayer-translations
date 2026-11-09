@@ -2,7 +2,7 @@
 
 Regeln: siehe CLAUDE.md. Es werden nur leere `translation`-Zellen gefüllt.
 Tabelle neu erzeugen: `python glossary/progress_table.py`.
-Prüfen: `python tools/validate.py --base origin/main <lang>` (für `ko`: `python glossary/check_ko.py`).
+Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`; `glossary/check_ko.py` zeigt nur ko).
 
 ## Stand (übersetzt/Zeilen)
 
