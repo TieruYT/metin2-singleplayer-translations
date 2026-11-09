@@ -269,9 +269,9 @@ boty z pola niżej - u góry widać sumę. 0 tam = bez nich.
 Więcej botów to więcej pracy dla komputera.
 Zmiana działa po restarcie serwera.","Hvor mange bots der spiller samtidig på CH1 og CH2.
 
-Tallet fordeles ligeligt mellem de tre kongeriger:
+Tallet fordeles ligeligt mellem de tre riger:
 fx 900 er 300 bots hver i Shinsoo, Chunjo og Jinno.
-Hvert kongerige har 1500 botfigurer, mere går ikke.
+Hvert rige har 1500 botfigurer, mere går ikke.
 
 Med 3 eller 4 kanaler spiller de friske bots fra feltet nedenfor
 OVENI på CH3 og CH4 - summen vises øverst.
@@ -322,7 +322,7 @@ i feltet nedenfor.
 Fx skyder 1000 og 500 her: 1000 bots kommer ind efter start,
 og over de næste timer kommer 500 mere, én ad gangen.
 
-Et kongerige giver ikke flere bots, end det har figurer (1500).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Et rige giver ikke flere bots, end det har figurer (1500).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:0873886a2ff6,"Over how many hours the extra bots from the field
 above arrive. They are spread evenly over that time.
 
@@ -356,11 +356,11 @@ wyłączony, a u góry widać sumę.
 
 Np. Chunjo 1000, Shinsoo 0, Jinno 0 = boty grają tylko
 w żółtym królestwie. Królestwo z 0 nie ma żadnego bota.","I stedet for ét tal fra skyderen indstiller du for hvert
-kongerige, hvor mange bots der spiller i det (0-1500). Skyderen er så
+rige, hvor mange bots der spiller i det (0-1500). Skyderen er så
 slået fra, og summen vises øverst.
 
 Fx Chunjo 1000, Shinsoo 0, Jinno 0 = bots spiller kun
-i det gule kongerige. Et kongerige med 0 har ingen bot.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+i det gule rige. Et rige med 0 har ingen bot.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c6c4425e7667,"How many game channels the server runs. At the login
 you choose a channel.
 
@@ -432,9 +432,9 @@ po równo na królestwa i pół na pół między CH3 i CH4.
 To osobna liczba od suwaka i DOCHODZI do niego: suwak 910
 i tu 500 to razem 1410 botów (u góry widać sumę).
 0 = bez świeżych botów. Działa przy 3 i 4 kanałach.","Hvor mange friske bots der spiller samtidig på CH3 og CH4 - egne figurer
-fra level 1, 500 pr. kongerige, lavet ved
+fra level 1, 500 pr. rige, lavet ved
 første start med 3 eller 4 kanaler. Tallet fordeles ligeligt
-mellem kongerigerne og halvt om halvt mellem CH3 og CH4.
+mellem rigerne og halvt om halvt mellem CH3 og CH4.
 
 Det er et tal for sig ved siden af skyderen og LÆGGES TIL:
 skyder 910 og 500 her er 1410 bots i alt (summen vises
@@ -444,7 +444,7 @@ number is split equally between the kingdoms (1500 bot characters each,
 at most 2500). Fresh bots of CH3/CH4 (below) come on top. Needs a restart.","Ilu botów ma grać jednocześnie na CH1 i CH2? Liczba z suwaka dzieli się
 po równo między królestwa (każde ma 1500 postaci botów, najwyżej 2500).
 Świeże boty z CH3/CH4 (niżej) dochodzą do niej. Zmiana: po restarcie.","Hvor mange bots skal spille samtidig på CH1 og CH2? Skyderens tal
-fordeles ligeligt mellem kongerigerne (1500 botfigurer hver,
+fordeles ligeligt mellem rigerne (1500 botfigurer hver,
 højst 2500). Friske bots på CH3/CH4 (nedenfor) kommer oveni. Kræver genstart.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9b5e2f8a71fb,Bot count,Liczba botów,Antal bots,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3a6f2fcf3e9e,Bots: {#0},Boty: {#0},Bots: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -458,8 +458,8 @@ l:2de2a301a563,Extra bots later (0-2500):,Dodatkowe boty później (0-2500):,Eks
 l:457cdcc4db96,Extra bots later,Dodatkowe boty później,Ekstra bots senere,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:93e500ac06eb,"Extra bots arrive over (h, 1-168):","Dodatkowe boty dochodzą przez (h, 1-168):","Ekstra bots kommer over (t, 1-168):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d2f4629f6c7e,Time over which the extra bots arrive,Czas dochodzenia dodatkowych botów,"Tiden, som de ekstra bots kommer over","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e840e47ebe16,Individual numbers for the kingdoms,Indywidualne wartości dla królestw,Egne tal for kongerigerne,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b94cf6561616,Per kingdom,Osobno dla królestw,Pr. kongerige,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e840e47ebe16,Individual numbers for the kingdoms,Indywidualne wartości dla królestw,Egne tal for rigerne,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:b94cf6561616,Per kingdom,Osobno dla królestw,Pr. rige,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3dc0dda2040e,"Shinsoo (red, 0-1500):","Shinsoo (czerwone, 0-1500):","Shinsoo (rød, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ba10be01a395,"Chunjo (yellow, 0-1500):","Chunjo (żółte, 0-1500):","Chunjo (gul, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dfc79b16756f,"Jinno (blue, 0-1500):","Jinno (niebieskie, 0-1500):","Jinno (blå, 0-1500):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1039,7 +1039,7 @@ l:b01c5ca7dab5,Launcher log created.,Utworzono dziennik launchera.,Launcherlog o
 l:c66f285b41fb,VPS: saved limit {0} bots. The in-game counter is for one channel.,VPS: zapisany limit {0} botów. Licznik w grze dotyczy jednego kanału.,VPS: grænse på {0} bots gemt. Tælleren i spillet gælder for én kanal.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ad0120a55656,"Save bots and channels on the VPS? After saving, I will ask about applying them and restarting now (recreating game from .env). You can defer the restart. A panel core restart, docker restart and a reboot do not apply the new .env.","Zapisać boty i kanały na VPS? Po zapisie zapytam o zastosowanie i restart teraz (odtworzenie game z .env). Możesz odłożyć restart. Restart rdzeni z panelu, docker restart i reboot nie stosują nowego .env.","Gem bots og kanaler på VPS'en? Efter gemning spørger jeg, om de skal anvendes og genstartes nu (genskab game ud fra .env). Du kan udsætte genstarten. En genstart af panelkernen, docker restart og en reboot anvender ikke den nye .env.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:88a124f194ca,Bots on the VPS,Boty na VPS,Bots på VPS'en,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6ba428dbdbc3,"per kingdom: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","osobno dla królestw: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","pr. kongerige: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:6ba428dbdbc3,"per kingdom: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","osobno dla królestw: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","pr. rige: Shinsoo {#0}, Chunjo {#1}, Jinno {#2}","launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:216c993433c1,{#0} playing bots,{#0} grających botów,{#0} spillende bots,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9d0ca9b11480,", two channels ({#0}% of the bots on CH2)",", dwa kanały ({#0}% botów na CH2)",", to kanaler ({#0} % af bottene på CH2)","launcher window or message | keep: % o; {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:bb94b5317d31,", three channels ({#0}% of the bots on CH2, {#1} fresh bots on CH3)",", trzy kanały ({#0}% botów na CH2, {#1} świeżych botów na CH3)",", tre kanaler ({#0} % af bottene på CH2, {#1} friske bots på CH3)","launcher window or message | keep: % o; {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1470,7 +1470,7 @@ l:c7f73bb54d92,Settings,Ustawienia,Indstillinger,"launcher window or message | n
 l:55462edfc4a6,PLAY GAME,ROZPOCZNIJ GRĘ,START SPILLET,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9018baa02deb,START SERVER,URUCHOM SERWER,START SERVER,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:395d9d7dc991,Web panel,Panel WWW,Webpanel,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","Antal bots, kongeriger og befolkningstempo.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","Antal bots, riger og befolkningstempo.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:31331b60c306,Character progression and difficulty.,Rozwój postaci i poziom trudności.,Figurernes udvikling og sværhedsgrad.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4f10fd43a6c6,Rate editor in the web panel.,Edytor mnożników w panelu WWW.,Rateeditor i webpanelet.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d79c02b6b1ff,VPS server settings.,Ustawienia serwera VPS.,VPS-serverindstillinger.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
