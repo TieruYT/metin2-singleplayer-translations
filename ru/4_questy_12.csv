@@ -188,69 +188,69 @@ q:pkg:g:warehouse._70_say,"You should change it for security reasons.[ENTER][ENT
 q:pkg:g:warehouse._80_say,"Well, I'm not forcing anybody. If you don't feel[ENTER]like it come back later. ","No cóż, nikogo przecież nie zmuszam. Jak nie[ENTER]teraz to przyjdź najwyżej później. ","Что ж, я никого не заставляю. Если не хочется,[ENTER]приходи позже. ",quest dialog (the game's quests: warehouse) | keep: [ENTER] = new line,done
 q:pkg:g:warehouse._90_npcChat,Open Storeroom ,Otwórz Magazyn ,Открыть склад ,quest dialog (the game's quests: warehouse),done
 q:pkg:t:beta.collect.already_completed,This bonus has already been granted.,Ten bonus został już przyznany.,Этот бонус уже выдан.,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.collect.ask,Shall I grant you the bonuses from the Biologist's research?,Czy nadać Ci bonusy z badań biologa?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.collect.chat,BETA: Biologist bonuses,BETA: Bonusy Biologa,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.collect.low_lvl,You need level %d.,Potrzebujesz %d poziom.,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.collect.success,The bonus has been granted and the Biologist's quest completed.,Pomyślnie nadano bonus i ukończono misję biologa.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.ask,Do you want to change the EXP rates?,Czy chcesz zmienić raty doświadczenia?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.chat,BETA: Change EXP rates,BETA: Zmiana rat doświadczenia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.status,Current EXP rates: %d%%,Obecne raty doświadczenia: %d%%,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.custom_exp.status_question_turn_off,Do you want to turn off the EXP rates for your character?,Czy chcesz wyłączyć raty doświadczenia na swojej postaci?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.status_question_turn_on,Do you want to turn on the EXP rates for your character?,Czy chcesz włączyć raty doświadczenia na swojej postaci?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.success,EXP rates set successfully.,Pomyślnie ustawiono raty doświadczenia.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.custom_exp.turn_off,Turn off,Wyłącz,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.already,You have already collected your equipment.,Odebrałeś już EQ.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.ask,Do you want equipment? You can only do this once per character. For which character level do you want to receive equipment?,Czy chcesz EQ? Możesz to zrobić tylko raz na postać. Na który poziom postaci chcesz otrzymać EQ?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.chat,BETA: Collect equipment,BETA: Odbierz EQ,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.low_lvl,Your level must be equal to or higher than the one you chose.,Musisz mieć większy lub równy poziom od wybranego.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.equipment.success,Equipment granted.,Nadano EQ.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.ask,Shall I give you Yang?,Czy nadać ci Yang?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.chat,BETA: Give me some Yang,BETA: Daj trochę Yang,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.info,At your current level you will receive %s Yang. You can collect it every 1 day (except in stage 4).,Na obecnym poziomie otrzymasz %s Yang. Możesz je odbierać co 1 dzień (wyjątek etap4).,,quest dialog (the game's quests: beta) | keep: %s,new
-q:pkg:t:beta.gold.success,Yang granted successfully.,Pomyślnie nadano Yang.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.gold.wait,You must wait %s before you can collect it again.,Musisz odczekać %s do następnego odbioru.,,quest dialog (the game's quests: beta) | keep: %s,new
-q:pkg:t:beta.horse_level.ask,Shall I set the level of your steed?,Czy ustawić poziom Twojego rumaka?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.chat,BETA: Give me a horse,BETA: Daj Konia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.1,Level 1 - Beginner's Horse ,1 poziom - Zwykły Koń ,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.2,Level 11 - Armed Horse,11 poziom - Koń Bojowy,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.horse_level.options.3,Level 21 - Military Horse,21 poziom - Koń Militarny,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.collect.ask,Shall I grant you the bonuses from the Biologist's research?,Czy nadać Ci bonusy z badań biologa?,Выдать тебе бонусы за исследования Биолога?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.collect.chat,BETA: Biologist bonuses,BETA: Bonusy Biologa,БЕТА: бонусы Биолога,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.collect.low_lvl,You need level %d.,Potrzebujesz %d poziom.,Нужен %d уровень.,quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.collect.success,The bonus has been granted and the Biologist's quest completed.,Pomyślnie nadano bonus i ukończono misję biologa.,"Бонус выдан, задание Биолога выполнено.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.ask,Do you want to change the EXP rates?,Czy chcesz zmienić raty doświadczenia?,Хочешь изменить множитель опыта?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.chat,BETA: Change EXP rates,BETA: Zmiana rat doświadczenia,БЕТА: изменить множитель опыта,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.status,Current EXP rates: %d%%,Obecne raty doświadczenia: %d%%,Текущий множитель опыта: %d%%,quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.custom_exp.status_question_turn_off,Do you want to turn off the EXP rates for your character?,Czy chcesz wyłączyć raty doświadczenia na swojej postaci?,Хочешь отключить множитель опыта для своего персонажа?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.status_question_turn_on,Do you want to turn on the EXP rates for your character?,Czy chcesz włączyć raty doświadczenia na swojej postaci?,Хочешь включить множитель опыта для своего персонажа?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.success,EXP rates set successfully.,Pomyślnie ustawiono raty doświadczenia.,Множитель опыта успешно установлен.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.custom_exp.turn_off,Turn off,Wyłącz,Отключить,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.already,You have already collected your equipment.,Odebrałeś już EQ.,Ты уже забрал своё снаряжение.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.ask,Do you want equipment? You can only do this once per character. For which character level do you want to receive equipment?,Czy chcesz EQ? Możesz to zrobić tylko raz na postać. Na który poziom postaci chcesz otrzymać EQ?,Хочешь снаряжение? Это можно сделать только один раз на персонажа. Для какого уровня персонажа ты хочешь получить снаряжение?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.chat,BETA: Collect equipment,BETA: Odbierz EQ,БЕТА: получить снаряжение,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.low_lvl,Your level must be equal to or higher than the one you chose.,Musisz mieć większy lub równy poziom od wybranego.,Твой уровень должен быть не ниже выбранного.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.equipment.success,Equipment granted.,Nadano EQ.,Снаряжение выдано.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.ask,Shall I give you Yang?,Czy nadać ci Yang?,Дать тебе Янг?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.chat,BETA: Give me some Yang,BETA: Daj trochę Yang,БЕТА: дай мне Янг,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.info,At your current level you will receive %s Yang. You can collect it every 1 day (except in stage 4).,Na obecnym poziomie otrzymasz %s Yang. Możesz je odbierać co 1 dzień (wyjątek etap4).,На твоём текущем уровне ты получишь %s Янг. Забирать их можно раз в день (кроме этапа 4).,quest dialog (the game's quests: beta) | keep: %s,done
+q:pkg:t:beta.gold.success,Yang granted successfully.,Pomyślnie nadano Yang.,Янг успешно выданы.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.gold.wait,You must wait %s before you can collect it again.,Musisz odczekać %s do następnego odbioru.,"Нужно подождать %s, прежде чем забрать их снова.",quest dialog (the game's quests: beta) | keep: %s,done
+q:pkg:t:beta.horse_level.ask,Shall I set the level of your steed?,Czy ustawić poziom Twojego rumaka?,Установить уровень твоего скакуна?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.chat,BETA: Give me a horse,BETA: Daj Konia,БЕТА: дай мне коня,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.1,Level 1 - Beginner's Horse ,1 poziom - Zwykły Koń ,Уровень 1 - Конь новичка ,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.2,Level 11 - Armed Horse,11 poziom - Koń Bojowy,Уровень 11 - Вооружённый конь,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.horse_level.options.3,Level 21 - Military Horse,21 poziom - Koń Militarny,Уровень 21 - Боевой конь,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.horse_level.options.4,Cancel,Anuluj,Отмена,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.horse_level.success,Your horse's level has been set.,Poziom konia został ustawiony.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.info,Thank you for taking part in the tests. Please send your reports through support after logging in to the website.,Dziękujemy za udział w testach. Bardzo prosimy zgłaszać przez support po zalogowaniu na stronę.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.info2,"You will find the Test NPC in every M1, in the middle of town.",NPC Testowego znajdziesz w każdym M1 w środku miasta.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.letter,Test Server,Serwer Testowy,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.intro.notice,Welcome to the Metin2 SinglePlayer test server!,Witaj na serwerze testowym Metin2009!,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.itemshop.chat,BETA: Give me a DR Voucher,BETA: Daj Kupon SM,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.itemshop.say,Don't blow it all on nonsense!,Nie przewal na głupoty!,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.ask,Shall I level you up?,Podexpić Cię?,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.ask2,Are you sure you want me to level you up to level %d?,Na pewno podexpić Cię do %d poziomu?,,quest dialog (the game's quests: beta) | keep: %d,new
-q:pkg:t:beta.level_up.chat,BETA: Set character level,BETA: Ustaw poziom postaci,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.fail,I don't level anyone backwards.,Nie podexpiam do tyłu.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.level_up.success,Level set successfully.,Pomyślnie ustawiono poziom.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reputation.chat,BETA: Set reputation,BETA: Ustaw reputacje,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reputation.success,The reputation of all factions has been set to the maximum level.,Ustawiono maksymalny poziom reputacji wszystkich frakcji.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.ask,Do you want to reset your skill group? All your skills will be reset and you will be able to choose your skill group again (just like the reset at the Old Lady).,"Czy chcesz zresetować profesję? Wszystkie umiejętności zostaną zresetowane, a Ty będziesz mógł wybrać profesję od nowa (tak jak reset u Staruszki).",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.chat,BETA: Reset skill group,BETA: Reset profesji,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.reset_skill.success,Your skill group has been reset.,Zresetowano profesję.,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.horse_level.success,Your horse's level has been set.,Poziom konia został ustawiony.,Уровень твоего коня установлен.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.info,Thank you for taking part in the tests. Please send your reports through support after logging in to the website.,Dziękujemy za udział w testach. Bardzo prosimy zgłaszać przez support po zalogowaniu na stronę.,Спасибо за участие в тестировании. Отправляй свои отчёты через поддержку после входа на сайт.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.info2,"You will find the Test NPC in every M1, in the middle of town.",NPC Testowego znajdziesz w każdym M1 w środku miasta.,"Тестового NPC можно найти в каждом M1, в центре города.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.letter,Test Server,Serwer Testowy,Тестовый сервер,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.intro.notice,Welcome to the Metin2 SinglePlayer test server!,Witaj na serwerze testowym Metin2009!,Добро пожаловать на тестовый сервер Metin2 SinglePlayer!,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.itemshop.chat,BETA: Give me a DR Voucher,BETA: Daj Kupon SM,БЕТА: дай мне купон DR,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.itemshop.say,Don't blow it all on nonsense!,Nie przewal na głupoty!,Не трать всё на ерунду!,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.ask,Shall I level you up?,Podexpić Cię?,Повысить тебе уровень?,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.ask2,Are you sure you want me to level you up to level %d?,Na pewno podexpić Cię do %d poziomu?,"Ты уверен, что хочешь повысить уровень до %d?",quest dialog (the game's quests: beta) | keep: %d,done
+q:pkg:t:beta.level_up.chat,BETA: Set character level,BETA: Ustaw poziom postaci,БЕТА: установить уровень персонажа,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.fail,I don't level anyone backwards.,Nie podexpiam do tyłu.,Я никому не понижаю уровень.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.level_up.success,Level set successfully.,Pomyślnie ustawiono poziom.,Уровень успешно установлен.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reputation.chat,BETA: Set reputation,BETA: Ustaw reputacje,БЕТА: установить репутацию,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reputation.success,The reputation of all factions has been set to the maximum level.,Ustawiono maksymalny poziom reputacji wszystkich frakcji.,Репутация у всех фракций установлена на максимальный уровень.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.ask,Do you want to reset your skill group? All your skills will be reset and you will be able to choose your skill group again (just like the reset at the Old Lady).,"Czy chcesz zresetować profesję? Wszystkie umiejętności zostaną zresetowane, a Ty będziesz mógł wybrać profesję od nowa (tak jak reset u Staruszki).","Хочешь сбросить группу умений? Все твои умения будут сброшены, и ты сможешь заново выбрать группу умений (как при сбросе у Старушки).",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.chat,BETA: Reset skill group,BETA: Reset profesji,БЕТА: сбросить группу умений,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.reset_skill.success,Your skill group has been reset.,Zresetowano profesję.,Твоя группа умений сброшена.,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.shop.base_shop,General,Ogólne,Общее,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.shop.chat,BETA: Open shop,BETA: Otwórz sklep,,quest dialog (the game's quests: beta),new
+q:pkg:t:beta.shop.chat,BETA: Open shop,BETA: Otwórz sklep,БЕТА: открыть магазин,quest dialog (the game's quests: beta),done
 q:pkg:t:beta.shop.herb_shop,Recipes,Receptury,Рецепты,quest dialog (the game's quests: beta),done
-q:pkg:t:beta.shop.high_item,Items +9,Itemy +9,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.high_item2,Items +9 and Spirit Stones +4,Itemy +9 i KD+4,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.high_weapon,Weapons lv. 70/75,Bronie 70/75 lvl,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.potion_shop,Dews and Potions,Rosy i Mikstury,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop1,Upgrade materials M1/M2,Ulepszacze M1/M2,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop2,Upgrade materials Valley/Hwang/Desert,Ulepszacze Dolina/Hwang/Pustynia,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.shop.refine_item_shop3,Upgrade materials Sohan/Hell/Forest/DT,Ulepszacze Sohan/Piekło/Las/DT,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.ask,Do you want me to set all your class skills to G1? They must be between M1 and M10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na G1? Muszą być one na poziomie od M1 do M10, abym zmienił ich poziom.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.chat,BETA: Set skills to G1,BETA: Ustaw skille na G1,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.fail,I found no skill that I could set to G1.,"Nie znalazłem skilla, który mógłbym ustawić na G1.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill.success,Your skills have been set to G1.,Pomyślnie ustawiono poziom skilli na G1.,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.ask,Do you want me to set all your class skills to P? They must be between M1 and G10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na P? Muszą być one na poziomie od M1 do G10, abym zmienił ich poziom.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.chat,BETA: Set skills to P,BETA: Ustaw skille na P,,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.fail,I found no skill that I could set to P.,"Nie znalazłem skilla, który mógłbym ustawić na P.",,quest dialog (the game's quests: beta),new
-q:pkg:t:beta.skill_pvp.success,Your skills have been set to P.,Pomyślnie ustawiono poziom skilli na P.,,quest dialog (the game's quests: beta),new
-q:pkg:t:black_steel_crafting.craft_chat,Black Armour Crafting,Wytwarzanie Czarnego Pancerza,,quest dialog (the game's quests: black_steel_crafting),new
+q:pkg:t:beta.shop.high_item,Items +9,Itemy +9,Предметы +9,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.high_item2,Items +9 and Spirit Stones +4,Itemy +9 i KD+4,Предметы +9 и Камни духа +4,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.high_weapon,Weapons lv. 70/75,Bronie 70/75 lvl,Оружие ур. 70/75,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.potion_shop,Dews and Potions,Rosy i Mikstury,Росы и зелья,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop1,Upgrade materials M1/M2,Ulepszacze M1/M2,Материалы улучшения M1/M2,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop2,Upgrade materials Valley/Hwang/Desert,Ulepszacze Dolina/Hwang/Pustynia,Материалы улучшения Долина/Хван/Пустыня,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.shop.refine_item_shop3,Upgrade materials Sohan/Hell/Forest/DT,Ulepszacze Sohan/Piekło/Las/DT,Материалы улучшения Сохан/Ад/Лес/БД,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.ask,Do you want me to set all your class skills to G1? They must be between M1 and M10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na G1? Muszą być one na poziomie od M1 do M10, abym zmienił ich poziom.","Установить все умения твоего класса на G1? Чтобы я мог изменить их уровень, они должны быть от M1 до M10.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.chat,BETA: Set skills to G1,BETA: Ustaw skille na G1,БЕТА: установить умения на G1,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.fail,I found no skill that I could set to G1.,"Nie znalazłem skilla, który mógłbym ustawić na G1.","Я не нашёл ни одного умения, которое можно установить на G1.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill.success,Your skills have been set to G1.,Pomyślnie ustawiono poziom skilli na G1.,Твои умения установлены на G1.,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.ask,Do you want me to set all your class skills to P? They must be between M1 and G10 for me to change their level.,"Czy chcesz, abym ustawił wszystkie Twoje klasowe skille na P? Muszą być one na poziomie od M1 do G10, abym zmienił ich poziom.","Установить все умения твоего класса на P? Чтобы я мог изменить их уровень, они должны быть от M1 до G10.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.chat,BETA: Set skills to P,BETA: Ustaw skille na P,БЕТА: установить умения на P,quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.fail,I found no skill that I could set to P.,"Nie znalazłem skilla, który mógłbym ustawić na P.","Я не нашёл ни одного умения, которое можно установить на P.",quest dialog (the game's quests: beta),done
+q:pkg:t:beta.skill_pvp.success,Your skills have been set to P.,Pomyślnie ustawiono poziom skilli na P.,Твои умения установлены на P.,quest dialog (the game's quests: beta),done
+q:pkg:t:black_steel_crafting.craft_chat,Black Armour Crafting,Wytwarzanie Czarnego Pancerza,Создание чёрной брони,quest dialog (the game's quests: black_steel_crafting),done
 q:pkg:t:black_steel_crafting.state_pre_start.chat,A Favour,Przysługa,,quest dialog (the game's quests: black_steel_crafting),new
 q:pkg:t:black_steel_crafting.state_pre_start.talk1,"I am impressed by how far you have come. I have seen many who fell much sooner, but there is something special about you. A potential one does not often see.","Jestem pod wrażeniem, jak daleko zaszedłeś. Widziałam wielu, którzy upadli znacznie wcześniej, ale ty masz w sobie coś wyjątkowego. Potencjał, którego nie widuje się często.",,quest dialog (the game's quests: black_steel_crafting),new
 q:pkg:t:black_steel_crafting.state_pre_start.talk2,"Although your road has been full of challenges, you now stand on the threshold of true power. And I... can help you with that. You see, for a small favour I can offer you something special - armour forged from Black Steel. Armour that will make you all but invincible.","Choć twoja droga była pełna wyzwań, jesteś teraz na granicy prawdziwej potęgi. A ja... mogę ci w tym pomóc. Widzisz, za drobną przysługę mogę zaoferować ci coś wyjątkowego – zbroję wykutą z Czarnej Stali. Pancerz, który uczyni cię niemal niepokonanym.",,quest dialog (the game's quests: black_steel_crafting),new
