@@ -668,26 +668,26 @@ l:788f9751125b, 24. COOP: secure the admin and test accounts (new passwords), 24
 l:ccd76f8af232, 25. COOP: add a friend (an account and an invite code), 25. COOP: dodaj znajomego (konto i kod zaproszenia), 25. COOP: 친구 추가 (계정과 초대 코드),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:3e2724ae76ad, 26. COOP: show the invite codes, 26. COOP: pokaż kody zaproszeń, 26. COOP: 초대 코드 보기,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:271963cadc17, 27. COOP: host the world for friends, 27. COOP: hostuj świat dla znajomych, 27. COOP: 친구를 위해 월드 호스팅,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:90702d1e879d, 28. COOP: stop hosting, 28. COOP: zakończ hostowanie,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:00ab4662ac0c, 29. COOP: join a friend's world (paste the code), 29. COOP: dołącz do świata znajomego (wklej kod),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:dd23e3359edb, 30. VPS: address and connection (SSH key; you type the VPS password once), 30. VPS: adres i połączenie (klucz SSH; hasło do VPS wpisujesz raz),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:8e52b50ab5f1," 31. VPS: check the server (CPU, memory, disk, permissions)"," 31. VPS: sprawdź serwer (procesor, pamięć, dysk, uprawnienia)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:83af7fafbbdb, 32. VPS: install this world on the VPS, 32. VPS: zainstaluj ten świat na VPS,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:17b43921695e, 33. VPS: update the server on the VPS, 33. VPS: aktualizuj serwer na VPS,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:ca9ab3cde3b0, 34. VPS: installation status, 34. VPS: stan instalacji,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:478119dc759d, 35. VPS: open the web panel (SSH tunnel), 35. VPS: otwórz panel WWW (tunel SSH),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:18c24401bb75, 36. VPS: close the tunnel to the panels, 36. VPS: zamknij tunel do paneli,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:5ea050d189d0," 37. VPS: game account passwords (admin, test, friends)"," 37. VPS: hasła kont gry (admin, test, znajomi)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:9e8755d51ec0, 38. VPS: add the VPS server to the game client, 38. VPS: dopisz serwer VPS do klienta gry,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:7826760310b1, 39. VPS: server logs, 39. VPS: logi serwera,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:764d85a5f8e7, 40. VPS: an account and an invite code for a friend (COOP), 40. VPS: konto i kod zaproszenia dla znajomego (COOP),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:da49dd819460, 42. VPS: apply settings and restart the VPS server, 42. VPS: zastosuj ustawienia i zrestartuj serwer na VPS,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:f39f47878203," 41. Report a bug (to the author, with the logs)"," 41. Zgłoś błąd (do autora, z logami)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:476e2fd2d126, 43. Synchronize item data to the client (after changes in the database editor), 43. Synchronizuj dane przedmiotów z klientem (po zmianach w edytorze bazy danych),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:721cbe642e5a,  0. Exit,  0. Wyjście,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:45b9ce6e2d69,Choose an option,Wybierz opcję,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:8a062d9105ee,ERROR: {#0},BŁĄD: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:d77aec5b3e30,Press Enter to go back to the menu,"Naciśnij Enter, aby wrócić do menu",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:90702d1e879d, 28. COOP: stop hosting, 28. COOP: zakończ hostowanie, 28. COOP: 호스팅 중지,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:00ab4662ac0c, 29. COOP: join a friend's world (paste the code), 29. COOP: dołącz do świata znajomego (wklej kod), 29. COOP: 친구의 월드에 참가 (코드 붙여넣기),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dd23e3359edb, 30. VPS: address and connection (SSH key; you type the VPS password once), 30. VPS: adres i połączenie (klucz SSH; hasło do VPS wpisujesz raz), 30. VPS: 주소와 연결 (SSH 키; VPS 비밀번호는 한 번만 입력),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8e52b50ab5f1," 31. VPS: check the server (CPU, memory, disk, permissions)"," 31. VPS: sprawdź serwer (procesor, pamięć, dysk, uprawnienia)"," 31. VPS: 서버 확인 (CPU, 메모리, 디스크, 권한)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:83af7fafbbdb, 32. VPS: install this world on the VPS, 32. VPS: zainstaluj ten świat na VPS, 32. VPS: 이 월드를 VPS에 설치,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:17b43921695e, 33. VPS: update the server on the VPS, 33. VPS: aktualizuj serwer na VPS, 33. VPS: VPS의 서버 업데이트,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ca9ab3cde3b0, 34. VPS: installation status, 34. VPS: stan instalacji, 34. VPS: 설치 상태,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:478119dc759d, 35. VPS: open the web panel (SSH tunnel), 35. VPS: otwórz panel WWW (tunel SSH), 35. VPS: 웹 패널 열기 (SSH 터널),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18c24401bb75, 36. VPS: close the tunnel to the panels, 36. VPS: zamknij tunel do paneli, 36. VPS: 패널로 가는 터널 닫기,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5ea050d189d0," 37. VPS: game account passwords (admin, test, friends)"," 37. VPS: hasła kont gry (admin, test, znajomi)"," 37. VPS: 게임 계정 비밀번호 (admin, test, 친구)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:9e8755d51ec0, 38. VPS: add the VPS server to the game client, 38. VPS: dopisz serwer VPS do klienta gry, 38. VPS: VPS 서버를 게임 클라이언트에 추가,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:7826760310b1, 39. VPS: server logs, 39. VPS: logi serwera, 39. VPS: 서버 로그,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:764d85a5f8e7, 40. VPS: an account and an invite code for a friend (COOP), 40. VPS: konto i kod zaproszenia dla znajomego (COOP), 40. VPS: 친구용 계정과 초대 코드 (COOP),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:da49dd819460, 42. VPS: apply settings and restart the VPS server, 42. VPS: zastosuj ustawienia i zrestartuj serwer na VPS, 42. VPS: 설정 적용 후 VPS 서버 재시작,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f39f47878203," 41. Report a bug (to the author, with the logs)"," 41. Zgłoś błąd (do autora, z logami)"," 41. 버그 신고 (제작자에게, 로그 포함)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:476e2fd2d126, 43. Synchronize item data to the client (after changes in the database editor), 43. Synchronizuj dane przedmiotów z klientem (po zmianach w edytorze bazy danych), 43. 아이템 데이터를 클라이언트에 동기화 (데이터베이스 편집기에서 변경한 후),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:721cbe642e5a,  0. Exit,  0. Wyjście,  0. 종료,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:45b9ce6e2d69,Choose an option,Wybierz opcję,옵션을 선택하세요,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8a062d9105ee,ERROR: {#0},BŁĄD: {#0},오류: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d77aec5b3e30,Press Enter to go back to the menu,"Naciśnij Enter, aby wrócić do menu",Enter를 눌러 메뉴로 돌아가세요,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5de305f24c08,"The launcher did not start:
 
 {0}
@@ -696,27 +696,36 @@ The details are in the launcher-logs folder.","Launcher nie wystartowal:
 
 {0}
 
-Szczegoly sa w folderze launcher-logs.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:d1c9a8d08bd8,Launcher error,Blad launchera,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:ccd558993098,Opening the launcher window - this console closes in a moment.,Otwieram okno launchera - ta konsola zaraz sie zamknie.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:cae0001f4614,{0}  LAUNCHER ERROR: {1},{0}  BLAD LAUNCHERA: {1},,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+Szczegoly sa w folderze launcher-logs.","런처가 시작되지 않았습니다:
+
+{0}
+
+자세한 내용은 launcher-logs 폴더에 있습니다.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d1c9a8d08bd8,Launcher error,Blad launchera,런처 오류,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ccd558993098,Opening the launcher window - this console closes in a moment.,Otwieram okno launchera - ta konsola zaraz sie zamknie.,런처 창을 여는 중 - 이 콘솔은 곧 닫힙니다.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:cae0001f4614,{0}  LAUNCHER ERROR: {1},{0}  BLAD LAUNCHERA: {1},{0}  런처 오류: {1},"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e45f0e5b6c22,"A launcher file is missing: {#0}
 ","Brakuje pliku launchera: {#0}
-",,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+","런처 파일이 없습니다: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:0b038d85ae72,"Antivirus on this system: {#0}
 ","Antywirus w systemie: {#0}
-",,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+","이 시스템의 백신: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5f6996438bfd,"The launcher never deletes it itself - as a rule an antivirus takes it (a false alarm on a script that downloads and starts a server).
 
 ","Launcher sam go nie usuwa - najczesciej zabiera go antywirus (falszywy alarm na skrypt, ktory pobiera i uruchamia serwer).
 
-",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:65c68427cb98,1. Look in the antivirus quarantine. In Windows: Windows Security > Virus & threat protection > Protection history. ,1. Zajrzyj do kwarantanny antywirusa. W Windows: Zabezpieczenia Windows > Ochrona przed wirusami i zagrozeniami > Historia ochrony. ,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+","런처는 절대 스스로 삭제하지 않습니다 - 보통 백신이 가져갑니다 (서버를 내려받아 실행하는 스크립트에 대한 오탐).
+
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:65c68427cb98,1. Look in the antivirus quarantine. In Windows: Windows Security > Virus & threat protection > Protection history. ,1. Zajrzyj do kwarantanny antywirusa. W Windows: Zabezpieczenia Windows > Ochrona przed wirusami i zagrozeniami > Historia ochrony. ,1. 백신의 격리 목록을 확인하세요. Windows에서: Windows 보안 > 바이러스 및 위협 방지 > 보호 기록. ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:85de13028a44,"Restore the file and add the folder {#0} to the exclusions.
 ","Przywroc plik i dodaj folder {#0} do wykluczen.
-",,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:44206aa828b6,"2. If it cannot be restored: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) ","2. Jesli nie da sie go przywrocic: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip ",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:c3f0bc5eae49,"and take {#0} out of it into {#1}. Add the exclusion first, or the antivirus takes it again.","i wyjmij z niej {#0} do {#1}. Najpierw dodaj wykluczenie, inaczej antywirus zabierze go znowu.",,"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+","파일을 복원하고 {#0} 폴더를 예외에 추가하세요.
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:44206aa828b6,"2. If it cannot be restored: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) ","2. Jesli nie da sie go przywrocic: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip ","2. 복원할 수 없다면: GitHub에서 metin2-server-update-<version>.zip 패키지를 내려받으세요 (TieruYT/metin2-playerbots, Releases) ","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c3f0bc5eae49,"and take {#0} out of it into {#1}. Add the exclusion first, or the antivirus takes it again.","i wyjmij z niej {#0} do {#1}. Najpierw dodaj wykluczenie, inaczej antywirus zabierze go znowu.",그 안의 {#0}을(를) {#1}(으)로 꺼내세요. 먼저 예외를 추가하지 않으면 백신이 다시 가져갑니다.,"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:043c787fb8bf,"The launcher's files are from two different versions: this window is newer than launcher\Metin2Launcher.psm1. Most often an update is still writing its files.
 
 Wait a minute or two for the update to finish, then start the launcher again.
@@ -725,8 +734,12 @@ If this message keeps coming back: download the package metin2-server-update-<ve
 
 Poczekaj minute lub dwie, az aktualizacja sie skonczy, i uruchom launcher ponownie.
 
-Jesli ten komunikat wraca: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip i wyjmij z niej folder launcher do {#0}.",,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:0174ccaa78b5,in the window: ,w oknie: ,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+Jesli ten komunikat wraca: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip i wyjmij z niej folder launcher do {#0}.","런처 파일이 서로 다른 두 버전에서 왔습니다: 이 창이 launcher\Metin2Launcher.psm1보다 새것입니다. 대부분 업데이트가 아직 파일을 쓰고 있는 중입니다.
+
+업데이트가 끝날 때까지 1~2분 기다린 다음 런처를 다시 시작하세요.
+
+이 메시지가 계속 나온다면: GitHub(TieruYT/metin2-playerbots, Releases)에서 metin2-server-update-<version>.zip 패키지를 내려받아 그 안의 launcher 폴더를 {#0}(으)로 꺼내세요.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:0174ccaa78b5,in the window: ,w oknie: ,창에서: ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9909885813a5,"An error in the launcher window:
 
 {0}
@@ -735,29 +748,35 @@ The details are in the launcher-logs folder. The window keeps working.","Blad w 
 
 {0}
 
-Szczegoly sa w folderze launcher-logs. Okno dziala dalej.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:310b36f8d5a0,"Launcher restart: the previous window (PID {0}, {1}) did not close in 60 s - showing it, and the new launcher version did not open. Close the launcher and start it again.","Restart launchera: poprzednie okno (PID {0}, {1}) nie zamknelo sie w 60 s - pokazuje je, a nowa wersja launchera sie nie otworzyla. Zamknij launcher i uruchom go ponownie.",,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:69bb8da1c53b,still running,nadal dziala,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:4335d114de08,no longer running - another window holds the folder,juz nie dziala - folder trzyma inne okno,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:02e389dc7c0d,This folder's launcher is already open as administrator - its window cannot be brought forward from here.,Launcher tego folderu jest juz otwarty jako administrator - tego okna nie da sie stad przywolac.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:05f9f84da75e,This folder's launcher is already open - showing its window instead of a second one.,Launcher tego folderu jest juz otwarty - pokazuje jego okno zamiast drugiego.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+Szczegoly sa w folderze launcher-logs. Okno dziala dalej.","런처 창에서 오류가 발생했습니다:
+
+{0}
+
+자세한 내용은 launcher-logs 폴더에 있습니다. 창은 계속 작동합니다.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:310b36f8d5a0,"Launcher restart: the previous window (PID {0}, {1}) did not close in 60 s - showing it, and the new launcher version did not open. Close the launcher and start it again.","Restart launchera: poprzednie okno (PID {0}, {1}) nie zamknelo sie w 60 s - pokazuje je, a nowa wersja launchera sie nie otworzyla. Zamknij launcher i uruchom go ponownie.","런처 재시작: 이전 창(PID {0}, {1})이 60초 안에 닫히지 않았습니다 - 그 창을 보여 주며, 새 런처 버전은 열리지 않았습니다. 런처를 닫고 다시 시작하세요.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:69bb8da1c53b,still running,nadal dziala,아직 실행 중,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:4335d114de08,no longer running - another window holds the folder,juz nie dziala - folder trzyma inne okno,더 이상 실행 중이 아님 - 다른 창이 폴더를 사용 중,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:02e389dc7c0d,This folder's launcher is already open as administrator - its window cannot be brought forward from here.,Launcher tego folderu jest juz otwarty jako administrator - tego okna nie da sie stad przywolac.,이 폴더의 런처가 이미 관리자 권한으로 열려 있습니다 - 여기서는 그 창을 앞으로 가져올 수 없습니다.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:05f9f84da75e,This folder's launcher is already open - showing its window instead of a second one.,Launcher tego folderu jest juz otwarty - pokazuje jego okno zamiast drugiego.,이 폴더의 런처가 이미 열려 있습니다 - 두 번째 창 대신 기존 창을 보여 줍니다.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:61bedf47daf8,"This folder's launcher is already open as administrator, so it cannot be brought forward from here.
 
 Switch to its window (the taskbar or the icon next to the clock), or close it and start the launcher again.","Launcher tego folderu jest już otwarty jako administrator, więc nie da się go stąd przywołać.
 
-Przełącz się na jego okno (pasek zadań albo ikona przy zegarze) albo zamknij je i uruchom launcher ponownie.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:77ac4d2309d6,The launcher is already open,Launcher jest już otwarty,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:5dee9499707b,Game language (client),Język gry (klient),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:f8905ee6c185,Client chosen: {#0},Wybrano klienta: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:23017acc76cf,"No game client is chosen yet. Point to it with the CHOOSE CLIENT button, then choose the game language again.",Nie wybrano jeszcze klienta gry. Wskaż go przyciskiem WYBIERZ KLIENTA i wybierz język gry jeszcze raz.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+Przełącz się na jego okno (pasek zadań albo ikona przy zegarze) albo zamknij je i uruchom launcher ponownie.","이 폴더의 런처가 이미 관리자 권한으로 열려 있어서 여기서 앞으로 가져올 수 없습니다.
+
+그 창으로 전환하거나(작업 표시줄 또는 시계 옆 아이콘), 닫은 뒤 런처를 다시 시작하세요.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:77ac4d2309d6,The launcher is already open,Launcher jest już otwarty,런처가 이미 열려 있습니다,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5dee9499707b,Game language (client),Język gry (klient),게임 언어 (클라이언트),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f8905ee6c185,Client chosen: {#0},Wybrano klienta: {#0},선택한 클라이언트: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:23017acc76cf,"No game client is chosen yet. Point to it with the CHOOSE CLIENT button, then choose the game language again.",Nie wybrano jeszcze klienta gry. Wskaż go przyciskiem WYBIERZ KLIENTA i wybierz język gry jeszcze raz.,아직 게임 클라이언트가 선택되지 않았습니다. 클라이언트 선택 버튼으로 지정한 뒤 게임 언어를 다시 선택하세요.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c8bcc554bba7,Game language,Język gry,게임 언어,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e4138396cf39,The game language was not changed: {#0},Nie zmieniono języka gry: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:5484b9fbb55b,The game is running. Close it and choose the language again - the game saves its settings when it closes and would overwrite this choice.,Gra jest uruchomiona. Zamknij ją i wybierz język jeszcze raz - gra zapisuje swoje ustawienia przy zamykaniu i nadpisałaby ten wybór.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:d12470300154,Unknown game language: {#0},Nieznany język gry: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:f19afe9fe602,The client folder is missing: {#0},Brak folderu klienta: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:e3d6607618eb,Game language: {#0} ({#1}),Język gry: {#0} ({#1}),,"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:084056cab53e,Game language: {0}. The game starts in it from its next start; the launcher keeps its own language.,Język gry: {0}. Gra uruchomi się w nim od następnego startu; launcher zostaje w swoim języku.,,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:3a6f31249c39,Wait for the current operation to finish.,Poczekaj na zakończenie bieżącej operacji.,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:18358a3a28b7,The launcher is busy,Launcher pracuje,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:f0df5a113999,Tidying up the client files failed: {#0},Porządki w plikach klienta nieudane: {#0},,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
-l:dce1b83314b0,Client repair required,Wymagana naprawa klienta,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:e4138396cf39,The game language was not changed: {#0},Nie zmieniono języka gry: {#0},게임 언어가 변경되지 않았습니다: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5484b9fbb55b,The game is running. Close it and choose the language again - the game saves its settings when it closes and would overwrite this choice.,Gra jest uruchomiona. Zamknij ją i wybierz język jeszcze raz - gra zapisuje swoje ustawienia przy zamykaniu i nadpisałaby ten wybór.,게임이 실행 중입니다. 게임을 닫고 언어를 다시 선택하세요 - 게임은 닫힐 때 설정을 저장하므로 이 선택을 덮어씁니다.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d12470300154,Unknown game language: {#0},Nieznany język gry: {#0},알 수 없는 게임 언어: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f19afe9fe602,The client folder is missing: {#0},Brak folderu klienta: {#0},클라이언트 폴더가 없습니다: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e3d6607618eb,Game language: {#0} ({#1}),Język gry: {#0} ({#1}),게임 언어: {#0} ({#1}),"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:084056cab53e,Game language: {0}. The game starts in it from its next start; the launcher keeps its own language.,Język gry: {0}. Gra uruchomi się w nim od następnego startu; launcher zostaje w swoim języku.,게임 언어: {0}. 다음 실행부터 게임이 이 언어로 시작됩니다; 런처는 자체 언어를 유지합니다.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3a6f31249c39,Wait for the current operation to finish.,Poczekaj na zakończenie bieżącej operacji.,현재 작업이 끝날 때까지 기다리세요.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18358a3a28b7,The launcher is busy,Launcher pracuje,런처가 사용 중입니다,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f0df5a113999,Tidying up the client files failed: {#0},Porządki w plikach klienta nieudane: {#0},클라이언트 파일 정리에 실패했습니다: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dce1b83314b0,Client repair required,Wymagana naprawa klienta,클라이언트 복구 필요,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
