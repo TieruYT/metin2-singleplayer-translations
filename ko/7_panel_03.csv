@@ -229,7 +229,7 @@ p:3e6f56edff22,Kingdom,Królestwo,제국,"T['gl_col_kingdom'] / panel: module te
 p:5bd44ebe63cd,Tier,Klasa,등급,"T['gl_col_tier'] | the classic web panel (browser, UTF-8: any letter)",done
 p:1cb449c11266,Members,Członkowie,멤버,"T['gl_col_members'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c3e839df6084,Online,Online,접속 중,"T['gl_col_online'] / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
-p:78f3842f0201,Master,Mistrz,,"T['gl_col_master'] | the classic web panel (browser, UTF-8: any letter)",new
+p:78f3842f0201,Master,Mistrz,마스터,"T['gl_col_master'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d091b0d5e8c,Avg. strength,Śr. siła,평균 힘,"T['gl_col_strength'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bf3d1de57b0,Ladder,Ranking,순위,"T['gl_col_ladder'] | the classic web panel (browser, UTF-8: any letter)",done
 p:7ca251fd7454,W/D/L,Z/R/P,W/D/L,"T['gl_col_record'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -287,7 +287,7 @@ p:31d890073072,"Chest event window saved for %d minutes, but the drop settings n
 p:9da98f60347e,Event switched on for %d minutes; the chat is told within seconds.,Event włączony na %d minut; czat dowie się w kilka sekund.,이벤트가 %d분 동안 켜졌어. 몇 초 안에 채팅에 알려.,"T['ev_now_started'] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:fb5bb0a1c8f2,End now,Zakończ,지금 종료,"T['ev_stop'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8552c905bc6d,The event switched on by hand is over.,Event włączony ręcznie zakończony.,직접 켠 이벤트가 끝났어.,"T['ev_stopped'] | the classic web panel (browser, UTF-8: any letter)",done
-p:0a32bd960b0b,Pirate Tanaka,Pirat Tanaka,,"T['ev_kind_tanaka'] | the classic web panel (browser, UTF-8: any letter)",new
+p:0a32bd960b0b,Pirate Tanaka,Pirat Tanaka,해적 타나카,"T['ev_kind_tanaka'] | the classic web panel (browser, UTF-8: any letter)",done
 p:77baaf2b2673,Zuo: Metin rain,Zuo: deszcz metinów,주오: 메틴석 비,"T['ev_kind_zuo'] | the classic web panel (browser, UTF-8: any letter)",done
 p:417736ff3451,"Pirate Tanaka runs from whoever hits him, scatters yang as he loses health and leaves his ear to the one who beat him; Yonah in the first village gives a Purple Ebony Chest for an ear. Zuo drops a wave of Metin stones of the map's level every five minutes (the chat gives the coordinates) and from half the event on calls bosses. Bots come too; a war, the Demon Tower, a raid or a player's party come first for them.","Pirat Tanaka ucieka przed każdym, kto go bije, sypie yang, gdy traci życie, i zostawia ucho temu, kto go pokonał; Yonah w pierwszej wiosce daje za ucho Fioletową Hebanową Szkatułkę. Zuo co pięć minut zrzuca falę metinów poziomu mapy (czat podaje koordynaty), a od połowy eventu przyzywa bossów. Przychodzą też boty; wojna, Wieża Demonów, rajd albo party gracza mają dla nich pierwszeństwo.","해적 다나카는 때리는 사람에게서 도망치고, 체력이 줄면서 냥을 흩뿌리고, 이긴 사람에게 귀를 남겨. 첫 마을의 요나는 귀를 받으면 보라색 흑단 상자를 줘. 주오는 5분마다 맵 레벨의 메틴석 한 무더기를 떨어뜨리고 (채팅에 좌표가 나와) 이벤트 절반부터 보스를 불러. 봇도 오지만 전쟁, 사귀 타워, 공략, 플레이어 파티가 먼저야.","T['ev_world_note'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e0e8030711df,"For Pirate Tanaka the value is how many pirates roam at once (1-20, 0 = 3); for Zuo how many Metin stones fall in a wave (1-30, 0 = 8). The map column counts for these two only.","Dla Pirata Tanaki wartość to liczba piratów naraz (1-20, 0 = 3); dla Zuo liczba metinów w fali (1-30, 0 = 8). Kolumna mapy liczy się tylko dla tych dwóch.","해적 다나카는 동시에 돌아다니는 해적 수 (1-20, 0 = 3), 주오는 한 무더기에 떨어지는 메틴석 수 (1-30, 0 = 8)야. 맵 칸은 이 둘에만 적용돼.","T['ev_world_value_help'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -626,82 +626,82 @@ p:fa3fa4d58631,⏰ Boss and Metin respawns,⏰ Respawny bossów i metinów,⏰ �
 p:1ff297b08de6,⏰ Open the timers,⏰ Otwórz timery,⏰ 타이머 열기,"T['rs_open'] | the classic web panel (browser, UTF-8: any letter)",done
 p:a5dacf036f45,"When the bosses and Metin stones of every map come back - the time only, no coordinates.","Kiedy odrodzą się bossowie i metiny na każdej mapie - sam czas, bez współrzędnych.","각 맵의 보스와 메틴석이 언제 돌아오는지 - 시간만, 좌표는 없어.","T['rs_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",done
 p:37fbc8f33a4f,"Each channel has its own monsters. ""Standing"" is how many of this monster's places on the map are taken now; ""Back in"" is when the next missing one returns. The times include the respawn settings of /rates. The cores refresh the data every 30 s.",Każdy kanał ma swoje potwory. „Stoi” to ile miejsc tego potwora na mapie jest teraz zajętych; „Odrodzi się” to najbliższy powrót brakującego. Czasy uwzględniają ustawienia respawnu z /rates. Rdzenie odświeżają dane co 30 s.,"채널마다 몬스터가 따로 있어. ""있음""은 지금 맵에서 이 몬스터 자리 중 몇 곳이 차 있는지, ""복귀까지""는 다음 빈자리가 언제 돌아오는지야. 시간에는 /rates의 리스폰 설정이 포함돼. 코어는 30초마다 데이터를 갱신해.","T['rs_intro'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b05d9faafb0b,No data: no core has written its respawn state in the last minutes (needs a 2.x server with this version; after the game starts the data shows within a minute).,Brak danych: żaden rdzeń nie zapisał stanu respawnów w ostatnich minutach (wymaga serwera 2.x z tą wersją; po starcie gry dane pojawią się w ciągu minuty).,,"T['rs_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:526235444fb8,Channel {n},Kanał {n},,"T['rs_channel'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:0173b7f043cd,Map {n},Mapa {n},,"T['rs_map_n'] / panel: module text | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
+p:b05d9faafb0b,No data: no core has written its respawn state in the last minutes (needs a 2.x server with this version; after the game starts the data shows within a minute).,Brak danych: żaden rdzeń nie zapisał stanu respawnów w ostatnich minutach (wymaga serwera 2.x z tą wersją; po starcie gry dane pojawią się w ciągu minuty).,데이터 없음: 최근 몇 분 동안 리스폰 상태를 기록한 코어가 없어(이 버전의 2.x 서버가 필요해. 게임이 시작되면 1분 안에 데이터가 보여).,"T['rs_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:526235444fb8,Channel {n},Kanał {n},채널 {n},"T['rs_channel'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:0173b7f043cd,Map {n},Mapa {n},맵 {n},"T['rs_map_n'] / panel: module text | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
 p:e63d88bd7bf3,Monster,Potwór,몬스터,"T['rs_col_name'] / T['dt_col_mob'] | the classic web panel (browser, UTF-8: any letter)",done
-p:742f03c37a89,Standing,Stoi,,"T['rs_col_alive'] | the classic web panel (browser, UTF-8: any letter)",new
-p:345f6226501e,Respawns every,Odradza się co,,"T['rs_col_every'] | the classic web panel (browser, UTF-8: any letter)",new
-p:f2ad9ff9ac15,Back in,Odrodzi się,,"T['rs_col_next'] | the classic web panel (browser, UTF-8: any letter)",new
+p:742f03c37a89,Standing,Stoi,있음,"T['rs_col_alive'] | the classic web panel (browser, UTF-8: any letter)",done
+p:345f6226501e,Respawns every,Odradza się co,리스폰 주기,"T['rs_col_every'] | the classic web panel (browser, UTF-8: any letter)",done
+p:f2ad9ff9ac15,Back in,Odrodzi się,복귀까지,"T['rs_col_next'] | the classic web panel (browser, UTF-8: any letter)",done
 p:b7e269062400,Boss,Boss,보스,"T['rs_boss'] | the classic web panel (browser, UTF-8: any letter)",done
-p:2c8a418f0b90,Metin,Metin,,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",new
-p:4f2c6f72a82d,all standing,wszystkie stoją,,"T['rs_all_up'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d462593fb1aa,any moment,zaraz,,"T['rs_soon'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d5a63c95d431,everything,wszystko,,"T['rs_filter_all'] | the classic web panel (browser, UTF-8: any letter)",new
-p:44cee69b092e,bosses only,tylko bossów,,"T['rs_filter_boss'] | the classic web panel (browser, UTF-8: any letter)",new
-p:104aaa7b876e,Metins only,tylko metiny,,"T['rs_filter_metin'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c99c0c201267,waiting only,tylko czekające,,"T['rs_filter_waiting'] | the classic web panel (browser, UTF-8: any letter)",new
-p:1faea90e64e0,"A special spawn from the server's special_spawns.txt, not a map respawn line. The boss and Metin respawn time of /rates shortens it all the same; the counts of /rates do not apply here.","Specjalny spawn z pliku special_spawns.txt serwera, nie z respawnu mapy. Czas respawnu bossów i metinów z /rates skraca go tak samo; liczby sztuk /rates tu nie zmienia.",,"T['rs_fixed_hint'] | the classic web panel (browser, UTF-8: any letter)",new
-p:aa479fe7dc7f,Data from,Dane z,,"T['rs_updated'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6b008ab77e6a,Voucher codes,Kody voucherów,,"T['vc_nav'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d90c1cb8bfa9,"Your own ItemShop codes (Redeem a voucher): Dragon Coins, an item, the Premium subscription for a time; a limit of uses, an end date, one use an account.","Własne kody do ItemShopu (Wykorzystaj voucher): Smocze Monety, przedmiot, subskrypcja Premium na czas; limit użyć, data ważności, jedno użycie na konto.",,"T['vc_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",new
-p:e0f40a348cd3,Open the codes,Otwórz kody,,"T['vc_open'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9d66770df4fc,"A player types the code in the ItemShop: ItemShop → Redeem a voucher. Each account can use a code once - codes made before or outside the panel too; the limit of uses says how many accounts in all. An item goes into the bag, and when it has no room into the ItemShop's storage (at the Storekeeper), never onto the ground; the Premium subscription works from the next login.","Gracz wpisuje kod w ItemShopie: ItemShop → Wykorzystaj voucher. Każde konto może użyć danego kodu raz - także kodów zrobionych wcześniej poza panelem; limit użyć mówi, ile kont w sumie. Przedmiot trafia do plecaka, a gdy nie ma w nim miejsca - do magazynu ItemShopu (u Magazyniera), nigdy na ziemię; subskrypcja Premium działa od następnego logowania.",,"T['vc_help'] | the classic web panel (browser, UTF-8: any letter)",new
-p:541bafc51084,"The codes' columns or the uses table are missing - restart the world, the migrator makes them (voucher_schema.sql).","Brak kolumn kodów lub tabeli użyć w bazie - zrestartuj świat, migrator je założy (voucher_schema.sql).",,"T['vc_not_ready'] | the classic web panel (browser, UTF-8: any letter)",new
-p:b00b4cb7a8d1,New codes,Nowe kody,,"T['vc_create'] | the classic web panel (browser, UTF-8: any letter)",new
-p:a35da56aaad7,How many codes (1-500),Ile kodów (1-500),,"T['vc_count'] | the classic web panel (browser, UTF-8: any letter)",new
-p:83b6a47d71d5,Or a code of your own (then one),Albo własny kod (wtedy jeden),,"T['vc_own_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fb3cdf99220c,"Prefix (optional, A-Z 0-9)","Przedrostek (opcjonalnie, A-Z 0-9)",,"T['vc_prefix'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c18e95b41e19,Length of the random part,Długość losowej części,,"T['vc_length'] | the classic web panel (browser, UTF-8: any letter)",new
-p:42d95a89fd44,Limit of uses (accounts),Limit użyć (kont),,"T['vc_uses'] | the classic web panel (browser, UTF-8: any letter)",new
-p:0da72c25931e,Valid until (empty = no end),Ważny do (puste = bez końca),,"T['vc_expires'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ed2490859dfd,Dragon Coins (DC),Smocze Monety (SM),,"T['vc_cash'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d826cf223d39,"Item (VNUM, 0 = none)","Przedmiot (VNUM, 0 = brak)",,"T['vc_item'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ee9f38e186ba,count,ilość,,"T['vc_item_count'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:63c614871b2b,"Premium subscription: hours (0 = none, up to 8760)","Subskrypcja Premium: godziny (0 = bez, do 8760)",,"T['vc_premium_hours'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6c2f2888c561,Premium,Premium,,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6a0f3390f795,Note (for you),Notatka (dla Ciebie),,"T['vc_note'] | the classic web panel (browser, UTF-8: any letter)",new
-p:51170316b99c,Make the codes,Utwórz kody,,"T['vc_make'] | the classic web panel (browser, UTF-8: any letter)",new
-p:f4a6f482878b,{n} codes made.,Utworzono {n} kodów.,,"T['vc_made'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:57999f48b9b3,The new batch,Nowa partia,,"T['vc_batch'] | the classic web panel (browser, UTF-8: any letter)",new
-p:a479c9c34e87,Download,Pobierz,,"T['vc_download'] | the classic web panel (browser, UTF-8: any letter)",new
-p:dedac7f93cce,Search a code or a note,Szukaj kodu lub notatki,,"T['vc_search'] | the classic web panel (browser, UTF-8: any letter)",new
-p:adac69379a62,Code,Kod,,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c7d7652ec6a7,Reward,Nagroda,,"T['vc_col_reward'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:62be4731dedf,Uses,Użyć,,"T['vc_col_uses'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c8214d35a16e,Valid until,Ważny do,,"T['vc_col_until'] | the classic web panel (browser, UTF-8: any letter)",new
-p:785c2d910205,Made,Utworzony,,"T['vc_col_made'] | the classic web panel (browser, UTF-8: any letter)",new
-p:13ff33991a61,no end,bez końca,,"T['vc_no_end'] | the classic web panel (browser, UTF-8: any letter)",new
-p:45a6f9adb1df,expired,wygasł,,"T['vc_expired'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ea3b235200ce,used up,wykorzystany,,"T['vc_used_up'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9a7d4e0687b1,Disable,Wyłącz,,"T['vc_disable'] | the classic web panel (browser, UTF-8: any letter)",new
-p:b990ebcc1656,Code disabled: nobody can use it any more.,Kod wyłączony: nikt go już nie użyje.,,"T['vc_disabled'] | the classic web panel (browser, UTF-8: any letter)",new
-p:8f1c45f4376c,Code deleted.,Kod usunięty.,,"T['vc_deleted'] | the classic web panel (browser, UTF-8: any letter)",new
-p:15a7d96dcdcb,A used code cannot be deleted - disable it.,Użytego kodu nie da się usunąć - wyłącz go.,,"T['vc_delete_used'] | the classic web panel (browser, UTF-8: any letter)",new
-p:018216fb1750,No codes.,Brak kodów.,,"T['vc_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fa36cfd1dedf,Latest uses,Ostatnie użycia,,"T['vc_log'] | the classic web panel (browser, UTF-8: any letter)",new
-p:3b3e85d9814e,Nobody has used a code yet.,Nikt jeszcze nie użył kodu.,,"T['vc_log_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:769bb19e615b,When,Kiedy,,"T['vc_col_when'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:36b49a272e1c,← Panel,← Panel,,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",new
-p:e64bbd28268a,Number of codes: from 1 to {max}.,Liczba kodów: od 1 do {max}.,,"T['vc_err_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:f09220df4b6d,"Own code: 3-20 characters, letters, digits, - and _.","Własny kod: 3-20 znaków, litery, cyfry, - i _.",,"T['vc_err_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:113911cdcd17,That code exists already: {code}.,Taki kod już istnieje: {code}.,,"T['vc_err_taken'] | keep: {code} | the classic web panel (browser, UTF-8: any letter)",new
-p:03d723724084,"Prefix: up to 8 characters A-Z and 0-9, a - may end it.","Przedrostek: do 8 znaków A-Z i 0-9, na końcu może być -.",,"T['vc_err_prefix'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9d4ffab9532f,"Length: from {min} to {max}, and the whole code 20 characters at most.","Długość: od {min} do {max}, a cały kod najwyżej 20 znaków.",,"T['vc_err_length'] | keep: {max} {min} | the classic web panel (browser, UTF-8: any letter)",new
-p:c73da07a9dbd,Limit of uses: from 1 to {max}.,Limit użyć: od 1 do {max}.,,"T['vc_err_uses'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:13caedc58537,"End date: YYYY-MM-DD, today or later.","Data ważności: RRRR-MM-DD, dziś lub później.",,"T['vc_err_date'] | the classic web panel (browser, UTF-8: any letter)",new
-p:95cf79f8c955,Dragon Coins: from 0 to {max}.,Smocze Monety: od 0 do {max}.,,"T['vc_err_cash'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:6517673dbcd3,No such item: {vnum}.,Nie ma takiego przedmiotu: {vnum}.,,"T['vc_err_item'] | keep: {vnum} | the classic web panel (browser, UTF-8: any letter)",new
-p:84459c970ad7,Item count: from 1 to {max} (this item's stack).,Ilość przedmiotu: od 1 do {max} (stos tego przedmiotu).,,"T['vc_err_item_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:1dc483f93baf,Premium subscription: 0 to 8760 hours.,Subskrypcja Premium: od 0 do 8760 godzin.,,"T['vc_err_vip'] | the classic web panel (browser, UTF-8: any letter)",new
-p:4e9a319729f2,"A code must give something: Dragon Coins, an item or Premium.","Kod musi coś dawać: Smocze Monety, przedmiot lub Premium.",,"T['vc_err_reward'] | the classic web panel (browser, UTF-8: any letter)",new
-p:cf83fe199903,Note: up to 64 plain characters.,Notatka: do 64 znaków bez polskich liter.,,"T['vc_err_note'] | the classic web panel (browser, UTF-8: any letter)",new
-p:3ac8db865060,Database error: {e},Błąd bazy: {e},,"T['vc_err_db'] | keep: {e} | the classic web panel (browser, UTF-8: any letter)",new
+p:2c8a418f0b90,Metin,Metin,메틴석,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4f2c6f72a82d,all standing,wszystkie stoją,모두 있음,"T['rs_all_up'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d462593fb1aa,any moment,zaraz,곧,"T['rs_soon'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d5a63c95d431,everything,wszystko,전체,"T['rs_filter_all'] | the classic web panel (browser, UTF-8: any letter)",done
+p:44cee69b092e,bosses only,tylko bossów,보스만,"T['rs_filter_boss'] | the classic web panel (browser, UTF-8: any letter)",done
+p:104aaa7b876e,Metins only,tylko metiny,메틴석만,"T['rs_filter_metin'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c99c0c201267,waiting only,tylko czekające,대기 중만,"T['rs_filter_waiting'] | the classic web panel (browser, UTF-8: any letter)",done
+p:1faea90e64e0,"A special spawn from the server's special_spawns.txt, not a map respawn line. The boss and Metin respawn time of /rates shortens it all the same; the counts of /rates do not apply here.","Specjalny spawn z pliku special_spawns.txt serwera, nie z respawnu mapy. Czas respawnu bossów i metinów z /rates skraca go tak samo; liczby sztuk /rates tu nie zmienia.",서버의 special_spawns.txt에서 나오는 특수 스폰이지 맵 리스폰 줄이 아니야. 그래도 /rates의 보스·메틴석 리스폰 시간은 이것도 줄여. /rates의 개수는 여기 적용되지 않아.,"T['rs_fixed_hint'] | the classic web panel (browser, UTF-8: any letter)",done
+p:aa479fe7dc7f,Data from,Dane z,데이터 시각,"T['rs_updated'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6b008ab77e6a,Voucher codes,Kody voucherów,쿠폰 코드,"T['vc_nav'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d90c1cb8bfa9,"Your own ItemShop codes (Redeem a voucher): Dragon Coins, an item, the Premium subscription for a time; a limit of uses, an end date, one use an account.","Własne kody do ItemShopu (Wykorzystaj voucher): Smocze Monety, przedmiot, subskrypcja Premium na czas; limit użyć, data ważności, jedno użycie na konto.","너만의 아이템샵 코드(쿠폰 사용): 드래곤 코인, 아이템, 일정 기간의 프리미엄 구독; 사용 횟수 제한, 종료일, 계정당 1회 사용.","T['vc_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e0f40a348cd3,Open the codes,Otwórz kody,코드 열기,"T['vc_open'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9d66770df4fc,"A player types the code in the ItemShop: ItemShop → Redeem a voucher. Each account can use a code once - codes made before or outside the panel too; the limit of uses says how many accounts in all. An item goes into the bag, and when it has no room into the ItemShop's storage (at the Storekeeper), never onto the ground; the Premium subscription works from the next login.","Gracz wpisuje kod w ItemShopie: ItemShop → Wykorzystaj voucher. Każde konto może użyć danego kodu raz - także kodów zrobionych wcześniej poza panelem; limit użyć mówi, ile kont w sumie. Przedmiot trafia do plecaka, a gdy nie ma w nim miejsca - do magazynu ItemShopu (u Magazyniera), nigdy na ziemię; subskrypcja Premium działa od następnego logowania.","플레이어는 아이템샵에서 코드를 입력해: 아이템샵 → 쿠폰 사용. 계정마다 코드 하나를 한 번 쓸 수 있어 - 패널 이전이나 바깥에서 만든 코드도 마찬가지야. 사용 횟수 제한은 총 몇 개 계정인지를 뜻해. 아이템은 가방으로 가고, 자리가 없으면 아이템샵 창고(창고지기)로 가지 절대 바닥에 떨어지지 않아. 프리미엄 구독은 다음 로그인부터 적용돼.","T['vc_help'] | the classic web panel (browser, UTF-8: any letter)",done
+p:541bafc51084,"The codes' columns or the uses table are missing - restart the world, the migrator makes them (voucher_schema.sql).","Brak kolumn kodów lub tabeli użyć w bazie - zrestartuj świat, migrator je założy (voucher_schema.sql).",코드 열이나 사용 테이블이 없어 - 세계를 다시 시작하면 마이그레이터가 만들어(voucher_schema.sql).,"T['vc_not_ready'] | the classic web panel (browser, UTF-8: any letter)",done
+p:b00b4cb7a8d1,New codes,Nowe kody,새 코드,"T['vc_create'] | the classic web panel (browser, UTF-8: any letter)",done
+p:a35da56aaad7,How many codes (1-500),Ile kodów (1-500),코드 개수 (1-500),"T['vc_count'] | the classic web panel (browser, UTF-8: any letter)",done
+p:83b6a47d71d5,Or a code of your own (then one),Albo własny kod (wtedy jeden),또는 직접 정한 코드(이때는 1개),"T['vc_own_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fb3cdf99220c,"Prefix (optional, A-Z 0-9)","Przedrostek (opcjonalnie, A-Z 0-9)","접두사(선택, A-Z 0-9)","T['vc_prefix'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c18e95b41e19,Length of the random part,Długość losowej części,무작위 부분 길이,"T['vc_length'] | the classic web panel (browser, UTF-8: any letter)",done
+p:42d95a89fd44,Limit of uses (accounts),Limit użyć (kont),사용 횟수 제한(계정),"T['vc_uses'] | the classic web panel (browser, UTF-8: any letter)",done
+p:0da72c25931e,Valid until (empty = no end),Ważny do (puste = bez końca),유효 기한(비우면 무기한),"T['vc_expires'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ed2490859dfd,Dragon Coins (DC),Smocze Monety (SM),드래곤 코인 (DC),"T['vc_cash'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d826cf223d39,"Item (VNUM, 0 = none)","Przedmiot (VNUM, 0 = brak)","아이템(VNUM, 0 = 없음)","T['vc_item'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ee9f38e186ba,count,ilość,개수,"T['vc_item_count'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:63c614871b2b,"Premium subscription: hours (0 = none, up to 8760)","Subskrypcja Premium: godziny (0 = bez, do 8760)","프리미엄 구독: 시간(0 = 없음, 최대 8760)","T['vc_premium_hours'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6c2f2888c561,Premium,Premium,프리미엄,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6a0f3390f795,Note (for you),Notatka (dla Ciebie),메모(본인용),"T['vc_note'] | the classic web panel (browser, UTF-8: any letter)",done
+p:51170316b99c,Make the codes,Utwórz kody,코드 만들기,"T['vc_make'] | the classic web panel (browser, UTF-8: any letter)",done
+p:f4a6f482878b,{n} codes made.,Utworzono {n} kodów.,코드 {n}개를 만들었어.,"T['vc_made'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:57999f48b9b3,The new batch,Nowa partia,새 묶음,"T['vc_batch'] | the classic web panel (browser, UTF-8: any letter)",done
+p:a479c9c34e87,Download,Pobierz,다운로드,"T['vc_download'] | the classic web panel (browser, UTF-8: any letter)",done
+p:dedac7f93cce,Search a code or a note,Szukaj kodu lub notatki,코드나 메모 검색,"T['vc_search'] | the classic web panel (browser, UTF-8: any letter)",done
+p:adac69379a62,Code,Kod,코드,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c7d7652ec6a7,Reward,Nagroda,보상,"T['vc_col_reward'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:62be4731dedf,Uses,Użyć,사용,"T['vc_col_uses'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c8214d35a16e,Valid until,Ważny do,유효 기한,"T['vc_col_until'] | the classic web panel (browser, UTF-8: any letter)",done
+p:785c2d910205,Made,Utworzony,생성,"T['vc_col_made'] | the classic web panel (browser, UTF-8: any letter)",done
+p:13ff33991a61,no end,bez końca,무기한,"T['vc_no_end'] | the classic web panel (browser, UTF-8: any letter)",done
+p:45a6f9adb1df,expired,wygasł,만료,"T['vc_expired'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ea3b235200ce,used up,wykorzystany,소진,"T['vc_used_up'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9a7d4e0687b1,Disable,Wyłącz,비활성화,"T['vc_disable'] | the classic web panel (browser, UTF-8: any letter)",done
+p:b990ebcc1656,Code disabled: nobody can use it any more.,Kod wyłączony: nikt go już nie użyje.,코드가 비활성화됐어: 이제 아무도 쓸 수 없어.,"T['vc_disabled'] | the classic web panel (browser, UTF-8: any letter)",done
+p:8f1c45f4376c,Code deleted.,Kod usunięty.,코드를 삭제했어.,"T['vc_deleted'] | the classic web panel (browser, UTF-8: any letter)",done
+p:15a7d96dcdcb,A used code cannot be deleted - disable it.,Użytego kodu nie da się usunąć - wyłącz go.,사용된 코드는 삭제할 수 없어 - 비활성화해.,"T['vc_delete_used'] | the classic web panel (browser, UTF-8: any letter)",done
+p:018216fb1750,No codes.,Brak kodów.,코드 없음.,"T['vc_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fa36cfd1dedf,Latest uses,Ostatnie użycia,최근 사용,"T['vc_log'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3b3e85d9814e,Nobody has used a code yet.,Nikt jeszcze nie użył kodu.,아직 코드를 쓴 사람이 없어.,"T['vc_log_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:769bb19e615b,When,Kiedy,시각,"T['vc_col_when'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:36b49a272e1c,← Panel,← Panel,← 패널,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e64bbd28268a,Number of codes: from 1 to {max}.,Liczba kodów: od 1 do {max}.,코드 개수: 1부터 {max}까지.,"T['vc_err_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:f09220df4b6d,"Own code: 3-20 characters, letters, digits, - and _.","Własny kod: 3-20 znaków, litery, cyfry, - i _.","직접 정한 코드: 3-20자, 영문자, 숫자, - 및 _.","T['vc_err_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:113911cdcd17,That code exists already: {code}.,Taki kod już istnieje: {code}.,그 코드는 이미 있어: {code}.,"T['vc_err_taken'] | keep: {code} | the classic web panel (browser, UTF-8: any letter)",done
+p:03d723724084,"Prefix: up to 8 characters A-Z and 0-9, a - may end it.","Przedrostek: do 8 znaków A-Z i 0-9, na końcu może być -.","접두사: A-Z와 0-9로 최대 8자, 끝에 -를 붙여도 돼.","T['vc_err_prefix'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9d4ffab9532f,"Length: from {min} to {max}, and the whole code 20 characters at most.","Długość: od {min} do {max}, a cały kod najwyżej 20 znaków.","길이: {min}부터 {max}까지, 코드 전체는 최대 20자.","T['vc_err_length'] | keep: {max} {min} | the classic web panel (browser, UTF-8: any letter)",done
+p:c73da07a9dbd,Limit of uses: from 1 to {max}.,Limit użyć: od 1 do {max}.,사용 횟수 제한: 1부터 {max}까지.,"T['vc_err_uses'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:13caedc58537,"End date: YYYY-MM-DD, today or later.","Data ważności: RRRR-MM-DD, dziś lub później.","종료일: YYYY-MM-DD, 오늘 또는 이후.","T['vc_err_date'] | the classic web panel (browser, UTF-8: any letter)",done
+p:95cf79f8c955,Dragon Coins: from 0 to {max}.,Smocze Monety: od 0 do {max}.,드래곤 코인: 0부터 {max}까지.,"T['vc_err_cash'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:6517673dbcd3,No such item: {vnum}.,Nie ma takiego przedmiotu: {vnum}.,그런 아이템은 없어: {vnum}.,"T['vc_err_item'] | keep: {vnum} | the classic web panel (browser, UTF-8: any letter)",done
+p:84459c970ad7,Item count: from 1 to {max} (this item's stack).,Ilość przedmiotu: od 1 do {max} (stos tego przedmiotu).,아이템 개수: 1부터 {max}까지(이 아이템의 최대 겹침 수).,"T['vc_err_item_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:1dc483f93baf,Premium subscription: 0 to 8760 hours.,Subskrypcja Premium: od 0 do 8760 godzin.,프리미엄 구독: 0~8760시간.,"T['vc_err_vip'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4e9a319729f2,"A code must give something: Dragon Coins, an item or Premium.","Kod musi coś dawać: Smocze Monety, przedmiot lub Premium.","코드는 뭔가를 줘야 해: 드래곤 코인, 아이템 또는 프리미엄.","T['vc_err_reward'] | the classic web panel (browser, UTF-8: any letter)",done
+p:cf83fe199903,Note: up to 64 plain characters.,Notatka: do 64 znaków bez polskich liter.,메모: 일반 문자 최대 64자.,"T['vc_err_note'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3ac8db865060,Database error: {e},Błąd bazy: {e},데이터베이스 오류: {e},"T['vc_err_db'] | keep: {e} | the classic web panel (browser, UTF-8: any letter)",done
 p:6ee419d36065,Wheel of Fortune,Koło Fortuny,행운의 바퀴,"T['fw_title'] | the classic web panel (browser, UTF-8: any letter)",done
-p:ecfee07c7c76,🎡 Edit the Wheel of Fortune →,🎡 Edytuj Koło Fortuny →,,"T['fw_open'] | the classic web panel (browser, UTF-8: any letter)",new
-p:59acc924acc0,"The wheel's fields in their order round the disc, their chances (weights), counts and the price of a spin. The game takes a saved wheel within a few seconds, without a restart. A player never sees a chance - only the prizes; the percents below are for you. The bots spin the same wheel with their Lucky Tickets.","Pola koła w kolejności na tarczy, ich szanse (wagi), ilości i ceny obrotu. Gra bierze zapisane koło w ciągu kilku sekund, bez restartu. Gracz nie widzi szans - tylko nagrody; procenty poniżej są dla Ciebie. Boty kręcą tym samym kołem za swoje Kupony Losu.",,"T['fw_help'] | the classic web panel (browser, UTF-8: any letter)",new
-p:57a84801920e,Now: the default wheel (Kiciamol's) - nothing saved.,Teraz: koło domyślne (Kiciamola) - nic nie zapisano.,,"T['fw_source_default'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fa87f56b641b,Now: your wheel (saved {when}).,Teraz: Twoje koło (zapisane {when}).,,"T['fw_source_file'] | keep: {when} | the classic web panel (browser, UTF-8: any letter)",new
-p:39be0a2fc93a,The wheel's file in the spool is invalid ({why}) - the game refuses it and keeps the wheel it had. Below is the default wheel; save to replace the file.,"Plik koła w spoolu jest nieprawidłowy ({why}) - gra go nie przyjmie i zostawi poprzednie koło. Poniżej koło domyślne; zapisz, żeby nadpisać plik.",,"T['fw_source_bad'] | keep: {why} | the classic web panel (browser, UTF-8: any letter)",new
-p:5f0c15ef257e,Price of a spin in Dragon Coins,Cena obrotu w Smoczych Monetach,,"T['fw_price'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6bee56e08a17,Lucky Tickets a spin,Kuponów Losu za obrót,,"T['fw_tickets'] | the classic web panel (browser, UTF-8: any letter)",new
+p:ecfee07c7c76,🎡 Edit the Wheel of Fortune →,🎡 Edytuj Koło Fortuny →,🎡 행운의 바퀴 편집 →,"T['fw_open'] | the classic web panel (browser, UTF-8: any letter)",done
+p:59acc924acc0,"The wheel's fields in their order round the disc, their chances (weights), counts and the price of a spin. The game takes a saved wheel within a few seconds, without a restart. A player never sees a chance - only the prizes; the percents below are for you. The bots spin the same wheel with their Lucky Tickets.","Pola koła w kolejności na tarczy, ich szanse (wagi), ilości i ceny obrotu. Gra bierze zapisane koło w ciągu kilku sekund, bez restartu. Gracz nie widzi szans - tylko nagrody; procenty poniżej są dla Ciebie. Boty kręcą tym samym kołem za swoje Kupony Losu.","원판을 따라 순서대로 놓인 바퀴의 칸, 그 확률(가중치), 개수, 한 번 돌리는 가격. 게임은 저장된 바퀴를 재시작 없이 몇 초 안에 적용해. 플레이어는 확률을 절대 보지 못하고 상품만 봐. 아래 퍼센트는 너를 위한 거야. 봇들도 Lucky Ticket으로 같은 바퀴를 돌려.","T['fw_help'] | the classic web panel (browser, UTF-8: any letter)",done
+p:57a84801920e,Now: the default wheel (Kiciamol's) - nothing saved.,Teraz: koło domyślne (Kiciamola) - nic nie zapisano.,현재: 기본 바퀴(Kiciamol의 것) - 저장된 것 없음.,"T['fw_source_default'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fa87f56b641b,Now: your wheel (saved {when}).,Teraz: Twoje koło (zapisane {when}).,현재: 너의 바퀴({when} 저장).,"T['fw_source_file'] | keep: {when} | the classic web panel (browser, UTF-8: any letter)",done
+p:39be0a2fc93a,The wheel's file in the spool is invalid ({why}) - the game refuses it and keeps the wheel it had. Below is the default wheel; save to replace the file.,"Plik koła w spoolu jest nieprawidłowy ({why}) - gra go nie przyjmie i zostawi poprzednie koło. Poniżej koło domyślne; zapisz, żeby nadpisać plik.",spool의 바퀴 파일이 잘못됐어({why}) - 게임이 거부하고 기존 바퀴를 유지해. 아래는 기본 바퀴야. 저장하면 파일이 교체돼.,"T['fw_source_bad'] | keep: {why} | the classic web panel (browser, UTF-8: any letter)",done
+p:5f0c15ef257e,Price of a spin in Dragon Coins,Cena obrotu w Smoczych Monetach,1회 돌리기 가격(드래곤 코인),"T['fw_price'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6bee56e08a17,Lucky Tickets a spin,Kuponów Losu za obrót,1회당 Lucky Ticket,"T['fw_tickets'] | the classic web panel (browser, UTF-8: any letter)",done
