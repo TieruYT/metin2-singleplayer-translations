@@ -1,97 +1,97 @@
 id,english,polski,translation,notes,status
-p:3ac110933ca1,"The bosses appear only while the event is on and stage 3 is reached, on one channel. Strength and respawn count from the next appearance; the drop from the next kill.",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:32b2812febd9,Boss on,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:fcc07ea6a89a,Respawn every (minutes),Odstęp w minutach,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:57b2b8f555cd,Health points,Punkty życia,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:9a7a56e854c9,Damage dealt multiplier,Mnożnik zadawanych obrażeń,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2509357bde07,Damage taken multiplier,Mnożnik otrzymywanych obrażeń,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:108337eab462,Save the boss,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:30a36cdb4e5c,Next spawn in 30 s,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:eed8cae63224,Save the drop,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:006e1d4a9aa6,alive,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:1608de1fae3a,next spawn,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:4d5f57280283,last error,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7712d20dc707,Saved. The game reads it within about 5 seconds.,Zapisano. Gra odczyta to w ciągu około 5 sekund.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:b2c9d454e48a,The boss appears in about 30 seconds (if the event is on and stage 3 reached).,Boss pojawi się za około 30 sekund (jeśli event trwa i etap 3 jest osiągnięty).,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d1173c345df0,Someone changed these settings in another window. Nothing was saved; check them and save again.,Ktoś zmienił te ustawienia w innym oknie. Nic nie zapisano; sprawdź je i zapisz jeszcze raz.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1955fca83210,Tick the confirmation to reset the collection.,"Zaznacz potwierdzenie, aby wyzerować zbiórkę.",,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:1ed36788604a,Row %d,Wiersz %d,,"panel: module text / panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:a3cf36dc89fc,%s: allowed %s–%s.,%s: dozwolone %s–%s.,,"panel: module text / panel: admin_panel.py | keep: %s %s %s | the classic web panel (browser, UTF-8: any letter)",new
-p:b2198ed8f253,"%s: 0–100%%, in steps of %s%%.","%s: 0–100%%, krok %s%%.",,"panel: module text / panel: admin_panel.py | keep: %s %s | the classic web panel (browser, UTF-8: any letter)",new
-p:a58d35f29ba6,"%s: choose an item, Yang or EXP.","%s: wybierz przedmiot, Yang albo PD.",,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:2b9c054619be,%s: no such item %d.,%s: nie ma przedmiotu %d.,,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",new
-p:1c4100e1ccb0,%s: item %d is not allowed in this table.,%s: przedmiot %d jest wykluczony z tej tabeli.,,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",new
-p:a6ac4a4e8955,%s: items of the Lycan are excluded.,%s: przedmioty likana są wykluczone.,,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:85a284fef38d,%s: at most %d of this item in one reward.,%s: najwyżej %d tego przedmiotu w jednej nagrodzie.,,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",new
-p:0b42dcf27988,%s: 'to' cannot be lower than 'from'.,%s: „do” nie może być mniejsze niż „od”.,,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:7d095af8697a,%s: a seal is sold one at a time.,%s: pieczęć sprzedaje się po jednej.,,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:437535a85aa6,At most %d rows.,Najwyżej %d wierszy.,,"panel: module text / panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:4ba38426f91a,Add at least one reward.,Dodaj co najmniej jedną nagrodę.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:cea4e497b0b8,"The enabled chances add up to %s%%, not 100%%. One chest gives one reward.","Włączone szanse dają razem %s%%, nie 100%%. Jedna skrzynia daje jedną nagrodę.",,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:7bb8302691c2,"Day %d: the enabled chances add up to %s%%; it must be 100%%, or no enabled row.",Dzień %d: włączone szanse dają %s%%; musi być 100%% albo żadnego włączonego wiersza.,,"panel: module text / panel: admin_panel.py | keep: %d %s | the classic web panel (browser, UTF-8: any letter)",new
-p:64c0132bfc70,Enter both dates as YYYY-MM-DD.,Podaj obie daty jako RRRR-MM-DD.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:137bc57a7ab8,The end must come after the first day and at most 24 days later.,Koniec musi wypaść po pierwszym dniu i najwyżej 24 dni później.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:64abb3cf1559,Edition,Edycja,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:77e8d4e68511,Test day,Dzień testowy,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f19726286b62,"Choose the Orc Valley, the Yongbi Desert or Mount Sohan.","Wybierz Dolinę Orków, Pustynię Yongbi albo Górę Sohan.",,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2ae933e44484,"%s: allowed %s–%s, at most 3 decimals.","%s: dozwolone %s–%s, do 3 miejsc po przecinku.",,"panel: module text / panel: admin_panel.py | keep: %s %s %s | the classic web panel (browser, UTF-8: any letter)",new
-p:77c4163d0b7e,Unknown boss.,Nieznany boss.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:dfbab72384a4,Unknown day.,Nieznany dzień.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c7797edae115,The world bosses' settings are missing - restart the world.,Brak ustawień bossów świata - zrestartuj świat.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d4ad453ae330,The event's settings are missing - restart the world.,Brak ustawień eventu - zrestartuj świat.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
+p:3ac110933ca1,"The bosses appear only while the event is on and stage 3 is reached, on one channel. Strength and respawn count from the next appearance; the drop from the next kill.",,"보스는 이벤트가 켜져 있고 3단계에 도달했을 때만 한 채널에 나타나. 강함과 리스폰은 다음 등장부터, 드롭은 다음 처치부터 적용돼.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:32b2812febd9,Boss on,,보스 켜짐,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:fcc07ea6a89a,Respawn every (minutes),Odstęp w minutach,리스폰 간격 (분),"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:57b2b8f555cd,Health points,Punkty życia,체력,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:9a7a56e854c9,Damage dealt multiplier,Mnożnik zadawanych obrażeń,가하는 피해 배율,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2509357bde07,Damage taken multiplier,Mnożnik otrzymywanych obrażeń,받는 피해 배율,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:108337eab462,Save the boss,,보스 저장,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:30a36cdb4e5c,Next spawn in 30 s,,30초 뒤 다음 스폰,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:eed8cae63224,Save the drop,,드롭 저장,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:006e1d4a9aa6,alive,,살아 있음,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:1608de1fae3a,next spawn,,다음 스폰,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:4d5f57280283,last error,,마지막 오류,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7712d20dc707,Saved. The game reads it within about 5 seconds.,Zapisano. Gra odczyta to w ciągu około 5 sekund.,저장됨. 게임이 약 5초 안에 읽어.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:b2c9d454e48a,The boss appears in about 30 seconds (if the event is on and stage 3 reached).,Boss pojawi się za około 30 sekund (jeśli event trwa i etap 3 jest osiągnięty).,보스는 약 30초 뒤에 나타나 (이벤트가 켜져 있고 3단계에 도달했으면).,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d1173c345df0,Someone changed these settings in another window. Nothing was saved; check them and save again.,Ktoś zmienił te ustawienia w innym oknie. Nic nie zapisano; sprawdź je i zapisz jeszcze raz.,누군가 다른 창에서 이 설정을 바꿨어. 아무것도 저장되지 않았어; 확인하고 다시 저장해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1955fca83210,Tick the confirmation to reset the collection.,"Zaznacz potwierdzenie, aby wyzerować zbiórkę.",모금을 초기화하려면 확인란을 체크해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:1ed36788604a,Row %d,Wiersz %d,%d행,"panel: module text / panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:a3cf36dc89fc,%s: allowed %s–%s.,%s: dozwolone %s–%s.,%s: 허용 범위 %s–%s.,"panel: module text / panel: admin_panel.py | keep: %s %s %s | the classic web panel (browser, UTF-8: any letter)",done
+p:b2198ed8f253,"%s: 0–100%%, in steps of %s%%.","%s: 0–100%%, krok %s%%.","%s: 0–100%%, %s%% 단위.","panel: module text / panel: admin_panel.py | keep: %s %s | the classic web panel (browser, UTF-8: any letter)",done
+p:a58d35f29ba6,"%s: choose an item, Yang or EXP.","%s: wybierz przedmiot, Yang albo PD.","%s: 아이템, 양, 경험치 중에서 골라.","panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:2b9c054619be,%s: no such item %d.,%s: nie ma przedmiotu %d.,%s: 아이템 %d이(가) 없어.,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",done
+p:1c4100e1ccb0,%s: item %d is not allowed in this table.,%s: przedmiot %d jest wykluczony z tej tabeli.,%s: 아이템 %d은(는) 이 테이블에 허용되지 않아.,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",done
+p:a6ac4a4e8955,%s: items of the Lycan are excluded.,%s: przedmioty likana są wykluczone.,%s: 수인족 아이템은 제외돼.,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:85a284fef38d,%s: at most %d of this item in one reward.,%s: najwyżej %d tego przedmiotu w jednej nagrodzie.,%s: 보상 하나에 이 아이템은 최대 %d개야.,"panel: module text / panel: admin_panel.py | keep: %s %d | the classic web panel (browser, UTF-8: any letter)",done
+p:0b42dcf27988,%s: 'to' cannot be lower than 'from'.,%s: „do” nie może być mniejsze niż „od”.,%s: “최대”는 “최소”보다 작을 수 없어.,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:7d095af8697a,%s: a seal is sold one at a time.,%s: pieczęć sprzedaje się po jednej.,%s: 인장은 하나씩 팔아.,"panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:437535a85aa6,At most %d rows.,Najwyżej %d wierszy.,최대 %d행.,"panel: module text / panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:4ba38426f91a,Add at least one reward.,Dodaj co najmniej jedną nagrodę.,보상을 하나 이상 추가해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:cea4e497b0b8,"The enabled chances add up to %s%%, not 100%%. One chest gives one reward.","Włączone szanse dają razem %s%%, nie 100%%. Jedna skrzynia daje jedną nagrodę.","활성 확률 합계가 %s%%야, 100%%가 아니야. 상자 하나는 보상 하나를 줘.","panel: module text / panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:7bb8302691c2,"Day %d: the enabled chances add up to %s%%; it must be 100%%, or no enabled row.",Dzień %d: włączone szanse dają %s%%; musi być 100%% albo żadnego włączonego wiersza.,%d일: 활성 확률 합계가 %s%%야; 100%%이거나 활성 행이 없어야 해.,"panel: module text / panel: admin_panel.py | keep: %d %s | the classic web panel (browser, UTF-8: any letter)",done
+p:64c0132bfc70,Enter both dates as YYYY-MM-DD.,Podaj obie daty jako RRRR-MM-DD.,두 날짜를 YYYY-MM-DD 형식으로 입력해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:137bc57a7ab8,The end must come after the first day and at most 24 days later.,Koniec musi wypaść po pierwszym dniu i najwyżej 24 dni później.,종료일은 첫날 이후이고 최대 24일 뒤여야 해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:64abb3cf1559,Edition,Edycja,회차,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:77e8d4e68511,Test day,Dzień testowy,테스트 날,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f19726286b62,"Choose the Orc Valley, the Yongbi Desert or Mount Sohan.","Wybierz Dolinę Orków, Pustynię Yongbi albo Górę Sohan.","오크 계곡, 영비사막, 서한산 중에서 골라.","panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2ae933e44484,"%s: allowed %s–%s, at most 3 decimals.","%s: dozwolone %s–%s, do 3 miejsc po przecinku.","%s: 허용 범위 %s–%s, 소수점 최대 3자리.","panel: module text / panel: admin_panel.py | keep: %s %s %s | the classic web panel (browser, UTF-8: any letter)",done
+p:77c4163d0b7e,Unknown boss.,Nieznany boss.,알 수 없는 보스.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:dfbab72384a4,Unknown day.,Nieznany dzień.,알 수 없는 날.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:c7797edae115,The world bosses' settings are missing - restart the world.,Brak ustawień bossów świata - zrestartuj świat.,월드 보스 설정이 없어 - 월드를 재시작해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d4ad453ae330,The event's settings are missing - restart the world.,Brak ustawień eventu - zrestartuj świat.,이벤트 설정이 없어 - 월드를 재시작해.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
 p:6c208e949d20,EXP,,EXP,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:6596398aa5b4,Herald of Frost,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:07669f5ed9a6,Dark Spirit of Winter,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:93bf03187bb2,Seasonal stone spawn chance,Szansa kamieni sezonowych,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:7cf209b725dd,Players reopen an open shop window; seals bought before keep their time.,Otwarte okna sklepu gracze muszą otworzyć ponownie; kupione pieczęcie zachowują swój czas.,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6a784b48f5e6,The drop counts from the next kill.,Drop obowiązuje od następnego zabicia.,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:704b1b1ba7e1,Stage %d,Etap %d,,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:43493f555dec,Respawn and strength count from the boss's next appearance.,Resp i siła obowiązują od następnego pojawienia się bossa.,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0d679c3f289b,No item in item_proto with VNUM: ,Nie ma w item_proto przedmiotu o VNUM: ,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c4c7932e4c99, Note: , Uwaga: ,,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:aa929c032bc9,%s: a number from %d to %d.,%s: liczba od %d do %d.,,"panel: admin_panel.py | keep: %s %d %d | the classic web panel (browser, UTF-8: any letter)",new
-p:674ee84843c4,Reward item %d: numbers.,Przedmiot nagrody %d: liczby.,,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:7dc416b4de47,No such item: %s.,Nie ma takiego przedmiotu: %s.,,"panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
-p:f3ed6f4897ea,Reward item %d: a count from 1 to %d.,Przedmiot nagrody %d: ilość od 1 do %d.,,"panel: admin_panel.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",new
-p:f3d81d34aca0,"No dungeon settings table - restart the world, the migrator makes it.","Brak tabeli ustawień lochu - zrestartuj świat, migrator ją założy.",,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:52d38a5941f7,Reward item %d repeats another.,Przedmiot nagrody %d powtarza inny.,,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:caaa08019197,An edit is in progress - wait for it to finish.,"Edycja w toku - poczekaj, az skonczy sie poprzednia.",,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:49c491d95d17,This is not a bot.,To nie jest bot.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:cfa3fe53a611,The character changed since the editor opened - open it again.,Postac zmienila sie od otwarcia edytora - otworz go jeszcze raz.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:632fb89b1c66,Nothing changed.,Nic sie nie zmienilo.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0faa3e0c1a6a,Waiting for the bot to leave the game...,"Czekam, az bot wyjdzie z gry...",,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:893288903396,The bot did not leave the game in 90 s - nothing was saved.,Bot nie wyszedl z gry w 90 s - nic nie zapisano.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:70a83b12e058,Saved. The bot comes back by its usual schedule.,Zapisano. Bot wroci do gry wedlug swojego harmonogramu.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:34fe55a700de,Write failed - the state before the edit was restored: ,Blad zapisu - przywrocono stan sprzed edycji: ,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f3d30c8e3469,This cannot be undone: the row changed since.,Tego nie da sie cofnac: wiersz zmienil sie od tamtej pory.,,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",new
-p:aa55cd944d5f,Bot rotation,Rotacja botów,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:d2f93eae26e2,"7 days: colours — level pools, line — online target.","7 dni: kolory — pule poziomów, linia — cel online.",,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:ba5234072613,Online target,Cel online,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f9b7b18fdd56,Moonlight Chests directly to inventory (bots and players),Szkatułki prosto do ekwipunku (boty i gracze),,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e8f07b3a4df4,The chest goes to the native drop owner. Full bag — the chest falls to the ground.,Szkatułka trafia do torby właściciela dropu. Pełna torba — szkatułka spada na ziemię.,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:aefc6368e519,Save failed.,Błąd zapisu.,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:413c0d3ab186,Always online,Zawsze w grze,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
+p:6596398aa5b4,Herald of Frost,,서리의 전령,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:07669f5ed9a6,Dark Spirit of Winter,,겨울의 어둠의 정령,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:93bf03187bb2,Seasonal stone spawn chance,Szansa kamieni sezonowych,시즌 돌 출현 확률,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:7cf209b725dd,Players reopen an open shop window; seals bought before keep their time.,Otwarte okna sklepu gracze muszą otworzyć ponownie; kupione pieczęcie zachowują swój czas.,플레이어가 열린 상점 창을 다시 열어야 해; 전에 산 인장은 시간이 그대로야.,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6a784b48f5e6,The drop counts from the next kill.,Drop obowiązuje od następnego zabicia.,드롭은 다음 처치부터 적용돼.,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:704b1b1ba7e1,Stage %d,Etap %d,%d단계,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:43493f555dec,Respawn and strength count from the boss's next appearance.,Resp i siła obowiązują od następnego pojawienia się bossa.,리스폰과 강함은 보스의 다음 등장부터 적용돼.,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0d679c3f289b,No item in item_proto with VNUM: ,Nie ma w item_proto przedmiotu o VNUM: ,item_proto에 이 VNUM의 아이템이 없어: ,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:c4c7932e4c99, Note: , Uwaga: , 참고: ,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:aa929c032bc9,%s: a number from %d to %d.,%s: liczba od %d do %d.,%s: %d부터 %d까지의 숫자.,"panel: admin_panel.py | keep: %s %d %d | the classic web panel (browser, UTF-8: any letter)",done
+p:674ee84843c4,Reward item %d: numbers.,Przedmiot nagrody %d: liczby.,보상 아이템 %d: 숫자만.,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:7dc416b4de47,No such item: %s.,Nie ma takiego przedmiotu: %s.,그런 아이템이 없어: %s.,"panel: admin_panel.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
+p:f3ed6f4897ea,Reward item %d: a count from 1 to %d.,Przedmiot nagrody %d: ilość od 1 do %d.,보상 아이템 %d: 수량은 1부터 %d까지.,"panel: admin_panel.py | keep: %d %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f3d81d34aca0,"No dungeon settings table - restart the world, the migrator makes it.","Brak tabeli ustawień lochu - zrestartuj świat, migrator ją założy.",던전 설정 테이블이 없어 - 월드를 재시작하면 마이그레이터가 만들어.,"panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:52d38a5941f7,Reward item %d repeats another.,Przedmiot nagrody %d powtarza inny.,보상 아이템 %d이(가) 다른 것과 겹쳐.,"panel: admin_panel.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:caaa08019197,An edit is in progress - wait for it to finish.,"Edycja w toku - poczekaj, az skonczy sie poprzednia.",편집이 진행 중이야 - 끝날 때까지 기다려.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:49c491d95d17,This is not a bot.,To nie jest bot.,이건 봇이 아니야.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:cfa3fe53a611,The character changed since the editor opened - open it again.,Postac zmienila sie od otwarcia edytora - otworz go jeszcze raz.,편집기를 연 뒤 캐릭터가 바뀌었어 - 다시 열어.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:632fb89b1c66,Nothing changed.,Nic sie nie zmienilo.,바뀐 것이 없어.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0faa3e0c1a6a,Waiting for the bot to leave the game...,"Czekam, az bot wyjdzie z gry...",봇이 게임에서 나가기를 기다리는 중...,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:893288903396,The bot did not leave the game in 90 s - nothing was saved.,Bot nie wyszedl z gry w 90 s - nic nie zapisano.,봇이 90초 안에 게임에서 나가지 않았어 - 아무것도 저장되지 않았어.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:70a83b12e058,Saved. The bot comes back by its usual schedule.,Zapisano. Bot wroci do gry wedlug swojego harmonogramu.,저장됨. 봇은 평소 일정대로 돌아와.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:34fe55a700de,Write failed - the state before the edit was restored: ,Blad zapisu - przywrocono stan sprzed edycji: ,쓰기 실패 - 편집 전 상태로 복원했어: ,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f3d30c8e3469,This cannot be undone: the row changed since.,Tego nie da sie cofnac: wiersz zmienil sie od tamtej pory.,되돌릴 수 없어: 그 뒤로 행이 바뀌었어.,"panel: bot_editor.py | the classic web panel (browser, UTF-8: any letter)",done
+p:aa55cd944d5f,Bot rotation,Rotacja botów,봇 교대,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:d2f93eae26e2,"7 days: colours — level pools, line — online target.","7 dni: kolory — pule poziomów, linia — cel online.","7일: 색 — 레벨 풀, 선 — 온라인 목표.","panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:ba5234072613,Online target,Cel online,온라인 목표,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f9b7b18fdd56,Moonlight Chests directly to inventory (bots and players),Szkatułki prosto do ekwipunku (boty i gracze),달빛 상자를 인벤토리로 바로 (봇과 플레이어),"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e8f07b3a4df4,The chest goes to the native drop owner. Full bag — the chest falls to the ground.,Szkatułka trafia do torby właściciela dropu. Pełna torba — szkatułka spada na ziemię.,상자는 원래 드롭 주인에게 가. 가방이 가득 차면 — 상자는 바닥에 떨어져.,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:aefc6368e519,Save failed.,Błąd zapisu.,저장 실패.,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:413c0d3ab186,Always online,Zawsze w grze,항상 온라인,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
 p:9d4af6906a17,Saved.,Zapisano.,저장했습니다.,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
-p:d37495613632, Saved., Zapisano.,,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",new
-p:6387c9f75858,Target saved for the next game-core restart.,Zapisano cel na następny restart rdzeni.,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:754ac85d6dfc,Population contract unavailable. Check the engine version and migration.,Kontrakt populacji jest niedostępny. Sprawdź wersję rdzenia i migrację.,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:0c3f32362eb0,The target covers the base population. Fresh cohorts and medal droppers have separate settings. Saving does not recreate the container or reset characters or AI.,Cel dotyczy podstawowej populacji. Świeże kohorty i dropperzy medali są osobnymi ustawieniami. Zapis nie odtwarza kontenera i nie resetuje postaci ani AI.,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:778627418cb4,Pool,Pula,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:2eb0d5023a87,Pending restart,Oczekuje na restart,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
+p:d37495613632, Saved., Zapisano., 저장됨.,"panel: playerbot_world_settings.py | the classic web panel (browser, UTF-8: any letter)",done
+p:6387c9f75858,Target saved for the next game-core restart.,Zapisano cel na następny restart rdzeni.,다음 게임 코어 재시작에 쓸 목표를 저장했어.,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:754ac85d6dfc,Population contract unavailable. Check the engine version and migration.,Kontrakt populacji jest niedostępny. Sprawdź wersję rdzenia i migrację.,인구 계약을 쓸 수 없어. 엔진 버전과 마이그레이션을 확인해.,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:0c3f32362eb0,The target covers the base population. Fresh cohorts and medal droppers have separate settings. Saving does not recreate the container or reset characters or AI.,Cel dotyczy podstawowej populacji. Świeże kohorty i dropperzy medali są osobnymi ustawieniami. Zapis nie odtwarza kontenera i nie resetuje postaci ani AI.,목표는 기본 인구를 다뤄. 새 코호트와 메달 드롭 봇은 설정이 따로 있어. 저장해도 컨테이너를 다시 만들거나 캐릭터나 AI를 초기화하지 않아.,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:778627418cb4,Pool,Pula,풀,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:2eb0d5023a87,Pending restart,Oczekuje na restart,재시작 대기,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
 p:61ad50a9b918,Target,Cel,대상,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
-p:4e5a2893bdcc,Login,Login,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:366c2415f45e,Repeat password,Powtórz hasło,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:27153e0223d4,E-mail (optional),E-mail (opcjonalnie),,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:53a2e25fda67,Character deletion code (7 digits),Kod usunięcia postaci (7 cyfr),,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:aaf374479756,Create account,Stwórz konto,,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:79f88d6aa7f3,"Login 4-16 letters/digits, password 6-16 characters. The account works in game at once.","Login 4–16 liter/cyfr, hasło 6–16 znaków. Konto od razu działa w grze (status OK).",,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e00e3feab0bb,Add a row,Dodaj wiersz,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:f572cf105f96,"Select rows in the first column. A row a special shop lists cannot be deleted - take it off the shop on its page first. Adding and deleting show a preview first; every row goes into the history, where it can be undone.","Zaznacz wiersze w pierwszej kolumnie. Wiersza, który jest w sklepie specjalnym, nie usuniesz - najpierw zdejmij go ze sklepu na jego stronie. Dodanie i usunięcie pokazują najpierw podgląd; każdy wiersz trafia do historii, z której można go cofnąć.",,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c7227cbda618,Add a similar row,Dodaj podobny wiersz,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:09465f4b0a66,Delete this row,Usuń ten wiersz,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:e05378e0443f,New special shop row,Nowy wiersz sklepu specjalnego,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:73209b9c9ad0,The row was not added - correct the data and look at the preview again.,Wiersz nie został dodany - popraw dane i obejrzyj podgląd jeszcze raz.,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
-p:c15eb02b9370,The preview has expired - enter the row again.,Podgląd wygasł - wpisz wiersz jeszcze raz.,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
+p:4e5a2893bdcc,Login,Login,아이디,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:366c2415f45e,Repeat password,Powtórz hasło,비밀번호 다시 입력,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:27153e0223d4,E-mail (optional),E-mail (opcjonalnie),이메일 (선택),"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:53a2e25fda67,Character deletion code (7 digits),Kod usunięcia postaci (7 cyfr),캐릭터 삭제 코드 (7자리),"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:aaf374479756,Create account,Stwórz konto,계정 만들기,"panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:79f88d6aa7f3,"Login 4-16 letters/digits, password 6-16 characters. The account works in game at once.","Login 4–16 liter/cyfr, hasło 6–16 znaków. Konto od razu działa w grze (status OK).","아이디 4-16자 영문/숫자, 비밀번호 6-16자. 계정은 바로 게임에서 쓸 수 있어.","panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e00e3feab0bb,Add a row,Dodaj wiersz,행 추가,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:f572cf105f96,"Select rows in the first column. A row a special shop lists cannot be deleted - take it off the shop on its page first. Adding and deleting show a preview first; every row goes into the history, where it can be undone.","Zaznacz wiersze w pierwszej kolumnie. Wiersza, który jest w sklepie specjalnym, nie usuniesz - najpierw zdejmij go ze sklepu na jego stronie. Dodanie i usunięcie pokazują najpierw podgląd; każdy wiersz trafia do historii, z której można go cofnąć.",첫 번째 열에서 행을 골라. 특수 상점이 쓰는 행은 삭제할 수 없어 - 먼저 그 페이지에서 상점에서 빼. 추가와 삭제는 먼저 미리보기를 보여 줘; 모든 행은 기록에 남아서 되돌릴 수 있어.,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:c7227cbda618,Add a similar row,Dodaj podobny wiersz,비슷한 행 추가,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:09465f4b0a66,Delete this row,Usuń ten wiersz,이 행 삭제,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:e05378e0443f,New special shop row,Nowy wiersz sklepu specjalnego,새 특수 상점 행,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:73209b9c9ad0,The row was not added - correct the data and look at the preview again.,Wiersz nie został dodany - popraw dane i obejrzyj podgląd jeszcze raz.,행이 추가되지 않았어 - 데이터를 고치고 미리보기를 다시 봐.,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
+p:c15eb02b9370,The preview has expired - enter the row again.,Podgląd wygasł - wpisz wiersz jeszcze raz.,미리보기가 만료됐어 - 행을 다시 입력해.,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
 p:682d642f2fab,Preview of the new row,Podgląd nowego wiersza,,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:ef8db51a0357,Under a lock the editor checks again that the number is free and that the item and the cost items exist.,"Edytor sprawdza jeszcze raz pod blokadą, czy numer jest wolny, a przedmiot i przedmioty kosztu istnieją.",,"panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",new
 p:67c96d8a6c7b,A copy of row #%s - the number is a new one already; change what should be different.,"Kopia wiersza #%s - numer jest już nowy, zmień to, co ma być inne.",,"panel: editsql/__init__.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",new
