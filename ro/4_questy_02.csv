@@ -11,7 +11,7 @@ q:ours:dcdf11e37022,A system script or an inactive definition; there is no one-t
 q:ours:dc0e11f36d85,The lie,,,quest dialog (our quests),new
 q:ours:1656649117e4,Failure,,Esec,quest dialog (our quests),done
 q:ours:8eefac21ad7d,Quick Analysis Potion: the Biologist will take the next item without a wait.,,,quest dialog (our quests),new
-q:ours:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,,quest dialog (our quests),new
+q:ours:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,"Biologul de la 92 si 94 (Seon-Pyeong): jucatorul alege o recompensa din trei, deci un salt de GM nu le suporta.",quest dialog (our quests),done
 q:pkg:g:arena_manager._100_say,"You want to fight against yourself?[ENTER]Do as you please, but you don't need an arena for[ENTER]that.[ENTER]Come again when you're ready to take this[ENTER]seriously. ","Chcesz walczyć sam z sobą?[ENTER]Proszę bardzo, ale do tego niepotrzebna ci arena.[ENTER]Wróć, jak przejdzie ci ochota na żarty! ",,quest dialog (the game's quests: arena_manager) | keep: [ENTER] = new line,new
 q:pkg:g:arena_manager._10_npcChat,Start a training fight ,Zacznij walkę treningową ,,quest dialog (the game's quests: arena_manager),new
 q:pkg:g:arena_manager._110_say,"Your training partner has not reached the[ENTER]required level of %s yet. I'm sorry, but I cannot[ENTER]allow this fight. ","Twój partner treningowy nie osiągnął jeszcze[ENTER]wymaganego poziomu %s. Przykro mi, ale nie mogę[ENTER]dopuścić do tej walki. ",,quest dialog (the game's quests: arena_manager) | keep: %s; [ENTER] = new line,new
