@@ -16,6 +16,7 @@ következő verziókban kerülnek a játékba.
 | `template/` | a játék összes szövege, üres `translation` oszloppal. Egy új nyelv kiindulópontja. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | a játékban már meglévő nyelvek a jelenlegi fordításukkal: javítsd, és egészítsd ki, ami hiányzik (a `status` `new` sorok). |
 | `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | új nyelvek, már részben lefordítva: egészítsd ki, ami hiányzik (`status` `new` sorok). |
+| `en_US/` | amerikai angol: az angol forrásszöveg (brit helyesírás) amerikai helyesírással (color, armor, defense...). |
 | `tools/validate.py` | az ellenőrzés, amelyen minden pull request átmegy. |
 
 Az angol a forrás, a lengyel referenciaként mellette látható; egyiknek sincs

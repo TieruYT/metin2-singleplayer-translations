@@ -74,7 +74,7 @@ q:pkg:t:quest_book.mission_52_text,"Now that we can fight the Fireghosts, we hav
 q:pkg:t:quest_book.mission_53_hunt,Examine the Flames ,Zbadaj Ogniste Potwory ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_53_mis,Kill 40 Flames. ,Zabij 40 Płomieni. ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_53_text,The Flames are unbelievably brutal. They enjoy[ENTER]the pain of the people whose skin they are[ENTER]devouring. We still don't know how to kill them.[ENTER]Could you find out more about these Flames? ,Płomienie są niewiarygodnie brutalne. Bawią się[ENTER]jedząc zabitych ludzi. Nie mam pojęcia jak je[ENTER]zabić. Możesz się tego dowiedzieć? ,,quest dialog (the game's quests: quest_book) | keep: [ENTER] = new line,new
-q:pkg:t:quest_book.mission_54_hunt,Flame Warriors ,Ogniści Wojownicy ,,quest dialog (the game's quests: quest_book),new
+q:pkg:t:quest_book.mission_54_hunt,Flame Warriors ,Ogniści Wojownicy ,Plamenní válečníci ,quest dialog (the game's quests: quest_book),done
 q:pkg:t:quest_book.mission_54_mis,Kill 60 Flame Warriors. ,Zabij 60 Ognistych Wojowników. ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_54_text,"Not too long ago, the child of a nobleman who[ENTER]went into the Fireland was killed by a Flame[ENTER]Warrior. If you kill the Flame Warriors, you'll[ENTER]be rewarded. Why don't you give it a try? ","Niedawno, dziecko arystokraty, które zapuściło[ENTER]się w Ognistą Ziemię, zostało zabite przez[ENTER]jednego z Ognistych Wojowników. Jeśli ich[ENTER]zabijesz, otrzymasz nagrodę. Wyzwij ich na[ENTER]pojedynek. ",,quest dialog (the game's quests: quest_book) | keep: [ENTER] = new line,new
 q:pkg:t:quest_book.mission_55_hunt,Secret of the Ghost Forest I ,Tajemnica Lasu Duchów I ,,quest dialog (the game's quests: quest_book),new
@@ -139,7 +139,7 @@ q:pkg:t:reputation.quest_reward_reputation,You receive %d reputation (%s).,Otrzy
 q:pkg:t:reputation.quest_wait,You can complete these quests once a day.,Misje możesz wykonać raz dziennie.,,quest dialog (the game's quests: reputation),new
 q:pkg:t:reputation.reputation_rank.1,Neutral,Neutralny,Neutrální,quest dialog (the game's quests: reputation),done
 q:pkg:t:reputation.reputation_rank.2,Friendly,Przyjazny,Přátelský,quest dialog (the game's quests: reputation),done
-q:pkg:t:reputation.reputation_rank.3,Respected,Szanowany,,quest dialog (the game's quests: reputation),new
+q:pkg:t:reputation.reputation_rank.3,Respected,Szanowany,Respektovaný,quest dialog (the game's quests: reputation),done
 q:pkg:t:reputation.reputation_rank.4,Ally,Sojusznik,Spojenec,quest dialog (the game's quests: reputation),done
 q:pkg:t:reputation_desert.first.desc,"The desert was once a peaceful place, but lately it has been swarming with hostile creatures. Because of these attacks our people cannot sleep in peace. Help us drive these beasts away and restore the balance of the desert!","Pustynia była kiedyś spokojnym miejscem, ale ostatnio roi się tu od wrogich stworzeń. Przez te ataki nasi ludzie nie mogą spać spokojnie. Pomóż nam przegnać te bestie i przywrócić równowagę na pustyni!",,quest dialog (the game's quests: reputation_desert),new
 q:pkg:t:reputation_desert.first.name,Defence of the Desert Trails,Obrona Pustynnych Szlaków,,quest dialog (the game's quests: reputation_desert),new

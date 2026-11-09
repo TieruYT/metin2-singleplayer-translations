@@ -29,7 +29,7 @@ b:live:N_030,a year playing on this server today,dzis rok jak gram na tym serwer
 b:live:N_032,accidentally sold {skrot} to npc...,pomylilem sie i sprzedalem {skrot} do npc...,,"bot's chat line (global, review) | keep: {skrot} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:N_033,"listed {ulep} at ten times the price, fixed xd",ups wystawilem {ulep} 10x drozej xd poprawione,,"bot's chat line (global, review) | keep: {ulep} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:N_037,"m1 at the smith, come over","M1 przy kowalu, podejdz",,"bot's chat line (whisper, loan_location) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:N_039,waiting,czekam,,"bot's chat line (whisper, loan_waiting) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:N_039,waiting,czekam,venter,"bot's chat line (whisper, loan_waiting) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:N_040,"cant see you, where are you standing?","nie widze cie, gdzie stoisz?",,"bot's chat line (whisper, loan_waiting) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:N_046,wrong chat oops,napisalem na zlym czacie ups,,"bot's chat line (global, review) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:N_047,sorry wrong window,sorry pomylilem okna,,"bot's chat line (global, review) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -181,7 +181,7 @@ b:live:P8_GM_question_1,"hold on, reading","chwila, czytam",,"bot's chat line (g
 b:live:P8_GM_question_2,will reply in a moment,zaraz odpisze,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P8_GM_question_3,can you clarify?,mozesz doprecyzowac?,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P8_GM_question_4,I see the question from GM,widze pytanie gm,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P8_GM_info_0,ok,ok,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P8_GM_info_0,ok,ok,ok,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P8_GM_info_1,thanks for the info,dzieki za info,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P8_GM_info_2,nice,git,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P8_GM_info_3,sure,jasne,,"bot's chat line (global, ogloszenie_gm) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -218,7 +218,7 @@ b:live:P10S2_A04,"list it at {cena}, it will sell","wystaw za {cena}, zejdzie",,
 b:live:P10S2_A05,{cena} or so,{cena} cos kolo tego,,"bot's chat line (global, trade_cena_odpowiedz) | keep: {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10S2_A06,id give {cena},ja bym dalem {cena},,"bot's chat line (global, trade_cena_odpowiedz) | keep: {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10S2_A07,seen them at {cena},widzialem po {cena},,"bot's chat line (global, trade_cena_sklepy) | keep: {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P10S2_A08,{cena} - {cena_wyzsza},{cena} - {cena_wyzsza},,"bot's chat line (global, trade_cena_widelki) | keep: {cena_wyzsza} {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P10S2_A08,{cena} - {cena_wyzsza},{cena} - {cena_wyzsza},{cena} - {cena_wyzsza},"bot's chat line (global, trade_cena_widelki) | keep: {cena_wyzsza} {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P10S2_A09,shops have it at {cena},na sklepach jest po {cena},,"bot's chat line (global, trade_cena_sklepy) | keep: {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10S2_A10,no more than {cena},nie wiecej niz {cena},,"bot's chat line (global, trade_cena_odpowiedz) | keep: {cena} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10S2_R01,"dont sell, its better than what you wear","nie sprzedawaj, to lepsze niz to co masz",,"bot's chat line (global, trade_cena_zostaw_lepsze) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -366,12 +366,12 @@ b:live:P10_FS_CALM_1,"{lvl} done, first i think :)","{lvl} wbite, chyba pierwszy
 b:live:P10_FS_CALM_2,{lvl} lvl :),{lvl} lvl :),,"bot's chat line (global, p10_first_calm) | keep: {lvl} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_CALM_3,"first {lvl}, thanks to the party","pierwszy {lvl}, dzieki ekipie za pt",,"bot's chat line (global, p10_first_calm_party) | keep: {lvl} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_CALM_4,"so {lvl} first, good job team","no to {lvl} jako pierwszy, dobra robota ekipa",,"bot's chat line (global, p10_first_calm_party) | keep: {lvl} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P10_FS_REACT_1,gz,gz,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P10_FS_REACT_2,grats :D,gratki :D,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P10_FS_REACT_1,gz,gz,gz,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
+b:live:P10_FS_REACT_2,grats :D,gratki :D,tillykke :D,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P10_FS_REACT_3,nolife xd,nolife xd,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_REACT_4,how much do you play a day?,ile ty grasz dziennie?,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_REACT_5,"gg, im only {lvl2}","gg dla ciebie, ja dopiero {lvl2}",,"bot's chat line (global, p10_first_react) | keep: {lvl2} | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P10_FS_REACT_6,jelly,zazdro,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P10_FS_REACT_6,jelly,zazdro,misundelig,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P10_FS_REACT_7,"ok, im coming for you","dobra, gonie cie paruwo",,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_REACT_8,respect,szacun,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P10_FS_REACT_9,do you even sleep? xd,ty w ogole spisz? xd,,"bot's chat line (global, p10_first_react) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new

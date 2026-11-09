@@ -125,13 +125,13 @@ b:value:zyczenie:2e7dcf330923,bracelet,,naramek,a value inside a bot chat line (
 b:value:zyczenie:160b70583efd,necklace,,nahrdelnik,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:bbd25e33b194,earrings,,nausnice,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:99a58151ea37,shoes,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:867b1ac0df2f,belt,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:867b1ac0df2f,belt,,opasek,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:bon:befc8e0c69d7,15% crit,,,a value inside a bot chat line ({bon}) | keep: % c | ASCII letters only (no accents),new
 b:value:bon:ae38a493622a,crit,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:e8bf090f86c6,pierce,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:9580bf1c7b07,avg,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:742277ef94a1,avg dmg,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
-b:value:bon:48b1dea554e4,skill,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
+b:value:bon:48b1dea554e4,skill,,dovednost,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:d1eb04c08ce3,skill dmg,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:13bff01a10db,half-humans,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:dc21f5379a5a,half-human,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
@@ -167,8 +167,8 @@ b:value:bon:e516401ecfec,arrow res,,,a value inside a bot chat line ({bon}) | AS
 b:value:bon:ed112f9e7474,magic res,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:14246a6b0fa4,attack value,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:cd01ee6f456c,defence,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
-b:value:format:d94103efd6b3,{n}% {x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
-b:value:format:43bfa05d6748,+{n}% {x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
+b:value:format:d94103efd6b3,{n}% {x},,{n}% {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:43bfa05d6748,+{n}% {x},,+{n}% {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:value:format:f2f4831b0880,{x} {n} bonuses,,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
 b:value:bon:792c42e1e0ba,critical,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
 b:value:bon:571dee0920a1,piercing,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
@@ -213,7 +213,7 @@ b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,Pavouci kobka 2,a value inside a 
 b:value:miejsce:2c795176ca49,Spider Dungeon,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:b31499e63c9b,Monkey Dungeon II,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
 b:value:miejsce:70b0bb28251c,Monkey Dungeon III,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:event:69701ca9cd50,experience,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:69701ca9cd50,experience,,zkusenosti,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:76c98b350b4d,drop chance,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:e9f23cd8afb5,yang from monsters,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:857c886d74ce,Moonlight Treasure Chests drop from monsters and Metin stones,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
@@ -221,14 +221,14 @@ b:value:event:45ed70dfbac7,Moonlight Treasure Chests drop from monsters,,,a valu
 b:value:event:1fbb9e67d057,Moonlight Treasure Chests drop from Metin stones,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:event:372e3eba1d79,Moonlight Treasure Chests: drops disabled in settings,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
 b:value:mapa_gdzie:397f69667067,on Mount Sohan,,,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),new
-b:value:format:a08585f8e096,{n}{x},,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
-b:value:format:bf0f099c6c37,{n}% {x}+,,,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",new
+b:value:format:a08585f8e096,{n}{x},,{n}{x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:bf0f099c6c37,{n}% {x}+,,{n}% {x}+,"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
 b:phrase:1f1dd908790c,You have gained %d exp.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
 b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:cb8a369011e5,,Czym jest Bingsu?,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
 b:phrase:a6869600898d,Aura of the Sword,,Aura meče,"a phrase the server says (bots' help, notices)",done
 b:phrase:2c0ad07095c8,There is no one by that name,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:37da4b99062c,Close the other window first.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:37da4b99062c,Close the other window first.,,Nejdřív zavři druhé okno.,"a phrase the server says (bots' help, notices)",done
 b:phrase:0b14ed9f4cc9,Playerbot %u is not active.,,,"a phrase the server says (bots' help, notices) | keep: %u",new
 b:phrase:a6d86bb663b2,Player was reported recently.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:15e22e5f2bb1,the bot is dead,,,"a phrase the server says (bots' help, notices)",new
@@ -426,7 +426,7 @@ b:phrase:70745a3b12b4,Up to level 30 the Old Woman in the first village resets y
 b:phrase:76d1e9678de4,You cannot open the safebox in dungeon or at war.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:49e69bb1d5ff,Accept shutdown command from %s.,,,"a phrase the server says (bots' help, notices) | keep: %s",new
 b:phrase:282cdbbe157e,"Update your game client: the storage is the Collector's Warehouse now, and this client cannot open it.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:671d7c87d190,Storage cannot be opened in a dungeon or during a war.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:671d7c87d190,Storage cannot be opened in a dungeon or during a war.,,Sklad nelze otevřít v kobce ani během války.,"a phrase the server says (bots' help, notices)",done
 b:phrase:2b9c44626151,[War] The guild %s is fighting another war now.,,,"a phrase the server says (bots' help, notices) | keep: %s",new
 b:phrase:c2132041e27c,[War] War on the guild %s is declared already - the bots will answer in the guild chat.,,,"a phrase the server says (bots' help, notices) | keep: %s",new
 b:phrase:54b5ed2de82c,"[War] A war with the guild %s is on already, or ending.",,,"a phrase the server says (bots' help, notices) | keep: %s",new

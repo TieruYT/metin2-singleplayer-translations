@@ -46,7 +46,7 @@ b:live:P15I_PNONE_1,"dont have that quest, sorry","nie mam tego questa, sorki",,
 b:live:P15I_PLOW_1,my level is too low for that,za niski lvl jestem na to,,"bot's chat line (local, p15_human_party_low) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15I_BRAG_1,grats!,gratki!,,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15I_BRAG_2,"oh nice, didnt drop for me","o fajnie, mi nie wypadlo",,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P15I_BRAG_3,lucky,szczesciarz,,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P15I_BRAG_3,lucky,szczesciarz,fortunato,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P15I_BRAG_4,"i got the same, nothing special xd","ja dostalem to samo, nic specjalnego xd",,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15I_BRAG_5,give it to me xd,daj mi xd,,"bot's chat line (local, p15_human_brag) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15I_MOAN_1,quests are evil xd,questy to zlo xd,,"bot's chat line (local, p15_human_complain) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -148,13 +148,13 @@ b:live:P15J_090,"50 pieces of ice, im cold","50 kawalkow lodu, zimno mi",,"bot's
 b:live:P15J_091,"ice cream with syrup, now im hungry","lody z syropem, zglodnialem",,"bot's chat line (local, p15_q_subquest_49) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15J_092,the summoners in the temple keep killing me,przyzywacze w swiatyni mnie zabijaja,,"bot's chat line (local, p15_q_subquest_45) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P15J_093,"a favour for min-sun, where is she","przysluga dla min-sun, gdzie ona jest",,"bot's chat line (local, p15_q_black_steel_crafting) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P20_GZ_01,gz,gz,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P20_GZ_02,gg,gg,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P20_GZ_01,gz,gz,gz,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
+b:live:P20_GZ_02,gg,gg,gg,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P20_GZ_03,wp,wp,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P20_GZ_04,grats,gratki,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P20_GZ_04,grats,gratki,complimenti,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P20_GZ_05,congrats,gratulacje,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P20_GZ_06,nice one,niezle,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:live:P20_GZ_07,grats,grats,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
+b:live:P20_GZ_07,grats,grats,complimenti,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",done
 b:live:P20_GZ_08,gj,gj,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P20_GZ_09,well done,brawo,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P20_GZ_10,that was quick,szybko poszlo,,"bot's chat line (global, level_gz) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
@@ -170,66 +170,66 @@ b:live:P20_GZT_03,ty all,ty all,,"bot's chat line (global, level_gz_thanks) | AS
 b:live:P20_GZT_04,thx,thx,,"bot's chat line (global, level_gz_thanks) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P20_GZT_05,thanks guys,dzieki ludziska,,"bot's chat line (global, level_gz_thanks) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
 b:live:P20_GZT_06,thanks everyone,dzieki wszystkim,,"bot's chat line (global, level_gz_thanks) | ASCII letters only (no accents) | a casual player-style line; lower case and slang are fine",new
-b:mchat:g:locale.monster_chat_1001_1,Everyone will die! ,"Hehe, wszyscy zginą! Kyaaaa! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1001_2,"Small, small, small pieces... ",*gryzie* ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1001_3,There is no escape! ,Hehehehe ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1001_4,The floor will be soaked with your blood. Die! ,Kukieh! Giń! Hehe. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1001_5,"You can beg, but it won't do you any good! ",hehehe ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1001_6,You can't hide your fear from me! ,Co za twarz! Zdeformowana przez strach! Hehehe. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1002_1,Death! Death to all people... ,Haha! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1002_2,You miserable pigs! ,Świnie! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1002_3,You're starting to make me angry... ,Naprawdę działają mi na nerwy... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1002_5,"There will be blood, human. ","To krew, hehe! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_1,Death and Perdition...! ,Hehe! (głośny śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_2,Have you seen the wounds that a spear can rip into your skin? ,"Włócznia jest gorsza niż miecz, huh? ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_3,"Yes, go on, walk away! We'll see how far you get... ","Hej, nie odchodź! No dalej! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_4,Just looking at your shaking hands makes this completely worth my while... ,"Już samo patrzenie sprawia, że cieknie mi ślinka... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_5,You piece of scum dare to challenge me? ,Prowokujesz mnie! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1003_6,Death will be your only companion in the future! ,Zginieeesz! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_1,"Your soul will be mine, human! ",Zabić! Zabić! Zabiiiiiiiiić! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_2,"Ah, fresh blood! ",Niezła próba. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_3,Looks like another person is going to meet his death here! ,"Czuję, że szykuje się zabawa! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_4,You should suffer and let out all your anguish... ,Jeszcze nie! Nie umieraj tak szybko! Hehehe. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_5,Do you really think that that ridiculous weapon in your hand will be able to protect you? ,Co tam? Twoje ręce drżą! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1004_6,Your courage brought you to me. And now it's going to leave you... ,Nie boisz się nas odwiedzać? Nie martw się! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_1,"If I die, my revenge will follow you for eternity! ",Zemszczę się zanim umrę! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_2,"I will make you die and suffer slowly, very slowly... ","Tak, graj powoli... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_3,It will be my pleasure to make you suffer. ,Jesteś naszą radością... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_4,Your body is shivering like that of a senile old hag! ,Twoje ciało drży ze strachu. (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_5,"I can smell your fear, little one. ","Strach, huh? (śmiech) ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1035_6,I think it is time to relieve you of a few of your body parts. ,"Huh, wygląda na to, że kilka głów spadnie na ziemie. Czy to już koniec? ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1036_1,I'm going to send you into your own personal hell! ,Z kim ty do diabła chodzisz?! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1036_2,"Your pain will drive you insane, before you die... ",Psy! Doprowadzę was do szaleństwa! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1036_3,You can wail! You can beg! But it won't do you any good. ,(Śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1036_4,You're going to experience the worst death you can imagine... ,Błagaj o życie oddając swoją duszę! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1036_6,Your power is getting weaker. You are already on the brink of death... ,Nie odróżniasz prawej strony od lewej! (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_1,Are you ready to walk to halls of death for eternity? ,Dlaczego ciągle tak spacerujesz? ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_2,You should get used to the idea of greeting eternal darkness... ,Co tam? Nie przepadasz za ciemnością? ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_3,Welcome to hell! ,Witaj w piekle (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_4,Scream as much as you like! No one's going to hear you! ,"Pewnie, pewnie! Krzycz dalej! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_5,If you think you can kill me like this... you're more naive than I thought! ,Tym mnie nie zabijesz! (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1037_6,"Not bad, but it still won't be able to save you from your death. ","Taaaaak, od razu lepiej! ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1038_1,"Take a look around, this is hell! ",To piekło. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1038_2,I'm going peel the skin from your bones. ,Witaj w piekle. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1038_3,I want to hear you whimper before you die. ,"Proszę, nie umieraj tak szybko... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1038_4,"You know that there's no use hoping, don't you? ",Atakowanie mnie jest bezcelowe! (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1038_6,"No, you're not going to die yet. First I want to know how many sword blows your body can handle... ","Nie umieraj za szybko, chcemy się tobą pobawić... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_1,"Ah, a volunteer... ",Do czasu aż przyjdzie ktoś nowy... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_2,Do you really think that you have even got the smallest chance of escaping? ,"Naprawdę myślisz, że możesz uciec? ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_3,It's not the ground that's moving... it's your knees that are shaking with fear! ,Wszystko tutaj wywołuje strach u ludzi... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_4,Welcome to the place in which you will seek your death! ,Witaj w naszym domu! (śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_5,I can see the panic in your eyes. ,Widzisz? Przegapiłeś to... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1039_6,"Oh, so young and so helpless... ",Hmm... taki świeży... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_1,We can see every little movement you make. ,Widzimy wszystkie twoje ruchy. ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_2,In a hurry? Do you really want to die? ,Spokojnie... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_3,Death has already taken its place at your side... ,"Jeśli kogoś dotkniesz, zginiesz. (śmiech) ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_4,Can you hear my bell chiming? It'll be the last thing you hear! ,Czy słyszysz dzwonienie mojego dzwonka? To będzie ostatnia rzecz jaką usłyszysz! ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_5,"I smell blood, lots of it... you won't survive much longer... ","Jeżeli nie zatamujesz krwi, może się zrobić niebezpiecznie... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1040_6,You can fight... or you can let death embrace you... ,"Tak! Walka, walka! (śmiech) ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1041_1,Why are you here if you want to live? ,(śmiech)(śmiech)(śmiech) ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1041_2,"Ah, new bodies for me to destroy! ",Przybyły nowe ciała... ,,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1041_3,"It was your decision to come here, human! And now you'll have to live with the consequences... ","Tak, to dobry czas na zdobycie nowych ciał... ",,monster's chatter over its head,new
-b:mchat:g:locale.monster_chat_1041_4,Our combat strength will never leave us. We cannot die! ,Przeżyjemy! My nigdy nie umieramy! ,,monster's chatter over its head,new
+b:mchat:g:locale.monster_chat_1001_1,Everyone will die! ,"Hehe, wszyscy zginą! Kyaaaa! ",Moriranno tutti! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1001_2,"Small, small, small pieces... ",*gryzie* ,"Pezzettini, pezzettini, pezzettini... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1001_3,There is no escape! ,Hehehehe ,Non c'è via di scampo! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1001_4,The floor will be soaked with your blood. Die! ,Kukieh! Giń! Hehe. ,Il pavimento sarà intriso del tuo sangue. Muori! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1001_5,"You can beg, but it won't do you any good! ",hehehe ,"Puoi implorare, ma non ti servirà a nulla! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1001_6,You can't hide your fear from me! ,Co za twarz! Zdeformowana przez strach! Hehehe. ,Non puoi nascondermi la tua paura! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1002_1,Death! Death to all people... ,Haha! ,Morte! Morte a tutti gli umani... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1002_2,You miserable pigs! ,Świnie! ,Miserabili porci! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1002_3,You're starting to make me angry... ,Naprawdę działają mi na nerwy... ,Cominci a farmi arrabbiare... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1002_5,"There will be blood, human. ","To krew, hehe! ","Scorrerà il sangue, umano. ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_1,Death and Perdition...! ,Hehe! (głośny śmiech) ,Morte e dannazione...! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_2,Have you seen the wounds that a spear can rip into your skin? ,"Włócznia jest gorsza niż miecz, huh? ",Hai mai visto le ferite che una lancia può aprire nella tua pelle? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_3,"Yes, go on, walk away! We'll see how far you get... ","Hej, nie odchodź! No dalej! ","Sì, avanti, vattene! Vedremo fin dove arriverai... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_4,Just looking at your shaking hands makes this completely worth my while... ,"Już samo patrzenie sprawia, że cieknie mi ślinka... ",Solo vedere le tue mani tremanti ripaga ogni mio sforzo... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_5,You piece of scum dare to challenge me? ,Prowokujesz mnie! ,"Tu, feccia, osi sfidarmi? ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1003_6,Death will be your only companion in the future! ,Zginieeesz! ,D'ora in poi la morte sarà la tua unica compagna! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_1,"Your soul will be mine, human! ",Zabić! Zabić! Zabiiiiiiiiić! ,"La tua anima sarà mia, umano! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_2,"Ah, fresh blood! ",Niezła próba. ,"Ah, sangue fresco! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_3,Looks like another person is going to meet his death here! ,"Czuję, że szykuje się zabawa! ",Sembra che un altro stia per trovare qui la morte! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_4,You should suffer and let out all your anguish... ,Jeszcze nie! Nie umieraj tak szybko! Hehehe. ,Devi soffrire e sfogare tutta la tua angoscia... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_5,Do you really think that that ridiculous weapon in your hand will be able to protect you? ,Co tam? Twoje ręce drżą! ,Credi davvero che quell'arma ridicola che hai in mano potrà proteggerti? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1004_6,Your courage brought you to me. And now it's going to leave you... ,Nie boisz się nas odwiedzać? Nie martw się! ,Il tuo coraggio ti ha portato da me. E ora ti abbandonerà... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_1,"If I die, my revenge will follow you for eternity! ",Zemszczę się zanim umrę! ,"Se muoio, la mia vendetta ti perseguiterà per l'eternità! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_2,"I will make you die and suffer slowly, very slowly... ","Tak, graj powoli... ","Ti farò soffrire e morire lentamente, molto lentamente... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_3,It will be my pleasure to make you suffer. ,Jesteś naszą radością... ,Sarà un piacere farti soffrire. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_4,Your body is shivering like that of a senile old hag! ,Twoje ciało drży ze strachu. (śmiech) ,Il tuo corpo trema come quello di una vecchia megera rimbambita! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_5,"I can smell your fear, little one. ","Strach, huh? (śmiech) ","Sento l'odore della tua paura, piccolo. ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1035_6,I think it is time to relieve you of a few of your body parts. ,"Huh, wygląda na to, że kilka głów spadnie na ziemie. Czy to już koniec? ",Credo sia ora di liberarti di qualche parte del tuo corpo. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1036_1,I'm going to send you into your own personal hell! ,Z kim ty do diabła chodzisz?! ,Ti manderò nel tuo inferno personale! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1036_2,"Your pain will drive you insane, before you die... ",Psy! Doprowadzę was do szaleństwa! ,Il dolore ti farà impazzire prima che tu muoia... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1036_3,You can wail! You can beg! But it won't do you any good. ,(Śmiech) ,Puoi lamentarti! Puoi implorare! Ma non ti servirà a nulla. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1036_4,You're going to experience the worst death you can imagine... ,Błagaj o życie oddając swoją duszę! ,Subirai la morte peggiore che tu possa immaginare... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1036_6,Your power is getting weaker. You are already on the brink of death... ,Nie odróżniasz prawej strony od lewej! (śmiech) ,Il tuo potere si indebolisce. Sei già sull'orlo della morte... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_1,Are you ready to walk to halls of death for eternity? ,Dlaczego ciągle tak spacerujesz? ,Sei pronto a vagare per le sale della morte per l'eternità? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_2,You should get used to the idea of greeting eternal darkness... ,Co tam? Nie przepadasz za ciemnością? ,Abituati all'idea di accogliere l'oscurità eterna... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_3,Welcome to hell! ,Witaj w piekle (śmiech) ,Benvenuto all'inferno! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_4,Scream as much as you like! No one's going to hear you! ,"Pewnie, pewnie! Krzycz dalej! ",Urla quanto vuoi! Nessuno ti sentirà! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_5,If you think you can kill me like this... you're more naive than I thought! ,Tym mnie nie zabijesz! (śmiech) ,Se pensi di potermi uccidere così... sei più ingenuo di quanto credessi! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1037_6,"Not bad, but it still won't be able to save you from your death. ","Taaaaak, od razu lepiej! ","Niente male, ma non basterà a salvarti dalla morte. ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1038_1,"Take a look around, this is hell! ",To piekło. ,"Guardati intorno, questo è l'inferno! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1038_2,I'm going peel the skin from your bones. ,Witaj w piekle. ,Ti strapperò la pelle dalle ossa. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1038_3,I want to hear you whimper before you die. ,"Proszę, nie umieraj tak szybko... ",Voglio sentirti piagnucolare prima che tu muoia. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1038_4,"You know that there's no use hoping, don't you? ",Atakowanie mnie jest bezcelowe! (śmiech) ,"Lo sai che sperare è inutile, vero? ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1038_6,"No, you're not going to die yet. First I want to know how many sword blows your body can handle... ","Nie umieraj za szybko, chcemy się tobą pobawić... ","No, non morirai ancora. Prima voglio sapere quanti colpi di spada può sopportare il tuo corpo... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_1,"Ah, a volunteer... ",Do czasu aż przyjdzie ktoś nowy... ,"Ah, un volontario... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_2,Do you really think that you have even got the smallest chance of escaping? ,"Naprawdę myślisz, że możesz uciec? ",Credi davvero di avere anche la minima possibilità di fuggire? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_3,It's not the ground that's moving... it's your knees that are shaking with fear! ,Wszystko tutaj wywołuje strach u ludzi... ,Non è il terreno a muoversi... sono le tue ginocchia che tremano di paura! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_4,Welcome to the place in which you will seek your death! ,Witaj w naszym domu! (śmiech) ,Benvenuto nel luogo in cui cercherai la tua morte! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_5,I can see the panic in your eyes. ,Widzisz? Przegapiłeś to... ,Vedo il panico nei tuoi occhi. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1039_6,"Oh, so young and so helpless... ",Hmm... taki świeży... ,"Oh, così giovane e così indifeso... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_1,We can see every little movement you make. ,Widzimy wszystkie twoje ruchy. ,Vediamo ogni tuo minimo movimento. ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_2,In a hurry? Do you really want to die? ,Spokojnie... ,Hai fretta? Vuoi davvero morire? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_3,Death has already taken its place at your side... ,"Jeśli kogoś dotkniesz, zginiesz. (śmiech) ",La morte ha già preso posto al tuo fianco... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_4,Can you hear my bell chiming? It'll be the last thing you hear! ,Czy słyszysz dzwonienie mojego dzwonka? To będzie ostatnia rzecz jaką usłyszysz! ,Senti la mia campana suonare? Sarà l'ultima cosa che sentirai! ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_5,"I smell blood, lots of it... you won't survive much longer... ","Jeżeli nie zatamujesz krwi, może się zrobić niebezpiecznie... ","Sento odore di sangue, tanto sangue... non sopravviverai ancora a lungo... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1040_6,You can fight... or you can let death embrace you... ,"Tak! Walka, walka! (śmiech) ",Puoi combattere... oppure lasciarti abbracciare dalla morte... ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1041_1,Why are you here if you want to live? ,(śmiech)(śmiech)(śmiech) ,Perché sei qui se vuoi vivere? ,monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1041_2,"Ah, new bodies for me to destroy! ",Przybyły nowe ciała... ,"Ah, nuovi corpi da distruggere! ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1041_3,"It was your decision to come here, human! And now you'll have to live with the consequences... ","Tak, to dobry czas na zdobycie nowych ciał... ","È stata una tua decisione venire qui, umano! E ora dovrai subirne le conseguenze... ",monster's chatter over its head,done
+b:mchat:g:locale.monster_chat_1041_4,Our combat strength will never leave us. We cannot die! ,Przeżyjemy! My nigdy nie umieramy! ,La nostra forza in battaglia non ci abbandonerà mai. Non possiamo morire! ,monster's chatter over its head,done
 b:mchat:g:locale.monster_chat_1041_5,There's no point in attacking us! You're doomed... ,Atakowanie nas jest bez sensu! (śmiech) ,,monster's chatter over its head,new
 b:mchat:g:locale.monster_chat_1041_6,Perhaps you will die of exhaustion... or of fear... ,Co Cię tu sprowadza? Chcesz umrzeć? ,,monster's chatter over its head,new
 b:mchat:g:locale.monster_chat_1091_1,You have made it here.... and now I'm going to send you to your death. ,Któż potrafi latać i atakować lepiej niż ja? ,,monster's chatter over its head,new
