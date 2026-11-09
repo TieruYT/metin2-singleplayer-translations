@@ -11,7 +11,7 @@ q:ours:5b5aafe6b9e2,Experience,,,quest dialog (our quests),new
 q:ours:2d945fab303e,Revenge done,,,quest dialog (our quests),new
 q:ours:87d2ffe01b92,Revenge given up,,,quest dialog (our quests),new
 q:ours:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,,quest dialog (our quests),new
-q:ours:dcdf11e37022,A system script or an inactive definition; there is no one-time quest to complete.,,,quest dialog (our quests),new
+q:ours:dcdf11e37022,A system script or an inactive definition; there is no one-time quest to complete.,,Un script système ou une définition inactive ; il n'y a pas de quête unique à terminer.,quest dialog (our quests),done
 q:pkg:g:arena_manager._100_say,"You want to fight against yourself?[ENTER]Do as you please, but you don't need an arena for[ENTER]that.[ENTER]Come again when you're ready to take this[ENTER]seriously. ","Chcesz walczyć sam z sobą?[ENTER]Proszę bardzo, ale do tego niepotrzebna ci arena.[ENTER]Wróć, jak przejdzie ci ochota na żarty! ",,quest dialog (the game's quests: arena_manager) | keep: [ENTER] = new line,new
 q:pkg:g:arena_manager._10_npcChat,Start a training fight ,Zacznij walkę treningową ,,quest dialog (the game's quests: arena_manager),new
 q:pkg:g:arena_manager._110_say,"Your training partner has not reached the[ENTER]required level of %s yet. I'm sorry, but I cannot[ENTER]allow this fight. ","Twój partner treningowy nie osiągnął jeszcze[ENTER]wymaganego poziomu %s. Przykro mi, ale nie mogę[ENTER]dopuścić do tej walki. ",,quest dialog (the game's quests: arena_manager) | keep: %s; [ENTER] = new line,new
