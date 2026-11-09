@@ -312,7 +312,7 @@ p:7ff6005d3fb5,no such recipe in crafting_proto - the game skips it,nie ma takie
 p:6caddf394946,not for your character,nie dla Twojej postaci,не для твоего персонажа,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:de04fa0e29f9,of,z,из,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
 p:2449d652417b,of ,,из ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7a85f4764bbd,ok,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:7a85f4764bbd,ok,,ок,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:f7ad1c9d26ca,ok / all · rate ,,ok / все · доля ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:db3d405b1067,on,,вкл.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:056ce636f42b,on the channels,,на каналах,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -409,7 +409,7 @@ p:d0a838b326e1,units in the world,,единиц в мире,"panel: module text 
 p:6809b796d5bb,up: ,,вверх: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8f3a07543988,view,widok,просмотр,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:7a97daa1d930,vnum: recipe #%s already exists - pick a free number,vnum: przepis #%s już istnieje - wybierz wolny numer,vnum: рецепт #%s уже существует - выбери свободный номер,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
-p:12625ba3c14e,waiting,czeka,,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",new
+p:12625ba3c14e,waiting,czeka,ожидание,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:04ae0d81a432,weight %d,waga %d,вес %d,"panel: module text / panel: editsql/editor.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:167b6c4a4e41,yang,yang,янг,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e3c04c320463,yang / unit,,янг / шт.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -658,44 +658,44 @@ p:8090608ee39d,Event off,,Событие выключено,"panel: module text 
 p:ec2bbf57b073,Switch the event on,,Включить событие,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:3bc467b09166,Switch the event off,,Выключить событие,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:fc7d0c410a56,Switching on also switches the world bosses on (they appear only after stage 3). Switching off leaves every other setting as it is.,,Включение включает и мировых боссов (они появляются только после этапа 3). Выключение оставляет все остальные настройки как есть.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:1288fc8ccb3c,The world lacks some of the event's items and monsters,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:237212309f62,The migrator says at a start which number another content holds.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:80355ee236d2,Collection and drops,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:11e425fbc1ed,Stage 1 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:798a54c38ee2,Stage 2 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:9a563d9228fc,Stage 3 from,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:3b4ff803ab9f,Seasonal stones after stage 3,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:7aa3c2f05add,Seasonal stone spawn chance (%),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:8381879db3b2,Thresholds must rise: 1 ≤ stage 1 < stage 2 < stage 3 ≤ 1 000 000.,Progi muszą rosnąć: 1 ≤ etap 1 < etap 2 < etap 3 ≤ 1 000 000.,,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",new
-p:301beeb0e6a5,Latest donations,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:43dc8532f7e5,Amount,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:e29c3da43ab4,No donation in this collection yet.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:85299db45e3e,Reset the collection,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:26f04bd8d4c3,I confirm the reset,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:96db71958e0d,Reset the collection? This cannot be undone.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:af484c494169,Item (VNUM),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ffd06810b930,Draws,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:df4cbfeafe6f,Sum of the enabled chances,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:f9856ee6a566,Empty rows are left out. Save the table to see the new sum.,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ea0f9083aeba,Save the chest,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:5b201a4df904,Sock Shop,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:c49e014041aa,Shop open,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:875ee57cc8e4,Price (socks),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:a78450074014,"Ride time (minutes, seals only)",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:71003069bc9b,Save the shop,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:66d173b455eb,Calendar on,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:0bca7a60e33d,Edition (year),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:bc11a38308dc,First day (local date),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:0d4a7c4ea9d7,"End (local date, at most 24 days later)",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:ad5beb0d0004,GM test day (0 = none),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:01458aa6e999,Require the Biologist's Orc Teeth (checked when a gift is claimed),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:df27bd08fe78,"One reward a day per account, into its ItemShop storage. A day changes at the server's local midnight. A day is ready when its enabled chances add up to 100%; a day without rows gives nothing.",,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:67f7d4922df0,Save the calendar,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:1288fc8ccb3c,The world lacks some of the event's items and monsters,,В мире не хватает некоторых предметов и монстров события,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:237212309f62,The migrator says at a start which number another content holds.,,"Мигратор при запуске сообщает, какой номер занимает другой контент.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:80355ee236d2,Collection and drops,,Сбор и дроп,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:11e425fbc1ed,Stage 1 from,,Этап 1 от,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:798a54c38ee2,Stage 2 from,,Этап 2 от,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9a563d9228fc,Stage 3 from,,Этап 3 от,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:3b4ff803ab9f,Seasonal stones after stage 3,,Сезонные камни после этапа 3,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7aa3c2f05add,Seasonal stone spawn chance (%),,Шанс появления сезонных камней (%),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:8381879db3b2,Thresholds must rise: 1 ≤ stage 1 < stage 2 < stage 3 ≤ 1 000 000.,Progi muszą rosnąć: 1 ≤ etap 1 < etap 2 < etap 3 ≤ 1 000 000.,Пороги должны расти: 1 ≤ этап 1 < этап 2 < этап 3 ≤ 1 000 000.,"panel: module text / panel: admin_panel.py | the classic web panel (browser, UTF-8: any letter)",done
+p:301beeb0e6a5,Latest donations,,Последние пожертвования,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:43dc8532f7e5,Amount,,Сумма,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:e29c3da43ab4,No donation in this collection yet.,,В этом сборе пока нет пожертвований.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:85299db45e3e,Reset the collection,,Сбросить сбор,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:26f04bd8d4c3,I confirm the reset,,Подтверждаю сброс,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:96db71958e0d,Reset the collection? This cannot be undone.,,Сбросить сбор? Это нельзя отменить.,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:af484c494169,Item (VNUM),,Предмет (VNUM),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ffd06810b930,Draws,,Розыгрыши,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:df4cbfeafe6f,Sum of the enabled chances,,Сумма включённых шансов,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:f9856ee6a566,Empty rows are left out. Save the table to see the new sum.,,"Пустые строки пропускаются. Сохрани таблицу, чтобы увидеть новую сумму.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ea0f9083aeba,Save the chest,,Сохранить сундук,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:5b201a4df904,Sock Shop,,Магазин носков,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:c49e014041aa,Shop open,,Магазин открыт,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:875ee57cc8e4,Price (socks),,Цена (носки),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:a78450074014,"Ride time (minutes, seals only)",,"Время езды (минуты, только печати)","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:71003069bc9b,Save the shop,,Сохранить магазин,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:66d173b455eb,Calendar on,,Календарь включён,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0bca7a60e33d,Edition (year),,Выпуск (год),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:bc11a38308dc,First day (local date),,Первый день (местная дата),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0d4a7c4ea9d7,"End (local date, at most 24 days later)",,"Конец (местная дата, не позже чем через 24 дня)","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:ad5beb0d0004,GM test day (0 = none),,Тестовый день ГМ (0 = нет),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:01458aa6e999,Require the Biologist's Orc Teeth (checked when a gift is claimed),,Требовать орочьи зубы для Биолога (проверяется при получении подарка),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:df27bd08fe78,"One reward a day per account, into its ItemShop storage. A day changes at the server's local midnight. A day is ready when its enabled chances add up to 100%; a day without rows gives nothing.",,"Одна награда в день на аккаунт, в его хранилище ItemShop. День меняется в местную полночь сервера. День готов, когда сумма его включённых шансов равна 100%; день без строк ничего не даёт.","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:67f7d4922df0,Save the calendar,,Сохранить календарь,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:987b9ced08d4,Day,,День,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:75c0533730ca,ready,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:67f2141f8c48,not configured,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:8961abaa81f1,rewards,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:99e69fa3d509,Save day %d,,,"panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:f50abd61203c,claims this edition,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:6890dbf63fd2,World bosses,,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:3af4cf53e7d3,Bosses on (master switch),,,"panel: module text | the classic web panel (browser, UTF-8: any letter)",new
+p:75c0533730ca,ready,,готово,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:67f2141f8c48,not configured,,не настроено,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:8961abaa81f1,rewards,,наград,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:99e69fa3d509,Save day %d,,Сохранить день %d,"panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f50abd61203c,claims this edition,,получений в этом выпуске,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:6890dbf63fd2,World bosses,,Мировые боссы,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:3af4cf53e7d3,Bosses on (master switch),,Боссы включены (главный переключатель),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
