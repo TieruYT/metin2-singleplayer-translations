@@ -60,7 +60,7 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   Itemnamen in 2_przedmioty_potwory).
 - 4_questy_02: alle leeren Zellen in allen 14 Sprachen gefüllt (inkl. es).
   Die Namen aus den Biologen-Quests (Chaegirab) und den Quests von Seon-Pyeong
-  und der Alten Dame stehen in  (Notiz „quest texts“).
+  und der Alten Dame stehen in `glossary/glossary.csv` (Notiz „quest texts“).
   Auffälligkeit (nicht korrigiert): Bei zusammengesetzten Sätzen wie
   „Up until now you have delivered “ + Zahl + „branches.“ fehlt im Englischen
   das Leerzeichen vor dem zweiten Teil; die Leerzeichen wurden wie im
