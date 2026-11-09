@@ -78,6 +78,9 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 - `es/`: 15 Dateien sind im Repo mit CRLF-Zeilenenden eingecheckt, obwohl
   `.gitattributes` LF verlangt (Git zeigt sie dauerhaft als geändert).
 - `es/`: ~9.000 übersetzte Zeilen haben noch `status` `new`.
+- `es/6_launcher_03.csv` (Zeilenenden gemischt: CRLF am Zeilenende, LF in
+  mehrzeiligen Zellen): unser Commit 7b66632 hatte daraus überall CRLF gemacht;
+  mit a76e21c wieder byte-gleich mit main bis auf die eine neue Zeile.
 - Der Validator meldet auf `main` bereits 121 Fehler in bestehenden Zeilen
   (vor allem tr `5_boty_czat_*`: Variablen, die im Englischen fehlen).
 
