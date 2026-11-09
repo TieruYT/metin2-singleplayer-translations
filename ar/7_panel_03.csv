@@ -229,7 +229,7 @@ p:3e6f56edff22,Kingdom,Królestwo,المملكة,"T['gl_col_kingdom'] / panel: m
 p:5bd44ebe63cd,Tier,Klasa,الفئة,"T['gl_col_tier'] | the classic web panel (browser, UTF-8: any letter)",done
 p:1cb449c11266,Members,Członkowie,الأعضاء,"T['gl_col_members'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c3e839df6084,Online,Online,متصل,"T['gl_col_online'] / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
-p:78f3842f0201,Master,Mistrz,,"T['gl_col_master'] | the classic web panel (browser, UTF-8: any letter)",new
+p:78f3842f0201,Master,Mistrz,الزعيم,"T['gl_col_master'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d091b0d5e8c,Avg. strength,Śr. siła,متوسط القوة,"T['gl_col_strength'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bf3d1de57b0,Ladder,Ranking,الترتيب,"T['gl_col_ladder'] | the classic web panel (browser, UTF-8: any letter)",done
 p:7ca251fd7454,W/D/L,Z/R/P,W/D/L,"T['gl_col_record'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -287,7 +287,7 @@ p:31d890073072,"Chest event window saved for %d minutes, but the drop settings n
 p:9da98f60347e,Event switched on for %d minutes; the chat is told within seconds.,Event włączony na %d minut; czat dowie się w kilka sekund.,شُغّلت الفعالية لمدة %d دقيقة؛ تُبلَّغ الدردشة خلال ثوانٍ.,"T['ev_now_started'] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:fb5bb0a1c8f2,End now,Zakończ,إنهاء الآن,"T['ev_stop'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8552c905bc6d,The event switched on by hand is over.,Event włączony ręcznie zakończony.,انتهت الفعالية التي شُغّلت يدويًا.,"T['ev_stopped'] | the classic web panel (browser, UTF-8: any letter)",done
-p:0a32bd960b0b,Pirate Tanaka,Pirat Tanaka,,"T['ev_kind_tanaka'] | the classic web panel (browser, UTF-8: any letter)",new
+p:0a32bd960b0b,Pirate Tanaka,Pirat Tanaka,القرصان تاناكا,"T['ev_kind_tanaka'] | the classic web panel (browser, UTF-8: any letter)",done
 p:77baaf2b2673,Zuo: Metin rain,Zuo: deszcz metinów,زوو: مطر أحجار ميتن,"T['ev_kind_zuo'] | the classic web panel (browser, UTF-8: any letter)",done
 p:417736ff3451,"Pirate Tanaka runs from whoever hits him, scatters yang as he loses health and leaves his ear to the one who beat him; Yonah in the first village gives a Purple Ebony Chest for an ear. Zuo drops a wave of Metin stones of the map's level every five minutes (the chat gives the coordinates) and from half the event on calls bosses. Bots come too; a war, the Demon Tower, a raid or a player's party come first for them.","Pirat Tanaka ucieka przed każdym, kto go bije, sypie yang, gdy traci życie, i zostawia ucho temu, kto go pokonał; Yonah w pierwszej wiosce daje za ucho Fioletową Hebanową Szkatułkę. Zuo co pięć minut zrzuca falę metinów poziomu mapy (czat podaje koordynaty), a od połowy eventu przyzywa bossów. Przychodzą też boty; wojna, Wieża Demonów, rajd albo party gracza mają dla nich pierwszeństwo.",يهرب القرصان تاناكا ممن يضربه، وينثر اليانغ كلما فقد صحته، ويترك أذنه لمن هزمه؛ وتعطي يونا في القرية الأولى صندوق أبنوس بنفسجي مقابل أذن. ويُسقط زوو موجة من أحجار ميتن بمستوى الخريطة كل خمس دقائق (تعطي الدردشة الإحداثيات) ويستدعي الزعماء من منتصف الفعالية. تأتي البوتات أيضًا؛ والحرب وبرج الشياطين والغارة ومجموعة اللاعب لها الأولوية عندها.,"T['ev_world_note'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e0e8030711df,"For Pirate Tanaka the value is how many pirates roam at once (1-20, 0 = 3); for Zuo how many Metin stones fall in a wave (1-30, 0 = 8). The map column counts for these two only.","Dla Pirata Tanaki wartość to liczba piratów naraz (1-20, 0 = 3); dla Zuo liczba metinów w fali (1-30, 0 = 8). Kolumna mapy liczy się tylko dla tych dwóch.",للقرصان تاناكا القيمة هي عدد القراصنة الذين يجوبون معًا (1-20، 0 = 3)؛ ولزوو عدد أحجار ميتن التي تسقط في الموجة (1-30، 0 = 8). عمود الخريطة يُحتسب لهذين فقط.,"T['ev_world_value_help'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -626,82 +626,82 @@ p:fa3fa4d58631,⏰ Boss and Metin respawns,⏰ Respawny bossów i metinów,⏰ �
 p:1ff297b08de6,⏰ Open the timers,⏰ Otwórz timery,⏰ افتح المؤقتات,"T['rs_open'] | the classic web panel (browser, UTF-8: any letter)",done
 p:a5dacf036f45,"When the bosses and Metin stones of every map come back - the time only, no coordinates.","Kiedy odrodzą się bossowie i metiny na każdej mapie - sam czas, bez współrzędnych.",متى يعود الزعماء وأحجار الميتن في كل خريطة - الوقت فقط، بلا إحداثيات.,"T['rs_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",done
 p:37fbc8f33a4f,"Each channel has its own monsters. ""Standing"" is how many of this monster's places on the map are taken now; ""Back in"" is when the next missing one returns. The times include the respawn settings of /rates. The cores refresh the data every 30 s.",Każdy kanał ma swoje potwory. „Stoi” to ile miejsc tego potwora na mapie jest teraz zajętych; „Odrodzi się” to najbliższy powrót brakującego. Czasy uwzględniają ustawienia respawnu z /rates. Rdzenie odświeżają dane co 30 s.,لكل قناة وحوشها الخاصة. «قائم» هو عدد أماكن هذا الوحش على الخريطة المشغولة الآن؛ و«يعود خلال» هو متى يعود التالي المفقود. تشمل الأوقات إعدادات الظهور من /rates. تحدّث النوى البيانات كل 30 ث.,"T['rs_intro'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b05d9faafb0b,No data: no core has written its respawn state in the last minutes (needs a 2.x server with this version; after the game starts the data shows within a minute).,Brak danych: żaden rdzeń nie zapisał stanu respawnów w ostatnich minutach (wymaga serwera 2.x z tą wersją; po starcie gry dane pojawią się w ciągu minuty).,,"T['rs_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:526235444fb8,Channel {n},Kanał {n},,"T['rs_channel'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:0173b7f043cd,Map {n},Mapa {n},,"T['rs_map_n'] / panel: module text | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
+p:b05d9faafb0b,No data: no core has written its respawn state in the last minutes (needs a 2.x server with this version; after the game starts the data shows within a minute).,Brak danych: żaden rdzeń nie zapisał stanu respawnów w ostatnich minutach (wymaga serwera 2.x z tą wersją; po starcie gry dane pojawią się w ciągu minuty).,لا بيانات: لم تكتب أي نواة حالة الظهور الخاصة بها في الدقائق الأخيرة (يلزم خادم 2.x بهذا الإصدار؛ بعد بدء اللعبة تظهر البيانات خلال دقيقة).,"T['rs_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:526235444fb8,Channel {n},Kanał {n},القناة {n},"T['rs_channel'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:0173b7f043cd,Map {n},Mapa {n},الخريطة {n},"T['rs_map_n'] / panel: module text | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
 p:e63d88bd7bf3,Monster,Potwór,وحش,"T['rs_col_name'] / T['dt_col_mob'] | the classic web panel (browser, UTF-8: any letter)",done
-p:742f03c37a89,Standing,Stoi,,"T['rs_col_alive'] | the classic web panel (browser, UTF-8: any letter)",new
-p:345f6226501e,Respawns every,Odradza się co,,"T['rs_col_every'] | the classic web panel (browser, UTF-8: any letter)",new
-p:f2ad9ff9ac15,Back in,Odrodzi się,,"T['rs_col_next'] | the classic web panel (browser, UTF-8: any letter)",new
+p:742f03c37a89,Standing,Stoi,قائم,"T['rs_col_alive'] | the classic web panel (browser, UTF-8: any letter)",done
+p:345f6226501e,Respawns every,Odradza się co,يظهر كل,"T['rs_col_every'] | the classic web panel (browser, UTF-8: any letter)",done
+p:f2ad9ff9ac15,Back in,Odrodzi się,يعود خلال,"T['rs_col_next'] | the classic web panel (browser, UTF-8: any letter)",done
 p:b7e269062400,Boss,Boss,زعيم,"T['rs_boss'] | the classic web panel (browser, UTF-8: any letter)",done
-p:2c8a418f0b90,Metin,Metin,,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",new
-p:4f2c6f72a82d,all standing,wszystkie stoją,,"T['rs_all_up'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d462593fb1aa,any moment,zaraz,,"T['rs_soon'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d5a63c95d431,everything,wszystko,,"T['rs_filter_all'] | the classic web panel (browser, UTF-8: any letter)",new
-p:44cee69b092e,bosses only,tylko bossów,,"T['rs_filter_boss'] | the classic web panel (browser, UTF-8: any letter)",new
-p:104aaa7b876e,Metins only,tylko metiny,,"T['rs_filter_metin'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c99c0c201267,waiting only,tylko czekające,,"T['rs_filter_waiting'] | the classic web panel (browser, UTF-8: any letter)",new
-p:1faea90e64e0,"A special spawn from the server's special_spawns.txt, not a map respawn line. The boss and Metin respawn time of /rates shortens it all the same; the counts of /rates do not apply here.","Specjalny spawn z pliku special_spawns.txt serwera, nie z respawnu mapy. Czas respawnu bossów i metinów z /rates skraca go tak samo; liczby sztuk /rates tu nie zmienia.",,"T['rs_fixed_hint'] | the classic web panel (browser, UTF-8: any letter)",new
-p:aa479fe7dc7f,Data from,Dane z,,"T['rs_updated'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6b008ab77e6a,Voucher codes,Kody voucherów,,"T['vc_nav'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d90c1cb8bfa9,"Your own ItemShop codes (Redeem a voucher): Dragon Coins, an item, the Premium subscription for a time; a limit of uses, an end date, one use an account.","Własne kody do ItemShopu (Wykorzystaj voucher): Smocze Monety, przedmiot, subskrypcja Premium na czas; limit użyć, data ważności, jedno użycie na konto.",,"T['vc_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",new
-p:e0f40a348cd3,Open the codes,Otwórz kody,,"T['vc_open'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9d66770df4fc,"A player types the code in the ItemShop: ItemShop → Redeem a voucher. Each account can use a code once - codes made before or outside the panel too; the limit of uses says how many accounts in all. An item goes into the bag, and when it has no room into the ItemShop's storage (at the Storekeeper), never onto the ground; the Premium subscription works from the next login.","Gracz wpisuje kod w ItemShopie: ItemShop → Wykorzystaj voucher. Każde konto może użyć danego kodu raz - także kodów zrobionych wcześniej poza panelem; limit użyć mówi, ile kont w sumie. Przedmiot trafia do plecaka, a gdy nie ma w nim miejsca - do magazynu ItemShopu (u Magazyniera), nigdy na ziemię; subskrypcja Premium działa od następnego logowania.",,"T['vc_help'] | the classic web panel (browser, UTF-8: any letter)",new
-p:541bafc51084,"The codes' columns or the uses table are missing - restart the world, the migrator makes them (voucher_schema.sql).","Brak kolumn kodów lub tabeli użyć w bazie - zrestartuj świat, migrator je założy (voucher_schema.sql).",,"T['vc_not_ready'] | the classic web panel (browser, UTF-8: any letter)",new
-p:b00b4cb7a8d1,New codes,Nowe kody,,"T['vc_create'] | the classic web panel (browser, UTF-8: any letter)",new
-p:a35da56aaad7,How many codes (1-500),Ile kodów (1-500),,"T['vc_count'] | the classic web panel (browser, UTF-8: any letter)",new
-p:83b6a47d71d5,Or a code of your own (then one),Albo własny kod (wtedy jeden),,"T['vc_own_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fb3cdf99220c,"Prefix (optional, A-Z 0-9)","Przedrostek (opcjonalnie, A-Z 0-9)",,"T['vc_prefix'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c18e95b41e19,Length of the random part,Długość losowej części,,"T['vc_length'] | the classic web panel (browser, UTF-8: any letter)",new
-p:42d95a89fd44,Limit of uses (accounts),Limit użyć (kont),,"T['vc_uses'] | the classic web panel (browser, UTF-8: any letter)",new
-p:0da72c25931e,Valid until (empty = no end),Ważny do (puste = bez końca),,"T['vc_expires'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ed2490859dfd,Dragon Coins (DC),Smocze Monety (SM),,"T['vc_cash'] | the classic web panel (browser, UTF-8: any letter)",new
-p:d826cf223d39,"Item (VNUM, 0 = none)","Przedmiot (VNUM, 0 = brak)",,"T['vc_item'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ee9f38e186ba,count,ilość,,"T['vc_item_count'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:63c614871b2b,"Premium subscription: hours (0 = none, up to 8760)","Subskrypcja Premium: godziny (0 = bez, do 8760)",,"T['vc_premium_hours'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6c2f2888c561,Premium,Premium,,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6a0f3390f795,Note (for you),Notatka (dla Ciebie),,"T['vc_note'] | the classic web panel (browser, UTF-8: any letter)",new
-p:51170316b99c,Make the codes,Utwórz kody,,"T['vc_make'] | the classic web panel (browser, UTF-8: any letter)",new
-p:f4a6f482878b,{n} codes made.,Utworzono {n} kodów.,,"T['vc_made'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",new
-p:57999f48b9b3,The new batch,Nowa partia,,"T['vc_batch'] | the classic web panel (browser, UTF-8: any letter)",new
-p:a479c9c34e87,Download,Pobierz,,"T['vc_download'] | the classic web panel (browser, UTF-8: any letter)",new
-p:dedac7f93cce,Search a code or a note,Szukaj kodu lub notatki,,"T['vc_search'] | the classic web panel (browser, UTF-8: any letter)",new
-p:adac69379a62,Code,Kod,,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c7d7652ec6a7,Reward,Nagroda,,"T['vc_col_reward'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:62be4731dedf,Uses,Użyć,,"T['vc_col_uses'] | the classic web panel (browser, UTF-8: any letter)",new
-p:c8214d35a16e,Valid until,Ważny do,,"T['vc_col_until'] | the classic web panel (browser, UTF-8: any letter)",new
-p:785c2d910205,Made,Utworzony,,"T['vc_col_made'] | the classic web panel (browser, UTF-8: any letter)",new
-p:13ff33991a61,no end,bez końca,,"T['vc_no_end'] | the classic web panel (browser, UTF-8: any letter)",new
-p:45a6f9adb1df,expired,wygasł,,"T['vc_expired'] | the classic web panel (browser, UTF-8: any letter)",new
-p:ea3b235200ce,used up,wykorzystany,,"T['vc_used_up'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9a7d4e0687b1,Disable,Wyłącz,,"T['vc_disable'] | the classic web panel (browser, UTF-8: any letter)",new
-p:b990ebcc1656,Code disabled: nobody can use it any more.,Kod wyłączony: nikt go już nie użyje.,,"T['vc_disabled'] | the classic web panel (browser, UTF-8: any letter)",new
-p:8f1c45f4376c,Code deleted.,Kod usunięty.,,"T['vc_deleted'] | the classic web panel (browser, UTF-8: any letter)",new
-p:15a7d96dcdcb,A used code cannot be deleted - disable it.,Użytego kodu nie da się usunąć - wyłącz go.,,"T['vc_delete_used'] | the classic web panel (browser, UTF-8: any letter)",new
-p:018216fb1750,No codes.,Brak kodów.,,"T['vc_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fa36cfd1dedf,Latest uses,Ostatnie użycia,,"T['vc_log'] | the classic web panel (browser, UTF-8: any letter)",new
-p:3b3e85d9814e,Nobody has used a code yet.,Nikt jeszcze nie użył kodu.,,"T['vc_log_none'] | the classic web panel (browser, UTF-8: any letter)",new
-p:769bb19e615b,When,Kiedy,,"T['vc_col_when'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
-p:36b49a272e1c,← Panel,← Panel,,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",new
-p:e64bbd28268a,Number of codes: from 1 to {max}.,Liczba kodów: od 1 do {max}.,,"T['vc_err_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:f09220df4b6d,"Own code: 3-20 characters, letters, digits, - and _.","Własny kod: 3-20 znaków, litery, cyfry, - i _.",,"T['vc_err_code'] | the classic web panel (browser, UTF-8: any letter)",new
-p:113911cdcd17,That code exists already: {code}.,Taki kod już istnieje: {code}.,,"T['vc_err_taken'] | keep: {code} | the classic web panel (browser, UTF-8: any letter)",new
-p:03d723724084,"Prefix: up to 8 characters A-Z and 0-9, a - may end it.","Przedrostek: do 8 znaków A-Z i 0-9, na końcu może być -.",,"T['vc_err_prefix'] | the classic web panel (browser, UTF-8: any letter)",new
-p:9d4ffab9532f,"Length: from {min} to {max}, and the whole code 20 characters at most.","Długość: od {min} do {max}, a cały kod najwyżej 20 znaków.",,"T['vc_err_length'] | keep: {max} {min} | the classic web panel (browser, UTF-8: any letter)",new
-p:c73da07a9dbd,Limit of uses: from 1 to {max}.,Limit użyć: od 1 do {max}.,,"T['vc_err_uses'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:13caedc58537,"End date: YYYY-MM-DD, today or later.","Data ważności: RRRR-MM-DD, dziś lub później.",,"T['vc_err_date'] | the classic web panel (browser, UTF-8: any letter)",new
-p:95cf79f8c955,Dragon Coins: from 0 to {max}.,Smocze Monety: od 0 do {max}.,,"T['vc_err_cash'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:6517673dbcd3,No such item: {vnum}.,Nie ma takiego przedmiotu: {vnum}.,,"T['vc_err_item'] | keep: {vnum} | the classic web panel (browser, UTF-8: any letter)",new
-p:84459c970ad7,Item count: from 1 to {max} (this item's stack).,Ilość przedmiotu: od 1 do {max} (stos tego przedmiotu).,,"T['vc_err_item_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",new
-p:1dc483f93baf,Premium subscription: 0 to 8760 hours.,Subskrypcja Premium: od 0 do 8760 godzin.,,"T['vc_err_vip'] | the classic web panel (browser, UTF-8: any letter)",new
-p:4e9a319729f2,"A code must give something: Dragon Coins, an item or Premium.","Kod musi coś dawać: Smocze Monety, przedmiot lub Premium.",,"T['vc_err_reward'] | the classic web panel (browser, UTF-8: any letter)",new
-p:cf83fe199903,Note: up to 64 plain characters.,Notatka: do 64 znaków bez polskich liter.,,"T['vc_err_note'] | the classic web panel (browser, UTF-8: any letter)",new
-p:3ac8db865060,Database error: {e},Błąd bazy: {e},,"T['vc_err_db'] | keep: {e} | the classic web panel (browser, UTF-8: any letter)",new
+p:2c8a418f0b90,Metin,Metin,ميتن,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4f2c6f72a82d,all standing,wszystkie stoją,الكل قائم,"T['rs_all_up'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d462593fb1aa,any moment,zaraz,في أي لحظة,"T['rs_soon'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d5a63c95d431,everything,wszystko,الكل,"T['rs_filter_all'] | the classic web panel (browser, UTF-8: any letter)",done
+p:44cee69b092e,bosses only,tylko bossów,الزعماء فقط,"T['rs_filter_boss'] | the classic web panel (browser, UTF-8: any letter)",done
+p:104aaa7b876e,Metins only,tylko metiny,أحجار الميتن فقط,"T['rs_filter_metin'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c99c0c201267,waiting only,tylko czekające,المنتظرة فقط,"T['rs_filter_waiting'] | the classic web panel (browser, UTF-8: any letter)",done
+p:1faea90e64e0,"A special spawn from the server's special_spawns.txt, not a map respawn line. The boss and Metin respawn time of /rates shortens it all the same; the counts of /rates do not apply here.","Specjalny spawn z pliku special_spawns.txt serwera, nie z respawnu mapy. Czas respawnu bossów i metinów z /rates skraca go tak samo; liczby sztuk /rates tu nie zmienia.",ظهور خاص من ملف special_spawns.txt في الخادم، وليس سطر ظهور للخريطة. وقت ظهور الزعماء والميتن في /rates يقصّره رغم ذلك؛ أما أعداد /rates فلا تنطبق هنا.,"T['rs_fixed_hint'] | the classic web panel (browser, UTF-8: any letter)",done
+p:aa479fe7dc7f,Data from,Dane z,بيانات من,"T['rs_updated'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6b008ab77e6a,Voucher codes,Kody voucherów,رموز القسائم,"T['vc_nav'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d90c1cb8bfa9,"Your own ItemShop codes (Redeem a voucher): Dragon Coins, an item, the Premium subscription for a time; a limit of uses, an end date, one use an account.","Własne kody do ItemShopu (Wykorzystaj voucher): Smocze Monety, przedmiot, subskrypcja Premium na czas; limit użyć, data ważności, jedno użycie na konto.",رموز ItemShop الخاصة بك (استرداد قسيمة): عملات التنين، عنصر، اشتراك Premium لمدة؛ حد للاستخدامات، تاريخ انتهاء، استخدام واحد لكل حساب.,"T['vc_dash_hint'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e0f40a348cd3,Open the codes,Otwórz kody,افتح الرموز,"T['vc_open'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9d66770df4fc,"A player types the code in the ItemShop: ItemShop → Redeem a voucher. Each account can use a code once - codes made before or outside the panel too; the limit of uses says how many accounts in all. An item goes into the bag, and when it has no room into the ItemShop's storage (at the Storekeeper), never onto the ground; the Premium subscription works from the next login.","Gracz wpisuje kod w ItemShopie: ItemShop → Wykorzystaj voucher. Każde konto może użyć danego kodu raz - także kodów zrobionych wcześniej poza panelem; limit użyć mówi, ile kont w sumie. Przedmiot trafia do plecaka, a gdy nie ma w nim miejsca - do magazynu ItemShopu (u Magazyniera), nigdy na ziemię; subskrypcja Premium działa od następnego logowania.",يكتب اللاعب الرمز في ItemShop: ItemShop ← استرداد قسيمة. يمكن لكل حساب استخدام الرمز مرة واحدة - وكذلك الرموز المصنوعة قبل اللوحة أو خارجها؛ وحد الاستخدامات يحدد كم حسابًا إجمالًا. يذهب العنصر إلى الحقيبة، وإن لم يكن فيها مكان فإلى مستودع ItemShop (عند أمين المخزن)، وأبدًا لا يسقط على الأرض؛ ويعمل اشتراك Premium من الدخول التالي.,"T['vc_help'] | the classic web panel (browser, UTF-8: any letter)",done
+p:541bafc51084,"The codes' columns or the uses table are missing - restart the world, the migrator makes them (voucher_schema.sql).","Brak kolumn kodów lub tabeli użyć w bazie - zrestartuj świat, migrator je założy (voucher_schema.sql).",أعمدة الرموز أو جدول الاستخدامات مفقودة - أعد تشغيل العالم، وسينشئها المُرحِّل (voucher_schema.sql).,"T['vc_not_ready'] | the classic web panel (browser, UTF-8: any letter)",done
+p:b00b4cb7a8d1,New codes,Nowe kody,رموز جديدة,"T['vc_create'] | the classic web panel (browser, UTF-8: any letter)",done
+p:a35da56aaad7,How many codes (1-500),Ile kodów (1-500),كم رمزًا (1-500),"T['vc_count'] | the classic web panel (browser, UTF-8: any letter)",done
+p:83b6a47d71d5,Or a code of your own (then one),Albo własny kod (wtedy jeden),أو رمز خاص بك (حينها واحد),"T['vc_own_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fb3cdf99220c,"Prefix (optional, A-Z 0-9)","Przedrostek (opcjonalnie, A-Z 0-9)",البادئة (اختيارية، A-Z 0-9),"T['vc_prefix'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c18e95b41e19,Length of the random part,Długość losowej części,طول الجزء العشوائي,"T['vc_length'] | the classic web panel (browser, UTF-8: any letter)",done
+p:42d95a89fd44,Limit of uses (accounts),Limit użyć (kont),حد الاستخدامات (الحسابات),"T['vc_uses'] | the classic web panel (browser, UTF-8: any letter)",done
+p:0da72c25931e,Valid until (empty = no end),Ważny do (puste = bez końca),صالح حتى (فارغ = بلا نهاية),"T['vc_expires'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ed2490859dfd,Dragon Coins (DC),Smocze Monety (SM),عملات التنين (DC),"T['vc_cash'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d826cf223d39,"Item (VNUM, 0 = none)","Przedmiot (VNUM, 0 = brak)",العنصر (VNUM، 0 = لا شيء),"T['vc_item'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ee9f38e186ba,count,ilość,العدد,"T['vc_item_count'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:63c614871b2b,"Premium subscription: hours (0 = none, up to 8760)","Subskrypcja Premium: godziny (0 = bez, do 8760)",اشتراك Premium: ساعات (0 = لا شيء، حتى 8760),"T['vc_premium_hours'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6c2f2888c561,Premium,Premium,Premium,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6a0f3390f795,Note (for you),Notatka (dla Ciebie),ملاحظة (لك),"T['vc_note'] | the classic web panel (browser, UTF-8: any letter)",done
+p:51170316b99c,Make the codes,Utwórz kody,أنشئ الرموز,"T['vc_make'] | the classic web panel (browser, UTF-8: any letter)",done
+p:f4a6f482878b,{n} codes made.,Utworzono {n} kodów.,أُنشئ {n} رمز.,"T['vc_made'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
+p:57999f48b9b3,The new batch,Nowa partia,الدفعة الجديدة,"T['vc_batch'] | the classic web panel (browser, UTF-8: any letter)",done
+p:a479c9c34e87,Download,Pobierz,تنزيل,"T['vc_download'] | the classic web panel (browser, UTF-8: any letter)",done
+p:dedac7f93cce,Search a code or a note,Szukaj kodu lub notatki,ابحث عن رمز أو ملاحظة,"T['vc_search'] | the classic web panel (browser, UTF-8: any letter)",done
+p:adac69379a62,Code,Kod,الرمز,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c7d7652ec6a7,Reward,Nagroda,المكافأة,"T['vc_col_reward'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:62be4731dedf,Uses,Użyć,الاستخدامات,"T['vc_col_uses'] | the classic web panel (browser, UTF-8: any letter)",done
+p:c8214d35a16e,Valid until,Ważny do,صالح حتى,"T['vc_col_until'] | the classic web panel (browser, UTF-8: any letter)",done
+p:785c2d910205,Made,Utworzony,أُنشئ,"T['vc_col_made'] | the classic web panel (browser, UTF-8: any letter)",done
+p:13ff33991a61,no end,bez końca,بلا نهاية,"T['vc_no_end'] | the classic web panel (browser, UTF-8: any letter)",done
+p:45a6f9adb1df,expired,wygasł,منتهي,"T['vc_expired'] | the classic web panel (browser, UTF-8: any letter)",done
+p:ea3b235200ce,used up,wykorzystany,مُستنفد,"T['vc_used_up'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9a7d4e0687b1,Disable,Wyłącz,تعطيل,"T['vc_disable'] | the classic web panel (browser, UTF-8: any letter)",done
+p:b990ebcc1656,Code disabled: nobody can use it any more.,Kod wyłączony: nikt go już nie użyje.,عُطّل الرمز: لا يمكن لأحد استخدامه بعد الآن.,"T['vc_disabled'] | the classic web panel (browser, UTF-8: any letter)",done
+p:8f1c45f4376c,Code deleted.,Kod usunięty.,حُذف الرمز.,"T['vc_deleted'] | the classic web panel (browser, UTF-8: any letter)",done
+p:15a7d96dcdcb,A used code cannot be deleted - disable it.,Użytego kodu nie da się usunąć - wyłącz go.,لا يمكن حذف رمز مُستخدم - عطّله.,"T['vc_delete_used'] | the classic web panel (browser, UTF-8: any letter)",done
+p:018216fb1750,No codes.,Brak kodów.,لا رموز.,"T['vc_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fa36cfd1dedf,Latest uses,Ostatnie użycia,آخر الاستخدامات,"T['vc_log'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3b3e85d9814e,Nobody has used a code yet.,Nikt jeszcze nie użył kodu.,لم يستخدم أحد رمزًا بعد.,"T['vc_log_none'] | the classic web panel (browser, UTF-8: any letter)",done
+p:769bb19e615b,When,Kiedy,متى,"T['vc_col_when'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:36b49a272e1c,← Panel,← Panel,← اللوحة,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e64bbd28268a,Number of codes: from 1 to {max}.,Liczba kodów: od 1 do {max}.,عدد الرموز: من 1 إلى {max}.,"T['vc_err_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:f09220df4b6d,"Own code: 3-20 characters, letters, digits, - and _.","Własny kod: 3-20 znaków, litery, cyfry, - i _.",الرمز الخاص: 3-20 حرفًا، حروف وأرقام و- و_.,"T['vc_err_code'] | the classic web panel (browser, UTF-8: any letter)",done
+p:113911cdcd17,That code exists already: {code}.,Taki kod już istnieje: {code}.,هذا الرمز موجود بالفعل: {code}.,"T['vc_err_taken'] | keep: {code} | the classic web panel (browser, UTF-8: any letter)",done
+p:03d723724084,"Prefix: up to 8 characters A-Z and 0-9, a - may end it.","Przedrostek: do 8 znaków A-Z i 0-9, na końcu może być -.",البادئة: حتى 8 أحرف A-Z و0-9، ويمكن أن تنتهي بـ -.,"T['vc_err_prefix'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9d4ffab9532f,"Length: from {min} to {max}, and the whole code 20 characters at most.","Długość: od {min} do {max}, a cały kod najwyżej 20 znaków.",الطول: من {min} إلى {max}، والرمز كاملًا 20 حرفًا على الأكثر.,"T['vc_err_length'] | keep: {max} {min} | the classic web panel (browser, UTF-8: any letter)",done
+p:c73da07a9dbd,Limit of uses: from 1 to {max}.,Limit użyć: od 1 do {max}.,حد الاستخدامات: من 1 إلى {max}.,"T['vc_err_uses'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:13caedc58537,"End date: YYYY-MM-DD, today or later.","Data ważności: RRRR-MM-DD, dziś lub później.",تاريخ الانتهاء: YYYY-MM-DD، اليوم أو لاحقًا.,"T['vc_err_date'] | the classic web panel (browser, UTF-8: any letter)",done
+p:95cf79f8c955,Dragon Coins: from 0 to {max}.,Smocze Monety: od 0 do {max}.,عملات التنين: من 0 إلى {max}.,"T['vc_err_cash'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:6517673dbcd3,No such item: {vnum}.,Nie ma takiego przedmiotu: {vnum}.,لا يوجد عنصر كهذا: {vnum}.,"T['vc_err_item'] | keep: {vnum} | the classic web panel (browser, UTF-8: any letter)",done
+p:84459c970ad7,Item count: from 1 to {max} (this item's stack).,Ilość przedmiotu: od 1 do {max} (stos tego przedmiotu).,عدد العناصر: من 1 إلى {max} (حزمة هذا العنصر).,"T['vc_err_item_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
+p:1dc483f93baf,Premium subscription: 0 to 8760 hours.,Subskrypcja Premium: od 0 do 8760 godzin.,اشتراك Premium: من 0 إلى 8760 ساعة.,"T['vc_err_vip'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4e9a319729f2,"A code must give something: Dragon Coins, an item or Premium.","Kod musi coś dawać: Smocze Monety, przedmiot lub Premium.",يجب أن يعطي الرمز شيئًا: عملات التنين أو عنصرًا أو Premium.,"T['vc_err_reward'] | the classic web panel (browser, UTF-8: any letter)",done
+p:cf83fe199903,Note: up to 64 plain characters.,Notatka: do 64 znaków bez polskich liter.,ملاحظة: حتى 64 حرفًا عاديًا.,"T['vc_err_note'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3ac8db865060,Database error: {e},Błąd bazy: {e},خطأ في قاعدة البيانات: {e},"T['vc_err_db'] | keep: {e} | the classic web panel (browser, UTF-8: any letter)",done
 p:6ee419d36065,Wheel of Fortune,Koło Fortuny,عجلة الحظ,"T['fw_title'] | the classic web panel (browser, UTF-8: any letter)",done
-p:ecfee07c7c76,🎡 Edit the Wheel of Fortune →,🎡 Edytuj Koło Fortuny →,,"T['fw_open'] | the classic web panel (browser, UTF-8: any letter)",new
-p:59acc924acc0,"The wheel's fields in their order round the disc, their chances (weights), counts and the price of a spin. The game takes a saved wheel within a few seconds, without a restart. A player never sees a chance - only the prizes; the percents below are for you. The bots spin the same wheel with their Lucky Tickets.","Pola koła w kolejności na tarczy, ich szanse (wagi), ilości i ceny obrotu. Gra bierze zapisane koło w ciągu kilku sekund, bez restartu. Gracz nie widzi szans - tylko nagrody; procenty poniżej są dla Ciebie. Boty kręcą tym samym kołem za swoje Kupony Losu.",,"T['fw_help'] | the classic web panel (browser, UTF-8: any letter)",new
-p:57a84801920e,Now: the default wheel (Kiciamol's) - nothing saved.,Teraz: koło domyślne (Kiciamola) - nic nie zapisano.,,"T['fw_source_default'] | the classic web panel (browser, UTF-8: any letter)",new
-p:fa87f56b641b,Now: your wheel (saved {when}).,Teraz: Twoje koło (zapisane {when}).,,"T['fw_source_file'] | keep: {when} | the classic web panel (browser, UTF-8: any letter)",new
-p:39be0a2fc93a,The wheel's file in the spool is invalid ({why}) - the game refuses it and keeps the wheel it had. Below is the default wheel; save to replace the file.,"Plik koła w spoolu jest nieprawidłowy ({why}) - gra go nie przyjmie i zostawi poprzednie koło. Poniżej koło domyślne; zapisz, żeby nadpisać plik.",,"T['fw_source_bad'] | keep: {why} | the classic web panel (browser, UTF-8: any letter)",new
-p:5f0c15ef257e,Price of a spin in Dragon Coins,Cena obrotu w Smoczych Monetach,,"T['fw_price'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6bee56e08a17,Lucky Tickets a spin,Kuponów Losu za obrót,,"T['fw_tickets'] | the classic web panel (browser, UTF-8: any letter)",new
+p:ecfee07c7c76,🎡 Edit the Wheel of Fortune →,🎡 Edytuj Koło Fortuny →,🎡 تعديل عجلة الحظ ←,"T['fw_open'] | the classic web panel (browser, UTF-8: any letter)",done
+p:59acc924acc0,"The wheel's fields in their order round the disc, their chances (weights), counts and the price of a spin. The game takes a saved wheel within a few seconds, without a restart. A player never sees a chance - only the prizes; the percents below are for you. The bots spin the same wheel with their Lucky Tickets.","Pola koła w kolejności na tarczy, ich szanse (wagi), ilości i ceny obrotu. Gra bierze zapisane koło w ciągu kilku sekund, bez restartu. Gracz nie widzi szans - tylko nagrody; procenty poniżej są dla Ciebie. Boty kręcą tym samym kołem za swoje Kupony Losu.",خانات العجلة بترتيبها حول القرص، وفرصها (الأوزان)، وكمياتها، وسعر الدورة. تأخذ اللعبة العجلة المحفوظة خلال ثوانٍ قليلة، بلا إعادة تشغيل. اللاعب لا يرى الفرص أبدًا - فقط الجوائز؛ والنسب أدناه لك. تدير البوتات العجلة نفسها بتذاكر Lucky Ticket الخاصة بها.,"T['fw_help'] | the classic web panel (browser, UTF-8: any letter)",done
+p:57a84801920e,Now: the default wheel (Kiciamol's) - nothing saved.,Teraz: koło domyślne (Kiciamola) - nic nie zapisano.,الآن: العجلة الافتراضية (عجلة Kiciamol) - لا شيء محفوظ.,"T['fw_source_default'] | the classic web panel (browser, UTF-8: any letter)",done
+p:fa87f56b641b,Now: your wheel (saved {when}).,Teraz: Twoje koło (zapisane {when}).,الآن: عجلتك (حُفظت {when}).,"T['fw_source_file'] | keep: {when} | the classic web panel (browser, UTF-8: any letter)",done
+p:39be0a2fc93a,The wheel's file in the spool is invalid ({why}) - the game refuses it and keeps the wheel it had. Below is the default wheel; save to replace the file.,"Plik koła w spoolu jest nieprawidłowy ({why}) - gra go nie przyjmie i zostawi poprzednie koło. Poniżej koło domyślne; zapisz, żeby nadpisać plik.",ملف العجلة في spool غير صالح ({why}) - ترفضه اللعبة وتحتفظ بالعجلة التي كانت لديها. في الأسفل العجلة الافتراضية؛ احفظ لاستبدال الملف.,"T['fw_source_bad'] | keep: {why} | the classic web panel (browser, UTF-8: any letter)",done
+p:5f0c15ef257e,Price of a spin in Dragon Coins,Cena obrotu w Smoczych Monetach,سعر الدورة بعملات التنين,"T['fw_price'] | the classic web panel (browser, UTF-8: any letter)",done
+p:6bee56e08a17,Lucky Tickets a spin,Kuponów Losu za obrót,تذاكر Lucky Ticket لكل دورة,"T['fw_tickets'] | the classic web panel (browser, UTF-8: any letter)",done
