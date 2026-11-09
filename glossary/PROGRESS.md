@@ -8,22 +8,22 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 9926/10016 | 1016/1016 | 3035/8601 | 1582/3723 | 2307/2308 | 4414/4414 | 28030/35828 (78.2%) |
+| de | 5750/5750 | 9999/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32024/35828 (89.4%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 9869/10016 | 1016/1016 | 3035/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27979/35828 (78.1%) |
-| es | 5750/5750 | 57/10016 | 1016/1016 | 3029/8601 | 17/3723 | 2308/2308 | 4414/4414 | 16591/35828 (46.3%) |
-| it | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| ro | 5750/5750 | 9869/10016 | 1016/1016 | 3035/8601 | 1601/3723 | 2307/2308 | 4414/4414 | 27992/35828 (78.1%) |
-| hu | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| nl | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| cs | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| el | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 72/3723 | 2307/2308 | 4414/4414 | 16716/35828 (46.7%) |
-| ru | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| pt | 5750/5750 | 9869/10016 | 1014/1014 | 3035/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27977/35826 (78.1%) |
-| da | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| ar | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| ko | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3687/3723 | 2308/2308 | 4414/4414 | 35792/35828 (99.9%) |
+| fr | 5750/5750 | 10008/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32033/35828 (89.4%) |
+| es | 5750/5750 | 9320/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2308/2308 | 4414/4414 | 30856/35828 (86.1%) |
+| it | 5750/5750 | 9318/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30853/35828 (86.1%) |
+| ro | 5750/5750 | 10008/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32033/35828 (89.4%) |
+| hu | 5750/5750 | 9330/10016 | 1016/1016 | 5567/8601 | 2479/3723 | 2307/2308 | 4414/4414 | 30863/35828 (86.1%) |
+| nl | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30869/35828 (86.2%) |
+| cs | 5750/5750 | 9333/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30868/35828 (86.2%) |
+| el | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2230/3723 | 2307/2308 | 4414/4414 | 30619/35828 (85.5%) |
+| ru | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2228/3723 | 2307/2308 | 4414/4414 | 30617/35828 (85.5%) |
+| pt | 5750/5750 | 10008/10016 | 1014/1014 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32031/35826 (89.4%) |
+| da | 5750/5750 | 9286/10016 | 1016/1016 | 5568/8601 | 2479/3723 | 2307/2308 | 4414/4414 | 30820/35828 (86.0%) |
+| ar | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2227/3723 | 2307/2308 | 4414/4414 | 30616/35828 (85.5%) |
+| ko | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2225/3723 | 2307/2308 | 4414/4414 | 30614/35828 (85.4%) |
+| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -122,6 +122,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   `python3 glossary/build_en_us.py`; `tools/validate.py` erlaubt dafür
   Regionalordner wie `en_US` (Codepage von `en`). Offen bleiben nur 36 Zeilen
   ohne englischen Text (nur `polski`).
+- Stand 2026-11-09 abends (Branch `claude/translations-5`, auf upstream/main inkl. pt-PR von iahgod neu aufgesetzt):
+  offen sind 4_questy_05-13 (Rest), 5_boty_czat (Rest), Beschreibungen in 2_przedmioty_potwory und die
+  "check"-Zeilen in de/fr/pt/ro/tr (laut Projektinhaber pruefen, ggf. uebersetzen, auf done setzen).
+- 14 Zeilen in 5_boty_czat_05/06 (`b:phrase:`, nur Polnisch, mit %s/%d/%u/%ld) lassen sich in keiner Sprache
+  eintragen: tools/validate.py vergleicht die Variablen mit der leeren english-Spalte. Abhilfe upstream:
+  English nachtragen oder im Validator bei leerer english-Spalte die polski-Spalte nehmen. Auch tr ist betroffen.
+- Zeilen, in denen ein Prozentzeichen vor einem Wort steht ("10% de"), liest der Validator als Variable; solche
+  Uebersetzungen werden mit "Prozent"/"por ciento" o. ae. ausgeschrieben.
+- Auffaelligkeit (nicht geaendert): de "Wild Dog" ist in bestehenden Zeilen "Flammenkrieger"; in neuen Texten
+  "Wilder Hund". de "Reitkarte (PM)" und "Kupferverziert. Bogen" in Fliesstexten als "Reitkarte" bzw.
+  "Kupferverzierter Bogen".
+- Namen: in lateinischen Sprachen bleiben NPC-/Monsternamen unveraendert (Geuk-Hon-Gab, Jae-Seon Kim);
+  el/ru/ar/ko verwenden die bestehende Transliteration (z. B. Гык-Хон-Габ, 극혼갑).
+- Qualitaet: Die Texte der neuen Sprachen sind KI-uebersetzt. Korrekturen von Muttersprachlern aus der
+  Community sind ausdruecklich willkommen.
 - Reich-Begriff angeglichen (nur eigene Zeilen in 6_launcher, 7_panel und
   4_questy_01): ko 제국, nl rijk, da rige, cs říše, wie im Glossar und im Client.
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
