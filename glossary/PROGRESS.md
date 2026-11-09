@@ -8,21 +8,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 9926/10016 | 1016/1016 | 1483/8601 | 1582/3723 | 2307/2308 | 4414/4414 | 26478/35828 (73.9%) |
+| de | 5750/5750 | 9926/10016 | 1016/1016 | 2274/8601 | 1582/3723 | 2307/2308 | 4414/4414 | 27269/35828 (76.1%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 9869/10016 | 1016/1016 | 1483/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 26427/35828 (73.8%) |
-| es | 5750/5750 | 57/10016 | 1016/1016 | 1477/8601 | 17/3723 | 2308/2308 | 4414/4414 | 15039/35828 (42.0%) |
-| it | 5750/5750 | 127/10016 | 1016/1016 | 1477/8601 | 322/3723 | 2307/2308 | 4414/4414 | 15413/35828 (43.0%) |
-| ro | 5750/5750 | 9869/10016 | 1016/1016 | 1483/8601 | 1601/3723 | 2307/2308 | 4414/4414 | 26440/35828 (73.8%) |
-| hu | 5750/5750 | 127/10016 | 1016/1016 | 1477/8601 | 322/3723 | 2307/2308 | 4414/4414 | 15413/35828 (43.0%) |
-| nl | 5750/5750 | 127/10016 | 1016/1016 | 1477/8601 | 322/3723 | 2307/2308 | 4414/4414 | 15413/35828 (43.0%) |
-| cs | 5750/5750 | 127/10016 | 1016/1016 | 1477/8601 | 322/3723 | 2307/2308 | 4414/4414 | 15413/35828 (43.0%) |
-| el | 5750/5750 | 128/10016 | 1016/1016 | 1477/8601 | 72/3723 | 2307/2308 | 4414/4414 | 15164/35828 (42.3%) |
-| ru | 5750/5750 | 128/10016 | 1016/1016 | 1477/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15162/35828 (42.3%) |
-| pt | 5750/5750 | 9869/10016 | 1014/1014 | 1483/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 26425/35826 (73.8%) |
-| da | 5750/5750 | 127/10016 | 1016/1016 | 1477/8601 | 322/3723 | 2307/2308 | 4414/4414 | 15413/35828 (43.0%) |
-| ar | 5750/5750 | 128/10016 | 1016/1016 | 1477/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15162/35828 (42.3%) |
-| ko | 5750/5750 | 128/10016 | 1016/1016 | 1477/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15162/35828 (42.3%) |
+| fr | 5750/5750 | 9869/10016 | 1016/1016 | 2274/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27218/35828 (76.0%) |
+| es | 5750/5750 | 57/10016 | 1016/1016 | 2268/8601 | 17/3723 | 2308/2308 | 4414/4414 | 15830/35828 (44.2%) |
+| it | 5750/5750 | 127/10016 | 1016/1016 | 2268/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16204/35828 (45.2%) |
+| ro | 5750/5750 | 9869/10016 | 1016/1016 | 2274/8601 | 1601/3723 | 2307/2308 | 4414/4414 | 27231/35828 (76.0%) |
+| hu | 5750/5750 | 127/10016 | 1016/1016 | 2268/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16204/35828 (45.2%) |
+| nl | 5750/5750 | 127/10016 | 1016/1016 | 2268/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16204/35828 (45.2%) |
+| cs | 5750/5750 | 127/10016 | 1016/1016 | 2268/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16204/35828 (45.2%) |
+| el | 5750/5750 | 128/10016 | 1016/1016 | 2268/8601 | 72/3723 | 2307/2308 | 4414/4414 | 15955/35828 (44.5%) |
+| ru | 5750/5750 | 128/10016 | 1016/1016 | 2268/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15953/35828 (44.5%) |
+| pt | 5750/5750 | 9869/10016 | 1014/1014 | 2274/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27216/35826 (76.0%) |
+| da | 5750/5750 | 127/10016 | 1016/1016 | 2268/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16204/35828 (45.2%) |
+| ar | 5750/5750 | 128/10016 | 1016/1016 | 2268/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15953/35828 (44.5%) |
+| ko | 5750/5750 | 128/10016 | 1016/1016 | 2268/8601 | 70/3723 | 2307/2308 | 4414/4414 | 15953/35828 (44.5%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -65,6 +65,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   „Up until now you have delivered “ + Zahl + „branches.“ fehlt im Englischen
   das Leerzeichen vor dem zweiten Teil; die Leerzeichen wurden wie im
   Englischen übernommen (Polnisch hat dort eins).
+- 4_questy_03: alle leeren Zellen in allen 14 Sprachen gefüllt (inkl. es).
+  Neue Namen (Altar der Macht, Landagent, Burgen Listhmos/Milaard/Dendera,
+  Verräter Balso, Schwarzwind-Bande, Buch der Vorsehung, Reiskuchen-Kästen,
+  Waffenschmied/Rüstungsschmied/Schmuckdesigner usw.) wurden einheitlich
+  übersetzt. ko: Yang = 냥, wie in den bestehenden ko-Zeilen.
+  Auffälligkeiten (nicht korrigiert):
+  - Feste des Roten Drachen: der englische Text ist an mehreren Stellen
+    fehlerhafte Maschinenübersetzung; der Sinn wurde aus dem Polnischen
+    übernommen.
+  - de: bestehende Itemnamen „Hellgrüner Holzkasten“ (Lightgreen Ebony Box)
+    und „Gildenkriegsmeister“ (Battle Bailiff) wurden so übernommen.
+  - Ranglisten-Tabellen (guild_ranking): ein Spaltenname direkt nach `|` darf
+    nicht mit E/e/H/h/r beginnen, sonst hält der Validator ihn für einen
+    Farbcode (`|E`); daher pt „Jogos empatados“, ro „Meciuri egale“,
+    es „Tablas“ statt „Empates/Egaluri“.
 - Reich-Begriff angeglichen (nur eigene Zeilen in 6_launcher, 7_panel und
   4_questy_01): ko 제국, nl rijk, da rige, cs říše, wie im Glossar und im Client.
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
