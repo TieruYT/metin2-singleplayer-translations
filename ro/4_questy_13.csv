@@ -74,7 +74,7 @@ q:pkg:t:quest_book.mission_52_text,"Now that we can fight the Fireghosts, we hav
 q:pkg:t:quest_book.mission_53_hunt,Examine the Flames ,Zbadaj Ogniste Potwory ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_53_mis,Kill 40 Flames. ,Zabij 40 Płomieni. ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_53_text,The Flames are unbelievably brutal. They enjoy[ENTER]the pain of the people whose skin they are[ENTER]devouring. We still don't know how to kill them.[ENTER]Could you find out more about these Flames? ,Płomienie są niewiarygodnie brutalne. Bawią się[ENTER]jedząc zabitych ludzi. Nie mam pojęcia jak je[ENTER]zabić. Możesz się tego dowiedzieć? ,,quest dialog (the game's quests: quest_book) | keep: [ENTER] = new line,new
-q:pkg:t:quest_book.mission_54_hunt,Flame Warriors ,Ogniści Wojownicy ,,quest dialog (the game's quests: quest_book),new
+q:pkg:t:quest_book.mission_54_hunt,Flame Warriors ,Ogniści Wojownicy ,Luptatori de Foc ,quest dialog (the game's quests: quest_book),done
 q:pkg:t:quest_book.mission_54_mis,Kill 60 Flame Warriors. ,Zabij 60 Ognistych Wojowników. ,,quest dialog (the game's quests: quest_book),new
 q:pkg:t:quest_book.mission_54_text,"Not too long ago, the child of a nobleman who[ENTER]went into the Fireland was killed by a Flame[ENTER]Warrior. If you kill the Flame Warriors, you'll[ENTER]be rewarded. Why don't you give it a try? ","Niedawno, dziecko arystokraty, które zapuściło[ENTER]się w Ognistą Ziemię, zostało zabite przez[ENTER]jednego z Ognistych Wojowników. Jeśli ich[ENTER]zabijesz, otrzymasz nagrodę. Wyzwij ich na[ENTER]pojedynek. ",,quest dialog (the game's quests: quest_book) | keep: [ENTER] = new line,new
 q:pkg:t:quest_book.mission_55_hunt,Secret of the Ghost Forest I ,Tajemnica Lasu Duchów I ,,quest dialog (the game's quests: quest_book),new
@@ -137,15 +137,15 @@ q:pkg:t:reputation.quest_low_reputation,Required reputation to start this quest:
 q:pkg:t:reputation.quest_not_done,Come back when you have completed the quest.,Wróć kiedy wykonasz misję.,,quest dialog (the game's quests: reputation),new
 q:pkg:t:reputation.quest_reward_reputation,You receive %d reputation (%s).,Otrzymujesz %d reputacji (%s).,,quest dialog (the game's quests: reputation) | keep: %d %s,new
 q:pkg:t:reputation.quest_wait,You can complete these quests once a day.,Misje możesz wykonać raz dziennie.,,quest dialog (the game's quests: reputation),new
-q:pkg:t:reputation.reputation_rank.1,Neutral,Neutralny,,quest dialog (the game's quests: reputation),new
-q:pkg:t:reputation.reputation_rank.2,Friendly,Przyjazny,,quest dialog (the game's quests: reputation),new
+q:pkg:t:reputation.reputation_rank.1,Neutral,Neutralny,Neutru,quest dialog (the game's quests: reputation),done
+q:pkg:t:reputation.reputation_rank.2,Friendly,Przyjazny,Prietenos,quest dialog (the game's quests: reputation),done
 q:pkg:t:reputation.reputation_rank.3,Respected,Szanowany,Respectat,quest dialog (the game's quests: reputation),done
-q:pkg:t:reputation.reputation_rank.4,Ally,Sojusznik,,quest dialog (the game's quests: reputation),new
+q:pkg:t:reputation.reputation_rank.4,Ally,Sojusznik,Aliat,quest dialog (the game's quests: reputation),done
 q:pkg:t:reputation_desert.first.desc,"The desert was once a peaceful place, but lately it has been swarming with hostile creatures. Because of these attacks our people cannot sleep in peace. Help us drive these beasts away and restore the balance of the desert!","Pustynia była kiedyś spokojnym miejscem, ale ostatnio roi się tu od wrogich stworzeń. Przez te ataki nasi ludzie nie mogą spać spokojnie. Pomóż nam przegnać te bestie i przywrócić równowagę na pustyni!",,quest dialog (the game's quests: reputation_desert),new
 q:pkg:t:reputation_desert.first.name,Defence of the Desert Trails,Obrona Pustynnych Szlaków,,quest dialog (the game's quests: reputation_desert),new
 q:pkg:t:reputation_desert.first.progress,Remaining: %d.,Pozostało %d.,,quest dialog (the game's quests: reputation_desert) | keep: %d,new
 q:pkg:t:reputation_desert.first.task,Kill %dx %s.,Zabij %dx %s.,,quest dialog (the game's quests: reputation_desert) | keep: %d %s,new
-q:pkg:t:reputation_desert.fraction_name,Sons of the Desert,Synowie Pustyni,,quest dialog (the game's quests: reputation_desert),new
+q:pkg:t:reputation_desert.fraction_name,Sons of the Desert,Synowie Pustyni,Fiii Desertului,quest dialog (the game's quests: reputation_desert),done
 q:pkg:t:reputation_desert.quest_done,"Your deeds have not gone unnoticed, my friend. The Sons of the Desert are grateful for your support and devotion.","Twoje działania nie przeszły niezauważone, przyjacielu. Synowie Pustyni są Ci wdzięczni za wsparcie i oddanie.",,quest dialog (the game's quests: reputation_desert),new
 q:pkg:t:reputation_desert.second.desc,"Our supplies are starting to run low, and we need particular items to survive the harsh conditions of the desert. If you really want to help us, bring us what we need. Your support will not be forgotten.","Nasze zapasy zaczynają się kurczyć, a potrzebujemy konkretnych przedmiotów, by przetrwać w trudnych warunkach pustyni. Jeśli naprawdę chcesz nam pomóc, przynieś, czego potrzebujemy. Twoje wsparcie będzie niezapomniane.",,quest dialog (the game's quests: reputation_desert),new
 q:pkg:t:reputation_desert.second.name,Supplies for the Sons,Zasoby dla Synów,,quest dialog (the game's quests: reputation_desert),new
@@ -159,7 +159,7 @@ q:pkg:t:reputation_orc_valley.first.desc,"For years the Valley of Seungryong has
 q:pkg:t:reputation_orc_valley.first.name,Cleansing the Valley,Oczyszczenie Doliny,,quest dialog (the game's quests: reputation_orc_valley),new
 q:pkg:t:reputation_orc_valley.first.progress,Remaining: %d.,Pozostało %d.,,quest dialog (the game's quests: reputation_orc_valley) | keep: %d,new
 q:pkg:t:reputation_orc_valley.first.task,Kill %dx %s.,Zabij %dx %s.,,quest dialog (the game's quests: reputation_orc_valley) | keep: %d %s,new
-q:pkg:t:reputation_orc_valley.fraction_name,Royal Guard,Królewska Gwardia,,quest dialog (the game's quests: reputation_orc_valley),new
+q:pkg:t:reputation_orc_valley.fraction_name,Royal Guard,Królewska Gwardia,Garda Regala,quest dialog (the game's quests: reputation_orc_valley),done
 q:pkg:t:reputation_orc_valley.quest_done,"Your efforts in the Valley of Seungryong have brought tangible results. The monsters have been wiped out and the threat has been averted for the time being. Without you, the situation could have got out of control.","Twoje działania w Dolinie Seungryong przyniosły wymierne rezultaty. Potwory zostały wybite, a zagrożenie tymczasowo zażegnane. Bez Ciebie sytuacja mogłaby wymknąć się spod kontroli.",,quest dialog (the game's quests: reputation_orc_valley),new
 q:pkg:t:reward.alignment_reward,You have received %s rank points,Otrzymałeś %s Pkt. Rangi,,quest dialog (the game's quests: reward) | keep: %s,new
 q:pkg:t:reward.alignment_reward_loss,You have lost %s rank points,Straciłeś %s Pkt. Rangi,,quest dialog (the game's quests: reward) | keep: %s,new
