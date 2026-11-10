@@ -8,21 +8,21 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 9999/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32024/35828 (89.4%) |
+| de | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 10008/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32033/35828 (89.4%) |
-| es | 5750/5750 | 9320/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2308/2308 | 4414/4414 | 30856/35828 (86.1%) |
-| it | 5750/5750 | 9318/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30853/35828 (86.1%) |
-| ro | 5750/5750 | 10008/10016 | 1016/1016 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32033/35828 (89.4%) |
-| hu | 5750/5750 | 9330/10016 | 1016/1016 | 5567/8601 | 2479/3723 | 2307/2308 | 4414/4414 | 30863/35828 (86.1%) |
-| nl | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30869/35828 (86.2%) |
-| cs | 5750/5750 | 9333/10016 | 1016/1016 | 5568/8601 | 2480/3723 | 2307/2308 | 4414/4414 | 30868/35828 (86.2%) |
-| el | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2230/3723 | 2307/2308 | 4414/4414 | 30619/35828 (85.5%) |
-| ru | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2228/3723 | 2307/2308 | 4414/4414 | 30617/35828 (85.5%) |
-| pt | 5750/5750 | 10008/10016 | 1014/1014 | 5568/8601 | 2970/3723 | 2307/2308 | 4414/4414 | 32031/35826 (89.4%) |
-| da | 5750/5750 | 9286/10016 | 1016/1016 | 5568/8601 | 2479/3723 | 2307/2308 | 4414/4414 | 30820/35828 (86.0%) |
-| ar | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2227/3723 | 2307/2308 | 4414/4414 | 30616/35828 (85.5%) |
-| ko | 5750/5750 | 9334/10016 | 1016/1016 | 5568/8601 | 2225/3723 | 2307/2308 | 4414/4414 | 30614/35828 (85.4%) |
+| fr | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| es | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| it | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| ro | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| hu | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| nl | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| cs | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| el | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| ru | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| pt | 5750/5750 | 10016/10016 | 1014/1014 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35812/35826 (100.0%) |
+| da | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| ar | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| ko | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
 | en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
@@ -31,11 +31,12 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   7_panel, in keiner Sprache.
 - de/7_panel_01–03 und tr/7_panel_01–06 waren schon im Original-Repo übersetzt
   (Commit „Panel: 7_panel section…“). Deshalb erscheinen sie nicht im PR.
-- Zeilen mit Status `check` = Text ist eine Kopie des Englischen aus dem Original
-  (de 643, tr 500, fr 751, ro 508, pt 762). Die meisten sind Namen/Kürzel, die
-  so bleiben können (Bot, Status, Yang, /companion-Befehle). Einige sind aber
-  noch englische Sätze, z. B. de 1_klient_09 (Klassen- und Reichstexte),
-  de 7_panel_04 „Open the market preview“. Nach Regel nicht angefasst.
+- Zeilen mit Status `check` (Text = Kopie des Englischen; de 643, tr 500,
+  fr 751, ro 508, pt 762) sind alle geprüft und auf `done` gesetzt
+  (Stand 2026-11-10). Namen, Kürzel und Befehle blieben unverändert; echte
+  englische Sätze wurden übersetzt (z. B. de 1_klient_09 Klassen- und
+  Reichstexte mit gleicher [ENTER]/[WAIT]-Struktur, Wiki- und Panel-Texte,
+  Frisurnamen mit Geschlechtskürzel de (w)/(m), ro (f)/(m)).
 - es: 8810 Zeilen aus dem Community-PR haben Text, aber Status `new`; nicht
   angefasst.
 
@@ -122,9 +123,10 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   `python3 glossary/build_en_us.py`; `tools/validate.py` erlaubt dafür
   Regionalordner wie `en_US` (Codepage von `en`). Offen bleiben nur 36 Zeilen
   ohne englischen Text (nur `polski`).
-- Stand 2026-11-09 abends (Branch `claude/translations-5`, auf upstream/main inkl. pt-PR von iahgod neu aufgesetzt):
-  offen sind 4_questy_05-13 (Rest), 5_boty_czat (Rest), Beschreibungen in 2_przedmioty_potwory und die
-  "check"-Zeilen in de/fr/pt/ro/tr (laut Projektinhaber pruefen, ggf. uebersetzen, auf done setzen).
+- Stand 2026-11-10 (Branch `claude/translations-5`): alle Sprachen zu 100 %
+  übersetzt, bis auf die 14 gesperrten Zeilen unten. 4_questy, 5_boty_czat und
+  alle Item-Beschreibungen (2_przedmioty_potwory, `i:desc`/`i:sum`) sind fertig;
+  alle `check`-Zeilen sind geprüft. Validator: 0 neue Fehler.
 - 14 Zeilen in 5_boty_czat_05/06 (`b:phrase:`, nur Polnisch, mit %s/%d/%u/%ld) lassen sich in keiner Sprache
   eintragen: tools/validate.py vergleicht die Variablen mit der leeren english-Spalte. Abhilfe upstream:
   English nachtragen oder im Validator bei leerer english-Spalte die polski-Spalte nehmen. Auch tr ist betroffen.
@@ -182,11 +184,9 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   (vor allem tr `5_boty_czat_*`: Variablen, die im Englischen fehlen).
 
 - `6_launcher_03.csv`, Zeile `l:e7d018eb4b06` („Blessing Scrolls from Metin
-  stones: chance changed from 5% to 1% …“) bleibt in de, fr, pt, ro, it, hu,
-  cs, nl, da, el, ru, ar und ko leer. Der Validator liest im Englischen
-  „5% to“ als Variable `% t` + `o` (printf-Leerzeichen-Flag) und findet
-  `ut`; jede Übersetzung ohne genau diese Zeichenfolge wird abgelehnt.
-  tr hat in dieser Zeile denselben Altfehler, es hat den englischen Text.
+  stones: chance changed from 5% to 1% …“): der Validator liest „5% to“ als
+  Variable (`% t` + `o`). Die Notiz der Zeile verlangt „keep: % to“, deshalb
+  steht in allen Sprachen wörtlich „5% to 1%“ (wie schon in es).
   Vorschlag ans Projekt: Englisch auf „5 % to 1 %“ oder „5 percent“ ändern
   oder die Regel im Validator anpassen.
 - ro: 6_launcher_02 „Sprijină proiectul“ (von uns, aus 1_klient_06 übernommen)
@@ -232,3 +232,16 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   umschreiben (sonst zeigt der Diff jede Zeile als geändert und es gibt Konflikte).
 - Validator-Falle: ein `|` direkt vor `E`, `e`, `H`, `h` oder `r` gilt als
   Farb-/Link-Code; Übersetzungen dürfen nach `|` nicht so beginnen.
+
+### Bestehende Zeilen mit Fehlern (upstream, nicht geändert)
+- de 2_przedmioty_potwory_10: Monsternamen „?????“ (u. a. m:name:8503 Bear,
+  8504 White Tiger, 8505 Black Giant Orc, 8506 Tree Frog Leader,
+  8508 Esoteric Tormentor).
+- ro 2_przedmioty_potwory_06: „Pyungmoo Saint Hwang (m)Ź“ – Zeichen „Ź“ zu viel;
+  ebenso „Indrumator de esoterica+Ź“.
+- ro 2_przedmioty_potwory_09/10: „Ş“ in Namen (Demon Şaman, Arcas Şarpe …),
+  obwohl ro sonst ohne Diakritika geschrieben ist.
+- fr/el/ru/ko: einige Namen „Spider Dungeon“/„Ghost Forest“ sind lateinisch
+  transliteriert statt in der Landesschrift.
+- ko: „오우거“ in zwei eigenen Zeilen auf „오거“ vereinheitlicht (wie upstream).
+

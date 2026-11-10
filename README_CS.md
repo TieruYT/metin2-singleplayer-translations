@@ -15,7 +15,7 @@ hry v dalších verzích.
 |---|---|
 | `template/` | všechny texty hry s prázdným sloupcem `translation`. Začátek nového jazyka. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | jazyky, které hra už má, s jejich současným překladem: oprav ho a doplň, co chybí (řádky se `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nové jazyky, už zčásti přeložené: doplň, co chybí (řádky se `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nové jazyky, celé přeložené s pomocí AI: rodilí mluvčí, opravte prosím, co nezní dobře. |
 | `en_US/` | americká angličtina: anglický zdrojový text (britský pravopis) v americkém pravopisu (color, armor, defense...). |
 | `tools/validate.py` | kontrola, kterou projde každý pull request. |
 
