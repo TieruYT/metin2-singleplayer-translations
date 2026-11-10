@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 p:58358c356a84,Max. HP +%d,Max PŻ: +%d,Maks. HP +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:01117c116082,Max. SP +%d,Max PE: +%d,Max. SP +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:01117c116082,Max. SP +%d,Max PE: +%d,Maks. SP +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:7505ed037a49,Vitality +%d,Witalność +%d,Canlılık +%d,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,Zeka +%d,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:88be89e0b9e3,Strength +%d,Siła: +%d,Güç +%d,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -62,7 +62,7 @@ p:c84fa2587ddc,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Şama
 p:1f83ddc18fb4,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Canavarlara karşı güçlü +%d%%,"APPLY_TEXTS[63][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:9ee5d4bd694f,Attack Value +%d%%,Wartość Ataku: +%d%%,Saldırı Değeri +%d%%,"APPLY_TEXTS[64][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:de6fc43c64bc,Defence +%d%%,Obrona: +%d%%,Savunma +%d%%,"APPLY_TEXTS[65][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:0bf3b96fbebf,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Eşya düşürme şansı %.1f ile çarpılır,"APPLY_TEXTS[67][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:fda3aeb92023,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Yang düşürme şansı %.1f ile çarpılır,"APPLY_TEXTS[68][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,Maks. HP +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -145,7 +145,7 @@ p:d345da7a3983,Biologist,Biolog,Biyolog,"BOT_AMBITION_LABELS[4] / MAP_I18N['rank
 p:e09212c7d3ea,Skills,Umiejętności,Beceriler,"BOT_AMBITION_LABELS[5] / MAP_I18N['rank_skills'] | the classic web panel (browser, UTF-8: any letter)",done
 p:b0811e470d6b,Trade,Handel,Ticaret,"BOT_AMBITION_LABELS[6] / MAP_I18N['gear_tab_trade'] | the classic web panel (browser, UTF-8: any letter)",done
 p:861c4f67e887,easy,łatwy,kolay,"BOT_DAILY_GOAL_DIFFICULTY[0] | the classic web panel (browser, UTF-8: any letter)",done
-p:9c2a6e4809ae,normal,normalny,normal,"BOT_DAILY_GOAL_DIFFICULTY[1] | the classic web panel (browser, UTF-8: any letter)",check
+p:9c2a6e4809ae,normal,normalny,normal,"BOT_DAILY_GOAL_DIFFICULTY[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:cae5970fc939,hard,trudny,zor,"BOT_DAILY_GOAL_DIFFICULTY[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:bab052f2a1e6,Gain a level,Wbić poziom,Seviye atla,"BOT_DAILY_GOAL_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8c6510578b95,Gain 2 levels,Wbić 2 poziomy,2 seviye atla,"BOT_DAILY_GOAL_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -177,7 +177,7 @@ p:9f39509fa926,Hunting mission,Misja Polowania,Av görevi,"BOT_GOAL_LABELS[10] |
 p:cd944c99eec2,Develop horse,Rozwój konia,At geliştirme,"BOT_GOAL_LABELS[11] | the classic web panel (browser, UTF-8: any letter)",done
 p:1913d000a541,Herb research,Badania ziół,Bitki araştırması,"BOT_GOAL_LABELS[13] | the classic web panel (browser, UTF-8: any letter)",done
 p:4e0fa4378f15,Poor,Słaby,Kötü,"BOT_MOOD_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",done
-p:45e118d0563e,Normal,Normalny,Normal,"BOT_MOOD_LABELS[1] / T['ai_pvpset_strength_1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:45e118d0563e,Normal,Normalny,Normal,"BOT_MOOD_LABELS[1] / T['ai_pvpset_strength_1'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f5babd392090,Very good,Bardzo dobry,Çok iyi,"BOT_MOOD_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3fa31d0538b0,refine euphoria,euforia po ulepszeniu,yükseltme coşkusu,"BOT_MOOD_LOCK_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:a20b536b37b6,capitulation (anti-PK),kapitulacja (Anty-PK),teslimiyet (Anti-PK),"BOT_MOOD_LOCK_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -218,10 +218,10 @@ p:3163a85fc381,Bonus Master,Mistrz Bonusów,Bonus Ustası,"BOT_PERSONA_LABELS[20
 p:41dc3110c0fa,Bargain Hunter,Łowca Okazji,Fırsat Avcısı,"BOT_PERSONA_LABELS[21] | the classic web panel (browser, UTF-8: any letter)",done
 p:b63f21fd8d7c,Daily Goal,Cel Dnia,Günün Hedefi,"BOT_PERSONA_LABELS[22] / MAP_I18N['daily_goal'] | the classic web panel (browser, UTF-8: any letter)",done
 p:945eda39d82d,Warrior,Wojownik,Savaşçı,"CLASS_NAMES[0] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
-p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:6f6596271da8,Shaman,Szaman,Şaman,"CLASS_NAMES[3] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",check
+p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",done
 p:cf4aa98d6a2a,a weaker blow than the weapon taken off: {a},słabszy cios niż zdjęta broń: {a},çıkarılan silahtan zayıf darbe: {a},"DECISION_ANOMALIES['blow_down'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:4804f0036f6f,a level-30 weapon replaced by another weapon,broń 30 lv zastąpiona inną bronią,30. seviye silah başka bir silahla değiştirildi,"DECISION_ANOMALIES['level30_off'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d8f4654502b6,listed as a spare while a tool was in the hand ({a}),"wystawione jako zapas, gdy w ręce było narzędzie ({a})",elde bir alet varken yedek olarak tezgâha kondu ({a}),"DECISION_ANOMALIES['tool_spare'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -279,7 +279,7 @@ p:f403de3ac3ab,horse medal,medal konny,at madalyonu,"DECISION_ENUMS['FIXED'][5] 
 p:eba8e06de737,Dried Head,Suszona Głowa,Küçülen Kafa,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,saç modeli,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
 p:b0b12884dbb6,Magic Dust,Magiczny Pył,Sihirli Toz,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
-p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",check
+p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (derece tablosundan),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,tezgâh açılışı,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:b6c935d4f3c7,min,min,dk,"DECISION_ENUMS['CLOCK_UNIT'][1] / T['unit_min'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -432,7 +432,7 @@ p:234787539762,a level-30 weapon family,rodzina broni 30 lv,30. seviye silah ail
 p:4b379de69232,the class's level-30 weapon,broń 30 lv tej klasy,sınıfın 30. seviye silahı,"DECISION_ROLES[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3d14efd7f548,a level-30 weapon project,projekt broni 30 lv,30. seviye silah projesi,"DECISION_ROLES[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:494193e923a9,a lines project,projekt bonusów,bonus projesi,"DECISION_ROLES[8] | the classic web panel (browser, UTF-8: any letter)",done
-p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",check
+p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",done
 p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,seviye için tutulan Stalki,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
 p:a68ea0574790,a higher-tier spare,zapas na wyższy stopień,üst kademe yedeği,"DECISION_ROLES[64] | the classic web panel (browser, UTF-8: any letter)",done
 p:359c623d2295,a backup,zapas,yedek,"DECISION_ROLES[128] | the classic web panel (browser, UTF-8: any letter)",done
@@ -479,7 +479,7 @@ p:88c99472ab2a,Unknown step,Nieznany krok,Bilinmeyen adım,"DECISION_STEPS[0][2]
 p:cc11b3a28fa3,Context,Kontekst,Bağlam,"DECISION_STEPS[1][2] / MAP_I18N['ex_context'] | the classic web panel (browser, UTF-8: any letter)",done
 p:12ad80de2ef2,"curve {value}, yang rate {a}, inflation {b} ({c} steps)","krzywa {value}, stawka yang {a}, inflacja {b} (kroków: {c})","eğri {value}, yang oranı {a}, enflasyon {b} ({c} adım)","DECISION_STEPS[1][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:8ef3a2cfe9cc,Bonus line,Linia bonusu,Bonus satırı,"DECISION_STEPS[2][2] | the classic web panel (browser, UTF-8: any letter)",done
-p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",check
+p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:36dec63eb9a5,Lines at the top,Linie na maksimum,Üst sınırdaki satırlar,"DECISION_STEPS[3][2] | the classic web panel (browser, UTF-8: any letter)",done
 p:fae8d9a96771,"{a} lines at the top, multiplier {value}","linii na maksimum: {a}, mnożnik {value}","üst sınırda {a} satır, çarpan {value}","DECISION_STEPS[3][3] | keep: {a} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:0e7d592cffc6,Bonus premium,Dopłata za bonusy,Bonus ek bedeli,"DECISION_STEPS[4][2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -686,15 +686,15 @@ p:5e361041bfd8,Names and levels,Nicki i poziomy,İsimler ve seviyeler,"MAP_I18N[
 p:6fe0d01b70d6,Party only (PT),Tylko w grupie (PT),Sadece grupta (PT),"MAP_I18N['pt_only'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a72085653e4,All,Wszystkie,Tümü,"MAP_I18N['all'] / MAP_I18N['gear_tab_all'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ab478f3efc84,Map,Mapa,Harita,"MAP_I18N['map'] / T['pl_map'] | the classic web panel (browser, UTF-8: any letter)",done
-p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8454362a7d5b,Chunjo guild map,Ziemia Klanu Chunjo,Chunjo Lonca Haritası,"MAP_I18N['m3'] | the classic web panel (browser, UTF-8: any letter)",done
-p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:74dc273555d1,Shinsoo guild map,Ziemia Klanu Shinsoo,Shinsoo Lonca Haritası,"MAP_I18N['s3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8be7a9b748c6,Shinsoo Monkey Dungeon,Loch Małp Shinsoo,Shinsoo Maymun Zindanı,"MAP_I18N['smonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,Jinno Lonca Haritası,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,Jinno Maymun Zindanı,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,Kolay Maymun Zindanı,"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
