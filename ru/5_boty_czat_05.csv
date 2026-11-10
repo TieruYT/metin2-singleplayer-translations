@@ -1,7 +1,7 @@
 id,english,polski,translation,notes,status
 b:value:mapa_dokad:52b3bc714cc0,into Colony,,v Koloniyu,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:96422792f401,into the Colony,,v Koloniyu,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
-b:value:mapa:7d8dbce35cec,Castle Battle,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:7d8dbce35cec,Castle Battle,,Bitva za zamok,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:add14801482e,in Castle Battle,,v Bitve za zamok,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:baaadba4a42b,in the Castle Battle,,v Bitve za zamok,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:07c49b66b602,to Castle Battle,,na Bitvu za zamok,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
@@ -84,8 +84,8 @@ b:value:nagroda_exp:885ccb1f2894,a little,,chut-chut,a value inside a bot chat l
 b:value:nagroda_exp:b39028df8e5d,some,,nemnogo,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
 b:value:nagroda_exp:9da4941dcc86,little,,malo,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
 b:value:nagroda_exp:4ce2a0424290,huge,,kucha,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
-b:value:opcja:6335a6f0ac18,Yes,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
-b:value:opcja:3cb1e607f711,No,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
+b:value:opcja:6335a6f0ac18,Yes,,Da,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
+b:value:opcja:3cb1e607f711,No,,Net,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
 b:value:punkt:17b56a6d61f7,by the blacksmith,,u kuznetsa,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:1bdf40b04d2e,by the storekeeper,,u kladovshchika,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:d108ba9a34b3,by the general store,,u lavki,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
@@ -97,41 +97,41 @@ b:value:punkt:7603a9c0f685,by the teleporter,,u teleportera,a value inside a bot
 b:value:punkt:3d82432fea57,by the guard,,u strazhnika,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:491e3d01d71a,at the fountain,,u fontana,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:4e317a8624d9,at the gate,,u vorot,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
-b:value:miejsce:62399958a7d0,in the north,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:25c9fdfa2b65,in the south,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:56781c2cf224,in the east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:b1adc724b507,in the west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:78df13c74ede,in the north-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:9f4176845969,in the north-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:c83226783f92,in the south-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:a5421a8d6445,in the south-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:cf1d1430599c,in the middle of the map,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:62399958a7d0,in the north,,na severe,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:25c9fdfa2b65,in the south,,na yuge,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:56781c2cf224,in the east,,na vostoke,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:b1adc724b507,in the west,,na zapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:78df13c74ede,in the north-east,,na severo-vostoke,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:9f4176845969,in the north-west,,na severo-zapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:c83226783f92,in the south-east,,na yugo-vostoke,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:a5421a8d6445,in the south-west,,na yugo-zapade,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:cf1d1430599c,in the middle of the map,,v centre karty,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:2aa68e64f3a9,in the middle,,v tsentre,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
-b:value:miejsce:3ea23e849e26,in town,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:3ea23e849e26,in town,,v gorode,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:17b56a6d61f7,by the blacksmith,,u kuznetsa,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:event:a7cd6b386f9e,chest,,sunduki,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:d6bf2ac8e5aa,exp,,exp,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
-b:value:event:0261947d160e,drop,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:0261947d160e,drop,,drop,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:5dd1e336e60a,OX,,OX,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
-b:value:event:abe13955878a,fishing,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:abe13955878a,fishing,,rybalka,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:7c6fbb10a935,okey,,okey,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:723fcc6c751b,hunt,,okhota,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:zyczenie:5cd5483e4bed,necklace 4 bonuses,,ozherele s 4 bonusami,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:86da28dd7421,weapon,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:53b9fc7320a7,armour,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:37138e64438a,helmet,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:8586cd8f19ae,shield,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:2e7dcf330923,bracelet,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:160b70583efd,necklace,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:bbd25e33b194,earrings,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:86da28dd7421,weapon,,oruzhie,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:53b9fc7320a7,armour,,bronya,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:37138e64438a,helmet,,shlem,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:8586cd8f19ae,shield,,shchit,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:2e7dcf330923,bracelet,,braslet,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:160b70583efd,necklace,,ozherele,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:bbd25e33b194,earrings,,sergi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:99a58151ea37,shoes,,sapogi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:867b1ac0df2f,belt,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:867b1ac0df2f,belt,,poyas,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:bon:befc8e0c69d7,15% crit,,15% crit,a value inside a bot chat line ({bon}) | keep: % c | ASCII letters only (no accents),done
 b:value:bon:ae38a493622a,crit,,krit,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:e8bf090f86c6,pierce,,probitie,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:9580bf1c7b07,avg,,avg,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:742277ef94a1,avg dmg,,sred. uron,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
-b:value:bon:48b1dea554e4,skill,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
+b:value:bon:48b1dea554e4,skill,,skill,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:d1eb04c08ce3,skill dmg,,uron umenii,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:13bff01a10db,half-humans,,polulyudi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:dc21f5379a5a,half-human,,poluchelovek,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
@@ -177,7 +177,7 @@ b:value:zyczenie:f468476ac9b4,something better,,chto-to poluchshe,a value inside
 b:value:zyczenie:3cde15c10dd6,an int piece for buffs,,int shmotku pod baffy,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:0e186c39ef10,something,,chto-nibud,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:9580bf1c7b07,avg,,avg,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:cf89261ff21e,bonuses,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:cf89261ff21e,bonuses,,bonusy,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:462d8778a8b9,with hp,,s hp,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:e23b059cf0f1,with crit,,s kritom,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:333ed85ed18f,with pierce,,s probitiem,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
@@ -213,7 +213,7 @@ b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,Pauchie podzemelie 2,a value insi
 b:value:miejsce:2c795176ca49,Spider Dungeon,,Pauchie podzemelie,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:b31499e63c9b,Monkey Dungeon II,,Obezyanie podzemelie II,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:70b0bb28251c,Monkey Dungeon III,,Obezyanie podzemelie III,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
-b:value:event:69701ca9cd50,experience,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:69701ca9cd50,experience,,opyt,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:76c98b350b4d,drop chance,,shans dropa,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:e9f23cd8afb5,yang from monsters,,yang s monstrov,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:857c886d74ce,Moonlight Treasure Chests drop from monsters and Metin stones,,Sunduki lunnogo sveta padayut s monstrov i metinov,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
@@ -649,53 +649,53 @@ b:phrase:2229da6583bc,Off %s to shop. Back when I'm done.,,"Иду %s за по�
 b:phrase:86c72e2689be,Costumes are switched off on this server.,,Костюмы на этом сервере отключены.,"a phrase the server says (bots' help, notices)",done
 b:phrase:c548694c309f,Only a Bleach takes a hairstyle off: put one in your companion's bag and right-click it.,,Причёску снимает только Осветлитель: положи его в сумку компаньона и нажми на него правой кнопкой.,"a phrase the server says (bots' help, notices)",done
 b:phrase:24f62bce6137,That is not for your companion's sex.,,Это не подходит для пола компаньона.,"a phrase the server says (bots' help, notices)",done
-b:phrase:b64d93faab41,That is not for your companion's class.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:28a1e24aa3cc,"Your companion's level is too low (needs %ld, has %d).",,,"a phrase the server says (bots' help, notices) | keep: %ld %d",new
-b:phrase:90891f38977f,Your companion has too little %s (needs %ld).,,,"a phrase the server says (bots' help, notices) | keep: %s %ld",new
-b:phrase:5ff2b2b7dbe8,Your companion already wears something of the same group.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:feca66e85d41,Your companion has no room in its bag.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b3a0f5a97be5,That cannot be taken off now - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:bde5cfa1320d,Taken off. Your companion will not put it on by itself (unpin it so it can again).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:34b63a89ed44,Your companion already wears that.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d950963ec11e,That does not go in that place.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,,"a phrase the server says (bots' help, notices) | keep: %d %u",new
-b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,,"a phrase the server says (bots' help, notices) | keep: %d %u",new
-b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:b64d93faab41,That is not for your companion's class.,,Это не для класса твоего компаньона.,"a phrase the server says (bots' help, notices)",done
+b:phrase:28a1e24aa3cc,"Your companion's level is too low (needs %ld, has %d).",,"Уровень твоего компаньона слишком низкий (нужно %ld, есть %d).","a phrase the server says (bots' help, notices) | keep: %ld %d",done
+b:phrase:90891f38977f,Your companion has too little %s (needs %ld).,,У твоего компаньона слишком мало %s (нужно %ld).,"a phrase the server says (bots' help, notices) | keep: %s %ld",done
+b:phrase:5ff2b2b7dbe8,Your companion already wears something of the same group.,,Твой компаньон уже носит что-то из той же группы.,"a phrase the server says (bots' help, notices)",done
+b:phrase:feca66e85d41,Your companion has no room in its bag.,,У твоего компаньона нет места в сумке.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b3a0f5a97be5,That cannot be taken off now - try again in a moment.,,Это сейчас нельзя снять - попробуй ещё раз через минуту.,"a phrase the server says (bots' help, notices)",done
+b:phrase:bde5cfa1320d,Taken off. Your companion will not put it on by itself (unpin it so it can again).,,"Снято. Твой компаньон не наденет это сам (открепи, чтобы он снова мог).","a phrase the server says (bots' help, notices)",done
+b:phrase:34b63a89ed44,Your companion already wears that.,,Твой компаньон уже это носит.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d950963ec11e,That does not go in that place.,,Это не подходит для этого места.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,"То, что на нём там надето, снять нельзя.","a phrase the server says (bots' help, notices)",done
+b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,Надето. Твой компаньон не снимет это сам.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,"Наденет, как только закончит удар.","a phrase the server says (bots' help, notices)",done
+b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.","Наденет, как только закончит бить.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,"У меня нет места в сумке для того, что сниму. Надену, как только освободится.","a phrase the server says (bots' help, notices)",done
+b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,Сейчас не могу это надеть - попробую ещё раз через минуту.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,Краска не действует на причёску - сначала сними её Осветлителем.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,У твоего компаньона нет места в сумке для причёски.,"a phrase the server says (bots' help, notices)",done
+b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,Это сейчас нельзя использовать - попробуй ещё раз через минуту.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,Причёска осталась - попробуй ещё раз через минуту.,"a phrase the server says (bots' help, notices)",done
+b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,Причёска снята и лежит в сумке компаньона. Теперь можно надеть другую.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,Этот предмет сейчас занят.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,Камни дракона здесь передать нельзя.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,Добавлено в стопку компаньона: %d из %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,Добавлено в твою стопку: %d из %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,"У компаньона нет места в сумке, чтобы снять это - сначала вынь что-нибудь из его сумки.","a phrase the server says (bots' help, notices)",done
+b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,Сначала сними это в сумку компаньона - надетую вещь уничтожить нельзя.,"a phrase the server says (bots' help, notices)",done
 b:phrase:428e6ef00a33,Only an item of your companion's bag can be destroyed.,,Уничтожить можно только предмет из сумки компаньона.,"a phrase the server says (bots' help, notices)",done
-b:phrase:3c558e5dde53,A wrong order - update the client.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6df0f99cf491,There is no Dragon Stone there.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:df46ed21e70e,Take your stone off into Alchemy first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fa06bfaadd84,Cannot equip now - retry after the blow (Alchemy needs level 30 and the system enabled).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a6a0111b2b7c,"No room in your companion's Alchemy, or the worn stone is busy.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5db48babbec4,No room in your companion's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:dd98923fb774,The stone stayed in Alchemy - try again shortly.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a357663af4a9,Stone equipped and pinned. The Alchemy deck is on if the stone has time left.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:807d20d974f0,Take the stone off into Alchemy first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a0d4c5b18394,No room for that stone in the recipient's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d00c1ac02c07,Cannot take the stone off: make room in your companion's Alchemy and retry shortly.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ecdeed6935f1,The stone is in your Alchemy window.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d109977bad80,The stone is in your companion's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c39a046c5d37,You don't have that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5dfbf4e87080,Your companion doesn't have that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7aa8c630142a,Your companion can't hold that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5ab8b0247fc4,You can't hold that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:96e5c9c6d47b,I stop fishing and come back to you.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c5e0daa9a770,"I'm fishing right here by the water. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:307c589a26ce,I'm playing on my own now. Call me first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:9b6854456949,"My equipment is locked, and a rod goes in the hand. Unlock it in Options.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:20bd1af599f8,I can't get to the water from here.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:3c558e5dde53,A wrong order - update the client.,,Неверный порядок - обнови клиент.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,Твой компаньон уже переместил это - ничего не уничтожено.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6df0f99cf491,There is no Dragon Stone there.,,Там нет Камня дракона.,"a phrase the server says (bots' help, notices)",done
+b:phrase:df46ed21e70e,Take your stone off into Alchemy first.,,Сначала сними свой камень в Алхимию.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fa06bfaadd84,Cannot equip now - retry after the blow (Alchemy needs level 30 and the system enabled).,,Сейчас нельзя надеть - попробуй после удара (для Алхимии нужен 30 уровень и включённая система).,"a phrase the server says (bots' help, notices)",done
+b:phrase:a6a0111b2b7c,"No room in your companion's Alchemy, or the worn stone is busy.",,"В Алхимии компаньона нет места, или надетый камень занят.","a phrase the server says (bots' help, notices)",done
+b:phrase:5db48babbec4,No room in your companion's Alchemy.,,В Алхимии компаньона нет места.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dd98923fb774,The stone stayed in Alchemy - try again shortly.,,Камень остался в Алхимии - попробуй ещё раз чуть позже.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a357663af4a9,Stone equipped and pinned. The Alchemy deck is on if the stone has time left.,,"Камень надет и закреплён. Колода Алхимии активна, если у камня осталось время.","a phrase the server says (bots' help, notices)",done
+b:phrase:807d20d974f0,Take the stone off into Alchemy first.,,Сначала сними камень в Алхимию.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0d4c5b18394,No room for that stone in the recipient's Alchemy.,,В Алхимии получателя нет места для этого камня.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d00c1ac02c07,Cannot take the stone off: make room in your companion's Alchemy and retry shortly.,,Нельзя снять камень: освободи место в Алхимии компаньона и попробуй чуть позже.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ecdeed6935f1,The stone is in your Alchemy window.,,Камень в твоём окне Алхимии.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d109977bad80,The stone is in your companion's Alchemy.,,Камень в Алхимии компаньона.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c39a046c5d37,You don't have that much yang.,,У тебя нет столько Янг.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5dfbf4e87080,Your companion doesn't have that much yang.,,У компаньона нет столько Янг.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7aa8c630142a,Your companion can't hold that much yang.,,Компаньон не может нести столько Янг.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5ab8b0247fc4,You can't hold that much yang.,,Ты не можешь нести столько Янг.,"a phrase the server says (bots' help, notices)",done
+b:phrase:96e5c9c6d47b,I stop fishing and come back to you.,,Заканчиваю рыбалку и возвращаюсь к тебе.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5e0daa9a770,"I'm fishing right here by the water. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,"Я рыбачу прямо здесь, у воды. Рыба идёт мне в сумку. Позови меня (Позвать или снова Рыбалка), когда мне вернуться.","a phrase the server says (bots' help, notices)",done
+b:phrase:307c589a26ce,I'm playing on my own now. Call me first.,,Сейчас я играю сам по себе. Сначала позови меня.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9b6854456949,"My equipment is locked, and a rod goes in the hand. Unlock it in Options.",,"Моё снаряжение заблокировано, а удочку надо держать в руке. Разблокируй его в Настройках.","a phrase the server says (bots' help, notices)",done
+b:phrase:20bd1af599f8,I can't get to the water from here.,,Отсюда мне не добраться до воды.,"a phrase the server says (bots' help, notices)",done
