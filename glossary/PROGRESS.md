@@ -8,22 +8,22 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| de | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| es | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| it | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| ro | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| hu | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| nl | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| cs | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| el | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| ru | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| pt | 5750/5750 | 10016/10016 | 1014/1014 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35812/35826 (100.0%) |
-| da | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| ar | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| ko | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
-| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3709/3723 | 2308/2308 | 4414/4414 | 35814/35828 (100.0%) |
+| fr | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| es | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| it | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ro | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| hu | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| nl | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| cs | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| el | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ru | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| pt | 5750/5750 | 10016/10016 | 1014/1014 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35826/35826 (100.0%) |
+| da | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ar | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ko | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -233,15 +233,27 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 - Validator-Falle: ein `|` direkt vor `E`, `e`, `H`, `h` oder `r` gilt als
   Farb-/Link-Code; Übersetzungen dürfen nach `|` nicht so beginnen.
 
-### Bestehende Zeilen mit Fehlern (upstream, nicht geändert)
-- de 2_przedmioty_potwory_10: Monsternamen „?????“ (u. a. m:name:8503 Bear,
-  8504 White Tiger, 8505 Black Giant Orc, 8506 Tree Frog Leader,
-  8508 Esoteric Tormentor).
-- ro 2_przedmioty_potwory_06: „Pyungmoo Saint Hwang (m)Ź“ – Zeichen „Ź“ zu viel;
-  ebenso „Indrumator de esoterica+Ź“.
-- ro 2_przedmioty_potwory_09/10: „Ş“ in Namen (Demon Şaman, Arcas Şarpe …),
-  obwohl ro sonst ohne Diakritika geschrieben ist.
-- fr/el/ru/ko: einige Namen „Spider Dungeon“/„Ghost Forest“ sind lateinisch
-  transliteriert statt in der Landesschrift.
-- ko: „오우거“ in zwei eigenen Zeilen auf „오거“ vereinheitlicht (wie upstream).
-
+### Korrekturen nach Rückmeldung des Projekts (Stand 2026-11-10, Branch `claude/translations-6`)
+- 14 Bot-Zeilen ohne Englisch (5_boty_czat_05/06): der Validator prüft sie jetzt
+  gegen den polnischen Text; in allen Sprachen eingetragen, en_US auf Englisch.
+  `glossary/batch.py` prüft solche Zeilen ebenfalls gegen das Polnische.
+- es: 9.071 übersetzte Zeilen von `new` auf `done` gesetzt (CRLF-Dateien byte-gleich).
+- de: Monsternamen „?????“ und kaputt kodierte Namen (koreanisch in falscher
+  Codepage) korrigiert; m:name:9013 „Vulkangestein“ → „Event-Helfer“.
+- Namen, die im englischen Template selbst „????“ sind (m:name:1096, 8608–8611,
+  20120–20125, 33001), haben jetzt in allen Sprachen echte Namen nach tr
+  (z. B. Wahrer Dämonenkönig, Neunschwanz, Blauer Panzertiger,
+  Schädel des Abenteurers). Das Template sollte upstream ebenfalls Englisch
+  bekommen (True Demon King, Nine Tails, Yellow Tiger Ghost,
+  Blue/Red/Yellow/Green/Black/White Armored Tiger, Adventurer's Skull).
+- fr/pt/en_US: kaputt kodierte Namen (Armored Panda, Baby Azrael, Bao Bao,
+  Chubby Mini Executioner, Cobra Outfit) ersetzt.
+- ro: überzähliges „Ź“ entfernt, alle Diakritika entfernt (ă â î ș ş ț ţ),
+  deutsche/spanische Itemnamen und kaputt kodierte Namen rumänisch übersetzt,
+  m:name:9013 „Roca volcánica“ → „Ajutor la evenimente“.
+- Ortsnamen in fr/el/ru/ko/ar in lateinischer Schrift: das sind nur
+  Bot-Chat-Werte ({mapa} usw.) mit der Notiz „ASCII letters only“; laut README
+  tippen Bots nur a–z. Sie bleiben daher so (kein Fehler).
+- Offen: de 2_przedmioty_potwory_09–15 enthält rund 1.400 Zeilen mit englischer
+  Rückübersetzung statt Deutsch (z. B. „Football equipment for men in black and
+  white“, „Corponis powerful. Rank: Noble …“).
