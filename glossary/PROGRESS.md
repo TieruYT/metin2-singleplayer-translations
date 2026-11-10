@@ -254,6 +254,8 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 - Ortsnamen in fr/el/ru/ko/ar in lateinischer Schrift: das sind nur
   Bot-Chat-Werte ({mapa} usw.) mit der Notiz „ASCII letters only“; laut README
   tippen Bots nur a–z. Sie bleiben daher so (kein Fehler).
-- Offen: de 2_przedmioty_potwory_09–15 enthält rund 1.400 Zeilen mit englischer
-  Rückübersetzung statt Deutsch (z. B. „Football equipment for men in black and
-  white“, „Corponis powerful. Rank: Noble …“).
+- de 2_przedmioty_potwory_12–15: 1.414 Item-Beschreibungen enthielten eine
+  englische Rückübersetzung statt Deutsch (z. B. „Football equipment for men in
+  black and white“, „Corponis powerful. Rank: Noble …“). Alle neu auf Deutsch
+  übersetzt (TP/MP, Begriffe wie in den bestehenden Itemnamen: Drachendiamant,
+  Cor Draconis (edel/kostbar …), Fußballtrikot, Lykaner).
