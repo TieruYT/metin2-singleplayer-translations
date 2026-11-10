@@ -1,126 +1,126 @@
 id,english,polski,translation,notes,status
-b:phrase:9504de8d513b,"I'm fishing here. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d77be6fb7e76,"Off %s to fish. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,,"a phrase the server says (bots' help, notices) | keep: %s",new
+b:phrase:9504de8d513b,"I'm fishing here. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,"Rybařím tady. Ryby jdou do mého batohu. Zavolej mě (Zavolat, nebo znovu Rybaření), až se mám vrátit.","a phrase the server says (bots' help, notices)",done
+b:phrase:d77be6fb7e76,"Off %s to fish. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,"Jdu %s na ryby. Ryby jdou do mého batohu. Zavolej mě (Zavolat, nebo znovu Rybaření), až se mám vrátit.","a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:2627d8afc63e,,"Ide %s lowic ryby. Ryby trafia do mojego plecaka. Zawolaj mnie (Przywolaj albo jeszcze raz Lowienie), kiedy mam wrocic.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:58d0f8c35ff4,"I have horse medals (%d), but the stable keeper takes the next one only from character level %d - I am %d.",,,"a phrase the server says (bots' help, notices) | keep: %d %d %d",new
-b:phrase:b088f5d07cbc,"I have horse medals (%d), but the stable keeper charges 100000 yang for each and I can spend %lld. Give me yang in a trade.",,,"a phrase the server says (bots' help, notices) | keep: %d %lld",new
-b:phrase:ac7078cd6296,"The battle horse is waiting at the stable keeper, but it costs %lld yang and I have %lld. Give me yang in a trade.",,,"a phrase the server says (bots' help, notices) | keep: %lld %lld",new
-b:phrase:af2c24007224,"The military horse is waiting at the stable keeper, but it costs 100000 yang and I can spend %lld. Give me yang in a trade.",,,"a phrase the server says (bots' help, notices) | keep: %lld",new
-b:phrase:b03320db930c,"My horse is level %d: the stable keeper's trial begins with a Horse Medal, and I have none. Give me one in a trade.",,,"a phrase the server says (bots' help, notices) | keep: %d",new
-b:phrase:05446a8b0de9,My horse is level 20: only the military horse trial in the Demon Tower takes it further (%d/%d). I'll keep the medals.,,,"a phrase the server says (bots' help, notices) | keep: %d %d",new
-b:phrase:f5e6bf3a932d,My horse is level 10: the next medal only after the battle horse trial - the archers in the Yongbi Desert (%d/%d). I'll keep the medals.,,,"a phrase the server says (bots' help, notices) | keep: %d %d",new
-b:phrase:42fad33c0111,My horse is already at its highest level - medals do nothing for it.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8ec9a1cc5da4,I handed the stable keeper my medals (%d) - my horse is level %d now.,,,"a phrase the server says (bots' help, notices) | keep: %d %d",new
-b:phrase:fe68b0b0e766,I handed the stable keeper a Horse Medal - starting the military horse trial in the Demon Tower.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:f64d4dc9140d,I handed the stable keeper a Horse Medal - starting the battle horse trial in the Yongbi Desert.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:0122510e8808,I collected my horse from the stable keeper - it is level %d now.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
-b:phrase:152686210549,You walked away from the stable keeper - I'll hand in the rest of the medals when you stand by him again.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:228b3782fb39,You spend the stat points now.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d99ea39d4985,Your companion spends the stat points again.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b967dcc68bb6,Your companion is transformed right now - the stats will wait.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ca6567871881,Your companion has no stat points left.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3764c211aa15,%s: +%d (now %d). Points left: %d. You spend them now.,,,"a phrase the server says (bots' help, notices) | keep: %s %d %d %d",new
-b:phrase:a38ea8e108d3,That stat cannot go any higher (90 is the most).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:84172dad3504,Your companion has used its free stat reset already.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5dfb0f82dc94,Your companion is transformed right now - the reset will wait.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d9bfd2c958da,The stats are back where they started. You have %d points to spend.,,,"a phrase the server says (bots' help, notices) | keep: %d",new
-b:phrase:0a665c7c76f8,Your companion is not in the game now.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:cbdd1f5a87eb,Not enough of my own yang for available counters.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:f2543d87f591,No goods on counters in my town and channel.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b5c61937cd95,Counters only have stacks larger than the target.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:e6303a0fc92a,,Czekam na potwierdzenie sklepu; nie ponawiam zakupu.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:4a9e29ba7c67,Going to the stable keeper to hand in my horse medals (%d).,,,"a phrase the server says (bots' help, notices) | keep: %d",new
-b:phrase:4049eee3c2e1,Going to the stable keeper for my horse.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:68bfcbca2507,"This Book of Forgetfulness is for the skill %s, %s - it stays in the bag.%s",,,"a phrase the server says (bots' help, notices) | keep: %s %s %s",new
-b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the skill window - that is the try for Master (chance %d%%).,,,"a phrase the server says (bots' help, notices) | keep: %s %d %d",new
-b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,,"a phrase the server says (bots' help, notices) | keep: %s %d %d",new
-b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,,"a phrase the server says (bots' help, notices) | keep: %s",new
+b:phrase:58d0f8c35ff4,"I have horse medals (%d), but the stable keeper takes the next one only from character level %d - I am %d.",,"Mám Koňské medaile (%d), ale Podkoní vezme další až od úrovně postavy %d - já mám %d.","a phrase the server says (bots' help, notices) | keep: %d %d %d",done
+b:phrase:b088f5d07cbc,"I have horse medals (%d), but the stable keeper charges 100000 yang for each and I can spend %lld. Give me yang in a trade.",,"Mám Koňské medaile (%d), ale Podkoní chce za každou 100 000 Yang a já můžu utratit %lld. Dej mi Yang přes obchod.","a phrase the server says (bots' help, notices) | keep: %d %lld",done
+b:phrase:ac7078cd6296,"The battle horse is waiting at the stable keeper, but it costs %lld yang and I have %lld. Give me yang in a trade.",,"Bojový kůň čeká u Podkoního, ale stojí %lld Yang a já mám %lld. Dej mi Yang přes obchod.","a phrase the server says (bots' help, notices) | keep: %lld %lld",done
+b:phrase:af2c24007224,"The military horse is waiting at the stable keeper, but it costs 100000 yang and I can spend %lld. Give me yang in a trade.",,"Vojenský kůň čeká u Podkoního, ale stojí 100 000 Yang a já můžu utratit %lld. Dej mi Yang přes obchod.","a phrase the server says (bots' help, notices) | keep: %lld",done
+b:phrase:b03320db930c,"My horse is level %d: the stable keeper's trial begins with a Horse Medal, and I have none. Give me one in a trade.",,Můj kůň má úroveň %d: zkouška u Podkoního začíná Koňskou medailí a já žádnou nemám. Dej mi jednu přes obchod.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:05446a8b0de9,My horse is level 20: only the military horse trial in the Demon Tower takes it further (%d/%d). I'll keep the medals.,,Můj kůň má úroveň 20: dál ho posune jen zkouška Vojenského koně ve Věži démonů (%d/%d). Medaile si nechám.,"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:f5e6bf3a932d,My horse is level 10: the next medal only after the battle horse trial - the archers in the Yongbi Desert (%d/%d). I'll keep the medals.,,Můj kůň má úroveň 10: další medaile až po zkoušce Bojového koně - lučištníci v Poušti Yongbi (%d/%d). Medaile si nechám.,"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:42fad33c0111,My horse is already at its highest level - medals do nothing for it.,,Můj kůň už má nejvyšší úroveň - medaile mu nic nedají.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8ec9a1cc5da4,I handed the stable keeper my medals (%d) - my horse is level %d now.,,Dal jsem Podkonímu své medaile (%d) - můj kůň má teď úroveň %d.,"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:fe68b0b0e766,I handed the stable keeper a Horse Medal - starting the military horse trial in the Demon Tower.,,Dal jsem Podkonímu Koňskou medaili - začíná zkouška Vojenského koně ve Věži démonů.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f64d4dc9140d,I handed the stable keeper a Horse Medal - starting the battle horse trial in the Yongbi Desert.,,Dal jsem Podkonímu Koňskou medaili - začíná zkouška Bojového koně v Poušti Yongbi.,"a phrase the server says (bots' help, notices)",done
+b:phrase:0122510e8808,I collected my horse from the stable keeper - it is level %d now.,,Vyzvedl jsem si koně u Podkoního - teď má úroveň %d.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:152686210549,You walked away from the stable keeper - I'll hand in the rest of the medals when you stand by him again.,,"Odešel jsi od Podkoního - zbytek medailí odevzdám, až budeš zase u něj.","a phrase the server says (bots' help, notices)",done
+b:phrase:228b3782fb39,You spend the stat points now.,,Body vlastností teď rozděluješ ty.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d99ea39d4985,Your companion spends the stat points again.,,Tvůj společník zase rozděluje body vlastností sám.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b967dcc68bb6,Your companion is transformed right now - the stats will wait.,,Tvůj společník je teď přeměněný - vlastnosti počkají.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ca6567871881,Your companion has no stat points left.,,Tvůj společník už nemá žádné body vlastností.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3764c211aa15,%s: +%d (now %d). Points left: %d. You spend them now.,,%s: +%d (nyní %d). Zbývá bodů: %d. Teď je rozděluješ ty.,"a phrase the server says (bots' help, notices) | keep: %s %d %d %d",done
+b:phrase:a38ea8e108d3,That stat cannot go any higher (90 is the most).,,Tahle vlastnost už nemůže jít výš (90 je maximum).,"a phrase the server says (bots' help, notices)",done
+b:phrase:84172dad3504,Your companion has used its free stat reset already.,,Tvůj společník už využil svůj bezplatný reset vlastností.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5dfb0f82dc94,Your companion is transformed right now - the reset will wait.,,Tvůj společník je teď přeměněný - reset počká.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d9bfd2c958da,The stats are back where they started. You have %d points to spend.,,Vlastnosti jsou zpátky na začátku. Máš %d bodů k rozdělení.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:0a665c7c76f8,Your companion is not in the game now.,,Tvůj společník teď není ve hře.,"a phrase the server says (bots' help, notices)",done
+b:phrase:cbdd1f5a87eb,Not enough of my own yang for available counters.,,Nemám dost vlastních Yang na dostupné stánky.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f2543d87f591,No goods on counters in my town and channel.,,Na stáncích v mém městě a kanálu není žádné zboží.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b5c61937cd95,Counters only have stacks larger than the target.,,"Stánky mají jen stohy větší, než je cíl.","a phrase the server says (bots' help, notices)",done
+b:phrase:e6303a0fc92a,,Czekam na potwierdzenie sklepu; nie ponawiam zakupu.,Čekám na potvrzení obchodu; nákup neopakuju.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:4a9e29ba7c67,Going to the stable keeper to hand in my horse medals (%d).,,Jdu k Podkonímu odevzdat své Koňské medaile (%d).,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:4049eee3c2e1,Going to the stable keeper for my horse.,,Jdu k Podkonímu pro koně.,"a phrase the server says (bots' help, notices)",done
+b:phrase:68bfcbca2507,"This Book of Forgetfulness is for the skill %s, %s - it stays in the bag.%s",,"Tahle Kniha zapomnění je pro dovednost %s, %s - zůstane v batohu.%s","a phrase the server says (bots' help, notices) | keep: %s %s %s",done
+b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the skill window - that is the try for Master (chance %d%%).,,Kniha zapomnění přečtena: %s na %d. Přidej bod v okně dovedností - to je pokus o Mistra (šance %d%%).,"a phrase the server says (bots' help, notices) | keep: %s %d %d",done
+b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Kniha zapomnění přečtena: %s znovu na %d, žádný Mistr. Další kniha je další pokus (šance %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
+b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Kniha zapomnění přečtena: %s - Mistr!,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Dokument pro reset dovedností použit: %s - Mistr!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:3c6b183d348f,(none),,(žádný),"a phrase the server says (bots' help, notices)",done
-b:phrase:c973b309cbd4,which is not at 17,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:756868c5df0d,"Skill Reset Document used: %s from zero, the points wait in the skill window. The first skill to reach 17 becomes Master.",,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:dc56c6d3aa4a,Skill Reset Document used: %s at %d. Master at 17.,,,"a phrase the server says (bots' help, notices) | keep: %s %d",new
-b:phrase:b76f60243858,At 17 without Master: %s. Give me a Book of Forgetfulness for that skill%s - I'll read it and try for Master (chance %d%%).,,,"a phrase the server says (bots' help, notices) | keep: %s %s %d",new
-b:phrase:191e4ded6396,"I'd fish with you, but my equipment is locked.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5069c3a3e095,"I'd fish with you, but my level is too low for a rod.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fc64ac042a3c,"I'd fish with you, but I have no rod and bait, and nobody sells them here.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b6d58ed78546,I found no place by the water beside you.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a6e79514f1e6,,Tez lowie - staje obok ciebie.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:195c5408f7a6,My marble is of a monster too high for my level.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:9e1a54fae5c2,"My bag is almost full. Stand by a merchant or press ""Go shopping"" (P) - I'll sell the junk. Whatever you want to keep, take from my bag (the Companion window).",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1f87fc9d3910,You spend the skill points now.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c0930fa56af5,Your companion spends the skill points again.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:127b4c86c441,Your companion has no path yet (it gets one at level 5).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:494e62a6df2e,That is not one of your companion's skills.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c073c9914da9,Your companion has no skill points left.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:f4a5e6169d70,Only books and spirit stones raise that skill now.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a02ec3be7acd,"At 17 a skill waits for its Master - from there only books, or a reset at the Old Woman.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:f9ed1f6ddb8a,Skill at level %d%s. You spend the points now.,,,"a phrase the server says (bots' help, notices) | keep: %d %s",new
-b:phrase:bf7db12500ad,That did not work - your companion's level is too low for that skill.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:04f3106e6d8c,That skill is at zero already.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:cf7622a01694,"Books of Forgetfulness read: %d, %s stands at %d - the engine would not take the rest.",,,"a phrase the server says (bots' help, notices) | keep: %d %s %d",new
-b:phrase:3646752bc602,"Books of Forgetfulness read: %d - %s from zero, the points wait in the window.",,,"a phrase the server says (bots' help, notices) | keep: %d %s",new
-b:phrase:47697c9f4505,The Skill Reset Document did not work.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3ab88e4aa0d4,"Skill Reset Document used: %s from zero, the points wait in the window. The next skill to reach 17 becomes Master.",,,"a phrase the server says (bots' help, notices) | keep: %s",new
-b:phrase:eef6cb30f375,A Book of Forgetfulness does not take a Master back - put a Skill Reset Document in your companion's bag.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c5ca9d33ea7e,"Zero takes %d Books of Forgetfulness for this skill, your companion's bag holds %d - or put a Skill Reset Document in it.",,,"a phrase the server says (bots' help, notices) | keep: %d %d",new
-b:phrase:a0a41f495cee,"Not now - try when your companion is not transformed, not down and not trading.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:23cafe795b60,Companions are unavailable right now - the database does not answer.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2f4886e61e8e,Companions are switched off on this server (the server owner turns them on in the launcher).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b7bc41d30c53,Your companion is still getting ready - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:2f59116919b0,"Your companion is busy right now (a trade, the storeroom or the blacksmith) - try again in a moment.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fdcadbc9e07f,"Close the trade, shop or storeroom first.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:20ba8b07988c,Your companion is transformed right now - the gear change waits until the transformation ends.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8063aaf28048,That place is for Dragon Stones only.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:52424e29c93c,Drag it into your companion's bag.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1660be89fa32,Your companion may put that on by itself again.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c8d84a0e0336,Unpinned. Your companion chooses what it wears there by itself again.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:22c62a077ae6,You have no companion yet - choose one in the Companion letter.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ede4160f66ab,"I am closing the shop, but I can do it only on channel 1. Come with me to channel 1.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:da66355d24e9,,"Zamykam sklep, ale stoi on w wiosce na innym serwerze gry niz ta mapa. Zamkne go, gdy tam wrocimy.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:db5291d4b4a5,"I am closing the shop, but it stands in a village on another game server than this map. I will close it once we are back there.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:144bc9508ad7,"I am closing the shop: I have to walk to it, and it stands in another village. Come there with me, or give me a free hand and I will go on my own.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:579bd83bee64,I am closing the shop: I have no room in my bag for the returned goods. Make room in my bag.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:49a4f2994823,I will close the shop once I finish the fight or your order.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:dcecc1ec0f0b,I did not open the shop: I have nothing beyond what I keep for myself.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:99ab2a23ad40,I set up my shop only on channel 1. Come with me to channel 1.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:067290a58fb5,My first village is on another game server than this map. I will set up my shop once we are back there.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:e6ae912463b5,I will set up my shop when you stand with me in any kingdom's first village on channel 1. Or give me a free hand and I will go on my own to my kingdom's village.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:402331c233b0,My shop stands in another village. I will see to it when you come there with me. Or give me a free hand and I will go on my own.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:55ebc501266d,I will see to my shop once I finish the fight or your order.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:abef7af61b1a,"All right, when you transform I use my own marble of the same monster - without asking.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:38861baf1642,"All right, in a fight with monsters I use the marbles in my bag myself (yours first). Transformed I fight hand to hand, without skills or buffs.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1b1581fbcd63,"All right, I use no polymorph marbles and do not ask about them.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:901d9e816b70,"All right, when you transform I ask whether to use my marble of the same monster.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:71e763fb4773,"Use: /towarzysz polymorph ask (after you transform), with (with you, no question), always (also on its own in a fight) or off",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:bb17e6bb5093,"All right, while you ride I fight from my battle horse - no skills, only the swing. I cast buffs on foot.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:80ccd6b9823e,"All right, I climb off my horse for every fight and fight on foot, with my skills.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3912a806f1f6,"All right, I choose myself: as a Shaman or a black-magic Sura I climb off to use my skills, otherwise I fight from my battle horse while you ride.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d3515aa49c05,"All right, first I hit the archers and casters attacking you, me or the party - then the rest.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:9bb6066ebed5,"All right, I hit what you hit, then whatever is nearest.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:67d15a798d7c,Uzyj: /towarzysz luruj 1 (lurowanie wlaczone) albo /towarzysz luruj 0,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:91c3f5559fef,"All right, when you leave the game, I play on alone - at most 30 levels above yours, so we can still level together in a party.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c1cd255b9039,"All right, when you leave the game, I leave with you.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:f7e23fb28e39,Use: /towarzysz solo on (I play on when you leave the game) or /towarzysz solo off,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:bac1a5fce80d,Uzyj: /towarzysz skrzynki 1 (sam otwieram skrzynie) albo /towarzysz skrzynki 0,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fd661c246a56,"All right, I don't join any party by myself - only when I am invited.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:e3258fda32ca,"All right, I join your party even when someone else leads it - if there is still room in it for one more person.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:bf67b2f1ab13,Use: /towarzysz party on (I join your party whoever leads it) or /towarzysz party off,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7203243b1ea3,"Turn the filter on with the ""Filter"" button in the Companion window (Orders, Drop) - I then take the kinds ticked in Auto Hunt. Turn it off there or: /towarzysz filter off",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:cd035e8dc5d7,Use: /towarzysz lock on (I leave my equipment alone) or /towarzysz lock off,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:0f718179c0b4,"All right, I keep my Dragon Coins. Dragon Coin vouchers stay in my bag - you can take them in the Companion window.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3dd3e22dbe48,"All right, I spend my Dragon Coins in the Item Shop on what I need, and cash the vouchers in my bag. I'll tell you of every purchase.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5c2dfc89e7e8,Use: /towarzysz coins on (I spend Dragon Coins in the Item Shop) or /towarzysz coins off (I keep them),,,"a phrase the server says (bots' help, notices)",new
-b:phrase:e2579319f8b0,I pick up the whole drop: yours and mine.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:4fef4217b4cf,"When you are about to die, I'll pull the monsters onto me.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d61de2a09d0e,I won't pull monsters off you.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:4297d607482b,Bede cie buffowac (jesli umiem).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:195157488cfe,Shop closed - there was nothing on it.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d149acf0e7e8,I will close the shop on the next safe visit. Leave room in the bag for returns. Goods stay safely on the closed counter until collected.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fe697299338e,Call me first and finish trading or the current shopping trip.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:45796fd3f8e2,Awaiting the previous shop confirmation.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:c973b309cbd4,which is not at 17,,která není na 17,"a phrase the server says (bots' help, notices)",done
+b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Reset"" v okně dovedností ho spotřebuje.","a phrase the server says (bots' help, notices)",done
+b:phrase:756868c5df0d,"Skill Reset Document used: %s from zero, the points wait in the skill window. The first skill to reach 17 becomes Master.",,"Dokument pro reset dovedností použit: %s od nuly, body čekají v okně dovedností. První dovednost, která dosáhne 17, se stane Mistrem.","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:dc56c6d3aa4a,Skill Reset Document used: %s at %d. Master at 17.,,Dokument pro reset dovedností použit: %s na %d. Mistr na 17.,"a phrase the server says (bots' help, notices) | keep: %s %d",done
+b:phrase:b76f60243858,At 17 without Master: %s. Give me a Book of Forgetfulness for that skill%s - I'll read it and try for Master (chance %d%%).,,Na 17 bez Mistra: %s. Dej mi Knihu zapomnění pro tu dovednost%s - přečtu ji a zkusím Mistra (šance %d%%).,"a phrase the server says (bots' help, notices) | keep: %s %s %d",done
+b:phrase:191e4ded6396,"I'd fish with you, but my equipment is locked.",,"Rybařil bych s tebou, ale moje výbava je zamčená.","a phrase the server says (bots' help, notices)",done
+b:phrase:5069c3a3e095,"I'd fish with you, but my level is too low for a rod.",,"Rybařil bych s tebou, ale mám moc nízkou úroveň na prut.","a phrase the server says (bots' help, notices)",done
+b:phrase:fc64ac042a3c,"I'd fish with you, but I have no rod and bait, and nobody sells them here.",,"Rybařil bych s tebou, ale nemám prut ani návnadu a nikdo je tu neprodává.","a phrase the server says (bots' help, notices)",done
+b:phrase:b6d58ed78546,I found no place by the water beside you.,,Nenašel jsem vedle tebe místo u vody.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a6e79514f1e6,,Tez lowie - staje obok ciebie.,Taky rybařím - stoupnu si vedle tebe.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:195c5408f7a6,My marble is of a monster too high for my level.,,"Moje kulička je z monstra, které je na mou úroveň moc vysoko.","a phrase the server says (bots' help, notices)",done
+b:phrase:9e1a54fae5c2,"My bag is almost full. Stand by a merchant or press ""Go shopping"" (P) - I'll sell the junk. Whatever you want to keep, take from my bag (the Companion window).",,"Batoh mám skoro plný. Stoupni si k obchodníkovi nebo stiskni ""Jít nakupovat"" (P) - prodám harampádí. Co si chceš nechat, vezmi z mého batohu (okno Společník).","a phrase the server says (bots' help, notices)",done
+b:phrase:1f87fc9d3910,You spend the skill points now.,,Body dovedností teď rozděluješ ty.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c0930fa56af5,Your companion spends the skill points again.,,Tvůj společník zase rozděluje body dovedností sám.,"a phrase the server says (bots' help, notices)",done
+b:phrase:127b4c86c441,Your companion has no path yet (it gets one at level 5).,,Tvůj společník ještě nemá cestu (dostane ji na úrovni 5).,"a phrase the server says (bots' help, notices)",done
+b:phrase:494e62a6df2e,That is not one of your companion's skills.,,To není dovednost tvého společníka.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c073c9914da9,Your companion has no skill points left.,,Tvůj společník už nemá žádné body dovedností.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f4a5e6169d70,Only books and spirit stones raise that skill now.,,Tuhle dovednost teď zvyšují jen knihy a duchovní kameny.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a02ec3be7acd,"At 17 a skill waits for its Master - from there only books, or a reset at the Old Woman.",,"Na 17 čeká dovednost na Mistra - odtud už jen knihy, nebo reset u stařeny.","a phrase the server says (bots' help, notices)",done
+b:phrase:f9ed1f6ddb8a,Skill at level %d%s. You spend the points now.,,Dovednost na úrovni %d%s. Body teď rozděluješ ty.,"a phrase the server says (bots' help, notices) | keep: %d %s",done
+b:phrase:bf7db12500ad,That did not work - your companion's level is too low for that skill.,,To nevyšlo - úroveň tvého společníka je na tu dovednost moc nízká.,"a phrase the server says (bots' help, notices)",done
+b:phrase:04f3106e6d8c,That skill is at zero already.,,Ta dovednost už je na nule.,"a phrase the server says (bots' help, notices)",done
+b:phrase:cf7622a01694,"Books of Forgetfulness read: %d, %s stands at %d - the engine would not take the rest.",,"Přečtené Knihy zapomnění: %d, %s je na %d - engine zbytek nepřijal.","a phrase the server says (bots' help, notices) | keep: %d %s %d",done
+b:phrase:3646752bc602,"Books of Forgetfulness read: %d - %s from zero, the points wait in the window.",,"Přečtené Knihy zapomnění: %d - %s od nuly, body čekají v okně.","a phrase the server says (bots' help, notices) | keep: %d %s",done
+b:phrase:47697c9f4505,The Skill Reset Document did not work.,,Dokument pro reset dovedností nefungoval.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3ab88e4aa0d4,"Skill Reset Document used: %s from zero, the points wait in the window. The next skill to reach 17 becomes Master.",,"Dokument pro reset dovedností použit: %s od nuly, body čekají v okně. Další dovednost, která dosáhne 17, se stane Mistrem.","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:eef6cb30f375,A Book of Forgetfulness does not take a Master back - put a Skill Reset Document in your companion's bag.,,Kniha zapomnění Mistra nevezme zpět - dej Dokument pro reset dovedností do batohu společníka.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5ca9d33ea7e,"Zero takes %d Books of Forgetfulness for this skill, your companion's bag holds %d - or put a Skill Reset Document in it.",,"Na nulu je pro tuhle dovednost potřeba %d Knih zapomnění, batoh společníka jich má %d - nebo do něj dej Dokument pro reset dovedností.","a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:a0a41f495cee,"Not now - try when your companion is not transformed, not down and not trading.",,"Teď ne - zkus to, až tvůj společník nebude přeměněný, na zemi ani v obchodu.","a phrase the server says (bots' help, notices)",done
+b:phrase:23cafe795b60,Companions are unavailable right now - the database does not answer.,,Společníci teď nejsou dostupní - databáze neodpovídá.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2f4886e61e8e,Companions are switched off on this server (the server owner turns them on in the launcher).,,Společníci jsou na tomto serveru vypnutí (majitel serveru je zapne v launcheru).,"a phrase the server says (bots' help, notices)",done
+b:phrase:b7bc41d30c53,Your companion is still getting ready - try again in a moment.,,Tvůj společník se ještě připravuje - zkus to za chvilku znovu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2f59116919b0,"Your companion is busy right now (a trade, the storeroom or the blacksmith) - try again in a moment.",,"Tvůj společník je teď zaneprázdněný (obchod, sklad nebo kovář) - zkus to za chvilku znovu.","a phrase the server says (bots' help, notices)",done
+b:phrase:fdcadbc9e07f,"Close the trade, shop or storeroom first.",,"Nejdřív zavři obchod, krámek nebo sklad.","a phrase the server says (bots' help, notices)",done
+b:phrase:20ba8b07988c,Your companion is transformed right now - the gear change waits until the transformation ends.,,"Tvůj společník je teď přeměněný - výměna výbavy počká, až přeměna skončí.","a phrase the server says (bots' help, notices)",done
+b:phrase:8063aaf28048,That place is for Dragon Stones only.,,To místo je jen pro Dračí kameny.,"a phrase the server says (bots' help, notices)",done
+b:phrase:52424e29c93c,Drag it into your companion's bag.,,Přetáhni to do batohu společníka.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1660be89fa32,Your companion may put that on by itself again.,,Tvůj společník si to zase může nasadit sám.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c8d84a0e0336,Unpinned. Your companion chooses what it wears there by itself again.,,"Odepnuto. Tvůj společník si zase sám vybírá, co tam nosí.","a phrase the server says (bots' help, notices)",done
+b:phrase:22c62a077ae6,You have no companion yet - choose one in the Companion letter.,,Ještě nemáš společníka - vyber si ho v dopise „Společník“.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ede4160f66ab,"I am closing the shop, but I can do it only on channel 1. Come with me to channel 1.",,"Zavírám obchod, ale jde to jen na kanálu 1. Pojď se mnou na kanál 1.","a phrase the server says (bots' help, notices)",done
+b:phrase:da66355d24e9,,"Zamykam sklep, ale stoi on w wiosce na innym serwerze gry niz ta mapa. Zamkne go, gdy tam wrocimy.","Zavírám obchod, ale stojí ve vesnici na jiném herním serveru než tahle mapa. Zavřu ho, až se tam vrátíme.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:db5291d4b4a5,"I am closing the shop, but it stands in a village on another game server than this map. I will close it once we are back there.",,"Zavírám obchod, ale stojí ve vesnici na jiném herním serveru než tahle mapa. Zavřu ho, jakmile tam zase budeme.","a phrase the server says (bots' help, notices)",done
+b:phrase:144bc9508ad7,"I am closing the shop: I have to walk to it, and it stands in another village. Come there with me, or give me a free hand and I will go on my own.",,"Zavírám obchod: musím k němu dojít a stojí v jiné vesnici. Pojď tam se mnou, nebo mi dej volnou ruku a půjdu sám.","a phrase the server says (bots' help, notices)",done
+b:phrase:579bd83bee64,I am closing the shop: I have no room in my bag for the returned goods. Make room in my bag.,,Zavírám obchod: nemám v batohu místo na vrácené zboží. Udělej mi místo v batohu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:49a4f2994823,I will close the shop once I finish the fight or your order.,,"Zavřu obchod, jakmile dokončím boj nebo tvůj rozkaz.","a phrase the server says (bots' help, notices)",done
+b:phrase:dcecc1ec0f0b,I did not open the shop: I have nothing beyond what I keep for myself.,,"Obchod jsem neotevřel: nemám nic kromě toho, co si nechávám pro sebe.","a phrase the server says (bots' help, notices)",done
+b:phrase:99ab2a23ad40,I set up my shop only on channel 1. Come with me to channel 1.,,Svůj obchod stavím jen na kanálu 1. Pojď se mnou na kanál 1.,"a phrase the server says (bots' help, notices)",done
+b:phrase:067290a58fb5,My first village is on another game server than this map. I will set up my shop once we are back there.,,"Moje první vesnice je na jiném herním serveru než tahle mapa. Obchod postavím, jakmile tam zase budeme.","a phrase the server says (bots' help, notices)",done
+b:phrase:e6ae912463b5,I will set up my shop when you stand with me in any kingdom's first village on channel 1. Or give me a free hand and I will go on my own to my kingdom's village.,,"Obchod postavím, až se mnou budeš stát v první vesnici kteréhokoli království na kanálu 1. Nebo mi dej volnou ruku a půjdu sám do vesnice svého království.","a phrase the server says (bots' help, notices)",done
+b:phrase:402331c233b0,My shop stands in another village. I will see to it when you come there with me. Or give me a free hand and I will go on my own.,,"Můj obchod stojí v jiné vesnici. Postarám se o něj, až tam půjdeš se mnou. Nebo mi dej volnou ruku a půjdu sám.","a phrase the server says (bots' help, notices)",done
+b:phrase:55ebc501266d,I will see to my shop once I finish the fight or your order.,,"Postarám se o obchod, jakmile dokončím boj nebo tvůj rozkaz.","a phrase the server says (bots' help, notices)",done
+b:phrase:abef7af61b1a,"All right, when you transform I use my own marble of the same monster - without asking.",,"Dobře, když se přeměníš, použiju vlastní kuličku stejného monstra - bez ptaní.","a phrase the server says (bots' help, notices)",done
+b:phrase:38861baf1642,"All right, in a fight with monsters I use the marbles in my bag myself (yours first). Transformed I fight hand to hand, without skills or buffs.",,"Dobře, v boji s monstry používám kuličky z batohu sám (nejdřív tvoje). Přeměněný bojuju zblízka, bez dovedností a buffů.","a phrase the server says (bots' help, notices)",done
+b:phrase:1b1581fbcd63,"All right, I use no polymorph marbles and do not ask about them.",,"Dobře, nepoužívám Kuličky přeměny a neptám se na ně.","a phrase the server says (bots' help, notices)",done
+b:phrase:901d9e816b70,"All right, when you transform I ask whether to use my marble of the same monster.",,"Dobře, když se přeměníš, zeptám se, jestli mám použít svou kuličku stejného monstra.","a phrase the server says (bots' help, notices)",done
+b:phrase:71e763fb4773,"Use: /towarzysz polymorph ask (after you transform), with (with you, no question), always (also on its own in a fight) or off",,"Použití: /towarzysz polymorph ask (po tvé přeměně), with (s tebou, bez ptaní), always (i sám v boji) nebo off","a phrase the server says (bots' help, notices)",done
+b:phrase:bb17e6bb5093,"All right, while you ride I fight from my battle horse - no skills, only the swing. I cast buffs on foot.",,"Dobře, když jedeš na koni, bojuju z bojového koně - bez dovedností, jen máchnutím. Buffy sesílám pěšky.","a phrase the server says (bots' help, notices)",done
+b:phrase:80ccd6b9823e,"All right, I climb off my horse for every fight and fight on foot, with my skills.",,"Dobře, na každý boj slézám z koně a bojuju pěšky, se svými dovednostmi.","a phrase the server says (bots' help, notices)",done
+b:phrase:3912a806f1f6,"All right, I choose myself: as a Shaman or a black-magic Sura I climb off to use my skills, otherwise I fight from my battle horse while you ride.",,"Dobře, rozhodnu se sám: jako Šaman nebo Sura černé magie slezu, abych použil dovednosti, jinak bojuju z bojového koně, zatímco jedeš.","a phrase the server says (bots' help, notices)",done
+b:phrase:d3515aa49c05,"All right, first I hit the archers and casters attacking you, me or the party - then the rest.",,"Dobře, nejdřív mlátím lučištníky a kouzelníky, kteří útočí na tebe, na mě nebo na skupinu - pak zbytek.","a phrase the server says (bots' help, notices)",done
+b:phrase:9bb6066ebed5,"All right, I hit what you hit, then whatever is nearest.",,"Dobře, mlátím to, co mlátíš ty, pak to, co je nejblíž.","a phrase the server says (bots' help, notices)",done
+b:phrase:67d15a798d7c,Uzyj: /towarzysz luruj 1 (lurowanie wlaczone) albo /towarzysz luruj 0,,Použití: /towarzysz luruj 1 (lákání zapnuto) nebo /towarzysz luruj 0,"a phrase the server says (bots' help, notices)",done
+b:phrase:91c3f5559fef,"All right, when you leave the game, I play on alone - at most 30 levels above yours, so we can still level together in a party.",,"Dobře, když odejdeš ze hry, hraju dál sám - nejvýš 30 úrovní nad tebou, abychom ještě mohli levelovat spolu v party.","a phrase the server says (bots' help, notices)",done
+b:phrase:c1cd255b9039,"All right, when you leave the game, I leave with you.",,"Dobře, když odejdeš ze hry, odejdu s tebou.","a phrase the server says (bots' help, notices)",done
+b:phrase:f7e23fb28e39,Use: /towarzysz solo on (I play on when you leave the game) or /towarzysz solo off,,"Použití: /towarzysz solo on (hraju dál, když odejdeš ze hry) nebo /towarzysz solo off","a phrase the server says (bots' help, notices)",done
+b:phrase:bac1a5fce80d,Uzyj: /towarzysz skrzynki 1 (sam otwieram skrzynie) albo /towarzysz skrzynki 0,,Použití: /towarzysz skrzynki 1 (truhly otvírám sám) nebo /towarzysz skrzynki 0,"a phrase the server says (bots' help, notices)",done
+b:phrase:fd661c246a56,"All right, I don't join any party by myself - only when I am invited.",,"Dobře, do žádné party se sám nepřidám - jen když mě pozvou.","a phrase the server says (bots' help, notices)",done
+b:phrase:e3258fda32ca,"All right, I join your party even when someone else leads it - if there is still room in it for one more person.",,"Dobře, přidám se do tvé party, i když ji vede někdo jiný - pokud je v ní ještě místo pro jednoho.","a phrase the server says (bots' help, notices)",done
+b:phrase:bf67b2f1ab13,Use: /towarzysz party on (I join your party whoever leads it) or /towarzysz party off,,"Použití: /towarzysz party on (přidám se do tvé party, ať ji vede kdokoli) nebo /towarzysz party off","a phrase the server says (bots' help, notices)",done
+b:phrase:7203243b1ea3,"Turn the filter on with the ""Filter"" button in the Companion window (Orders, Drop) - I then take the kinds ticked in Auto Hunt. Turn it off there or: /towarzysz filter off",,"Zapni filtr tlačítkem ""Filtr"" v okně Společník (Rozkazy, Drop) - pak beru druhy zaškrtnuté v Automatickém lovu. Vypni ho tam nebo: /towarzysz filter off","a phrase the server says (bots' help, notices)",done
+b:phrase:cd035e8dc5d7,Use: /towarzysz lock on (I leave my equipment alone) or /towarzysz lock off,,Použití: /towarzysz lock on (na výbavu nesahám) nebo /towarzysz lock off,"a phrase the server says (bots' help, notices)",done
+b:phrase:0f718179c0b4,"All right, I keep my Dragon Coins. Dragon Coin vouchers stay in my bag - you can take them in the Companion window.",,"Dobře, nechám si své Dračí mince. Poukázky na Dračí mince zůstávají v mém batohu - můžeš si je vzít v okně Společník.","a phrase the server says (bots' help, notices)",done
+b:phrase:3dd3e22dbe48,"All right, I spend my Dragon Coins in the Item Shop on what I need, and cash the vouchers in my bag. I'll tell you of every purchase.",,"Dobře, Dračí mince utrácím v Obchodě s předměty za to, co potřebuju, a poukázky v batohu proměním. O každém nákupu ti dám vědět.","a phrase the server says (bots' help, notices)",done
+b:phrase:5c2dfc89e7e8,Use: /towarzysz coins on (I spend Dragon Coins in the Item Shop) or /towarzysz coins off (I keep them),,Použití: /towarzysz coins on (utrácím Dračí mince v Obchodě s předměty) nebo /towarzysz coins off (nechám si je),"a phrase the server says (bots' help, notices)",done
+b:phrase:e2579319f8b0,I pick up the whole drop: yours and mine.,,Sbírám celý drop: tvůj i můj.,"a phrase the server says (bots' help, notices)",done
+b:phrase:4fef4217b4cf,"When you are about to die, I'll pull the monsters onto me.",,"Když budeš skoro mrtvý, stáhnu monstra na sebe.","a phrase the server says (bots' help, notices)",done
+b:phrase:d61de2a09d0e,I won't pull monsters off you.,,Monstra z tebe stahovat nebudu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:4297d607482b,Bede cie buffowac (jesli umiem).,,Budu tě buffovat (pokud to umím).,"a phrase the server says (bots' help, notices)",done
+b:phrase:195157488cfe,Shop closed - there was nothing on it.,,Obchod zavřen - nic v něm nebylo.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d149acf0e7e8,I will close the shop on the next safe visit. Leave room in the bag for returns. Goods stay safely on the closed counter until collected.,,"Obchod zavřu při další bezpečné návštěvě. Nech v batohu místo na vrácené věci. Zboží zůstane bezpečně na zavřeném stánku, dokud se nevyzvedne.","a phrase the server says (bots' help, notices)",done
+b:phrase:fe697299338e,Call me first and finish trading or the current shopping trip.,,Nejdřív mě zavolej a dokonči obchod nebo současný nákup.,"a phrase the server says (bots' help, notices)",done
+b:phrase:45796fd3f8e2,Awaiting the previous shop confirmation.,,Čekám na předchozí potvrzení obchodu.,"a phrase the server says (bots' help, notices)",done
 b:phrase:a06fb3db0a40,Cancel the order before reducing its quantity.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:c8dd7ba53d0c,Order accepted. I'll pay with my own yang and return after shopping.,,,"a phrase the server says (bots' help, notices)",new
 b:phrase:85d3c828f0c0,I did not open the shop: I lack the yang for the shop fee and the Bundle.,,,"a phrase the server says (bots' help, notices)",new
