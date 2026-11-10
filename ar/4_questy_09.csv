@@ -334,57 +334,57 @@ q:pkg:g:oxevent._170_say,OX contest: registration completed. ,Konkurs OX:[ENTER]
 q:pkg:g:oxevent._180_select,Start a quiz ,Zadaj pytanie ,بدء مسابقة ,quest dialog (the game's quests: oxevent),done
 q:pkg:g:oxevent._190_select,Restart event ,Restart Konkursu ,إعادة تشغيل الحدث ,quest dialog (the game's quests: oxevent),done
 q:pkg:g:oxevent._195_select,End event ,Zakończ Wydarzenie ,إنهاء الحدث ,quest dialog (the game's quests: oxevent),done
-q:pkg:g:oxevent._200_say,The quiz could not be started. ,Konkurs nie został uruchomiony. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._20_say,"Hey - you! Yes, you - you look like an intelligent[ENTER]person... There is a contest called the OX[ENTER]Contest. You can show off your knowledge in it. If[ENTER]you win, you will get a nice reward. ","Hej - ty! Tak, ty - wyglądasz na inteligentną[ENTER]osobę... Jest konkurs, który nazywa sie Konkurs[ENTER]OX. Możesz wykazać się w nim swoją wiedzą.[ENTER]Jeżeli wygrasz, otrzymasz niezłą nagrodę. ",,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._210_say,The quiz has been started successfully. ,Pytanie zostało zadane pomyślnie. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._220_say,Error! The quiz could not be started. ,Błąd! Pytanie nie zostało zadane. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._230_say,OX contest: Is being restarted...  ,Konkurs OX: Zostanie uruchomiony. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._240_notice_all,A new round of the OX contest is going to start[ENTER]in a few moments. ,Za chwilę start kolejnej rundy. Uczestnicy[ENTER]ostatniej rundy zostaną przeniesieni do miasta. ,,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:oxevent._241_notice_all,All participants of the last round are going to[ENTER]be teleported to the city. ,Wszyscy uczestnicy ostatniej Rundy zostaną[ENTER]przeniesieni do miasta. ,,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:oxevent._250_say,OX contest: Closing ,Konkurs-OX: Zamknij ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._260_notice_all,The OX contest will be finishing in a few moments. ,Za chwilę koniec Konkursu OX. Wszyscy uczestnicy[ENTER]zostaną przeniesieni do miasta. ,,"quest dialog (the game's quests: oxevent), said to everybody",new
-q:pkg:g:oxevent._261_notice_all,All participants are going to be teleported to[ENTER]the city. ,Wszyscy uczestnicy zostaną przeniesieni do miasta. ,,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:oxevent._270_say,OX contest: Quiz is running right now ,Konkurs OX: Konkurs właśnie trwa... ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._280_sayReward,Please wait a moment. ,Proszę chwilkę poczekać. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._290_say,OX contest: Out of service. ,Konkurs-OX: nie do użycia. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._300_npcChat,OX contest: Cancel ,Konkurs OX: Anuluj ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._30_say,"I can let you participate in the contest once it[ENTER]starts.[ENTER]The starting time has not been set yet.[ENTER]I'll let you know when it's time, so be ready! ","Kiedy Konkurs się zacznie, pozwolę ci wziąć w nim[ENTER]udział.[ENTER]Czas rozpoczęcia nie jest jeszcze ustalony.[ENTER]Dam ci znać, jak już będzie, więc bądź gotowy. ",,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._310_say,OX contest: Cancel[ENTER]Unexpected problems could occur! Do you really[ENTER]want to continue? ,Konkurs OX: Anuluj[ENTER]Mogą wystąpić nieoczekiwane problemy! Kontynuować? ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._320_select,"Yes, cancel the event. ","Tak, anuluj Konkurs. ",,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._330_say,OX contest: Has been cancelled. ,Konkurs OX został anulowany. ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._340_npcChat,OX contest: Reward ,Konkurs OX: Nagroda ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._350_say,OX contest: Reward[ENTER]Every participant will get a reward. Please enter[ENTER]the item number here: ,Konkurs OX: Nagroda[ENTER]Każdy uczestnik otrzyma nagrodę.[ENTER]Proszę podać nr przedmiotu: ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._360_say,Please add the quantity of items[ENTER]here:  ,Proszę podać ilość: ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._370_say,The reward has been given to player %s. ,Nagrodę otrzymało %s. graczy. ,,quest dialog (the game's quests: oxevent) | keep: %s,new
-q:pkg:g:oxevent._40_say,"Do you want to join? Of course, you can also just watch. ",Chcesz dołączyć? Oczywiście możesz też po prostu popatrzeć ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._50_say,Do you want to try it? Okay - then let's get[ENTER]going. ,Chcesz spróbować?[ENTER]Okej - więc zaczynajmy. ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._60_say,The contest has already started. I'm afraid you[ENTER]cannot participate this time. The next contest[ENTER]will probably start very soon though. I'll let[ENTER]you know when the time comes. ,Konkurs już się rozpoczął. Niestety tym razem nie[ENTER]możesz wziąć udziału! Kolejny konkurs na pewno[ENTER]wystartuje już niedługo. Na pewno będziesz o tym[ENTER]wiedział... Nadal jednak możesz obserwować[ENTER]zawody! Chcesz chociaż pooglądać? ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:oxevent._70_npcChat,OX contest: Start ,Konkurs OX: Start ,,quest dialog (the game's quests: oxevent),new
-q:pkg:g:oxevent._80_say,OX contest: Start[ENTER]The OX contest will be started if you click this.[ENTER]Do you really want to start the contest? ,Konkurs OX: Start[ENTER]Po uaktywnieniu tej opcji Konkurs OX zostanie[ENTER]uruchomiony. Czy na pewno chcesz to zrobić? ,,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,new
-q:pkg:g:patrol_townaround._100_sayReward,You reached patrol point 3. ,Dotarłeś do 3. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._10_makequestbutton,Patrol point 5 ,Punkt Patrolowy 5 ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._110_makequestbutton,Patrol point 2 ,Punkt Patrolowy 2 ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._120_say,Go to patrol point 2. ,Idź do 2. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._130_sayReward,You reached patrol point 2. ,Osiągnąłeś punkt patrolowy numer 2. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._140_makequestbutton,Patrol point 1 ,Punkt Patrolowy 1 ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._150_say,Go to patrol point 1. ,Idź do 1. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._160_sayReward,You reached patrol point 1. ,Osiągnąłeś punkt patrolowy numer 1. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._170_say,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._180_say,You have reached patrol point 4. ,Dotarłeś do 4. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._190_say,Go to patrol point 3. ,Udaj się do trzeciego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._200_say,You reached patrol point 3. ,Dotarłeś do 3. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._20_sayReward,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._210_say,Go to patrol point 2. ,Idź do 2. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._220_say,You reached patrol point 2. ,Osiągnąłeś punkt patrolowy numer 2. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._230_say,Go to patrol point 1. ,Idź do 1. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._240_say,You reached patrol point 1. ,Osiągnąłeś punkt patrolowy numer 1. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._250_makequestbutton,Patrol point 5 ,Punkt Patrolowy 5 ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._260_sayTitle,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._270_say,You reached patrol point 5. ,Osiągnąłeś punkt patrolowy numer 5. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._280_makequestbutton,Patrol point 6 ,Punkt Patrolowy 6 ,,quest dialog (the game's quests: patrol_townaround),new
+q:pkg:g:oxevent._200_say,The quiz could not be started. ,Konkurs nie został uruchomiony. ,تعذر بدء المسابقة. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._20_say,"Hey - you! Yes, you - you look like an intelligent[ENTER]person... There is a contest called the OX[ENTER]Contest. You can show off your knowledge in it. If[ENTER]you win, you will get a nice reward. ","Hej - ty! Tak, ty - wyglądasz na inteligentną[ENTER]osobę... Jest konkurs, który nazywa sie Konkurs[ENTER]OX. Możesz wykazać się w nim swoją wiedzą.[ENTER]Jeżeli wygrasz, otrzymasz niezłą nagrodę. ",مهلًا، أنت! نعم، أنت - تبدو شخصًا[ENTER]ذكيًا... هناك مسابقة تُدعى مسابقة[ENTER]OX. يمكنك أن تستعرض فيها معرفتك.[ENTER]إن فزت فستحصل على مكافأة جميلة. ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._210_say,The quiz has been started successfully. ,Pytanie zostało zadane pomyślnie. ,بدأت المسابقة بنجاح. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._220_say,Error! The quiz could not be started. ,Błąd! Pytanie nie zostało zadane. ,خطأ! تعذر بدء المسابقة. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._230_say,OX contest: Is being restarted...  ,Konkurs OX: Zostanie uruchomiony. ,مسابقة OX: جارٍ إعادة التشغيل...  ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._240_notice_all,A new round of the OX contest is going to start[ENTER]in a few moments. ,Za chwilę start kolejnej rundy. Uczestnicy[ENTER]ostatniej rundy zostaną przeniesieni do miasta. ,ستبدأ جولة جديدة من مسابقة OX[ENTER]بعد لحظات. ,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",done
+q:pkg:g:oxevent._241_notice_all,All participants of the last round are going to[ENTER]be teleported to the city. ,Wszyscy uczestnicy ostatniej Rundy zostaną[ENTER]przeniesieni do miasta. ,سيُنقل جميع المشاركين في الجولة الأخيرة[ENTER]إلى المدينة. ,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",done
+q:pkg:g:oxevent._250_say,OX contest: Closing ,Konkurs-OX: Zamknij ,مسابقة OX: الإغلاق ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._260_notice_all,The OX contest will be finishing in a few moments. ,Za chwilę koniec Konkursu OX. Wszyscy uczestnicy[ENTER]zostaną przeniesieni do miasta. ,ستنتهي مسابقة OX بعد لحظات. ,"quest dialog (the game's quests: oxevent), said to everybody",done
+q:pkg:g:oxevent._261_notice_all,All participants are going to be teleported to[ENTER]the city. ,Wszyscy uczestnicy zostaną przeniesieni do miasta. ,سيُنقل جميع المشاركين[ENTER]إلى المدينة. ,"quest dialog (the game's quests: oxevent), said to everybody | keep: [ENTER] = new line",done
+q:pkg:g:oxevent._270_say,OX contest: Quiz is running right now ,Konkurs OX: Konkurs właśnie trwa... ,مسابقة OX: المسابقة جارية الآن ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._280_sayReward,Please wait a moment. ,Proszę chwilkę poczekać. ,يرجى الانتظار لحظة. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._290_say,OX contest: Out of service. ,Konkurs-OX: nie do użycia. ,مسابقة OX: خارج الخدمة. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._300_npcChat,OX contest: Cancel ,Konkurs OX: Anuluj ,مسابقة OX: إلغاء ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._30_say,"I can let you participate in the contest once it[ENTER]starts.[ENTER]The starting time has not been set yet.[ENTER]I'll let you know when it's time, so be ready! ","Kiedy Konkurs się zacznie, pozwolę ci wziąć w nim[ENTER]udział.[ENTER]Czas rozpoczęcia nie jest jeszcze ustalony.[ENTER]Dam ci znać, jak już będzie, więc bądź gotowy. ",يمكنني أن أسمح لك بالمشاركة[ENTER]في المسابقة حالما تبدأ.[ENTER]لم يُحدد وقت البدء بعد.[ENTER]سأخبرك حين يحين الوقت، فكن مستعدًا! ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._310_say,OX contest: Cancel[ENTER]Unexpected problems could occur! Do you really[ENTER]want to continue? ,Konkurs OX: Anuluj[ENTER]Mogą wystąpić nieoczekiwane problemy! Kontynuować? ,مسابقة OX: إلغاء[ENTER]قد تحدث مشاكل غير متوقعة! هل تريد[ENTER]حقًا المتابعة؟ ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._320_select,"Yes, cancel the event. ","Tak, anuluj Konkurs. ",نعم، ألغِ الحدث. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._330_say,OX contest: Has been cancelled. ,Konkurs OX został anulowany. ,مسابقة OX: تم الإلغاء. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._340_npcChat,OX contest: Reward ,Konkurs OX: Nagroda ,مسابقة OX: المكافأة ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._350_say,OX contest: Reward[ENTER]Every participant will get a reward. Please enter[ENTER]the item number here: ,Konkurs OX: Nagroda[ENTER]Każdy uczestnik otrzyma nagrodę.[ENTER]Proszę podać nr przedmiotu: ,مسابقة OX: المكافأة[ENTER]سيحصل كل مشارك على مكافأة. أدخل[ENTER]رقم الغرض هنا: ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._360_say,Please add the quantity of items[ENTER]here:  ,Proszę podać ilość: ,أدخل هنا كمية[ENTER]الأغراض:  ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._370_say,The reward has been given to player %s. ,Nagrodę otrzymało %s. graczy. ,مُنحت المكافأة للاعب %s. ,quest dialog (the game's quests: oxevent) | keep: %s,done
+q:pkg:g:oxevent._40_say,"Do you want to join? Of course, you can also just watch. ",Chcesz dołączyć? Oczywiście możesz też po prostu popatrzeć ,هل تريد المشاركة؟ بالطبع يمكنك أيضًا أن تكتفي بالمشاهدة. ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._50_say,Do you want to try it? Okay - then let's get[ENTER]going. ,Chcesz spróbować?[ENTER]Okej - więc zaczynajmy. ,تريد أن تجرب؟ حسنًا - لنبدأ[ENTER]إذن. ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._60_say,The contest has already started. I'm afraid you[ENTER]cannot participate this time. The next contest[ENTER]will probably start very soon though. I'll let[ENTER]you know when the time comes. ,Konkurs już się rozpoczął. Niestety tym razem nie[ENTER]możesz wziąć udziału! Kolejny konkurs na pewno[ENTER]wystartuje już niedługo. Na pewno będziesz o tym[ENTER]wiedział... Nadal jednak możesz obserwować[ENTER]zawody! Chcesz chociaż pooglądać? ,لقد بدأت المسابقة بالفعل. أخشى أنك[ENTER]لا تستطيع المشاركة هذه المرة. لكن[ENTER]المسابقة التالية ستبدأ على الأرجح[ENTER]قريبًا جدًا. سأخبرك حين يحين الوقت. ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:oxevent._70_npcChat,OX contest: Start ,Konkurs OX: Start ,مسابقة OX: البدء ,quest dialog (the game's quests: oxevent),done
+q:pkg:g:oxevent._80_say,OX contest: Start[ENTER]The OX contest will be started if you click this.[ENTER]Do you really want to start the contest? ,Konkurs OX: Start[ENTER]Po uaktywnieniu tej opcji Konkurs OX zostanie[ENTER]uruchomiony. Czy na pewno chcesz to zrobić? ,مسابقة OX: البدء[ENTER]ستبدأ مسابقة OX إن نقرت هنا.[ENTER]هل تريد حقًا بدء المسابقة؟ ,quest dialog (the game's quests: oxevent) | keep: [ENTER] = new line,done
+q:pkg:g:patrol_townaround._100_sayReward,You reached patrol point 3. ,Dotarłeś do 3. Punktu Patrolowego. ,لقد وصلت إلى نقطة الدورية 3. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._10_makequestbutton,Patrol point 5 ,Punkt Patrolowy 5 ,نقطة الدورية 5 ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._110_makequestbutton,Patrol point 2 ,Punkt Patrolowy 2 ,نقطة الدورية 2 ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._120_say,Go to patrol point 2. ,Idź do 2. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 2. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._130_sayReward,You reached patrol point 2. ,Osiągnąłeś punkt patrolowy numer 2. ,لقد وصلت إلى نقطة الدورية 2. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._140_makequestbutton,Patrol point 1 ,Punkt Patrolowy 1 ,نقطة الدورية 1 ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._150_say,Go to patrol point 1. ,Idź do 1. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 1. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._160_sayReward,You reached patrol point 1. ,Osiągnąłeś punkt patrolowy numer 1. ,لقد وصلت إلى نقطة الدورية 1. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._170_say,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 5. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._180_say,You have reached patrol point 4. ,Dotarłeś do 4. Punktu Patrolowego. ,لقد وصلت إلى نقطة الدورية 4. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._190_say,Go to patrol point 3. ,Udaj się do trzeciego Punktu Patrolowego. ,اذهب إلى نقطة الدورية 3. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._200_say,You reached patrol point 3. ,Dotarłeś do 3. Punktu Patrolowego. ,لقد وصلت إلى نقطة الدورية 3. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._20_sayReward,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 5. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._210_say,Go to patrol point 2. ,Idź do 2. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 2. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._220_say,You reached patrol point 2. ,Osiągnąłeś punkt patrolowy numer 2. ,لقد وصلت إلى نقطة الدورية 2. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._230_say,Go to patrol point 1. ,Idź do 1. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 1. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._240_say,You reached patrol point 1. ,Osiągnąłeś punkt patrolowy numer 1. ,لقد وصلت إلى نقطة الدورية 1. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._250_makequestbutton,Patrol point 5 ,Punkt Patrolowy 5 ,نقطة الدورية 5 ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._260_sayTitle,Go to patrol point 5. ,Idź do 5. Punktu Patrolowego. ,اذهب إلى نقطة الدورية 5. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._270_say,You reached patrol point 5. ,Osiągnąłeś punkt patrolowy numer 5. ,لقد وصلت إلى نقطة الدورية 5. ,quest dialog (the game's quests: patrol_townaround),done
+q:pkg:g:patrol_townaround._280_makequestbutton,Patrol point 6 ,Punkt Patrolowy 6 ,نقطة الدورية 6 ,quest dialog (the game's quests: patrol_townaround),done
 q:pkg:g:patrol_townaround._290_say,Go to patrol point 6. ,Idź do 6. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
 q:pkg:g:patrol_townaround._300_sayReward,You reached patrol point 6. ,Dotarłeś do 6. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._30_say,You reached patrol point 5. ,Osiągnąłeś punkt patrolowy numer 5. ,,quest dialog (the game's quests: patrol_townaround),new
+q:pkg:g:patrol_townaround._30_say,You reached patrol point 5. ,Osiągnąłeś punkt patrolowy numer 5. ,لقد وصلت إلى نقطة الدورية 5. ,quest dialog (the game's quests: patrol_townaround),done
 q:pkg:g:patrol_townaround._310_say,Patrol point 3[ENTER]Go to patrol point 3. ,Punkt Patrolowy 3[ENTER]Udaj się do trzeciego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround) | keep: [ENTER] = new line,new
 q:pkg:g:patrol_townaround._320_say,Patrol point 5[ENTER]Go to patrol point 5. ,Punkt Patrolowy 5[ENTER]Udaj się do piątego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround) | keep: [ENTER] = new line,new
 q:pkg:g:patrol_townaround._330_say,Patrol point 6[ENTER]Go to patrol point 6. ,Punkt Patrolowy 6[ENTER]Udaj się do szóstego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround) | keep: [ENTER] = new line,new
@@ -403,9 +403,9 @@ q:pkg:g:patrol_townaround._420_makequestbutton,Patrol finished ,Patrol zakończo
 q:pkg:g:patrol_townaround._430_sayReward,"As a reward for patrolling, you will receive an[ENTER]experience bonus. ",Zasłużyłeś sobie w nagrodę w postaci[ENTER]doświadczenia. ,,quest dialog (the game's quests: patrol_townaround) | keep: [ENTER] = new line,new
 q:pkg:g:patrol_townaround._50_sayTitle,Find patrol point 4. ,Znajdź 4. Punkt Patrolowy. ,,quest dialog (the game's quests: patrol_townaround),new
 q:pkg:g:patrol_townaround._60_say,Go to patrol point 4. ,Udaj się do czwartego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._70_sayReward,You have reached patrol point 4. ,Dotarłeś do 4. Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
+q:pkg:g:patrol_townaround._70_sayReward,You have reached patrol point 4. ,Dotarłeś do 4. Punktu Patrolowego. ,لقد وصلت إلى نقطة الدورية 4. ,quest dialog (the game's quests: patrol_townaround),done
 q:pkg:g:patrol_townaround._80_makequestbutton,Patrol point 3 ,Punkt Patrolowy 3 ,,quest dialog (the game's quests: patrol_townaround),new
-q:pkg:g:patrol_townaround._90_say,Go to patrol point 3. ,Udaj się do trzeciego Punktu Patrolowego. ,,quest dialog (the game's quests: patrol_townaround),new
+q:pkg:g:patrol_townaround._90_say,Go to patrol point 3. ,Udaj się do trzeciego Punktu Patrolowego. ,اذهب إلى نقطة الدورية 3. ,quest dialog (the game's quests: patrol_townaround),done
 q:pkg:g:pet_system._010_say,'s Fire Phoenix , - Ognisty Feniks ,- عنقاء النار ,quest dialog (the game's quests: pet_system),done
 q:pkg:g:pet_system._030_chat,You cannot summon your pet right now. ,Nie możesz obecnie przywołać zwierzaka. ,,quest dialog (the game's quests: pet_system),new
 q:pkg:g:pet_system._040_say,'s Ice Phoenix , - Lodowy Feniks ,,quest dialog (the game's quests: pet_system),new
