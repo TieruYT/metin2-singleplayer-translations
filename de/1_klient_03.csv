@@ -129,10 +129,10 @@ c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom
 c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Freigeben,client: game texts (localeInfo),done
 c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Weniger als 1 Min.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CLASS,Class:,,Klasse:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),check
-c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_STR,STR:,,ST:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_DEX,DEX:,,GES:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Statuspunkte:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Fertigkeitspunkte:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Unterstützungspunkte:,client: game texts (localeInfo),done
@@ -433,12 +433,12 @@ c:locale_game:GM_PANEL_PLAYER_NOT_FOUND,Player not found.,,Spieler nicht gefunde
 c:locale_game:GM_PANEL_SKILLS_OFFLINE,(character offline - no skill preview),,(Charakter offline - keine Fertigkeitsvorschau),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_MOBS,Mobs:,,Monster:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CHOOSE_FROM_LIST,(choose from the list),,(aus der Liste wählen),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metins:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metins:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_GM_COMMANDS,GM commands,,GM-Befehle,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_PURGE,Remove mobs,,Monster entfernen,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_WEAKEN,Mobs 1 hit,,Monster 1 Treffer,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BOSSES,Bosses,,Bosse,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_METINS,Metins,,Metins,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_METINS,Metins,,Metins,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SPAWNING,Spawning...,,Wird gespawnt...,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BOSSES_SPAWNED,Bosses spawned: %s/%s.,,Bosse gespawnt: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GM_PANEL_METINS_SPAWNED,Metins spawned: %s/%s.,,Metins gespawnt: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
@@ -523,7 +523,7 @@ c:locale_game:BOT_ADMIN_NOBODY_YET,Nobody yet,,Noch niemand,client: game texts (
 c:locale_game:BOT_ADMIN_LOAD_FAILED,The bot admin window did not load in this client - see syserr.txt,,Das Bot-Verwaltungsfenster wurde in diesem Client nicht geladen - siehe syserr.txt,client: game texts (localeInfo),done
 c:locale_game:GM_BAN_NEED_REASON,Enter a reason (min. 3 characters),,Gib einen Grund ein (min. 3 Zeichen),client: game texts (localeInfo),done
 c:locale_game:GM_BAN_NEED_DAYS,Enter the length of the ban in days.,,Gib die Dauer der Sperre in Tagen ein.,client: game texts (localeInfo),done
-c:locale_game:GM_CAPTCHA_CODE,Code: |cffffa826%s|r,,Code: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,check
+c:locale_game:GM_CAPTCHA_CODE,Code: |cffffa826%s|r,,Code: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
 c:locale_game:GM_CAPTCHA_TIME_LEFT,Time left: %ds,,Restzeit: %ds,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:GM_CAPTCHA_SOLVED,The code was right. It took %d seconds.,,Der Code war richtig. Dauer: %d Sekunden.,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:GM_CAPTCHA_NO_ATTEMPTS,Every attempt to enter the code was used. (|cffffa826%s|r),,Alle Versuche zur Codeeingabe wurden verbraucht. (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
@@ -578,11 +578,11 @@ c:locale_game:GMP_MENU_SELF,Me (GM),,Ich (GM),client: game texts (localeInfo),do
 c:locale_game:GMP_MENU_WORLD,World & events,,Welt & Events,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ITEMS,Items,,Gegenstände,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Konten,client: game texts (localeInfo),done
-c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
-c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teleport,client: game texts (localeInfo),check
-c:locale_game:GMP_MENU_SERVER,Server,,Server,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teleportieren,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SERVER,Server,,Server,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_CMDS,GM commands,,GM-Befehle,client: game texts (localeInfo),done
-c:locale_game:GMP_NICK,Name:,,Name:,client: game texts (localeInfo),check
+c:locale_game:GMP_NICK,Name:,,Name:,client: game texts (localeInfo),done
 c:locale_game:GMP_SEARCH,Search,,Suchen,client: game texts (localeInfo),done
 c:locale_game:GMP_SEARCH_LABEL,Search:,,Suche:,client: game texts (localeInfo),done
 c:locale_game:GMP_SEARCH_BONUS,Search bonus:,,Bonus suchen:,client: game texts (localeInfo),done
@@ -605,7 +605,7 @@ c:locale_game:GMP_INFO_MAP,Map: %s,,Karte: %s,client: game texts (localeInfo) | 
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,TP/MP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Konto: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,STR %s  VIT %s  DEX %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,check
+c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,ST %s  VIT %s  GES %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Statuspunkte %s, Fertigkeiten %s",client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Pferd: Stufe %s,client: game texts (localeInfo) | keep: %s,done
