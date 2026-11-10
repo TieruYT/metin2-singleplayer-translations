@@ -16,7 +16,7 @@ the game in the following versions.
 |---|---|
 | `template/` | every text of the game, the `translation` column empty. The start of a new language. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | the languages the game already has, with their current translation filled in: correct it and fill in what is missing (rows with `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | new languages, already partly translated: fill in what is missing (rows with `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | new languages, fully translated with AI help: native speakers, please correct what sounds wrong. |
 | `en_US/` | American English: the English source (British spelling) in US spelling (color, armor, defense...). |
 | `tools/validate.py` | the check every pull request goes through. |
 

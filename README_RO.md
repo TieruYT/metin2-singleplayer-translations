@@ -15,7 +15,7 @@ Fiecare pull request este verificat automat, iar traducerile acceptate intră
 |---|---|
 | `template/` | toate textele jocului, cu coloana `translation` goală. Punctul de plecare al unei limbi noi. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | limbile pe care jocul le are deja, cu traducerea lor actuală: corectează-o și completează ce lipsește (rândurile cu `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | limbi noi, deja traduse în parte: completează ce lipsește (rândurile cu `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | limbi noi, traduse complet cu ajutorul AI: vorbitori nativi, corectați ce sună greșit. |
 | `en_US/` | engleză americană: textul sursă englezesc (ortografie britanică) în ortografie americană (color, armor, defense...). |
 | `tools/validate.py` | verificarea prin care trece fiecare pull request. |
 

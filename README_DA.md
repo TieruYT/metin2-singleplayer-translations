@@ -16,7 +16,7 @@ kommer med i spillet i de følgende versioner.
 |---|---|
 | `template/` | alle spillets tekster med kolonnen `translation` tom. Starten på et nyt sprog. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | de sprog, spillet allerede har, med deres nuværende oversættelse: ret den, og udfyld det, der mangler (rækker med `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nye sprog, allerede delvist oversat: udfyld det, der mangler (rækker med `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nye sprog, fuldt oversat med hjælp fra AI: modersmålstalere, ret gerne det, der lyder forkert. |
 | `en_US/` | amerikansk engelsk: den engelske kildetekst (britisk stavning) i amerikansk stavning (color, armor, defense...). |
 | `tools/validate.py` | kontrollen, som hver pull request gennemgår. |
 
