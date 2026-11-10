@@ -23,7 +23,7 @@ c:locale_game:GMP_PICK_STONE,Pick stone %d,,Escolhe a pedra %d,client: game text
 c:locale_game:GMP_LOADING,Loading...,,A carregar...,client: game texts (localeInfo),done
 c:locale_game:GMP_NO_RESULTS,No results,,Sem resultados,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_NEW_ITEM,New item,,Novo item,client: game texts (localeInfo),done
-c:locale_game:GMP_ITEM,Item:,,Item:,client: game texts (localeInfo),check
+c:locale_game:GMP_ITEM,Item:,,Item:,client: game texts (localeInfo),done
 c:locale_game:GMP_NO_ITEM,none selected,,nenhum escolhido,client: game texts (localeInfo),done
 c:locale_game:GMP_COUNT,Count:,,Quantidade:,client: game texts (localeInfo),done
 c:locale_game:GMP_FOR,For:,,Para:,client: game texts (localeInfo),done
@@ -55,21 +55,21 @@ c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,Banir %s durante %s dias?,clie
 c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,Banir %s PERMANENTEMENTE?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_KICK_ACC,Kick...,,Expulsar...,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_LIST,Muted list,,Lista de silenciados,client: game texts (localeInfo),done
-c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),check
+c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_10M,Mute 10 min,,Silenciar 10 min,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1H,Mute 1 h,,Silenciar 1 h,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1D,Mute 1 day,,Silenciar 1 dia,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_GM,GM rank,,Posto GM,client: game texts (localeInfo),done
-c:locale_game:GMP_RANK_LOW,Low Wizard,,Low Wizard,client: game texts (localeInfo),check
-c:locale_game:GMP_RANK_HIGH,High Wizard,,High Wizard,client: game texts (localeInfo),check
-c:locale_game:GMP_RANK_GOD,God,,God,client: game texts (localeInfo),check
-c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),check
+c:locale_game:GMP_RANK_LOW,Low Wizard,,Low Wizard,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_HIGH,High Wizard,,High Wizard,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_GOD,God,,God,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_ADD,Grant rank,,Atribuir posto,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_REMOVE,Remove GM...,,Retirar GM...,client: game texts (localeInfo),done
 c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Retirar o posto GM de %s?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Só um Implementor altera outros postos. Aplica-se de imediato.,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_SAVED,Rank saved,,Posto guardado,client: game texts (localeInfo),done
-c:locale_game:GMP_HDR_BOTS,Bots,,Bots,client: game texts (localeInfo),check
+c:locale_game:GMP_HDR_BOTS,Bots,,Bots,client: game texts (localeInfo),done
 c:locale_game:GMP_BOT_PID,Bot PID:,,PID do bot:,client: game texts (localeInfo),done
 c:locale_game:GMP_PICK_DOTS,Pick...,,Escolher...,client: game texts (localeInfo),done
 c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Fazer aparecer bots,client: game texts (localeInfo),done
@@ -79,14 +79,14 @@ c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Bots: %s de %s (total %s)
 c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Escolhe um reino,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Monstros e Metins,client: game texts (localeInfo),done
 c:locale_game:GMP_MOB,Monster:,,Monstro:,client: game texts (localeInfo),done
-c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),check
-c:locale_game:GMP_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),done
+c:locale_game:GMP_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWNED,Spawned %s of %s,,%s de %s gerados,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_ERR_NO_MOB,No such monster,,Monstro inexistente,client: game texts (localeInfo),done
 c:locale_game:GMP_LIST_AVAILBOTS,Free bots (click to fill the PID),,Bots livres (clica para preencher o PID),client: game texts (localeInfo),done
 c:locale_game:GMP_LIST_BOTS,Active bots,,Bots ativos,client: game texts (localeInfo),done
 c:locale_game:GMP_LIST_MOBS,Monsters,,Monstros,client: game texts (localeInfo),done
-c:locale_game:GMP_LIST_METINS,Metins,,Metins,client: game texts (localeInfo),check
+c:locale_game:GMP_LIST_METINS,Metins,,Metins,client: game texts (localeInfo),done
 c:locale_game:GMP_CLOSE_LIST,Close list,,Fechar lista,client: game texts (localeInfo),done
 c:locale_game:GMP_PICKED,Picked: %s,,Escolhido: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Spawn rápido (Metins normais, todos os chefes)",client: game texts (localeInfo),done
@@ -100,12 +100,12 @@ c:locale_game:GMP_TP_CITIES,Cities,,Cidades,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_MAPS,Maps,,Mapas,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Masmorras,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_SPECIAL,Special,,Especial,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),check
-c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),check
-c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),check
-c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),check
-c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),check
-c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Aldeia da guilda 1,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Aldeia da guilda 2,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Aldeia da guilda 3,client: game texts (localeInfo),done
@@ -158,7 +158,7 @@ c:locale_game:GMP_AI_HINT,Changes apply within seconds,,As alterações aplicam-
 c:locale_game:GMP_HDR_RESTART,Restart,,Reiniciar,client: game texts (localeInfo),done
 c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,Clica num comando para o escrever no chat,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Banir,client: game texts (localeInfo),done
-c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),check
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),done
 c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,O servidor não respondeu. Tenta novamente.,client: game texts (localeInfo),done
 c:locale_interface:ACCEPT,Accept,Akceptuj,Aceitar,client: window texts (uiScriptLocale),done
 c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Queres usar a pedra espiritual?,client: window texts (uiScriptLocale),done
@@ -189,7 +189,7 @@ c:locale_interface:CREATE_NEXT,Next,Dalej,Seguinte,client: window texts (uiScrip
 c:locale_interface:CREATE_PREV,Back,Wróć,Voltar,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SEX,Gender,Płeć,Sexo,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Aspeto,client: window texts (uiScriptLocale),done
-c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),check
+c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Repor,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Mulher,client: window texts (uiScriptLocale),done
 c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Manual de refinação,client: window texts (uiScriptLocale),done
@@ -283,8 +283,8 @@ c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Nome,client: window texts (uiScr
 c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Posto,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Investido,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Pedra espiritual,client: window texts (uiScriptLocale),done
-c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),check
-c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),check
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_NAME,Guild,Gildia,Guilda,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Informações dos recursos,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Ativo,client: window texts (uiScriptLocale),done
@@ -299,7 +299,7 @@ c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Bandeira,client: window texts (uiScr
 c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Declarar guerra de guildas,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Inimigo,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Campo,client: window texts (uiScriptLocale),done
-c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),check
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WATER,Water,Woda,Água,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Pedra de água,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WITHDRAW,Take,Weź,Tirar,client: window texts (uiScriptLocale),done
@@ -336,7 +336,7 @@ c:locale_interface:HELP_SYSTEM_BUTTON,System buttons,Przycisk Systemowy,Botões 
 c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_1,Inventory page 1,1. Ekwipunek,Página do inventário 1,client: window texts (uiScriptLocale),done
 c:locale_interface:INVENTORY_PAGE_BUTTON_TOOLTIP_2,Inventory page 2,2. Ekwipunek,Página do inventário 2,client: window texts (uiScriptLocale),done
 c:locale_interface:INVENTORY_TITLE,Inventory,Ekwipunek,Inventário,client: window texts (uiScriptLocale),done
-c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Item Shop,client: window texts (uiScriptLocale),check
+c:locale_interface:ITEM_MALL,Item Shop,Sklep z Przedmiotami,Item Shop,client: window texts (uiScriptLocale),done
 c:locale_interface:LOAD_ERROR,The File is damaged. Please install new. Press ESC now.,Plik jest uszkodzony. Proszę zainstalować nowy. Wciśnij teraz ESC.,O ficheiro está danificado. Reinstala o jogo. Prime agora ESC.,client: window texts (uiScriptLocale),done
 c:locale_interface:LOGIN_CONNECT,Connect,Połącz,Ligar,client: window texts (uiScriptLocale),done
 c:locale_interface:LOGIN_CONNECTING,You will be connected to the Server,Zostaniesz połączony z Serwerem,A ligar ao servidor,client: window texts (uiScriptLocale),done
@@ -394,7 +394,7 @@ c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Mudar,client: window texts 
 c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Música padrão de Metin2,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Cor do nome,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Cor do reino,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),check
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,Modo JxJ,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Livre,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Podes atacar todos os jogadores.,client: window texts (uiScriptLocale),done
@@ -413,8 +413,8 @@ c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Fechar,client: wind
 c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Mostrar,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING,Graphic,Grafika,Gráficos,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Aplicar,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),check
-c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),check
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TITLE,Options,Opcje,Opções,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Linha do chat,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Ocultar,client: window texts (uiScriptLocale),done
@@ -467,7 +467,7 @@ c:locale_interface:SYSTEM_CHANGE,Change Character,Zmień Postać,Mudar de person
 c:locale_interface:SYSTEM_EXIT,Exit Game,Wyjdź z Gry,Sair do jogo,client: window texts (uiScriptLocale),done
 c:locale_interface:SYSTEM_HELP,Help,Pomoc,Ajuda,client: window texts (uiScriptLocale),done
 c:locale_interface:SYSTEM_LOGOUT,Log Out,Wyloguj,Terminar sessão,client: window texts (uiScriptLocale),done
-c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Item Shop,client: window texts (uiScriptLocale),check
+c:locale_interface:SYSTEM_MALL,Item Shop,Sklep z Przedmiotami,Item Shop,client: window texts (uiScriptLocale),done
 c:locale_interface:SYSTEM_OPTION,System Options,Opcje Systemowe,Opções do sistema,client: window texts (uiScriptLocale),done
 c:locale_interface:TASKBAR_CHARACTER,Character [C/V/B/N],Postać [C/V/B/N],Personagem [C/V/B/N],client: window texts (uiScriptLocale),done
 c:locale_interface:TASKBAR_CHAT,Chat Window [Enter],Okno Chatu [Enter],Janela do chat [Enter],client: window texts (uiScriptLocale),done
@@ -517,12 +517,12 @@ c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Distância d
 c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Modo noturno,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Desligado,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Ligado,client: window texts (uiScriptLocale),done
-c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),check
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Ativa o modo noturno na maioria dos mapas.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,A noite dura das 22:00 às 06:00.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Usa o relógio do teu computador.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Texto das missões,client: window texts (uiScriptLocale),done
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),check
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Rápida,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Instantâneo,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Info dos efeitos,client: window texts (uiScriptLocale),done
@@ -610,7 +610,7 @@ c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Curta,client: win
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Média,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Longa,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Muito longa,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Máximo,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Antialiasing,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Desligado,client: window texts (uiScriptLocale),done
@@ -626,7 +626,7 @@ c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, G
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Baixa,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Média,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Alta,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Texturas,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Predefinido,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Texturas clássicas,client: window texts (uiScriptLocale),done
@@ -675,13 +675,13 @@ c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Fabrico,cli
 c:locale_interface:CRAFT,Craft,Wytwórz,Fabricar,client: window texts (uiScriptLocale),done
 c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Termos de utilização,client: window texts (uiScriptLocale),done
 c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Li e aceito as regras.,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),check
-c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
-c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),check
-c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),check
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Guardar,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Ligar,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Apagar,client: window texts (uiScriptLocale),done
