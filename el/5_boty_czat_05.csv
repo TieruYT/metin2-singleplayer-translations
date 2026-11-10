@@ -246,7 +246,7 @@ b:phrase:9688844cc0de,You must spawn frog in castle,,Πρέπει να εμφα�
 b:phrase:0d6f26a1636b,Players can log in.,,Οι παίκτες μπορούν να συνδεθούν.,"a phrase the server says (bots' help, notices)",done
 b:phrase:1dd9d50fae34,Ban requested for player %s.,,Ζητήθηκε αποκλεισμός για τον παίκτη %s.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:7102128c349d,Account with id %d not found.,,Δεν βρέθηκε λογαριασμός με id %d.,"a phrase the server says (bots' help, notices) | keep: %d",done
-b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,Υπάρχει κράτηση %s για %d,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:3cc98c0f66ee,Spy mode is active!,,Η λειτουργία κατασκοπείας είναι ενεργή!,"a phrase the server says (bots' help, notices)",done
 b:phrase:58d3f96a74df,Whisper to %s(%s) from %s,,Ψίθυρος προς %s(%s) από %s,"a phrase the server says (bots' help, notices) | keep: %s %s %s",done
 b:phrase:de12142429db,,nie mozesz zablokowac GMa,δεν μπορείς να μπλοκάρεις GM,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
@@ -301,7 +301,7 @@ b:phrase:23137bc8bfd9,", still coming over.",,", αλλά έρχομαι.","a ph
 b:phrase:ea24f5e5d68c,"Fight's over, coming to you.",,"Η μάχη τελείωσε, έρχομαι.","a phrase the server says (bots' help, notices)",done
 b:phrase:e2a762f8be8f,I can do,,Μπορώ να κάνω,"a phrase the server says (bots' help, notices)",done
 b:phrase:b3ad9eefc962,"Sorry, I can't go that low.",,"Συγγνώμη, δεν μπορώ να κατέβω τόσο.","a phrase the server says (bots' help, notices)",done
-b:phrase:4d573b9bfe73,,do %d zabojstw albo %d minut,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:4d573b9bfe73,,do %d zabojstw albo %d minut,έως %d σκοτωμούς ή %d λεπτά,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:0083f8741d0d,koniec walki,,τέλος μάχης,"a phrase the server says (bots' help, notices)",done
 b:phrase:5fdc6a3afc26,The last blow:,,Το τελευταίο χτύπημα:,"a phrase the server says (bots' help, notices)",done
 b:phrase:b81e2523c3b5,"does not fight, only defends",,"δεν επιτίθεται, μόνο αμύνεται","a phrase the server says (bots' help, notices)",done
@@ -394,7 +394,7 @@ b:phrase:05250256d7a2,Player %s reached level %u!,,Ο παίκτης %s έφτα
 b:phrase:b180ba5814c4,You said you were saving for,,Είπες ότι μαζεύεις λεφτά για,"a phrase the server says (bots' help, notices)",done
 b:phrase:a7446dc01afa,. Still your goal?,,. Είναι ακόμα ο στόχος σου;,"a phrase the server says (bots' help, notices)",done
 b:phrase:6ace6fcf3252,"I'm close, coming over to you",,"Είμαι κοντά, έρχομαι σε σένα","a phrase the server says (bots' help, notices)",done
-b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min","έρχομαι, θα είμαι εκεί σε περίπου %u λεπτά","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:855b73baad5f,"%s, see you there in ~%u min",,"%s, τα λέμε εκεί σε ~%u λεπτά","a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:5d82e8f86e7e,%s is at your side.,,Ο/Η %s είναι στο πλευρό σου.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:2a84ff3baef5,,nie bij,μη χτυπάς,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
@@ -450,7 +450,7 @@ b:phrase:f7f195944f06,the bot's core does not host this map,,ο πυρήνας �
 b:phrase:55c4d801a5f7,the bot cannot stand on this map,,το bot δεν μπορεί να σταθεί σε αυτόν τον χάρτη,"a phrase the server says (bots' help, notices)",done
 b:phrase:f2365197e5b0,There is no character(%s) by that name,,Δεν υπάρχει χαρακτήρας(%s) με αυτό το όνομα,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:fa8bb6db253d,Target(%s) is in %d channel (my channel %d),,Ο στόχος(%s) είναι στο κανάλι %d (το κανάλι μου %d),"a phrase the server says (bots' help, notices) | keep: %s %d %d",done
-b:phrase:32b182258958,,Bot %s jest na innym rdzeniu (mapa %ld) i nie przejdzie na mape tego rdzenia.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:32b182258958,,Bot %s jest na innym rdzeniu (mapa %ld) i nie przejdzie na mape tego rdzenia.,Το bot %s είναι σε άλλον πυρήνα (χάρτης %ld) και δεν θα περάσει στον χάρτη αυτού του πυρήνα.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:4198b74dd5c6,Usage: warp <character name> | <x meter> <y meter>,,Χρήση: warp <όνομα χαρακτήρα> | <x μέτρα> <y μέτρα>,"a phrase the server says (bots' help, notices)",done
 b:phrase:040124b240e9,There is no one(%s) by that name,,Δεν υπάρχει κανείς(%s) με αυτό το όνομα,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:5521d415c8ee,Total [%d] %d / %d / %d (this server %d),,Σύνολο [%d] %d / %d / %d (αυτός ο διακομιστής %d),"a phrase the server says (bots' help, notices) | keep: %d %d %d %d %d",done
@@ -463,16 +463,16 @@ b:phrase:9c4d550c55e5,usage : /horse_level <name> <level>,,Χρήση: /horse_le
 b:phrase:1292ca230a62,Delete failed. Quest flag does not exist.,,Η διαγραφή απέτυχε. Η σημαία αποστολής δεν υπάρχει.,"a phrase the server says (bots' help, notices)",done
 b:phrase:62e65414f0b5,List of the available windows:,,Λίστα διαθέσιμων παραθύρων:,"a phrase the server says (bots' help, notices)",done
 b:phrase:c79c5f7be070,This command blocks only logging in. It doesn't disconnect connected players.,,Αυτή η εντολή μπλοκάρει μόνο τη σύνδεση. Δεν αποσυνδέει τους συνδεδεμένους παίκτες.,"a phrase the server says (bots' help, notices)",done
-b:phrase:1acb79942d88,,Nie ma zarzadzanego bota o PID %u.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:9ba20fe1b9fc,,#%u - taki przedmiot nie istnieje.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:1acb79942d88,,Nie ma zarzadzanego bota o PID %u.,Δεν υπάρχει διαχειριζόμενο bot με PID %u.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9ba20fe1b9fc,,#%u - taki przedmiot nie istnieje.,#%u - αυτό το αντικείμενο δεν υπάρχει.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:c89f740ccf51,Player %s is already on block list. Flush if you want to execute ban /block_flush,,Ο παίκτης %s είναι ήδη στη λίστα αποκλεισμού. Άδειασέ τη αν θέλεις να εκτελέσεις τον αποκλεισμό: /block_flush,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:361806d4c15a,Ban pool request for player %s.,,Αίτημα ομαδικού αποκλεισμού για τον παίκτη %s.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:7986194efac2,Does not take indices above 109.,,Δεν δέχεται δείκτες πάνω από 109.,"a phrase the server says (bots' help, notices)",done
 b:phrase:d93683f0d930,Only an IMPLEMENTOR can change other characters' GM ranks. A GM can remove their own rank.,,Μόνο ένας IMPLEMENTOR μπορεί να αλλάξει τους βαθμούς GM άλλων χαρακτήρων. Ένας GM μπορεί να αφαιρέσει τον δικό του βαθμό.,"a phrase the server says (bots' help, notices)",done
 b:phrase:90c79f02ca8b,test_server mode grants GM to everyone. Disable it to remove GM rights.,,Η λειτουργία test_server δίνει GM σε όλους. Απενεργοποίησέ τη για να αφαιρέσεις τα δικαιώματα GM.,"a phrase the server says (bots' help, notices)",done
 b:phrase:e041bf7283ad,The GM list is empty. The next server start may grant IMPLEMENTOR to the admin account's oldest character.,,Η λίστα GM είναι κενή. Στην επόμενη εκκίνηση του διακομιστή ο παλαιότερος χαρακτήρας του λογαριασμού admin μπορεί να πάρει IMPLEMENTOR.,"a phrase the server says (bots' help, notices)",done
-b:phrase:e5238d587432,,Nie znam bazy tej mapy (index %ld).,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:68faa293147a,,"Tam nie da sie wejsc (%d, %d).",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:e5238d587432,,Nie znam bazy tej mapy (index %ld).,Δεν γνωρίζω τη βάση αυτού του χάρτη (δείκτης %ld).,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:68faa293147a,,"Tam nie da sie wejsc (%d, %d).","Εκεί δεν μπορείς να μπεις (%d, %d).","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:2c71dadea815,Blad bazy - miejsce niezapisane.,,Σφάλμα βάσης δεδομένων - η τοποθεσία δεν αποθηκεύτηκε.,"a phrase the server says (bots' help, notices)",done
 b:phrase:55000f08217b,Already a member in guild %s[%d],,Ήδη μέλος της συντεχνίας %s[%d],"a phrase the server says (bots' help, notices) | keep: %s %d",done
 b:phrase:bcf8d9abaea0,There is no such guild skill by number %u,,Δεν υπάρχει ικανότητα συντεχνίας με αριθμό %u,"a phrase the server says (bots' help, notices) | keep: %u",done
@@ -495,7 +495,7 @@ b:phrase:1f411ec97e41,"Soul Stone waits: %s %s costs me %d rank points, I have %
 b:phrase:a84093719d44,"I have %s x%u on my stall in %s, %s yang for all of it",,"Έχω %s x%u στον πάγκο μου στο %s, %s Yang για όλα","a phrase the server says (bots' help, notices) | keep: %s %u %s %s",done
 b:phrase:6c4ed088944f,"I have %s on my stall in %s, %s yang",,"Έχω %s στον πάγκο μου στο %s, %s Yang","a phrase the server says (bots' help, notices) | keep: %s %s %s",done
 b:phrase:252b02f4af25,"I'll buy %s - put it on a stall in Joan or Bokjung, bots buy there",,"Αγοράζω %s - βάλ' το σε πάγκο στο Joan ή στο Bokjung, εκεί αγοράζουν τα bots","a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:41658247a66c,,"Kupie %s - wystaw na straganie w Joan albo Bokjung, boty tam kupuja",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:41658247a66c,,"Kupie %s - wystaw na straganie w Joan albo Bokjung, boty tam kupuja","Αγοράζω %s - βάλ' το σε πάγκο στο Joan ή στο Bokjung, τα bot αγοράζουν εκεί","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:06e42faaa06f,"Buying %s - whoever has it, put it up in %s",,"Αγοράζω %s - όποιος το έχει, ας το βάλει για πούλημα στο %s","a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:56c8be1288df,Deal! Set the price on your shop to %s and I'll buy it - I'll wait %u min.,,Συμφωνία! Βάλε την τιμή στο μαγαζί σου στα %s και το αγοράζω - περιμένω %u λεπτά.,"a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:1474e6464bd3,That's too much for me. %s is the most I can give - my last price.,,Είναι πολλά για μένα. %s είναι το μέγιστο που μπορώ να δώσω - η τελευταία μου τιμή.,"a phrase the server says (bots' help, notices) | keep: %s",done
@@ -518,7 +518,7 @@ b:phrase:dbd6fd1a08a9,I can't lower the price right now. Try later.,,Δεν μπ
 b:phrase:2c9e293d8cbf,"Deal, buy it from my counter now.",,"Συμφωνία, αγόρασέ το τώρα από τον πάγκο μου.","a phrase the server says (bots' help, notices)",done
 b:phrase:2997c15f479e,"I have a stall in %s, on it: %s",,"Έχω πάγκο στο %s, πάνω του: %s","a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:82054074aceb,I'm just off to the market in %s,,Πάω τώρα στην αγορά στο %s,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:228e4186e9f8,,%s stoi! Zbieramy sie na niego.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:228e4186e9f8,,%s stoi! Zbieramy sie na niego.,Ο %s εμφανίστηκε! Μαζευόμαστε για αυτόν.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:753512ba10dc,Devil's Catacomb: hunting the key,,Κατακόμβη του Διαβόλου: κυνηγάω το κλειδί,"a phrase the server says (bots' help, notices)",done
 b:phrase:bb8bacc6865d,Gathering at the Catacomb's Guardian,,Συγκέντρωση στον Φύλακα της Κατακόμβης,"a phrase the server says (bots' help, notices)",done
 b:phrase:6a680869b9d2,OX Quiz: waiting for a question,,Κουίζ OX: περιμένω ερώτηση,"a phrase the server says (bots' help, notices)",done
@@ -540,7 +540,7 @@ b:phrase:68939f27e2ca,[Guild] %s has to go - something more urgent came up.,,[Gu
 b:phrase:3344e9c76bb3,"Poszedles gdzies, to wracam do swoich spraw.",,"Πήγες κάπου, οπότε γυρνάω στα δικά μου.","a phrase the server says (bots' help, notices)",done
 b:phrase:6c1cf0beec56,"Can't get to you, sorry. Going back to my own stuff.",,"Δεν μπορώ να έρθω σε σένα, συγγνώμη. Γυρνάω στα δικά μου.","a phrase the server says (bots' help, notices)",done
 b:phrase:db076278034d,"You went off somewhere, so I'm back to my own stuff.",,"Έφυγες κάπου, οπότε γύρισα στα δικά μου.","a phrase the server says (bots' help, notices)",done
-b:phrase:7d7701852bc9,,sprzedaje tylko cale %u szt. za %s,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:7d7701852bc9,,sprzedaje tylko cale %u szt. za %s,πουλάω μόνο όλα τα %u τεμάχια για %s,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:5d856bb9856a,"Couldn't finish in time, the visit is cancelled.",,"Δεν τελείωσα εγκαίρως, η επίσκεψη ακυρώνεται.","a phrase the server says (bots' help, notices)",done
 b:phrase:794b7c946948,The price change was refused. Check the counter price.,,Η αλλαγή τιμής απορρίφθηκε. Έλεγξε την τιμή του πάγκου.,"a phrase the server says (bots' help, notices)",done
 b:phrase:b8ff94233007,The price change is unconfirmed. Check the counter price.,,Η αλλαγή τιμής δεν επιβεβαιώθηκε. Έλεγξε την τιμή του πάγκου.,"a phrase the server says (bots' help, notices)",done
@@ -566,7 +566,7 @@ b:phrase:907baa14231f,"[War] The bot guild %s takes the challenge! Battlefield: 
 b:phrase:5fcef44d7aa3,"[War] The first guild to %d kills wins; after 30 minutes, the one with more kills.",,"[War] Νικά η πρώτη συντεχνία που φτάνει τους %d σκοτωμούς· μετά από 30 λεπτά, αυτή με τους περισσότερους.","a phrase the server says (bots' help, notices) | keep: %d",done
 b:phrase:0b161815231a,"Guild war: %s against the bot guild %s! Battlefield: %s (%s), %s.",,"Πόλεμος συντεχνιών: %s εναντίον της συντεχνίας bots %s! Πεδίο μάχης: %s (%s), %s.","a phrase the server says (bots' help, notices) | keep: %s %s %s %s %s",done
 b:phrase:b7e03bb67413,A bots' guild war begins soon (%s): %s against %s. Battlefield: %s.,,Σύντομα ξεκινά πόλεμος συντεχνιών bots (%s): %s εναντίον %s. Πεδίο μάχης: %s.,"a phrase the server says (bots' help, notices) | keep: %s %s %s %s",done
-b:phrase:4b47555545e7,,"Wojna gildii: %s kontra gildia botow %s! Pole bitwy: %s (%s), %s.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:4b47555545e7,,"Wojna gildii: %s kontra gildia botow %s! Pole bitwy: %s (%s), %s.","Πόλεμος συντεχνιών: %s εναντίον της συντεχνίας bot %s! Πεδίο μάχης: %s (%s), %s.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:6fcb046a467b,"Fine, we let it go. For %u minutes no bot will pick on you - unless you attack one of us.",,"Εντάξει, το αφήνουμε. Για %u λεπτά κανένα bot δεν θα σε πειράξει - εκτός αν επιτεθείς σε κάποιον από εμάς.","a phrase the server says (bots' help, notices) | keep: %u",done
 b:phrase:b3565f640bc8,The truce lasts %u more min. Nobody touches you until you attack one of us.,,Η ανακωχή κρατά ακόμα %u λεπτά. Κανείς δεν σε αγγίζει μέχρι να επιτεθείς σε κάποιον από εμάς.,"a phrase the server says (bots' help, notices) | keep: %u",done
 b:phrase:796b9f219f45,The truce was broken a moment ago. We'll talk in %u min.,,Η ανακωχή μόλις παραβιάστηκε. Τα λέμε σε %u λεπτά.,"a phrase the server says (bots' help, notices) | keep: %u",done
