@@ -294,7 +294,9 @@ def validate_language(code, template, report, base=None):
             if not text.strip():
                 continue
             stats[1] += 1
-            why = problem(t_english, t_notes, text, sheet_codepage, panel)
+            # A row whose English column is empty (a few bot chat lines exist
+            # only in Polish) is checked against the Polish text instead.
+            why = problem(t_english if t_english.strip() else t_polski, t_notes, text, sheet_codepage, panel)
             if why:
                 if base and before.get(rid) == text:
                     report.old += 1
