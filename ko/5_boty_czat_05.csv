@@ -1,7 +1,7 @@
 id,english,polski,translation,notes,status
 b:value:mapa_dokad:52b3bc714cc0,into Colony,,sikminji-ro,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:96422792f401,into the Colony,,sikminji-ro,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
-b:value:mapa:7d8dbce35cec,Castle Battle,,,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),new
+b:value:mapa:7d8dbce35cec,Castle Battle,,gongseongjeon,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:add14801482e,in Castle Battle,,gongseongjeon-eseo,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
 b:value:mapa_gdzie:baaadba4a42b,in the Castle Battle,,gongseongjeon-eseo,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
 b:value:mapa_dokad:07c49b66b602,to Castle Battle,,gongseongjeon-euro,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
@@ -84,8 +84,8 @@ b:value:nagroda_exp:885ccb1f2894,a little,,jogeum,a value inside a bot chat line
 b:value:nagroda_exp:b39028df8e5d,some,,jom,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
 b:value:nagroda_exp:9da4941dcc86,little,,jjokkeum,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
 b:value:nagroda_exp:4ce2a0424290,huge,,eomcheongnan,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
-b:value:opcja:6335a6f0ac18,Yes,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
-b:value:opcja:3cb1e607f711,No,,,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),new
+b:value:opcja:6335a6f0ac18,Yes,,ne,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
+b:value:opcja:3cb1e607f711,No,,ani,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
 b:value:punkt:17b56a6d61f7,by the blacksmith,,daejangjangi apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:1bdf40b04d2e,by the storekeeper,,changgojigi apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:d108ba9a34b3,by the general store,,japhwasangjeom apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
@@ -97,41 +97,41 @@ b:value:punkt:7603a9c0f685,by the teleporter,,tellepoteo apeseo,a value inside a
 b:value:punkt:3d82432fea57,by the guard,,gyeongbiwon apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:491e3d01d71a,at the fountain,,bunsu apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
 b:value:punkt:4e317a8624d9,at the gate,,seongmun apeseo,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
-b:value:miejsce:62399958a7d0,in the north,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:25c9fdfa2b65,in the south,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:56781c2cf224,in the east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:b1adc724b507,in the west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:78df13c74ede,in the north-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:9f4176845969,in the north-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:c83226783f92,in the south-east,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:a5421a8d6445,in the south-west,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
-b:value:miejsce:cf1d1430599c,in the middle of the map,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:62399958a7d0,in the north,,bukjjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:25c9fdfa2b65,in the south,,namjjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:56781c2cf224,in the east,,dongjjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:b1adc724b507,in the west,,seojjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:78df13c74ede,in the north-east,,bukdongjjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:9f4176845969,in the north-west,,bukseojjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:c83226783f92,in the south-east,,namdongjjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:a5421a8d6445,in the south-west,,namseojjok-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:cf1d1430599c,in the middle of the map,,maep jungang-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:2aa68e64f3a9,in the middle,,junganeseo,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
-b:value:miejsce:3ea23e849e26,in town,,,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),new
+b:value:miejsce:3ea23e849e26,in town,,maeul-e,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:17b56a6d61f7,by the blacksmith,,daejangjangi apeseo,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:event:a7cd6b386f9e,chest,,sangja,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:d6bf2ac8e5aa,exp,,exp,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
-b:value:event:0261947d160e,drop,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:0261947d160e,drop,,deurop,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:5dd1e336e60a,OX,,OX,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
-b:value:event:abe13955878a,fishing,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:abe13955878a,fishing,,naksi,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:7c6fbb10a935,okey,,okey,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:723fcc6c751b,hunt,,sanyang,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:zyczenie:5cd5483e4bed,necklace 4 bonuses,,4opsyeon mokgeori,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:86da28dd7421,weapon,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:53b9fc7320a7,armour,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:37138e64438a,helmet,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:8586cd8f19ae,shield,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:2e7dcf330923,bracelet,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:160b70583efd,necklace,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
-b:value:zyczenie:bbd25e33b194,earrings,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:86da28dd7421,weapon,,mugi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:53b9fc7320a7,armour,,gabot,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:37138e64438a,helmet,,tugu,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:8586cd8f19ae,shield,,bangpae,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:2e7dcf330923,bracelet,,paljji,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:160b70583efd,necklace,,mokgeori,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:bbd25e33b194,earrings,,gwigeori,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:99a58151ea37,shoes,,sinbal,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:867b1ac0df2f,belt,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:867b1ac0df2f,belt,,heori,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:bon:befc8e0c69d7,15% crit,,15% crit,a value inside a bot chat line ({bon}) | keep: % c | ASCII letters only (no accents),done
 b:value:bon:ae38a493622a,crit,,keuri,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:e8bf090f86c6,pierce,,gwantong,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:9580bf1c7b07,avg,,pyeongta,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:742277ef94a1,avg dmg,,pyeongtadem,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
-b:value:bon:48b1dea554e4,skill,,,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),new
+b:value:bon:48b1dea554e4,skill,,seukil,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:d1eb04c08ce3,skill dmg,,seukildem,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:13bff01a10db,half-humans,,banin,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
 b:value:bon:dc21f5379a5a,half-human,,banin,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
@@ -177,7 +177,7 @@ b:value:zyczenie:f468476ac9b4,something better,,deo joeun geo,a value inside a b
 b:value:zyczenie:3cde15c10dd6,an int piece for buffs,,beopyong jineung jangbi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:0e186c39ef10,something,,amugeona,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:9580bf1c7b07,avg,,pyeongta,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
-b:value:zyczenie:cf89261ff21e,bonuses,,,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),new
+b:value:zyczenie:cf89261ff21e,bonuses,,boneoseu,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:462d8778a8b9,with hp,,hp itneun geo,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:e23b059cf0f1,with crit,,keuri itneun geo,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
 b:value:zyczenie:333ed85ed18f,with pierce,,gwantong itneun geo,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
@@ -213,7 +213,7 @@ b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,geomi deonjeon 2,a value inside a
 b:value:miejsce:2c795176ca49,Spider Dungeon,,geomi deonjeon,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:b31499e63c9b,Monkey Dungeon II,,wonsungi deonjeon II,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
 b:value:miejsce:70b0bb28251c,Monkey Dungeon III,,wonsungi deonjeon III,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
-b:value:event:69701ca9cd50,experience,,,a value inside a bot chat line ({event}) | ASCII letters only (no accents),new
+b:value:event:69701ca9cd50,experience,,gyeongheomchi,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:76c98b350b4d,drop chance,,deurop hwakryul,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:e9f23cd8afb5,yang from monsters,,monseuteo yang,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
 b:value:event:857c886d74ce,Moonlight Treasure Chests drop from monsters and Metin stones,,dalbit bomul sangja monseuteo-rang metin-eseo deurop,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
@@ -649,53 +649,53 @@ b:phrase:2229da6583bc,Off %s to shop. Back when I'm done.,,%s 장 보러 가. �
 b:phrase:86c72e2689be,Costumes are switched off on this server.,,이 서버에서는 코스튬이 꺼져 있어.,"a phrase the server says (bots' help, notices)",done
 b:phrase:c548694c309f,Only a Bleach takes a hairstyle off: put one in your companion's bag and right-click it.,,헤어스타일은 탈색제로만 지울 수 있어: 동료 가방에 하나 넣고 우클릭해.,"a phrase the server says (bots' help, notices)",done
 b:phrase:24f62bce6137,That is not for your companion's sex.,,그건 네 동료 성별용이 아니야.,"a phrase the server says (bots' help, notices)",done
-b:phrase:b64d93faab41,That is not for your companion's class.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:28a1e24aa3cc,"Your companion's level is too low (needs %ld, has %d).",,,"a phrase the server says (bots' help, notices) | keep: %ld %d",new
-b:phrase:90891f38977f,Your companion has too little %s (needs %ld).,,,"a phrase the server says (bots' help, notices) | keep: %s %ld",new
-b:phrase:5ff2b2b7dbe8,Your companion already wears something of the same group.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:feca66e85d41,Your companion has no room in its bag.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b3a0f5a97be5,That cannot be taken off now - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:bde5cfa1320d,Taken off. Your companion will not put it on by itself (unpin it so it can again).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:34b63a89ed44,Your companion already wears that.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d950963ec11e,That does not go in that place.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,,"a phrase the server says (bots' help, notices) | keep: %d %u",new
-b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,,"a phrase the server says (bots' help, notices) | keep: %d %u",new
-b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:b64d93faab41,That is not for your companion's class.,,그건 동료의 직업에 맞지 않아.,"a phrase the server says (bots' help, notices)",done
+b:phrase:28a1e24aa3cc,"Your companion's level is too low (needs %ld, has %d).",,"동료의 레벨이 너무 낮아 (필요 %ld, 현재 %d).","a phrase the server says (bots' help, notices) | keep: %ld %d",done
+b:phrase:90891f38977f,Your companion has too little %s (needs %ld).,,동료의 %s이(가) 부족해 (필요 %ld).,"a phrase the server says (bots' help, notices) | keep: %s %ld",done
+b:phrase:5ff2b2b7dbe8,Your companion already wears something of the same group.,,동료가 이미 같은 그룹의 아이템을 착용하고 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:feca66e85d41,Your companion has no room in its bag.,,동료의 가방에 자리가 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b3a0f5a97be5,That cannot be taken off now - try again in a moment.,,지금은 벗길 수 없어 - 잠시 후 다시 해 봐.,"a phrase the server says (bots' help, notices)",done
+b:phrase:bde5cfa1320d,Taken off. Your companion will not put it on by itself (unpin it so it can again).,,벗겼어. 동료는 스스로 다시 착용하지 않아 (다시 착용하게 하려면 고정을 해제해).,"a phrase the server says (bots' help, notices)",done
+b:phrase:34b63a89ed44,Your companion already wears that.,,동료가 이미 그걸 착용하고 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d950963ec11e,That does not go in that place.,,그건 그 자리에 들어가지 않아.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,거기 착용한 건 벗길 수 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,착용했어. 동료는 스스로 벗지 않아.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,공격이 끝나면 바로 착용할 거야.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",일격을 마치는 대로 착용할 거야.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,벗을 걸 넣을 가방 자리가 없어. 자리가 생기면 바로 착용할게.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,지금은 그걸 착용할 수 없어 - 잠시 후 다시 해 볼게.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,염색약은 헤어스타일에 효과가 없어 - 먼저 탈색제로 벗겨.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,동료의 가방에 헤어스타일을 넣을 자리가 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,지금은 사용할 수 없어 - 잠시 후 다시 해 봐.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,헤어스타일이 그대로 남았어 - 잠시 후 다시 해 봐.,"a phrase the server says (bots' help, notices)",done
+b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,헤어스타일을 벗겨서 동료 가방에 넣었어. 이제 다른 걸 착용할 수 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,이 아이템은 지금 사용 중이야.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,용혼석은 여기서 넘겨줄 수 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,동료의 묶음에 추가됨: %d / %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,내 묶음에 추가됨: %d / %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,동료 가방에 자리가 없어서 벗길 수 없어 - 먼저 동료 가방에서 뭔가를 꺼내.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,먼저 동료 가방으로 벗겨 - 착용 중인 장비는 파괴할 수 없어.,"a phrase the server says (bots' help, notices)",done
 b:phrase:428e6ef00a33,Only an item of your companion's bag can be destroyed.,,동료 가방의 아이템만 파괴할 수 있습니다.,"a phrase the server says (bots' help, notices)",done
-b:phrase:3c558e5dde53,A wrong order - update the client.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:6df0f99cf491,There is no Dragon Stone there.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:df46ed21e70e,Take your stone off into Alchemy first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:fa06bfaadd84,Cannot equip now - retry after the blow (Alchemy needs level 30 and the system enabled).,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a6a0111b2b7c,"No room in your companion's Alchemy, or the worn stone is busy.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5db48babbec4,No room in your companion's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:dd98923fb774,The stone stayed in Alchemy - try again shortly.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a357663af4a9,Stone equipped and pinned. The Alchemy deck is on if the stone has time left.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:807d20d974f0,Take the stone off into Alchemy first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:a0d4c5b18394,No room for that stone in the recipient's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d00c1ac02c07,Cannot take the stone off: make room in your companion's Alchemy and retry shortly.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:ecdeed6935f1,The stone is in your Alchemy window.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:d109977bad80,The stone is in your companion's Alchemy.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c39a046c5d37,You don't have that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5dfbf4e87080,Your companion doesn't have that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:7aa8c630142a,Your companion can't hold that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:5ab8b0247fc4,You can't hold that much yang.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:96e5c9c6d47b,I stop fishing and come back to you.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:c5e0daa9a770,"I'm fishing right here by the water. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:307c589a26ce,I'm playing on my own now. Call me first.,,,"a phrase the server says (bots' help, notices)",new
-b:phrase:9b6854456949,"My equipment is locked, and a rod goes in the hand. Unlock it in Options.",,,"a phrase the server says (bots' help, notices)",new
-b:phrase:20bd1af599f8,I can't get to the water from here.,,,"a phrase the server says (bots' help, notices)",new
+b:phrase:3c558e5dde53,A wrong order - update the client.,,순서가 잘못됐어 - 클라이언트를 업데이트해.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,동료가 이미 옮겼어 - 아무것도 파괴되지 않았어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6df0f99cf491,There is no Dragon Stone there.,,거기엔 용혼석이 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:df46ed21e70e,Take your stone off into Alchemy first.,,먼저 용혼석을 연금술로 빼.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fa06bfaadd84,Cannot equip now - retry after the blow (Alchemy needs level 30 and the system enabled).,,지금은 장착할 수 없어 - 공격 후 다시 해 봐 (연금술은 레벨 30과 시스템 활성화가 필요해).,"a phrase the server says (bots' help, notices)",done
+b:phrase:a6a0111b2b7c,"No room in your companion's Alchemy, or the worn stone is busy.",,동료의 연금술에 자리가 없거나 착용한 용혼석이 사용 중이야.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5db48babbec4,No room in your companion's Alchemy.,,동료의 연금술에 자리가 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dd98923fb774,The stone stayed in Alchemy - try again shortly.,,용혼석이 연금술에 남았어 - 잠시 후 다시 해 봐.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a357663af4a9,Stone equipped and pinned. The Alchemy deck is on if the stone has time left.,,용혼석을 장착하고 고정했어. 남은 시간이 있으면 연금술 덱이 켜져 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:807d20d974f0,Take the stone off into Alchemy first.,,먼저 용혼석을 연금술로 빼.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0d4c5b18394,No room for that stone in the recipient's Alchemy.,,받는 쪽 연금술에 그 용혼석을 넣을 자리가 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d00c1ac02c07,Cannot take the stone off: make room in your companion's Alchemy and retry shortly.,,용혼석을 뺄 수 없어: 동료의 연금술에 자리를 만들고 잠시 후 다시 해 봐.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ecdeed6935f1,The stone is in your Alchemy window.,,용혼석은 네 연금술 창에 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d109977bad80,The stone is in your companion's Alchemy.,,용혼석은 동료의 연금술에 있어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c39a046c5d37,You don't have that much yang.,,그만큼의 냥이 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5dfbf4e87080,Your companion doesn't have that much yang.,,동료에게 그만큼의 냥이 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7aa8c630142a,Your companion can't hold that much yang.,,동료는 그만큼의 냥을 가질 수 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5ab8b0247fc4,You can't hold that much yang.,,그만큼의 냥을 가질 수 없어.,"a phrase the server says (bots' help, notices)",done
+b:phrase:96e5c9c6d47b,I stop fishing and come back to you.,,낚시 그만하고 너한테 돌아갈게.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5e0daa9a770,"I'm fishing right here by the water. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,"여기 물가에서 낚시하는 중이야. 물고기는 내 가방에 들어가. 돌아와야 할 때 불러 줘 (부르기, 또는 다시 낚시).","a phrase the server says (bots' help, notices)",done
+b:phrase:307c589a26ce,I'm playing on my own now. Call me first.,,지금은 나 혼자 놀고 있어. 먼저 불러 줘.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9b6854456949,"My equipment is locked, and a rod goes in the hand. Unlock it in Options.",,내 장비가 잠겨 있고 낚싯대는 손에 들어야 해. 옵션에서 잠금을 풀어 줘.,"a phrase the server says (bots' help, notices)",done
+b:phrase:20bd1af599f8,I can't get to the water from here.,,여기서는 물가에 갈 수 없어.,"a phrase the server says (bots' help, notices)",done
