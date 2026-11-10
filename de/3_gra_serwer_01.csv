@@ -58,7 +58,7 @@ e:b6ff5f54e965,"You are ready to warp, so you cannot use the Scroll of the Locat
 e:9a80a78942f1,You are being brought back to the place of origin.,Wróciłeś do punktu wyjścia.,Du wirst zum Ausgangsort zurückgebracht.,server message (chat/system line),done
 e:9c4771cf2cca,%s%s cannot be used in a dungeon.,%s%s nie może być użyty w lochu.,%s%s kann nicht in einem Dungeon benutzt werden.,server message (chat/system line) | keep: %s %s,done
 e:3bdf0ba57a9f,[Quest] You have already received your reward.,[Misja] Odebrałeś już swoją nagrodę.,[Quest] Du hast deine Belohnung bereits erhalten.,server message (chat/system line),done
-e:bbccdf2efb33,the,the,the,server message (chat/system line),check
+e:bbccdf2efb33,the,the,der,server message (chat/system line),done
 e:2c55caf19c26,There aren't any Soul Stones available for extraction.,Przedmiot nie posiada Kamienia Duszy do wyjęcia.,Es sind keine Seelensteine zum Herauslösen vorhanden.,server message (chat/system line),done
 e:112b47bc7a42,There aren't any Pieces of Broken Stone available for removal.,Przedmiot nie posiada Odłamku Kamienia do usuwania.,Es sind keine zerbrochenen Steinstücke zum Entfernen vorhanden.,server message (chat/system line),done
 e:00354e039be2,You cannot change the upgrade of this item.,Nie możesz zmienić ulepszenia tego Przedmiotu.,Die Verbesserung dieses Gegenstands kann nicht geändert werden.,server message (chat/system line),done
@@ -236,7 +236,7 @@ e:1e2d5afae4a1,[Guild] There are no experience points for hunting during a guild
 e:54c171964b96,When the Blessing of the Emperor is used %s the HP and SP are restored again.,"Gdy Błogosławieństwo Imperatora jest użyte, przywraca ponownie %s punktów PŻ i PE.","Wenn der Segen des Kaisers benutzt wird, %s werden TP und MP wiederhergestellt.",server message (chat/system line) | keep: %s,done
 e:779c656e26f6,My information about the emperor,Informacje Mojego Imperatora,Meine Informationen über den Kaiser,server message (chat/system line),done
 e:f378ea6e2201,[%sMonarch] : %s Yang owned %lld,[Monarcha %s] : %s Posiadanie Yang %lld,[%sMonarch] : %s Yang im Besitz %lld,server message (chat/system line) | keep: %s %s %lld,done
-e:1d3b8a6d2aa1,[%sMonarch] : %s,[Monarcha %s] : %s,[%sMonarch] : %s,server message (chat/system line) | keep: %s %s,check
+e:1d3b8a6d2aa1,[%sMonarch] : %s,[Monarcha %s] : %s,[%sMonarch] : %s,server message (chat/system line) | keep: %s %s,done
 e:8c95a4ee38b4,Information about the emperor,Informacje Imperatora,Informationen über den Kaiser,server message (chat/system line),done
 e:dc0675834279,Only an emperor can use this.,Tylko Imperator może tego użyć,Nur ein Kaiser kann das benutzen.,server message (chat/system line),done
 e:19696a4c4101,Choose a number between 1 and 50.,Wybierz liczbę pomiędzy 1 a 50.,Wähle eine Zahl zwischen 1 und 50.,server message (chat/system line),done
@@ -527,7 +527,7 @@ e:0d73a39cd6b4,There is no limit for Potions.,Nie ma limitu mikstur.,Es gibt kei
 e:18008d671b19,You can use up to %d potions.,Możesz użyć tylko %d mikstur.,Du kannst bis zu %d Tränke benutzen.,server message (chat/system line) | keep: %d,done
 e:6218b4a87a62,The fight will start in 10 seconds.,Walka rozpoczyna się za 10 sekund.,Der Kampf beginnt in 10 Sekunden.,server message (chat/system line),done
 e:9a04ed26f572,The duel has begun.,Pojedynek rozpoczęty.,Das Duell hat begonnen.,server message (chat/system line),done
-e:fddf1df7c30c,TRUE,TRUE,TRUE,server message (chat/system line),check
+e:fddf1df7c30c,TRUE,TRUE,TRUE,server message (chat/system line),done
 e:cff150645b50,The duel is being finished because there is a problem in the duel arena.,Pojedynek został zakończony z powodu problemów z areną.,"Das Duell wird beendet, weil es in der Duellarena ein Problem gibt.",server message (chat/system line),done
 e:8a281b861599,The duel has finished because of a timeout.,Pojedynek został zakończony z powodu upływu czasu.,Das Duell ist wegen Zeitüberschreitung beendet.,server message (chat/system line),done
 e:ab3fbb34a1b7,In 10 seconds you will be teleported into the city.,Za 10 sekund zostaniesz przeniesiony do miasta.,In 10 Sekunden wirst du in die Stadt teleportiert.,server message (chat/system line),done
@@ -538,7 +538,7 @@ e:62e580b7f524,%s has won the duel.,%s wygrał pojedynek.,%s hat das Duell gewon
 e:315b937d315b,%s has won.,%s wygrał.,%s hat gewonnen.,server message (chat/system line) | keep: %s,done
 e:afac302154ad,You will be teleported into the city in 10 seconds.,Zostaniesz przeniesiony do Miasta za 10 sekund.,Du wirst in 10 Sekunden in die Stadt teleportiert.,server message (chat/system line),done
 e:245d0ead5923,The next round will begin in 10 seconds.,Następna runda rozpoczyna się za 10 sekund.,Die nächste Runde beginnt in 10 Sekunden.,server message (chat/system line),done
-e:0ed2d7b5cdb7,FALSE,FALSE,FALSE,server message (chat/system line),check
+e:0ed2d7b5cdb7,FALSE,FALSE,FALSE,server message (chat/system line),done
 e:17c06ef31a1f,The combatants have been separated. The duel has been stopped.,Wojownicy się rozdzielili. Pojedynek zakończony.,Die Kämpfer wurden getrennt. Das Duell wurde gestoppt.,server message (chat/system line),done
 e:6c28b2c801bd,The quota of the Item Drop is at the moment plus %d%%,Aktualnie szansa na wypadnięcie przedmiotu to: +%d%%,Die Gegenstandsdroprate liegt derzeit bei plus %d%%,server message (chat/system line) | keep: %d,done
 e:451dff90d205,The quota of the Yang Drop is at the moment plus %d%%,Ilość wypadających Yang jest zwiększona o: %d%%,Die Yang-Droprate liegt derzeit bei plus %d%%,server message (chat/system line) | keep: %d,done
