@@ -87,7 +87,7 @@ c:locale_game:TOOLTIP_SOCKET_EMPTY,Empty,Pusty,Boş,client: game texts (localeIn
 c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],[Slotlu Nesne],client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_SP_REGEN,SP Regeneration +%d%%,Regeneracja Mikstur PE: +%d%%,SP Üretimi +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_STR,Strength +%d,Siła: +%d,Güç +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_TIME_CHARGER_FIX,Time charging %d sec.,Ładowanie czasu %d sek.,Süre Yükleme %d sn.,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_TIME_CHARGER_PER,Time charging %d%%,Ładowanie czasu %d%% ,Süre Yükleme %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_UNIQUE,Unique,Unikat,Eşsiz,client: game texts (localeInfo),done
@@ -98,9 +98,9 @@ c:locale_game:TOOLTIP_WRISTLET,Wristlet,Bransoleta,Bileklik,client: game texts (
 c:locale_game:UI_ACCEPT,Accept,Akceptuj,Kabul,client: game texts (localeInfo),done
 c:locale_game:UI_CANCEL,Cancel,Anuluj,iptal,client: game texts (localeInfo),done
 c:locale_game:UI_CLOSE,Close,Zamknij,Kapat,client: game texts (localeInfo),done
-c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),check
-c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),check
-c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),check
+c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),done
 c:locale_game:UI_DENY,Decline,Odrzuć,Red,client: game texts (localeInfo),done
 c:locale_game:UI_ITEM,Item,Przedmiot,Nesne,client: game texts (localeInfo),done
 c:locale_game:UI_LEFT_TIME,Remaining Time: %d Sec.,Pozostały Czas: %d Sek.,Kalan Zaman: %d Sec.,client: game texts (localeInfo) | keep: %d,done
@@ -123,7 +123,7 @@ c:locale_game:MINIMAP_SHRINK,Shrink,Zmniejsz,Küçült,client: game texts (local
 c:locale_game:TOOLTIP_ESCAPE_OPTION,Use this if your character gets stuck.,"Użyj, kiedy zablokujesz się w ""teksturach"".",Karakterin bir yerde takılıp kalırsa bunu kullan.,client: game texts (localeInfo),done
 c:locale_game:AUTOSTACK_INVENTORY,All stackable items in your inventory have been combined.,Połączono wszystkie możliwe do połączenia przedmioty w ekwipunku.,Envanterindeki birleştirilebilir tüm eşyalar birleştirildi.,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_REASON_HACK,Other hacks / cheats,Inne hacki/cheaty,Diğer hile/hack'ler,client: game texts (localeInfo),done
-c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,Bot,client: game texts (localeInfo),check
+c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,Bot,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_REASON_FISHBOT,Fishing bot,Fishbot,Balıkçı botu,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_REASON_INSULT,Abusive language,Wyzwiska,Hakaret,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_SELECT_REASON,Select a reason for reporting this player.,Wybierz powód zgłoszenia.,Bu oyuncuyu bildirme nedenini seç.,client: game texts (localeInfo),done
@@ -264,25 +264,25 @@ c:locale_game:TOOLTIP_POTION_COOLDOWN,Reusable after %s,Ponowne użycie po %s,%s
 c:locale_game:CHAT_TRADE,Trade,Handel,Ticaret,client: game texts (localeInfo),done
 c:locale_game:COMB_COST,Price: %s,Cena: %s,Ücret: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:CRAFTING_FILTER_ALL,All,Wszystko,Tümü,client: game texts (localeInfo),done
-c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,Miryang,client: game texts (localeInfo),check
-c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,Songpa,client: game texts (localeInfo),check
-c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,Daeyami,client: game texts (localeInfo),check
+c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,Miryang,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,Songpa,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,Daeyami,client: game texts (localeInfo),done
 c:locale_game:ITEM_ACTON_DELETE,Delete,Usuń,Sil,client: game texts (localeInfo),done
 c:locale_game:MAP_BAYBLACKSAND,Nephrite Bay,Nefrytowa Zatoka,Nefrit Körfezi,client: game texts (localeInfo),done
 c:locale_game:MAP_CAPEDRAGONHEAD,Cape Dragon Fire,Przylądek Smoczego Ognia,Ejderha Ateşi Burnu,client: game texts (localeInfo),done
 c:locale_game:MAP_DAWNMISTWOOD,Gautama Cliff,Klif Gautama,Gautama Uçurumu,client: game texts (localeInfo),done
 c:locale_game:MAP_DEVILCATACOMB,Devil's Catacomb,Diabelskie Katakumby,Şeytan Katakombu,client: game texts (localeInfo),done
 c:locale_game:MAP_DEVILTOWER1,Demon Tower,Wieża Demonów,Şeytan Kulesi,client: game texts (localeInfo),done
-c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
-c:locale_game:MAP_GUILD_02,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
-c:locale_game:MAP_GUILD_03,Imha,Imha,Imha,client: game texts (localeInfo),check
+c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_02,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_03,Imha,Imha,Imha,client: game texts (localeInfo),done
 c:locale_game:MAP_MILGYO,Hwang Temple,Świątynia Hwang,Hwang Tapınağı,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
-c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,Jungsun Dong,client: game texts (localeInfo),check
-c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,Sangsun Dong,client: game texts (localeInfo),check
-c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
-c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
-c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,Jungsun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,Sangsun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
 c:locale_game:MAP_MT_THUNDER,Thunder Mountains,Gromiste Góry,Yıldırım Dağları,client: game texts (localeInfo),done
 c:locale_game:MAP_NUSLUCK01,Land of Giants,Kraina Gigantów,Devler Diyarı,client: game texts (localeInfo),done
 c:locale_game:MAP_N_DESERT_01,Yongbi Desert,Pustynia Yongbi,Yongbi Çölü,client: game texts (localeInfo),done
@@ -364,14 +364,14 @@ c:locale_game:CHANNEL_99,Special Channel,Kanał Specjalny,Özel Kanal,client: ga
 c:locale_game:CHANNEL_STATUS_BUSY,BUSY,BUSY,Kalabalık,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_FULL,FULL,FULL,Dolu,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_OFFLINE,OFF,OFF,KAPALI,client: game texts (localeInfo),done
-c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),check
+c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_SWITCH_PREMIUM_ERROR,This channel is only for Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,Bu kanal sadece Premium hesaplar içindir.,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_CREATE_MODE,Create a character,Utwórz postać,Karakter Oluştur,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_SELECT_MODE,Choose a character,Wybierz postać,Sunucu seç,client: game texts (localeInfo),done
 c:locale_game:CHAT_TRADE_LIMIT,The trade chat takes one message every 30 seconds.,Czat handlowy posiada ograniczenie 30 sekund od poprzedniej wiadomości.,Ticaret sohbetinde her 30 saniyede bir mesaj yazabilirsin.,client: game texts (localeInfo),done
-c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,check
-c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),check
-c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),check
+c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),done
+c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),done
 c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,Yang,client: game texts (localeInfo),done
 c:locale_game:COMB_CANT_APPEND_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,Bu nesne kullanılamaz.,client: game texts (localeInfo),done
 c:locale_game:COMB_CANT_APPEND_SEALED_ITEM,You cannot use a soulbound item.,Nie możesz używać przedmiotu przywiązanego do duszy.,Ruha bağlı eşyaları kullanamazsın.,client: game texts (localeInfo),done
@@ -447,7 +447,7 @@ c:locale_game:ITEMSHOP_CATEGORY_SCROLLS_AND_BOOKS,Scrolls and books,Zwoje i ksi�
 c:locale_game:ITEMSHOP_CATEGORY_SUBSCRIPTION,Premium Account,Konto Premium,Premium Hesap,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CATEGORY_TIMED,Flash Offers,Oferty Błyskawiczne,Hızlı Müzayedeler,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CATEGORY_USE_VOUCHER,Redeem a voucher,Wykorzystaj voucher,Kupon kullan,client: game texts (localeInfo),done
-c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,VIP,client: game texts (localeInfo),check
+c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,VIP,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CHECK,Check,Sprawdź,Kontrol et,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CONFIM_BUY,Do you want to buy %s (x%d) for %s?,Czy chcesz kupić %s (szt. %d) za %s?,%s (x%d) eşyasını %s karşılığında satın almak istiyor musun?,client: game texts (localeInfo) | keep: %s %d %s,done
 c:locale_game:ITEMSHOP_EVENT_HAPPYHOUR,Happy Hour,Happy Hour,Mutlu Saat,client: game texts (localeInfo),done
@@ -621,10 +621,10 @@ c:locale_game:SHOP_SEARCH_CATEGORY_REFINE,Upgrade Items,Ulepszacze,Yükseltme E�
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT1,Desert I,Pustynia I,Çöl I,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT2,Desert II,Pustynia II,Çöl II,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_END,High level,Wysoki poziom,Yüksek seviye,client: game texts (localeInfo),done
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Hwang,client: game texts (localeInfo),check
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Hwang,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,M1,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,M2,client: game texts (localeInfo),done
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Sohan,client: game texts (localeInfo),check
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Sohan,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_OATH,Sworn,Zaprzysiężone,Yemin,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_ORC,Valley,Dolina,Vadi,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_PEARL,Pearls,Perły,İnciler,client: game texts (localeInfo),done
