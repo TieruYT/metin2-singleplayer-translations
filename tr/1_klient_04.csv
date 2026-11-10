@@ -63,14 +63,14 @@ c:locale_game:GMP_HDR_GM,GM rank,,GM yetkisi,client: game texts (localeInfo),don
 c:locale_game:GMP_RANK_LOW,Low Wizard,,Alt Büyücü,client: game texts (localeInfo),done
 c:locale_game:GMP_RANK_HIGH,High Wizard,,Yüksek Büyücü,client: game texts (localeInfo),done
 c:locale_game:GMP_RANK_GOD,God,,Tanrı,client: game texts (localeInfo),done
-c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),check
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_ADD,Grant rank,,Yetki ver,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_REMOVE,Remove GM...,,GM yetkisini al...,client: game texts (localeInfo),done
 c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,%s karakterinin GM yetkisi alınsın mı?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_GM_HINT,Only an Implementor changes other ranks. Applies at once.,,Diğer yetkileri sadece Implementor değiştirir. Hemen uygulanır.,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_SAVED,Rank saved,,Yetki kaydedildi,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_BOTS,Bots,,Botlar,client: game texts (localeInfo),done
-c:locale_game:GMP_BOT_PID,Bot PID:,,Bot PID:,client: game texts (localeInfo),check
+c:locale_game:GMP_BOT_PID,Bot PID:,,Bot PID:,client: game texts (localeInfo),done
 c:locale_game:GMP_PICK_DOTS,Pick...,,Seç...,client: game texts (localeInfo),done
 c:locale_game:GMP_BOT_SPAWN,Spawn bots,,Botları spawn et,client: game texts (localeInfo),done
 c:locale_game:GMP_BOT_DESPAWN,Despawn bots,,Botları kaldır,client: game texts (localeInfo),done
@@ -79,7 +79,7 @@ c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Botlar: %s / %s (toplam %
 c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Bir krallık seç,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Canavarlar ve metinler,client: game texts (localeInfo),done
 c:locale_game:GMP_MOB,Monster:,,Canavar:,client: game texts (localeInfo),done
-c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),check
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWN,Spawn,,Spawn et,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWNED,Spawned %s of %s,,%s / %s spawn edildi,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_ERR_NO_MOB,No such monster,,Böyle bir canavar yok,client: game texts (localeInfo),done
@@ -93,7 +93,7 @@ c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Hızlı
 c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Havuz... bir kademedeki patronları gösterir,client: game texts (localeInfo),done
 c:locale_game:GMP_BOSS_1,1 boss,,1 patron,client: game texts (localeInfo),done
 c:locale_game:GMP_BOSS_5,5 bosses,,5 patron,client: game texts (localeInfo),done
-c:locale_game:GMP_METIN_1,1 metin,,1 metin,client: game texts (localeInfo),check
+c:locale_game:GMP_METIN_1,1 metin,,1 metin,client: game texts (localeInfo),done
 c:locale_game:GMP_METIN_3,3 metins,,3 metin,client: game texts (localeInfo),done
 c:locale_game:GMP_POOL,Pool...,,Havuz...,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_CITIES,Cities,,Şehirler,client: game texts (localeInfo),done
@@ -178,9 +178,9 @@ c:locale_interface:CHARACTER_SKILL,Skill,Umiejętności,Beceri,client: window te
 c:locale_interface:CLOSE,Close,Zamknij,Kapat,client: window texts (uiScriptLocale),done
 c:locale_interface:COSTUME_TITLE,Costumes,Kostiumy,Kostümler,client: window texts (uiScriptLocale),done
 c:locale_interface:COSTUME_WINDOW_TITLE,Costumes,Kostiumy,Kostümler,client: window texts (uiScriptLocale),done
-c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),check
+c:locale_interface:CREATE_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_CREATE,Create,Utwórz,Oluştur,client: window texts (uiScriptLocale),done
-c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),check
+c:locale_interface:CREATE_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_LAST_POINT,Points,Punkty,Puan,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_MAN,Man,Mężczyzna,Erkek,client: window texts (uiScriptLocale),done
@@ -189,7 +189,7 @@ c:locale_interface:CREATE_NEXT,Next,Dalej,Sonraki,client: window texts (uiScript
 c:locale_interface:CREATE_PREV,Back,Wróć,Önceki,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SEX,Gender,Płeć,Cinsiyet,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Biçim,client: window texts (uiScriptLocale),done
-c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),check
+c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Sıfırla,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Kadın,client: window texts (uiScriptLocale),done
 c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Arındırma Kılavuzu,client: window texts (uiScriptLocale),done
@@ -283,8 +283,8 @@ c:locale_interface:GUILD_MEMBER_NAME,Name,Nazwa,Isim,client: window texts (uiScr
 c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Sıra,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Yatırım,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Zihin,client: window texts (uiScriptLocale),done
-c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),check
-c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),check
+c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Mineral,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_NAME,Guild,Gildia,Lonca,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Kaynak Bilgisi,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Aktif,client: window texts (uiScriptLocale),done
@@ -299,7 +299,7 @@ c:locale_interface:GUILD_WAR_CTF,Flag,Flagi,Bayrak,client: window texts (uiScrip
 c:locale_interface:GUILD_WAR_DECLARE,Declare Guild War,Deklaruj Wojnę Gildii,Lonca Savaşı İlanı,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WAR_ENEMY,Enemy,Wróg,Düşman,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WAR_NORMAL,Field,Pole,Alan,client: window texts (uiScriptLocale),done
-c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),check
+c:locale_interface:GUILD_WAR_WARP,Arena,Arena,Arena,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WATER,Water,Woda,Su,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WATER_STONE,Waterstone,Kamień Wodny,Su Taşı,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_WITHDRAW,Take,Weź,Geri Çek,client: window texts (uiScriptLocale),done
@@ -394,7 +394,7 @@ c:locale_interface:OPTION_MUSIC_CHANGE,Change,Zmień,Değiştir,client: window t
 c:locale_interface:OPTION_MUSIC_DEFAULT_THEMA,Standard Music of Metin2,Standardowa Muzyka Metin2,Eternal Standart Müziği,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_NAME_COLOR,Name Color,Kolor Nazw,Renk ismi,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_NAME_COLOR_EMPIRE,Kingdom Color,Królestwa,Ülke Rengi,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),check
+c:locale_interface:OPTION_NAME_COLOR_NORMAL,Normal,Normalny,Normal,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE,PvP Mode,Tryb PvP,PvP Modu,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE_FREE,Free,Wolny,Serbest,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_PVPMODE_FREE_TOOLTIP,You can attack all players.,Możesz atakować wszystkich graczy.,Tüm oyunculara saldırma izni var.,client: window texts (uiScriptLocale),done
@@ -413,8 +413,8 @@ c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Kapat,client: windo
 c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Göster,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING,Graphic,Grafika,GPU,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Uygula,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),check
-c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),check
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TITLE,Options,Opcje,Seçenekler,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Sohbet Satırı,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Gizle,client: window texts (uiScriptLocale),done
@@ -439,10 +439,10 @@ c:locale_interface:RESTART_HERE,Restart here,Rozpocznij tutaj,Burada yeniden ba�
 c:locale_interface:RESTART_TOWN,Restart in the City,Rozpocznij w Mieście,Şehirde yeniden başla,client: window texts (uiScriptLocale),done
 c:locale_interface:SAFE_CHANGE_PASSWORD,Change Password,Zmień Hasło,Şifre Değiştir,client: window texts (uiScriptLocale),done
 c:locale_interface:SAFE_TITLE,Storeroom,Magazyn,Depo,client: window texts (uiScriptLocale),done
-c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),check
+c:locale_interface:SELECT_ATT_GRADE,STR,SIŁA,STR,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_CREATE,Create,Stwórz,Oluştur,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_DELETE,Delete,Usuń,Sil,client: window texts (uiScriptLocale),done
-c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),check
+c:locale_interface:SELECT_DEX_GRADE,DEX,ZRĘ,DEX,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_EMPIRE_NAME,Name of Kingdom,Nazwa Królestwa,Krallık İsmi,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_EXIT,Close,Zamknij,Çıkış,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_HP,HP,PŻ,HP,client: window texts (uiScriptLocale),done
@@ -522,7 +522,7 @@ c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Wł
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,Gece 22:00 ile 06:00 arası sürer.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Bilgisayarının saatini kullanır.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_TITLE,Quest text,Tekst misji,Görev metni,client: window texts (uiScriptLocale),done
-c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),check
+c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_0,Normal,Domyślny,Normal,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_1,Fast,Szybki,Hızlı,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_QUEST_TEXT_DELAY_2,Instant,Błyskaw.,Anında,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_FLOATING_TEXT,Effect info,Info o efekt.,Efekt bilgisi,client: window texts (uiScriptLocale),done
@@ -610,7 +610,7 @@ c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Kısa,client: win
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Orta,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Uzun,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Çok uzun,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Maksimum,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Kenar yumuşatma,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Kapalı,client: window texts (uiScriptLocale),done
@@ -626,7 +626,7 @@ c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, G
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Düşük,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Orta,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Yüksek,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Dokular,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Varsayılan,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Klasik dokular,client: window texts (uiScriptLocale),done
@@ -680,8 +680,8 @@ c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScr
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
-c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),check
-c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),check
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Kaydet,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Bağlan,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Sil,client: window texts (uiScriptLocale),done
