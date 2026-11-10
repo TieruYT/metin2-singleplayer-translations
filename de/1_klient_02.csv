@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 c:locale_game:TOOLTIP_MEMORIZED_POSITION,"%s(%d, %d)","%s (%d, %d)","%s(%d, %d)",client: game texts (localeInfo) | keep: %s %d %d,done
-c:locale_game:TOOLTIP_MEMORIZED_POSITION_ERROR,"GPS ERROR(%d, %d)","BRAK NAZWY (%d, %d)","GPS ERROR(%d, %d)",client: game texts (localeInfo) | keep: %d %d,check
+c:locale_game:TOOLTIP_MEMORIZED_POSITION_ERROR,"GPS ERROR(%d, %d)","BRAK NAZWY (%d, %d)","GPS-FEHLER(%d, %d)",client: game texts (localeInfo) | keep: %d %d,done
 c:locale_game:TOOLTIP_MOV_SPEED,Moving Speed %d%%,Szybkość Ruchu %d%%,Bewegungsgeschwindigkeit %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_NECK,Necklace,Naszyjnik,Halskette,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_NEED_ALL_SP,Needed SP: Max.,Wymagane PE: Max,Benötigte MP: Max.,client: game texts (localeInfo),done
@@ -37,14 +37,14 @@ c:locale_game:TOOLTIP_PICK_UPGRADE1,Give to the Lumberjack,Daj to Drwalowi,Gib d
 c:locale_game:TOOLTIP_PICK_UPGRADE2,to get a better,aby dostać,um eine bessere zu bekommen,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_PICK_UPGRADE3,Pickaxe.,ulepszony Kilof.,Spitzhacke.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_POTION_CURE,Cure negative effects.,Usuń negatywne skutki.,Heile negative Effekte.,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_POTION_PLUS_ATTACK_SPEED,Attack speed +%d,Szybkość Ataku +%d,Angriffsgeschwindigkeit +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_HP_PERCENT,HP +%d%%,PŻ +%d%%,TP +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_HP_POINT,HP +%d,PŻ +%d,TP +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_MOVING_SPEED,Movement speed +%d,Szybkość Ruchu +%d,Bewegungsgeschwindigkeit +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_SP_PERCENT,SP +%d%%,PE +%d%%,MP +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_SP_POINT,SP +%d,PE +%d,MP +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_POTION_SEC,Sec.,Sek.,Sec.,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_POTION_SEC,Sec.,Sek.,Sek.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_POTION_TIME,Duration:,Czas trwania:,Dauer:,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REQUIREMENT_21_LEVEL,You must have reached Level 21.,Musisz osiągnąć Poziom 21.,Du musst Stufe 21 erreicht haben.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REQUIREMENT_41_LEVEL,You must have reached Level 41.,Musisz osiągnąć Poziom 41.,Du musst Stufe 41 erreicht haben.,client: game texts (localeInfo),done
@@ -87,7 +87,7 @@ c:locale_game:TOOLTIP_SOCKET_EMPTY,Empty,Pusty,Leer,client: game texts (localeIn
 c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],[Gegenstand mit Sockel],client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_SP_REGEN,SP Regeneration +%d%%,Regeneracja Mikstur PE: +%d%%,MP-Regeneration +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_STR,Strength +%d,Siła: +%d,Stärke +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_TIME_CHARGER_FIX,Time charging %d sec.,Ładowanie czasu %d sek.,Zeitaufladung %d Sek.,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_TIME_CHARGER_PER,Time charging %d%%,Ładowanie czasu %d%% ,Ladezeit %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_UNIQUE,Unique,Unikat,Einzigartig,client: game texts (localeInfo),done
@@ -98,9 +98,9 @@ c:locale_game:TOOLTIP_WRISTLET,Wristlet,Bransoleta,Handgelenkstasche,client: gam
 c:locale_game:UI_ACCEPT,Accept,Akceptuj,Annehmen,client: game texts (localeInfo),done
 c:locale_game:UI_CANCEL,Cancel,Anuluj,Abbrechen,client: game texts (localeInfo),done
 c:locale_game:UI_CLOSE,Close,Zamknij,Schliessen,client: game texts (localeInfo),done
-c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),check
-c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),check
-c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),check
+c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),done
 c:locale_game:UI_DENY,Decline,Odrzuć,Ablehnen,client: game texts (localeInfo),done
 c:locale_game:UI_ITEM,Item,Przedmiot,Artikel,client: game texts (localeInfo),done
 c:locale_game:UI_LEFT_TIME,Remaining Time: %d Sec.,Pozostały Czas: %d Sek.,Verbleibende Zeit: %d Sek.,client: game texts (localeInfo) | keep: %d,done
@@ -140,7 +140,7 @@ c:locale_game:SHOP_ERROR_TOO_MUCH_GOLD,"Shop earnings cannot exceed 2,000,000,00
 c:locale_game:MYSHOP_BUY,Someone bought |cffd9ca75%dx %s|r from your shop for |cffd9ca75%s|r.,Ktoś zakupił |cffd9ca75%dx %s|r z Twojego sklepiku za |cffd9ca75%s|r.,Jemand hat |cffd9ca75%dx %s|r aus deinem Shop für |cffd9ca75%s|r gekauft.,client: game texts (localeInfo) | keep: %d %s %s; |c...|r colour codes,done
 c:locale_game:MYSHOP_MANAGE_OPEN_ERROR,You have no open shop and your shop storage is empty.,"Nie masz otwartego sklepu, a depozyt sklepu jest pusty.",Du hast keinen offenen Shop und dein Shoplager ist leer.,client: game texts (localeInfo),done
 c:locale_game:SHOP_REMOVE_ITEM_QUESTION,Remove %dx %s from the shop?,Czy chcesz usunąć %dx %s ze sklepu?,%dx %s aus dem Shop entfernen?,client: game texts (localeInfo) | keep: %d %s,done
-c:locale_game:SHOP_NAME_TITLE,Shop - %s,Sklep - %s,Shop - %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:SHOP_NAME_TITLE,Shop - %s,Sklep - %s,Laden - %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:SHOP_PLACE_ITEM_ON_LOCKED_SLOT,You cannot place an item in this shop slot.,Nie możesz postawić przedmiotu na tym miejscu w sklepie.,Auf diesen Shopplatz kannst du keinen Gegenstand legen.,client: game texts (localeInfo),done
 c:locale_game:SHOP_NO_PREMIUM,You do not have a premium shop.,Nie posiadasz sklepu premium.,Du hast keinen Premium-Shop.,client: game texts (localeInfo),done
 c:locale_game:SHOP_DURATION_TOOLTIP_TEXT,From %d to %d hours,Od %d do %d godz.,Von %d bis %d Stunden,client: game texts (localeInfo) | keep: %d %d,done
@@ -304,7 +304,7 @@ c:locale_game:MAP_WL_01,Snakefield,Wężowe Pole,Schlangenfeld,client: game text
 c:locale_game:MOVE_CHANNEL_CANCEL,Cancel,Anuluj,Abbrechen,client: game texts (localeInfo),done
 c:locale_game:MOVE_CHANNEL_SELECT,OK,OK,Ok,client: game texts (localeInfo),done
 c:locale_game:REFINE_BONUS_ITEM_WEAPON,Weapon,Broń,Waffe,client: game texts (localeInfo),done
-c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,Neutral,client: game texts (localeInfo),check
+c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,Neutral,client: game texts (localeInfo),done
 c:locale_game:REPUTATION_RANK1,Friendly,Przyjazny,Freundlich,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_QUEST,Missions,Misje,Missionen,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY4,Shoes,Buty,Schuhe,client: game texts (localeInfo),done
@@ -364,7 +364,7 @@ c:locale_game:CHANNEL_99,Special Channel,Kanał Specjalny,Sonderkanal,client: ga
 c:locale_game:CHANNEL_STATUS_BUSY,BUSY,BUSY,VOLL,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_FULL,FULL,FULL,ÜBERF.,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_OFFLINE,OFF,OFF,AUS,client: game texts (localeInfo),done
-c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),check
+c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_SWITCH_PREMIUM_ERROR,This channel is only for Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,Dieser Kanal ist nur für Premium-Konten.,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_CREATE_MODE,Create a character,Utwórz postać,Charakter erstellen,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_SELECT_MODE,Choose a character,Wybierz postać,Server auswählen,client: game texts (localeInfo),done
@@ -650,7 +650,7 @@ c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_COOK,Grilled Fish,Ryby Pieczone,Gegr
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_FISH_OTHER,Other,Inne,Sonstiges,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_PRIMARY,Basic Herbs,Podstawowe Zioła,Grundkräuter,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HERBS_SPECIAL,Special Herbs,Specjalne Zioła,Spezialkräuter,client: game texts (localeInfo),done
-c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_LEARN,Training,Szkolenie,Training,client: game texts (localeInfo),check
+c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_LEARN,Training,Szkolenie,Training,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_HORSE_OTHER,Other,Inne,Sonstiges,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY1,Earrings,Kolczyki,Ohrringe,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY2,Necklaces,Naszyjniki,Halsketten,client: game texts (localeInfo),done
