@@ -62,7 +62,7 @@ p:c84fa2587ddc,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Stark
 p:1f83ddc18fb4,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Stark gegen Monster +%d%%,"APPLY_TEXTS[63][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:9ee5d4bd694f,Attack Value +%d%%,Wartość Ataku: +%d%%,Angriffswert +%d%%,"APPLY_TEXTS[64][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:de6fc43c64bc,Defence +%d%%,Obrona: +%d%%,Verteidigung +%d%%,"APPLY_TEXTS[65][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:0bf3b96fbebf,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Drop-Chance für Gegenstände multipliziert mit %.1f,"APPLY_TEXTS[67][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:fda3aeb92023,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Drop-Chance für Yang multipliziert mit %.1f,"APPLY_TEXTS[68][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,Max. TP +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -86,7 +86,7 @@ p:65602182ba4b,Earth resistance +%d%%,Odporność na ziemię +%d%%,Erdwiderstand
 p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,Widerstand gegen Dunkelheit +%d%%,"APPLY_TEXTS[89][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Widerstand gegen kritische Treffer +%d%%,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Widerstand gegen durchbohrende Treffer +%d%%,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:b35287fee0ec,Terror +%d%%,Terror +%d%%,Terror +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:b35287fee0ec,Terror +%d%%,Terror +%d%%,Terror +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,Ausdauerregeneration +%d%%,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,Dolchangriff gegen Monster +%d,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,Angriffswert gegen Monster +%d,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -137,15 +137,15 @@ p:f5bc75bbb4e0,Luring monsters,Wabi potwory,Lockt Monster an,"BOT_ACTION_LABELS[
 p:74a471687265,Resting in town,Odpoczywa w mieście,Rastet in der Stadt,"BOT_ACTION_LABELS[17] / T['ai_rest'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c56ff7cabce3,Mining ore,Kopie rudę,Baut Erz ab,"BOT_ACTION_LABELS[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:5efe86656028,Doing a quest,Robi questa,Erledigt eine Quest,"BOT_ACTION_LABELS[19] | the classic web panel (browser, UTF-8: any letter)",done
-p:7c7f5d049fad,Level,Poziom,Level,"BOT_AMBITION_LABELS[0] / MAP_I18N['level'] | the classic web panel (browser, UTF-8: any letter)",check
+p:7c7f5d049fad,Level,Poziom,Stufe,"BOT_AMBITION_LABELS[0] / MAP_I18N['level'] | the classic web panel (browser, UTF-8: any letter)",done
 p:36155d48f460,Equipment,Ekwipunek,Ausrüstung,"BOT_AMBITION_LABELS[1] / T['dc_kind_equip'] | the classic web panel (browser, UTF-8: any letter)",done
-p:9334c768771b,Metins,Metiny,Metins,"BOT_AMBITION_LABELS[2] / T['se_metins'] | the classic web panel (browser, UTF-8: any letter)",check
+p:9334c768771b,Metins,Metiny,Metins,"BOT_AMBITION_LABELS[2] / T['se_metins'] | the classic web panel (browser, UTF-8: any letter)",done
 p:26dfe8116b93,Horse,Koń,Pferd,"BOT_AMBITION_LABELS[3] / MAP_I18N['rank_horse'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d345da7a3983,Biologist,Biolog,Biologe,"BOT_AMBITION_LABELS[4] / MAP_I18N['rank_biologist'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e09212c7d3ea,Skills,Umiejętności,Fertigkeiten,"BOT_AMBITION_LABELS[5] / MAP_I18N['rank_skills'] | the classic web panel (browser, UTF-8: any letter)",done
 p:b0811e470d6b,Trade,Handel,Handel,"BOT_AMBITION_LABELS[6] / MAP_I18N['gear_tab_trade'] | the classic web panel (browser, UTF-8: any letter)",done
 p:861c4f67e887,easy,łatwy,leicht,"BOT_DAILY_GOAL_DIFFICULTY[0] | the classic web panel (browser, UTF-8: any letter)",done
-p:9c2a6e4809ae,normal,normalny,normal,"BOT_DAILY_GOAL_DIFFICULTY[1] | the classic web panel (browser, UTF-8: any letter)",check
+p:9c2a6e4809ae,normal,normalny,normal,"BOT_DAILY_GOAL_DIFFICULTY[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:cae5970fc939,hard,trudny,schwer,"BOT_DAILY_GOAL_DIFFICULTY[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:bab052f2a1e6,Gain a level,Wbić poziom,Ein Level aufsteigen,"BOT_DAILY_GOAL_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8c6510578b95,Gain 2 levels,Wbić 2 poziomy,2 Level aufsteigen,"BOT_DAILY_GOAL_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -177,7 +177,7 @@ p:9f39509fa926,Hunting mission,Misja Polowania,Jagdmission,"BOT_GOAL_LABELS[10] 
 p:cd944c99eec2,Develop horse,Rozwój konia,Pferd ausbilden,"BOT_GOAL_LABELS[11] | the classic web panel (browser, UTF-8: any letter)",done
 p:1913d000a541,Herb research,Badania ziół,Kräuterforschung,"BOT_GOAL_LABELS[13] | the classic web panel (browser, UTF-8: any letter)",done
 p:4e0fa4378f15,Poor,Słaby,Schwach,"BOT_MOOD_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",done
-p:45e118d0563e,Normal,Normalny,Normal,"BOT_MOOD_LABELS[1] / T['ai_pvpset_strength_1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:45e118d0563e,Normal,Normalny,Normal,"BOT_MOOD_LABELS[1] / T['ai_pvpset_strength_1'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f5babd392090,Very good,Bardzo dobry,Sehr gut,"BOT_MOOD_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3fa31d0538b0,refine euphoria,euforia po ulepszeniu,Euphorie nach einer Verbesserung,"BOT_MOOD_LOCK_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:a20b536b37b6,capitulation (anti-PK),kapitulacja (Anty-PK),Kapitulation (Anti-PK),"BOT_MOOD_LOCK_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -189,12 +189,12 @@ p:1cd8e1160023,Team companion,Towarzysz drużyny,Gruppengefährte,"BOT_PERSONALI
 p:7471d55742b9,Gear specialist,Mistrz ekwipunku,Ausrüstungsmeister,"BOT_PERSONALITY_LABELS[3] | the classic web panel (browser, UTF-8: any letter)",done
 p:1aaccf46f46a,Careful collector,Rozważny zbieracz,Umsichtiger Sammler,"BOT_PERSONALITY_LABELS[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:0ed527aeba16,Merchant,Handlarz,Händler,"BOT_PERSONALITY_LABELS[5] | the classic web panel (browser, UTF-8: any letter)",done
-p:ae36a27aaaf6,Wanderer,Wędrowiec,Wanderer,"BOT_PERSONALITY_LABELS[6] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:ae36a27aaaf6,Wanderer,Wędrowiec,Wanderer,"BOT_PERSONALITY_LABELS[6] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:4a3ef228df85,Metin dropper,Dropek Metinów,Metin-Farmer,"BOT_PERSONALITY_LABELS[7] | the classic web panel (browser, UTF-8: any letter)",done
 p:ae29ec418b7b,M3 weapon dropper,Dropek z M3,M3-Waffen-Farmer,"BOT_PERSONALITY_LABELS[8] | the classic web panel (browser, UTF-8: any letter)",done
 p:ba9418ead99d,M2 dropper (Warrior),Dropek M2 (Wojownik),M2-Farmer (Krieger),"BOT_PERSONALITY_LABELS[9] / T['m2w_role'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f2fb7f44dcbd,Medal dropper,Dropek medali,Medaillen-Farmer,"BOT_PERSONALITY_LABELS[10] | the classic web panel (browser, UTF-8: any letter)",done
-p:88557672dea9,Grinder,Grinder,Grinder,"BOT_PERSONA_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",check
+p:88557672dea9,Grinder,Grinder,Grinder,"BOT_PERSONA_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",done
 p:3deabb07a754,Conqueror,Zdobywca,Eroberer,"BOT_PERSONA_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:de5e04489960,Trader,Handlarz,Händler,"BOT_PERSONA_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bfd171baed7,Gambler,Hazardzista,Zocker,"BOT_PERSONA_LABELS[3] | the classic web panel (browser, UTF-8: any letter)",done
@@ -218,8 +218,8 @@ p:3163a85fc381,Bonus Master,Mistrz Bonusów,Bonusmeister,"BOT_PERSONA_LABELS[20]
 p:41dc3110c0fa,Bargain Hunter,Łowca Okazji,Schnäppchenjäger,"BOT_PERSONA_LABELS[21] | the classic web panel (browser, UTF-8: any letter)",done
 p:b63f21fd8d7c,Daily Goal,Cel Dnia,Tagesziel,"BOT_PERSONA_LABELS[22] / MAP_I18N['daily_goal'] | the classic web panel (browser, UTF-8: any letter)",done
 p:945eda39d82d,Warrior,Wojownik,Krieger,"CLASS_NAMES[0] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
-p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:6f6596271da8,Shaman,Szaman,Schamane,"CLASS_NAMES[3] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:c5adaadd6439,Lycan,Lykan,Lykaner,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",done
 p:cf4aa98d6a2a,a weaker blow than the weapon taken off: {a},słabszy cios niż zdjęta broń: {a},ein schwächerer Schlag als die abgelegte Waffe: {a},"DECISION_ANOMALIES['blow_down'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -279,7 +279,7 @@ p:f403de3ac3ab,horse medal,medal konny,Pferdemedaille,"DECISION_ENUMS['FIXED'][5
 p:eba8e06de737,Dried Head,Suszona Głowa,getrockneter Kopf,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,Frisur,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
 p:b0b12884dbb6,Magic Dust,Magiczny Pył,Magischer Staub,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
-p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",check
+p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (aus der Stufentabelle),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,Standzeiten,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:b6c935d4f3c7,min,min,Min.,"DECISION_ENUMS['CLOCK_UNIT'][1] / T['unit_min'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -432,7 +432,7 @@ p:234787539762,a level-30 weapon family,rodzina broni 30 lv,Waffenfamilie Lv 30,
 p:4b379de69232,the class's level-30 weapon,broń 30 lv tej klasy,die Waffe Lv 30 der Klasse,"DECISION_ROLES[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3d14efd7f548,a level-30 weapon project,projekt broni 30 lv,Projekt Waffe Lv 30,"DECISION_ROLES[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:494193e923a9,a lines project,projekt bonusów,Bonus-Projekt,"DECISION_ROLES[8] | the classic web panel (browser, UTF-8: any letter)",done
-p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",check
+p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",done
 p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,Stalki für das Level behalten,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
 p:a68ea0574790,a higher-tier spare,zapas na wyższy stopień,Ersatz für eine höhere Stufe,"DECISION_ROLES[64] | the classic web panel (browser, UTF-8: any letter)",done
 p:359c623d2295,a backup,zapas,Ersatz,"DECISION_ROLES[128] | the classic web panel (browser, UTF-8: any letter)",done
@@ -479,7 +479,7 @@ p:88c99472ab2a,Unknown step,Nieznany krok,Unbekannter Schritt,"DECISION_STEPS[0]
 p:cc11b3a28fa3,Context,Kontekst,Kontext,"DECISION_STEPS[1][2] / MAP_I18N['ex_context'] | the classic web panel (browser, UTF-8: any letter)",done
 p:12ad80de2ef2,"curve {value}, yang rate {a}, inflation {b} ({c} steps)","krzywa {value}, stawka yang {a}, inflacja {b} (kroków: {c})","Kurve {value}, Yang-Rate {a}, Inflation {b} ({c} Schritte)","DECISION_STEPS[1][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:8ef3a2cfe9cc,Bonus line,Linia bonusu,Bonuszeile,"DECISION_STEPS[2][2] | the classic web panel (browser, UTF-8: any letter)",done
-p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",check
+p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:36dec63eb9a5,Lines at the top,Linie na maksimum,Zeilen am Maximum,"DECISION_STEPS[3][2] | the classic web panel (browser, UTF-8: any letter)",done
 p:fae8d9a96771,"{a} lines at the top, multiplier {value}","linii na maksimum: {a}, mnożnik {value}","{a} Zeilen am Maximum, Faktor {value}","DECISION_STEPS[3][3] | keep: {a} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:0e7d592cffc6,Bonus premium,Dopłata za bonusy,Bonus-Aufschlag,"DECISION_STEPS[4][2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -604,7 +604,7 @@ p:da1b872e0bd7,Iwakura's tier (%),Stopień z listy Iwakury (%),Iwakuras Stufe (%
 p:ed74e8460ce7,Listed jewel (%),Biżuteria z listy (%),Gelisteter Schmuck (%),"DECISION_TERMS[12][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:d4dcff8ecf82,Boots family,Rodzina butów,Schuhfamilie,"DECISION_TERMS[13][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:1405d1843c2b,Level limit,Wymagany poziom,Levelgrenze,"DECISION_TERMS[14][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:2d05d0f179ce,Plus,Plus,Plus,"DECISION_TERMS[15][1] | the classic web panel (browser, UTF-8: any letter)",check
+p:2d05d0f179ce,Plus,Plus,Plus,"DECISION_TERMS[15][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e5df2d31e2b2,Blow (total),Cios (razem),Schlag (gesamt),"DECISION_TERMS[20][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e926878a5c5a,Weapon attack roll,Rzut ataku broni,Angriffswurf der Waffe,"DECISION_TERMS[21][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:62ee8c37463c,Magic attack roll,Rzut ataku magicznego,Magischer Angriffswurf,"DECISION_TERMS[22][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -670,14 +670,14 @@ p:5075d0e08eee,Bonus lines rerolled (buff set),Zmieniono bonusy (set buffów),Bo
 p:248af2db80d7,blacksmith (scroll not worth it),kowal (zwój nieopłacalny),Schmied (Schriftrolle lohnt nicht),"IWAKURA_SCROLL_UNPROFITABLE_LABEL | the classic web panel (browser, UTF-8: any letter)",done
 p:f80bd79e4024,Warrior (M),Wojownik (M),Krieger (M),"JOB_NAMES_MAP[0] | the classic web panel (browser, UTF-8: any letter)",done
 p:72927eec5726,Warrior (F),Wojowniczka (K),Kriegerin (W),"JOB_NAMES_MAP[4] | the classic web panel (browser, UTF-8: any letter)",done
-p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",check
+p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",done
 p:c7933bb2b4f9,Ninja (F),Ninja (K),Ninja (W),"JOB_NAMES_MAP[1] | the classic web panel (browser, UTF-8: any letter)",done
-p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",check
+p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:e18c73ccad6d,Sura (F),Sura (K),Sura (W),"JOB_NAMES_MAP[6] | the classic web panel (browser, UTF-8: any letter)",done
 p:30e681f8c5bd,Shaman (M),Szaman (M),Schamane (M),"JOB_NAMES_MAP[7] | the classic web panel (browser, UTF-8: any letter)",done
 p:981f1a942a27,Shaman (F),Szamanka (K),Schamanin (W),"JOB_NAMES_MAP[3] | the classic web panel (browser, UTF-8: any letter)",done
 p:0d550a145ad2,Live world map — Chunjo,Mapa świata na żywo — Chunjo,Live-Weltkarte — Chunjo,"MAP_I18N['title'] | the classic web panel (browser, UTF-8: any letter)",done
-p:2aeef2222166,LIVE (3 s),NA ŻYWO (3 s),LIVE (3 s),"MAP_I18N['live'] | the classic web panel (browser, UTF-8: any letter)",check
+p:2aeef2222166,LIVE (3 s),NA ŻYWO (3 s),LIVE (3 s),"MAP_I18N['live'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e61243b31133,Interactive real-time view of bot positions and progression,Interaktywny podgląd pozycji i rozwoju botów w czasie rzeczywistym,Interaktive Echtzeit-Ansicht der Positionen und des Fortschritts der Bots,"MAP_I18N['subtitle'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d49b89942ac9,Player panel,Panel graczy,Spieler-Panel,"MAP_I18N['player_panel'] | the classic web panel (browser, UTF-8: any letter)",done
 p:43edfc7009b5,Play in browser,Graj w przeglądarce,Im Browser spielen,"MAP_I18N['play_browser'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -686,15 +686,15 @@ p:5e361041bfd8,Names and levels,Nicki i poziomy,Namen und Level,"MAP_I18N['names
 p:6fe0d01b70d6,Party only (PT),Tylko w grupie (PT),Nur in Gruppe (PT),"MAP_I18N['pt_only'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a72085653e4,All,Wszystkie,Alle,"MAP_I18N['all'] / MAP_I18N['gear_tab_all'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ab478f3efc84,Map,Mapa,Karte,"MAP_I18N['map'] / T['pl_map'] | the classic web panel (browser, UTF-8: any letter)",done
-p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8454362a7d5b,Chunjo guild map,Ziemia Klanu Chunjo,Gildenland Chunjo,"MAP_I18N['m3'] | the classic web panel (browser, UTF-8: any letter)",done
-p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:74dc273555d1,Shinsoo guild map,Ziemia Klanu Shinsoo,Gildenland Shinsoo,"MAP_I18N['s3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8be7a9b748c6,Shinsoo Monkey Dungeon,Loch Małp Shinsoo,Affendungeon Shinsoo,"MAP_I18N['smonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",check
-p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",check
+p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",done
+p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,Gildenland Jinno,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,Affendungeon Jinno,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,Affendungeon (leicht),"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
