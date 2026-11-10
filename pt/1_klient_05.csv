@@ -16,13 +16,13 @@ c:locale_interface:GM_BAN_WHY,WHY?!,,PORQUÊ?!,client: window texts (uiScriptLoc
 c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,Introduz um motivo...,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_BUTTON,Ban,,Banir,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,Tempo restante: 30s,client: window texts (uiScriptLocale),done
-c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,check
+c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,Código: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,Introduz o código CAPTCHA,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,Restam: 45s,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,Código:,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,Tentativas restantes: 3,client: window texts (uiScriptLocale),done
-c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),check
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,MD,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,MaD,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,Confirmar compra,client: window texts (uiScriptLocale),done
@@ -139,7 +139,7 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% ou 
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% ou mais,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% ou mais,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,só 25%,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Brilhante,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Raro,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,Antigo,client: offline shop and market,done
@@ -223,7 +223,7 @@ c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to mov
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,Preço médio: |cFF99FF99|hA pedir...|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,Preço médio: |cFFFF9999|hIndisponível|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,Preço médio: |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
-c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,check
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|hDesconhecido|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,Decorações de banca,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,Decoração de banca n.º {},client: offline shop and market | keep: {},done
@@ -247,7 +247,7 @@ c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,Itens,client: the in-game Wiki,done
 c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,Disponível em,client: the in-game Wiki,done
 c:wiki_game:WIKI_BACK,Back,Wstecz,Voltar,client: the in-game Wiki,done
 c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biólogo,client: the in-game Wiki,done
-c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bosses,client: the in-game Wiki,check
+c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bosses,client: the in-game Wiki,done
 c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,Bosses de evento,client: the in-game Wiki,done
 c:wiki_game:WIKI_CATEGORY,Category,Kategoria,Categoria,client: the in-game Wiki,done
 c:wiki_game:WIKI_CHESTS,Chests,Skrzynie,Baús,client: the in-game Wiki,done
@@ -263,9 +263,9 @@ c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Traje,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Trajes,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Penteado,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Faixa,client: the in-game Wiki,done
-c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,check
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
 c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,Dano: %d - %d,client: the in-game Wiki | keep: %d %d,done
-c:wiki_game:WIKI_DROP,Drop,Drop,Drop,client: the in-game Wiki,check
+c:wiki_game:WIKI_DROP,Drop,Drop,Drop,client: the in-game Wiki,done
 c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,Lista de drops de %s,client: the in-game Wiki | keep: %s,done
 c:wiki_game:WIKI_DROP_COUNT,%d items,%d przedmiotów,%d itens,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_DS_ADD,Additional (%d-%d drawn from the list):,Dodatkowe (losowo %d-%d z listy):,Adicionais (%d-%d tirados da lista):,client: the in-game Wiki | keep: %d %d,done
@@ -288,15 +288,15 @@ c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Armas,client: the in-game Wiki
 c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Experiência,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Expandir,client: the in-game Wiki,done
 c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,Probabilidades base dos ficheiros do servidor - Ctrl+Alt+botão direito abre a página no navegador,client: the in-game Wiki,done
-c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
 c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,PV máx.: %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Info de melhoria de %s,client: the in-game Wiki | keep: %s,done
-c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
 c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Nome do item,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,done
 c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Xamã,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,done
 c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Guerreiro,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Nível %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Nível %d,client: the in-game Wiki | keep: %d,done
@@ -331,7 +331,7 @@ c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,Baú,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,Drop segundo posto e nível,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,Fabrico,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,Pesca,client: the in-game Wiki,done
-c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,Monstro,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,Missão ou recompensa,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,Refinação,client: the in-game Wiki,done
@@ -345,12 +345,12 @@ c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,EXP,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_HP,HP,PŻ,PV,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Nível,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Fontes,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,done
 c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Sistemas,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,done
 c:wiki_game:WIKI_TAG_KING,KING,KRÓL,REI,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
-c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,done
 c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Sistema Wiki,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Joias,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alquimia,client: the in-game Wiki,done
@@ -370,19 +370,19 @@ c:wiki_game:WIKI_UPGRADE_COSTS,Next Item,Następny poziom,Item seguinte,client: 
 c:wiki_game:WIKI_YANG_COSTS,Yang costs,Koszt Yang,Custo em yang,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_NOTE,Chance for a character at most 1 level above the monster.,Szansa dla postaci najwyżej 1 poziom wyżej od potwora.,Chance para personagem no máximo 1 nível acima do monstro.,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_TABLE,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.","Wyżej o 5 poz.: 92%, o 10: 50% (boss, metin: 30%), o 15+: 1%.","5 níveis acima: 92%, 10: 50% (chefe, Metin: 30%), 15+: 1%.",client: the in-game Wiki,done
-c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guides,client: the in-game Wiki,check
-c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Rules and tips,client: the in-game Wiki,check
-c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Local beta rules,client: the in-game Wiki,check
-c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Hairstyles,client: the in-game Wiki,check
-c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,Spawn locations,client: the in-game Wiki,check
-c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,and %d more locations,client: the in-game Wiki | keep: %d,check
-c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,order,client: the in-game Wiki,check
-c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),Wheel of Fortune (ItemShop),client: the in-game Wiki,check
-c:wiki_game:WIKI_EVENTS,Event,Event,Event,client: the in-game Wiki,check
-c:wiki_game:WIKI_OTHER,Other,Inne,Other,client: the in-game Wiki,check
-c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Server event (when active),client: the in-game Wiki,check
-c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Moonlight event: drops depend on the event settings.,client: the in-game Wiki,check
-c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,client: the in-game Wiki,check
+c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guias,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Regras e dicas,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Regras da beta local,client: the in-game Wiki,done
+c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Penteados,client: the in-game Wiki,done
+c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,Locais de spawn,client: the in-game Wiki,done
+c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,e mais %d locais,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,ordem,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),Roda da Fortuna (ItemShop),client: the in-game Wiki,done
+c:wiki_game:WIKI_EVENTS,Event,Event,Evento,client: the in-game Wiki,done
+c:wiki_game:WIKI_OTHER,Other,Inne,Outro,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Evento do servidor (quando ativo),client: the in-game Wiki,done
+c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Evento Luar: os drops dependem das definições do evento.,client: the in-game Wiki,done
+c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 orelha de Tanaka por 1 baú de ébano roxo.,client: the in-game Wiki,done
 c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,definições de combate,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,Não foi possível guardar o atalho da caça auto.,"client: our windows (companion, Auto Hunt, status lines)",done
