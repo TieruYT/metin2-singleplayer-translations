@@ -87,7 +87,7 @@ p:b89f0d7436f8,Changes how fast the character runs. 100 is normal; this only wor
 p:133e8064a206,"Gives this character the in-game admin commands, typed into the chat box as /command. Granting works immediately; taking it away needs the player to log out and back in.","Daje tej postaci komendy administratora w grze, wpisywane w czacie jako /komenda. Nadanie działa od razu; odebranie wymaga wylogowania i ponownego zalogowania gracza.","Gibt diesem Charakter die Admin-Befehle im Spiel, die als /befehl ins Chatfenster getippt werden. Vergeben wirkt sofort; Entziehen wirkt erst, wenn der Spieler sich aus- und wieder einloggt.","T['tip_gm'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c5bde8a4edcb,"Experience, item drops and yang for the whole server. Saving restarts the game for under a minute.","Doświadczenie, drop przedmiotów i yang dla całego serwera. Zapis restartuje grę na mniej niż minutę.","Erfahrung, Item-Drops und Yang für den ganzen Server. Beim Speichern startet das Spiel für weniger als eine Minute neu.","T['tip_rates'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c0908e1f8706,Seven digits the game asks for when you delete a character. Pick something you will remember.,"Siedem cyfr, o które gra pyta przy kasowaniu postaci. Wybierz coś, co zapamiętasz.","Sieben Ziffern, nach denen das Spiel fragt, wenn du einen Charakter löschst. Wähle etwas, das du dir merkst.","T['tip_delcode'] | the classic web panel (browser, UTF-8: any letter)",done
-p:2da600bf9404,Version,Wersja,Version,"T['ver_label'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:2da600bf9404,Version,Wersja,Version,"T['ver_label'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:50d8b4a941c2,unknown,nieznana,unbekannt,"T['ver_unknown'] / T['rs_unknown'] | the classic web panel (browser, UTF-8: any letter)",done
 p:436e482c5160,"This build does not carry a version file, so the panel cannot say which one it is — and will not guess. Update checks stay off until it can.","Ta kompilacja nie ma pliku wersji, więc panel nie potrafi powiedzieć, która to — i nie będzie zgadywał. Sprawdzanie aktualizacji jest wyłączone, dopóki nie będzie mógł.","Dieser Build enthält keine Versionsdatei, also kann das Panel nicht sagen, welche Version es ist — und rät nicht. Solange bleibt die Update-Prüfung ohne Wirkung.","T['ver_unknown_why'] | the classic web panel (browser, UTF-8: any letter)",done
 p:1f28310dca78,Patch log,Lista zmian,Änderungsprotokoll,"T['pl_nav'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -209,7 +209,7 @@ p:6499fdd94572,"The share of bots that will start a duel with a bot of another k
 p:d7c50a080cb3,peace,pokój,Frieden,"T['ai_kpvp_off'] | the classic web panel (browser, UTF-8: any letter)",done
 p:3de5d496edf0,Moonlight Treasure Chests,Szkatułki Księżycowe,Mondschein-Schatztruhen,"T['ai_chest'] | the classic web panel (browser, UTF-8: any letter)",done
 p:a84f6abf6087,"Choose how often Moonlight Treasure Chests drop during their event (Events page). The standard chances are 1% per monster and 30% per Metin; ×2 doubles the standard chance. No chests drop outside the event. Changes apply within five seconds, equally to players and bots; item-drop rates and level differences do not multiply this chance.","Wybierz, jak często wypadają Szkatułki Blasku Księżyca podczas ich eventu (strona Eventy). Podstawa to 1% z potwora i 30% z Metina; ×2 podwaja podstawową szansę. Poza eventem szkatułki nie wypadają. Zmiana działa w pięć sekund, tak samo dla graczy i botów; raty dropu i różnica poziomów nie mnożą tej szansy.","Wähle, wie oft Mondschein-Schatztruhen während ihres Events fallen (Seite Events). Der Standard beträgt 1% pro Monster und 30% pro Metin; ×2 verdoppelt die Standardchance. Außerhalb des Events fallen keine Truhen. Änderungen gelten binnen fünf Sekunden für Spieler und Bots gleichermaßen; Dropraten und Levelunterschiede multiplizieren diese Chance nicht.","T['ai_chest_help'] | keep: % p % p | the classic web panel (browser, UTF-8: any letter)",done
-p:785162c0bfdc,🎉 Events,🎉 Eventy,🎉 Events,"T['ev_nav'] | the classic web panel (browser, UTF-8: any letter)",check
+p:785162c0bfdc,🎉 Events,🎉 Eventy,🎉 Events,"T['ev_nav'] | the classic web panel (browser, UTF-8: any letter)",done
 p:965bf1a54f1e,🎉 Open events,🎉 Otwórz eventy,🎉 Events öffnen,"T['ev_open'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6e6beba8eb34,🛡 Guilds,🛡 Gildie,🛡 Gilden,"T['gl_nav'] | the classic web panel (browser, UTF-8: any letter)",done
 p:9e69d2385063,🛡 Open guilds,🛡 Otwórz gildie,🛡 Gilden öffnen,"T['gl_open'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -217,18 +217,18 @@ p:c2e469718e4a,"The bot guilds by tier: elite, strong, medium and ordinary, with
 p:fe015083c7b3,"A bot guild has a tier. Every bot's strength is one number (level, weapon, skills, horse, armour); every ten minutes each kingdom's bots are cut into percentiles, and a guild is founded at the tier its founder's percentile puts it in: the top 3% found an elite guild, the top 15% a strong one, the top half a medium one, the rest an ordinary one. A master recruits only above its tier's floor, strongest first; a member that outgrows its guild leaves for a better one. Members offer the guild a share of their experience every hour, so a guild levels and its master spends the skill points.","Gildia botów ma klasę. Siła każdego bota to jedna liczba (poziom, broń, umiejętności, koń, zbroja); co dziesięć minut boty każdego królestwa dzielone są na percentyle, a gildia powstaje w klasie, do której trafia percentyl założyciela: górne 3% zakłada gildię elitarną, górne 15% silną, górna połowa średnią, reszta zwykłą. Mistrz rekrutuje tylko powyżej progu swojej klasy, od najsilniejszych; członek, który przerósł gildię, odchodzi do lepszej. Członkowie co godzinę oddają gildii część zdobytego expa, więc gildia wbija poziomy, a mistrz wydaje punkty umiejętności.","Eine Bot-Gilde hat eine Stufe. Die Stärke jedes Bots ist eine Zahl (Level, Waffe, Fertigkeiten, Pferd, Rüstung); alle zehn Minuten werden die Bots jedes Königreichs in Perzentile geteilt, und eine Gilde wird in der Stufe gegründet, in die das Perzentil ihres Gründers fällt: die oberen 3% gründen eine Elite-Gilde, die oberen 15% eine starke, die obere Hälfte eine mittlere, der Rest eine gewöhnliche. Ein Meister rekrutiert nur über der Schwelle seiner Stufe, die Stärksten zuerst; ein Mitglied, das seiner Gilde entwachsen ist, wechselt in eine bessere. Mitglieder geben der Gilde stündlich einen Teil ihrer Erfahrung, so steigt die Gilde auf und der Meister verteilt die Fertigkeitspunkte.","T['gl_intro'] | keep: % f % a | the classic web panel (browser, UTF-8: any letter)",done
 p:7a68c724bf5c,No game core has written a guild status yet (it does so within a minute of starting with this version).,Żaden rdzeń gry nie zapisał jeszcze statusu gildii (robi to w ciągu minuty od startu z tą wersją).,Noch kein Spielkern hat einen Gildenstatus geschrieben (er tut es binnen einer Minute nach dem Start mit dieser Version).,"T['gl_stale'] | the classic web panel (browser, UTF-8: any letter)",done
 p:70c55eba4a84,Bot guilds,Gildie botów,Bot-Gilden,"T['gl_summary'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6f287ede9ec7,Elite,Elitarna,Elite,"T['gl_tier_elite'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:6f287ede9ec7,Elite,Elitarna,Elite,"T['gl_tier_elite'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:cf8468705371,Strong,Silna,Stark,"T['gl_tier_strong'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:d404968ea90b,Medium,Średnia,Mittel,"T['gl_tier_medium'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bc63392df32,Ordinary,Zwykła,Gewöhnlich,"T['gl_tier_ordinary'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:37107d04ddd9,Shinsoo,Shinsoo,Shinsoo,"T['gl_empire_shinsoo'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
-p:41d62130dc34,Chunjo,Chunjo,Chunjo,"T['gl_empire_chunjo'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
-p:321dab39dc35,Jinno,Jinno,Jinno,"T['gl_empire_jinno'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:37107d04ddd9,Shinsoo,Shinsoo,Shinsoo,"T['gl_empire_shinsoo'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:41d62130dc34,Chunjo,Chunjo,Chunjo,"T['gl_empire_chunjo'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:321dab39dc35,Jinno,Jinno,Jinno,"T['gl_empire_jinno'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:54241a3d0070,Guild,Gildia,Gilde,"T['gl_col_name'] | the classic web panel (browser, UTF-8: any letter)",done
 p:3e6f56edff22,Kingdom,Królestwo,Königreich,"T['gl_col_kingdom'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:5bd44ebe63cd,Tier,Klasa,Stufe,"T['gl_col_tier'] | the classic web panel (browser, UTF-8: any letter)",done
 p:1cb449c11266,Members,Członkowie,Mitglieder,"T['gl_col_members'] | the classic web panel (browser, UTF-8: any letter)",done
-p:c3e839df6084,Online,Online,Online,"T['gl_col_online'] / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",check
+p:c3e839df6084,Online,Online,Online,"T['gl_col_online'] / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
 p:78f3842f0201,Master,Mistrz,Meister,"T['gl_col_master'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d091b0d5e8c,Avg. strength,Śr. siła,Ø Stärke,"T['gl_col_strength'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bf3d1de57b0,Ladder,Ranking,Rangliste,"T['gl_col_ladder'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -258,7 +258,7 @@ p:2a2cd4b515b7,Not running,Nieaktywny,Läuft nicht,"T['ev_inactive'] | the class
 p:b1fb1589b77b,No window scheduled,Brak zaplanowanych okien,Kein Fenster geplant,"T['ev_none'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6fcaa3b6295c,Moonlight chests,Szkatułki Blasku Księżyca,Mondschein-Truhen,"T['ev_kind_chest'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0a8adac9d6d5,Schedule,Harmonogram,Zeitplan,"T['ev_schedule'] | the classic web panel (browser, UTF-8: any letter)",done
-p:ad8919ace091,Event,Event,Event,"T['ev_col_kind'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:ad8919ace091,Event,Event,Event,"T['ev_col_kind'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:f6bb0f468a85,Days,Dni,Tage,"T['ev_col_days'] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f66052a107e,From,Od,Von,"T['ev_col_from'] / T['dt_ev_via'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ae79ea1e9c63,To,Do,Bis,"T['ev_col_to'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -311,7 +311,7 @@ p:a57dcdf86c3d,per monster kill,z zabitego potwora,pro getötetem Monster,"T['ai
 p:802725563759,per broken Metin stone,z rozbitego Metina,pro zerstörtem Metin,"T['ai_chest_stone'] | the classic web panel (browser, UTF-8: any letter)",done
 p:511ea9e40361,No drops,Brak dropu,Kein Drop,"T['ai_chest_none'] | the classic web panel (browser, UTF-8: any letter)",done
 p:081ae3fdc403,Custom,Własne,Eigener Wert,"T['ai_chest_custom'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:f4afb4a9e826,Maximum (100%),Maksimum (100%),Maximum (100%),"T['ai_chest_max'] | the classic web panel (browser, UTF-8: any letter)",check
+p:f4afb4a9e826,Maximum (100%),Maksimum (100%),Maximum (100%),"T['ai_chest_max'] | the classic web panel (browser, UTF-8: any letter)",done
 p:198e16170f9a,A multiplier above ×2 may disrupt the world economy.,Mnożnik powyżej ×2 może zaburzyć gospodarkę świata.,Ein Multiplikator über ×2 kann die Wirtschaft der Welt beeinträchtigen.,"T['ai_chest_economy'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6f5e08e4d9f0,Changes apply after saving. The chance is capped at 100%.,Zmiana zacznie obowiązywać po zapisaniu. Szansa kończy się na 100%.,Änderungen gelten nach dem Speichern. Die Chance ist auf 100% begrenzt.,"T['ai_chest_note'] | the classic web panel (browser, UTF-8: any letter)",done
 p:917fbc82519f,"Saved. The game core reads it within five seconds — no restart, nobody is disconnected. Some settings reach a bot at its next decision (see the text under each).","Zapisano. Rdzeń gry odczyta to w ciągu pięciu sekund — bez restartu, nikt nie zostaje rozłączony. Niektóre ustawienia docierają do bota przy jego następnej decyzji (opis pod każdym).","Gespeichert. Der Spielkern liest das binnen fünf Sekunden — kein Neustart, niemand fliegt raus. Manche Einstellungen erreichen einen Bot erst bei seiner nächsten Entscheidung (siehe den Text darunter).","T['ai_live'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -391,7 +391,7 @@ p:710b7f99119c,The new password must contain 6–16 ASCII characters without spa
 p:cc69cc35098c,The two new passwords don't match. 🙂,Nowe hasła się różnią. 🙂,Die neuen Passwörter stimmen nicht überein. 🙂,"T['acc_new_mismatch'] | the classic web panel (browser, UTF-8: any letter)",done
 p:0179aec921dd,🔒 Your password was changed! Use the new one next time you log into the game.,🔒 Hasło zostało zmienione! Przy następnym logowaniu do gry użyj nowego.,🔒 Dein Passwort wurde geändert! Benutze beim nächsten Einloggen ins Spiel das neue.,"T['acc_pw_changed'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d263ec09458b,The current password is wrong. 🙂,Obecne hasło jest błędne. 🙂,Das aktuelle Passwort ist falsch. 🙂,"T['acc_pw_wrong'] | the classic web panel (browser, UTF-8: any letter)",done
-p:99986fd0bbea,💰 1 Million,💰 1 milion,💰 1 Million,"T['gold_1m'] | the classic web panel (browser, UTF-8: any letter)",check
+p:99986fd0bbea,💰 1 Million,💰 1 milion,💰 1 Million,"T['gold_1m'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e6aa06207545,💰 10 Million,💰 10 milionów,💰 10 Millionen,"T['gold_10m'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e801302791e6,💰 100 Million,💰 100 milionów,💰 100 Millionen,"T['gold_100m'] | the classic web panel (browser, UTF-8: any letter)",done
 p:742ad03798f9,👑 1 Billion,👑 1 miliard,👑 1 Milliarde,"T['gold_1b'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -584,7 +584,7 @@ p:ecd610bfbc25,These maps' drop tables name no equipment refine material; the ev
 p:1ed5b68d3855,Tax on counter sales,Podatek od sprzedaży na ladach,Steuer auf Ladenverkäufe,"T['mt_title'] | the classic web panel (browser, UTF-8: any letter)",done
 p:51fc9e99fae1,What percent of the price the game takes from the seller at every offline-shop sale (an accepted offer too) - for people and for bots apart. A higher tax takes more yang out of the world.,Ile procent ceny gra zabiera sprzedającemu przy każdej sprzedaży ze sklepu offline (także przyjętej oferty) - osobno dla graczy i dla botów. Wyższy podatek zabiera więcej yang z obiegu.,Wie viel Prozent des Preises das Spiel dem Verkäufer bei jedem Verkauf aus einem Offline-Laden abnimmt (auch bei einem angenommenen Angebot) - getrennt für Spieler und Bots. Eine höhere Steuer nimmt mehr Yang aus der Welt.,"T['mt_help'] | the classic web panel (browser, UTF-8: any letter)",done
 p:b37554f695b1,People,Gracze,Spieler,"T['mt_person'] | the classic web panel (browser, UTF-8: any letter)",done
-p:4ca88ea465a9,Bots,Boty,Bots,"T['mt_bot'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:4ca88ea465a9,Bots,Boty,Bots,"T['mt_bot'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:9d2b35fbdbab,"as in the game (the game's offline-shop tax, an accepted offer untaxed)","jak w grze (podatek sklepu offline z gry, przyjęta oferta bez podatku)","wie im Spiel (die Offline-Laden-Steuer des Spiels, ein angenommenes Angebot steuerfrei)","T['mt_person_auto'] | the classic web panel (browser, UTF-8: any letter)",done
 p:71ac5d89051e,automatic: 20% + the economy regulator's 0–5% (now {pct}%),automatyczny: 20% + regulator gospodarki 0–5% (teraz {pct}%),automatisch: 20% + 0–5% des Wirtschaftsreglers (jetzt {pct}%),"T['mt_bot_auto'] | keep: {pct} | the classic web panel (browser, UTF-8: any letter)",done
 p:c60a32db286e,set:,ustaw:,festlegen:,"T['mt_set'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -629,12 +629,12 @@ p:37fbc8f33a4f,"Each channel has its own monsters. ""Standing"" is how many of t
 p:b05d9faafb0b,No data: no core has written its respawn state in the last minutes (needs a 2.x server with this version; after the game starts the data shows within a minute).,Brak danych: żaden rdzeń nie zapisał stanu respawnów w ostatnich minutach (wymaga serwera 2.x z tą wersją; po starcie gry dane pojawią się w ciągu minuty).,Keine Daten: Kein Kern hat in den letzten Minuten seinen Respawn-Stand geschrieben (braucht einen 2.x-Server mit dieser Version; nach dem Start erscheinen die Daten innerhalb einer Minute).,"T['rs_none'] | the classic web panel (browser, UTF-8: any letter)",done
 p:526235444fb8,Channel {n},Kanał {n},Kanal {n},"T['rs_channel'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
 p:0173b7f043cd,Map {n},Mapa {n},Karte {n},"T['rs_map_n'] / panel: module text | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
-p:e63d88bd7bf3,Monster,Potwór,Monster,"T['rs_col_name'] / T['dt_col_mob'] | the classic web panel (browser, UTF-8: any letter)",check
+p:e63d88bd7bf3,Monster,Potwór,Monster,"T['rs_col_name'] / T['dt_col_mob'] | the classic web panel (browser, UTF-8: any letter)",done
 p:742f03c37a89,Standing,Stoi,Steht,"T['rs_col_alive'] | the classic web panel (browser, UTF-8: any letter)",done
 p:345f6226501e,Respawns every,Odradza się co,Respawn alle,"T['rs_col_every'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f2ad9ff9ac15,Back in,Odrodzi się,Zurück in,"T['rs_col_next'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b7e269062400,Boss,Boss,Boss,"T['rs_boss'] | the classic web panel (browser, UTF-8: any letter)",check
-p:2c8a418f0b90,Metin,Metin,Metin,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",check
+p:b7e269062400,Boss,Boss,Boss,"T['rs_boss'] | the classic web panel (browser, UTF-8: any letter)",done
+p:2c8a418f0b90,Metin,Metin,Metin,"T['rs_metin'] | the classic web panel (browser, UTF-8: any letter)",done
 p:4f2c6f72a82d,all standing,wszystkie stoją,alle stehen,"T['rs_all_up'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d462593fb1aa,any moment,zaraz,gleich,"T['rs_soon'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d5a63c95d431,everything,wszystko,alles,"T['rs_filter_all'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -659,14 +659,14 @@ p:ed2490859dfd,Dragon Coins (DC),Smocze Monety (SM),Drachenmünzen (DM),"T['vc_c
 p:d826cf223d39,"Item (VNUM, 0 = none)","Przedmiot (VNUM, 0 = brak)","Gegenstand (VNUM, 0 = keiner)","T['vc_item'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ee9f38e186ba,count,ilość,Anzahl,"T['vc_item_count'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:63c614871b2b,"Premium subscription: hours (0 = none, up to 8760)","Subskrypcja Premium: godziny (0 = bez, do 8760)","Premium-Abonnement: Stunden (0 = keins, bis 8760)","T['vc_premium_hours'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6c2f2888c561,Premium,Premium,Premium,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",check
+p:6c2f2888c561,Premium,Premium,Premium,"T['vc_premium'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a0f3390f795,Note (for you),Notatka (dla Ciebie),Notiz (für dich),"T['vc_note'] | the classic web panel (browser, UTF-8: any letter)",done
 p:51170316b99c,Make the codes,Utwórz kody,Codes erstellen,"T['vc_make'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f4a6f482878b,{n} codes made.,Utworzono {n} kodów.,{n} Codes erstellt.,"T['vc_made'] | keep: {n} | the classic web panel (browser, UTF-8: any letter)",done
 p:57999f48b9b3,The new batch,Nowa partia,Die neue Charge,"T['vc_batch'] | the classic web panel (browser, UTF-8: any letter)",done
 p:a479c9c34e87,Download,Pobierz,Herunterladen,"T['vc_download'] | the classic web panel (browser, UTF-8: any letter)",done
 p:dedac7f93cce,Search a code or a note,Szukaj kodu lub notatki,Code oder Notiz suchen,"T['vc_search'] | the classic web panel (browser, UTF-8: any letter)",done
-p:adac69379a62,Code,Kod,Code,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",check
+p:adac69379a62,Code,Kod,Code,"T['vc_col_code'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c7d7652ec6a7,Reward,Nagroda,Belohnung,"T['vc_col_reward'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:62be4731dedf,Uses,Użyć,Nutzungen,"T['vc_col_uses'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c8214d35a16e,Valid until,Ważny do,Gültig bis,"T['vc_col_until'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -682,7 +682,7 @@ p:018216fb1750,No codes.,Brak kodów.,Keine Codes.,"T['vc_none'] | the classic w
 p:fa36cfd1dedf,Latest uses,Ostatnie użycia,Letzte Nutzungen,"T['vc_log'] | the classic web panel (browser, UTF-8: any letter)",done
 p:3b3e85d9814e,Nobody has used a code yet.,Nikt jeszcze nie użył kodu.,Noch niemand hat einen Code genutzt.,"T['vc_log_none'] | the classic web panel (browser, UTF-8: any letter)",done
 p:769bb19e615b,When,Kiedy,Wann,"T['vc_col_when'] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:36b49a272e1c,← Panel,← Panel,← Panel,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",check
+p:36b49a272e1c,← Panel,← Panel,← Panel,"T['vc_back'] | the classic web panel (browser, UTF-8: any letter)",done
 p:e64bbd28268a,Number of codes: from 1 to {max}.,Liczba kodów: od 1 do {max}.,Anzahl der Codes: von 1 bis {max}.,"T['vc_err_count'] | keep: {max} | the classic web panel (browser, UTF-8: any letter)",done
 p:f09220df4b6d,"Own code: 3-20 characters, letters, digits, - and _.","Własny kod: 3-20 znaków, litery, cyfry, - i _.","Eigener Code: 3-20 Zeichen, Buchstaben, Ziffern, - und _.","T['vc_err_code'] | the classic web panel (browser, UTF-8: any letter)",done
 p:113911cdcd17,That code exists already: {code}.,Taki kod już istnieje: {code}.,Diesen Code gibt es schon: {code}.,"T['vc_err_taken'] | keep: {code} | the classic web panel (browser, UTF-8: any letter)",done
