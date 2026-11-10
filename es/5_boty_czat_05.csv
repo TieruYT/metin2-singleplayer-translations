@@ -246,7 +246,7 @@ b:phrase:9688844cc0de,You must spawn frog in castle,,Tienes que invocar la rana 
 b:phrase:0d6f26a1636b,Players can log in.,,Los jugadores pueden conectarse.,"a phrase the server says (bots' help, notices)",done
 b:phrase:1dd9d50fae34,Ban requested for player %s.,,Baneo solicitado para el jugador %s.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:7102128c349d,Account with id %d not found.,,No se encontró la cuenta con ID %d.,"a phrase the server says (bots' help, notices) | keep: %d",done
-b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,Hay una reserva %s para %d,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:3cc98c0f66ee,Spy mode is active!,,¡El modo espía está activo!,"a phrase the server says (bots' help, notices)",done
 b:phrase:58d3f96a74df,Whisper to %s(%s) from %s,,Susurro a %s(%s) de %s,"a phrase the server says (bots' help, notices) | keep: %s %s %s",done
 b:phrase:de12142429db,,nie mozesz zablokowac GMa,no puedes bloquear a un GM,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
@@ -301,7 +301,7 @@ b:phrase:23137bc8bfd9,", still coming over.",,", pero voy para allá.","a phrase
 b:phrase:ea24f5e5d68c,"Fight's over, coming to you.",,"Se acabó la pelea, voy hacia ti.","a phrase the server says (bots' help, notices)",done
 b:phrase:e2a762f8be8f,I can do,,Puedo hacerlo por,"a phrase the server says (bots' help, notices)",done
 b:phrase:b3ad9eefc962,"Sorry, I can't go that low.",,"Lo siento, no puedo bajar tanto.","a phrase the server says (bots' help, notices)",done
-b:phrase:4d573b9bfe73,,do %d zabojstw albo %d minut,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:4d573b9bfe73,,do %d zabojstw albo %d minut,hasta %d muertes o %d minutos,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:0083f8741d0d,koniec walki,,fin de la pelea,"a phrase the server says (bots' help, notices)",done
 b:phrase:5fdc6a3afc26,The last blow:,,El último golpe:,"a phrase the server says (bots' help, notices)",done
 b:phrase:b81e2523c3b5,"does not fight, only defends",,"no lucha, solo se defiende","a phrase the server says (bots' help, notices)",done
@@ -394,7 +394,7 @@ b:phrase:05250256d7a2,Player %s reached level %u!,,¡El jugador %s ha alcanzado 
 b:phrase:b180ba5814c4,You said you were saving for,,Dijiste que ahorrabas para,"a phrase the server says (bots' help, notices)",done
 b:phrase:a7446dc01afa,. Still your goal?,,. ¿Sigue siendo tu objetivo?,"a phrase the server says (bots' help, notices)",done
 b:phrase:6ace6fcf3252,"I'm close, coming over to you",,"Estoy cerca, voy hacia ti","a phrase the server says (bots' help, notices)",done
-b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min","ya voy, llego en unos %u min","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:855b73baad5f,"%s, see you there in ~%u min",,"%s, nos vemos allí en ~%u min","a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:5d82e8f86e7e,%s is at your side.,,%s está a tu lado.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:2a84ff3baef5,,nie bij,no pegues,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
@@ -450,7 +450,7 @@ b:phrase:f7f195944f06,the bot's core does not host this map,,el núcleo del bot 
 b:phrase:55c4d801a5f7,the bot cannot stand on this map,,el bot no puede estar en este mapa,"a phrase the server says (bots' help, notices)",done
 b:phrase:f2365197e5b0,There is no character(%s) by that name,,No hay ningún personaje(%s) con ese nombre,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:fa8bb6db253d,Target(%s) is in %d channel (my channel %d),,El objetivo(%s) está en el canal %d (mi canal %d),"a phrase the server says (bots' help, notices) | keep: %s %d %d",done
-b:phrase:32b182258958,,Bot %s jest na innym rdzeniu (mapa %ld) i nie przejdzie na mape tego rdzenia.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:32b182258958,,Bot %s jest na innym rdzeniu (mapa %ld) i nie przejdzie na mape tego rdzenia.,El bot %s está en otro núcleo (mapa %ld) y no pasará al mapa de este núcleo.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:4198b74dd5c6,Usage: warp <character name> | <x meter> <y meter>,,Uso: warp <nombre del personaje> | <x metros> <y metros>,"a phrase the server says (bots' help, notices)",done
 b:phrase:040124b240e9,There is no one(%s) by that name,,No hay nadie(%s) con ese nombre,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:5521d415c8ee,Total [%d] %d / %d / %d (this server %d),,Total [%d] %d / %d / %d (este servidor %d),"a phrase the server says (bots' help, notices) | keep: %d %d %d %d %d",done
@@ -463,16 +463,16 @@ b:phrase:9c4d550c55e5,usage : /horse_level <name> <level>,,Uso: /horse_level <no
 b:phrase:1292ca230a62,Delete failed. Quest flag does not exist.,,Error al borrar. La flag de la misión no existe.,"a phrase the server says (bots' help, notices)",done
 b:phrase:62e65414f0b5,List of the available windows:,,Lista de ventanas disponibles:,"a phrase the server says (bots' help, notices)",done
 b:phrase:c79c5f7be070,This command blocks only logging in. It doesn't disconnect connected players.,,Este comando solo bloquea el inicio de sesión. No desconecta a los jugadores conectados.,"a phrase the server says (bots' help, notices)",done
-b:phrase:1acb79942d88,,Nie ma zarzadzanego bota o PID %u.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:9ba20fe1b9fc,,#%u - taki przedmiot nie istnieje.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:1acb79942d88,,Nie ma zarzadzanego bota o PID %u.,No hay ningún bot gestionado con PID %u.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9ba20fe1b9fc,,#%u - taki przedmiot nie istnieje.,#%u - ese objeto no existe.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:c89f740ccf51,Player %s is already on block list. Flush if you want to execute ban /block_flush,,El jugador %s ya está en la lista de bloqueo. Vacíala si quieres ejecutar el baneo: /block_flush,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:361806d4c15a,Ban pool request for player %s.,,Solicitud de baneo en lote para el jugador %s.,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:7986194efac2,Does not take indices above 109.,,No acepta índices superiores a 109.,"a phrase the server says (bots' help, notices)",done
 b:phrase:d93683f0d930,Only an IMPLEMENTOR can change other characters' GM ranks. A GM can remove their own rank.,,Solo un IMPLEMENTOR puede cambiar los rangos de GM de otros personajes. Un GM puede quitarse su propio rango.,"a phrase the server says (bots' help, notices)",done
 b:phrase:90c79f02ca8b,test_server mode grants GM to everyone. Disable it to remove GM rights.,,El modo test_server da GM a todos. Desactívalo para quitar los derechos de GM.,"a phrase the server says (bots' help, notices)",done
 b:phrase:e041bf7283ad,The GM list is empty. The next server start may grant IMPLEMENTOR to the admin account's oldest character.,,"La lista de GM está vacía. En el próximo arranque del servidor, el personaje más antiguo de la cuenta admin puede recibir IMPLEMENTOR.","a phrase the server says (bots' help, notices)",done
-b:phrase:e5238d587432,,Nie znam bazy tej mapy (index %ld).,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
-b:phrase:68faa293147a,,"Tam nie da sie wejsc (%d, %d).",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:e5238d587432,,Nie znam bazy tej mapy (index %ld).,No conozco la base de este mapa (índice %ld).,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:68faa293147a,,"Tam nie da sie wejsc (%d, %d).","Ahí no se puede entrar (%d, %d).","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:2c71dadea815,Blad bazy - miejsce niezapisane.,,Error de la base de datos: lugar no guardado.,"a phrase the server says (bots' help, notices)",done
 b:phrase:55000f08217b,Already a member in guild %s[%d],,Ya es miembro del gremio %s[%d],"a phrase the server says (bots' help, notices) | keep: %s %d",done
 b:phrase:bcf8d9abaea0,There is no such guild skill by number %u,,No existe ninguna habilidad de gremio con el número %u,"a phrase the server says (bots' help, notices) | keep: %u",done
@@ -495,7 +495,7 @@ b:phrase:1f411ec97e41,"Soul Stone waits: %s %s costs me %d rank points, I have %
 b:phrase:a84093719d44,"I have %s x%u on my stall in %s, %s yang for all of it",,"Tengo %s x%u en mi puesto en %s, %s Yang por todo","a phrase the server says (bots' help, notices) | keep: %s %u %s %s",done
 b:phrase:6c4ed088944f,"I have %s on my stall in %s, %s yang",,"Tengo %s en mi puesto en %s, %s Yang","a phrase the server says (bots' help, notices) | keep: %s %s %s",done
 b:phrase:252b02f4af25,"I'll buy %s - put it on a stall in Joan or Bokjung, bots buy there",,"Compro %s: ponlo en un puesto en Joan o Bokjung, los bots compran allí","a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:41658247a66c,,"Kupie %s - wystaw na straganie w Joan albo Bokjung, boty tam kupuja",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:41658247a66c,,"Kupie %s - wystaw na straganie w Joan albo Bokjung, boty tam kupuja","Compro %s - ponlo en un puesto en Joan o Bokjung, los bots compran allí","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:06e42faaa06f,"Buying %s - whoever has it, put it up in %s",,"Compro %s: quien lo tenga, que lo ponga en venta en %s","a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:56c8be1288df,Deal! Set the price on your shop to %s and I'll buy it - I'll wait %u min.,,¡Trato hecho! Pon el precio en tu tienda a %s y lo compro; espero %u min.,"a phrase the server says (bots' help, notices) | keep: %s %u",done
 b:phrase:1474e6464bd3,That's too much for me. %s is the most I can give - my last price.,,"Es demasiado para mí. %s es lo máximo que puedo dar, mi último precio.","a phrase the server says (bots' help, notices) | keep: %s",done
@@ -518,7 +518,7 @@ b:phrase:dbd6fd1a08a9,I can't lower the price right now. Try later.,,Ahora no pu
 b:phrase:2c9e293d8cbf,"Deal, buy it from my counter now.",,"Trato hecho, cómpralo ahora en mi puesto.","a phrase the server says (bots' help, notices)",done
 b:phrase:2997c15f479e,"I have a stall in %s, on it: %s",,"Tengo un puesto en %s, con: %s","a phrase the server says (bots' help, notices) | keep: %s %s",done
 b:phrase:82054074aceb,I'm just off to the market in %s,,Me voy al mercado en %s,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:228e4186e9f8,,%s stoi! Zbieramy sie na niego.,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:228e4186e9f8,,%s stoi! Zbieramy sie na niego.,¡%s ha aparecido! Nos reunimos para ir a por él.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:753512ba10dc,Devil's Catacomb: hunting the key,,Catacumbas del Demonio: buscando la llave,"a phrase the server says (bots' help, notices)",done
 b:phrase:bb8bacc6865d,Gathering at the Catacomb's Guardian,,Reunión junto al Guardián de la Catacumba,"a phrase the server says (bots' help, notices)",done
 b:phrase:6a680869b9d2,OX Quiz: waiting for a question,,Concurso OX: esperando una pregunta,"a phrase the server says (bots' help, notices)",done
@@ -540,7 +540,7 @@ b:phrase:68939f27e2ca,[Guild] %s has to go - something more urgent came up.,,[Gu
 b:phrase:3344e9c76bb3,"Poszedles gdzies, to wracam do swoich spraw.",,"Te has ido a algún sitio, así que vuelvo a lo mío.","a phrase the server says (bots' help, notices)",done
 b:phrase:6c1cf0beec56,"Can't get to you, sorry. Going back to my own stuff.",,"No puedo llegar hasta ti, lo siento. Vuelvo a lo mío.","a phrase the server says (bots' help, notices)",done
 b:phrase:db076278034d,"You went off somewhere, so I'm back to my own stuff.",,"Te has ido por ahí, así que vuelvo a lo mío.","a phrase the server says (bots' help, notices)",done
-b:phrase:7d7701852bc9,,sprzedaje tylko cale %u szt. za %s,,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:7d7701852bc9,,sprzedaje tylko cale %u szt. za %s,solo vendo las %u unidades juntas por %s,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:5d856bb9856a,"Couldn't finish in time, the visit is cancelled.",,"No terminé a tiempo, la visita se cancela.","a phrase the server says (bots' help, notices)",done
 b:phrase:794b7c946948,The price change was refused. Check the counter price.,,El cambio de precio fue rechazado. Revisa el precio del puesto.,"a phrase the server says (bots' help, notices)",done
 b:phrase:b8ff94233007,The price change is unconfirmed. Check the counter price.,,El cambio de precio no está confirmado. Revisa el precio del puesto.,"a phrase the server says (bots' help, notices)",done
@@ -566,7 +566,7 @@ b:phrase:907baa14231f,"[War] The bot guild %s takes the challenge! Battlefield: 
 b:phrase:5fcef44d7aa3,"[War] The first guild to %d kills wins; after 30 minutes, the one with more kills.",,"[War] Gana el primer gremio en llegar a %d muertes; pasados 30 minutos, el que tenga más.","a phrase the server says (bots' help, notices) | keep: %d",done
 b:phrase:0b161815231a,"Guild war: %s against the bot guild %s! Battlefield: %s (%s), %s.",,"¡Guerra de gremios: %s contra el gremio de bots %s! Campo de batalla: %s (%s), %s.","a phrase the server says (bots' help, notices) | keep: %s %s %s %s %s",done
 b:phrase:b7e03bb67413,A bots' guild war begins soon (%s): %s against %s. Battlefield: %s.,,Pronto empieza una guerra de gremios de bots (%s): %s contra %s. Campo de batalla: %s.,"a phrase the server says (bots' help, notices) | keep: %s %s %s %s",done
-b:phrase:4b47555545e7,,"Wojna gildii: %s kontra gildia botow %s! Pole bitwy: %s (%s), %s.",,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",new
+b:phrase:4b47555545e7,,"Wojna gildii: %s kontra gildia botow %s! Pole bitwy: %s (%s), %s.","Guerra de gremios: ¡%s contra el gremio de bots %s! Campo de batalla: %s (%s), %s.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
 b:phrase:6fcb046a467b,"Fine, we let it go. For %u minutes no bot will pick on you - unless you attack one of us.",,"Vale, lo dejamos estar. Durante %u minutos ningún bot se meterá contigo, salvo que ataques a uno de nosotros.","a phrase the server says (bots' help, notices) | keep: %u",done
 b:phrase:b3565f640bc8,The truce lasts %u more min. Nobody touches you until you attack one of us.,,La tregua dura %u min más. Nadie te toca hasta que ataques a uno de nosotros.,"a phrase the server says (bots' help, notices) | keep: %u",done
 b:phrase:796b9f219f45,The truce was broken a moment ago. We'll talk in %u min.,,La tregua se rompió hace un momento. Hablamos en %u min.,"a phrase the server says (bots' help, notices) | keep: %u",done
