@@ -62,7 +62,7 @@ l:df2cb0229ee3,"The database dumps are missing, so the first database would come
 ","Brakuje zrzutow bazy danych, wiec pierwsza baza powstalaby pusta.
 
 ","Faltan los volcados de la base de datos, por lo que la primera base de datos iniciaría vacía.
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:83206e5b4819,Folder: ,Katalog: ,Carpeta:,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:276f5d140763,Missing: ,Brakuje: ,Falta:,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:60897e48752b,"MariaDB would start without the game's schema (and report 'healthy'), and playerbot-migrate ","MariaDB wystartowalaby bez schematu gry (i zglosila 'healthy'), a playerbot-migrate ","MariaDB se iniciaría sin el esquema del juego (y reportaría 'saludable'), y playerbot-migrate","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -73,7 +73,7 @@ l:ec4f4a11e2cb,"puts them there - no update brings them back.
 ","instalator - zadna aktualizacja ich nie przywroci.
 
 ","los coloca allí; ninguna actualización los trae de vuelta.
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:f70f4c268091,Run the installer again (installer\install.ps1) with the package named in ,Uruchom ponownie instalator (installer\install.ps1) ze wskazana paczka ,Ejecuta el instalador de nuevo (installer\install.ps1) con el paquete nombrado en,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:154b74ba0dc3,"($env:M2_SRC_ARCHIVE), or unpack metin2_mysql_dump.zip into this folder ","($env:M2_SRC_ARCHIVE), albo rozpakuj metin2_mysql_dump.zip do tego katalogu ","($env:M2_SRC_ARCHIVE), o descomprime metin2_mysql_dump.zip en esta carpeta","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:87c7f30a9243,and click PLAY again.,i kliknij GRAJ jeszcze raz.,y haz clic en JUGAR otra vez.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -82,7 +82,7 @@ l:a81d53b84e9a,"The game sources are missing, so there is nothing to build the s
 ","Brakuje zrodel gry, wiec nie ma z czego zbudowac serwera.
 
 ","Faltan las fuentes del juego, por lo que no hay nada con qué compilar el servidor.
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:5e7fce58da3e,"This is no fault of Docker, WSL or this update. These files come ","To nie jest blad Dockera, WSL ani tej aktualizacji. Te pliki pochodza ","Esto no es culpa de Docker, WSL ni de esta actualización. Estos archivos provienen","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f27ab66a7db0,"from your own r40250 server package and are unpacked once, during ","z Twojej wlasnej paczki serwera r40250 i sa rozpakowywane raz, podczas ",de tu propio paquete de servidor r40250 y se descomprimen una sola vez durante,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:754d050a127e,"the installation - no update brings them back, because we may not ","instalacji - zadna aktualizacja ich nie przywroci, bo nie wolno nam ich ",la instalación; ninguna actualización los trae de vuelta porque no podemos,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -91,7 +91,7 @@ l:acc5685e3f82,"distribute them.
 ","rozpowszechniac.
 
 ","distribuirlos.
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:c84453cda9c8,Run the installer again (installer\install.ps1). It fetches the sources and ,Uruchom ponownie instalator (installer\install.ps1). Pobierze zrodla i ,Ejecuta el instalador de nuevo (installer\install.ps1). Este buscará las fuentes y,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:abafa155e7fb,"rebuilds the build context. The database, the characters and the settings stay untouched.","odtworzy kontekst budowania. Baza, postacie i ustawienia zostaja nietkniete.","reconstruirá el contexto de compilación. La base de datos, los personajes y las configuraciones no se tocarán.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5e2e4f9eb175,Stopping the game before the containers are replaced,"Zatrzymuję grę, zanim kontenery zostaną podmienione",Deteniendo el juego antes de que se reemplacen los contenedores,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -694,29 +694,29 @@ The details are in the launcher-logs folder.","Launcher nie wystartowal:
 
 Szczegoly sa w folderze launcher-logs.","El lanzador no se inició:
 {0}
-Los detalles se encuentran en la carpeta launcher-logs.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Los detalles se encuentran en la carpeta launcher-logs.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:d1c9a8d08bd8,Launcher error,Blad launchera,Error del lanzador,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ccd558993098,Opening the launcher window - this console closes in a moment.,Otwieram okno launchera - ta konsola zaraz sie zamknie.,Abriendo la ventana del lanzador; esta consola se cerrará en un momento.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:cae0001f4614,{0}  LAUNCHER ERROR: {1},{0}  BLAD LAUNCHERA: {1},{0}  ERROR DEL LANZADOR: {1},"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e45f0e5b6c22,"A launcher file is missing: {#0}
 ","Brakuje pliku launchera: {#0}
 ","Falta un archivo del lanzador: {#0}
-","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:0b038d85ae72,"Antivirus on this system: {#0}
 ","Antywirus w systemie: {#0}
 ","Antivirus en este sistema: {#0}
-","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:5f6996438bfd,"The launcher never deletes it itself - as a rule an antivirus takes it (a false alarm on a script that downloads and starts a server).
 
 ","Launcher sam go nie usuwa - najczesciej zabiera go antywirus (falszywy alarm na skrypt, ktory pobiera i uruchamia serwer).
 
 ","El lanzador nunca lo elimina por sí mismo; por norma general, un antivirus lo toma (una falsa alarma en un script que descarga e inicia un servidor).
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:65c68427cb98,1. Look in the antivirus quarantine. In Windows: Windows Security > Virus & threat protection > Protection history. ,1. Zajrzyj do kwarantanny antywirusa. W Windows: Zabezpieczenia Windows > Ochrona przed wirusami i zagrozeniami > Historia ochrony. ,1. Busca en la cuarentena del antivirus. En Windows: Seguridad de Windows > Protección contra virus y amenazas > Historial de protección.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:85de13028a44,"Restore the file and add the folder {#0} to the exclusions.
 ","Przywroc plik i dodaj folder {#0} do wykluczen.
 ","Restaura el archivo y añade la carpeta {#0} a las exclusiones.
-","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:44206aa828b6,"2. If it cannot be restored: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) ","2. Jesli nie da sie go przywrocic: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip ","2. Si no se puede restaurar: descarga el paquete metin2-server-update-<versión>.zip desde GitHub (TieruYT/metin2-playerbots, Releases)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c3f0bc5eae49,"and take {#0} out of it into {#1}. Add the exclusion first, or the antivirus takes it again.","i wyjmij z niej {#0} do {#1}. Najpierw dodaj wykluczenie, inaczej antywirus zabierze go znowu."," y extrae {#0} de él hacia {#1}. Añade la exclusión primero, o el antivirus lo tomará de nuevo.","launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:043c787fb8bf,"The launcher's files are from two different versions: this window is newer than launcher\Metin2Launcher.psm1. Most often an update is still writing its files.
@@ -729,7 +729,7 @@ Poczekaj minute lub dwie, az aktualizacja sie skonczy, i uruchom launcher ponown
 
 Jesli ten komunikat wraca: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip i wyjmij z niej folder launcher do {#0}.","Los archivos del lanzador pertenecen a dos versiones distintas: esta ventana es más reciente que launcher\Metin2Launcher.psm1. Lo más común es que una actualización todavía esté escribiendo sus archivos.
 Espera un minuto o dos a que la actualización termine y luego inicia el lanzador de nuevo.
-Si este mensaje sigue apareciendo: descarga el paquete metin2-server-update-<versión>.zip desde GitHub (TieruYT/metin2-playerbots, Releases) y extrae la carpeta launcher de él hacia {#0}.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Si este mensaje sigue apareciendo: descarga el paquete metin2-server-update-<versión>.zip desde GitHub (TieruYT/metin2-playerbots, Releases) y extrae la carpeta launcher de él hacia {#0}.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:0174ccaa78b5,in the window: ,w oknie: ,en la ventana:,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9909885813a5,"An error in the launcher window:
 
@@ -741,7 +741,7 @@ The details are in the launcher-logs folder. The window keeps working.","Blad w 
 
 Szczegoly sa w folderze launcher-logs. Okno dziala dalej.","Un error en la ventana del lanzador:
 {0}
-Los detalles se encuentran en la carpeta launcher-logs. La ventana sigue funcionando.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Los detalles se encuentran en la carpeta launcher-logs. La ventana sigue funcionando.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:310b36f8d5a0,"Launcher restart: the previous window (PID {0}, {1}) did not close in 60 s - showing it, and the new launcher version did not open. Close the launcher and start it again.","Restart launchera: poprzednie okno (PID {0}, {1}) nie zamknelo sie w 60 s - pokazuje je, a nowa wersja launchera sie nie otworzyla. Zamknij launcher i uruchom go ponownie.","Reinicio del lanzador: la ventana anterior (PID {0}, {1}) no se cerró en 60 s; mostrándola, y la nueva versión del lanzador no se abrió. Cierra el lanzador e inícialo de nuevo.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:69bb8da1c53b,still running,nadal dziala,todavía ejecutándose,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4335d114de08,no longer running - another window holds the folder,juz nie dziala - folder trzyma inne okno,ya no se ejecuta; otra ventana retiene la carpeta,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -752,7 +752,7 @@ l:61bedf47daf8,"This folder's launcher is already open as administrator, so it c
 Switch to its window (the taskbar or the icon next to the clock), or close it and start the launcher again.","Launcher tego folderu jest już otwarty jako administrator, więc nie da się go stąd przywołać.
 
 Przełącz się na jego okno (pasek zadań albo ikona przy zegarze) albo zamknij je i uruchom launcher ponownie.","El lanzador de esta carpeta ya está abierto como administrador, por lo que no se puede traer al frente desde aquí.
-Cambia a su ventana (la barra de tareas o el icono junto al reloj), o ciérralo e inicia el lanzador de nuevo.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Cambia a su ventana (la barra de tareas o el icono junto al reloj), o ciérralo e inicia el lanzador de nuevo.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:77ac4d2309d6,The launcher is already open,Launcher jest już otwarty,El lanzador ya está abierto,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5dee9499707b,Game language (client),Język gry (klient),Idioma del juego (cliente),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f8905ee6c185,Client chosen: {#0},Wybrano klienta: {#0},Cliente elegido: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done

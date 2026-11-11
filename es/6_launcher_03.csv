@@ -24,7 +24,7 @@ Client: 2.0.93 | latest: 2.0.93","Serwer: NA VPS 2.2.87 | najnowszy: 2.2.87
 Launcher: 2.2.87 | najnowszy: 2.2.87
 Klient: 2.0.93 | najnowszy: 2.0.93","Servidor: EN EL VPS 2.2.87 | último: 2.2.87
 Launcher: 2.2.87 | último: 2.2.87
-Cliente: 2.0.93 | último: 2.0.93","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Cliente: 2.0.93 | último: 2.0.93","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:5feb8c92506c,"Docker did not answer ""docker info"" for {0} s.",Docker nie odpowiedział na „docker info” przez {0} s.,"Docker no respondió a ""docker info"" durante {0} s.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:247c626bbc0e,Added the missing settings to .env: ,Dopisano do .env brakujace ustawienia: ,Se añadieron las configuraciones faltantes a .env:,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:fded3c47d75b,Could not prepare the protected version's game data (share) from src\serverfiles\share: {0},Nie udało się przygotować danych gry wersji chronionej (share) z src\serverfiles\share: {0},No se pudieron preparar los datos de juego de la versión protegida (share) desde src\serverfiles\share: {0},"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -52,7 +52,7 @@ Qué cambia:
 • el código fuente de la IA de los bots ya no viene en los paquetes,
 • las actualizaciones posteriores vendrán como paquetes de la versión protegida.
 Qué se mantiene tal como está: el mundo, los personajes, los objetos, los bots, las configuraciones (.env), los paneles y el cliente. Las fuentes antiguas permanecen en el disco, sin usar.
-Por favor lee esto - iniciando en {1} s...""","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Por favor lee esto - iniciando en {1} s...""","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:b400c4cd9f52,Moving onto the protected version in {0} s...,Przejście na wersję chronioną za {0} s...,Pasando a la versión protegida en {0} s...,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7cdd6437b4df,the protected version's Dockerfile (this one compiles the engine from sources that are not here),"Dockerfile wersji chronionej (ten kompiluje silnik ze źródeł, których tu nie ma)",el Dockerfile de la versión protegida (este compila el motor a partir de fuentes que no están aquí),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:017bd959b894,"
@@ -129,9 +129,9 @@ l:ca95f2c88f8b,"The game data (share) is the server's fixed files, the same in e
 ","Dane gry (share) to stałe pliki serwera, takie same w każdej wersji, więc żadna aktualizacja ich nie przynosi: plik usunięty z dysku (przez antywirusa, program czyszczący, przerwane kopiowanie albo ręcznie) zostaje brakujący. Launcher odtwarza je sam przed budowaniem - z src\serverfiles\share albo z paczki metin2-server-protected-migration ze strony wydań.
 
 ","Los datos de juego (share) son los archivos fijos del servidor, idénticos en cada versión, por lo que ninguna actualización los trae: un archivo eliminado del disco (por un antivirus, un programa de limpieza, una copia interrumpida o manualmente) permanece faltante.
-El lanzador los restaura por sí mismo antes de una compilación - desde src\serverfiles\share o desde el paquete metin2-server-protected-migration en la página de versiones.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+El lanzador los restaura por sí mismo antes de una compilación - desde src\serverfiles\share o desde el paquete metin2-server-protected-migration en la página de versiones.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:e22b993a8903,"Click PLAY in the launcher with the Internet connection working - it downloads the package and restores the missing files. If that does not help: download metin2-server-protected-migration-<version>.zip from the releases page (https://github.com/TieruYT/metin2-playerbots/releases), copy linux-port\docker\game\{#0} out of it into the same place of the server folder and click PLAY. The database, the characters and the settings stay untouched.","Kliknij GRAJ w launcherze przy działającym internecie - pobierze paczkę i odtworzy brakujące pliki. Jeśli to nie pomoże: pobierz ze strony wydań (https://github.com/TieruYT/metin2-playerbots/releases) plik metin2-server-protected-migration-<wersja>.zip, skopiuj z niego linux-port\docker\game\{#0} w to samo miejsce folderu serwera i kliknij GRAJ. Baza, postacie i ustawienia zostają nietknięte.","Haz clic en JUGAR en el lanzador con la conexión a Internet funcionando; este descargará el paquete y restaurará los archivos faltantes.
-Si eso no ayuda: descarga metin2-server-protected-migration-<versión>.zip desde la página de versiones, copia linux-port\docker\game{#0} fuera de él hacia el mismo lugar de la carpeta del servidor y haz clic en JUGAR. La base de datos, los personajes y las configuraciones se mantienen intactos.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Si eso no ayuda: descarga metin2-server-protected-migration-<versión>.zip desde la página de versiones, copia linux-port\docker\game{#0} fuera de él hacia el mismo lugar de la carpeta del servidor y haz clic en JUGAR. La base de datos, los personajes y las configuraciones se mantienen intactos.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:ea6e6eff759b,"Files of the protected server version are missing, so there is nothing to build the game image from.
 
 ","Brakuje plików chronionej wersji serwera, więc nie ma z czego zbudować obrazu gry.
@@ -224,7 +224,7 @@ l:504e46136f06,windows events: could not be read: {0},zdarzenia Windows: nie uda
 l:da0c4280197b,A running program is using the file now: {#0},Plik jest teraz uzywany przez uruchomiony program: {#0},Un programa en ejecución está utilizando el archivo ahora: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:2388784980da,Running from this folder: {#0}.,Z tego folderu dziala: {#0}.,Ejecutándose desde esta carpeta: {#0}.,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:14786b872a64,"Close the game (check Task Manager too, in case metin2client.exe stayed in the background) and click CHECK FOR UPDATES again.","Zamknij gre (sprawdz tez Menedzer zadan, czy metin2client.exe nie zostal w tle) i kliknij ZAINSTALUJ AKTUALIZACJE jeszcze raz.","Cierra el juego (comprueba también el Administrador de tareas, por si metin2client.exe se quedó en segundo plano) y haz clic en BUSCAR ACTUALIZACIONES otra vez
-","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:4e258e3e54f7,Nothing was changed - the previous version keeps running.,Nic nie zostalo zmienione - poprzednia wersja dziala dalej.,. No se cambió nada; la versión anterior sigue ejecutándose.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:77138db12c90,No right to write the file: {#0},Brak prawa zapisu do pliku: {#0},Sin derecho para escribir el archivo: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:71a685292a13,Windows said: {#0},Windows zglosil: {#0},Windows dijo: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -717,7 +717,7 @@ Po instalacji uruchom komputer ponownie, otwórz Docker Desktop i kliknij GRAJ."
 ¿Abrir la página oficial de descarga de Docker Desktop?
 {0}
 
-Después de la instalación, reinicia el ordenador, abre Docker Desktop y haz clic en JUGAR.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+Después de la instalación, reinicia el ordenador, abre Docker Desktop y haz clic en JUGAR.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:7fc85b116cb0,"Docker Desktop is not installed. Install it now?
 
 The launcher opens a console window with the command:
@@ -742,7 +742,7 @@ winget es el instalador de programas de Microsoft; Docker.DockerDesktop es el pa
 
 Windows solicitará derechos de administrador (UAC). La instalación toma unos minutos; luego reinicia el ordenador, abre Docker Desktop y haz clic en JUGAR.
 
-No = no se instala nada.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+No = no se instala nada.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:5c70ba040259,"Docker Desktop needs WSL 2, and this Windows has no wsl command.
 
 Open Microsoft's instructions?
@@ -752,7 +752,7 @@ Otworzyć instrukcję Microsoftu?
 {0}","Docker Desktop necesita WSL 2, y este Windows no tiene el comando wsl.
 
 ¿Abrir las instrucciones de Microsoft?
-{0}","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+{0}","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:67ed14ffd729,"Docker Desktop needs WSL 2 (Windows Subsystem for Linux), which is missing here or needs repairing. Install it now?
 
 Windows asks for administrator rights (UAC), then runs in a console window:
@@ -777,7 +777,7 @@ Estos son comandos propios de Windows; instalan solo lo que Docker necesita, sin
 
 Cuando termine REINICIA EL ORDENADOR; WSL no funciona sin el reinicio. Luego abre el launcher y haz clic en JUGAR.
 
-No = no se instala nada.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+No = no se instala nada.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:7fa05ca9640c,"The PC client must match VPS server {0}. Required client: {1}; launcher files: {2}. Updating the client, exe and launcher files does not start Docker or a local server. Close the game before updating.","Klient na PC musi pasować do serwera na VPS {0}. Wymagany klient: {1}; pliki launchera: {2}. Aktualizacja klienta, exe i plików launchera nie uruchamia Dockera ani lokalnego serwera. Zamknij grę przed aktualizacją.","El cliente de PC debe coincidir con el servidor VPS {0}. Cliente requerido: {1}; archivos del launcher: {2}. Actualizar el cliente, el exe y los archivos del launcher no inicia Docker ni un servidor local. Cierra el juego antes de actualizar.","launcher window or message | keep: {0} {1} {2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:a9b64cc8f830,Enter the VPS address: an IPv4 address (e.g. 203.0.113.7) or a domain name.,Podaj adres VPS: IPv4 (np. 203.0.113.7) albo nazwę domeny.,"Introduce la dirección del VPS: una dirección IPv4 (por ejemplo, 203.0.113.7) o un nombre de dominio.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dd8160592cd0,"Enter the VPS user (lower case, e.g. root, debian, ubuntu).","Podaj użytkownika VPS (małe litery, np. root, debian, ubuntu).","Introduce el usuario del VPS (en minúsculas, por ejemplo root, debian, ubuntu).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done

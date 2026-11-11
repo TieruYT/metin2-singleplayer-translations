@@ -174,7 +174,7 @@ Comunidad y ayuda
 Privacidad
 5.1. Todo se ejecuta localmente: el cliente se conecta únicamente a 127.0.0.1, y el servidor no abre puertos hacia el exterior.[ENTER]5.2. El juego no envía tus datos a ninguna parte. El launcher se conecta a GitHub solo para comprobar si hay una nueva versión.
 Cambios en estas reglas
-6.1. Una nueva versión del juego puede traer nuevo contenido a esta ventana. Se mostrará de nuevo en tu próximo inicio de sesión.[ENTER]6.2. ¡Diviértete!""",client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+6.1. Una nueva versión del juego puede traer nuevo contenido a esta ventana. Se mostrará de nuevo en tu próximo inicio de sesión.[ENTER]6.2. ¡Diviértete!""",client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:jobdesc_warrior,"[DELAY value;0]
 By virtue of their heavy[ENTER]
 armour, weapons and skills,[ENTER]
@@ -226,7 +226,7 @@ o combinar hábilmente[ENTER]
 el escudo y la espada para[ENTER]
 neutralizar los ataques de[ENTER]
 [WAIT]
-múltiples enemigos.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+múltiples enemigos.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:jobdesc_assassin,"[DELAY value;0]
 Ninjas are professional[ENTER]
 killers, capable of carrying[ENTER]
@@ -280,7 +280,7 @@ su maestría con la daga[ENTER]
 en distancias cortas, o empuñar[ENTER]
 [WAIT]
 un arco y flechas desde[ENTER]
-la distancia.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+la distancia.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:jobdesc_sura,"[DELAY value;0]
 Suras are fighters who were[ENTER]
 blessed with magical powers[ENTER]
@@ -332,7 +332,7 @@ especialización, los Suras pueden[ENTER]
 mejorar sus hechizos de ataque[ENTER]
 o desarrollar hechizos adicionales[ENTER]
 [WAIT]
-de fortalecimiento.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+de fortalecimiento.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:jobdesc_shaman,"[DELAY value;0]
 Employing the wisdom achieve[ENTER]
 through long years of[ENTER]
@@ -375,7 +375,7 @@ otorgar un aumento a los ataques,[ENTER]
 [WAIT]
 o en su lugar elegir mejorar[ENTER]
 hechizos individuales de[ENTER]
-curación y apoyo.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+curación y apoyo.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:empiredesc_a,"[DELAY value;10]
 Shinsoo Kingdom[ENTER]
 [ENTER]
@@ -463,7 +463,7 @@ reabrir la ruta comercial[ENTER]
 y reunir al antiguo[ENTER]
 imperio bajo su[ENTER]
 [WAIT]
-Emperador.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+Emperador.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:empiredesc_b,"[DELAY value;10]
 Chunjo Kingdom[ENTER]
 [ENTER]
@@ -575,7 +575,7 @@ reinar sobre todo el[ENTER]
 continente para tener[ENTER]
 el control del creciente poder[ENTER]
 [WAIT]
-de las Piedras Metin.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+de las Piedras Metin.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
 c:file:empiredesc_c,"[DELAY value;10]
 Jinno Kingdom[ENTER]
 [ENTER]
@@ -650,4 +650,4 @@ encontrar una forma de usar[ENTER]
 el poder mortal de[ENTER]
 las Piedras Metin[ENTER]
 [WAIT]
-con fines militares.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+con fines militares.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
