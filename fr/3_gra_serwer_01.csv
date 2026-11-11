@@ -58,7 +58,7 @@ e:b6ff5f54e965,"You are ready to warp, so you cannot use the Scroll of the Locat
 e:9a80a78942f1,You are being brought back to the place of origin.,Wróciłeś do punktu wyjścia.,Vous êtes ramené à votre point de départ.,server message (chat/system line),done
 e:9c4771cf2cca,%s%s cannot be used in a dungeon.,%s%s nie może być użyty w lochu.,%s%s ne peut pas être utilisé dans un donjon.,server message (chat/system line) | keep: %s %s,done
 e:3bdf0ba57a9f,[Quest] You have already received your reward.,[Misja] Odebrałeś już swoją nagrodę.,[Quête] Vous avez déjà reçu votre récompense.,server message (chat/system line),done
-e:bbccdf2efb33,the,the,the,server message (chat/system line),check
+e:bbccdf2efb33,the,the,le,server message (chat/system line),done
 e:2c55caf19c26,There aren't any Soul Stones available for extraction.,Przedmiot nie posiada Kamienia Duszy do wyjęcia.,Il n'y a aucune pierre d'âme à extraire.,server message (chat/system line),done
 e:112b47bc7a42,There aren't any Pieces of Broken Stone available for removal.,Przedmiot nie posiada Odłamku Kamienia do usuwania.,Il n'y a aucun morceau de pierre brisée à retirer.,server message (chat/system line),done
 e:00354e039be2,You cannot change the upgrade of this item.,Nie możesz zmienić ulepszenia tego Przedmiotu.,Vous ne pouvez pas changer l'amélioration de cet objet.,server message (chat/system line),done
@@ -244,8 +244,8 @@ e:3ee082f018a1,The Monster cannot be called. Check the Mob Number.,Potwór nie m
 e:bbc18462d679,Hit Points +%d,Punkty Życia +%d,Points de vie +%d,server message (chat/system line) | keep: %d,done
 e:6771da5b45cf,Spell Points +%d,Punkty Energii +%d,Points de magie +%d,server message (chat/system line) | keep: %d,done
 e:c4d19bad2df8,The Emperor Blessing is activated.,Błogosławieństwo Imperatora jest aktywne.,La Bénédiction de l'Empereur est activée.,server message (chat/system line),done
-e:9b7015a4cca0,Endurance +%d,Wytrzymałość +%d,Endurance +%d,server message (chat/system line) | keep: %d,check
-e:06b936cc9821,Intelligence +%d,Inteligencja +%d,Intelligence +%d,server message (chat/system line) | keep: %d,check
+e:9b7015a4cca0,Endurance +%d,Wytrzymałość +%d,Endurance +%d,server message (chat/system line) | keep: %d,done
+e:06b936cc9821,Intelligence +%d,Inteligencja +%d,Intelligence +%d,server message (chat/system line) | keep: %d,done
 e:88be89e0b9e3,Strength +%d,Siła +%d,Force +%d,server message (chat/system line) | keep: %d,done
 e:b99aeffd5948,Dexterity +%d,Zręczność +%d,Dextérité +%d,server message (chat/system line) | keep: %d,done
 e:d1c3c6028379,Attack Speed +%d,Szybkość Ataku +%d,Vitesse d'attaque +%d,server message (chat/system line) | keep: %d,done
@@ -527,7 +527,7 @@ e:0d73a39cd6b4,There is no limit for Potions.,Nie ma limitu mikstur.,Il n'y a pa
 e:18008d671b19,You can use up to %d potions.,Możesz użyć tylko %d mikstur.,Vous pouvez utiliser jusqu'à %d potions.,server message (chat/system line) | keep: %d,done
 e:6218b4a87a62,The fight will start in 10 seconds.,Walka rozpoczyna się za 10 sekund.,Le combat commence dans 10 secondes.,server message (chat/system line),done
 e:9a04ed26f572,The duel has begun.,Pojedynek rozpoczęty.,Le duel a commencé.,server message (chat/system line),done
-e:fddf1df7c30c,TRUE,TRUE,TRUE,server message (chat/system line),check
+e:fddf1df7c30c,TRUE,TRUE,TRUE,server message (chat/system line),done
 e:cff150645b50,The duel is being finished because there is a problem in the duel arena.,Pojedynek został zakończony z powodu problemów z areną.,Le duel se termine car il y a un problème dans l'arène.,server message (chat/system line),done
 e:8a281b861599,The duel has finished because of a timeout.,Pojedynek został zakończony z powodu upływu czasu.,Le duel s'est terminé faute de temps.,server message (chat/system line),done
 e:ab3fbb34a1b7,In 10 seconds you will be teleported into the city.,Za 10 sekund zostaniesz przeniesiony do miasta.,"Dans 10 secondes, vous serez téléporté en ville.",server message (chat/system line),done
@@ -538,7 +538,7 @@ e:62e580b7f524,%s has won the duel.,%s wygrał pojedynek.,%s a gagné le duel.,s
 e:315b937d315b,%s has won.,%s wygrał.,%s a gagné.,server message (chat/system line) | keep: %s,done
 e:afac302154ad,You will be teleported into the city in 10 seconds.,Zostaniesz przeniesiony do Miasta za 10 sekund.,Vous serez téléporté en ville dans 10 secondes.,server message (chat/system line),done
 e:245d0ead5923,The next round will begin in 10 seconds.,Następna runda rozpoczyna się za 10 sekund.,La prochaine manche commence dans 10 secondes.,server message (chat/system line),done
-e:0ed2d7b5cdb7,FALSE,FALSE,FALSE,server message (chat/system line),check
+e:0ed2d7b5cdb7,FALSE,FALSE,FALSE,server message (chat/system line),done
 e:17c06ef31a1f,The combatants have been separated. The duel has been stopped.,Wojownicy się rozdzielili. Pojedynek zakończony.,Les combattants ont été séparés. Le duel a été arrêté.,server message (chat/system line),done
 e:6c28b2c801bd,The quota of the Item Drop is at the moment plus %d%%,Aktualnie szansa na wypadnięcie przedmiotu to: +%d%%,Le taux de drop d'objets est actuellement de plus %d%%,server message (chat/system line) | keep: %d,done
 e:451dff90d205,The quota of the Yang Drop is at the moment plus %d%%,Ilość wypadających Yang jest zwiększona o: %d%%,Le taux de drop de Yang est actuellement de plus %d%%,server message (chat/system line) | keep: %d,done
@@ -626,7 +626,7 @@ e:147b6de54d02,My body is full of energy!,Moje ciało jest pełne energii!,Mon c
 e:60bc6e622e34,The training seems to be working already...,Widać już skutki treningu...,L'entraînement semble déjà fonctionner...,server message (chat/system line),done
 e:9f30a7c0ec1f,You successfully finished your training with the book.,Pomyślnie zakończyłeś trening przy pomocy książki.,Vous avez terminé avec succès votre entraînement avec le livre.,server message (chat/system line),done
 e:efd09abac871,You cannot read this due to your lack of experience.,"Nie możesz tego przeczytać, ponieważ brakuje Ci doświadczenia.",Vous ne pouvez pas lire ceci par manque d'expérience.,server message (chat/system line),done
-e:f6918a162453,Question.,Pytanie.,Question.,server message (chat/system line),check
+e:f6918a162453,Question.,Pytanie.,Question.,server message (chat/system line),done
 e:4898a7ac1794,You cannot train this skill with a Book.,Nie możesz szkolić tej umiejętności za pomocą Książki.,Vous ne pouvez pas entraîner cette compétence avec un livre.,server message (chat/system line),done
 e:0eaa2b6612de,This skill's level is not high enough to be trained with a Book.,"Umiejętność nie jest odpowiednio rozwinięta, aby szkolić ją przy pomocy Książki.",Le niveau de cette compétence est trop bas pour l'entraîner avec un livre.,server message (chat/system line),done
 e:834abcd3a366,"I'm making progress, but I still haven't understood everything.",Robię postępy ale nie zrozumiałem jeszcze wszystkiego.,"Je progresse, mais je n'ai pas encore tout compris.",server message (chat/system line),done

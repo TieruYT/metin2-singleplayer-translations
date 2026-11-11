@@ -54,7 +54,7 @@ p:4fa8cc860c52,Tools,Narzędzia,Araçlar,"panel: module text / panel: editsql/re
 p:a6aabfc235a7,Total playtime,,Toplam oynama süresi,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:92cb331d8697,Total units,,Toplam adet,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:7a9b1c03383a,Total value,,Toplam değer,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:41757d1d128b,Totem,Totem,Totem,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",check
+p:41757d1d128b,Totem,Totem,Totem,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:5c05679229b5,Treasure chest,Skrzynia skarbu,Define sandığı,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:042c862e4467,Try again,Spróbuj ponownie,Tekrar dene,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:ce1649348ab2,Two-handed,,Çift elli silahlar,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -146,7 +146,7 @@ p:31134623c7e2,Yang in circulation (7 days),,Dolaşımdaki Yang (7 gün),"panel:
 p:c9b34c4dc8ed,Yang per bot,,Bot başına yang,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:f534a15f05b9,Yang rain,,Yang yağmuru,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1c20aeae2141,"Yes, restart",,"Evet, yeniden başlat","panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7318f7cac5d9,Yongan (Shinsoo M1),,Yongan (Shinsoo M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:7318f7cac5d9,Yongan (Shinsoo M1),,Yongan (Shinsoo M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:993ca07e0602,You are about to delete <b>%d %s</b> from the table <b>%s.%s</b>. <b>Nothing has been deleted yet</b> - check the list and confirm. The deletion goes into the Change history; one “Undo” brings all these rows back at once.,Usuniesz <b>%d %s</b> z tabeli <b>%s.%s</b>. <b>Nic nie zostało jeszcze usunięte</b> - sprawdź listę i potwierdź. Usunięcie trafi do Historii zmian; jedno „Cofnij” przywróci wszystkie te wiersze naraz.,"Silmek üzeresin: <b>%d %s</b> (tablo <b>%s.%s</b>). <b>Henüz hiçbir şey silinmedi</b> - listeyi kontrol et ve onayla. Silme işlemi Değişiklik geçmişine girer; tek bir “Geri al”, bu satırların hepsini birden geri getirir.","panel: module text / panel: editsql/__init__.py | keep: %d %s %s %s | keep the HTML tags exactly: </b> <b> | the classic web panel (browser, UTF-8: any letter)",done
 p:35e60eb54636,"You can also add a recipe to a window on the recipe's page, or right when you add it.",Przepis do okna dodasz też na stronie przepisu albo od razu przy jego dodawaniu.,"Reçeteyi bir pencereye, reçetenin kendi sayfasından ya da reçeteyi eklerken doğrudan da ekleyebilirsin.","panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
 p:9cda431df010,Your character is not in the game now (or the game core did not answer within 15 s).,Twoja postać nie jest teraz w grze (albo rdzeń gry nie odpowiedział w 15 s).,Karakterin şu anda oyunda değil (ya da oyun çekirdeği 15 sn içinde yanıt vermedi).,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
@@ -192,7 +192,7 @@ p:ac6944e565e2,base price from the price list for +{row}: {p},cena bazowa z CENY
 p:5a11f00b367a,below tier,,kademenin altında,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8f6c6078ac9b,"bin/db reads items, monsters, refining and shops from the database when it starts.","bin/db czyta przedmioty, potwory, ulepszenia i sklepy z bazy przy starcie.","bin/db eşyaları, canavarları, yükseltmeyi ve dükkânları başlarken veritabanından okur.","panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:302b0d3ea4ab,bin/game reads the experience table when it starts too.,bin/game czyta tabelę doświadczenia też przy starcie.,bin/game de tecrübe tablosunu başlarken okur.,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
-p:57da3dfbbb4a,bonus,,bonus,"panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:57da3dfbbb4a,bonus,,bonus,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:5ef499572472,bonus name,nazwa bonusu,bonus adı,"panel: module text / panel: editsql/schema.py | the classic web panel (browser, UTF-8: any letter)",done
 p:06e5751d6fa8,bonuses,,bonus,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:4a7989430725,bosses: ,,yenilen patronlar: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -411,13 +411,13 @@ p:8f3a07543988,view,widok,görünüm,"panel: module text / panel: editsql/pages.
 p:7a97daa1d930,vnum: recipe #%s already exists - pick a free number,vnum: przepis #%s już istnieje - wybierz wolny numer,vnum: #%s numaralı reçete zaten var - boş bir numara seç,"panel: module text / panel: editsql/safety.py | keep: %s | the classic web panel (browser, UTF-8: any letter)",done
 p:12625ba3c14e,waiting,czeka,bekliyor,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:04ae0d81a432,weight %d,waga %d,ağırlık %d,"panel: module text / panel: editsql/editor.py | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:167b6c4a4e41,yang,yang,yang,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",check
+p:167b6c4a4e41,yang,yang,yang,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e3c04c320463,yang / unit,,yang / adet,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:fc3225e7d9f5,yang listed,,listelenen yang,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:fb360f9c09ac,yes,tak,evet,"panel: module text / panel: panel_theme/m2_theme_src.py | the classic web panel (browser, UTF-8: any letter)",done
 p:4491cc3f3301,{key} is not among the game's own groups: nothing to take out,{key} nie jest grupą gry: nie ma czego usuwać,"{key}, oyunun kendi grupları arasında değil: çıkarılacak bir şey yok","panel: module text / panel: drop_tables.py | keep: {key} | the classic web panel (browser, UTF-8: any letter)",done
 p:13db6d478aab,{key} still names the removed group {item},{key} nadal wskazuje usuniętą grupę {item},{key} hâlâ kaldırılan {item} grubuna işaret ediyor,"panel: module text / panel: drop_tables.py | keep: {item} {key} | the classic web panel (browser, UTF-8: any letter)",done
-p:f1347da89ecd,{map} · CH{ch},{map} · CH{ch},{map} · CH{ch},"panel: module text / panel: market_preview/texts.py | keep: {ch} {map} | the classic web panel (browser, UTF-8: any letter)",check
+p:f1347da89ecd,{map} · CH{ch},{map} · CH{ch},{map} · CH{ch},"panel: module text / panel: market_preview/texts.py | keep: {ch} {map} | the classic web panel (browser, UTF-8: any letter)",done
 p:ec9bfb443cdb,{m} average damage (AVG price),{m} średnie obrażenia (cena ŚR),{m} ortalama zarar (ORT fiyatı),"panel: module text / panel: market_preview/texts.py | keep: {m} | the classic web panel (browser, UTF-8: any letter)",done
 p:4a05ed7a203c,{m} bonuses outside the base,{m} bonusy poza bazą,{m} taban dışı bonus,"panel: module text / panel: market_preview/texts.py | keep: {m} | the classic web panel (browser, UTF-8: any letter)",done
 p:50737bf03ab8,{m} for maximal bonuses,{m} za bonusy maksymalne,maksimum bonuslar için {m},"panel: module text / panel: market_preview/texts.py | keep: {m} | the classic web panel (browser, UTF-8: any letter)",done
@@ -432,7 +432,7 @@ p:7df09e604b16,{n} offers,{n} ofert,{n} ilan,"panel: module text / panel: market
 p:15118d91451c,{n}% dearer than usual,{n}% drożej niż zwykle,normalden %{n} daha pahalı,"panel: module text / panel: market_preview/texts.py | keep: % d; {n} | the classic web panel (browser, UTF-8: any letter)",done
 p:e33abced7ef3,{n}% under the usual price - over {u}%: no bargain but a price to check (written to the panel's diagnostics).,"{n}% poniżej zwykłej ceny - ponad {u}%: to nie okazja, tylko cena do sprawdzenia (zapisana w diagnostyce panelu).","olağan fiyatın %{n} altında - %{u} üzeri: fırsat değil, kontrol edilmesi gereken bir fiyat (panelin tanılama kaydına yazıldı).","panel: module text / panel: market_preview/texts.py | keep: % u; {n} {u} | the classic web panel (browser, UTF-8: any letter)",done
 p:c1a22510f17e,{p} yang / pc.,{p} yang / szt.,{p} yang / adet,"panel: module text / panel: market_preview/texts.py | keep: {p} | the classic web panel (browser, UTF-8: any letter)",done
-p:a44ec893e3cc,— bonus —,— bonus —,— bonus —,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",check
+p:a44ec893e3cc,— bonus —,— bonus —,— bonus —,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:2453f1df1b27,— no character —,— bez postaci —,— karakter yok —,"panel: module text / panel: market_preview/texts.py | the classic web panel (browser, UTF-8: any letter)",done
 p:867f3e8a58d9,— none —,— żadne —,— yok —,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:af32412b953f,"“Preview changes” saves nothing yet - it shows was/will be, and only there do you confirm the save.",„Podgląd zmian” niczego jeszcze nie zapisuje - pokazuje było/będzie i dopiero tam potwierdzasz zapis.,“Değişiklikleri önizle” henüz hiçbir şeyi kaydetmez - eski/yeni değerleri gösterir ve kaydı yalnızca orada onaylarsın.,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done

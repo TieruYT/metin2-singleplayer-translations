@@ -48,11 +48,11 @@ c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: 
 c:locale_game:CHAT_ALL,All,Wszystko,Alle,client: game texts (localeInfo),done
 c:locale_game:CHAT_BLOCK,Block,Blok,Blockieren,client: game texts (localeInfo),done
 c:locale_game:CHAT_GUILD,Guild,Gildia,Gilde,client: game texts (localeInfo),done
-c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),check
+c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),done
 c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Dieser Satz hat ungültige Wörter enthalten.,client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Alte Nachrichten anzeigen [L],client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Chat-Protokoll,client: game texts (localeInfo),done
-c:locale_game:CHAT_NORMAL,Normal,Normalne,Normal,client: game texts (localeInfo),check
+c:locale_game:CHAT_NORMAL,Normal,Normalne,Normal,client: game texts (localeInfo),done
 c:locale_game:CHAT_NOTICE,Announcement,Ogłoszenia,Server,client: game texts (localeInfo),done
 c:locale_game:CHAT_PARTY,Group,Grupa,Gruppe,client: game texts (localeInfo),done
 c:locale_game:CHAT_SEND_CHAT,Send chat,Wyślij wiadomość,Chat senden,client: game texts (localeInfo),done
@@ -88,7 +88,7 @@ c:locale_game:DRAGON_SOUL_STEP_LEVEL2,"Clarity: clear,","Jakość: przejrzysty,"
 c:locale_game:DRAGON_SOUL_STEP_LEVEL3,"Clarity: flawless,","Jakość: bez skazy,","Klarheit: lupenrein,",client: game texts (localeInfo),done
 c:locale_game:DRAGON_SOUL_STEP_LEVEL4,"Clarity: brilliant,","Jakość: znakomity,","Klarheit: brillant,",client: game texts (localeInfo),done
 c:locale_game:DRAGON_SOUL_STEP_LEVEL5,"Clarity: excellent,","Jakość: wyborny,","Klarheit: exzellent,",client: game texts (localeInfo),done
-c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,Level: +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,Stufe: +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING1,The Dragon Stone may be destroyed in the process.,Smoczy Kamień może ulec zniszczeniu.,Der Drachenstein kann dabei zerstört werden.,client: game texts (localeInfo),done
 c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Willst du trotzdem weitermachen?,client: game texts (localeInfo),done
 c:locale_game:DRAGON_SOUL_UNMATCHED_SLOT,That is the wrong slot.,To nieprawidłowy slot.,Das ist der falsche Slot.,client: game texts (localeInfo),done
@@ -125,7 +125,7 @@ c:locale_game:EXCHANGE_CANNOT_GIVE,This item cannot be traded.,Nie możesz handl
 c:locale_game:EXCHANGE_CANT_EDIT_MONEY,You cannot change the sum now.,Nie możesz teraz zmienić kwoty.,Du kannst die Summe jetzt nicht ändern.,client: game texts (localeInfo),done
 c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Nie możesz wymienić ubranych przedmiotów.,Du kannst ausgerüstete Gegenstände nicht tauschen.,client: game texts (localeInfo),done
 c:locale_game:EXCHANGE_MONEY,Sum,Kwota,Summe,client: game texts (localeInfo),done
-c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,Trade with %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,Handel mit %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,Du hast den Köder verloren.,client: game texts (localeInfo),done
 c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,"Es sieht so aus, als ob %s am Haken hängt.",client: game texts (localeInfo) | keep: %s,done
 c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,"Es sieht so aus, als ob %s am Haken hängt.",client: game texts (localeInfo) | keep: %s,done
@@ -217,7 +217,7 @@ c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from you
 c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Zeichen löschen,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,Schriftrollen der Rückkehr können nicht gestapelt werden.,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Möchtest du diesen Gegenstand verwenden?,client: game texts (localeInfo),done
-c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Keiner,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Nahkampf Lehrer,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Fernkampf Lehrer,client: game texts (localeInfo),done
@@ -225,7 +225,7 @@ c:locale_game:JOB_SHAMAN,Shaman,Szaman,Schamane,client: game texts (localeInfo),
 c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Keiner,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Lehrer der Drachenmacht,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Lehrer der Heilung,client: game texts (localeInfo),done
-c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Keiner,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Magische-Waffen Lehrer,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Schwarze-Magie Lehrer,client: game texts (localeInfo),done
@@ -260,12 +260,12 @@ c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Passwort,client: game texts (l
 c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Yongan-Gebiet,client: game texts (localeInfo),done
 c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Seungryong-Tal,client: game texts (localeInfo),done
 c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Yayang-Gebiet,client: game texts (localeInfo),done
-c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
 c:locale_game:MAP_B1,Joan Area,Strefa Joan,Joan-Gebiet,client: game texts (localeInfo),done
 c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,IMJI-Tal,client: game texts (localeInfo),done
 c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Bokjung-Gebiet,client: game texts (localeInfo),done
 c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Nephrit bahia,client: game texts (localeInfo),done
-c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
 c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Pyungmoo-Gebiet,client: game texts (localeInfo),done
 c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Bangsan-Tal,client: game texts (localeInfo),done
 c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Bakra-Gebiet,client: game texts (localeInfo),done
@@ -277,10 +277,10 @@ c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyumhwan,client: game texts (loca
 c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Land der Giganten,client: game texts (localeInfo),done
 c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Gumsan-Turm,client: game texts (localeInfo),done
 c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Monte Sohan,client: game texts (localeInfo),done
-c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),done
 c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Hwang-Tempel,client: game texts (localeInfo),done
 c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Donnerberge,client: game texts (localeInfo),done
-c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),done
 c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Roter Wald,client: game texts (localeInfo),done
 c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Schlangenfeld,client: game texts (localeInfo),done
 c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Freund hinzufügen,client: game texts (localeInfo),done
@@ -307,7 +307,7 @@ c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Vergrössern,client: game text
 c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d Beobachter,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Grosse Karte öffnen,client: game texts (localeInfo),done
 c:locale_game:MINUTE,Minutes,Minut,Minuten,client: game texts (localeInfo),done
-c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),check
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),done
 c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,Zehntausend,client: game texts (localeInfo),done
 c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Hundert Milliarden,client: game texts (localeInfo),done
 c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Verkaufspreis:,client: game texts (localeInfo),done
@@ -340,7 +340,7 @@ c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the facto
 c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Bereich der Gruppe um den Faktor 2 vergrössert.,client: game texts (localeInfo),done
 c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Gruppe verlassen,client: game texts (localeInfo),done
 c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,EXP-Bonus für langes Gruppenspiel: +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),check
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),done
 c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Gruppenmitglied anrufen.,client: game texts (localeInfo),done
 c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Bonus auf TP- und MP-Regeneration: +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,Deine Anfrage wurde abgelehnt.,client: game texts (localeInfo),done
@@ -372,7 +372,7 @@ c:locale_game:PVP_LEVEL0,Chivalric,Rycerski,Ritterlich,client: game texts (local
 c:locale_game:PVP_LEVEL1,Noble,Szlachetny,Edel,client: game texts (localeInfo),done
 c:locale_game:PVP_LEVEL2,Good,Dobry,Gut,client: game texts (localeInfo),done
 c:locale_game:PVP_LEVEL3,Friendly,Przyjazny,Freundlich,client: game texts (localeInfo),done
-c:locale_game:PVP_LEVEL4,Neutral,Neutralny,Neutral,client: game texts (localeInfo),check
+c:locale_game:PVP_LEVEL4,Neutral,Neutralny,Neutral,client: game texts (localeInfo),done
 c:locale_game:PVP_LEVEL5,Aggressive,Agresywny,Aggressiv,client: game texts (localeInfo),done
 c:locale_game:PVP_LEVEL6,Fraudulent,Nieuczciwy,Arglistig,client: game texts (localeInfo),done
 c:locale_game:PVP_LEVEL7,Malicious,Złośliwy,Bösartig,client: game texts (localeInfo),done
@@ -387,7 +387,7 @@ c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Frieden,client: game texts (local
 c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Schutz,client: game texts (localeInfo),done
 c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Feindlich,client: game texts (localeInfo),done
 c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Neue Quest erhalten.,client: game texts (localeInfo),done
-c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
+c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
 c:locale_game:QUEST_SEC,Sec.,Sek.,Sek.,client: game texts (localeInfo),done
 c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Abgelaufene Zeit,client: game texts (localeInfo),done
 c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Keine Zeitbegrenzung.,client: game texts (localeInfo),done
@@ -419,7 +419,7 @@ c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła 
 c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,Bildschirmfoto gespeichert in '%s'.,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,Bildschirmaufnahme-Datei.,client: game texts (localeInfo),done
 c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,Fehlgeschlagenes Screen-Capture wird gespeichert.,client: game texts (localeInfo),done
-c:locale_game:SECOND,Sec,Sek,Sec,client: game texts (localeInfo),check
+c:locale_game:SECOND,Sec,Sek,Sek,client: game texts (localeInfo),done
 c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,Du kannst dieses Zeichen nicht löschen.,client: game texts (localeInfo),done
 c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,Du hast den Namen des Charakters geändert.,client: game texts (localeInfo),done
 c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,Der Name des Zeichens ist bereits vorhanden.,client: game texts (localeInfo),done
@@ -432,7 +432,7 @@ c:locale_game:SELECT_DO_YOU_DELETE_REALLY,Do you want to continue?,Czy chcesz ko
 c:locale_game:SELECT_EMPTY_SLOT,This is an empty field.,To jest wolne pole.,Dies ist ein leeres Feld.,client: game texts (localeInfo),done
 c:locale_game:SELECT_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
 c:locale_game:SELECT_INPUT_CHANGING_NAME,Enter a new character name.,Wprowadź nową nazwę postaci.,Es wurde ein neuer Zeichenname eingegeben.,client: game texts (localeInfo),done
-c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,No Guild,client: game texts (localeInfo),check
+c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,Keine Gilde,client: game texts (localeInfo),done
 c:locale_game:SHOP_BUY_INFO,Choose the Item you want to buy in the shop window.,"Wybierz z wystawy przedmiot, który chcesz kupić.","Wähle den Artikel, den du im Schaufenster kaufen möchtest.",client: game texts (localeInfo),done
 c:locale_game:SHOP_CANNOT_SELL_EQUIPMENT,You cannot sell  equipped Items.,Nie możesz sprzedawać ubranych przedmiotów.,Du kannst keine angelegten Gegenstände verkaufen.,client: game texts (localeInfo),done
 c:locale_game:SHOP_CANNOT_SELL_ITEM,This Item cannot be sold.,Ten Przedmiot nie może zostać sprzedany.,Dieser Artikel kann nicht verkauft werden.,client: game texts (localeInfo),done
@@ -473,7 +473,7 @@ c:locale_game:SKILL_GROUP_SHAMAN_2,Healing,Leczenie,Heilung,client: game texts (
 c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,Waffenkunde,client: game texts (localeInfo),done
 c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,Magie,client: game texts (localeInfo),done
 c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,Körper,client: game texts (localeInfo),done
-c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Mental,client: game texts (localeInfo),check
+c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Mental,client: game texts (localeInfo),done
 c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,Verzauberte Klinge,client: game texts (localeInfo),done
 c:locale_game:SKILL_GYEONGGONG,Feather Walking,,Federlauf,client: game texts (localeInfo),done
 c:locale_game:SKILL_HEUKSIN,Dark Protection,,Dunkler Schutz,client: game texts (localeInfo),done
@@ -552,11 +552,11 @@ c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,Gruppe verlas
 c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,Gruppe beitreten,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,Ausrüstung,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,Flüstern,client: game texts (localeInfo),done
-c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Boss,client: game texts (localeInfo),check
-c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,Level 5.,client: game texts (localeInfo),check
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Boss,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,Stufe 5.,client: game texts (localeInfo),done
 c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,Stufe 3.,client: game texts (localeInfo),done
 c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,Stufe 1.,client: game texts (localeInfo),done
-c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,Level 4.,client: game texts (localeInfo),check
+c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,Stufe 4.,client: game texts (localeInfo),done
 c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,Stufe 2.,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_ATTACK,Attack,Atak,Angriff,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,Automatisch angreifen,client: game texts (localeInfo),done
@@ -624,7 +624,7 @@ c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obr
 c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Ohnmacht-Chance %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Rüstung,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Pfeil,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Angriffswert +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Angriffsgeschwindigkeit +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,Sonnenelixier,client: game texts (localeInfo),done
@@ -667,7 +667,7 @@ c:locale_game:TOOLTIP_ITEM_LIMIT_STR,Strenght Upper Limit: %d,Górna granica Si�
 c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER,Magical Attack Value %d - %d,Wartość Magicznego Ataku: %d - %d,Magischer Angriffswert %d - %d,client: game texts (localeInfo) | keep: %d %d,done
 c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG,Magical Attack Value %d,Wartość Magicznego Ataku: %d,Magischer Angriffswert %d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ITEM_MAGIC_DEF_POWER,Magical Defence %d,Magiczna Obrona %d,Magische Verteidigung %d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,Normal,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,Normal,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ITEM_SLOW,Slow,Wolny,Langsam,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ITEM_VERY_FAST,Very fast,Bardzo szybki,Sehr schnell,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ITEM_VERY_SLOW,Very slow,Bardzo wolny,Sehr langsam,client: game texts (localeInfo),done
@@ -682,8 +682,8 @@ c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku:
 c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.","Eine Hand, die fallen gelassenes Yang automatisch aufhebt",client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Verteidigung +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Verteidigung,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,check
-c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,iCafe EXP Bonus +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,iCafe-EXP-Bonus +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,Erhöht den EXP-Gewinn um 50%,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,"Deine Chance, einen seltenen Fisch zu fangen, verdoppelt sich.",client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_GOLDBONUS,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Chance auf Yang-Drop multipliziert mit %.1f,client: game texts (localeInfo) | keep: %.1f,done

@@ -128,7 +128,8 @@ def fill(lang, mapping, only_file=None):
                     text = fold_ascii(text)
                 elif not text.isascii():
                     continue  # bots type plain a-z: filled later with a romanised text
-            why = check(lang, fname, r[1], r[4], text)
+            # rows with no English are checked against the Polish text, as in tools/validate.py
+            why = check(lang, fname, r[1] if r[1].strip() else r[2], r[4], text)
             if why:
                 problems.append((lang, fname, r[0], why, text))
                 continue

@@ -415,7 +415,7 @@ c:skilldesc:2:5,Spin the sword to attack several enemies.,Wiruj mieczem aby atak
 c:skilldesc:2:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Atac frontal pe zona,"client: skill tooltip, condition 1 (skill 2)",done
 c:skilldesc:2:7,Attack on Multiple Targets,Atak w kilka celów,Atac asupra mai multor tinte,"client: skill tooltip, condition 2 (skill 2)",done
 c:skilldesc:2:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Putere de atac %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 2) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:3:2,Berserk,Berserk,Berserk,"client: skill tooltip, skill name (skill 3)",check
+c:skilldesc:3:2,Berserk,Berserk,Berserk,"client: skill tooltip, skill name (skill 3)",done
 c:skilldesc:3:3,Fury,Furia,Furie,"client: skill tooltip, skill name (M) (skill 3)",done
 c:skilldesc:3:4,Frenzy,Szał,Frenezie,"client: skill tooltip, skill name (G/P) (skill 3)",done
 c:skilldesc:3:5,Only concentrate on attacking.,Koncentracja tylko na ataku,Concentrare doar pe atac.,"client: skill tooltip, description (skill 3)",done
@@ -474,7 +474,7 @@ c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Azvarlirea sabiei ,"client: skill toolt
 c:skilldesc:20:5,Attack enemies directly.,atakujesz wrogów bezpośrednio,Ataca inamicii direct.,"client: skill tooltip, description (skill 20)",done
 c:skilldesc:20:6,Long-Range Attack,Atak z dystansu,Atac de la distanta,"client: skill tooltip, condition 1 (skill 20)",done
 c:skilldesc:20:7,Attack on multiple targets,Atak skierowany na kilka celów,Atac asupra mai multor tinte,"client: skill tooltip, condition 2 (skill 20)",done
-c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Fainting Effect|Throws the target to the ground.,"client: skill tooltip, condition 3 (skill 20)",check
+c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Efect de lesin|Arunca tinta la pamant.,"client: skill tooltip, condition 3 (skill 20)",done
 c:skilldesc:20:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Putere de atac %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 20) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:20:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Sansa de lesin %.0f%%,"client: skill tooltip, effect line 2 (skill 20) | keep: %.0f | max 64 characters",done
 c:skilldesc:31:2,Ambush,Zasadzka,Ambuscada,"client: skill tooltip, skill name (skill 31)",done
@@ -483,7 +483,7 @@ c:skilldesc:31:4,Stealth Ambush,Niewidzialna Zasadzka,Ambuscada pe furis,"client
 c:skilldesc:31:5,Approach an enemy from behind and make a deadly attack.,Podejdź wroga od tyłu i zadaj śmiertelny cios.,Apropiati-va de un inamic din spate si dati o lovitura mortala.,"client: skill tooltip, description (skill 31)",done
 c:skilldesc:31:6,Attack Power increases for back hits.,"Siła ataku jest większa, jeśli cios zadano w plecy",Puterea de atac creste la loviturile din spate.,"client: skill tooltip, condition 1 (skill 31)",done
 c:skilldesc:31:7,Stealth Bonus,Bonus od Niewidzialności,Bonus de furisare,"client: skill tooltip, condition 2 (skill 31)",done
-c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,Level prolongs Bloodthirst|Activates Bloodthirst,"client: skill tooltip, condition 3 (skill 31)",check
+c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,Nivelul prelungeste Setea de sange|Activeaza Setea de sange,"client: skill tooltip, condition 3 (skill 31)",done
 c:skilldesc:31:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Putere de atac %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 31) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:31:20,Bloodthirst Duration: %.0f Sec.,Żądza Krwi: obraż. sztyletów w potwory +%.0f,Durata Setei de sange: %.0f sec.,"client: skill tooltip, effect line 2 (skill 31) | keep: %.0f | max 64 characters",done
 c:skilldesc:32:2,Fast Attack,Szybki Atak,Atac rapid,"client: skill tooltip, skill name (skill 32)",done
@@ -546,7 +546,7 @@ c:skilldesc:48:4,Flame Arrow,Strzała Lawy,Sageata in flacari,"client: skill too
 c:skilldesc:48:5,Ignite the arrow.,Podpala strzałę,Aprindeti sageata.,"client: skill tooltip, description (skill 48)",done
 c:skilldesc:48:6,Long Range Attack,Atak zasięgowy,Atac de la distanta,"client: skill tooltip, condition 1 (skill 48)",done
 c:skilldesc:48:7,Attack on multiple targets,Atak skierowany w kilka celów,Atac asupra mai multor tinte,"client: skill tooltip, condition 2 (skill 48)",done
-c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,"client: skill tooltip, condition 3 (skill 48)",check
+c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Atac de foc|Arunca monstrii la pamant.|Sansa de lesin a monstrilor,"client: skill tooltip, condition 3 (skill 48)",done
 c:skilldesc:48:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Putere de atac %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 48) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:48:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Sansa de foc persistent %.0f%%,"client: skill tooltip, effect line 2 (skill 48) | keep: %.0f | max 64 characters",done
 c:skilldesc:49:2,Feather Walk,Bezszelestny Chód,Pas de pana,"client: skill tooltip, skill name (skill 49)",done
@@ -555,7 +555,7 @@ c:skilldesc:49:4,God's speed,Chód Boga,Viteza zeilor,"client: skill tooltip, sk
 c:skilldesc:49:5,Make your body lighter to increase moving speed.,"Zmniejsza wagę ciała, aby zwiększyć szybkość",Faceti-va corpul mai usor pentru a mari viteza de miscare.,"client: skill tooltip, description (skill 49)",done
 c:skilldesc:49:6,Increases moving speed,Zwiększa Szybkośc Ruchu,Mareste viteza de miscare,"client: skill tooltip, condition 1 (skill 49)",done
 c:skilldesc:49:7,Increases Endurance regeneration in combat,Zwiększa regenerację staminy w walce,Mareste regenerarea rezistentei in lupta,"client: skill tooltip, condition 2 (skill 49)",done
-c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,"client: skill tooltip, condition 3 (skill 49)",check
+c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,Monstrii mai slabi nu iti aud pasii|Ridica viteza maxima de miscare la 220.,"client: skill tooltip, condition 3 (skill 49)",done
 c:skilldesc:49:17,Moving Speed +%.0f ,Szybkość Ruchu +%.0f,Viteza de miscare +%.0f ,"client: skill tooltip, effect line 1 (skill 49) | keep: %.0f | max 64 characters",done
 c:skilldesc:50:2,Poison Arrow,Trująca Strzała,Sageata otravita,"client: skill tooltip, skill name (skill 50)",done
 c:skilldesc:50:3,Toxic Arrow,Toksyczna Strzała,Sageata toxica,"client: skill tooltip, skill name (M) (skill 50)",done
@@ -563,7 +563,7 @@ c:skilldesc:50:4,Deadly Arrow,Śmiercionośna Strzała,Sageata mortala,"client: 
 c:skilldesc:50:5,Coat the arrow with powerful poison.,Nasącz strzałę silną trucizną.,Ungeti sageata cu otrava puternica.,"client: skill tooltip, description (skill 50)",done
 c:skilldesc:50:6,Long-Range Attack,Atak na odległość,Atac de la distanta,"client: skill tooltip, condition 1 (skill 50)",done
 c:skilldesc:50:7,Attack on multiple targets,Atak skierowany w kilka celów,Atac asupra mai multor tinte,"client: skill tooltip, condition 2 (skill 50)",done
-c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,"client: skill tooltip, condition 3 (skill 50)",check
+c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Atac de otrava persistenta|Arunca tinta la pamant.|Sansa de lesin a monstrilor,"client: skill tooltip, condition 3 (skill 50)",done
 c:skilldesc:50:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Putere de atac %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 50) | keep: %.0f %.0f | max 64 characters",done
 c:skilldesc:50:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Sansa de otravire %.0f%%,"client: skill tooltip, effect line 2 (skill 50) | keep: %.0f | max 64 characters",done
 c:skilldesc:51:2,Arrow Shower,Deszcz Strzał,Ploaia de sageti,"client: skill tooltip, skill name (skill 51)",done

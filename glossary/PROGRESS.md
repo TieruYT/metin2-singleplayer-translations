@@ -8,22 +8,22 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
 
 | lang | 1_klient | 2_przedmioty_potwory | 3_gra_serwer | 4_questy | 5_boty_czat | 6_launcher | 7_panel | total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 5750/5750 | 9926/10016 | 1016/1016 | 3035/8601 | 1582/3723 | 2307/2308 | 4414/4414 | 28030/35828 (78.2%) |
+| de | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
 | tr | 5750/5750 | 10015/10015 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35827/35827 (100.0%) |
-| fr | 5750/5750 | 9869/10016 | 1016/1016 | 3035/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27979/35828 (78.1%) |
-| es | 5750/5750 | 57/10016 | 1016/1016 | 3029/8601 | 17/3723 | 2308/2308 | 4414/4414 | 16591/35828 (46.3%) |
-| it | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| ro | 5750/5750 | 9869/10016 | 1016/1016 | 3035/8601 | 1601/3723 | 2307/2308 | 4414/4414 | 27992/35828 (78.1%) |
-| hu | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| nl | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| cs | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| el | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 72/3723 | 2307/2308 | 4414/4414 | 16716/35828 (46.7%) |
-| ru | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| pt | 5750/5750 | 9869/10016 | 1014/1014 | 3035/8601 | 1588/3723 | 2307/2308 | 4414/4414 | 27977/35826 (78.1%) |
-| da | 5750/5750 | 127/10016 | 1016/1016 | 3029/8601 | 322/3723 | 2307/2308 | 4414/4414 | 16965/35828 (47.4%) |
-| ar | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| ko | 5750/5750 | 128/10016 | 1016/1016 | 3029/8601 | 70/3723 | 2307/2308 | 4414/4414 | 16714/35828 (46.7%) |
-| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3687/3723 | 2308/2308 | 4414/4414 | 35792/35828 (99.9%) |
+| fr | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| es | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| it | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ro | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| hu | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| nl | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| cs | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| el | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ru | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| pt | 5750/5750 | 10016/10016 | 1014/1014 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35826/35826 (100.0%) |
+| da | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ar | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| ko | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
+| en_US | 5750/5750 | 10016/10016 | 1016/1016 | 8601/8601 | 3723/3723 | 2308/2308 | 4414/4414 | 35828/35828 (100.0%) |
 
 ## Prüfung der fertigen Bereiche (Stand 2026-11-09)
 
@@ -31,11 +31,12 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   7_panel, in keiner Sprache.
 - de/7_panel_01–03 und tr/7_panel_01–06 waren schon im Original-Repo übersetzt
   (Commit „Panel: 7_panel section…“). Deshalb erscheinen sie nicht im PR.
-- Zeilen mit Status `check` = Text ist eine Kopie des Englischen aus dem Original
-  (de 643, tr 500, fr 751, ro 508, pt 762). Die meisten sind Namen/Kürzel, die
-  so bleiben können (Bot, Status, Yang, /companion-Befehle). Einige sind aber
-  noch englische Sätze, z. B. de 1_klient_09 (Klassen- und Reichstexte),
-  de 7_panel_04 „Open the market preview“. Nach Regel nicht angefasst.
+- Zeilen mit Status `check` (Text = Kopie des Englischen; de 643, tr 500,
+  fr 751, ro 508, pt 762) sind alle geprüft und auf `done` gesetzt
+  (Stand 2026-11-10). Namen, Kürzel und Befehle blieben unverändert; echte
+  englische Sätze wurden übersetzt (z. B. de 1_klient_09 Klassen- und
+  Reichstexte mit gleicher [ENTER]/[WAIT]-Struktur, Wiki- und Panel-Texte,
+  Frisurnamen mit Geschlechtskürzel de (w)/(m), ro (f)/(m)).
 - es: 8810 Zeilen aus dem Community-PR haben Text, aber Status `new`; nicht
   angefasst.
 
@@ -122,6 +123,22 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   `python3 glossary/build_en_us.py`; `tools/validate.py` erlaubt dafür
   Regionalordner wie `en_US` (Codepage von `en`). Offen bleiben nur 36 Zeilen
   ohne englischen Text (nur `polski`).
+- Stand 2026-11-10 (Branch `claude/translations-5`): alle Sprachen zu 100 %
+  übersetzt, bis auf die 14 gesperrten Zeilen unten. 4_questy, 5_boty_czat und
+  alle Item-Beschreibungen (2_przedmioty_potwory, `i:desc`/`i:sum`) sind fertig;
+  alle `check`-Zeilen sind geprüft. Validator: 0 neue Fehler.
+- 14 Zeilen in 5_boty_czat_05/06 (`b:phrase:`, nur Polnisch, mit %s/%d/%u/%ld) lassen sich in keiner Sprache
+  eintragen: tools/validate.py vergleicht die Variablen mit der leeren english-Spalte. Abhilfe upstream:
+  English nachtragen oder im Validator bei leerer english-Spalte die polski-Spalte nehmen. Auch tr ist betroffen.
+- Zeilen, in denen ein Prozentzeichen vor einem Wort steht ("10% de"), liest der Validator als Variable; solche
+  Uebersetzungen werden mit "Prozent"/"por ciento" o. ae. ausgeschrieben.
+- Auffaelligkeit (nicht geaendert): de "Wild Dog" ist in bestehenden Zeilen "Flammenkrieger"; in neuen Texten
+  "Wilder Hund". de "Reitkarte (PM)" und "Kupferverziert. Bogen" in Fliesstexten als "Reitkarte" bzw.
+  "Kupferverzierter Bogen".
+- Namen: in lateinischen Sprachen bleiben NPC-/Monsternamen unveraendert (Geuk-Hon-Gab, Jae-Seon Kim);
+  el/ru/ar/ko verwenden die bestehende Transliteration (z. B. Гык-Хон-Габ, 극혼갑).
+- Qualitaet: Die Texte der neuen Sprachen sind KI-uebersetzt. Korrekturen von Muttersprachlern aus der
+  Community sind ausdruecklich willkommen.
 - Reich-Begriff angeglichen (nur eigene Zeilen in 6_launcher, 7_panel und
   4_questy_01): ko 제국, nl rijk, da rige, cs říše, wie im Glossar und im Client.
 - tr: alle 532 leeren Zellen gefüllt (14 Dateien), 0 neue Validator-Fehler.
@@ -167,11 +184,9 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   (vor allem tr `5_boty_czat_*`: Variablen, die im Englischen fehlen).
 
 - `6_launcher_03.csv`, Zeile `l:e7d018eb4b06` („Blessing Scrolls from Metin
-  stones: chance changed from 5% to 1% …“) bleibt in de, fr, pt, ro, it, hu,
-  cs, nl, da, el, ru, ar und ko leer. Der Validator liest im Englischen
-  „5% to“ als Variable `% t` + `o` (printf-Leerzeichen-Flag) und findet
-  `ut`; jede Übersetzung ohne genau diese Zeichenfolge wird abgelehnt.
-  tr hat in dieser Zeile denselben Altfehler, es hat den englischen Text.
+  stones: chance changed from 5% to 1% …“): der Validator liest „5% to“ als
+  Variable (`% t` + `o`). Die Notiz der Zeile verlangt „keep: % to“, deshalb
+  steht in allen Sprachen wörtlich „5% to 1%“ (wie schon in es).
   Vorschlag ans Projekt: Englisch auf „5 % to 1 %“ oder „5 percent“ ändern
   oder die Regel im Validator anpassen.
 - ro: 6_launcher_02 „Sprijină proiectul“ (von uns, aus 1_klient_06 übernommen)
@@ -217,3 +232,30 @@ Prüfen: `python tools/validate.py --base origin/main <lang>` (prüft auch `ko`;
   umschreiben (sonst zeigt der Diff jede Zeile als geändert und es gibt Konflikte).
 - Validator-Falle: ein `|` direkt vor `E`, `e`, `H`, `h` oder `r` gilt als
   Farb-/Link-Code; Übersetzungen dürfen nach `|` nicht so beginnen.
+
+### Korrekturen nach Rückmeldung des Projekts (Stand 2026-11-10, Branch `claude/translations-6`)
+- 14 Bot-Zeilen ohne Englisch (5_boty_czat_05/06): der Validator prüft sie jetzt
+  gegen den polnischen Text; in allen Sprachen eingetragen, en_US auf Englisch.
+  `glossary/batch.py` prüft solche Zeilen ebenfalls gegen das Polnische.
+- es: 9.071 übersetzte Zeilen von `new` auf `done` gesetzt (CRLF-Dateien byte-gleich).
+- de: Monsternamen „?????“ und kaputt kodierte Namen (koreanisch in falscher
+  Codepage) korrigiert; m:name:9013 „Vulkangestein“ → „Event-Helfer“.
+- Namen, die im englischen Template selbst „????“ sind (m:name:1096, 8608–8611,
+  20120–20125, 33001), haben jetzt in allen Sprachen echte Namen nach tr
+  (z. B. Wahrer Dämonenkönig, Neunschwanz, Blauer Panzertiger,
+  Schädel des Abenteurers). Das Template sollte upstream ebenfalls Englisch
+  bekommen (True Demon King, Nine Tails, Yellow Tiger Ghost,
+  Blue/Red/Yellow/Green/Black/White Armored Tiger, Adventurer's Skull).
+- fr/pt/en_US: kaputt kodierte Namen (Armored Panda, Baby Azrael, Bao Bao,
+  Chubby Mini Executioner, Cobra Outfit) ersetzt.
+- ro: überzähliges „Ź“ entfernt, alle Diakritika entfernt (ă â î ș ş ț ţ),
+  deutsche/spanische Itemnamen und kaputt kodierte Namen rumänisch übersetzt,
+  m:name:9013 „Roca volcánica“ → „Ajutor la evenimente“.
+- Ortsnamen in fr/el/ru/ko/ar in lateinischer Schrift: das sind nur
+  Bot-Chat-Werte ({mapa} usw.) mit der Notiz „ASCII letters only“; laut README
+  tippen Bots nur a–z. Sie bleiben daher so (kein Fehler).
+- de 2_przedmioty_potwory_12–15: 1.414 Item-Beschreibungen enthielten eine
+  englische Rückübersetzung statt Deutsch (z. B. „Football equipment for men in
+  black and white“, „Corponis powerful. Rank: Noble …“). Alle neu auf Deutsch
+  übersetzt (TP/MP, Begriffe wie in den bestehenden Itemnamen: Drachendiamant,
+  Cor Draconis (edel/kostbar …), Fußballtrikot, Lykaner).

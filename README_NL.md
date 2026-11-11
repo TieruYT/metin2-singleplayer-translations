@@ -16,7 +16,7 @@ vertalingen komen in de volgende versies in het spel.
 |---|---|
 | `template/` | alle teksten van het spel, met de kolom `translation` leeg. Het begin van een nieuwe taal. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | de talen die het spel al heeft, met hun huidige vertaling: verbeter die en vul aan wat ontbreekt (rijen met `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nieuwe talen, al deels vertaald: vul aan wat ontbreekt (rijen met `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | nieuwe talen, volledig vertaald met hulp van AI: moedertaalsprekers, verbeter wat niet goed klinkt. |
 | `en_US/` | Amerikaans Engels: de Engelse brontekst (Britse spelling) in Amerikaanse spelling (color, armor, defense...). |
 | `tools/validate.py` | de controle die elke pull request doorloopt. |
 

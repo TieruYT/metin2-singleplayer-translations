@@ -81,7 +81,7 @@ p:6fe702c50a20,Item name or VNUM...,,Eşya adı veya VNUM...,"panel: module text
 p:524c028b1a73,Item statistics,,Eşya istatistikleri,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:5845a573ef72,Item types,Typy przedmiotów,Eşya türleri,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:fedefec33b15,"Item types, monster ranks and monster types are numbers in the database. The editor knows their standard names from the Metin2 engine (the “Default” column), and here you can give your own - they show everywhere in the editor. An empty field = the default name.","Typy przedmiotów, rangi i typy potworów są w bazie liczbami. Edytor zna ich standardowe nazwy z silnika Metin2 (kolumna „Domyślnie”), a tutaj możesz nadać własne - pojawią się wszędzie w edytorze. Puste pole = nazwa domyślna.","Eşya türleri, canavar rütbeleri ve canavar türleri veritabanında sayılardır. Editör bunların Metin2 motorundaki standart adlarını bilir (“Varsayılan” sütunu), buradan ise kendi adlarını verebilirsin - editörün her yerinde görünürler. Boş alan = varsayılan ad.","panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
-p:3648056b3ad7,ItemShop,ItemShop,ItemShop,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",check
+p:3648056b3ad7,ItemShop,ItemShop,ItemShop,"panel: module text / panel: editsql/render.py | the classic web panel (browser, UTF-8: any letter)",done
 p:c3fedab360ba,ItemShop window,Okno ItemShopu,ItemShop penceresi,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:dd11ed4550e7,Items (everybody),Przedmioty (wszyscy),Eşyalar (herkes),"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:ba06f7fbe879,"Items are vnum,count pairs.","Przedmioty to pary vnum,ilość.","Eşyalar vnum,adet çiftleridir.","panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
@@ -97,7 +97,7 @@ p:4360cc060e67,Jewellery,,Takılar,"panel: module text | the classic web panel (
 p:db351e6591f8,Jinno (blue),Jinno (niebieskie),Jinno (mavi),"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
 p:21f43e50f7ef,Jinno Guild Land,Ziemia Klanu Jinno,Jinno Lonca Arazisi,"panel: module text / panel: editsql/modules.py | the classic web panel (browser, UTF-8: any letter)",done
 p:fa6f93952be6,Jinno guild grounds,,Jinno lonca arazisi,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:d71b744b3564,Joan (Chunjo M1),,Joan (Chunjo M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:d71b744b3564,Joan (Chunjo M1),,Joan (Chunjo M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:c67dd20ee842,Key,Klucz,Anahtar,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:e5651c683f14,Keys,Klucze,Anahtarlar,"panel: module text / panel: editsql/pages.py | the classic web panel (browser, UTF-8: any letter)",done
 p:364d37be779d,King,Król,Kral,"panel: module text / panel: editsql/labels.py | the classic web panel (browser, UTF-8: any letter)",done
@@ -159,7 +159,7 @@ p:0e2b888ce518,Min. guild level,Min. poziom gildii,Min. lonca seviyesi,"panel: m
 p:468c98dfcba4,Min. guild lv.,Min. poz. gildii,Min. lonca Lv.,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
 p:4e2a9eba542f,Min. level,Min. poziom,Min. seviye,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:17640aa923b1,Min. lv.,Min. poz.,Min. Lv.,"panel: module text / panel: editsql/editor.py | the classic web panel (browser, UTF-8: any letter)",done
-p:87853245e190,Min. yang,Yang min.,Min. yang,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",check
+p:87853245e190,Min. yang,Yang min.,Min. yang,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:7224853e9bdf,Model folder,Folder modelu,Model klasörü,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:369516b73135,Monkey Dungeon (hard),,Sangsun Dong (zor),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:82e997e6d9d3,Monkey Dungeon (medium),,Jungsun Dong (orta),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -343,8 +343,8 @@ p:d81c0fe7908d,Purchase conditions,Warunki zakupu,Satın alma koşulları,"panel
 p:6c4e94f10417,Purchases,,Satın alımlar,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:4d21ee04d052,Purchases per day (30 days),,Günlük satın alımlar (30 gün),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8e7a4070421b,Purity ,,Saflık ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:c3b9ebb2ab36,PvE {a} / PvP {b},PvE {a} / PvP {b},PvE {a} / PvP {b},"panel: module text / panel: market_preview/texts.py | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",check
-p:a2e95ddd7d13,PvP: ,,PvP: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:c3b9ebb2ab36,PvE {a} / PvP {b},PvE {a} / PvP {b},PvE {a} / PvP {b},"panel: module text / panel: market_preview/texts.py | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:a2e95ddd7d13,PvP: ,,PvP: ,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1d29cc46371d,Pyongmoo (Jinno M1),,Pyungmoo (Jinno M1),"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1defd1949b9d,Quest,,Görev,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:8f85d48f7cab,Quest completion by a GM,,GM tarafından görev tamamlama,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
@@ -531,7 +531,7 @@ p:a0cf5d796422,Skill damage (SKL),Obrażenia umiejętności (UM),Beceri hasarı 
 p:a74cfb4c3111,Skill group: {}.,Wybrana profesja: {}.,Beceri grubu: {}.,"panel: module text / panel: quest_admin_web.py | keep: {} | the classic web panel (browser, UTF-8: any letter)",done
 p:62f44533ad57,Skill ring,Pierścień umiejętności,Beceri yüzüğü,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:191db65ad2cc,Skipped: ,Pominięte: ,Atlandı: ,"panel: module text / panel: editsql/__init__.py | the classic web panel (browser, UTF-8: any letter)",done
-p:ece2ac10d726,Slot,,Slot,"panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:ece2ac10d726,Slot,,Slot,"panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:d80de33f95c8,Slow query,Wolne zapytanie,Yavaş sorgu,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:3cd5b86d7c95,Socket 1,Gniazdo 1,Slot 1,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done
 p:c2d145c68170,Socket 2,Gniazdo 2,Slot 2,"panel: module text / panel: editsql/fields.py | the classic web panel (browser, UTF-8: any letter)",done

@@ -17,7 +17,7 @@ no jogo nas versões seguintes.
 |---|---|
 | `template/` | todos os textos do jogo, com a coluna `translation` vazia. O ponto de partida de uma nova língua. |
 | `de/` `fr/` `pt/` `ro/` `tr/` | as línguas que o jogo já tem, com a tradução atual: corrige-a e completa o que falta (linhas com `status` `new`). |
-| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | línguas novas, já traduzidas em parte: completa o que falta (linhas com `status` `new`). |
+| `hu/` `es/` `it/` `cs/` `nl/` `da/` `el/` `ru/` `ar/` `ko/` | línguas novas, totalmente traduzidas com ajuda de IA: falantes nativos, corrijam o que soar mal. |
 | `en_US/` | inglês americano: o texto de origem em inglês (ortografia britânica) em ortografia dos EUA (color, armor, defense...). |
 | `tools/validate.py` | a verificação pela qual passa cada pull request. |
 
