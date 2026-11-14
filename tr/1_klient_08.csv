@@ -467,7 +467,7 @@ c:skilldesc:19:6,Increases Defence,Zwiększa Obronę,Savunmayı artırır,"clien
 c:skilldesc:19:7,Decreases Moving Speed.,Zmniejsza Szybkość Ruchu,Hareket hızını düşürür.,"client: skill tooltip, condition 2 (skill 19)",done
 c:skilldesc:19:8,You won't fall over,Nigdy nie upadasz,Yere düşmezsin,"client: skill tooltip, condition 3 (skill 19)",done
 c:skilldesc:19:17,Defence: +%.0f ,Obrona: +%.0f,Savunma: +%.0f ,"client: skill tooltip, effect line 1 (skill 19) | keep: %.0f | max 64 characters",done
-c:skilldesc:19:20,Moving Speed: -%.0f,,Hareket Hızı: -%.0f,"client: skill tooltip, effect line 2 (skill 19) | keep: %.0f | max 64 characters",done
+c:skilldesc:19:20,Moving Speed: -%.0f,,,"client: skill tooltip, effect line 2 (skill 19) | keep: %.0f | max 64 characters",new
 c:skilldesc:20:2,Sword Strike,Uderzenie Miecza,Kılıç darbesi,"client: skill tooltip, skill name (skill 20)",done
 c:skilldesc:20:3,Sword Bolt ,Pchnięcie Miecza,Kılıç yıldırımı ,"client: skill tooltip, skill name (M) (skill 20)",done
 c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Kılıç fırlatma ,"client: skill tooltip, skill name (G/P) (skill 20)",done
@@ -510,8 +510,8 @@ c:skilldesc:34:5,You can hide yourself.,Możesz się ukryć.,Kendini gizleyebili
 c:skilldesc:34:6,Stops attacks when used.,"Zatrzymuje ataki, gdy użyty",Kullanıldığında saldırıları durdurur.,"client: skill tooltip, condition 1 (skill 34)",done
 c:skilldesc:34:7,Level raises Bloodthirst,,Seviye Kan Hırsı'nı artırır,"client: skill tooltip, condition 2 (skill 34)",done
 c:skilldesc:34:17,Ambush Bonus Damage: %.0f%% ,Bonus do obrażeń podczas zasadzki %.0f%%,Suikast bonus hasarı: %.0f%% ,"client: skill tooltip, effect line 1 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:20,Bloodthirst +%.0f,,Kan Hırsı +%.0f,"client: skill tooltip, effect line 2 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:23,Bonus per stack (max. 2x): +%.0f,,Yığın başına bonus (en fazla 2x): +%.0f,"client: skill tooltip, effect line 3 (skill 34) | keep: %.0f | max 64 characters",done
+c:skilldesc:34:20,Bloodthirst +%.0f,,,"client: skill tooltip, effect line 2 (skill 34) | keep: %.0f | max 64 characters",new
+c:skilldesc:34:23,Bonus per stack (max. 2x): +%.0f,,,"client: skill tooltip, effect line 3 (skill 34) | keep: %.0f | max 64 characters",new
 c:skilldesc:35:2,Poisonous Cloud,Trująca Chmura,Zehirli bulut,"client: skill tooltip, skill name (skill 35)",done
 c:skilldesc:35:3,Deadly Cloud,Śmiercionośna Chmura,Öldürücü bulut,"client: skill tooltip, skill name (M) (skill 35)",done
 c:skilldesc:35:4,Killing Cloud,Zabójcza Chmura,Katil bulut,"client: skill tooltip, skill name (G/P) (skill 35)",done

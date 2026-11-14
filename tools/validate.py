@@ -100,7 +100,11 @@ def variables(text, panel=False):
         if panel and "'" in m.group(1):
             continue
         name = re.match(r'%\((\w+)\)', m.group(0))
-        out.append((name.group(1) + ':' if name else '') + KIND[m.group(5)] + (m.group(4) or ''))
+        kind = KIND[m.group(5)]
+        # A float's precision is what the reader sees: '%0f' for '%.0f' draws
+        # six decimals, '%.1f' for '%.0f' one. None is printf's default, six.
+        precision = '.' + (m.group(3) or '0') if kind == 'f' and m.group(3) is not None else ''
+        out.append((name.group(1) + ':' if name else '') + kind + precision + (m.group(4) or ''))
     if panel and any(':' in c for c in out):
         out.sort()
     return out
