@@ -1,4 +1,189 @@
 id,english,polski,translation,notes,status
+l:cf107374c7c0, 14. Import the database of another installation (higher characters), 14. Importuj bazę z innej instalacji (wyższe postacie), 14. De database van een andere installatie importeren (hogere personages),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:94d7bfeeb828, 15. Save a backup of the world (to a zip file), 15. Zapisz kopię świata (backup do pliku zip), 15. Een back-up van de wereld opslaan (in een zip-bestand),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:1bcc6f311bde, 16. Restore the world from a backup, 16. Przywróć świat z kopii, 16. De wereld herstellen uit een back-up,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:67586d7ea27a, 17. Wipe the world and start over (fresh install; a backup is saved automatically), 17. Wyzeruj świat i zacznij od nowa (świeża instalacja; kopia zapisywana automatycznie), 17. De wereld wissen en opnieuw beginnen (verse installatie; er wordt automatisch een back-up opgeslagen),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:b0b3c55a3e30, 18. Repair database access (when migrate/the server does not start or Navicat rejects the password), 18. Napraw dostęp do bazy (gdy migrate/serwer nie startuje albo Navicat odrzuca hasło), 18. Databasetoegang herstellen (als migrate/de server niet start of Navicat het wachtwoord weigert),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:07b7f7cdeed6," 19. Database connection details (Navicat, HeidiSQL)"," 19. Dane do połączenia z bazą (Navicat, HeidiSQL)"," 19. Verbindingsgegevens van de database (Navicat, HeidiSQL)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:db8cd1728f0d, 20. Web panel password (show / reset), 20. Hasło do panelu WWW (pokaż / zresetuj), 20. Webpaneelwachtwoord (tonen / resetten),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:200875e1ee57," 21. Free the ports (when ""port is already in use"" blocks a start or an update)", 21. Zwolnij porty (gdy „port jest już zajęty” blokuje start lub aktualizację), 21. De poorten vrijmaken (als “port is already in use” een start of update blokkeert),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:6cc87eebc24e," 22. Difficulty (the waits at the Biologist and the Stable Keeper: easy / medium / hard / your own hours; world extras: Metin and boss drops, the chance of bonuses on dropped items, the drop level penalty, movement speed of players and bots, potions at the merchant, ItemShop prices, Cor Draconis a day)"," 22. Poziom trudności (czekanie u Biologa i Stajennego: easy / medium / hard / własne godziny; dodatki świata: drop z Metinów i bossów, szansa na bonus w wydropionym przedmiocie, kara za poziom przy dropie, szybkość ruchu graczy i botów, mikstury u Handlarki, ceny ItemShop, Cor Draconis dziennie)"," 22. Moeilijkheid (het wachten bij de Bioloog en de Staljongen: easy / medium / hard / eigen uren; wereldextra's: drops van Metins en bazen, de kans op bonussen op gedropte items, de levelstraf voor drops, bewegingssnelheid van spelers en bots, drankjes bij de handelaar, ItemShop-prijzen, Cor Draconis per dag)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3659407fa292, 23. COOP: check the network and the hosting (experimental), 23. COOP: sprawdź sieć i stan hostowania (eksperymentalne), 23. COOP: het netwerk en het hosten controleren (experimenteel),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:788f9751125b, 24. COOP: secure the admin and test accounts (new passwords), 24. COOP: zabezpiecz konta admin i test (nowe hasła), 24. COOP: de admin- en testaccounts beveiligen (nieuwe wachtwoorden),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ccd76f8af232, 25. COOP: add a friend (an account and an invite code), 25. COOP: dodaj znajomego (konto i kod zaproszenia), 25. COOP: een vriend toevoegen (een account en een uitnodigingscode),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3e2724ae76ad, 26. COOP: show the invite codes, 26. COOP: pokaż kody zaproszeń, 26. COOP: de uitnodigingscodes tonen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:271963cadc17, 27. COOP: host the world for friends, 27. COOP: hostuj świat dla znajomych, 27. COOP: de wereld hosten voor vrienden,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:90702d1e879d, 28. COOP: stop hosting, 28. COOP: zakończ hostowanie, 28. COOP: stoppen met hosten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:00ab4662ac0c, 29. COOP: join a friend's world (paste the code), 29. COOP: dołącz do świata znajomego (wklej kod), 29. COOP: deelnemen aan de wereld van een vriend (plak de code),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dd23e3359edb, 30. VPS: address and connection (SSH key; you type the VPS password once), 30. VPS: adres i połączenie (klucz SSH; hasło do VPS wpisujesz raz), 30. VPS: adres en verbinding (SSH-sleutel; je typt het VPS-wachtwoord één keer),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8e52b50ab5f1," 31. VPS: check the server (CPU, memory, disk, permissions)"," 31. VPS: sprawdź serwer (procesor, pamięć, dysk, uprawnienia)"," 31. VPS: de server controleren (CPU, geheugen, schijf, rechten)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:83af7fafbbdb, 32. VPS: install this world on the VPS, 32. VPS: zainstaluj ten świat na VPS, 32. VPS: deze wereld op de VPS installeren,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:17b43921695e, 33. VPS: update the server on the VPS, 33. VPS: aktualizuj serwer na VPS, 33. VPS: de server op de VPS bijwerken,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ca9ab3cde3b0, 34. VPS: installation status, 34. VPS: stan instalacji, 34. VPS: status van de installatie,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:478119dc759d, 35. VPS: open the web panel (SSH tunnel), 35. VPS: otwórz panel WWW (tunel SSH), 35. VPS: het webpaneel openen (SSH-tunnel),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18c24401bb75, 36. VPS: close the tunnel to the panels, 36. VPS: zamknij tunel do paneli, 36. VPS: de tunnel naar de panelen sluiten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5ea050d189d0," 37. VPS: game account passwords (admin, test, friends)"," 37. VPS: hasła kont gry (admin, test, znajomi)"," 37. VPS: wachtwoorden van de spelaccounts (admin, test, vrienden)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:9e8755d51ec0, 38. VPS: add the VPS server to the game client, 38. VPS: dopisz serwer VPS do klienta gry, 38. VPS: de VPS-server aan de spelclient toevoegen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:7826760310b1, 39. VPS: server logs, 39. VPS: logi serwera, 39. VPS: serverlogs,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:764d85a5f8e7, 40. VPS: an account and an invite code for a friend (COOP), 40. VPS: konto i kod zaproszenia dla znajomego (COOP), 40. VPS: een account en een uitnodigingscode voor een vriend (COOP),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:da49dd819460, 42. VPS: apply settings and restart the VPS server, 42. VPS: zastosuj ustawienia i zrestartuj serwer na VPS, 42. VPS: instellingen toepassen en de VPS-server herstarten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f39f47878203," 41. Report a bug (to the author, with the logs)"," 41. Zgłoś błąd (do autora, z logami)"," 41. Een bug melden (aan de auteur, met de logs)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:476e2fd2d126, 43. Synchronize item data to the client (after changes in the database editor), 43. Synchronizuj dane przedmiotów z klientem (po zmianach w edytorze bazy danych), 43. Itemgegevens naar de client synchroniseren (na wijzigingen in de database-editor),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:976ab6495e01," 44. Disk space: what the installation and Docker take, how to shrink Docker's data disk"," 44. Miejsce na dysku: co zajmuje instalacja i Docker, jak zmniejszyć dysk danych Dockera"," 44. Schijfruimte: wat de installatie en Docker innemen, hoe je de gegevensschijf van Docker verkleint","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:06a035ae3d88," 45. Clean up now (old automatic backups, files left by updates, logs - older than M2_CLEANUP_KEEP_DAYS)"," 45. Posprzątaj teraz (stare kopie automatyczne, pliki po aktualizacjach, logi - starsze niż M2_CLEANUP_KEEP_DAYS)"," 45. Nu opruimen (oude automatische back-ups, bestanden die updates achterlieten, logs - ouder dan M2_CLEANUP_KEEP_DAYS)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:55b9eea39ac5, 46. Clean up Docker (old images and the build cache of every project; after you confirm), 46. Posprzątaj Dockera (stare obrazy i pamięć podręczna budowania wszystkich projektów; po potwierdzeniu), 46. Docker opruimen (oude images en de buildcache van elk project; nadat je bevestigt),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ee658a0b7e23," 47. Bot reset: every bot starts from scratch, your characters and items stay (a backup is saved automatically)"," 47. Reset botów: każdy bot zaczyna od zera, Twoje postacie i przedmioty zostają (kopia zapisywana automatycznie)"," 47. Botreset: elke bot begint opnieuw, je personages en items blijven (er wordt automatisch een back-up opgeslagen)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:721cbe642e5a,  0. Exit,  0. Wyjście,  0. Afsluiten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:45b9ce6e2d69,Choose an option,Wybierz opcję,Kies een optie,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8a062d9105ee,ERROR: {#0},BŁĄD: {#0},FOUT: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d77aec5b3e30,Press Enter to go back to the menu,"Naciśnij Enter, aby wrócić do menu",Druk op Enter om terug te gaan naar het menu,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5de305f24c08,"The launcher did not start:
+
+{0}
+
+The details are in the launcher-logs folder.","Launcher nie wystartowal:
+
+{0}
+
+Szczegoly sa w folderze launcher-logs.","De launcher is niet gestart:
+
+{0}
+
+De details staan in de map launcher-logs.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d1c9a8d08bd8,Launcher error,Blad launchera,Launcherfout,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ccd558993098,Opening the launcher window - this console closes in a moment.,Otwieram okno launchera - ta konsola zaraz sie zamknie.,Het launchervenster wordt geopend - deze console sluit zo meteen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:cae0001f4614,{0}  LAUNCHER ERROR: {1},{0}  BLAD LAUNCHERA: {1},{0}  LAUNCHERFOUT: {1},"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e45f0e5b6c22,"A launcher file is missing: {#0}
+","Brakuje pliku launchera: {#0}
+","Er ontbreekt een launcherbestand: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:0b038d85ae72,"Antivirus on this system: {#0}
+","Antywirus w systemie: {#0}
+","Antivirus op dit systeem: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5f6996438bfd,"The launcher never deletes it itself - as a rule an antivirus takes it (a false alarm on a script that downloads and starts a server).
+
+","Launcher sam go nie usuwa - najczesciej zabiera go antywirus (falszywy alarm na skrypt, ktory pobiera i uruchamia serwer).
+
+","De launcher verwijdert het nooit zelf - meestal neemt een antivirus het weg (een vals alarm bij een script dat een server downloadt en start).
+
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:65c68427cb98,1. Look in the antivirus quarantine. In Windows: Windows Security > Virus & threat protection > Protection history. ,1. Zajrzyj do kwarantanny antywirusa. W Windows: Zabezpieczenia Windows > Ochrona przed wirusami i zagrozeniami > Historia ochrony. ,1. Kijk in de quarantaine van de antivirus. In Windows: Windows-beveiliging > Virus- en bedreigingsbeveiliging > Beveiligingsgeschiedenis. ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:85de13028a44,"Restore the file and add the folder {#0} to the exclusions.
+","Przywroc plik i dodaj folder {#0} do wykluczen.
+","Herstel het bestand en voeg de map {#0} toe aan de uitzonderingen.
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:44206aa828b6,"2. If it cannot be restored: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) ","2. Jesli nie da sie go przywrocic: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip ","2. Als het niet te herstellen is: download het pakket metin2-server-update-<version>.zip van GitHub (TieruYT/metin2-playerbots, Releases) ","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c3f0bc5eae49,"and take {#0} out of it into {#1}. Add the exclusion first, or the antivirus takes it again.","i wyjmij z niej {#0} do {#1}. Najpierw dodaj wykluczenie, inaczej antywirus zabierze go znowu.","en haal {#0} eruit naar {#1}. Voeg eerst de uitzondering toe, anders neemt de antivirus het weer weg.","launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:043c787fb8bf,"The launcher's files are from two different versions: this window is newer than launcher\Metin2Launcher.psm1. Most often an update is still writing its files.
+
+Wait a minute or two for the update to finish, then start the launcher again.
+
+If this message keeps coming back: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) and take the launcher folder out of it into {#0}.","Pliki launchera sa z dwoch roznych wersji: to okno jest nowsze niz launcher\Metin2Launcher.psm1. Najczesciej aktualizacja jeszcze zapisuje pliki.
+
+Poczekaj minute lub dwie, az aktualizacja sie skonczy, i uruchom launcher ponownie.
+
+Jesli ten komunikat wraca: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip i wyjmij z niej folder launcher do {#0}.","De bestanden van de launcher komen uit twee verschillende versies: dit venster is nieuwer dan launcher\Metin2Launcher.psm1. Meestal schrijft een update nog zijn bestanden.
+
+Wacht een minuut of twee tot de update klaar is en start de launcher dan opnieuw.
+
+Als deze melding steeds terugkomt: download het pakket metin2-server-update-<version>.zip van GitHub (TieruYT/metin2-playerbots, Releases) en haal de map launcher eruit naar {#0}.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:0174ccaa78b5,in the window: ,w oknie: ,in het venster: ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:9909885813a5,"An error in the launcher window:
+
+{0}
+
+The details are in the launcher-logs folder. The window keeps working.","Blad w oknie launchera:
+
+{0}
+
+Szczegoly sa w folderze launcher-logs. Okno dziala dalej.","Een fout in het launchervenster:
+
+{0}
+
+De details staan in de map launcher-logs. Het venster blijft werken.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:310b36f8d5a0,"Launcher restart: the previous window (PID {0}, {1}) did not close in 60 s - showing it, and the new launcher version did not open. Close the launcher and start it again.","Restart launchera: poprzednie okno (PID {0}, {1}) nie zamknelo sie w 60 s - pokazuje je, a nowa wersja launchera sie nie otworzyla. Zamknij launcher i uruchom go ponownie.","Herstart van de launcher: het vorige venster (PID {0}, {1}) sloot niet binnen 60 s - het wordt getoond, en de nieuwe launcherversie is niet geopend. Sluit de launcher en start hem opnieuw.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:69bb8da1c53b,still running,nadal dziala,draait nog,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:4335d114de08,no longer running - another window holds the folder,juz nie dziala - folder trzyma inne okno,draait niet meer - een ander venster houdt de map vast,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:02e389dc7c0d,This folder's launcher is already open as administrator - its window cannot be brought forward from here.,Launcher tego folderu jest juz otwarty jako administrator - tego okna nie da sie stad przywolac.,De launcher van deze map is al geopend als administrator - zijn venster kan van hieruit niet naar voren worden gehaald.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:05f9f84da75e,This folder's launcher is already open - showing its window instead of a second one.,Launcher tego folderu jest juz otwarty - pokazuje jego okno zamiast drugiego.,De launcher van deze map is al geopend - zijn venster wordt getoond in plaats van een tweede.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:61bedf47daf8,"This folder's launcher is already open as administrator, so it cannot be brought forward from here.
+
+Switch to its window (the taskbar or the icon next to the clock), or close it and start the launcher again.","Launcher tego folderu jest już otwarty jako administrator, więc nie da się go stąd przywołać.
+
+Przełącz się na jego okno (pasek zadań albo ikona przy zegarze) albo zamknij je i uruchom launcher ponownie.","De launcher van deze map is al geopend als administrator en kan daarom niet van hieruit naar voren worden gehaald.
+
+Ga naar zijn venster (de taakbalk of het pictogram naast de klok), of sluit hem en start de launcher opnieuw.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:77ac4d2309d6,The launcher is already open,Launcher jest już otwarty,De launcher is al geopend,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ba6b3023c37f,Windows did not open {0}: {1}. Clipboard: {2}.,Windows nie otworzyl {0}: {1}. Schowek: {2}.,Windows heeft {0} niet geopend: {1}. Klembord: {2}.,"launcher window or message | keep: {0} {1} {2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3b3488380c9f,copied,skopiowany,gekopieerd,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:1d5ee313d50a,unavailable,niedostepny,niet beschikbaar,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:002c03b7c383,"Windows has no default browser set, so it did not open the address.
+
+The address was copied - paste it (Ctrl+V) into your browser:
+{0}
+
+You can set the default browser in Windows Settings: Apps > Default apps.","Windows nie ma ustawionej domyslnej przegladarki, wiec nie otworzyl adresu.
+
+Adres jest skopiowany do schowka - wklej go (Ctrl+V) w przegladarce:
+{0}
+
+Domyslna przegladarke ustawisz w Ustawieniach Windows: Aplikacje > Aplikacje domyslne.","Windows heeft geen standaardbrowser ingesteld en heeft het adres daarom niet geopend.
+
+Het adres is gekopieerd - plak het (Ctrl+V) in je browser:
+{0}
+
+Je kunt de standaardbrowser instellen in de Instellingen van Windows: Apps > Standaard-apps.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e0f8547048eb,"Windows has no default browser set, so it did not open the address.
+
+Type it into your browser:
+{0}
+
+You can set the default browser in Windows Settings: Apps > Default apps.","Windows nie ma ustawionej domyslnej przegladarki, wiec nie otworzyl adresu.
+
+Wpisz go w przegladarce:
+{0}
+
+Domyslna przegladarke ustawisz w Ustawieniach Windows: Aplikacje > Aplikacje domyslne.","Windows heeft geen standaardbrowser ingesteld en heeft het adres daarom niet geopend.
+
+Typ het in je browser:
+{0}
+
+Je kunt de standaardbrowser instellen in de Instellingen van Windows: Apps > Standaard-apps.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:db77ad172e39,"Windows did not open:
+{0}
+
+The path was copied - paste it (Ctrl+V) into File Explorer's address bar.","Windows nie otworzyl:
+{0}
+
+Sciezka jest skopiowana do schowka - wklej ja (Ctrl+V) w pasku adresu Eksploratora plikow.","Windows heeft dit niet geopend:
+{0}
+
+Het pad is gekopieerd - plak het (Ctrl+V) in de adresbalk van Verkenner.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:103f66ae8686,"Windows did not open:
+{0}
+
+Open this path in File Explorer.","Windows nie otworzyl:
+{0}
+
+Otworz te sciezke w Eksploratorze plikow.","Windows heeft dit niet geopend:
+{0}
+
+Open dit pad in Verkenner.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5dee9499707b,Game language (client),Język gry (klient),Speltaal (client),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f8905ee6c185,Client chosen: {#0},Wybrano klienta: {#0},Gekozen client: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:23017acc76cf,"No game client is chosen yet. Point to it with the CHOOSE CLIENT button, then choose the game language again.",Nie wybrano jeszcze klienta gry. Wskaż go przyciskiem WYBIERZ KLIENTA i wybierz język gry jeszcze raz.,Er is nog geen spelclient gekozen. Wijs hem aan met de knop CLIENT KIEZEN en kies daarna opnieuw de speltaal.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c8bcc554bba7,Game language,Język gry,Speltaal,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e4138396cf39,The game language was not changed: {#0},Nie zmieniono języka gry: {#0},De speltaal is niet gewijzigd: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5484b9fbb55b,The game is running. Close it and choose the language again - the game saves its settings when it closes and would overwrite this choice.,Gra jest uruchomiona. Zamknij ją i wybierz język jeszcze raz - gra zapisuje swoje ustawienia przy zamykaniu i nadpisałaby ten wybór.,Het spel draait. Sluit het en kies de taal opnieuw - het spel slaat bij het sluiten zijn instellingen op en zou deze keuze overschrijven.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d12470300154,Unknown game language: {#0},Nieznany język gry: {#0},Onbekende speltaal: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f19afe9fe602,The client folder is missing: {#0},Brak folderu klienta: {#0},De clientmap ontbreekt: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e3d6607618eb,Game language: {#0} ({#1}),Język gry: {#0} ({#1}),Speltaal: {#0} ({#1}),"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:084056cab53e,Game language: {0}. The game starts in it from its next start; the launcher keeps its own language.,Język gry: {0}. Gra uruchomi się w nim od następnego startu; launcher zostaje w swoim języku.,Speltaal: {0}. Het spel start er vanaf de volgende keer in; de launcher houdt zijn eigen taal.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3a6f31249c39,Wait for the current operation to finish.,Poczekaj na zakończenie bieżącej operacji.,Wacht tot de huidige bewerking klaar is.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18358a3a28b7,The launcher is busy,Launcher pracuje,De launcher is bezig,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f0df5a113999,Tidying up the client files failed: {#0},Porządki w plikach klienta nieudane: {#0},Het opruimen van de clientbestanden is mislukt: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dce1b83314b0,Client repair required,Wymagana naprawa klienta,Clientreparatie nodig,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:81c423a001dd,ERROR starting the client: {#0},BŁĄD uruchamiania klienta: {#0},FOUT bij het starten van de client: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c714f3a3de81,Docker: NOT INSTALLED,Docker: NIEZAINSTALOWANY,Docker: NIET GEÏNSTALLEERD,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f45e473c1f63,Docker: READY,Docker: GOTOWY,Docker: GEREED,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -131,6 +316,8 @@ l:3c81f2c5abc8,"Into the inventory - at once, as until now","Do ekwipunku - od r
 l:d8ec0e9711b0,"On the ground - as in the original game (pick it up, or wear the Third Hand)",Na ziemię - jak w oryginalnej grze (podnosisz sam albo z Trzecią Ręką),Op de grond - zoals in het originele spel (raap het op of draag de Derde hand),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c00db663e6fa,"The yang on the ground has no owner, as in the original game - anyone can pick it up, a bot included. The Z key, Auto Hunt or a worn Third Hand picks it up. Bots and the Companion always get their yang straight into the inventory - their economy is built on it. The web panel changes it live without a restart.","Yang na ziemi nie ma właściciela, jak w oryginalnej grze - podnieść go może każdy, także bot. Podnosi go klawisz Z, Auto Łowy albo Trzecia Ręka w ekwipunku. Boty i Towarzysz zawsze dostają yang prosto do ekwipunku - ich ekonomia jest na tym oparta. Panel WWW zmienia to na żywo bez restartu.","De yang op de grond heeft geen eigenaar, zoals in het originele spel - iedereen kan het oprapen, ook een bot. De toets Z, Automatisch jagen of een gedragen Derde hand raapt het op. Bots en de Metgezel krijgen hun yang altijd meteen in de inventaris - hun economie is daarop gebouwd. Het webpaneel verandert het live zonder herstart.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:68c5ced17c01,"Old skill rule: one roll for Master at the 17th point, then stuck at 17 (as since 2.2.14)","Stara zasada umiejętności: jeden rzut na Mistrza przy 17 punkcie, potem blokada na 17 (jak od 2.2.14)","Oude vaardigheidsregel: één worp voor Meester bij het 17e punt, daarna vast op 17 (zoals sinds 2.2.14)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c20865f75575,Player shop size like the bots: two pages (160 cells) instead of one (80),Rozmiar sklepu gracza jak boty: dwie strony (160 miejsc) zamiast jednej (80),Winkelgrootte van spelers zoals bij de bots: twee pagina's (160 vakjes) in plaats van één (80),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:2700cf5e694e,"Off by default - a player's standard offline shop has one page (80 cells), a bot's two (160). On: a player gets the second page like a bot - a new shop is made on the first, and the second is filled from the shop's manage window once the shop stands. It applies from a shop's next opening; a shop that already stands keeps its size. It needs an up-to-date client. The web panel changes it live without a restart.","Domyślnie wyłączone - standardowy sklep offline gracza ma jedną stronę (80 miejsc), a sklep bota dwie (160). Włączone: gracz dostaje drugą stronę jak bot - nowy sklep powstaje na pierwszej, drugą dokłada się w oknie zarządzania sklepem, gdy sklep już stoi. Działa od następnego otwarcia sklepu, sklep, który już stoi, zostaje, jaki był. Potrzebny aktualny klient. Panel WWW zmienia to na żywo bez restartu.","Standaard uit - de standaard offline winkel van een speler heeft één pagina (80 vakjes), die van een bot twee (160). Aan: een speler krijgt de tweede pagina net als een bot - een nieuwe winkel wordt op de eerste gemaakt, en de tweede wordt gevuld vanuit het beheervenster van de winkel zodra de winkel staat. Het geldt vanaf de volgende opening van een winkel; een winkel die al staat, houdt zijn grootte. Er is een actuele client voor nodig. Het webpaneel verandert het live zonder herstart.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:2cf056cc6ff2,"Off by default - the official rule: every point from 17 to 19 is another roll for Master (1/4, 1/3, 1/2), and the 20th point is a sure M1. On: one roll at the 17th point (25%, 45% below level 35, +25% for a reset at the Old Woman), and a failed one leaves the skill at 17 - then a Book of Oblivion, the Skill Reset Scroll or the Old Woman. Bots and the Companion play the same rule. The web panel changes it live without a restart.","Domyślnie wyłączone - oficjalna zasada: każdy punkt od 17 do 19 to kolejny rzut na Mistrza (1/4, 1/3, 1/2), a 20 punkt daje M1 na pewno. Włączone: jeden rzut przy 17 punkcie (25%, 45% poniżej 35 poziomu, +25% za reset u Starszej Pani), a po porażce umiejętność stoi na 17 - dalej Księga Zapomnienia, Zwój Powrotu Umiejętności albo Starsza Pani. Boty i Towarzysz grają tą samą zasadą. Panel WWW zmienia to na żywo bez restartu.","Standaard uit - de officiële regel: elk punt van 17 tot 19 is een nieuwe worp voor Meester (1/4, 1/3, 1/2), en het 20e punt is een zekere M1. Aan: één worp bij het 17e punt (25%; onder level 35: 45%; reset bij de Oude vrouw: +25%), en een mislukte worp laat de vaardigheid op 17 - dan een Boek der Vergetelheid, de Vaardigheidsresetrol of de Oude vrouw. Bots en de Metgezel spelen met dezelfde regel. Het webpaneel verandert het live zonder herstart.","launcher window or message | keep: % f | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dae214796306,World extras (for casual play),Dodatki świata (dla luźnej gry),Wereldextra's (voor ontspannen spelen),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:50d9fcb5e49c,Alchemy: Cor Draconis a day (10 = as in the game),Alchemia: Cor Draconis dziennie (10 = jak w grze),Alchemie: Cor Draconis per dag (10 = zoals in het spel),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -150,7 +337,7 @@ l:695100a4ad15,"How often weapons and armour (jewellery and boots too) dropped b
 l:1af422fb1d54,"Movement speed of players and bots, % (100 = as in the game)","Szybkość ruchu graczy i botów, % (100 = jak w grze)","Bewegingssnelheid van spelers en bots, % (100 = zoals in het spel)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:113bdc207863,"How fast the players' characters and the bots move, the Companion with them: a percent of the game's own speed, from 50 to 200. It goes on top of everything the game gives (gear, skills, potions, a sprint, a horse), on foot and in the saddle; the game shows at most 255, 2.55 times a character with nothing on (100), so a fast character gets there sooner. The bots move at the same pace as the players, and the Companion keeps up with its player; monsters move as in the game. The web panel changes it live without a restart.","Jak szybko poruszają się postacie graczy i boty, a z nimi Towarzysz: procent szybkości z gry, od 50 do 200. Dochodzi do wszystkiego, co daje gra (ekwipunek, umiejętności, mikstury, sprint, koń), pieszo i w siodle; gra pokazuje najwyżej 255, czyli 2,55 raza tyle co postać bez niczego (100), więc szybka postać dojdzie do tego wcześniej. Boty chodzą w tym samym tempie co gracze, a Towarzysz nadąża za swoim graczem; potwory poruszają się jak w grze. Panel WWW zmienia to na żywo bez restartu.","Hoe snel de personages van de spelers en de bots bewegen, met de Metgezel: een percentage van de eigen snelheid van het spel, van 50 tot 200. Het komt bovenop alles wat het spel geeft (uitrusting, vaardigheden, drankjes, sprint, paard), te voet en in het zadel; het spel toont hoogstens 255, 2,55 keer een personage zonder iets (100), dus een snel personage is er eerder. De bots bewegen in hetzelfde tempo als de spelers, en de Metgezel houdt zijn speler bij; monsters bewegen zoals in het spel. Het webpaneel verandert het live zonder herstart.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4ae9d0b0340e,"Drop level penalty (0-100%, 0 = as in the game, 100 = no penalty)","Kara za poziom przy dropie (0-100%, 0 = jak w grze, 100 = bez kary)","Levelstraf op drops (0-100%, 0 = zoals in het spel, 100 = geen straf)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:33df47168ff8,"The game takes part of the drop chance from a character above its monster: two levels over 98% is left, five over 92%, ten over half (a boss and a Metin stone 30%), fifteen and more over 1%. This number is the least share of the chance a kill keeps whatever the level difference: 0 = the game's own penalty, 100 = no penalty, between = a floor. It never lowers a chance, so a character under its monster drops as before. Players and bots alike; yang and experience stay as they are. The web panel changes it live without a restart.","Gra zabiera część szansy na drop postaci wyższej od potwora: 2 poziomy wyżej zostaje 98%, 5 wyżej 92%, 10 wyżej połowa (boss i Metin 30%), 15 i więcej wyżej 1%. Ta liczba to najmniejsza część szansy, jaką zabicie zachowuje bez względu na różnicę poziomów: 0 = kara jak w grze, 100 = bez kary, pomiędzy = podłoga. Nigdy nie obniża szansy, więc postać niższa od potwora dropi jak dotąd. Gracze i boty tak samo; yang i doświadczenie bez zmian. Panel WWW zmienia to na żywo bez restartu.","Het spel neemt een personage boven zijn monster een deel van de dropkans af: twee levels erboven blijft 98% over, vijf 92%, tien de helft (baas en Metinsteen: 30%), vijftien en meer 1%. Dit getal is het kleinste deel van de kans dat een kill houdt, wat het levelverschil ook is: 0 = de eigen straf van het spel, 100 = geen straf, daartussen = een ondergrens. Het verlaagt nooit een kans, dus een personage onder zijn monster dropt zoals voorheen. Voor spelers en bots gelijk; yang en ervaring blijven zoals ze zijn. Het webpaneel verandert het live zonder herstart.","launcher window or message | keep: % i | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:7b5ae806bf9d,"The game takes part of the drop chance from a character above its monster: two levels over 98% is left, five over 92%, ten over half (a boss and a Metin stone 30%), fifteen and more over 1%. This number is the least share of the chance a kill keeps whatever the level difference: 0 = the game's own penalty, 100 = no penalty, between = a floor; 60 by default (a Metin stone or a boss ten or more levels under keeps 60% of the chance instead of 30%). It never lowers a chance, so a character under its monster drops as before. Players and bots alike; yang and experience stay as they are. The web panel changes it live without a restart.","Gra zabiera część szansy na drop postaci wyższej od potwora: 2 poziomy wyżej zostaje 98%, 5 wyżej 92%, 10 wyżej połowa (boss i Metin 30%), 15 i więcej wyżej 1%. Ta liczba to najmniejsza część szansy, jaką zabicie zachowuje bez względu na różnicę poziomów: 0 = kara jak w grze, 100 = bez kary, pomiędzy = podłoga; domyślnie 60 (Metin albo boss 10 i więcej poziomów niżej daje 60% szansy zamiast 30%). Nigdy nie obniża szansy, więc postać niższa od potwora dropi jak dotąd. Gracze i boty tak samo; yang i doświadczenie bez zmian. Panel WWW zmienia to na żywo bez restartu.","Het spel neemt een personage boven zijn monster een deel van de dropkans af: twee levels erboven blijft 98% over, vijf 92%, tien de helft (baas en Metinsteen: 30%), vijftien en meer 1%. Dit getal is het kleinste deel van de kans dat een kill houdt, wat het levelverschil ook is: 0 = de eigen straf van het spel, 100 = geen straf, daartussen = een ondergrens; standaard 60 (een Metinsteen of baas die tien of meer levels lager is, houdt 60% van de kans in plaats van 30%). Het verlaagt nooit een kans, dus een personage onder zijn monster dropt zoals voorheen. Voor spelers en bots gelijk; yang en ervaring blijven zoals ze zijn. Het webpaneel verandert het live zonder herstart.","launcher window or message | keep: % i % o | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dc20ed723f4d,The Beran dungeon (Beran-Setaou) open to players,Loch Berana (Beran-Setaou) otwarty dla graczy,De Beran-dungeon (Beran-Setaou) open voor spelers,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:b332501b450f,"Open by default: a player of level 75 or more with 5 Twisted Keys enters the Dragon Temple at the NPC in the Grotto of Exile, alone, for 60 minutes, up to 6 times a day. Bots and Companions never enter it. The web panel changes it live without a restart; closing it ends the runs in progress.","Domyślnie otwarty: gracz od 75 poziomu z 5 Krętymi Kluczami wchodzi do Świątyni Smoka u NPC w Grocie Wygnańców, sam, na 60 minut, do 6 razy dziennie. Boty i Towarzysze nigdy tam nie wchodzą. Panel WWW zmienia to na żywo bez restartu; zamknięcie kończy trwające wyprawy.","Standaard open: een speler van level 75 of hoger met 5 Gedraaide sleutels gaat de Drakentempel binnen bij de NPC in de Grot der Verbanning, alleen, voor 60 minuten, tot 6 keer per dag. Bots en Metgezellen gaan er nooit in. Het webpaneel verandert het live zonder herstart; sluiten beëindigt lopende runs.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7e3c32466688,New world - starting settings,Nowy świat - ustawienia na start,Nieuwe wereld - startinstellingen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -173,7 +360,7 @@ l:c97f619cea13,Skip the horse quests - a player's new character gets the Armed H
 l:bc981983e7f5,Next,Dalej,Volgende,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:441fbf9294e2,Restarting the launcher through {0} failed: {1},Restart launchera przez {0} nieudany: {1},Herstarten van de launcher via {0} is mislukt: {1},"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ed16149b910c,Restarting the launcher after the update.,Uruchamiam launcher ponownie po aktualizacji.,De launcher wordt na de update herstart.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:57c9777567d8,code 0x{0:X8},kod 0x{0:X8},code 0x{0:X8},"launcher window or message | keep: {0:X8} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:57c9777567d8,code 0x{0:X8},kod 0x{0:X8},code 0x{0:X8},"launcher window or message | keep: {0:X8} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:e5452c82db17,"The new launcher ({0}) ended at once, {1}.","Nowy launcher ({0}) zakonczyl sie od razu, {1}.","De nieuwe launcher ({0}) stopte meteen, {1}.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f3e06c5e102c,"Could not restart the launcher ({0}).
 
@@ -208,7 +395,7 @@ l:1e5a4a0e9be9,"- the server on the VPS {0}: updated if its version is older (pr
 l:d8e3325c3221,"- the server on the VPS: the SERVER ON A VPS window has no address for it - update it the way you set it up,","- serwer na VPS: okno SERWER NA VPS nie ma jego adresu - zaktualizuj go tak, jak go postawiłeś,","- de server op de VPS: het venster SERVER OP EEN VPS heeft er geen adres voor - werk hem bij zoals je hem hebt ingericht,","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:128b4d49a1e2,- the client: {0} (you have {1}) - close the game before the update.,- klient: {0} (masz {1}) - zamknij grę przed aktualizacją.,- de client: {0} (je hebt {1}) - sluit het spel voor de update.,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4e6302ed0349,Continue?,Kontynuować?,Doorgaan?,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c76d18079a07,Updates,Aktualizacje,Updates,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c76d18079a07,Updates,Aktualizacje,Updates,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:336b74a83569,Update put off until later.,Aktualizacja odłożona na później.,Update uitgesteld tot later.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f4b9a49697ea,The client has an old metin2client.exe - replacing it with the current one.,Klient ma stary metin2client.exe - podmieniam go na aktualny.,De client heeft een oude metin2client.exe - die wordt vervangen door de huidige.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:693536fc0ef6,Client update {#0} put off - only the server was chosen.,Aktualizacja klienta {#0} odlozona - wybrano tylko serwer.,Clientupdate {#0} uitgesteld - alleen de server is gekozen.,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -216,7 +403,7 @@ l:df03115d7804,Server update {#0} put off.,Aktualizacja serwera {#0} odlozona.,S
 l:00b0d6083f8f,Client update {#0} put off.,Aktualizacja klienta {#0} odlozona.,Clientupdate {#0} uitgesteld.,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f5182f1d9176,Update now?,Zaktualizować teraz?,Nu bijwerken?,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4577e30163ef,VPS client compatibility,Zgodność klienta z VPS,Clientcompatibiliteit met de VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:411b0ea3a173,Bots: {#0} (S {#1} / C {#2} / J {#3}),Boty: {#0} (S {#1} / C {#2} / J {#3}),Bots: {#0} (S {#1} / C {#2} / J {#3}),"launcher window or message | keep: {#0} {#1} {#2} {#3} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:411b0ea3a173,Bots: {#0} (S {#1} / C {#2} / J {#3}),Boty: {#0} (S {#1} / C {#2} / J {#3}),Bots: {#0} (S {#1} / C {#2} / J {#3}),"launcher window or message | keep: {#0} {#1} {#2} {#3} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:8f9b61512fe1,"Without ""like real people"" and realism: the server does not answer (with them fewer bots are in the game).","Bez ""jak żywi ludzie"" i realizmu: serwer nie odpowiada (z nimi w grze jest mniej botów).","Zonder ""als echte mensen"" en realisme: de server reageert niet (daarmee zijn er minder bots in het spel).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f099769fe988,One channel (CH1). Ports 13000-13002.,Jeden kanał (CH1). Porty 13000-13002.,Eén kanaal (CH1). Poorten 13000-13002.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:a22a17b9f6bd,"Two channels: the bots spread over CH1 and CH2, shops stand on CH1 only.
@@ -447,15 +634,15 @@ po równo między królestwa (każde ma 1500 postaci botów, najwyżej 2500).
 wordt gelijk over de rijken verdeeld (elk 1500 botpersonages,
 hoogstens 2500). Nieuwe bots van CH3/CH4 (hieronder) komen erbij. Vereist een herstart.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9b5e2f8a71fb,Bot count,Liczba botów,Aantal bots,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3a6f2fcf3e9e,Bots: {#0},Boty: {#0},Bots: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3a6f2fcf3e9e,Bots: {#0},Boty: {#0},Bots: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:536a626bca47,"How the bots enter the game after the server start. Each field has a ? button
 - hover over it with the mouse or click it to see what the field does.","Jak boty wchodzą do gry po starcie serwera. Przy każdym polu jest przycisk ?
 - najedź na niego myszką albo kliknij, żeby zobaczyć, co to pole robi.","Hoe de bots na de serverstart het spel binnenkomen. Elk veld heeft een ?-knop
 - ga er met de muis over of klik erop om te zien wat het veld doet.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:88796f159919,"The slider's bots enter within (min, 1-180):","Boty z suwaka wchodzą w ciągu (min, 1-180):","De bots van de schuifregelaar komen binnen in (min, 1-180):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:b69994509a12,Bots entering after the start,Wejście botów po starcie,Bots die na de start binnenkomen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:2de2a301a563,Extra bots later (0-2500):,Dodatkowe boty później (0-2500):,Extra bots later (0-2500):,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:457cdcc4db96,Extra bots later,Dodatkowe boty później,Extra bots later,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:2de2a301a563,Extra bots later (0-2500):,Dodatkowe boty później (0-2500):,Extra bots later (0-2500):,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
+l:457cdcc4db96,Extra bots later,Dodatkowe boty później,Extra bots later,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:93e500ac06eb,"Extra bots arrive over (h, 1-168):","Dodatkowe boty dochodzą przez (h, 1-168):","Extra bots komen aan over (u, 1-168):","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:d2f4629f6c7e,Time over which the extra bots arrive,Czas dochodzenia dodatkowych botów,Tijd waarover de extra bots aankomen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e840e47ebe16,Individual numbers for the kingdoms,Indywidualne wartości dla królestw,Eigen getallen voor de rijken,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -526,6 +713,8 @@ l:9f50e74aa734,Session realism,Realizm sesji,Sessierealisme,"launcher window or 
 l:4fac3e8826d3,These two act within 5 s without a restart (the same as the web panel's AI page).,"Te dwa działają w ciągu 5 s bez restartu (to samo co w panelu WWW, strona AI).",Deze twee werken binnen 5 s zonder herstart (net als de AI-pagina van het webpaneel).,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:122aa8bba91c,On a VPS these two are set in the web panel (AI page); the estimate below leaves them out.,Na VPS te dwa ustawia panel WWW (strona AI); szacunek niżej ich nie uwzględnia.,Op een VPS worden deze twee in het webpaneel ingesteld (AI-pagina); de schatting hieronder laat ze weg.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:af5b0b671ceb,"The server is off: these two can be changed while it runs (or in the web panel, AI page).","Serwer wyłączony: te dwa można zmienić, gdy działa (albo w panelu WWW, strona AI).","De server staat uit: deze twee kun je wijzigen terwijl hij draait (of in het webpaneel, AI-pagina).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c7b3e8fdd916,The bots' Kantor (surplus materials exchanged for bonus stones),Kantor botów (wymiana nadwyżki ulepszaczy na kamienie bonusów),De Kantor van de bots (overtollige materialen geruild voor bonusstenen),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:6ec4cc1664da,The bots' Kantor,Kantor botów,De Kantor van de bots,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:448ab73ba1c2,Set,Ustaw,Instellen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4d3b723ad672,"Before an update the launcher saves a backup of the world, but the drive {0} has only {1} of free room, and the backup needs about {2} (and {3} for the server build).
 
@@ -624,8 +813,8 @@ Klient: {4}   |   najnowszy: {5}","Server: {0}   |   nieuwste: {1}
 Launcher: {2}   |   nieuwste: {3}
 Client: {4}   |   nieuwste: {5}","launcher window or message | keep: {0} {1} {2} {3} {4} {5} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:592d55fb893d,SERVER AND CLIENT,SERWERA I KLIENTA,SERVER EN CLIENT,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8d4ba065ae31,SERVER,SERWERA,SERVER,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:289fd6dd86c7,CLIENT,KLIENTA,CLIENT,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8d4ba065ae31,SERVER,SERWERA,SERVER,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
+l:289fd6dd86c7,CLIENT,KLIENTA,CLIENT,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:365f49ea9742,"!! NEW {0} VERSION - click {1}
 {2}","!! NOWA WERSJA {0} - kliknij {1}
 {2}","!! NIEUWE {0}-VERSIE - klik op {1}
@@ -653,7 +842,7 @@ l:d602bf450dd4,I host my world,Hostuję swój świat,Ik host mijn wereld,"launch
 l:c44cda51ede8,I join a friend,Dołączam do znajomego,Ik doe mee met een vriend,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:24c88e5d99f3,Friends (each has their own account in your world):,Znajomi (każdy ma własne konto w Twoim świecie):,Vrienden (elk heeft een eigen account in jouw wereld):,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:2394299d6feb,Friend,Znajomy,Vriend,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bae7d5be7082,Status,Stan,Status,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:bae7d5be7082,Status,Stan,Status,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:eeb4784e26b8,Connection:,Połączenie:,Verbinding:,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5226c12199da,"Automatic (Internet, and a VPN when the router cannot)","Automatycznie (internet, a gdy router nie da rady - VPN)","Automatisch (internet, en een VPN als de router het niet kan)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:0a8e655dcd90,"Internet (router ports, UPnP)","Internet (porty w routerze, UPnP)","Internet (routerpoorten, UPnP)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -725,7 +914,7 @@ l:fff80b09aaab,COOP: the invite code copied for the login {0}.,COOP: skopiowano 
 l:6ea55ec08a79,The code is already in the clipboard. Send it to your friend in a private message - it holds their password. Your friend pastes it in their launcher (the COOP button) or into Dolacz.bat in the client folder.,Kod jest już w schowku. Wyślij go znajomemu w prywatnej wiadomości - zawiera jego hasło. Znajomy wkleja go w swoim launcherze (przycisk COOP) albo w pliku Dolacz.bat w folderze klienta.,De code staat al op het klembord. Stuur hem in een privébericht naar je vriend - hij bevat zijn wachtwoord. Je vriend plakt hem in zijn launcher (knop COOP) of in Dolacz.bat in de clientmap.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f1c976a6ddd3,The code is already in the clipboard and leads to your address in {0}: your friend must first join your {0} network. Send them the code in a private message - it holds their password.,Kod jest już w schowku i prowadzi na Twój adres w {0}: znajomy musi najpierw dołączyć do Twojej sieci {0}. Wyślij mu kod w prywatnej wiadomości - zawiera jego hasło.,De code staat al op het klembord en leidt naar je adres in {0}: je vriend moet eerst lid worden van je {0}-netwerk. Stuur hem de code in een privébericht - hij bevat zijn wachtwoord.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:94ca8f835784,Invite code - ,Kod zaproszenia - ,Uitnodigingscode - ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8bdc0cfee2c4,COOP: account {0} {1}.,COOP: konto {0} {1}.,COOP: account {0} {1}.,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8bdc0cfee2c4,COOP: account {0} {1}.,COOP: konto {0} {1}.,COOP: account {0} {1}.,"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:cbd5b5cc81d8,unblocked,odblokowane,gedeblokkeerd,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:2722bbcd56a2,The admin and test accounts no longer have the package's passwords.,Konta admin i test nie mają już haseł z paczki.,De accounts admin en test hebben niet meer de wachtwoorden van het pakket.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9d7cc7d0541e,COOP: the passwords of the accounts {0} changed.,COOP: zmieniono hasła kont {0}.,COOP: de wachtwoorden van de accounts {0} zijn gewijzigd.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1034,7 +1223,7 @@ I will also open the invite to the Discord server.","Zapisze paczke ZIP z logami
 Otworze tez zaproszenie na serwer.","Ik sla een ZIP-pakket met de logs op en open de map - voeg het toe op Discord.
 
 Ik open ook de uitnodiging voor de Discord-server.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:126dd3b70a5c,Logs,Logi,Logs,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:126dd3b70a5c,Logs,Logi,Logs,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:b01c5ca7dab5,Launcher log created.,Utworzono dziennik launchera.,Launcherlog aangemaakt.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c66f285b41fb,VPS: saved limit {0} bots. The in-game counter is for one channel.,VPS: zapisany limit {0} botów. Licznik w grze dotyczy jednego kanału.,VPS: limiet van {0} bots opgeslagen. De teller in het spel geldt voor één kanaal.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:ad0120a55656,"Save bots and channels on the VPS? After saving, I will ask about applying them and restarting now (recreating game from .env). You can defer the restart. A panel core restart, docker restart and a reboot do not apply the new .env.","Zapisać boty i kanały na VPS? Po zapisie zapytam o zastosowanie i restart teraz (odtworzenie game z .env). Możesz odłożyć restart. Restart rdzeni z panelu, docker restart i reboot nie stosują nowego .env.","Bots en kanalen op de VPS opslaan? Na het opslaan vraag ik of ik ze moet toepassen en nu herstarten (game opnieuw aanmaken uit .env). Je kunt de herstart uitstellen. Een herstart van de paneelkern, docker restart en een reboot passen de nieuwe .env niet toe.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1078,6 +1267,7 @@ l:320929f5b15d,", Lucky Ticket from Metin stones and bosses: players {#0}%, bots
 l:126a2d824f92,", drop level penalty: at least {#0}% of the chance (0% = as in the game, 100% = no penalty)",", kara za poziom przy dropie: najmniej {#0}% szansy (0% = jak w grze, 100% = bez kary)",", levelstraf op drops: minstens {#0}% van de kans (0% = zoals in het spel, 100% = geen straf)","launcher window or message | keep: % o; {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:62e68bbb8134,", skills from their 17th point: {#0}",", umiejętności od 17 punktu: {#0}",", vaardigheden vanaf hun 17e punt: {#0}","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:95685e42ee85,", the Beran dungeon: {#0}",", loch Berana: {#0}",", de Beran-dungeon: {#0}","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d1290b05469a,", a player's shop: {#0}",", sklep gracza: {#0}",", de winkel van een speler: {#0}","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4a8071ae9e6a,Set the difficulty: {#0}; {#1}; {#2} - and restart the server now to apply it? The database and the bots' progress stay as they are.,"Ustawić poziom trudności: {#0}; {#1}; {#2} - i zrestartować serwer teraz, aby zastosować? Baza i postęp botów pozostaną bez zmian.",Moeilijkheid instellen: {#0}; {#1}; {#2} - en de server nu herstarten om het toe te passen? De database en de voortgang van de bots blijven zoals ze zijn.,"launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7945d3c8f7a0,Difficulty,Poziom trudności,Moeilijkheid,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e6deed0e6c30,Database import,Import bazy,Database-import,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1136,6 +1326,27 @@ De back-up verdwijnt voorgoed van de schijf - dit kan niet ongedaan worden gemaa
 l:3825d1e1ad76,Confirm deleting the backup,Potwierdź usunięcie kopii,Verwijderen van de back-up bevestigen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5e609be275f2,World backup deleted: {0},Usunięto kopię świata: {0},Back-up van de wereld verwijderd: {0},"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:22d73ccfab44,Could not delete the backup: {0},Nie udało się usunąć kopii: {0},Back-up kon niet worden verwijderd: {0},"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ac57ab7951ca,Bot reset,Reset botów,Botreset,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:4d944d972b99,"Every bot starts from scratch: level 1, the starter kit, no items, yang, storage, shops, quests, horse or guild. The names are dealt anew from the pool.
+
+Kept as it is: your accounts and characters, their items, storage and ItemShop, your guilds and friends, your Companion and the world's settings (rates, events, weights, the exchange, .env). Items bought from bots stay with you. A guild a bot leads with you in it passes to you. The yang of your offers on bots' stalls goes back to your shop storage.
+
+The launcher stops the server, saves the world to a zip backup in the 'backups' folder and only then resets the bots. Should anything of yours change, the reset is undone from the backup. The server then starts by itself.
+
+To confirm, type {0}:","Każdy bot zaczyna od zera: poziom 1, zestaw startowy, bez przedmiotów, yang, magazynu, sklepów, zadań, konia i gildii. Imiona są rozdawane na nowo z puli.
+
+Zostaje bez zmian: Twoje konta i postacie, ich przedmioty, magazyn i ItemShop, Twoje gildie i znajomi, Twój Towarzysz oraz ustawienia świata (stawki, wydarzenia, wagi, Kantor, .env). Przedmioty kupione od botów zostają u Ciebie. Gildia prowadzona przez bota, w której jesteś, przechodzi na Ciebie. Yang z Twoich ofert na straganach botów wraca do magazynu sklepu.
+
+Launcher zatrzyma serwer, zapisze świat do kopii zip w folderze 'backups' i dopiero potem zresetuje boty. Jeśli cokolwiek Twojego by się zmieniło, reset jest cofany z kopii. Potem serwer uruchomi się sam.
+
+Aby potwierdzić, wpisz {0}:","Elke bot begint opnieuw: level 1, de startuitrusting, geen items, yang, opslag, winkels, quests, paard of gilde. De namen worden opnieuw uitgedeeld uit de pool.
+
+Blijft zoals het is: je accounts en personages, hun items, opslag en ItemShop, je gilden en vrienden, je Metgezel en de instellingen van de wereld (serverwaarden, events, gewichten, de ruil, .env). Items die je van bots hebt gekocht, blijven van jou. Een gilde dat een bot leidt en waarin jij zit, gaat naar jou over. De yang van je aanbiedingen op de kraampjes van bots gaat terug naar je winkelopslag.
+
+De launcher stopt de server, slaat de wereld op in een zip-back-up in de map 'backups' en reset pas daarna de bots. Mocht er iets van jou veranderen, dan wordt de reset met de back-up ongedaan gemaakt. Daarna start de server vanzelf.
+
+Typ ter bevestiging {0}:","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:a64a0068a4cd,Reset the bots,Zresetuj boty,De bots resetten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:968d38eb4b40,"Wipe the world and start over?
 
 The WHOLE current world goes: characters, levels, equipment, bots and game accounts. The launcher first saves it to a zip backup in the 'backups' folder, so you can go back to it with BACKUP / NEW WORLD -> Restore from a backup.
@@ -1235,10 +1446,10 @@ De launcher staat in:
 
 Dit wordt maar één keer gevraagd. Je kunt de snelkoppeling later maken in Hulpmiddelen (Snelkoppeling op bureaublad).","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:b5229efce8fe,No desktop shortcut was made - the choice is remembered.,Skrotu na pulpicie nie utworzono - wybor zapamietany.,Geen snelkoppeling op het bureaublad gemaakt - de keuze wordt onthouden.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bfa7bfb694d4,Metin2 Singleplayer - launcher,Metin2 Singleplayer - launcher,Metin2 Singleplayer - launcher,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:bfa7bfb694d4,Metin2 Singleplayer - launcher,Metin2 Singleplayer - launcher,Metin2 Singleplayer - launcher,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:1bb1f784e87e,Show launcher,Pokaż launcher,Launcher tonen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:361fac8ac9af,Exit launcher,Zamknij launcher,Launcher afsluiten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f13ba6b4d9c9,Metin2 Singleplayer,Metin2 Singleplayer,Metin2 Singleplayer,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f13ba6b4d9c9,Metin2 Singleplayer,Metin2 Singleplayer,Metin2 Singleplayer,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",check
 l:86ea62b22e82,The launcher keeps running in the tray. Double-click the icon to bring it back; close it from its menu.,"Launcher działa w zasobniku. Kliknij ikonę dwukrotnie, aby go przywrócić; zamkniesz go z jej menu.",De launcher blijft draaien in het systeemvak. Dubbelklik op het pictogram om hem terug te halen; sluit hem via zijn menu.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:1c08315a794e,Launcher hidden to the tray.,Launcher schowany do zasobnika.,Launcher verborgen in het systeemvak.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7b1b864025c5,The launcher is still running an operation. Close the window anyway?,Launcher nadal wykonuje operację. Czy na pewno zamknąć okno?,De launcher voert nog een bewerking uit. Het venster toch sluiten?,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1254,6 +1465,7 @@ Oba sterują tym samym światem: nie uruchamiaj aktualizacji, kopii ani przywrac
 Beide sturen dezelfde wereld aan: start geen update, back-up of herstel vanuit beide tegelijk. Sluit er het beste één.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:80a992c0725c,Metin2 Easy Launcher is also running for this folder.,Dla tego folderu działa też Metin2 Easy Launcher.,Metin2 Easy Launcher draait ook voor deze map.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:cfea419c3b4e,Apply,Zastosuj,Toepassen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:debdddbaed76,"Bot reset - bots from scratch, your characters stay","Reset botow - boty od zera, Twoje postacie zostaja","Botreset - bots opnieuw, je personages blijven","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:464817515558,World backup,Kopia swiata,Back-up van de wereld,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:6f03b7cb75f0,"A backup writes the whole world - characters, levels, equipment, bots and game accounts - into one zip file in the backups folder. The server is stopped and saved for each of these operations.","Kopia zapisuje caly swiat - postacie, poziomy, ekwipunek, boty i konta gry - do jednego pliku zip w folderze backups. Serwer zostanie na czas kazdej z tych operacji zatrzymany i zapisany.","Een back-up schrijft de hele wereld - personages, levels, uitrusting, bots en spelaccounts - in één ZIP-bestand in de back-upmap. Voor elk van deze bewerkingen wordt de server gestopt en opgeslagen.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f117dd409113,Restore from a backup (backup list),Przywroc swiat z kopii (lista kopii),Herstellen uit een back-up (back-uplijst),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1341,164 +1553,3 @@ l:cfb046b2437d,"On the 2.x files items and monsters (item_proto, mob_proto) live
 l:a23db79f9980,Database connection details,Dane do polaczenia z baza,Verbindingsgegevens van de database,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7563ce76d342,DIAGNOSTICS,DIAGNOSTYKA,DIAGNOSE,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9106e9df8162,DIFFICULTY,POZIOM TRUDNOSCI,MOEILIJKHEID,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:497e9b5a8c6d,World difficulty,Poziom trudnosci swiata,Moeilijkheid van de wereld,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:7b45a7e8481b,START DOCKER,URUCHOM DOCKER,DOCKER STARTEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5e5614545804,"""Stop and save"" never deletes characters or bot progress. It never uses docker compose down -v.","""Zatrzymaj i zapisz"" nie usuwa postaci ani postepu botow. Nigdy nie uzywa docker compose down -v.","""Stoppen en opslaan"" verwijdert nooit personages of de voortgang van de bots. Het gebruikt nooit docker compose down -v.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:658a7fb8f80b,Metin2 Singleplayer Playerbots - All in One,Metin2 Singleplayer Playerbots - All in One,Metin2 Singleplayer Playerbots - Alles in één,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3871b618f2ca,GM PANEL F9 (BETA),PANEL GM F9 (TEST),GM-PANEEL F9 (BÈTA),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ad4c3ea28b34,IMPORT DATABASE,IMPORTUJ BAZE,DATABASE IMPORTEREN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ae9ba4965804,Import a database from another installation,Importuj baze z innej instalacji,Database importeren uit een andere installatie,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d434e0dfc458,"Pick the source installation. Its world - characters, levels, equipment - is copied into this one.","Wybierz zrodlowa instalacje. Jej swiat (postacie, poziomy, ekwipunek) zostanie skopiowany do biezacej instalacji.","Kies de broninstallatie. Haar wereld - personages, levels, uitrusting - wordt naar deze gekopieerd.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d6fbc9d2bdd5,Import,Importuj,Importeren,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a806f4cf71d4,1. INSTALL / PREPARE,1. ZAINSTALUJ / PRZYGOTUJ,1. INSTALLEREN / VOORBEREIDEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:1b21b12fe850,Language changed. Restart the launcher to see it.,"Jezyk zmieniony. Uruchom launcher ponownie, zeby zobaczyc zmiane.",Taal gewijzigd. Herstart de launcher om het te zien.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c27dc0a80374,LANGUAGE / JEZYK: ENGLISH,JEZYK / LANGUAGE: POLSKI,TAAL / LANGUAGE: NEDERLANDS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:70464e53a608,Start the game client too,Uruchom takze klienta gry,Ook de spelclient starten,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:70f8cd510354,LOG FOLDER,FOLDER LOGOW,LOGMAP,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b6fafcdfa572,OPEN LOG,OTWORZ LOG,LOG OPENEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4aec5fb2c301,OPEN WEB PANEL,OTWORZ PANEL WWW,WEBPANEEL OPENEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ab1621b11e4e,"Original panel
-map and controls","Oryginalny panel
-mapa i sterowanie","Origineel paneel
-kaart en bediening","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3041bce7f346,"Synchronize item data to the client
-the editor's changes (bonuses, attack, prices, levels) in the game client","Synchronizuj dane przedmiotow z klientem
-zmiany z edytora (bonusy, atak, ceny, poziomy) w kliencie gry","Itemgegevens naar de client synchroniseren
-de wijzigingen van de editor (bonussen, aanval, prijzen, levels) in de spelclient","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5bc82e0aa3fa,Which panel should open?,Ktory panel otworzyc?,Welk paneel moet openen?,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5f5b022a3567,"Database editor (original panel)
-items, monsters, drops, shops - needs the panel password","Edytor bazy danych (oryginalny panel)
-przedmioty, potwory, drop, sklepy - wymaga hasla do panelu","Database-editor (origineel paneel)
-items, monsters, drops, winkels - vraagt het paneelwachtwoord","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4d46345a75a1,Both panels show the same world and run at the same time.,Oba panele pokazuja ten sam swiat i dzialaja jednoczesnie.,Beide panelen tonen dezelfde wereld en draaien tegelijk.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ffc32c3a103d,PANEL PASSWORD,HASLO DO PANELU,PANEELWACHTWOORD,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:21282f01db11,I cannot log in (panel password),Nie moge sie zalogowac (haslo do panelu),Ik kan niet inloggen (paneelwachtwoord),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:062ab462f3f6,"Advanced panel by seban latino
-profiles, rankings, economy, load","Zaawansowany panel seban latino
-profile, rankingi, gospodarka, obciazenie","Geavanceerd paneel van seban latino
-profielen, ranglijsten, economie, belasting","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4328034c5baa,2. PLAY (SERVER + CLIENT),2. GRAJ (SERWER + KLIENT),2. SPELEN (SERVER + CLIENT),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b33214a6ff64,2. PLAY (SERVER ONLY),2. GRAJ (SAM SERWER),2. SPELEN (ALLEEN SERVER),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:245c54221b75,2. PLAY (CLIENT - SERVER ON A VPS),2. GRAJ (KLIENT - SERWER NA VPS),2. SPELEN (CLIENT - SERVER OP EEN VPS),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a0d73bcd7556,Ready.,Gotowy.,Klaar.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c676ddc9b9dd,REPAIR DATABASE ACCESS,NAPRAW DOSTEP DO BAZY,DATABASETOEGANG HERSTELLEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6bc781319122,"A newer client version was found: {0}
-(installed: {1})
-
-Replaces the pack files in the client folder; the previous ones go to backups\client. Close the game before the update.
-
-""Not now"" postpones the question until the next version; the UPDATE CLIENT button always works.","Znaleziono nowsza wersje klienta: {0}
-(zainstalowana: {1})
-
-Podmienia pliki pack w folderze klienta; poprzednie trafiaja do backups\client. Zamknij gre przed aktualizacja.
-
-""Nie teraz"" odklada pytanie do nastepnej wersji; przycisk AKTUALIZUJ KLIENTA dziala zawsze.","Er is een nieuwere clientversie gevonden: {0}
-(geïnstalleerd: {1})
-
-Vervangt de pack-bestanden in de clientmap; de vorige gaan naar backups\client. Sluit het spel voor de update.
-
-""Niet nu"" stelt de vraag uit tot de volgende versie; de knop CLIENT BIJWERKEN werkt altijd.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:9397f21903d1,"A newer server version was found: {0}
-(installed: {1})
-
-Characters, items and bots stay as they are. The server is rebuilt - progress in the log below - and the launcher, if it changed, restarts by itself afterwards.
-
-""Not now"" postpones the question until the next version; the UPDATE button always works.","Znaleziono nowsza wersje serwera: {0}
-(zainstalowana: {1})
-
-Postacie, przedmioty i boty zostana bez zmian. Serwer zostanie przebudowany - postep w logu na dole - a launcher, jesli sie zmienil, uruchomi sie potem ponownie sam.
-
-""Nie teraz"" odklada pytanie do nastepnej wersji; przycisk AKTUALIZUJ dziala zawsze.","Er is een nieuwere serverversie gevonden: {0}
-(geïnstalleerd: {1})
-
-Personages, items en bots blijven zoals ze zijn. De server wordt opnieuw gebouwd - voortgang in het log hieronder - en de launcher herstart daarna vanzelf als hij veranderd is.
-
-""Niet nu"" stelt de vraag uit tot de volgende versie; de knop BIJWERKEN werkt altijd.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6fb19a062e5b,Update everything,Aktualizuj wszystko,Alles bijwerken,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:61d8b70940ec,"Newer versions were found:
-   server and launcher: {0}  (installed: {1})
-   client: {2}  (installed: {3})
-
-Characters, items and bots stay as they are. The server is rebuilt - progress in the log below - the client gets the new pack files (the previous ones go to backups\client), and the launcher, if it changed, restarts by itself afterwards. Close the game before the update.
-
-""Server only"" - when you do not play on this computer's client or update it another way. ""Not now"" postpones the question until the next version; the UPDATE and UPDATE CLIENT buttons always work.","Znaleziono nowsze wersje:
-   serwer i launcher: {0}  (zainstalowana: {1})
-   klient: {2}  (zainstalowana: {3})
-
-Postacie, przedmioty i boty zostana bez zmian. Serwer zostanie przebudowany - postep w logu na dole - klient dostanie nowe pliki pack (poprzednie trafiaja do backups\client), a launcher, jesli sie zmienil, uruchomi sie potem ponownie sam. Zamknij gre przed aktualizacja.
-
-""Tylko serwer"" - gdy nie grasz na kliencie z tego komputera albo aktualizujesz go inaczej. ""Nie teraz"" odklada pytanie do nastepnej wersji; przyciski AKTUALIZUJ i AKTUALIZUJ KLIENTA dzialaja zawsze.","Er zijn nieuwere versies gevonden:
-   server en launcher: {0}  (geïnstalleerd: {1})
-   client: {2}  (geïnstalleerd: {3})
-
-Personages, items en bots blijven zoals ze zijn. De server wordt opnieuw gebouwd - voortgang in het log hieronder -, de client krijgt de nieuwe pack-bestanden (de vorige gaan naar backups\client), en de launcher herstart daarna vanzelf als hij veranderd is. Sluit het spel voor de update.
-
-""Alleen server"" - als je niet speelt met de client van deze computer of hem op een andere manier bijwerkt. ""Niet nu"" stelt de vraag uit tot de volgende versie; de knoppen BIJWERKEN en CLIENT BIJWERKEN werken altijd.","launcher window or message | keep: {0} {1} {2} {3} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c4cbac003f4a,Update now,Aktualizuj teraz,Nu bijwerken,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:14bc7452eade,Server only,Tylko serwer,Alleen server,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f7f4cdceccea,STOP AND SAVE,ZATRZYMAJ I ZAPISZ,STOPPEN EN OPSLAAN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:292b0adadfbd,"Stop the server? Characters, the database and the bots' progress are kept.
-
-Yes - the server and Docker Desktop (Docker then frees its RAM).
-No - the server only; Docker stays on for other programs.
-Cancel - stop nothing.","Zatrzymać serwer? Postacie, baza i postęp botów zostaną zachowane.
-
-Tak - serwer i Docker Desktop (Docker zwalnia wtedy pamięć RAM).
-Nie - sam serwer; Docker zostaje włączony dla innych programów.
-Anuluj - nic nie zatrzymuj.","De server stoppen? Personages, de database en de voortgang van de bots blijven behouden.
-
-Ja - de server en Docker Desktop (Docker geeft dan zijn RAM vrij).
-Nee - alleen de server; Docker blijft aan voor andere programma's.
-Annuleren - niets stoppen.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e50c942d875d,Safe stop,Bezpieczne zatrzymanie,Veilig stoppen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:1fe39fc58529,"One launcher: Docker, the server, the client, updates and diagnostics in one place.","Prosty launcher: Docker, serwer, klient, aktualizacje i diagnostyka w jednym miejscu.","Eén launcher: Docker, de server, de client, updates en diagnose op één plek.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:7015b2b2fa05,METIN2 SINGLEPLAYER - PLAYERBOTS,METIN2 SINGLEPLAYER - PLAYERBOTS,METIN2 SINGLEPLAYER - PLAYERBOTS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d34c4307627e,CHECK FOR UPDATES,SPRAWDZ AKTUALIZACJE,ZOEKEN NAAR UPDATES,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:fbad8072d468,UPDATE CLIENT,AKTUALIZUJ KLIENTA,CLIENT BIJWERKEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c16b323ff11a,SERVER ON A VPS,SERWER NA VPS,SERVER OP EEN VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b73a50128441,BACKUP / NEW WORLD,KOPIA / NOWY SWIAT,BACK-UP / NIEUWE WERELD,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:478814b93b8b,Click to see what is happening,"Kliknij, aby zobaczyć, co się dzieje",Klik om te zien wat er gebeurt,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6bd7520e1bbe,The action ended with an error - click to see the details,"Akcja zakończyła się błędem - kliknij, aby zobaczyć szczegóły",De actie eindigde met een fout - klik voor de details,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8e42adc75ebc,Metin2 Singleplayer — Classic 2008,Metin2 Singleplayer — Klasyk 2008,Metin2 Singleplayer — Klassiek 2008,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:0efc2e6be4c2,Overview,Pulpit,Overzicht,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:efe9cfd142ba,Welcome to Metin2 Singleplayer,Witamy w Metin2 Singleplayer,Welkom bij Metin2 Singleplayer,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3493bdc3b815,World & bots,Świat i boty,Wereld & bots,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bbcfa8c13573,Play together,Wspólna rozgrywka,Samen spelen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4fa8cc860c52,Tools,Narzędzia,Hulpmiddelen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:841260f8a3d6,Logs & diagnostics,Logi i diagnostyka,Logs & diagnose,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c7f73bb54d92,Settings,Ustawienia,Instellingen,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:55462edfc4a6,PLAY GAME,ROZPOCZNIJ GRĘ,SPEL STARTEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:9018baa02deb,START SERVER,URUCHOM SERWER,SERVER STARTEN,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:395d9d7dc991,Web panel,Panel WWW,Webpaneel,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","Aantal bots, rijken en bevolkingstempo.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:31331b60c306,Character progression and difficulty.,Rozwój postaci i poziom trudności.,Ontwikkeling van personages en moeilijkheid.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4f10fd43a6c6,Rate editor in the web panel.,Edytor mnożników w panelu WWW.,Rates-editor in het webpaneel.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d79c02b6b1ff,VPS server settings.,Ustawienia serwera VPS.,VPS-serverinstellingen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6378757ee03f,Invite friends to play together.,Zaproś znajomych do wspólnej rozgrywki.,Nodig vrienden uit om samen te spelen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c6f19ca9206b,COOP is available to everyone.,COOP jest dostępny dla wszystkich.,COOP is voor iedereen beschikbaar.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:02f60bd3597c,Start the game client only.,Uruchom samą grę.,Alleen de spelclient starten.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a95e06683700,Choose the game client.,Wybierz klienta gry.,De spelclient kiezen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f283b9b420aa,Update client files.,Aktualizacja plików klienta.,Clientbestanden bijwerken.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bf251632a8cd,Prepare server files.,Przygotuj pliki serwera.,Serverbestanden voorbereiden.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c0d2c4e9ee2b,Stop the server and save progress.,Zatrzymaj serwer i zapisz postęp.,De server stoppen en de voortgang opslaan.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b5b7c3c484f1,Show the web panel password.,Wyświetl hasło panelu WWW.,Het webpaneelwachtwoord tonen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bbb500cb9bcd,Change the launcher language.,Zmień język launchera.,De taal van de launcher wijzigen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:cb39c3369859,"The game's language, apart from the launcher's.","Język gry, osobno od launchera.","De taal van het spel, los van die van de launcher.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6fb38c937eed,Create a launcher shortcut on the desktop.,Utwórz skrót do launchera na pulpicie.,Een launchersnelkoppeling op het bureaublad maken.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:df790f752b01,Database connection details.,Dane połączenia do bazy.,Verbindingsgegevens van de database.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3b95b64d5836,Repair database access.,Napraw dostęp do bazy.,Databasetoegang herstellen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e289704a75dc,Import a database.,Przenieś bazę danych.,Een database importeren.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f2f489d1452e,World backups.,Kopie zapasowe świata.,Back-ups van de wereld.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:888230426af4,Diagnostics and logs.,Diagnostyka i dzienniki.,Diagnose en logs.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c31915351aca,Project website.,Strona projektu.,Website van het project.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c2f490d5bfc9,Support the project,Wesprzyj projekt,Steun het project,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:90735f0f59ea,Metin2 Singleplayer by Tieru.,Metin2 Singleplayer by Tieru.,Metin2 Singleplayer door Tieru.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:2b7a87ab15a9,Check the environment.,Sprawdź środowisko.,De omgeving controleren.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:eed8046c09d8,Prepare a log bundle.,Przygotuj paczkę logów.,Een logpakket voorbereiden.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:2e2d3d2c618b,Open the current log.,Otwórz bieżący dziennik.,Het huidige log openen.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:75acc1dc2dda,Saved log folder.,Folder zapisanych logów.,Opgeslagen logmap.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e109ed776e45,Report a bug with logs.,Zgłoś błąd z logami.,Een bug melden met logs.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8dc5e831478e,FULL LOG,PEŁNY DZIENNIK,VOLLEDIG LOG,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f1687bbcdec6,Open details in a large window.,Otwórz szczegóły w dużym oknie.,Details openen in een groot venster.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c6e06e4b69d1,Metin2 Singleplayer — details,Metin2 Singleplayer — szczegóły,Metin2 Singleplayer — details,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ae4beec44aca,Launcher log,Dziennik launchera,Launcherlog,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
