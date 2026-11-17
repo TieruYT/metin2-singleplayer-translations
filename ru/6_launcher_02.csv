@@ -1,4 +1,173 @@
 id,english,polski,translation,notes,status
+l:cf107374c7c0, 14. Import the database of another installation (higher characters), 14. Importuj bazę z innej instalacji (wyższe postacie), 14. Импортировать базу данных другой установки (персонажи повыше),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:94d7bfeeb828, 15. Save a backup of the world (to a zip file), 15. Zapisz kopię świata (backup do pliku zip), 15. Сохранить резервную копию мира (в zip-файл),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:1bcc6f311bde, 16. Restore the world from a backup, 16. Przywróć świat z kopii, 16. Восстановить мир из резервной копии,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:67586d7ea27a, 17. Wipe the world and start over (fresh install; a backup is saved automatically), 17. Wyzeruj świat i zacznij od nowa (świeża instalacja; kopia zapisywana automatycznie), 17. Стереть мир и начать заново (чистая установка; резервная копия сохраняется автоматически),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:b0b3c55a3e30, 18. Repair database access (when migrate/the server does not start or Navicat rejects the password), 18. Napraw dostęp do bazy (gdy migrate/serwer nie startuje albo Navicat odrzuca hasło), 18. Восстановить доступ к базе (когда migrate/сервер не запускается или Navicat отвергает пароль),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:07b7f7cdeed6," 19. Database connection details (Navicat, HeidiSQL)"," 19. Dane do połączenia z bazą (Navicat, HeidiSQL)"," 19. Данные для подключения к базе (Navicat, HeidiSQL)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:db8cd1728f0d, 20. Web panel password (show / reset), 20. Hasło do panelu WWW (pokaż / zresetuj), 20. Пароль веб-панели (показать / сбросить),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:200875e1ee57," 21. Free the ports (when ""port is already in use"" blocks a start or an update)", 21. Zwolnij porty (gdy „port jest już zajęty” blokuje start lub aktualizację), 21. Освободить порты (когда «port is already in use» блокирует запуск или обновление),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:6cc87eebc24e," 22. Difficulty (the waits at the Biologist and the Stable Keeper: easy / medium / hard / your own hours; world extras: Metin and boss drops, the chance of bonuses on dropped items, the drop level penalty, movement speed of players and bots, potions at the merchant, ItemShop prices, Cor Draconis a day)"," 22. Poziom trudności (czekanie u Biologa i Stajennego: easy / medium / hard / własne godziny; dodatki świata: drop z Metinów i bossów, szansa na bonus w wydropionym przedmiocie, kara za poziom przy dropie, szybkość ruchu graczy i botów, mikstury u Handlarki, ceny ItemShop, Cor Draconis dziennie)"," 22. Сложность (ожидание у Биолога и Конюха: easy / medium / hard / свои часы; дополнения мира: дроп с Метинов и боссов, шанс бонусов на выпавших предметах, штраф дропа за уровень, скорость передвижения игроков и ботов, зелья у торговца, цены ItemShop, Кор Драконис в день)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3659407fa292, 23. COOP: check the network and the hosting (experimental), 23. COOP: sprawdź sieć i stan hostowania (eksperymentalne), 23. COOP: проверить сеть и хостинг (экспериментально),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:788f9751125b, 24. COOP: secure the admin and test accounts (new passwords), 24. COOP: zabezpiecz konta admin i test (nowe hasła), 24. COOP: защитить аккаунты admin и test (новые пароли),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ccd76f8af232, 25. COOP: add a friend (an account and an invite code), 25. COOP: dodaj znajomego (konto i kod zaproszenia), 25. COOP: добавить друга (аккаунт и код приглашения),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3e2724ae76ad, 26. COOP: show the invite codes, 26. COOP: pokaż kody zaproszeń, 26. COOP: показать коды приглашения,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:271963cadc17, 27. COOP: host the world for friends, 27. COOP: hostuj świat dla znajomych, 27. COOP: разместить мир для друзей,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:90702d1e879d, 28. COOP: stop hosting, 28. COOP: zakończ hostowanie, 28. COOP: остановить размещение,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:00ab4662ac0c, 29. COOP: join a friend's world (paste the code), 29. COOP: dołącz do świata znajomego (wklej kod), 29. COOP: войти в мир друга (вставь код),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dd23e3359edb, 30. VPS: address and connection (SSH key; you type the VPS password once), 30. VPS: adres i połączenie (klucz SSH; hasło do VPS wpisujesz raz), 30. VPS: адрес и подключение (ключ SSH; пароль VPS вводишь один раз),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8e52b50ab5f1," 31. VPS: check the server (CPU, memory, disk, permissions)"," 31. VPS: sprawdź serwer (procesor, pamięć, dysk, uprawnienia)"," 31. VPS: проверить сервер (CPU, память, диск, права)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:83af7fafbbdb, 32. VPS: install this world on the VPS, 32. VPS: zainstaluj ten świat na VPS, 32. VPS: установить этот мир на VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:17b43921695e, 33. VPS: update the server on the VPS, 33. VPS: aktualizuj serwer na VPS, 33. VPS: обновить сервер на VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ca9ab3cde3b0, 34. VPS: installation status, 34. VPS: stan instalacji, 34. VPS: статус установки,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:478119dc759d, 35. VPS: open the web panel (SSH tunnel), 35. VPS: otwórz panel WWW (tunel SSH), 35. VPS: открыть веб-панель (SSH-туннель),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18c24401bb75, 36. VPS: close the tunnel to the panels, 36. VPS: zamknij tunel do paneli, 36. VPS: закрыть туннель к панелям,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5ea050d189d0," 37. VPS: game account passwords (admin, test, friends)"," 37. VPS: hasła kont gry (admin, test, znajomi)"," 37. VPS: пароли игровых аккаунтов (admin, test, друзья)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:9e8755d51ec0, 38. VPS: add the VPS server to the game client, 38. VPS: dopisz serwer VPS do klienta gry, 38. VPS: добавить сервер VPS в игровой клиент,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:7826760310b1, 39. VPS: server logs, 39. VPS: logi serwera, 39. VPS: логи сервера,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:764d85a5f8e7, 40. VPS: an account and an invite code for a friend (COOP), 40. VPS: konto i kod zaproszenia dla znajomego (COOP), 40. VPS: аккаунт и код приглашения для друга (COOP),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:da49dd819460, 42. VPS: apply settings and restart the VPS server, 42. VPS: zastosuj ustawienia i zrestartuj serwer na VPS, 42. VPS: применить настройки и перезапустить сервер VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f39f47878203," 41. Report a bug (to the author, with the logs)"," 41. Zgłoś błąd (do autora, z logami)"," 41. Сообщить об ошибке (автору, с логами)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:476e2fd2d126, 43. Synchronize item data to the client (after changes in the database editor), 43. Synchronizuj dane przedmiotów z klientem (po zmianach w edytorze bazy danych), 43. Синхронизировать данные предметов с клиентом (после изменений в редакторе БД),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:976ab6495e01," 44. Disk space: what the installation and Docker take, how to shrink Docker's data disk"," 44. Miejsce na dysku: co zajmuje instalacja i Docker, jak zmniejszyć dysk danych Dockera",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:06a035ae3d88," 45. Clean up now (old automatic backups, files left by updates, logs - older than M2_CLEANUP_KEEP_DAYS)"," 45. Posprzątaj teraz (stare kopie automatyczne, pliki po aktualizacjach, logi - starsze niż M2_CLEANUP_KEEP_DAYS)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:55b9eea39ac5, 46. Clean up Docker (old images and the build cache of every project; after you confirm), 46. Posprzątaj Dockera (stare obrazy i pamięć podręczna budowania wszystkich projektów; po potwierdzeniu),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:ee658a0b7e23," 47. Bot reset: every bot starts from scratch, your characters and items stay (a backup is saved automatically)"," 47. Reset botów: każdy bot zaczyna od zera, Twoje postacie i przedmioty zostają (kopia zapisywana automatycznie)",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:721cbe642e5a,  0. Exit,  0. Wyjście,  0. Выход,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:45b9ce6e2d69,Choose an option,Wybierz opcję,Выбери пункт,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:8a062d9105ee,ERROR: {#0},BŁĄD: {#0},ОШИБКА: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d77aec5b3e30,Press Enter to go back to the menu,"Naciśnij Enter, aby wrócić do menu","Нажми Enter, чтобы вернуться в меню","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5de305f24c08,"The launcher did not start:
+
+{0}
+
+The details are in the launcher-logs folder.","Launcher nie wystartowal:
+
+{0}
+
+Szczegoly sa w folderze launcher-logs.","Лаунчер не запустился:
+
+{0}
+
+Подробности в папке launcher-logs.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d1c9a8d08bd8,Launcher error,Blad launchera,Ошибка лаунчера,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ccd558993098,Opening the launcher window - this console closes in a moment.,Otwieram okno launchera - ta konsola zaraz sie zamknie.,Открывается окно лаунчера - эта консоль сейчас закроется.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:cae0001f4614,{0}  LAUNCHER ERROR: {1},{0}  BLAD LAUNCHERA: {1},{0}  ОШИБКА ЛАУНЧЕРА: {1},"launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e45f0e5b6c22,"A launcher file is missing: {#0}
+","Brakuje pliku launchera: {#0}
+","Не хватает файла лаунчера: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:0b038d85ae72,"Antivirus on this system: {#0}
+","Antywirus w systemie: {#0}
+","Антивирус в этой системе: {#0}
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5f6996438bfd,"The launcher never deletes it itself - as a rule an antivirus takes it (a false alarm on a script that downloads and starts a server).
+
+","Launcher sam go nie usuwa - najczesciej zabiera go antywirus (falszywy alarm na skrypt, ktory pobiera i uruchamia serwer).
+
+","Лаунчер никогда не удаляет его сам - как правило, его забирает антивирус (ложная тревога на скрипт, который скачивает и запускает сервер).
+
+","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:65c68427cb98,1. Look in the antivirus quarantine. In Windows: Windows Security > Virus & threat protection > Protection history. ,1. Zajrzyj do kwarantanny antywirusa. W Windows: Zabezpieczenia Windows > Ochrona przed wirusami i zagrozeniami > Historia ochrony. ,1. Загляни в карантин антивируса. В Windows: Безопасность Windows > Защита от вирусов и угроз > Журнал защиты. ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:85de13028a44,"Restore the file and add the folder {#0} to the exclusions.
+","Przywroc plik i dodaj folder {#0} do wykluczen.
+","Восстанови файл и добавь папку {#0} в исключения.
+","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:44206aa828b6,"2. If it cannot be restored: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) ","2. Jesli nie da sie go przywrocic: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip ","2. Если восстановить нельзя: скачай пакет metin2-server-update-<version>.zip с GitHub (TieruYT/metin2-playerbots, Releases) ","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c3f0bc5eae49,"and take {#0} out of it into {#1}. Add the exclusion first, or the antivirus takes it again.","i wyjmij z niej {#0} do {#1}. Najpierw dodaj wykluczenie, inaczej antywirus zabierze go znowu.","и извлеки из него {#0} в {#1}. Сначала добавь исключение, иначе антивирус снова его заберёт.","launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:043c787fb8bf,"The launcher's files are from two different versions: this window is newer than launcher\Metin2Launcher.psm1. Most often an update is still writing its files.
+
+Wait a minute or two for the update to finish, then start the launcher again.
+
+If this message keeps coming back: download the package metin2-server-update-<version>.zip from GitHub (TieruYT/metin2-playerbots, Releases) and take the launcher folder out of it into {#0}.","Pliki launchera sa z dwoch roznych wersji: to okno jest nowsze niz launcher\Metin2Launcher.psm1. Najczesciej aktualizacja jeszcze zapisuje pliki.
+
+Poczekaj minute lub dwie, az aktualizacja sie skonczy, i uruchom launcher ponownie.
+
+Jesli ten komunikat wraca: pobierz z GitHuba (TieruYT/metin2-playerbots, Releases) paczke metin2-server-update-<wersja>.zip i wyjmij z niej folder launcher do {#0}.","Файлы лаунчера из двух разных версий: это окно новее, чем launcher\Metin2Launcher.psm1. Чаще всего обновление ещё записывает свои файлы.
+
+Подожди минуту-другую, пока обновление закончится, и запусти лаунчер снова.
+
+Если это сообщение появляется снова и снова: скачай пакет metin2-server-update-<version>.zip с GitHub (TieruYT/metin2-playerbots, Releases) и извлеки из него папку launcher в {#0}.","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:0174ccaa78b5,in the window: ,w oknie: ,в окне: ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:9909885813a5,"An error in the launcher window:
+
+{0}
+
+The details are in the launcher-logs folder. The window keeps working.","Blad w oknie launchera:
+
+{0}
+
+Szczegoly sa w folderze launcher-logs. Okno dziala dalej.","Ошибка в окне лаунчера:
+
+{0}
+
+Подробности в папке launcher-logs. Окно продолжает работать.","launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:310b36f8d5a0,"Launcher restart: the previous window (PID {0}, {1}) did not close in 60 s - showing it, and the new launcher version did not open. Close the launcher and start it again.","Restart launchera: poprzednie okno (PID {0}, {1}) nie zamknelo sie w 60 s - pokazuje je, a nowa wersja launchera sie nie otworzyla. Zamknij launcher i uruchom go ponownie.","Перезапуск лаунчера: предыдущее окно (PID {0}, {1}) не закрылось за 60 с - оно показано, а новая версия лаунчера не открылась. Закрой лаунчер и запусти его снова.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:69bb8da1c53b,still running,nadal dziala,ещё работает,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:4335d114de08,no longer running - another window holds the folder,juz nie dziala - folder trzyma inne okno,больше не работает - папку занимает другое окно,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:02e389dc7c0d,This folder's launcher is already open as administrator - its window cannot be brought forward from here.,Launcher tego folderu jest juz otwarty jako administrator - tego okna nie da sie stad przywolac.,Лаунчер этой папки уже открыт от имени администратора - его окно нельзя вывести на передний план отсюда.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:05f9f84da75e,This folder's launcher is already open - showing its window instead of a second one.,Launcher tego folderu jest juz otwarty - pokazuje jego okno zamiast drugiego.,Лаунчер этой папки уже открыт - вместо второго показывается его окно.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:61bedf47daf8,"This folder's launcher is already open as administrator, so it cannot be brought forward from here.
+
+Switch to its window (the taskbar or the icon next to the clock), or close it and start the launcher again.","Launcher tego folderu jest już otwarty jako administrator, więc nie da się go stąd przywołać.
+
+Przełącz się na jego okno (pasek zadań albo ikona przy zegarze) albo zamknij je i uruchom launcher ponownie.","Лаунчер этой папки уже открыт от имени администратора, поэтому его нельзя вывести на передний план отсюда.
+
+Перейди в его окно (панель задач или значок рядом с часами) или закрой его и запусти лаунчер снова.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:77ac4d2309d6,The launcher is already open,Launcher jest już otwarty,Лаунчер уже открыт,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ba6b3023c37f,Windows did not open {0}: {1}. Clipboard: {2}.,Windows nie otworzyl {0}: {1}. Schowek: {2}.,,"launcher window or message | keep: {0} {1} {2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:3b3488380c9f,copied,skopiowany,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:1d5ee313d50a,unavailable,niedostepny,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:002c03b7c383,"Windows has no default browser set, so it did not open the address.
+
+The address was copied - paste it (Ctrl+V) into your browser:
+{0}
+
+You can set the default browser in Windows Settings: Apps > Default apps.","Windows nie ma ustawionej domyslnej przegladarki, wiec nie otworzyl adresu.
+
+Adres jest skopiowany do schowka - wklej go (Ctrl+V) w przegladarce:
+{0}
+
+Domyslna przegladarke ustawisz w Ustawieniach Windows: Aplikacje > Aplikacje domyslne.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:e0f8547048eb,"Windows has no default browser set, so it did not open the address.
+
+Type it into your browser:
+{0}
+
+You can set the default browser in Windows Settings: Apps > Default apps.","Windows nie ma ustawionej domyslnej przegladarki, wiec nie otworzyl adresu.
+
+Wpisz go w przegladarce:
+{0}
+
+Domyslna przegladarke ustawisz w Ustawieniach Windows: Aplikacje > Aplikacje domyslne.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:db77ad172e39,"Windows did not open:
+{0}
+
+The path was copied - paste it (Ctrl+V) into File Explorer's address bar.","Windows nie otworzyl:
+{0}
+
+Sciezka jest skopiowana do schowka - wklej ja (Ctrl+V) w pasku adresu Eksploratora plikow.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:103f66ae8686,"Windows did not open:
+{0}
+
+Open this path in File Explorer.","Windows nie otworzyl:
+{0}
+
+Otworz te sciezke w Eksploratorze plikow.",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:5dee9499707b,Game language (client),Język gry (klient),Язык игры (клиент),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f8905ee6c185,Client chosen: {#0},Wybrano klienta: {#0},Выбран клиент: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:23017acc76cf,"No game client is chosen yet. Point to it with the CHOOSE CLIENT button, then choose the game language again.",Nie wybrano jeszcze klienta gry. Wskaż go przyciskiem WYBIERZ KLIENTA i wybierz język gry jeszcze raz.,"Игровой клиент ещё не выбран. Укажи его кнопкой ВЫБРАТЬ КЛИЕНТ, затем снова выбери язык игры.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c8bcc554bba7,Game language,Język gry,Язык игры,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e4138396cf39,The game language was not changed: {#0},Nie zmieniono języka gry: {#0},Язык игры не изменён: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:5484b9fbb55b,The game is running. Close it and choose the language again - the game saves its settings when it closes and would overwrite this choice.,Gra jest uruchomiona. Zamknij ją i wybierz język jeszcze raz - gra zapisuje swoje ustawienia przy zamykaniu i nadpisałaby ten wybór.,Игра запущена. Закрой её и снова выбери язык - при закрытии игра сохраняет настройки и перезаписала бы этот выбор.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d12470300154,Unknown game language: {#0},Nieznany język gry: {#0},Неизвестный язык игры: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f19afe9fe602,The client folder is missing: {#0},Brak folderu klienta: {#0},Нет папки клиента: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:e3d6607618eb,Game language: {#0} ({#1}),Język gry: {#0} ({#1}),Язык игры: {#0} ({#1}),"launcher window or message | keep: {#0} {#1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:084056cab53e,Game language: {0}. The game starts in it from its next start; the launcher keeps its own language.,Język gry: {0}. Gra uruchomi się w nim od następnego startu; launcher zostaje w swoim języku.,Язык игры: {0}. Игра запустится на нём со следующего запуска; лаунчер сохраняет свой язык.,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:3a6f31249c39,Wait for the current operation to finish.,Poczekaj na zakończenie bieżącej operacji.,"Подожди, пока закончится текущая операция.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:18358a3a28b7,The launcher is busy,Launcher pracuje,Лаунчер занят,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:f0df5a113999,Tidying up the client files failed: {#0},Porządki w plikach klienta nieudane: {#0},Не удалось навести порядок в файлах клиента: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:dce1b83314b0,Client repair required,Wymagana naprawa klienta,Требуется ремонт клиента,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:81c423a001dd,ERROR starting the client: {#0},BŁĄD uruchamiania klienta: {#0},ОШИБКА запуска клиента: {#0},"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c714f3a3de81,Docker: NOT INSTALLED,Docker: NIEZAINSTALOWANY,Docker: НЕ УСТАНОВЛЕН,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f45e473c1f63,Docker: READY,Docker: GOTOWY,Docker: ГОТОВ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -131,6 +300,8 @@ l:3c81f2c5abc8,"Into the inventory - at once, as until now","Do ekwipunku - od r
 l:d8ec0e9711b0,"On the ground - as in the original game (pick it up, or wear the Third Hand)",Na ziemię - jak w oryginalnej grze (podnosisz sam albo z Trzecią Ręką),На земле - как в оригинальной игре (подбери или надень Третью руку),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:c00db663e6fa,"The yang on the ground has no owner, as in the original game - anyone can pick it up, a bot included. The Z key, Auto Hunt or a worn Third Hand picks it up. Bots and the Companion always get their yang straight into the inventory - their economy is built on it. The web panel changes it live without a restart.","Yang na ziemi nie ma właściciela, jak w oryginalnej grze - podnieść go może każdy, także bot. Podnosi go klawisz Z, Auto Łowy albo Trzecia Ręka w ekwipunku. Boty i Towarzysz zawsze dostają yang prosto do ekwipunku - ich ekonomia jest na tym oparta. Panel WWW zmienia to na żywo bez restartu.","У янга на земле нет владельца, как в оригинальной игре - его может подобрать кто угодно, и бот тоже. Подбирают его клавиша Z, автоохота или надетая Третья рука. Боты и Компаньон всегда получают свой янг сразу в инвентарь - на этом построена их экономика. Веб-панель меняет это на лету без перезапуска.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:68c5ced17c01,"Old skill rule: one roll for Master at the 17th point, then stuck at 17 (as since 2.2.14)","Stara zasada umiejętności: jeden rzut na Mistrza przy 17 punkcie, potem blokada na 17 (jak od 2.2.14)","Старое правило навыков: один бросок на Мастера на 17-м очке, затем застревает на 17 (как с 2.2.14)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c20865f75575,Player shop size like the bots: two pages (160 cells) instead of one (80),Rozmiar sklepu gracza jak boty: dwie strony (160 miejsc) zamiast jednej (80),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:2700cf5e694e,"Off by default - a player's standard offline shop has one page (80 cells), a bot's two (160). On: a player gets the second page like a bot - a new shop is made on the first, and the second is filled from the shop's manage window once the shop stands. It applies from a shop's next opening; a shop that already stands keeps its size. It needs an up-to-date client. The web panel changes it live without a restart.","Domyślnie wyłączone - standardowy sklep offline gracza ma jedną stronę (80 miejsc), a sklep bota dwie (160). Włączone: gracz dostaje drugą stronę jak bot - nowy sklep powstaje na pierwszej, drugą dokłada się w oknie zarządzania sklepem, gdy sklep już stoi. Działa od następnego otwarcia sklepu, sklep, który już stoi, zostaje, jaki był. Potrzebny aktualny klient. Panel WWW zmienia to na żywo bez restartu.",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:2cf056cc6ff2,"Off by default - the official rule: every point from 17 to 19 is another roll for Master (1/4, 1/3, 1/2), and the 20th point is a sure M1. On: one roll at the 17th point (25%, 45% below level 35, +25% for a reset at the Old Woman), and a failed one leaves the skill at 17 - then a Book of Oblivion, the Skill Reset Scroll or the Old Woman. Bots and the Companion play the same rule. The web panel changes it live without a restart.","Domyślnie wyłączone - oficjalna zasada: każdy punkt od 17 do 19 to kolejny rzut na Mistrza (1/4, 1/3, 1/2), a 20 punkt daje M1 na pewno. Włączone: jeden rzut przy 17 punkcie (25%, 45% poniżej 35 poziomu, +25% za reset u Starszej Pani), a po porażce umiejętność stoi na 17 - dalej Księga Zapomnienia, Zwój Powrotu Umiejętności albo Starsza Pani. Boty i Towarzysz grają tą samą zasadą. Panel WWW zmienia to na żywo bez restartu.","По умолчанию выкл. - официальное правило: каждое очко с 17 по 19 - ещё один бросок на Мастера (1/4, 1/3, 1/2), а 20-е очко - гарантированный M1. Вкл.: один бросок на 17-м очке (25%; ниже 35 уровня: 45%; сброс у Старухи: +25%), и неудача оставляет навык на 17 - дальше Книга забвения, Свиток сброса навыков или Старуха. Боты и Компаньон играют по тому же правилу. Веб-панель меняет это на лету без перезапуска.","launcher window or message | keep: % f | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:dae214796306,World extras (for casual play),Dodatki świata (dla luźnej gry),Дополнения мира (для спокойной игры),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:50d9fcb5e49c,Alchemy: Cor Draconis a day (10 = as in the game),Alchemia: Cor Draconis dziennie (10 = jak w grze),Алхимия: Кор Драконис в день (10 = как в игре),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -150,7 +321,7 @@ l:695100a4ad15,"How often weapons and armour (jewellery and boots too) dropped b
 l:1af422fb1d54,"Movement speed of players and bots, % (100 = as in the game)","Szybkość ruchu graczy i botów, % (100 = jak w grze)","Скорость передвижения игроков и ботов, % (100 = как в игре)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:113bdc207863,"How fast the players' characters and the bots move, the Companion with them: a percent of the game's own speed, from 50 to 200. It goes on top of everything the game gives (gear, skills, potions, a sprint, a horse), on foot and in the saddle; the game shows at most 255, 2.55 times a character with nothing on (100), so a fast character gets there sooner. The bots move at the same pace as the players, and the Companion keeps up with its player; monsters move as in the game. The web panel changes it live without a restart.","Jak szybko poruszają się postacie graczy i boty, a z nimi Towarzysz: procent szybkości z gry, od 50 do 200. Dochodzi do wszystkiego, co daje gra (ekwipunek, umiejętności, mikstury, sprint, koń), pieszo i w siodle; gra pokazuje najwyżej 255, czyli 2,55 raza tyle co postać bez niczego (100), więc szybka postać dojdzie do tego wcześniej. Boty chodzą w tym samym tempie co gracze, a Towarzysz nadąża za swoim graczem; potwory poruszają się jak w grze. Panel WWW zmienia to na żywo bez restartu.","Как быстро двигаются персонажи игроков и боты, а с ними Компаньон: процент от собственной скорости игры, от 50 до 200. Он идёт поверх всего, что даёт игра (снаряжение, навыки, зелья, рывок, конь), пешком и в седле; игра показывает максимум 255, в 2,55 раза больше персонажа без ничего (100), так что быстрый персонаж достигает его раньше. Боты двигаются в том же темпе, что и игроки, а Компаньон не отстаёт от своего игрока; монстры двигаются как в игре. Веб-панель меняет это на лету без перезапуска.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4ae9d0b0340e,"Drop level penalty (0-100%, 0 = as in the game, 100 = no penalty)","Kara za poziom przy dropie (0-100%, 0 = jak w grze, 100 = bez kary)","Штраф уровня к дропу (0-100%, 0 = как в игре, 100 = без штрафа)","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:33df47168ff8,"The game takes part of the drop chance from a character above its monster: two levels over 98% is left, five over 92%, ten over half (a boss and a Metin stone 30%), fifteen and more over 1%. This number is the least share of the chance a kill keeps whatever the level difference: 0 = the game's own penalty, 100 = no penalty, between = a floor. It never lowers a chance, so a character under its monster drops as before. Players and bots alike; yang and experience stay as they are. The web panel changes it live without a restart.","Gra zabiera część szansy na drop postaci wyższej od potwora: 2 poziomy wyżej zostaje 98%, 5 wyżej 92%, 10 wyżej połowa (boss i Metin 30%), 15 i więcej wyżej 1%. Ta liczba to najmniejsza część szansy, jaką zabicie zachowuje bez względu na różnicę poziomów: 0 = kara jak w grze, 100 = bez kary, pomiędzy = podłoga. Nigdy nie obniża szansy, więc postać niższa od potwora dropi jak dotąd. Gracze i boty tak samo; yang i doświadczenie bez zmian. Panel WWW zmienia to na żywo bez restartu.","Игра отнимает часть шанса дропа у персонажа выше своего монстра: на два уровня выше остаётся 98%, на пять 92%, на десять половина (босс и Камень Метин: 30%), на пятнадцать и больше 1%. Это число - наименьшая доля шанса, которую убийство сохраняет при любой разнице уровней: 0 = собственный штраф игры, 100 = без штрафа, между = нижняя граница. Оно никогда не снижает шанс, так что персонаж ниже своего монстра дропает как раньше. Одинаково для игроков и ботов; янг и опыт остаются как есть. Веб-панель меняет это на лету без перезапуска.","launcher window or message | keep: % i | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:7b5ae806bf9d,"The game takes part of the drop chance from a character above its monster: two levels over 98% is left, five over 92%, ten over half (a boss and a Metin stone 30%), fifteen and more over 1%. This number is the least share of the chance a kill keeps whatever the level difference: 0 = the game's own penalty, 100 = no penalty, between = a floor; 60 by default (a Metin stone or a boss ten or more levels under keeps 60% of the chance instead of 30%). It never lowers a chance, so a character under its monster drops as before. Players and bots alike; yang and experience stay as they are. The web panel changes it live without a restart.","Gra zabiera część szansy na drop postaci wyższej od potwora: 2 poziomy wyżej zostaje 98%, 5 wyżej 92%, 10 wyżej połowa (boss i Metin 30%), 15 i więcej wyżej 1%. Ta liczba to najmniejsza część szansy, jaką zabicie zachowuje bez względu na różnicę poziomów: 0 = kara jak w grze, 100 = bez kary, pomiędzy = podłoga; domyślnie 60 (Metin albo boss 10 i więcej poziomów niżej daje 60% szansy zamiast 30%). Nigdy nie obniża szansy, więc postać niższa od potwora dropi jak dotąd. Gracze i boty tak samo; yang i doświadczenie bez zmian. Panel WWW zmienia to na żywo bez restartu.",,"launcher window or message | keep: % i % o | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:dc20ed723f4d,The Beran dungeon (Beran-Setaou) open to players,Loch Berana (Beran-Setaou) otwarty dla graczy,Подземелье Берана (Beran-Setaou) открыто для игроков,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:b332501b450f,"Open by default: a player of level 75 or more with 5 Twisted Keys enters the Dragon Temple at the NPC in the Grotto of Exile, alone, for 60 minutes, up to 6 times a day. Bots and Companions never enter it. The web panel changes it live without a restart; closing it ends the runs in progress.","Domyślnie otwarty: gracz od 75 poziomu z 5 Krętymi Kluczami wchodzi do Świątyni Smoka u NPC w Grocie Wygnańców, sam, na 60 minut, do 6 razy dziennie. Boty i Towarzysze nigdy tam nie wchodzą. Panel WWW zmienia to na żywo bez restartu; zamknięcie kończy trwające wyprawy.","По умолчанию открыто: игрок 75 уровня и выше с 5 Изогнутыми ключами входит в Храм Дракона у NPC в Гроте изгнанников, один, на 60 минут, до 6 раз в день. Боты и Компаньоны туда никогда не входят. Веб-панель меняет это на лету без перезапуска; закрытие завершает текущие забеги.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7e3c32466688,New world - starting settings,Nowy świat - ustawienia na start,Новый мир - стартовые настройки,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -526,6 +697,8 @@ l:9f50e74aa734,Session realism,Realizm sesji,Реализм сессий,"launch
 l:4fac3e8826d3,These two act within 5 s without a restart (the same as the web panel's AI page).,"Te dwa działają w ciągu 5 s bez restartu (to samo co w panelu WWW, strona AI).",Эти два действуют за 5 с без перезапуска (как страница ИИ в веб-панели).,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:122aa8bba91c,On a VPS these two are set in the web panel (AI page); the estimate below leaves them out.,Na VPS te dwa ustawia panel WWW (strona AI); szacunek niżej ich nie uwzględnia.,На VPS эти два задаются в веб-панели (страница ИИ); оценка ниже их не учитывает.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:af5b0b671ceb,"The server is off: these two can be changed while it runs (or in the web panel, AI page).","Serwer wyłączony: te dwa można zmienić, gdy działa (albo w panelu WWW, strona AI).","Сервер выключен: эти два можно менять, пока он работает (или в веб-панели, страница ИИ).","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:c7b3e8fdd916,The bots' Kantor (surplus materials exchanged for bonus stones),Kantor botów (wymiana nadwyżki ulepszaczy na kamienie bonusów),,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:6ec4cc1664da,The bots' Kantor,Kantor botów,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:448ab73ba1c2,Set,Ustaw,Установить,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:4d3b723ad672,"Before an update the launcher saves a backup of the world, but the drive {0} has only {1} of free room, and the backup needs about {2} (and {3} for the server build).
 
@@ -1078,6 +1251,7 @@ l:320929f5b15d,", Lucky Ticket from Metin stones and bosses: players {#0}%, bots
 l:126a2d824f92,", drop level penalty: at least {#0}% of the chance (0% = as in the game, 100% = no penalty)",", kara za poziom przy dropie: najmniej {#0}% szansy (0% = jak w grze, 100% = bez kary)",", штраф уровня к дропу: не меньше {#0}% шанса (0% = как в игре, 100% = без штрафа)","launcher window or message | keep: % o; {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:62e68bbb8134,", skills from their 17th point: {#0}",", umiejętności od 17 punktu: {#0}",", навыки с 17-го очка: {#0}","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:95685e42ee85,", the Beran dungeon: {#0}",", loch Berana: {#0}",", подземелье Берана: {#0}","launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:d1290b05469a,", a player's shop: {#0}",", sklep gracza: {#0}",,"launcher window or message | keep: {#0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:4a8071ae9e6a,Set the difficulty: {#0}; {#1}; {#2} - and restart the server now to apply it? The database and the bots' progress stay as they are.,"Ustawić poziom trudności: {#0}; {#1}; {#2} - i zrestartować serwer teraz, aby zastosować? Baza i postęp botów pozostaną bez zmian.","Задать сложность: {#0}; {#1}; {#2} - и перезапустить сервер сейчас, чтобы применить? База данных и прогресс ботов останутся как есть.","launcher window or message | keep: {#0} {#1} {#2} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7945d3c8f7a0,Difficulty,Poziom trudności,Сложность,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:e6deed0e6c30,Database import,Import bazy,Импорт базы данных,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1136,6 +1310,21 @@ Kopia zniknie z dysku na zawsze - tego nie da się cofnąć.","Удалить к
 l:3825d1e1ad76,Confirm deleting the backup,Potwierdź usunięcie kopii,Подтвердить удаление копии,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:5e609be275f2,World backup deleted: {0},Usunięto kopię świata: {0},Копия мира удалена: {0},"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:22d73ccfab44,Could not delete the backup: {0},Nie udało się usunąć kopii: {0},Не удалось удалить копию: {0},"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:ac57ab7951ca,Bot reset,Reset botów,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:4d944d972b99,"Every bot starts from scratch: level 1, the starter kit, no items, yang, storage, shops, quests, horse or guild. The names are dealt anew from the pool.
+
+Kept as it is: your accounts and characters, their items, storage and ItemShop, your guilds and friends, your Companion and the world's settings (rates, events, weights, the exchange, .env). Items bought from bots stay with you. A guild a bot leads with you in it passes to you. The yang of your offers on bots' stalls goes back to your shop storage.
+
+The launcher stops the server, saves the world to a zip backup in the 'backups' folder and only then resets the bots. Should anything of yours change, the reset is undone from the backup. The server then starts by itself.
+
+To confirm, type {0}:","Każdy bot zaczyna od zera: poziom 1, zestaw startowy, bez przedmiotów, yang, magazynu, sklepów, zadań, konia i gildii. Imiona są rozdawane na nowo z puli.
+
+Zostaje bez zmian: Twoje konta i postacie, ich przedmioty, magazyn i ItemShop, Twoje gildie i znajomi, Twój Towarzysz oraz ustawienia świata (stawki, wydarzenia, wagi, Kantor, .env). Przedmioty kupione od botów zostają u Ciebie. Gildia prowadzona przez bota, w której jesteś, przechodzi na Ciebie. Yang z Twoich ofert na straganach botów wraca do magazynu sklepu.
+
+Launcher zatrzyma serwer, zapisze świat do kopii zip w folderze 'backups' i dopiero potem zresetuje boty. Jeśli cokolwiek Twojego by się zmieniło, reset jest cofany z kopii. Potem serwer uruchomi się sam.
+
+Aby potwierdzić, wpisz {0}:",,"launcher window or message | keep: {0} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
+l:a64a0068a4cd,Reset the bots,Zresetuj boty,,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:968d38eb4b40,"Wipe the world and start over?
 
 The WHOLE current world goes: characters, levels, equipment, bots and game accounts. The launcher first saves it to a zip backup in the 'backups' folder, so you can go back to it with BACKUP / NEW WORLD -> Restore from a backup.
@@ -1254,6 +1443,7 @@ Oba sterują tym samym światem: nie uruchamiaj aktualizacji, kopii ani przywrac
 Оба управляют одним и тем же миром: не запускай обновление, резервную копию или восстановление из обоих сразу. Лучше закрой один из них.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:80a992c0725c,Metin2 Easy Launcher is also running for this folder.,Dla tego folderu działa też Metin2 Easy Launcher.,Для этой папки также запущен Metin2 Easy Launcher.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:cfea419c3b4e,Apply,Zastosuj,Применить,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
+l:debdddbaed76,"Bot reset - bots from scratch, your characters stay","Reset botow - boty od zera, Twoje postacie zostaja",,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",new
 l:464817515558,World backup,Kopia swiata,Копия мира,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:6f03b7cb75f0,"A backup writes the whole world - characters, levels, equipment, bots and game accounts - into one zip file in the backups folder. The server is stopped and saved for each of these operations.","Kopia zapisuje caly swiat - postacie, poziomy, ekwipunek, boty i konta gry - do jednego pliku zip w folderze backups. Serwer zostanie na czas kazdej z tych operacji zatrzymany i zapisany.","Резервная копия записывает весь мир - персонажей, уровни, снаряжение, ботов и игровые аккаунты - в один ZIP-файл в папке копий. Для каждой такой операции сервер останавливается и сохраняется.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:f117dd409113,Restore from a backup (backup list),Przywroc swiat z kopii (lista kopii),Восстановить из копии (список копий),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
@@ -1341,164 +1531,3 @@ l:cfb046b2437d,"On the 2.x files items and monsters (item_proto, mob_proto) live
 l:a23db79f9980,Database connection details,Dane do polaczenia z baza,Данные подключения к базе,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:7563ce76d342,DIAGNOSTICS,DIAGNOSTYKA,ДИАГНОСТИКА,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
 l:9106e9df8162,DIFFICULTY,POZIOM TRUDNOSCI,СЛОЖНОСТЬ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:497e9b5a8c6d,World difficulty,Poziom trudnosci swiata,Сложность мира,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:7b45a7e8481b,START DOCKER,URUCHOM DOCKER,ЗАПУСТИТЬ DOCKER,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5e5614545804,"""Stop and save"" never deletes characters or bot progress. It never uses docker compose down -v.","""Zatrzymaj i zapisz"" nie usuwa postaci ani postepu botow. Nigdy nie uzywa docker compose down -v.","""Остановить и сохранить"" никогда не удаляет персонажей и прогресс ботов. Оно никогда не использует docker compose down -v.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:658a7fb8f80b,Metin2 Singleplayer Playerbots - All in One,Metin2 Singleplayer Playerbots - All in One,Metin2 Singleplayer Playerbots - Всё в одном,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3871b618f2ca,GM PANEL F9 (BETA),PANEL GM F9 (TEST),GM-ПАНЕЛЬ F9 (БЕТА),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ad4c3ea28b34,IMPORT DATABASE,IMPORTUJ BAZE,ИМПОРТ БАЗЫ ДАННЫХ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ae9ba4965804,Import a database from another installation,Importuj baze z innej instalacji,Импорт базы данных из другой установки,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d434e0dfc458,"Pick the source installation. Its world - characters, levels, equipment - is copied into this one.","Wybierz zrodlowa instalacje. Jej swiat (postacie, poziomy, ekwipunek) zostanie skopiowany do biezacej instalacji.","Выбери исходную установку. Её мир - персонажи, уровни, снаряжение - копируется в эту.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d6fbc9d2bdd5,Import,Importuj,Импорт,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a806f4cf71d4,1. INSTALL / PREPARE,1. ZAINSTALUJ / PRZYGOTUJ,1. УСТАНОВИТЬ / ПОДГОТОВИТЬ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:1b21b12fe850,Language changed. Restart the launcher to see it.,"Jezyk zmieniony. Uruchom launcher ponownie, zeby zobaczyc zmiane.","Язык изменён. Перезапусти лаунчер, чтобы увидеть его.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c27dc0a80374,LANGUAGE / JEZYK: ENGLISH,JEZYK / LANGUAGE: POLSKI,ЯЗЫК / LANGUAGE: РУССКИЙ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:70464e53a608,Start the game client too,Uruchom takze klienta gry,Запускать и игровой клиент,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:70f8cd510354,LOG FOLDER,FOLDER LOGOW,ПАПКА ЛОГОВ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b6fafcdfa572,OPEN LOG,OTWORZ LOG,ОТКРЫТЬ ЛОГ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4aec5fb2c301,OPEN WEB PANEL,OTWORZ PANEL WWW,ОТКРЫТЬ ВЕБ-ПАНЕЛЬ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ab1621b11e4e,"Original panel
-map and controls","Oryginalny panel
-mapa i sterowanie","Оригинальная панель
-карта и управление","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3041bce7f346,"Synchronize item data to the client
-the editor's changes (bonuses, attack, prices, levels) in the game client","Synchronizuj dane przedmiotow z klientem
-zmiany z edytora (bonusy, atak, ceny, poziomy) w kliencie gry","Синхронизировать данные предметов с клиентом
-изменения редактора (бонусы, атака, цены, уровни) в игровом клиенте","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5bc82e0aa3fa,Which panel should open?,Ktory panel otworzyc?,Какую панель открыть?,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:5f5b022a3567,"Database editor (original panel)
-items, monsters, drops, shops - needs the panel password","Edytor bazy danych (oryginalny panel)
-przedmioty, potwory, drop, sklepy - wymaga hasla do panelu","Редактор БД (оригинальная панель)
-предметы, монстры, дроп, лавки - нужен пароль панели","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4d46345a75a1,Both panels show the same world and run at the same time.,Oba panele pokazuja ten sam swiat i dzialaja jednoczesnie.,Обе панели показывают один и тот же мир и работают одновременно.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ffc32c3a103d,PANEL PASSWORD,HASLO DO PANELU,ПАРОЛЬ ПАНЕЛИ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:21282f01db11,I cannot log in (panel password),Nie moge sie zalogowac (haslo do panelu),Не могу войти (пароль панели),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:062ab462f3f6,"Advanced panel by seban latino
-profiles, rankings, economy, load","Zaawansowany panel seban latino
-profile, rankingi, gospodarka, obciazenie","Расширенная панель от seban latino
-профили, рейтинги, экономика, нагрузка","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4328034c5baa,2. PLAY (SERVER + CLIENT),2. GRAJ (SERWER + KLIENT),2. ИГРАТЬ (СЕРВЕР + КЛИЕНТ),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b33214a6ff64,2. PLAY (SERVER ONLY),2. GRAJ (SAM SERWER),2. ИГРАТЬ (ТОЛЬКО СЕРВЕР),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:245c54221b75,2. PLAY (CLIENT - SERVER ON A VPS),2. GRAJ (KLIENT - SERWER NA VPS),2. ИГРАТЬ (КЛИЕНТ - СЕРВЕР НА VPS),"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a0d73bcd7556,Ready.,Gotowy.,Готово.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c676ddc9b9dd,REPAIR DATABASE ACCESS,NAPRAW DOSTEP DO BAZY,ВОССТАНОВИТЬ ДОСТУП К БД,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6bc781319122,"A newer client version was found: {0}
-(installed: {1})
-
-Replaces the pack files in the client folder; the previous ones go to backups\client. Close the game before the update.
-
-""Not now"" postpones the question until the next version; the UPDATE CLIENT button always works.","Znaleziono nowsza wersje klienta: {0}
-(zainstalowana: {1})
-
-Podmienia pliki pack w folderze klienta; poprzednie trafiaja do backups\client. Zamknij gre przed aktualizacja.
-
-""Nie teraz"" odklada pytanie do nastepnej wersji; przycisk AKTUALIZUJ KLIENTA dziala zawsze.","Найдена более новая версия клиента: {0}
-(установлена: {1})
-
-Заменяет pack-файлы в папке клиента; прежние уходят в backups\client. Закрой игру перед обновлением.
-
-""Не сейчас"" откладывает вопрос до следующей версии; кнопка ОБНОВИТЬ КЛИЕНТ работает всегда.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:9397f21903d1,"A newer server version was found: {0}
-(installed: {1})
-
-Characters, items and bots stay as they are. The server is rebuilt - progress in the log below - and the launcher, if it changed, restarts by itself afterwards.
-
-""Not now"" postpones the question until the next version; the UPDATE button always works.","Znaleziono nowsza wersje serwera: {0}
-(zainstalowana: {1})
-
-Postacie, przedmioty i boty zostana bez zmian. Serwer zostanie przebudowany - postep w logu na dole - a launcher, jesli sie zmienil, uruchomi sie potem ponownie sam.
-
-""Nie teraz"" odklada pytanie do nastepnej wersji; przycisk AKTUALIZUJ dziala zawsze.","Найдена более новая версия сервера: {0}
-(установлена: {1})
-
-Персонажи, предметы и боты останутся как есть. Сервер пересобирается - ход в логе ниже, - а лаунчер, если он изменился, потом сам перезапустится.
-
-""Не сейчас"" откладывает вопрос до следующей версии; кнопка ОБНОВИТЬ работает всегда.","launcher window or message | keep: {0} {1} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6fb19a062e5b,Update everything,Aktualizuj wszystko,Обновить всё,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:61d8b70940ec,"Newer versions were found:
-   server and launcher: {0}  (installed: {1})
-   client: {2}  (installed: {3})
-
-Characters, items and bots stay as they are. The server is rebuilt - progress in the log below - the client gets the new pack files (the previous ones go to backups\client), and the launcher, if it changed, restarts by itself afterwards. Close the game before the update.
-
-""Server only"" - when you do not play on this computer's client or update it another way. ""Not now"" postpones the question until the next version; the UPDATE and UPDATE CLIENT buttons always work.","Znaleziono nowsze wersje:
-   serwer i launcher: {0}  (zainstalowana: {1})
-   klient: {2}  (zainstalowana: {3})
-
-Postacie, przedmioty i boty zostana bez zmian. Serwer zostanie przebudowany - postep w logu na dole - klient dostanie nowe pliki pack (poprzednie trafiaja do backups\client), a launcher, jesli sie zmienil, uruchomi sie potem ponownie sam. Zamknij gre przed aktualizacja.
-
-""Tylko serwer"" - gdy nie grasz na kliencie z tego komputera albo aktualizujesz go inaczej. ""Nie teraz"" odklada pytanie do nastepnej wersji; przyciski AKTUALIZUJ i AKTUALIZUJ KLIENTA dzialaja zawsze.","Найдены более новые версии:
-   сервер и лаунчер: {0}  (установлена: {1})
-   клиент: {2}  (установлена: {3})
-
-Персонажи, предметы и боты останутся как есть. Сервер пересобирается - ход в логе ниже, - клиент получает новые pack-файлы (прежние уходят в backups\client), а лаунчер, если он изменился, потом сам перезапустится. Закрой игру перед обновлением.
-
-""Только сервер"" - если ты не играешь клиентом этого компьютера или обновляешь его иначе. ""Не сейчас"" откладывает вопрос до следующей версии; кнопки ОБНОВИТЬ и ОБНОВИТЬ КЛИЕНТ работают всегда.","launcher window or message | keep: {0} {1} {2} {3} | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c4cbac003f4a,Update now,Aktualizuj teraz,Обновить сейчас,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:14bc7452eade,Server only,Tylko serwer,Только сервер,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f7f4cdceccea,STOP AND SAVE,ZATRZYMAJ I ZAPISZ,ОСТАНОВИТЬ И СОХРАНИТЬ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:292b0adadfbd,"Stop the server? Characters, the database and the bots' progress are kept.
-
-Yes - the server and Docker Desktop (Docker then frees its RAM).
-No - the server only; Docker stays on for other programs.
-Cancel - stop nothing.","Zatrzymać serwer? Postacie, baza i postęp botów zostaną zachowane.
-
-Tak - serwer i Docker Desktop (Docker zwalnia wtedy pamięć RAM).
-Nie - sam serwer; Docker zostaje włączony dla innych programów.
-Anuluj - nic nie zatrzymuj.","Остановить сервер? Персонажи, база данных и прогресс ботов сохранятся.
-
-Да - сервер и Docker Desktop (Docker тогда освободит свою RAM).
-Нет - только сервер; Docker остаётся включённым для других программ.
-Отмена - ничего не останавливать.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e50c942d875d,Safe stop,Bezpieczne zatrzymanie,Безопасная остановка,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:1fe39fc58529,"One launcher: Docker, the server, the client, updates and diagnostics in one place.","Prosty launcher: Docker, serwer, klient, aktualizacje i diagnostyka w jednym miejscu.","Один лаунчер: Docker, сервер, клиент, обновления и диагностика в одном месте.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:7015b2b2fa05,METIN2 SINGLEPLAYER - PLAYERBOTS,METIN2 SINGLEPLAYER - PLAYERBOTS,METIN2 SINGLEPLAYER - PLAYERBOTS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d34c4307627e,CHECK FOR UPDATES,SPRAWDZ AKTUALIZACJE,ПРОВЕРИТЬ ОБНОВЛЕНИЯ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:fbad8072d468,UPDATE CLIENT,AKTUALIZUJ KLIENTA,ОБНОВИТЬ КЛИЕНТ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c16b323ff11a,SERVER ON A VPS,SERWER NA VPS,СЕРВЕР НА VPS,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b73a50128441,BACKUP / NEW WORLD,KOPIA / NOWY SWIAT,РЕЗЕРВ / НОВЫЙ МИР,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:478814b93b8b,Click to see what is happening,"Kliknij, aby zobaczyć, co się dzieje","Нажми, чтобы увидеть, что происходит","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6bd7520e1bbe,The action ended with an error - click to see the details,"Akcja zakończyła się błędem - kliknij, aby zobaczyć szczegóły","Действие завершилось ошибкой - нажми, чтобы увидеть подробности","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8e42adc75ebc,Metin2 Singleplayer — Classic 2008,Metin2 Singleplayer — Klasyk 2008,Metin2 Singleplayer — Классика 2008,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:0efc2e6be4c2,Overview,Pulpit,Обзор,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:efe9cfd142ba,Welcome to Metin2 Singleplayer,Witamy w Metin2 Singleplayer,Добро пожаловать в Metin2 Singleplayer,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3493bdc3b815,World & bots,Świat i boty,Мир и боты,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bbcfa8c13573,Play together,Wspólna rozgrywka,Играть вместе,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4fa8cc860c52,Tools,Narzędzia,Инструменты,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:841260f8a3d6,Logs & diagnostics,Logi i diagnostyka,Логи и диагностика,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c7f73bb54d92,Settings,Ustawienia,Настройки,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:55462edfc4a6,PLAY GAME,ROZPOCZNIJ GRĘ,ЗАПУСТИТЬ ИГРУ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:9018baa02deb,START SERVER,URUCHOM SERWER,ЗАПУСТИТЬ СЕРВЕР,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:395d9d7dc991,Web panel,Panel WWW,Веб-панель,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d280887b4600,"Bot count, kingdoms and population pace.","Liczba botów, królestwa i tempo zaludniania.","Число ботов, королевства и темп заселения.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:31331b60c306,Character progression and difficulty.,Rozwój postaci i poziom trudności.,Развитие персонажей и сложность.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:4f10fd43a6c6,Rate editor in the web panel.,Edytor mnożników w panelu WWW.,Редактор рейтов в веб-панели.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:d79c02b6b1ff,VPS server settings.,Ustawienia serwera VPS.,Настройки сервера VPS.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6378757ee03f,Invite friends to play together.,Zaproś znajomych do wspólnej rozgrywki.,Пригласи друзей играть вместе.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c6f19ca9206b,COOP is available to everyone.,COOP jest dostępny dla wszystkich.,COOP доступен всем.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:02f60bd3597c,Start the game client only.,Uruchom samą grę.,Запустить только игровой клиент.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:a95e06683700,Choose the game client.,Wybierz klienta gry.,Выбрать игровой клиент.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f283b9b420aa,Update client files.,Aktualizacja plików klienta.,Обновить файлы клиента.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bf251632a8cd,Prepare server files.,Przygotuj pliki serwera.,Подготовить файлы сервера.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c0d2c4e9ee2b,Stop the server and save progress.,Zatrzymaj serwer i zapisz postęp.,Остановить сервер и сохранить прогресс.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:b5b7c3c484f1,Show the web panel password.,Wyświetl hasło panelu WWW.,Показать пароль веб-панели.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:bbb500cb9bcd,Change the launcher language.,Zmień język launchera.,Изменить язык лаунчера.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:cb39c3369859,"The game's language, apart from the launcher's.","Język gry, osobno od launchera.","Язык игры, отдельно от языка лаунчера.","launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:6fb38c937eed,Create a launcher shortcut on the desktop.,Utwórz skrót do launchera na pulpicie.,Создать ярлык лаунчера на рабочем столе.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:df790f752b01,Database connection details.,Dane połączenia do bazy.,Данные подключения к базе.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:3b95b64d5836,Repair database access.,Napraw dostęp do bazy.,Восстановить доступ к базе данных.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e289704a75dc,Import a database.,Przenieś bazę danych.,Импортировать базу данных.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f2f489d1452e,World backups.,Kopie zapasowe świata.,Копии мира.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:888230426af4,Diagnostics and logs.,Diagnostyka i dzienniki.,Диагностика и логи.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c31915351aca,Project website.,Strona projektu.,Сайт проекта.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c2f490d5bfc9,Support the project,Wesprzyj projekt,Поддержать проект,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:90735f0f59ea,Metin2 Singleplayer by Tieru.,Metin2 Singleplayer by Tieru.,Metin2 Singleplayer от Tieru.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:2b7a87ab15a9,Check the environment.,Sprawdź środowisko.,Проверить окружение.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:eed8046c09d8,Prepare a log bundle.,Przygotuj paczkę logów.,Подготовить пакет логов.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:2e2d3d2c618b,Open the current log.,Otwórz bieżący dziennik.,Открыть текущий лог.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:75acc1dc2dda,Saved log folder.,Folder zapisanych logów.,Папка сохранённых логов.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:e109ed776e45,Report a bug with logs.,Zgłoś błąd z logami.,Сообщить об ошибке с логами.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:8dc5e831478e,FULL LOG,PEŁNY DZIENNIK,ПОЛНЫЙ ЛОГ,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:f1687bbcdec6,Open details in a large window.,Otwórz szczegóły w dużym oknie.,Открыть подробности в большом окне.,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:c6e06e4b69d1,Metin2 Singleplayer — details,Metin2 Singleplayer — szczegóły,Metin2 Singleplayer — подробности,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
-l:ae4beec44aca,Launcher log,Dziennik launchera,Лог лаунчера,"launcher window or message | new lines allowed | {#0}, {0} are filled in when shown; keep the line breaks",done
