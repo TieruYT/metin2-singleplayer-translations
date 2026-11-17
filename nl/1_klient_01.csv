@@ -44,11 +44,11 @@ c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,Kies het 
 c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,Kies een regio.,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,Kies een server,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,Testserver,client: game texts (localeInfo),done
-c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,check
 c:locale_game:CHAT_ALL,All,Wszystko,Alles,client: game texts (localeInfo),done
 c:locale_game:CHAT_BLOCK,Block,Blok,Blokkeren,client: game texts (localeInfo),done
 c:locale_game:CHAT_GUILD,Guild,Gildia,Gilde,client: game texts (localeInfo),done
-c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),check
 c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Deze zin bevat ongeldige woorden.,client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Oude berichten tonen [L],client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Chatlogboek,client: game texts (localeInfo),done
@@ -111,7 +111,7 @@ c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,Dans 2,client: game texts (locale
 c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,Dans 3,client: game texts (localeInfo),done
 c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,Dans 4,client: game texts (localeInfo),done
 c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,Dans 5,client: game texts (localeInfo),done
-c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),check
 c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,Vergeving,client: game texts (localeInfo),done
 c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,Tongzoen,client: game texts (localeInfo),done
 c:locale_game:EMOTION_JOY,Joy,Radość,Vreugde,client: game texts (localeInfo),done
@@ -217,7 +217,7 @@ c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from you
 c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Personage verwijderen,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,Rollen van terugkeer kunnen niet worden gecombineerd.,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Wil je dit voorwerp gebruiken?,client: game texts (localeInfo),done
-c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
 c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Amateur-ninja,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Kracht van de ninja's,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Ondode,client: game texts (localeInfo),done
@@ -225,7 +225,7 @@ c:locale_game:JOB_SHAMAN,Shaman,Szaman,Sjamaan,client: game texts (localeInfo),d
 c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Amateur-sjamaan,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Kracht van de draak,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Bliksemkracht,client: game texts (localeInfo),done
-c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
 c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Amateur-sura,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Kracht van de fata morgana,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Kracht van de zwarte magie,client: game texts (localeInfo),done
@@ -260,27 +260,27 @@ c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Wachtwoord,client: game texts 
 c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Gebied Yongan,client: game texts (localeInfo),done
 c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Seungryong-vallei,client: game texts (localeInfo),done
 c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Gebied Yayang,client: game texts (localeInfo),done
-c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
 c:locale_game:MAP_B1,Joan Area,Strefa Joan,Gebied Joan,client: game texts (localeInfo),done
 c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Imji-vallei,client: game texts (localeInfo),done
 c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Gebied Bokjung,client: game texts (localeInfo),done
 c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Nefrietbaai,client: game texts (localeInfo),done
-c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
 c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Gebied Pyungmoo,client: game texts (localeInfo),done
 c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Bangsan-vallei,client: game texts (localeInfo),done
 c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Gebied Bakra,client: game texts (localeInfo),done
 c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Kaap Drakenvuur,client: game texts (localeInfo),done
-c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),check
 c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Gautama-klif,client: game texts (localeInfo),done
 c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Yongbi-woestijn,client: game texts (localeInfo),done
-c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Land der Reuzen,client: game texts (localeInfo),done
 c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Gumsan-toren,client: game texts (localeInfo),done
 c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Berg Sohan,client: game texts (localeInfo),done
-c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
 c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Hwang-tempel,client: game texts (localeInfo),done
 c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Donderbergen,client: game texts (localeInfo),done
-c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
 c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Rood Woud,client: game texts (localeInfo),done
 c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Slangenveld,client: game texts (localeInfo),done
 c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Vriend toevoegen,client: game texts (localeInfo),done
@@ -307,7 +307,7 @@ c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Inzoomen,client: game texts (l
 c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d toeschouwers,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Grote kaart openen,client: game texts (localeInfo),done
 c:locale_game:MINUTE,Minutes,Minut,Minuten,client: game texts (localeInfo),done
-c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),check
 c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,Tienduizend,client: game texts (localeInfo),done
 c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Honderd miljard,client: game texts (localeInfo),done
 c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Verkoopprijs:,client: game texts (localeInfo),done
@@ -325,8 +325,8 @@ c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,Aanva
 c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,Duur vaardigheid: +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,Verdediging: +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,Bonus-EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Max. SP: +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Max. HP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Max. SP: +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Max. HP: +%d,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Groep opheffen,client: game texts (localeInfo),done
 c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., wil zich bij de groep aansluiten.,client: game texts (localeInfo),done
 c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", heeft je uitgenodigd voor zijn groep. Accepteren?,client: game texts (localeInfo),done
@@ -340,7 +340,7 @@ c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the facto
 c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Bereik van de groep vergroot met factor 2.,client: game texts (localeInfo),done
 c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Groep verlaten,client: game texts (localeInfo),done
 c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,Bonus-EXP voor lang groepsspel: +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),check
 c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Groepslid oproepen.,client: game texts (localeInfo),done
 c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Bonus voor HP- en SP-regeneratie: +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,Je verzoek is afgewezen.,client: game texts (localeInfo),done
@@ -387,8 +387,8 @@ c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Vrede,client: game texts (localeI
 c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Bescherming,client: game texts (localeInfo),done
 c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Vijandig,client: game texts (localeInfo),done
 c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Nieuwe quest ontvangen.,client: game texts (localeInfo),done
-c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
-c:locale_game:QUEST_SEC,Sec.,Sek.,Sec.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
+c:locale_game:QUEST_SEC,Sec.,Sek.,Sec.,client: game texts (localeInfo),check
 c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Tijd verstreken,client: game texts (localeInfo),done
 c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Geen tijdslimiet.,client: game texts (localeInfo),done
 c:locale_game:QUEST_ZEROSEC,0 Sec.,0 Sek.,0 sec.,client: game texts (localeInfo),done
@@ -419,7 +419,7 @@ c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła 
 c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,Schermafbeelding opgeslagen in '%s'.,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,Schermafbeeldingsbestand,client: game texts (localeInfo),done
 c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,Opslaan van de schermafbeelding is mislukt.,client: game texts (localeInfo),done
-c:locale_game:SECOND,Sec,Sek,Sec,client: game texts (localeInfo),done
+c:locale_game:SECOND,Sec,Sek,Sec,client: game texts (localeInfo),check
 c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,Je kunt het personage niet verwijderen.,client: game texts (localeInfo),done
 c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,Je hebt de naam van het personage gewijzigd.,client: game texts (localeInfo),done
 c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,Deze personagenaam bestaat al.,client: game texts (localeInfo),done
@@ -451,7 +451,7 @@ c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn thi
 c:locale_game:SKILL_CHEONGEUN,Strong Body,,Sterk lichaam,client: game texts (localeInfo),done
 c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,Kritieke treffer,client: game texts (localeInfo),done
 c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,Gif aanbrengen,client: game texts (localeInfo),done
-c:locale_game:SKILL_EUNHYEONG,Camouflage,,Camouflage,client: game texts (localeInfo),done
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,Camouflage,client: game texts (localeInfo),check
 c:locale_game:SKILL_FAINT,Blackout,Omdlenie,Verduistering,client: game texts (localeInfo),done
 c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,Val vinden,client: game texts (localeInfo),done
 c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,Eeuwig vuur,client: game texts (localeInfo),done
@@ -544,7 +544,7 @@ c:locale_game:TARGET_BUTTON_EMOTION_ALLOW,Emotions,Emocje,Emoties,client: game t
 c:locale_game:TARGET_BUTTON_EXCHANGE,Trading,Handel,Handelen,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_EXCLUDE,Exclude,Wyklucz,Uitsluiten,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_EXIT_OBSERVER,End Observer Mode,Zakończ Tryb Obserwatora,Toeschouwersmodus beëindigen,client: game texts (localeInfo),done
-c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,Duel,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,Duel,client: game texts (localeInfo),check
 c:locale_game:TARGET_BUTTON_FRIEND,Friend,Przyjaciel,Vriend,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_INVITE_GUILD,Guild Invitation,Zapr. Gildii,Gilde-uitnodiging,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_INVITE_PARTY,Group Invitation,Zapr. Grupy,Groepsuitnodiging,client: game texts (localeInfo),done
@@ -560,7 +560,7 @@ c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,Niveau 4.,client: game 
 c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,Niveau 2.,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_ATTACK,Attack,Atak,Aanval,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,Automatisch aanvallen,client: game texts (localeInfo),done
-c:locale_game:TASKBAR_CAMERA,Camera,Kamera,Camera,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_CAMERA,Camera,Kamera,Camera,client: game texts (localeInfo),check
 c:locale_game:TASKBAR_EXP,Experience,Doświadczenie,Ervaring,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_HP,HP,PŻ,HP,client: game texts (localeInfo),done
 c:locale_game:TASKBAR_MOVE,Move,Ruch,Bewegen,client: game texts (localeInfo),done
@@ -596,8 +596,8 @@ c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items
 c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,%d%% kans om HP te herstellen,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,%d%% kans om SP te herstellen,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,%d%% kans om SP te stelen,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Geen effect,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,Er gaan geen ervaringspunten verloren als je personage op de plek van zijn dood wordt herrezen. ,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,%d%% kans op doorborende treffers,client: game texts (localeInfo) | keep: %d,done
@@ -624,7 +624,7 @@ c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obr
 c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Kans op black-out %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Harnas,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Pijl,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Aanvalswaarde +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Aanvalssnelheid +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,Zonne-elixer,client: game texts (localeInfo),done
@@ -682,7 +682,7 @@ c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku:
 c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.",Een hand die gevallen Yang automatisch opraapt,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Verdediging +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Verdediging +12~15%,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,iCafe-bonus-EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,Verhoogt de verkregen EXP met 50%,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,Je kans om een zeldzame vis te vangen verdubbelt.,client: game texts (localeInfo),done
@@ -693,9 +693,9 @@ c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items pl
 c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,Verdubbelt je kans om voorwerpen te verkrijgen,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,Liefdespunten stijgen sneller.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,Je opslag krijgt 2 opslagruimtes,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Max. HP +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Max. SP +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Max. SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Max. HP +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Max. SP +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Max. SP +%d%%,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,Max. uithoudingsvermogen +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,Magische aanval/aanval van dichtbij +%d%%,client: game texts (localeInfo) | keep: %d,done

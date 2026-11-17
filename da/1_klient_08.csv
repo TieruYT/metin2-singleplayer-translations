@@ -1,10 +1,510 @@
 id,english,polski,translation,notes,status
+c:pbt:e4b32b1c1a23,Gift: %s. Orders of the day: %d per day.,Podarunek: %s. Zlecenia dnia: %d dziennie.,Gave: %s. Dagens ordrer: %d pr. dag.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:878b19620456,Herbalist's Path: ranks 0-5,Ścieżka Zielarza: rangi 0-5,Den Urtekyndiges Vej: rang 0-5,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ddb2583c0421,From rank 1 %s opens the Herbalist's Workshop (a window of rank recipes - see Herbalist's Workshop) and gives orders of the day.,Od rangi 1 %s otwiera Pracownię Zielarza (osobne okno z recepturami rang - karta Pracownia Zielarza) i daje zlecenia dnia.,Fra rang 1 åbner %s Urtekyndiges værksted (et vindue med rangopskrifter - se Urtekyndiges værksted) og giver dagens ordrer.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:770ad8982ff6,"Orders renew at midnight UTC+1 (Central European winter time). The first is of your rank, the second one rank lower, the third two lower. The goods of a day are fixed for the character.","Zlecenia odnawiają się o północy UTC+1 (czas środkowoeuropejski zimowy). Pierwsze jest z Twojej rangi, drugie z rangi niższej o 1, trzecie o 2. Towar na dany dzień jest stały dla postaci.","Ordrerne fornyes ved midnat UTC+1 (centraleuropæisk vintertid). Den første er af din rang, den anden én rang lavere, den tredje to lavere. Dagens varer er faste for figuren.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bd7df0843a83,Reward: a share of your level's experience and one item from his stores (chances below).,Nagroda: część doświadczenia Twojego poziomu i jeden przedmiot z zapasów (szanse poniżej).,Belønning: en andel af dit niveaus erfaring og én genstand fra hans forråd (chancer nedenfor).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f1692bde9346,Rank %d order,Zlecenie rangi %d,Ordre af rang %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b6476f58f57f,%d%% exp,%d%% dośw.,%d%% erfaring,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:6804e94cb2c7,One of: %s.,Jedno z: %s.,En af: %s.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:79a564330cc2,Workshop and order of the day,Pracownia i zlecenie dnia,Værksted og dagens ordre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f88fc23f0c9,"At once up to %d boost, %d offensive and %d defensive potion effects work; a weaker or equal potion of the same effect does not replace a running one.","Naraz działa do %d efektów mikstur wzmacniających, %d ofensywnych i %d defensywnych; słabsza lub równa mikstura tego samego efektu nie zastąpi działającej.","Op til %d boost-, %d angrebs- og %d forsvarseliksireffekter virker på én gang; en svagere eller lige så stærk eliksir med samme effekt erstatter ikke en aktiv.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:a018eb967180,"%s (%s) lengthens a potion stack by %d%% or %d%%, once. General-use potions cannot be lengthened.","%s (%s) wydłuża działanie stosu mikstur o %d%% albo %d%%, jeden raz. Nie wydłuża mikstur ogólnych.","%s (%s) forlænger en eliksirstak med %d%% eller %d%%, én gang. Eliksirer til generel brug kan ikke forlænges.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d %d",done
+c:pbt:3ae52538475e,Potion from lv. %d: %s Yang and %dx %s each (+%d%%).,Mikstura od poz. %d: %s Yang i %dx %s za sztukę (+%d%%).,Eliksir fra niv. %d: %s Yang og %dx %s pr. stk. (+%d%%).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %d %s %d",done
+c:pbt:5dc9b74f03ee,Others: %s Yang and %dx %s each (+%d%%).,Pozostałe: %s Yang i %dx %s za sztukę (+%d%%).,Andre: %s Yang og %dx %s pr. stk. (+%d%%).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %s %d",done
+c:pbt:0aff502ca9a8,For +%d%% you pay half the Yang and half the dust (rounded up).,Za +%d%% płacisz połowę Yang i połowę pyłu (w górę).,For +%d%% betaler du halvdelen af Yang og halvdelen af støvet (rundet op).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:6393653fba1b,Level exceptions when lengthening: %s.,Wyjątki poziomu przy wydłużaniu: %s.,Niveauundtagelser ved forlængelse: %s.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:df432eaf864e,Potions: groups and lengthening,Mikstury: grupy i wydłużanie,Eliksirer: grupper og forlængelse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93d1da7b6e6b,%s x%d: %s Yang,%s x%d: %s Yang,%s x%d: %s Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %s",check
+c:pbt:fe44549c2232, and %s, oraz %s, og %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:ebbd1a02d76f,Baek-Go's shop,Sklep Baek-Go,Baek-Gos butik,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfac50d6424b,Credits,Autorzy,Tak til,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9ffd87e9c62c,"The Herbalist's Path - the ranks, the Workshop and the orders of the day - was designed by Said (saido_0). In-game Wiki: Kiciamol. Thank you!","Ścieżkę Zielarza - rangi, Pracownię i zlecenia dnia - zaprojektował Said (saido_0). Wiki w grze: Kiciamol. Dziękujemy!","Den Urtekyndiges Vej - rangene, værkstedet og dagens ordrer - blev designet af Said (saido_0). Wiki i spillet: Kiciamol. Tak!","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc749b39999d,How recipes work,Jak działają receptury,Sådan virker opskrifter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2cae2daaca3,You read a recipe scroll from your inventory (after %s's introduction). A successful read adds 1 to its reads; a scroll has a chance and a read limit.,Zwój receptury czytasz z ekwipunku (po wprowadzeniu u %s). Udany odczyt dodaje 1 do jej odczytów; zwój ma szansę i limit odczytów.,Du læser en opskriftsrulle fra dit inventar (efter introduktionen hos %s). En vellykket læsning lægger 1 til dens læsninger; en rulle har en chance og en grænse for læsninger.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7e8240616ab1,"Every row needs a number of reads of its recipe and a level. You craft at %s (the crafting option, within 10 m).","Każdy wiersz wymaga liczby odczytów swojej receptury i poziomu. Wytwarzasz u %s (opcja wytwarzania, do 10 m od niego).","Hver række kræver et antal læsninger af sin opskrift og et niveau. Du fremstiller hos %s (fremstillingsvalget, inden for 10 m).","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:906d28ce1bd4,"The cost and the ingredients are taken before the roll: a failed attempt loses them. Crafting several, each attempt rolls on its own.",Koszt i składniki są pobierane przed losowaniem: nieudana próba je zabiera. Przy kilku sztukach każda próba losuje osobno.,"Prisen og ingredienserne tages før slaget: et mislykket forsøg mister dem. Fremstiller du flere, slås der for hvert forsøg for sig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:badd14124514,%s raises the chance of your next recipe read.,%s zwiększa szansę następnego odczytu receptury.,%s øger chancen for din næste læsning af en opskrift.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:23a1c945dafb,"Scroll: %s - chance %d%%, up to %d reads.","Zwój: %s - szansa %d%%, odczytów: do %d.","Rulle: %s - chance %d%%, op til %d læsninger.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:3ab2efddd19d,From rank 1 of the Herbalist's Path %s offers the Herbalist's Workshop. A row needs a rank and a level; no recipe is read here.,Od rangi 1 Ścieżki Zielarza %s ma opcję Pracownia Zielarza. Wiersz wymaga rangi i poziomu; receptur się tu nie czyta.,Fra rang 1 på Den Urtekyndiges Vej tilbyder %s Urtekyndiges værksted. En række kræver en rang og et niveau; her læses ingen opskrift.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:17e902c82218,The cost and the ingredients are taken before the roll: a failed attempt loses them.,Koszt i składniki są pobierane przed losowaniem: nieudana próba je zabiera.,Prisen og ingredienserne tages før slaget: et mislykket forsøg mister dem.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b7d32c9191d,Rank %d: %s,Ranga %d: %s,Rang %d: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:00ad0a83d886,"Recipe reads: %d, level: %d, cost: %s Yang.","Odczyty receptury: %d, poziom: %d, koszt: %s Yang.","Læsninger af opskriften: %d, niveau: %d, pris: %s Yang.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
+c:pbt:eaceee7b645c,"Rank: %d, level: %d, cost: %s Yang.","Ranga: %d, poziom: %d, koszt: %s Yang.","Rang: %d, niveau: %d, pris: %s Yang.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
+c:pbt:5489dec830c3,Fame: %d/10,,Berømmelse: %d/10,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:17ce36c14b57,Dragon Stone Alchemy - Heaven deck,,Dragestensalkymi - Himmelbunke,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35768a9ee3e3,Dragon Stone Alchemy - Earth deck,,Dragestensalkymi - Jordbunke,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ee9edc4537c,logged in again after the connection dropped.,,"loggede ind igen, efter forbindelsen blev afbrudt.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c972291d56,Auto Hunt: resumed after logging in again.,,Autojagt: genoptaget efter ny indlogning.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96b38e81a238,Hunting started. Range: %d.,,Jagten er startet. Rækkevidde: %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d557a5f24f82,picking up is switched off.,,opsamling er slået fra.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d18249c7b08,Hunting stopped.,,Jagten er stoppet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d13dcbcc6fb,Auto Hunt: no time left. Buy its 8-hour ticket in the ItemShop and use it from your inventory - the time only runs while you play.,,"Autojagt: ingen tid tilbage. Køb 8-timers billetten i ItemShop og brug den fra inventaret - tiden løber kun, mens du spiller.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:caec836d4e19,Auto Hunt is switched off on this server (the world settings in the launcher).,,Autojagt er slået fra på denne server (verdensindstillingerne i launcheren).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d80df967c0f8,server did not confirm the filter. Pickup paused. Change the filter settings to retry.,,serveren bekræftede ikke filteret. Opsamling sat på pause. Skift filterindstillingerne for at prøve igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04e30825e892,could not save the advanced filter.,,kunne ikke gemme det avancerede filter.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3b014633d81,Auto Hunt: battle horse mode off.,,Autojagt: kamphestetilstand fra.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:729e50638728,Auto Hunt: the battle horse mode needs a horse of level %d or more - hunting on foot for now.,,Autojagt: kamphestetilstanden kræver en hest på niveau %d eller mere - jager til fods indtil videre.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1f20c69b9fdd,Auto Hunt: battle horse mode - fighting in place from the saddle.,,Autojagt: kamphestetilstand - kæmper på stedet fra sadlen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3df822263409,Auto Hunt: battle horse mode - getting on the horse.,,Autojagt: kamphestetilstand - stiger på hesten.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:782dd7b32c81,Auto Hunt: the character got off the horse - hunting on foot. Get back on (Ctrl+G) and the battle horse mode comes back.,,"Autojagt: figuren steg af hesten - jager til fods. Stig på igen (Ctrl+G), så kommer kamphestetilstanden tilbage.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04805def1ab2,Auto Hunt: the horse cannot be mounted - hunting on foot. Get on yourself (Ctrl+G) and the battle horse mode comes back.,,"Autojagt: hesten kan ikke bestiges - jager til fods. Stig selv på (Ctrl+G), så kommer kamphestetilstanden tilbage.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb893bb37448,"Auto Hunt: cannot get on the horse - trying every %d s, fighting on foot meanwhile.",,"Autojagt: kan ikke stige på hesten - prøver hvert %d. s, kæmper til fods imens.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a11c06604aba,damaged advanced filter save; selection is empty. Configure the filter again.,,beskadiget gemning af det avancerede filter; valget er tomt. Indstil filteret igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11325f8d9b46,could not migrate the old settings to slot 1.,,kunne ikke overføre de gamle indstillinger til plads 1.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e17463306d9,could not read slot 1 (%s).,,kunne ikke læse plads 1 (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c5d536b25525,"Targets (Settings): Monsters, Metins, Bosses. The server picks one in range: a boss first, then a Metin, then the nearest monster (one hitting you counts as nearer).",,"Mål (Indstillinger): Monstre, Metins, Bosser. Serveren vælger ét inden for rækkevidde: først en boss, så en Metin, så det nærmeste monster (et, der rammer dig, tæller som nærmere).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aef3077b4076,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Minimum gear bonuses: 1-7; 0 or empty also allows plain gear. Sockets are not bonuses.,,"Opsamling: vælg genstande i det separate vindue. Z / ` bruger det, når deres filter er slået til. Mindste udstyrsbonusser: 1-7; 0 eller tom tillader også almindeligt udstyr. Sokler er ikke bonusser.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40a1bfd7317d,Gear: min.,,Udstyr: min.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06e5751d6fa8,bonuses,,bonusser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e74a2acdf717,General Store in M1,,Købmand i M1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e66568583d1,Guard,,Vagt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c9ea1ca61ba,When you are low on health it takes on what hits you.,,"Når du har lidt liv, tager den det, der rammer dig, på sig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:038f64fef6f2,Casts its buffs on you.,,Kaster sine buffs på dig.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:642a998efd6e,Luring,,Lokning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:909344c5e053,Brings you packs of monsters from around.,,Bringer dig flokke af monstre fra omegnen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6ec8a3ba1a2,Plays without me,,Spiller uden mig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7610d67dcce2,Plays on when you leave the game - up to your level +30.,,"Spiller videre, når du forlader spillet - op til dit niveau +30.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:13b577b1052d,Chests,,Kister,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3243c9254152,Opens the chests and fish in its bag. Off: it leaves them to you.,,Åbner kister og fisk i sin taske. Fra: overlader dem til dig.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60b18fc8a85f,Party,,Gruppe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83c55e55104f,"Joins your party, also one somebody else leads.",,"Slutter sig til din gruppe, også en, som en anden leder.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd5ec76c0e73,Dragon Coins,,Dragemønter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b20161c3dac5,Buys what it needs in the Item Shop with them. Keeps: leaves them alone.,,"Køber det, den har brug for, i Itembutik med dem. Behold: rører dem ikke.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:26121b5b5b99,Lock equipment,,Lås udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11ecbda6c6d1,"No refining, bonus changes or gear swaps. Your manual commands still work.",,"Ingen forfining, bonusskift eller udstyrsskift. Dine manuelle kommandoer virker stadig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce0893a5c37e,Ranged first,,Afstand først,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b73a36f3d4ac,"First hits the archers and casters attacking you, it or the party.",,"Rammer først bueskytter og magikere, der angriber dig, den eller gruppen.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d1cb9713668,Potions: %d red / %d blue,,Eliksirer: %d røde / %d blå,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:27970f823341,You spend the stat points,,Du bruger statuspointene,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba64d4ccd8df,You spend the skill points,,Du bruger færdighedspointene,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e68b6b2bf92,"The first ""+"" on the Status tab gives them to you too.",,"Det første ""+"" på fanen Status giver dem også til dig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:134228be0bfa,"The first ""+"" on the Skills tab gives them to you too.",,"Det første ""+"" på fanen Færdigheder giver dem også til dig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e30775d09af1,Spend again (once for free),,Fordel igen (én gang gratis),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f60543ac84e,"Takes every stat point back - once, for free.",,"Tager alle statuspoint tilbage - én gang, gratis.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f852b8b06f71,Take back all your companion's stat points to spend them again? There is only one free reset.,,Tag alle din følgesvends statuspoint tilbage for at bruge dem igen? Der er kun én gratis nulstilling.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c2c8e3564f5,Update the server to spend stats.,,Opdater serveren for at bruge statuspoint.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:163c95f2a201,Your companion's AI spends the stat points.,,Din følgesvends AI bruger statuspointene.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f955129b280,"%d stat points wait for you: ""+"" on the Status tab.",,"%d statuspoint venter på dig: ""+"" på fanen Status.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e1f9ccc1b334,"%d skill points wait for you: ""+"" on the Skills tab.",,"%d færdighedspoint venter på dig: ""+"" på fanen Færdigheder.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:11909ec80319,Pick it up and click Unpin.,,Tag den op og klik på Frigør.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1f54edac1543,Pick an item up from the bag and click Destroy.,,Tag en genstand fra tasken og klik på Ødelæg.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc96e09a1bd6,"%sFallen, waiting at the camp for the next round - war with %s",,"%sFaldet, venter i lejren på næste runde - krig med %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bb58ffeee774,"%sBreak between rounds, holding the middle - war with %s",,"%sPause mellem runder, holder midten - krig med %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b353a2e2a270,"%sHanding the pack over%s: %d brought, %d still after me",,"%sAfleverer flokken%s: %d bragt, %d stadig efter mig","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d %d",done
+c:pbt:28fb1d8ff77f,%sGoing through the portal to M2 for a Horse Medal,,%sGår gennem portalen til M2 efter en Hestemedalje,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:5ff73502dd5c,%sCollecting a battle horse from the Stable Boy,,%sHenter en kamphest hos Staldkarlen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,%sGår til Abefangehullet efter en Hestemedalje,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b4fa1035b5ab,%sBreak between rounds at the camp - war with %s,,%sPause mellem runder i lejren - krig med %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a8993dc60c6f,%sTaking soul stones to the Alchemist for dust,,%sBringer sjælesten til Alkymisten for støv,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2efa6c6e2b55,%sWaiting for a route to the merchant; then %s,,%sVenter på en rute til købmanden; derefter %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:70b47ec0c082,%sGoing to the Stable Boy for a battle horse,,%sGår til Staldkarlen efter en kamphest,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a508e4b423c7,%sFinding my way through the Monkey Dungeon,,%sFinder vej gennem Abefangehullet,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cffaedc39201,%sEarning a battle horse in the desert (%d/%d),,%sTjener en kamphest i ørkenen (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:bd2399767d86,%sTaking a Medal to the nearest Stable Boy,,%sBringer en medalje til den nærmeste Staldkarl,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2d4978c856fe,Buying refine materials at the market,,Køber forfiningsmaterialer på markedet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c4efd4f76b1,%sMustering for the guild war with %s (%s),,%sSamles til laugskrigen mod %s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:5fffab5b0d96,%sWaiting for a route to the merchant,,%sVenter på en rute til købmanden,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:fd37c8978a82,%sLooking for something at the stalls,,%sLeder efter noget ved bodene,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:667aea86fe25,%sSaving yang for the Teleporter %s (%lld/%d),,%sSparer yang op til Teleportøren %s (%lld/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %lld %d",done
+c:pbt:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,%sLeder efter et våben på niveau 30 på M3,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bf17b3eccd8d,%sLooking for a better spot (goal: %s),,%sLeder efter et bedre sted (mål: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:118fccaf9b63,%sLooking for a target for the group,,%sLeder efter et mål til gruppen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3d801aed6cbb,%sGoing to the blacksmith to upgrade,,%sGår til smeden for at opgradere,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f40b01d1168e,%sTrying to drop for the Biologist: %s,,%sPrøver at få bytte til Biologen: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:86258d4cccf4,%s's companion - at the blacksmith,,%ss følgesvend - hos smeden,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:d3e419e8362b,%sTaking a medal to the Stable Boy,,%sBringer en medalje til Staldkarlen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bf3378b87c43,%sResetting skills at the Old Lady,,%sNulstiller færdigheder hos Den gamle dame,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:1f83bfe36ce7,%sHaggling over a price at a stall,,%sPrutter om en pris ved en bod,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f079c15141fe,%sLooking for a party after dying,,%sLeder efter en gruppe efter at være død,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:952ef4c0ae19,%sGoing to the Fisherman for bait,,%sGår til Fiskeren efter madding,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c969beeee6dc,%sComing back%s: leading %d monsters,,%sKommer tilbage%s: fører %d monstre,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
+c:pbt:10e09dfd0932,Trading with the weapon dealer,,Handler med våbenhandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37919e723267,%sComing back from the Biologist,,%sKommer tilbage fra Biologen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0311cdf36cf8,%sCollecting for the Biologist: %s,,%sSamler til Biologen: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:1e443a9cae26,%sHanding in a horse medal (%u/21),,%sAfleverer en hestemedalje (%u/21),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u",done
+c:pbt:a279fa522e8b,Trading with the armour dealer,,Handler med rustningshandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28df8b66bd5e,%s's companion - at the merchant,,%ss følgesvend - hos købmanden,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:96d59e2f5d6b,"%sLuring%s: %u/%u groups, %d chasing me",,"%sLokker%s: %u/%u flokke, %d jager mig","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u %d",done
+c:pbt:9e28dad791d4,%sLure on hold: %s still fighting,,%sLokning venter: %s kæmper stadig,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b50e31d19feb,%sHanding in to the Biologist: %s,,%sAfleverer til Biologen: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:da63d06293b3,%sGuild gathering: Demon Tower,,%sLaugssamling: Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:53686397f63f,%sDefending the party against %s,,%sForsvarer gruppen mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:0fe43bd15db1,%sDefending the guild against %s,,%sForsvarer lauget mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:c7b6b9575ede,%sChasing %s away from the Metin,,%sJager %s væk fra Metinen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a12f33d08a6f,%sFishing - waiting for a bite,,%sFisker - venter på bid,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:df7459fe12d7,"Buying potions, selling loot",,"Køber eliksirer, sælger bytte","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5869123311e,Taking books to the storage,,Bringer bøger til lageret,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9c4904feaee,%sGoing to town for equipment,,%sGår til byen efter udstyr,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:804500d1db91,strong monsters in a party,,stærke monstre i en gruppe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4695b589a3e3,Going to the general store,,Går til købmanden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4daf3338ab67,%sGoing to town for supplies,,%sGår til byen efter forsyninger,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:810777b4a5b0,%sGoing to the river to fish,,%sGår til floden for at fiske,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:eb10c3288fae,Going to the armour dealer,,Går til rustningshandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c075477ef7d3,Quest: %s - going to the NPC,,Quest: %s - går til NPC'en,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:ff2ade108fb4,Going to the weapon dealer,,Går til våbenhandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09d7e1632df7,Putting books into storage,,Lægger bøger på lageret,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1494782aea4e,%sTaking to the Biologist: %s,,%sBringer til Biologen: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:7f2f45da5d75,%s's companion - recovering,,%ss følgesvend - kommer sig,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:922a5f1634da,%sDefending myself against %s,,%sForsvarer mig mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a01294d4d40b,%sGathering materials from %s,,%sSamler materialer fra %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:05f26e179bf8,%s's companion - picking up,,%ss følgesvend - samler op,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bd301b4a78b6,%sLooking for a fishing rod,,%sLeder efter en fiskestang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8c75ccfe5101,%sLevelling on M3 (Tier 2),,%sStiger i niveau på M3 (Trin 2),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e8185b3a7953,%s's companion - fighting,,%ss følgesvend - kæmper,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:62e0ca6c75db,Going to the blacksmith,,Går til smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f17c74f34874,Running errands in town,,Klarer ærinder i byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e1aa1f7f0fa,%sGoing to the Biologist,,%sGår til Biologen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:04e29e9f4aa7,%sSetting a spirit stone,,%sIndsætter en åndesten,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9e213fe05bff,Going for a profession,,Går efter en specialisering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:688b3e455c37,%s's companion - waiting,,%ss følgesvend - venter,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9f1bdcc55993,Choosing a profession,,Vælger en specialisering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72dd5bbe7d15,%sChoosing a profession,,%sVælger en specialisering,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a69eb7fd412b,%sTaking a short break,,%sTager en kort pause,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:d7a4d0fc83c9,Heading back to hunt,,Tilbage på jagt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a58a7c474ca,%sReading a skill book,,%sLæser en færdighedsbog,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2a462a7b2fd3,%sBack for revenge on %s,,%sTilbage for at hævne mig på %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:d67908ac9359,%sGoing to an ore vein,,%sGår til en malmåre,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:efa06935560b,Upgrading equipment,,Opgraderer udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b92ea8dfb82,%sHelping the party: %s,,%sHjælper gruppen: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:add2c61e9144,%sRetreating - low HP,,%sTrækker mig tilbage - lav HP,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7d9ac9c37991,%sBrowsing the stalls,,%sKigger på bodene,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a2afce5ad977,%sDemon Tower: floor %d,,%sDæmontårnet: etage %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:314440c29807,%sDefending %s against %s,,%sForsvarer %s mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:388230d5d523,%sResting after death,,%sHviler efter døden,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a4f79d8c029a,%sUpgrading equipment,,%sOpgraderer udstyr,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:409ac4671051,%sLooking at a stall,,%sKigger på en bod,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cc480c78224e,%sRunning a stall (%s),,%sDriver en bod (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:25a8aebca2f9,%sGuild war with %s (%s),,%sLaugskrig mod %s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:dfcde592b162,%sWaiting to lure%s (%s),,%sVenter på at lokke%s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:98d36b134c2d,%sVendetta against %s,,%sVendetta mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:665c88cd3c8e,%sLooking for a foe,,%sLeder efter en fjende,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:61438ac5c929,%sPreparing a lure%s,,%sForbereder lokning%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:e11d725c3968,%sGoing %s (goal: %s),,%sGår %s (mål: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:b36e1ea527cc,%sHunting with %s: %s,,%sJager med %s: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:0ae63fbd5bfd,%sResting in town,,%sHviler i byen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2fef48726671,%sBaiting the rod,,%sSætter madding på stangen,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3433f2e9b25a,Going into town,,Går til byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:749543f5d77e,%sWaiting to lure%s,,%sVenter på at lokke%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:fcfbc80824fd,%sPicking up loot,,%sSamler bytte op,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f366b272a74c,%sAFK - back soon,,%sAFK - tilbage snart,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0aa486e67e83,%sHunt: %s (%d left),,%sJagt: %s (%d tilbage),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
+c:pbt:d1701c8d9c4a,horse training,,hestetræning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a61bbcde3f2,skill training,,færdighedstræning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4563e4849769, for the party,, til gruppen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:656240c2bef2,%sDoing a quest,,%sLaver en quest,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bdabf14dbaff,the player is,,spilleren er,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6ed8c91715a, to the party,, til gruppen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e09b31f7128,%sRecovering HP,,%sGenvinder HP,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:dc23ea51b855,%s's companion,,%ss følgesvend,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:4785683a6b19,%s%s - potions %u/%u,,%s%s - eliksirer %u/%u,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u",done
+c:pbt:9ee9d6bba9b3,the party is,,gruppen er,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e2ed6ae75509,%sBoss raid: %s,,%sBossangreb: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:11ae337591ef,%sPlanning: %s,,%sPlanlægger: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:80a306e56cd2,%sMining ore,,%sBryder malm,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:6ae2df692f64,profession,,specialisering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a14f093fe35c,%sHelping %s: %s,,%sHjælper %s: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:501d5804b509,upgrading,,opgradering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54d1ba7dd9d7,%sBreaking %s,,%sKnuser %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bedcc40ee5df,equipment,,udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d99241f08f2,%sFighting %s,,%sKæmper mod %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:28d16ad6208d,levelling,,niveaustigning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96204760da7c,%s%s (goal: %s),,%s%s (mål: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:d345da7a3983,Biologist,,Biolog,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5357262c9d82,%sChasing %s,,%sJager %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:caa8914f4f3a,a player,,en spiller,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72275625c8d9,supplies,,forsyninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b60e9d739b5,recovery,,restitution,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6b346cdb9ee8,%sTrading,,%sHandler,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:52f5d9fedd47,Hunting,,Jagt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9cec681cf5e8, for %s,, til %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cf49ef7ef7c6,Persistent Explorer,,Udholdende opdagelsesrejsende,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:59cf1e15bf2a,Metin Slayer,,Metindræber,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a21565ff393,Team Player,,Holdspiller,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14db222d660e,Equipment Master,,Udstyrsmester,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d008da60aaf6,Careful Gatherer,,Omhyggelig samler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de5e04489960,Trader,,Handelsmand,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e38b843512a9,Metin Farmer,,Metin-farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc6757dee9dc,M3 Farmer,,M3-farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bc6e192c183,M2 Farmer,,M2-farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecd0bc440e55,Medal Farmer,,Medaljefarmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3deabb07a754,Conqueror,,Erobrer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bfd171baed7,Gambler,,Gambler,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:de9bb20b09e2,Perfectionist,,Perfektionist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4486006f811b,Miner,,Minearbejder,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d57bd5497ca,Fisher,,Fisker,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37a8650da7a9,Mercenary,,Lejesoldat,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:713f7f0890c9,Metinologist,,Metinolog,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7509ac40db87,Addict,,Afhængig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e25b58cbc199,Mad Scientist,,Gal videnskabsmand,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5dfbe1cae9c,Executioner,,Bøddel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e79c8a2ef8e,Mad Angler,,Gal lystfisker,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:940e4dd57121,Junior Gambler,,Junior-gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca1a9e88c123,Senior Gambler,,Senior-gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:852e38f3df18,Chief Gambler,,Overgambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94e529e288d3,Mad Gambler,,Gal gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c205ffe7db50,Herbalist,,Urtekyndig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3163a85fc381,Bonus Master,,Bonusmester,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41dc3110c0fa,Bargain Hunter,,Kupjæger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b63f21fd8d7c,Daily Goal,,Dagligt mål,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58911cf7195a,Keepsake of Mirine's Brother.,,Minde om Mirines bror.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6809e8745eab,Guardian,,Vogter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7fa23fb61b2,Welcome to Metin2 SinglePlayer,,Velkommen til Metin2 SinglePlayer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30f45262a0f3,Go to the Captain,,Gå til Kaptajnen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:453a9c8d005b,Kill 10 Alpha Grey Wolves,,Dræb 10 Alfa-gråulve,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d824bb948f39,Destroy the Metin of Battle,,Ødelæg Kampens Metin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:31bda7537934,Talk to the Captain,,Tal med Kaptajnen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58ea37474009,Capture the spy,,Fang spionen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4266380e60b,Letter from the City Guard,,Brev fra byvagten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2eeeb4a35ea3,Destroy the Metin Stones,,Ødelæg Metinstenene,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f8a58eb1309,News from the City Guard,,Nyt fra byvagten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c884636a97f0,The secret of the Metin Stones,,Metinstenenes hemmelighed,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:89924e62815e,The secret book,,Den hemmelige bog,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b96db278dc0,Off into the Yongbi Desert,,Af sted til Yongbi-ørkenen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d5c0523b044,The sixth page,,Den sjette side,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d453e7f0cc69,The ninth page,,Den niende side,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8b6d72af23e,Looking for the memorials,,På jagt efter mindesmærkerne,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:050282dff64a,The Blacksmith's mission,,Smedens mission,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cde4dbb89e1d,Find the Fisherman,,Find Fiskeren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:515a5c546f0d,Talk to the City Guard,,Tal med byvagten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0709f49e2af1,The gift for Chaegirab,,Gaven til Chaegirab,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6593982a75ec,The sick brother,,Den syge bror,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c5f9cd8592da,The deserter,,Desertøren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc15d67c3060,Ah-Yu's worries,,Ah-Yus bekymringer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:718a35f89a75,The broken porcelain,,Det knuste porcelæn,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52c363104c68,Rumble rumble,,Rumle rumle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:622be932a29e,Visiting Wonda-Rim,,Besøg hos Wonda-Rim,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85efc110e61e,Letter from the Captain,,Brev fra Kaptajnen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2e828cd9ccf,The daughter's wedding,,Datterens bryllup,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79cb2a493c55,Get the Peach Seeds,,Skaf Ferskenkernerne,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e73906114016,The stolen Hairpin,,Den stjålne Hårnål,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46eca64fc658,Find my brother.,,Find min bror.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39b954042b8a,Kill Mi-Jung from the White Oath,,Dræb Mi-Jung fra Den Hvide Ed,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf08db268137,Look for materials,,Led efter materialer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e66213676f0,Eun-Jung from the White Oath,,Eun-Jung fra Den Hvide Ed,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c9a90f3b574d,Go to the Peddler,,Gå til Kræmmeren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2739d337c31,Kill Goo-Paes,,Dræb Goo-Paes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7e3f4df99b33,Find Soon,,Find Soon,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:8ac7a457b79b,Get a Wolf Pelt,,Skaf et Ulveskind,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3959f0879be5,The dinner,,Middagen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b3848e5dd70e,The Spears,,Spydene,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e05bb4929ef,A medicine for Balso,,En medicin til Balso,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7208f520bff,Deokbae's Golden Axe,,Deokbaes Gyldne Økse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54f4d786d380,Look for Yu-Hwan,,Led efter Yu-Hwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:181ca3b1c8d9,The Stolen Rice Cake,,Den Stjålne Riskage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9564b755ebe4,Go to Ariyoung,,Gå til Ariyoung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc6fad9695d1,Go to Octavio,,Gå til Octavio,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2567ddc19e7f,Go to Aranyo,,Gå til Aranyo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9274929c90a6,Return to Baek-Go,,Vend tilbage til Baek-Go,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d0420e5dc99,Ore for a new weapon,,Malm til et nyt våben,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d478a79e30e5,Ore for new armour,,Malm til en ny rustning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97551417c346,Peddler's Request,,Kræmmerens Anmodning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7ebe7cf335b8,The bookworm's Treasure Map,,Bogormens Skattekort,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a8f125394f2,Kill the Black Wind generals,,Dræb Sort Vinds generaler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3118e1fd4da,Return to Yonah,,Vend tilbage til Yonah,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f47434ca9522,Go to Soon,,Gå til Soon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ac51ec3aa6,You found the Decorated Bow!,,Du fandt den Udsmykkede bue!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f1eadb5684d1,Go to Baek-Go,,Gå til Baek-Go,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c49c8f7dd0a,A Letter from the Blacksmith,,Et Brev fra smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bdfcd917d66b,Supporting War Device,,Støttende krigsmaskine,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6fa64cfb8ddc,Spider Eyes Special,,Edderkoppeøjne-specialitet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c06bd2f8c284,Let the Dead Rest,,Lad de døde hvile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:477e715a98ca,The Spider with the Bell,,Edderkoppen med klokken,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:446f31875e7a,Temple of Darkness,,Mørkets tempel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:673ddd1abb8d,Celadon Porcelain,,Celadonporcelæn,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94633491fbbf,Meet the spy,,Mød spionen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad194f9fca39,Let's go see Octavio,,Lad os besøge Octavio,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b9ee107b0fe,Back to Soon,,Tilbage til Soon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:045ae476c9ba,Get materials,,Skaf materialer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8857557d694c,The best cookbook,,Den bedste kogebog,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e0d7a332bdf,Rice Cake,,Riskage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c058f87fbcc3,Find the Golden Axe,,Find den Gyldne Økse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6714baff8c78,Quest: %s (%u/%u),,Quest: %s (%u/%u),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u %u",check
+c:pbt:d6f06ff68c38,Quest: %s,,Quest: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",check
+c:pbt:ae36a27aaaf6,Wanderer,,Vandrer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:88557672dea9,Grinder,,Grinder,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:10b2941434ed,to Yongan,,til Yongan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b140fb76accf,in Yongan,,i Yongan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1ca8a5ecb4cb,to Jayang,,til Jayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:961eb8fb8e65,in Jayang,,i Jayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2caee097c335,to Joan,,til Joan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f384284fb3f8,in Joan,,i Joan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9f8dfea2471e,to Bokjung,,til Bokjung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:26f3ef3f7815,in Bokjung,,i Bokjung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab2b1d5c6f12,to Pyongmoo,,til Pyongmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e40a1fb1ec19,in Pyongmoo,,i Pyongmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:548917ab802c,to Pyungmoo,,til Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ded922fdf547,in Pyungmoo,,i Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:519249f0aa0a,to Bakra,,til Bakra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:141f9067b82a,in Bakra,,i Bakra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:69c001bdd898,to Waryong,,til Waryong,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:57a27bbc114a,in Waryong,,i Waryong,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9982b937239c,to Yayang,,til Yayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4c68492b54f,in Yayang,,i Yayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:155e9fc0eecb,to Jungrang,,til Jungrang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d93674aaab4,in Jungrang,,i Jungrang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:86cc67371d1d,to Imha,,til Imha,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:81163fb8469b,in Imha,,i Imha,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72efe3bfc347,to Doyyumhwaji,,til Doyyumhwaji,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71b4dc62e142,in Doyyumhwaji,,i Doyyumhwaji,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca92904fb6c,to Doyyumhwan,,til Doyyumhwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac12f94ceae4,in Doyyumhwan,,i Doyyumhwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fec350a6a82d,to the Guild Land,,til Laugslandet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac8f812f64fe,in the Guild Land,,i Laugslandet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6aefee0405b2,into the Guild Land,,ind i Laugslandet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f07e0e08372b,to the Monkey Dungeon,,til Abefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:33a1fd35c818,in the Monkey Dungeon,,i Abefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e056ced9adb4,into the Monkey Dungeon,,ind i Abefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cdc31a85de75,to the Monkey Dungeon II,,til Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b869cd086831,in the Monkey Dungeon II,,i Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9b7c17da595,into the Monkey Dungeon II,,ind i Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd1f93d524cf,to the Monkey Dungeon III,,til Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6014dfcf268f,in the Monkey Dungeon III,,i Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce43ac0992a7,into the Monkey Dungeon III,,ind i Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c203c1360f17,to Monkey Dungeon II,,til Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa11033d6c98,in Monkey Dungeon II,,i Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b36e45cca6eb,into Monkey Dungeon II,,ind i Abefangehullet II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19aad470eec1,to Monkey Dungeon III,,til Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99f3c534475a,in Monkey Dungeon III,,i Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52a07e6292f3,into Monkey Dungeon III,,ind i Abefangehullet III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a679c524ebed,to the Orc Valley,,til Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ae1f32cf453,in the Orc Valley,,i Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2678b788b10d,into the Orc Valley,,ind i Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d21fe6f58729,to Orc Valley,,til Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce99b25c83bd,in Orc Valley,,i Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b11e85ea8fa8,into Orc Valley,,ind i Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93dd4ea14407,to Mount Sohan,,til Sohan-bjerget,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d69a2cd8b6d,in Mount Sohan,,i Sohan-bjerget,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcbdf0bcfcbb,into Mount Sohan,,ind i Sohan-bjerget,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5855a3d4c17f,to the Spider Dungeon,,til Edderkoppefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb1311e77521,in the Spider Dungeon,,i Edderkoppefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39cb1ffbe8a0,into the Spider Dungeon,,ind i Edderkoppefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c68aa523e51c,to the Spider Dungeon 2,,til Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c9949f8c9fcc,in the Spider Dungeon 2,,i Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22947400a463,into the Spider Dungeon 2,,ind i Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2ea41db6da3,to Spider Dungeon 2,,til Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f872cf7c84ae,in Spider Dungeon 2,,i Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e188b51951c3,into Spider Dungeon 2,,ind i Edderkoppefangehullet 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e35ed21321c,to the Hwang Temple,,til Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:82ce3aeed9e2,in the Hwang Temple,,i Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:955cba80817c,into the Hwang Temple,,ind i Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3a3bfec0d7d,to Hwang Temple,,til Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b1e64df20539,in Hwang Temple,,i Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39ffcd5f944a,into Hwang Temple,,ind i Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98659210f965,to the Ghost Wood,,til Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9ff0e9045056,in the Ghost Wood,,i Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f2407884b78,into the Ghost Wood,,ind i Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8295ca50c33,to the Ghost Forest,,til Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae6d2c0e0119,in the Ghost Forest,,i Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e49151f506a,into the Ghost Forest,,ind i Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22258fee6b80,to the Red Wood,,til Den Røde Lund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad42b52957f8,in the Red Wood,,i Den Røde Lund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:00f9e37076e6,into the Red Wood,,ind i Den Røde Lund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76d34513403b,to the Red Forest,,til Den Røde Skov,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:230afa876cda,in the Red Forest,,i Den Røde Skov,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91b3a29c5c65,into the Red Forest,,ind i Den Røde Skov,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a1e0a0475fb,to the Demon Tower,,til Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:907079fa4fe8,in the Demon Tower,,i Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d67786f5008,into the Demon Tower,,ind i Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4de2fcea488b,to the Grotto of Exile,,til Eksilets grotte,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66cb3e9cf03b,in the Grotto of Exile,,i Eksilets grotte,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc43748f00c2,into the Grotto of Exile,,ind i Eksilets grotte,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9dd613effbc,to the Grotto of Exile 2,,til Eksilets grotte 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5eec845e8a64,in the Grotto of Exile 2,,i Eksilets grotte 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1075ae2e1321,into the Grotto of Exile 2,,ind i Eksilets grotte 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56030b826114,to the Grotto,,til Grotten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:760b5e04a530,in the Grotto,,i Grotten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3015625d415a,into the Grotto,,ind i Grotten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:27c23a352268,to the Yongbi Desert,,til Yongbi-ørkenen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df722d9149e3,in the Yongbi Desert,,i Yongbi-ørkenen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c25f433f746,into the Yongbi Desert,,ind i Yongbi-ørkenen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:33ad2cae4f96,to the armour dealer,,til rustningshandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2dd928c0e8e2,in the armour dealer,,hos rustningshandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:917fc69b5f15,into the armour dealer,,ind til rustningshandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6eeb5b8c0d4b,to the weapon dealer,,til våbenhandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:789b94f625f1,in the weapon dealer,,hos våbenhandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a95d776addf1,into the weapon dealer,,ind til våbenhandleren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3547c995455f,to the general store,,til købmanden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a3af7bf31a09,in the general store,,i købmanden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d4c099ca255,into the general store,,ind til købmanden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ccf84acd99cc,to the blacksmith,,til smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44fb14cb1fbf,in the blacksmith,,hos smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:963bc36dcb98,into the blacksmith,,ind til smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a2048fbf5f7,to town,,til byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8cb8932eed71,in town,,i byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce4e974955f3,into town,,ind i byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84f6bb20d960,at the blacksmith,,hos smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:270e173948ef,at a merchant,,hos en købmand,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b658ad6de18,in the north,,i nord,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3d3db39970f6,in the south,,i syd,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d935c4566f4,in the east,,i øst,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1bcefc713b0d,in the west,,i vest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f14cdd4e76c,in the north-east,,i nordøst,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fcc606576079,in the north-west,,i nordvest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9a54e61923c8,in the south-east,,i sydøst,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40e145ffd641,in the south-west,,i sydvest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad7e2f5eefa8,in the middle of the map,,midt på kortet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cae56215a804,hunting,,jagt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df9a698b88a5,regeneration,,regenerering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95fa7a5a6524,Sorting out the inventory,,Rydder op i inventaret,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:827cc8f22d2b,Going to a duel with %s,,Går til duel med %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3e5bc4c74536,Duel with %s,,Duel med %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9323334c6d7e,back to work,,tilbage til arbejdet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc68da4c470b,to train a Grand Master skill,,for at træne en Stormester-færdighed,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04606fc64b12,to get back to town quickly,,for hurtigt at komme tilbage til byen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bdc5330e8b1,to read my books without the wait,,for at læse mine bøger uden ventetid,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa4048e113b0,to change bonuses at the blacksmith,,for at skifte bonusser hos smeden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcabf8965fdc,Going to the OX Quiz,,Går til OX-quizzen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:343b399714fd,[PT] ,,[PT] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44042a89bcb9,Mounted,,Til hest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d612c12d2ac,auto,,auto,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:6656018ac96d,always,,altid,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85777c03b725,never,,aldrig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5fdac3b434e,"Fights from its horse beside you while you ride: auto (Shaman, black-magic Sura climb off), always, never.",,"Kæmper fra sin hest ved din side, mens du rider: auto (Shaman og sortmagi-Sura stiger af), altid, aldrig.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d0352c971bb1,Going to Jack Pumpkin,,Går til Jack Græskar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58462b7ff323,Trading with Jack Pumpkin,,Handler med Jack Græskar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:077d49e68fbc,Going to the Pumpkin Scarecrow,,Går til Græskarfugleskræmslet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:013db90e04d4,Talking to the Pumpkin Scarecrow,,Taler med Græskarfugleskræmslet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f805b673483,Report player,,Anmeld spiller,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:78baebfcb4b5,Fire,,Ild,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a2af398fe47,Ice,,Is,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9814859a0576,HP recovery requires a server with attacker queries. Disable this option or update the server.,,"HP-genvinding kræver en server med forespørgsler om angribere. Slå denne indstilling fra, eller opdatér serveren.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96b42d843b86,"Moves away from attackers and nearby aggressive monsters while recovering HP, including after revival. If no safer route is available, keeps the usual defence.",,"Bevæger sig væk fra angribere og nærliggende aggressive monstre under HP-genvinding, også efter genoplivning. Hvis der ikke er nogen sikrere rute, beholdes det sædvanlige forsvar.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3592366b9749,Live changes require windowed mode.,,Ændringer i realtid kræver vinduestilstand.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dbe23ae3d200,Buffs,,Buffs,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:42153ed0bae2,Player:,,Spiller:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d48aafe6892b,Fetch,,Hent,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e7b192caac22,Type the player's name.,,Skriv spillerens navn.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eee35960f44d,The quest,,Questen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:476cb365f676,Reward variant,,Belønningsvariant,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5620aaff56f1,Complete with reward,,Fuldfør med belønning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eefaca3dd40b,The list is the database's copy. The server checks the stage again in the game.,,Listen er databasens kopi. Serveren tjekker trinnet igen i spillet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f4d0e1411220,Type a valid player name.,,Skriv et gyldigt spillernavn.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61bf181c9b7d,Fetching the quests of %s...,,Henter questene for %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b51350304a09,Give the reward above and skip what this quest requires? Click again.,,Giv belønningen ovenfor og spring questens krav over? Klik igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:471c0eb9b2e3,Confirm the reward,,Bekræft belønningen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:513b552b2ca1,No answer from the server. Refresh the list or the request.,,Intet svar fra serveren. Opdater listen eller forespørgslen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:274908e3773f,The quest's stage changed. Fetch the list again.,,Questens trin har ændret sig. Hent listen igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94e66b8dd068,The reward changed. Open its preview again.,,Belønningen har ændret sig. Åbn forhåndsvisningen igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b747dd0e8f44,The game's reward table needs a reload by the administrator.,,Spillets belønningstabel skal genindlæses af administratoren.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecaed3188c01,The player's inventory has no room.,,Spillerens inventar har ikke plads.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:190d448fa845,The reward would pass the player's Yang limit.,,Belønningen ville overskride spillerens Yang-grænse.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2678e948175b,This quest has already been rewarded.,,Denne quest er allerede belønnet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35ae97a01321,The Biologist's reward has already been given.,,Biologens belønning er allerede givet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99dbc257dda7,Quest completion is switched off (panel: Player quests).,,Fuldførelse af quests er slået fra (panel: Spillerquests).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bf1254ce489,Pick the quest again to refresh its reward.,,Vælg questen igen for at opdatere dens belønning.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da444935e92f,No such character.,,Ingen sådan figur.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f39dc511265f,Too many requests. Wait a moment.,,For mange forespørgsler. Vent et øjeblik.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa324ede4494,"This quest cannot be completed here, or its stage is inactive.",,"Denne quest kan ikke fuldføres her, eller dens trin er inaktivt.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a86c3243e7d5,This reward needs its room checked by hand.,,"Denne belønning kræver, at pladsen tjekkes manuelt.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bed2a0560dd3,This variant does not fit the class or the stage.,,Denne variant passer ikke til klassen eller trinnet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aab23ad18640,The quest's cycle changed. Fetch the quests again.,,Questens cyklus har ændret sig. Hent questene igen.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d5839e605adf,This series of tasks is already over.,,Denne række opgaver er allerede slut.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:129dbebee513,The horse's level does not fit this task. Refresh the list.,,Hestens niveau passer ikke til opgaven. Opdater listen.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f83272982684,A bot gets no reward for free.,,En bot får ingen belønning gratis.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2bdced6fdce3,%d quests - page %d/%d,,%d quests - side %d/%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
 c:pbt:6e1ef203cad8,No saved quest in this filter.,,Ingen gemt quest i dette filter.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f02e9d44a67,Variant: ,,Variant: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f02e9d44a67,Variant: ,,Variant: ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:e79e5cb5676e,Request #%s: %s. The player must be in the game with the shop and trade closed.,,Anmodning #%s: %s. Spilleren skal være i spillet med butik og handel lukket.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
 c:pbt:b0aa186ad122,Waiting for the player,,Venter på spilleren,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d94257c32afc,Being carried out,,Udføres,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -16,15 +516,14 @@ c:pbt:509d083b4f5a,The server's answer was not understood. Refresh the list.,,Se
 c:pbt:658b9b0079b0,Name / PID,,Navn / PID,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:153cc07126d7,No bots,,Ingen bots,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cd0af6cfca75,No matches,,Ingen resultater,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b04ba49f8486,Loading...,,Indlæser...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d25165091f06,No response,,Intet svar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c78a5f48863b,Select a bot,,Vælg en bot,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fcb9b52cc95a,Despawn,,Fjern,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1b63d897aae9,Respawn,,Genopliv,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:faf93fc326fd,VNUM,,VNUM,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:faf93fc326fd,VNUM,,VNUM,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:ef2e6d8b830f,Give item,,Giv genstand,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d0ebaa72abf2,Refresh bots,,Opdater bots,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e093fd310e1a,Bots: %d / %d,,Bots: %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:e093fd310e1a,Bots: %d / %d,,Bots: %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",check
 c:pbt:7965d4e66b4e,"PID %d | E%d | %d, %d",,"PID %d | R%d | %d, %d","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d %d",done
 c:pbt:71682825406f,Invalid VNUM or quantity,,Ugyldigt VNUM eller antal,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:168996e31212,Request sent,,Anmodning sendt,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -40,7 +539,7 @@ c:pbt:3e6f56edff22,Kingdom,,Rige,"client: our windows (companion, Auto Hunt, sta
 c:pbt:eb1f9357e839,E%d,,E%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:127f5e1c9e9a,Minimum level,,Mindste niveau,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:83d79ca4a892,Maximum level,,Højeste niveau,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:20b67b25676f,Shinsoo: %d | Chunjo: %d | Jinno: %d,,Shinsoo: %d | Chunjo: %d | Jinno: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:20b67b25676f,Shinsoo: %d | Chunjo: %d | Jinno: %d,,Shinsoo: %d | Chunjo: %d | Jinno: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",check
 c:pbt:ee82ebe0e1b1,Levels: %d-%d | average %.1f,,Niveauer: %d-%d | gennemsnit %.1f,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %.1f",done
 c:pbt:5872df7da98d,No item preview,,Ingen forhåndsvisning af genstand,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fdb6e75643ff,Level distribution (loaded list),,Niveaufordeling (indlæst liste),"client: our windows (companion, Auto Hunt, status lines)",done
@@ -51,8 +550,8 @@ c:pbt:3b700064e427,Give an item,,Giv en genstand,"client: our windows (companion
 c:pbt:abf358d41ff1,LEVEL %d,,NIVEAU %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:35ded1391400,List: %d (%s) | server data: %s,,Liste: %d (%s) | serverdata: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",done
 c:pbt:727d913ff028,%d s ago,,for %d s siden,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:a8a72afa718d,Auto: 5 s,,Auto: 5 s,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:781961bc81c2,Pause,,Pause,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8a72afa718d,Auto: 5 s,,Auto: 5 s,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:781961bc81c2,Pause,,Pause,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:3633fb5eab70,Not achieved,,Ikke opnået,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:99a6683164d1,Fame 9-1,,Berømmelse 9-1,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1326fd94b5be,Fame: any,,Berømmelse: alle,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -81,7 +580,7 @@ c:pbt:e8fef4b91ca3,Loot,,Bytte,"client: our windows (companion, Auto Hunt, statu
 c:pbt:b9c17d38393b,Favorites only,,Kun favoritter,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:191bfeb26fcd,Expand repeats,,Fold gentagelser ud,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fa6aac8a945e,Collapse repeats,,Fold gentagelser sammen,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:77c8874383a4,Find bot,,Find bot,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:77c8874383a4,Find bot,,Find bot,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:bdcfb307976a,Winner is not on the active list,,Vinderen er ikke på den aktive liste,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cd75b889ff9b,Item goes to the selected bot,,Genstanden går til den valgte bot,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:08077e21600f,View equipment,,Se udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -135,7 +634,7 @@ c:pbt:164cfb8bf136,Target this bot in game to view equipment,,Vælg denne bot so
 c:pbt:a90d5f41cbea,Apply action to selected bots?,,Anvend handlingen på de valgte bots?,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cb00eb5299d1,Queue cancelled,,Køen er annulleret,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b7eca0705be1,Remaining requests: %d,,Resterende forespørgsler: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:f70552d3e415,PID %d: %s OK (%s),,PID %d: %s OK (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",done
+c:pbt:f70552d3e415,PID %d: %s OK (%s),,PID %d: %s OK (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",check
 c:pbt:1805e72f3a80,PID %d: %s failed (%s),,PID %d: %s mislykkedes (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",done
 c:pbt:6588944a3c93,Server response timed out,,Serverens svar fik timeout,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4de7cd3c30c5,Loading state...,,Indlæser status...,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -200,502 +699,3 @@ c:pbt:742cee24f629,Active bots,,Aktive bots,"client: our windows (companion, Aut
 c:pbt:856d87d0c831,Active bots: -,,Aktive bots: -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c675c746ef1b,In a party: -,,I en gruppe: -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:133559d37d6b,Keeping a stall: -,,Holder bod: -,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4a241e655e75,Choose a bot from the list on the left,,Vælg en bot på listen til venstre,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4fb2f511570b,Refresh log,,Opdatér log,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de5c2bba0c16,Kick the bot,,Smid botten ud,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a0187353bdc2,Give an item (vnum / amount):,,Giv en genstand (vnum / antal):,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc2575c3930,Send,,Send,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ae665c861fa1,Active bots: %s,,Aktive bots: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:07a33b6f1402,In a party: %s,,I en gruppe: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:89fe8f59022c,Keeping a stall: %s,,Holder bod: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:63a6e4280aab,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Niv %d) - pid %d, pos (%d, %d), rige %d","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d %d %d %d",done
-c:pbt:cb640dce08ec,(this bot has not said anything yet),,(denne bot har ikke sagt noget endnu),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e161602a2fa3,Achievement #%d,,Præstation #%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c080148f299b,Won by: %s,,Vundet af: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bbf7fe0d2377,Nobody yet,,Ingen endnu,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ef27679fac54,The bot admin window did not load in this client - see syserr.txt,,Botadministrationsvinduet blev ikke indlæst i denne klient - se syserr.txt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5cbff7ffd2bd,Drag Auto Hunt onto the quickbar,,Træk Autojagt over på hurtigbjælken,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23707dd8cdef,the server has not confirmed the filter yet - retrying. Pickup waits for the confirmation.,,serveren har ikke bekræftet filteret endnu - prøver igen. Opsamling venter på bekræftelsen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b70e4a30bebe,the server refused the filter. Pickup paused. Change the filter settings or press Z to retry.,,serveren afviste filteret. Opsamling sat på pause. Skift filterindstillingerne eller tryk Z for at prøve igen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba7d67df5db7,the server does not know the Auto Hunt filter - it is older than the client. Update the server; until then filtered pickup is paused.,,serveren kender ikke Autojagt-filteret - den er ældre end klienten. Opdater serveren; indtil da er filtreret opsamling sat på pause.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7a10c6a87ee,the server confirmed the filter - pickup resumed.,,serveren bekræftede filteret - opsamling genoptaget.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:10dfb99f271b,Min. +,,Min. +,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3f0a8e7383bb,[x] Pick up,,[x] Saml op,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:135927e5861f,Selects or deselects the whole category. Clears manual exceptions while preserving Min. +.,,Vælger eller fravælger hele kategorien. Rydder manuelle undtagelser og bevarer Min. +.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d6a7b377fe22,Name or vnum:,,Navn eller vnum:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ea243e47d7b3,vnum exception limit. Use Entire page.,,Grænse for vnum-undtagelser. Brug Hele siden.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:84a82b56c3af,exception limit; minimum + was not saved.,,Undtagelsesgrænse; minimum + blev ikke gemt.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55dcbd95a175,Page %d/%d - %d items,,Side %d/%d - %d genstande,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:d661b5182ce7,Page %d/%d - %s,,Side %d/%d - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
-c:pbt:92428eecce22,Loading catalogue: %d/%d,,Indlæser katalog: %d/%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:b856edf2d4ee,Click: select item. Min. +: minimum upgrade level.,,Klik: vælg genstand. Min. +: mindste opgraderingsniveau.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba2b5a5fc869,Searching...,,Søger...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c49ba22ae5dc,Click a skill: collect only selected skill books.,,Klik på en færdighed: saml kun valgte færdighedsbøger.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:96d7f0b44fcf,Click a skill: collect only selected forget books.,,Klik på en færdighed: saml kun valgte Glemselsbøger.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8278c6b1cfe9,Variants: +%d to +%d,,Varianter: +%d til +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:4570b34c0595,Vnum series: ,,Vnum-serie: ,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1fa7c2a796dd,Refine all,,Forfin alt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44c13d067cc5,"Current tab, one attempt per set. Click again to stop.",,"Aktuel fane, ét forsøg pr. sæt. Klik igen for at stoppe.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50abfd1763fc,Server rejected the attempt. Batch stopped.,,Serveren afviste forsøget. Serien stoppede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:49f202584e0d,Stop (%d/%d),,Stop (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:481bf2955ab7,Waiting for result,,Venter på resultatet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b045e587a8ad,First place your chosen refining bean in the window.,,Læg først din valgte forfiningsbønne i vinduet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8a5e8f82872,No complete refining sets in this tab.,,Ingen fuldstændige forfiningssæt på denne fane.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4262c689d900,Server reply timed out. Batch stopped; wait for the pending result.,,Serverens svar fik timeout. Serien stoppede; vent på det ventende resultat.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5605d9f202ee,"Alchemy: %d attempts completed, %d successful.",,"Alkymi: %d forsøg fuldført, %d lykkedes.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:0d1945a9b705,Inventory changed. Start a new batch.,,Inventaret ændrede sig. Start en ny serie.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4accfc2982bf,No more beans of the chosen type. Batch stopped.,,Ikke flere bønner af den valgte type. Serien stoppede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5c4585bfc080,Marbles,,Kugler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4bffd1b75d0b,"Polymorph from its bag: ask, with you (no question), always (also alone in a fight), off.",,"Forvandling fra sin taske: spørg, med dig (uden spørgsmål), altid (også alene i kamp), fra.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f3b50cd53cc4,Accessories,,Tilbehør,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce3f44c0310c,Swords,,Sværd,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce1649348ab2,Two-handed,,Tohånds,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8e7594d5bba6,Daggers,,Dolke,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4f773e9d5bf0,Bows,,Buer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:650749789a2e,Bells,,Klokker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:73d38dbf7c5d,Fans,,Vifter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:731efc758725,Body armour,,Rustninger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:830a75394156,Pendants,,Vedhæng,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1fb2c11ac7e2,Gloves,,Handsker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:75b04b88d466,Rings,,Ringe,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0cb33492c615,Belts,,Bælter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:14a06b5af02b,Skill books,,Færdighedsbøger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d454718ba8f3,Forget books,,Glemselsbøger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:760f58705552,Yang,,Yang,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d8e12fdf7641,Gold stones,,Guldsten,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dfae001500b9,Ability potions,,Evneeliksirer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6c5c266e3c9c,Instant potions,,Øjeblikkelige eliksirer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3c079af159c5,Continuous potions,,Vedvarende eliksirer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:99fab17755b3,Quest items,,Questgenstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ebab47857476,Special / manuals,,Særlige / håndbøger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a7dd3a1d8ed5,Upgrading,,Opgradering,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9fb1092f32d4,Recipes,,Opskrifter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:632b7a35e960,Other items,,Andre genstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d844a14d111,Refinement materials,,Forfiningsmaterialer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d0c9b26f9cc4,Horse riding,,Ridning,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f0acc036f949,Gathering,,Indsamling,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7df7504fc57,Chests and keys,,Kister og nøgler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4bdceda673b4,Rings and amulets,,Ringe og amuletter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a2d4140ad8e1,Polymorph,,Forvandling,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b45a045dfc32,Other books,,Andre bøger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed58f29743f8,Instructions,,Vejledning,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:472b1d3a8bc8,Monkey dungeon,,Abefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:07ef2028c525,Orc Valley,,Orkdalen,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e83789be88e,Temple,,Tempel,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f6db3f96e9e3,Desert,,Ørken,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c96e594616e0,Spider dungeon,,Edderkoppefangehullet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:91c55059ac81,Sohan,,Sohan,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a418c2fdb30d,Doyyum,,Doyyum,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f41c4e4dab0b,Forest,,Skov,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4c028657cea3,Red forest,,Den Røde Skov,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0fbd8efea51d,Demon tower,,Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d1617afae6f,Grotto,,Grotte,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7612be290582,Catacomb,,Katakombe,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e5b0684bfb97,Maps 90+,,Kort 90+,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:47b5b7ad33c5,Other sources,,Andre kilder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:718a7e8a582e,Body,,Krop,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e853f0d7cc6,Mental,,Sind,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8940d66466e6,Assassin,,Snigmorder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f75aedc160fd,Archer,,Bueskytte,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:17182e9dd599,Weaponry,,Våbenkunst,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22ae5e022bd4,Black magic,,Sort magi,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb22c5e28adf,Dragon,,Drage,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:87272fae497d,Healing,,Helbredelse,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7efbe4b17742,Companion's skills,,Følgesvendens færdigheder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:209d832ec6fb,Companion's options,,Følgesvendens indstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:07ea32dd0e5d,keeps,,beholder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:801960125a1d,spends,,bruger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1c8f09270fc3,ask,,spørg,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fdb8e1944d39,with you,,med dig,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e5b174dc33a0,1. Adding and viewing items,,1. Tilføj og se genstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9ac41d5dd0f,Open BS with its icon in the inventory panel or with F5. You can add up to 3 items.,,Åbn BS med ikonet i inventarpanelet eller med F5. Du kan tilføje op til 3 genstande.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b2ec769b89d,"Drag an item from your inventory into a slot, or right-click it while BS is open.",,"Træk en genstand fra inventaret over på en plads, eller højreklik på den, mens BS er åben.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e0ff0c83bccb,"Each slot has three tabs: Set 1, Set 2 and Presets. Hover over the icon to see the item.",,"Hver plads har tre faner: Sæt 1, Sæt 2 og Forudindstillinger. Hold musen over ikonet for at se genstanden.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0116c605c925,Equipped items cannot be changed. BS works with the horse bag too.,,Bårne genstande kan ikke ændres. BS virker også med hestetasken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b5304dadc5e1,2. Main and alternative bonuses,,2. Hoved- og alternative bonusser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2c6b1d936874,Choose up to 5 main bonuses: all of them must reach their values.,,Vælg op til 5 hovedbonusser: alle skal nå deres værdier.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7223b7ac653a,"If you choose alternatives, at least one of them must match as well.",,"Vælger du alternativer, skal mindst én af dem også passe.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3fb450f3bca,Example: poison as main + devils / undead as alternatives.,,Eksempel: gift som hoved + djævle / udøde som alternativer.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5c109f8f33a0,A value is a minimum (bonus >= target). Any / skip adds no requirement. Right-click a selected bonus to clear its requirement.,,En værdi er et minimum (bonus >= mål). Vilkårlig / spring over tilføjer intet krav. Højreklik på en valgt bonus for at rydde kravet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f8871e059527,3. Two independent target sets,,3. To uafhængige målsæt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fbf4c2a20209,Matching one active set is enough. An empty Set 1 or 2 is inactive.,,"Det er nok, at ét aktivt sæt passer. Et tomt Sæt 1 eller 2 er inaktivt.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:40ec6cf4900e,Hitting one whole set is enough. Set 2 can be activated once an item is added.,,"Det er nok at ramme ét helt sæt. Sæt 2 kan aktiveres, når en genstand er tilføjet.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c05615224f06,Example: Set 1: 30 average + 12 intelligence. Set 2: 40 average alone.,,Eksempel: Sæt 1: 30 gennemsnit + 12 intelligens. Sæt 2: 40 gennemsnit alene.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba0690401010,Both set buttons show their activity. Set 2 must also be enabled.,,Begge sætknapper viser deres status. Sæt 2 skal også være slået til.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aac8cf81eb75,"4. Starting, stopping and a manual change",,"4. Start, stop og manuelt skift","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:898544f98917,Start begins automatic rerolling in that slot. Stop stops that slot.,,Start begynder automatisk omrulning på pladsen. Stop stopper den plads.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d070291d74c1,Start all resumes only inactive slots. Redundant Start all / Stop all shows a message.,,Start alle genoptager kun inaktive pladser. Et overflødigt Start alle / Stop alle viser en besked.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:598b7a88b00a,"Change bonuses requires stopping this slot first. Clicking while it runs only shows a message. Confirming makes one change, even if the targets already match.",,"Skift bonusser kræver, at pladsen stoppes først. Klik, mens den kører, viser kun en besked. Bekræft laver ét skift, også selvom målene allerede passer.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6d66df075256,Start/Stop ignores double-clicks for 0.5 s. Start waits for the previous result; a blocking popup names the bonus and reason.,,"Start/Stop ignorerer dobbeltklik i 0,5 s. Start venter på det forrige resultat; en blokerende pop op nævner bonus og årsag.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36f2b9765f4f,5. One speed for all three slots,,5. Én hastighed for alle tre pladser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e7bde8c4659b,The slider sets the gap between the requests of all active slots: 0.05-1 s.,,"Skyderen indstiller pausen mellem forespørgslerne fra alle aktive pladser: 0,05-1 s.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9de16438c8ab,The step is 0.05 s. The default is 0.05 s; the chosen speed is remembered.,,"Trinnet er 0,05 s. Standard er 0,05 s; den valgte hastighed huskes.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d5c946b676e2,With 3 items at 0.1 s each item changes about every 0.3 s.,,"Med 3 genstande på 0,1 s skifter hver genstand cirka hvert 0,3 s.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5da70e95d976,"When one finishes, the others speed up. Server delays can slow them down.",,"Når én er færdig, bliver de andre hurtigere. Serverforsinkelser kan bremse dem.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3afa33527b90,6. Background work and notifications,,6. Baggrundsarbejde og notifikationer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24618314a664,"Close, X or Esc hide BS without stopping rerolling. With BS open, hits produce neither PM nor minimap notifications.",,"Luk, X eller Esc skjuler BS uden at stoppe omrulningen. Med BS åben giver træffere hverken PB eller minikortnotifikation.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f538bf5de720,PM mode hides the status panel by the minimap. Popup and Popup + PM show the counters and speed.,,PB-tilstand skjuler statuspanelet ved minikortet. Pop op og Pop op + PB viser tællere og hastighed.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2bb364852ae8,Start / Stop in the minimap status panel controls all BS slots. Open BS window shows the full window. The notification type is shared by accounts using this client folder.,,"Start / Stop i minikortets statuspanel styrer alle BS-pladser. Åbn BS-vinduet viser hele vinduet. Notifikationstypen deles af konti, der bruger denne klientmappe.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3e56a0b933e2,"Choose Popup, PM or Popup + PM next to Presets. Hit notifications work only in the background. PM briefly pauses rerolls until its quest ends.",,"Vælg Pop op, PB eller Pop op + PB ved siden af Forudindstillinger. Træffernotifikationer virker kun i baggrunden. PB sætter omrulningen kort på pause, til dens quest slutter.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6687301e162b,7. Server confirmations and pauses,,7. Serverbekræftelser og pauser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:77e82fbcdad7,BS waits for a change to be confirmed before it sends the next request.,,"BS venter på bekræftelse af et skift, før den sender næste forespørgsel.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5102e2e12dc1,"BS waits up to 5 s for confirmation, then retries after about 1 s. Three consecutive unconfirmed attempts stop the slot.",,BS venter op op til 5 s på bekræftelse og prøver igen efter cirka 1 s. Tre ubekræftede forsøg i træk stopper pladsen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:814042aabf39,"Trade, storage, shops and NPC dialogs pause BS until the blocking window closes. After death, BS waits for revival.",,"Handel, lager, butikker og NPC-dialoger sætter BS på pause, til det blokerende vindue lukker. Efter døden venter BS på genoplivning.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7063b2330b51,A manual stop is never resumed by itself.,,Et manuelt stop genoptages aldrig af sig selv.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bac71373e000,"8. Teleports, channels and where the item is",,"8. Teleporter, kanaler og hvor genstanden er","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee8adc8b05ed,You can change the channel while rerolling. After a channel change or a teleport BS resumes after 5 s.,,Du kan skifte kanal under omrulning. Efter kanalskift eller teleport fortsætter BS efter 5 s.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:388cf0ae20ca,It resumes only if the item is still in the remembered inventory slot.,,"Den fortsætter kun, hvis genstanden stadig ligger på den huskede inventarplads.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:95803235754f,Picking up the item pauses BS. Returning it to the same cell resumes work without resetting the counter.,,"At tage genstanden op sætter BS på pause. Lægges den tilbage i samme felt, fortsætter arbejdet uden nulstilling af tælleren.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04932c792a29,Moving stops BS. Right-click the same item in EQ to assign it again. You can also drag it onto its BS slot or return it to its previous EQ slot; then click Start.,,Flytning stopper BS. Højreklik på samme genstand i EQ for at tildele den igen. Du kan også trække den over på dens BS-plads eller sætte den tilbage på dens tidligere EQ-plads; klik så på Start.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2e5d86f0bb0d,9. Buying reroll scrolls in the ItemShop,,9. Køb af skifteruller i ItemShop,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:06167a733e07,BS buys 200 scrolls for DC when fewer than 200 remain. It buys while rerolling or processing a manual change.,,"BS køber 200 skriftruller for DC, når der er færre end 200 tilbage. Den køber under omrulning eller et manuelt skift.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aefa361e1a1,Switching it on asks for your consent and shows the price. It applies to this character only.,,At slå det til beder om dit samtykke og viser prisen. Det gælder kun denne figur.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4659fda56295,"A purchase needs free inventory space. If another window blocks it, BS retries every 5 s.",,"Et køb kræver ledig plads i inventaret. Blokerer et andet vindue det, prøver BS igen hvert 5. s.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a06944211a03,"Missing Dragon Coins, or a purchase that left no scrolls in the inventory, stops BS.",,"Manglende Dragemønter eller et køb, der ikke efterlod skriftruller i inventaret, stopper BS.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b5043f7aaea7,10. Presets and quick loading,,10. Forudindstillinger og hurtig indlæsning,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acd8a6efdcfa,"Save preset stores both sets, the chosen bonuses and their values under a name.",,"Gem forudindstilling gemmer begge sæt, de valgte bonusser og deres værdier under et navn.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b243bf210077,Each category has its own presets: PvP can be saved separately for weapons and shoes.,,Hver kategori har sine egne forudindstillinger: PvP kan gemmes separat for våben og sko.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2452bb345e62,Bonus catalog: choose a category card with an icon to view its bonuses and possible values.,,Bonuskatalog: vælg et kategorikort med ikon for at se dets bonusser og mulige værdier.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7c4351752cd,Compatible replacements keep targets. Another matching item needs Start. Restarting clears slots; named presets remain.,,Kompatible erstatninger beholder målene. En anden passende genstand kræver Start. Genstart rydder pladserne; navngivne forudindstillinger bliver.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60e375d80427,"Presets can load before bonuses exist; Start checks targets. In the selection window, right-click adds to a free slot; dragging replaces a taken one.",,"Forudindstillinger kan indlæses, før bonusser findes; Start tjekker målene. I valgvinduet tilføjer højreklik til en ledig plads; træk erstatter en optaget.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1d98532c97fa,"Replacing selected bonuses, overwriting and deleting presets require confirmation. Presets are shared and synchronized between clients using the same folder.",,"Udskiftning af valgte bonusser, overskrivning og sletning af forudindstillinger kræver bekræftelse. Forudindstillinger deles og synkroniseres mellem klienter i samme mappe.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:79c235b30309,"11. Values, colours and counters",,"11. Værdier, farver og tællere","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d72b85b01775,A chosen bonus gets its maximum value; you can type your own.,,En valgt bonus får sin maksimale værdi; du kan skrive din egen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22c2c0499b49,"Ordinary bonuses and values are green, maximum values gold, negative ones red.",,"Almindelige bonusser og værdier er grønne, maksimale værdier guld, negative røde.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b3365cece335,Green in BS and inventory means the targets were reached. Red and yellow cover the full item size (1-3 cells).,,"Grøn i BS og inventaret betyder, at målene er nået. Rød og gul dækker hele genstandens størrelse (1-3 felter).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:554c871e6853,A selected tab has white text and border; inactive sets keep a red background. Counters total usage and purchases.,,En valgt fane har hvid tekst og ramme; inaktive sæt beholder en rød baggrund. Tællere summerer forbrug og køb.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ea24fc455d17,12. Clearing and safe choices,,12. Rydning og sikre valg,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbb5a23f0d66,A right click on the item icon in BS works like Clear: the slot and its targets go.,,Et højreklik på genstandsikonet i BS virker som Ryd: pladsen og dens mål forsvinder.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cc873faf6c4f,"Clear all clears every slot, the used-scroll counter and notifications. Clear dismisses the notification for that slot.",,"Ryd alle rydder alle pladser, tælleren for brugte skriftruller og notifikationer. Ryd fjerner notifikationen for pladsen.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:349b78fb96d3,Presets and inventory items remain after clearing. Full slots also show a popup; identical matches need dragging.,,Forudindstillinger og genstande i inventaret bliver efter rydning. Fulde pladser viser også en pop op; identiske match skal trækkes.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:027e55363c5b,Changing targets or restarting a slot dismisses its previous notification.,,At ændre mål eller genstarte en plads fjerner dens tidligere notifikation.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4df16c3305c4,Red marks the selected item. Yellow with its BS slot number marks the original cell. Closing Info resets the page.,,Rød markerer den valgte genstand. Gul med BS-pladsnummer markerer det oprindelige felt. Luk Info nulstiller siden.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36155d48f460,Equipment,,Udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:893c12be4126,Upgrade and bonus items,,Opgraderings- og bonusgenstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2efc8a84342f,Books and skills,,Bøger og færdigheder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bd629b84235b,Herbs,,Urter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4190d6d0f5df,Consumables,,Forbrugsvarer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:89d13e810ed3,Fishing and mining,,Fiskeri og minedrift,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:515fe2b3ec1a,Quests and events,,Quests og begivenheder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:41def7a0febe,Appearance,,Udseende,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bae7d5be7082,Status,,Status,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:09805f627824,Auto Hunt needs the new metin2client.exe. Start the game from the launcher (PLAY) or run Aktualizuj.bat in the client folder.,,Autojagt kræver den nye metin2client.exe. Start spillet fra launcheren (SPIL) eller kør Aktualizuj.bat i klientmappen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cd6ec7d37764,One-handed swords,,Enhåndssværd,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4fde72a7d89e,Two-handed swords,,Tohåndssværd,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5f590edf2f02,Armour - Warrior,,Rustning - Kriger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36df01164e26,Armour - Ninja,,Rustning - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3c2009041421,Armour - Sura,,Rustning - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6b6613d4fa90,Armour - Shaman,,Rustning - Shaman,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:804652fa1c0a,Helmets - Warrior,,Hjelme - Kriger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:041e863bb094,Helmets - Ninja,,Hjelme - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9b2392000c1f,Helmets - Sura,,Hjelme - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4f235d457fd9,Helmets - Shaman,,Hjelme - Shaman,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d5c8c9d9b6ca,Forgetting books,,Glemselsbøger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:629edbdb7a92,Spirit stones,,Åndesten,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb219dd7bd04,Ores,,Malme,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0f1a3718b995,Usable items,,Brugbare genstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d602fbea98b1,Upgrade items,,Opgraderingsgenstande,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a31539f977b4,Dragon Alchemy,,Dragealkymi,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:41af5f20e30d,"Your metin2client.exe is older than the rest of the client[ENTER](2 inventory pages instead of 4), so the game will not let it in.[ENTER]Close the game and start the launcher again - it replaces the file itself.[ENTER]If that does not help, ask on the project's Discord.",,"Din metin2client.exe er ældre end resten af klienten[ENTER](2 inventarsider i stedet for 4), så spillet lukker den ikke ind.[ENTER]Luk spillet og start launcheren igen - den erstatter selv filen.[ENTER]Hjælper det ikke, så spørg på projektets Discord.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:a4e5a3a9480e,Apply the selected mode to every shop listing.,,Anvend den valgte tilstand på alle varer i butikken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5efd3ff94132,Warning: This changes the price of every listed item!,,Advarsel: Dette ændrer prisen på alle udbudte genstande!,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b525de69e36,Game Master,,Game Master,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:61d5521893ec,%sHorse training is waiting for yang,,%sHestetræning venter på yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:skilldesc:1:2,Three-Way Cut,Trzystronne Cięcie,Trevejssnit,"client: skill tooltip, skill name (skill 1)",done
-c:skilldesc:1:3,Triple Cut,Potrójne Cięcie,Tredobbelt hug,"client: skill tooltip, skill name (M) (skill 1)",done
-c:skilldesc:1:4,Triple Slash,Potrójne Ciachnięcie,Tredobbelt slag,"client: skill tooltip, skill name (G/P) (skill 1)",done
-c:skilldesc:1:5,Cut the enemy with lightning speed.,Tnij wroga z niesamowitą szybkością,Hugger fjenden med lynets hast.,"client: skill tooltip, description (skill 1)",done
-c:skilldesc:1:6,Frontal Slash Attack 3 times,Frontalny atak rozpryskowy 3 razy,Frontalt hug 3 gange,"client: skill tooltip, condition 1 (skill 1)",done
-c:skilldesc:1:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 1)",done
-c:skilldesc:1:17,Total Attack Power %.0f-%.0f,Totalna Siła Ataku %.0f-%.0f,Samlet angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 1) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:2:2,Sword Spin,Wir Miecza,Sværdsnurren,"client: skill tooltip, skill name (skill 2)",done
-c:skilldesc:2:3,Sword Dance,Taniec Miecza,Sværddans,"client: skill tooltip, skill name (M) (skill 2)",done
-c:skilldesc:2:4,Cyclone,Cyklon,Cyklon,"client: skill tooltip, skill name (G/P) (skill 2)",done
-c:skilldesc:2:5,Spin the sword to attack several enemies.,Wiruj mieczem aby atakować wielu przeciwników,Snurrer sværdet for at angribe flere fjender.,"client: skill tooltip, description (skill 2)",done
-c:skilldesc:2:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontalt områdeangreb,"client: skill tooltip, condition 1 (skill 2)",done
-c:skilldesc:2:7,Attack on Multiple Targets,Atak w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 2)",done
-c:skilldesc:2:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 2) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:3:2,Berserk,Berserk,Bersærk,"client: skill tooltip, skill name (skill 3)",done
-c:skilldesc:3:3,Fury,Furia,Raseri,"client: skill tooltip, skill name (M) (skill 3)",done
-c:skilldesc:3:4,Frenzy,Szał,Vanvid,"client: skill tooltip, skill name (G/P) (skill 3)",done
-c:skilldesc:3:5,Only concentrate on attacking.,Koncentracja tylko na ataku,Koncentrer dig kun om at angribe.,"client: skill tooltip, description (skill 3)",done
-c:skilldesc:3:6,Increases Attack Speed,Zwiększa Szybkość Ataku,Øger angrebshastighed,"client: skill tooltip, condition 1 (skill 3)",done
-c:skilldesc:3:7,Increases Moving Speed,Zwiększa Szybkość Ruchu,Øger bevægelseshastighed,"client: skill tooltip, condition 2 (skill 3)",done
-c:skilldesc:3:8,Increases Received Damage,Zwiększa otrzymywane obrażenia,Øger modtaget skade,"client: skill tooltip, condition 3 (skill 3)",done
-c:skilldesc:3:17,Attack Speed +%.0f%%,Szybkość Ataku +%.0f%%,Angrebshastighed +%.0f%%,"client: skill tooltip, effect line 1 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:3:20,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%%,Bevægelseshastighed +%.0f%%,"client: skill tooltip, effect line 2 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:3:23,Received Damage +%.0f%%,Otrzymywane obrażenia +%.0f%%,Modtaget skade +%.0f%%,"client: skill tooltip, effect line 3 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:4:2,Aura of the Sword,Aura Miecza,Sværdets aura,"client: skill tooltip, skill name (skill 4)",done
-c:skilldesc:4:3,Spiritual Sword,Duchowy Miecz,Åndesværd,"client: skill tooltip, skill name (M) (skill 4)",done
-c:skilldesc:4:4,Phantom Sword,Miecz Zjawy,Fantomsværd,"client: skill tooltip, skill name (G/P) (skill 4)",done
-c:skilldesc:4:5,Increases Attack Power for a period of time.,Czasowo zwiększa Siłę Ataku,Øger angrebskraften i en periode.,"client: skill tooltip, description (skill 4)",done
-c:skilldesc:4:6,Increases Attack Power,Zwiększa Siłę Ataku,Øger angrebskraft,"client: skill tooltip, condition 1 (skill 4)",done
-c:skilldesc:4:17,Attack Power +%.0f,Siła Ataku +%.0f,Angrebskraft +%.0f,"client: skill tooltip, effect line 1 (skill 4) | keep: %.0f | max 64 characters",done
-c:skilldesc:5:2,Dash,Szarża,Fremstød,"client: skill tooltip, skill name (skill 5)",done
-c:skilldesc:5:3,Bullet Dash,Uderzenie Pocisku,Kugleangreb,"client: skill tooltip, skill name (M) (skill 5)",done
-c:skilldesc:5:4,Powerful Attack,Potężny Atak,Kraftigt angreb,"client: skill tooltip, skill name (G/P) (skill 5)",done
-c:skilldesc:5:5,You attack as fast as a Bullet,Twój atak jest szybki jak pocisk,Du angriber så hurtigt som en kugle,"client: skill tooltip, description (skill 5)",done
-c:skilldesc:5:6,Powerful Splash Attack,Potężny atak rozpryskowy,Kraftigt områdeangreb,"client: skill tooltip, condition 1 (skill 5)",done
-c:skilldesc:5:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 5) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:5:20,Faint Chance +%.0f%%,Szansa na omdlenie +%.0f%%,Chance for besvimelse +%.0f%%,"client: skill tooltip, effect line 2 (skill 5) | keep: %.0f | max 64 characters",done
-c:skilldesc:16:2,Spirit Strike (W),Duchowe Uderzenie,Åndeslag (W),"client: skill tooltip, skill name (skill 16)",done
-c:skilldesc:16:3,Shockwave,Fala Uderzeniowa,Chokbølge,"client: skill tooltip, skill name (M) (skill 16)",done
-c:skilldesc:16:4,Tsunami Attack,Atak Tsunami,Tsunamiangreb,"client: skill tooltip, skill name (G/P) (skill 16)",done
-c:skilldesc:16:5,Attack enemies directly.,Atakuje centralnie wrogów,Angriber fjender direkte.,"client: skill tooltip, description (skill 16)",done
-c:skilldesc:16:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontalt områdeangreb,"client: skill tooltip, condition 1 (skill 16)",done
-c:skilldesc:16:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 16) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:17:2,Bash,Walnięcie,Slag,"client: skill tooltip, skill name (skill 17)",done
-c:skilldesc:17:3,Tiger Bash,Tygrysie walnięcie,Tigerslag,"client: skill tooltip, skill name (M) (skill 17)",done
-c:skilldesc:17:4,Dragon Bash,Smocze Powalenie,Drageslag,"client: skill tooltip, skill name (G/P) (skill 17)",done
-c:skilldesc:17:5,Attack enemies directly.,Atakuje centralnie wrogów,Angriber fjender direkte.,"client: skill tooltip, description (skill 17)",done
-c:skilldesc:17:6,Straight Splash Attack,Prosty rozpryskowy atak,Lige områdeangreb,"client: skill tooltip, condition 1 (skill 17)",done
-c:skilldesc:17:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 17)",done
-c:skilldesc:17:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 17) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:18:2,Stump,Tąpnięcie,Stamp,"client: skill tooltip, skill name (skill 18)",done
-c:skilldesc:18:3,Lion Stump,Tąpnięcia Lwa,Løvestamp,"client: skill tooltip, skill name (M) (skill 18)",done
-c:skilldesc:18:4,Rhino Stump ,Tąpnięcie Nosorożca,Næsehornsstamp ,"client: skill tooltip, skill name (G/P) (skill 18)",done
-c:skilldesc:18:5,Knock over several enemies.,Zwal z nóg kilku wrogów.,Slår flere fjender omkuld.,"client: skill tooltip, description (skill 18)",done
-c:skilldesc:18:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontalt områdeangreb,"client: skill tooltip, condition 1 (skill 18)",done
-c:skilldesc:18:7,Fainting Effect Chance,Szansa na Omdlenie,Chance for besvimelse,"client: skill tooltip, condition 2 (skill 18)",done
-c:skilldesc:18:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 18) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:18:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Chance for besvimelse %.0f%%,"client: skill tooltip, effect line 2 (skill 18) | keep: %.0f | max 64 characters",done
-c:skilldesc:19:2,Strong Body,Silne Ciało,Stærk krop,"client: skill tooltip, skill name (skill 19)",done
-c:skilldesc:19:3,Iron Body,Żelazne Ciało,Jernkrop,"client: skill tooltip, skill name (M) (skill 19)",done
-c:skilldesc:19:4,Steel Body,Stalowe Ciało,Stålkrop,"client: skill tooltip, skill name (G/P) (skill 19)",done
-c:skilldesc:19:5,Increases defence and you won't fall on the ground.,Zwiększa Obronę i pomaga wygrać,"Øger forsvaret, og du falder ikke omkuld.","client: skill tooltip, description (skill 19)",done
-c:skilldesc:19:6,Increases Defence,Zwiększa Obronę,Øger forsvar,"client: skill tooltip, condition 1 (skill 19)",done
-c:skilldesc:19:7,Decreases Moving Speed.,Zmniejsza Szybkość Ruchu,Sænker bevægelseshastighed.,"client: skill tooltip, condition 2 (skill 19)",done
-c:skilldesc:19:8,You won't fall over,Nigdy nie upadasz,Du falder ikke omkuld,"client: skill tooltip, condition 3 (skill 19)",done
-c:skilldesc:19:17,Defence: +%.0f ,Obrona: +%.0f,Forsvar: +%.0f ,"client: skill tooltip, effect line 1 (skill 19) | keep: %.0f | max 64 characters",done
-c:skilldesc:19:20,Moving Speed: -%.0f,,Bevægelseshastighed: -%.0f,"client: skill tooltip, effect line 2 (skill 19) | keep: %.0f | max 64 characters",done
-c:skilldesc:20:2,Sword Strike,Uderzenie Miecza,Sværdslag,"client: skill tooltip, skill name (skill 20)",done
-c:skilldesc:20:3,Sword Bolt ,Pchnięcie Miecza,Sværdlyn ,"client: skill tooltip, skill name (M) (skill 20)",done
-c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Sværdkast ,"client: skill tooltip, skill name (G/P) (skill 20)",done
-c:skilldesc:20:5,Attack enemies directly.,atakujesz wrogów bezpośrednio,Angriber fjender direkte.,"client: skill tooltip, description (skill 20)",done
-c:skilldesc:20:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 20)",done
-c:skilldesc:20:7,Attack on multiple targets,Atak skierowany na kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 20)",done
-c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Besvimelseseffekt|Kaster målet til jorden.,"client: skill tooltip, condition 3 (skill 20)",done
-c:skilldesc:20:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 20) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:20:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Chance for besvimelse %.0f%%,"client: skill tooltip, effect line 2 (skill 20) | keep: %.0f | max 64 characters",done
-c:skilldesc:31:2,Ambush,Zasadzka,Baghold,"client: skill tooltip, skill name (skill 31)",done
-c:skilldesc:31:3,Stealth Attack,Niewidzialny Atak,Snigangreb,"client: skill tooltip, skill name (M) (skill 31)",done
-c:skilldesc:31:4,Stealth Ambush,Niewidzialna Zasadzka,Snigbagholdt,"client: skill tooltip, skill name (G/P) (skill 31)",done
-c:skilldesc:31:5,Approach an enemy from behind and make a deadly attack.,Podejdź wroga od tyłu i zadaj śmiertelny cios.,Snig dig ind på en fjende bagfra og lav et dødeligt angreb.,"client: skill tooltip, description (skill 31)",done
-c:skilldesc:31:6,Attack Power increases for back hits.,"Siła ataku jest większa, jeśli cios zadano w plecy",Angrebskraften stiger ved slag i ryggen.,"client: skill tooltip, condition 1 (skill 31)",done
-c:skilldesc:31:7,Stealth Bonus,Bonus od Niewidzialności,Snigbonus,"client: skill tooltip, condition 2 (skill 31)",done
-c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,Niveau forlænger Blodtørst|Aktiverer Blodtørst,"client: skill tooltip, condition 3 (skill 31)",done
-c:skilldesc:31:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 31) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:31:20,Bloodthirst Duration: %.0f Sec.,Żądza Krwi: obraż. sztyletów w potwory +%.0f,Blodtørst-varighed: %.0f sek.,"client: skill tooltip, effect line 2 (skill 31) | keep: %.0f | max 64 characters",done
-c:skilldesc:32:2,Fast Attack,Szybki Atak,Hurtigt angreb,"client: skill tooltip, skill name (skill 32)",done
-c:skilldesc:32:3,Body Relocation,Przemieszczanie Ciała,Kropsforflytning,"client: skill tooltip, skill name (M) (skill 32)",done
-c:skilldesc:32:4,Death Strike,Cios Śmierci,Dødsslag,"client: skill tooltip, skill name (G/P) (skill 32)",done
-c:skilldesc:32:5,Approach an enemy fast and make a deadly attack.,Podejdź wroga szybko i zadaj śmiertelny cios,Kom hurtigt hen til en fjende og lav et dødeligt angreb.,"client: skill tooltip, description (skill 32)",done
-c:skilldesc:32:6,Teleport Attack,Atak teleportacyjny,Teleportangreb,"client: skill tooltip, condition 1 (skill 32)",done
-c:skilldesc:32:7,Stealth Bonus,Bonus od niewidzialności,Snigbonus,"client: skill tooltip, condition 2 (skill 32)",done
-c:skilldesc:32:8,Root holds the target in place for up to 2 sec.,Uziemienie unieruchamia cel do 2 sek.,Fastlåsning holder målet på stedet i op til 2 sek.,"client: skill tooltip, condition 3 (skill 32)",done
-c:skilldesc:32:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 32) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:32:20,Root Chance %.0f%%,Szansa na Uziemienie %.0f%%,Chance for fastlåsning %.0f%%,"client: skill tooltip, effect line 2 (skill 32) | keep: %.0f | max 64 characters",done
-c:skilldesc:33:2,Rolling Dagger,Wirujący Sztylet,Rullende dolk,"client: skill tooltip, skill name (skill 33)",done
-c:skilldesc:33:3,Spinning Dagger,Krążący Sztylet,Snurrende dolk,"client: skill tooltip, skill name (M) (skill 33)",done
-c:skilldesc:33:4,Dancing Dagger,Tańczący Sztylet,Dansende dolk,"client: skill tooltip, skill name (G/P) (skill 33)",done
-c:skilldesc:33:5,Whirl around enemies with a dagger.,Wiruj między wrogami ze sztyletem,Hvirvl rundt om fjender med en dolk.,"client: skill tooltip, description (skill 33)",done
-c:skilldesc:33:6,Splash Attack,Atak rozpryskowy,Områdeangreb,"client: skill tooltip, condition 1 (skill 33)",done
-c:skilldesc:33:7,Lasting Poison Attack,Atak czasowy trucizną,Vedvarende giftangreb,"client: skill tooltip, condition 2 (skill 33)",done
-c:skilldesc:33:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 33) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:33:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Chance for forgiftning %.0f%%,"client: skill tooltip, effect line 2 (skill 33) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:2,Stealth,Krycie Się,Snigen,"client: skill tooltip, skill name (skill 34)",done
-c:skilldesc:34:3,Silent Walk,Cichy Chód,Lydløs gang,"client: skill tooltip, skill name (M) (skill 34)",done
-c:skilldesc:34:4,Cloaking,Maskowanie,Tilsløring,"client: skill tooltip, skill name (G/P) (skill 34)",done
-c:skilldesc:34:5,You can hide yourself.,Możesz się ukryć.,Du kan skjule dig.,"client: skill tooltip, description (skill 34)",done
-c:skilldesc:34:6,Stops attacks when used.,"Zatrzymuje ataki, gdy użyty",Stopper angreb ved brug.,"client: skill tooltip, condition 1 (skill 34)",done
-c:skilldesc:34:7,Level raises Bloodthirst,,Niveau øger Blodtørst,"client: skill tooltip, condition 2 (skill 34)",done
-c:skilldesc:34:17,Ambush Bonus Damage: %.0f%% ,Bonus do obrażeń podczas zasadzki %.0f%%,Bonusskade ved baghold: %.0f%% ,"client: skill tooltip, effect line 1 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:20,Bloodthirst +%.0f,,Blodtørst +%.0f,"client: skill tooltip, effect line 2 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:23,Bonus per stack (max. 2x): +%.0f,,Bonus pr. stak (maks. 2x): +%.0f,"client: skill tooltip, effect line 3 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:35:2,Poisonous Cloud,Trująca Chmura,Giftsky,"client: skill tooltip, skill name (skill 35)",done
-c:skilldesc:35:3,Deadly Cloud,Śmiercionośna Chmura,Dødbringende sky,"client: skill tooltip, skill name (M) (skill 35)",done
-c:skilldesc:35:4,Killing Cloud,Zabójcza Chmura,Dræbende sky,"client: skill tooltip, skill name (G/P) (skill 35)",done
-c:skilldesc:35:5,Make poisonous clouds around the enemy and intoxicate them.,Stwórz trującą chmurę wokół wrogów i otruj ich,Lav giftige skyer omkring fjenden og forgift den.,"client: skill tooltip, description (skill 35)",done
-c:skilldesc:35:6,Long Range Attack,Atak zasięgowy,Afstandsangreb,"client: skill tooltip, condition 1 (skill 35)",done
-c:skilldesc:35:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 35)",done
-c:skilldesc:35:8,Lasting Poison Attack,Atak czasowy Trucizną,Vedvarende giftangreb,"client: skill tooltip, condition 3 (skill 35)",done
-c:skilldesc:35:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 35) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:35:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Chance for forgiftning %.0f%%,"client: skill tooltip, effect line 2 (skill 35) | keep: %.0f | max 64 characters",done
-c:skilldesc:46:2,Repetitive Shot,Powtarzalny Strzał,Gentaget skud,"client: skill tooltip, skill name (skill 46)",done
-c:skilldesc:46:3,Multi-Shot,Multi-Strzał,Multiskud,"client: skill tooltip, skill name (M) (skill 46)",done
-c:skilldesc:46:4,Massive Shot,Masywny Strzał,Massivt skud,"client: skill tooltip, skill name (G/P) (skill 46)",done
-c:skilldesc:46:5,Shoot several arrows at one enemy.,Miotaj kilka strzał naraz w twojego wroga.,Skyder flere pile mod én fjende.,"client: skill tooltip, description (skill 46)",done
-c:skilldesc:46:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 46)",done
-c:skilldesc:46:7,Several Attacks,Kilka Ataków,Flere angreb,"client: skill tooltip, condition 2 (skill 46)",done
-c:skilldesc:46:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory)|Powala cel na ziemie,Angreb på flere mål (monstre),"client: skill tooltip, condition 3 (skill 46)",done
-c:skilldesc:46:17,Attack Power (1 arrow) %.0f-%.0f ,Siła ataku (1 strzał) %.0f-%.0f,Angrebskraft (1 pil) %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 46) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:46:20,shot arrows: %.0f,Wystrzelone strzały: %.0f ,affyrede pile: %.0f,"client: skill tooltip, effect line 2 (skill 46) | keep: %.0f | max 64 characters",done
-c:skilldesc:46:23,Chance of Piercing Shot +%.0f%%,Szansa na przeszywający strzał +%.0f%%,Chance for gennembrydende skud +%.0f%%,"client: skill tooltip, effect line 3 (skill 46) | keep: %.0f | max 64 characters",done
-c:skilldesc:47:2,Spark,Iskrzące Uderzenie,Gnist,"client: skill tooltip, skill name (skill 47)",done
-c:skilldesc:47:3,Light Beam,Snop Światła,Lysstråle,"client: skill tooltip, skill name (M) (skill 47)",done
-c:skilldesc:47:4,Lightning Blast,Błyskawica,Lyneksplosion,"client: skill tooltip, skill name (G/P) (skill 47)",done
-c:skilldesc:47:5,You cause heavy damage to your opponent by suddenly radiating light.,Zrań przeciwnika za pomocą promienia świetlnego.,Du giver modstanderen svær skade ved pludselig at udstråle lys.,"client: skill tooltip, description (skill 47)",done
-c:skilldesc:47:6,Area of Effect,Obszar Efektu,Virkningsområde,"client: skill tooltip, condition 1 (skill 47)",done
-c:skilldesc:47:7,Fainting Effect Chance,Szansa na Omdlenie,Chance for besvimelse,"client: skill tooltip, condition 2 (skill 47)",done
-c:skilldesc:47:8,Knockback,Odrzut,Tilbageslag,"client: skill tooltip, condition 3 (skill 47)",done
-c:skilldesc:47:17,Attack Power %.0f-%.0f,Siła Ataku: %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 47) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:47:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Chance for besvimelse: %.0f%%,"client: skill tooltip, effect line 2 (skill 47) | keep: %.0f | max 64 characters",done
-c:skilldesc:48:2,Fire Arrow,Ognista Strzała,Ildpil,"client: skill tooltip, skill name (skill 48)",done
-c:skilldesc:48:3,Burning Arrow,Płonąca Strzała,Brændende pil,"client: skill tooltip, skill name (M) (skill 48)",done
-c:skilldesc:48:4,Flame Arrow,Strzała Lawy,Flammepil,"client: skill tooltip, skill name (G/P) (skill 48)",done
-c:skilldesc:48:5,Ignite the arrow.,Podpala strzałę,Sæt ild til pilen.,"client: skill tooltip, description (skill 48)",done
-c:skilldesc:48:6,Long Range Attack,Atak zasięgowy,Afstandsangreb,"client: skill tooltip, condition 1 (skill 48)",done
-c:skilldesc:48:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 48)",done
-c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Ildangreb|Kaster monstre til jorden.|Chance for besvimelse hos monstre,"client: skill tooltip, condition 3 (skill 48)",done
-c:skilldesc:48:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 48) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:48:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Chance for vedvarende ild %.0f%%,"client: skill tooltip, effect line 2 (skill 48) | keep: %.0f | max 64 characters",done
-c:skilldesc:49:2,Feather Walk,Bezszelestny Chód,Fjergang,"client: skill tooltip, skill name (skill 49)",done
-c:skilldesc:49:3,Wind Walk,Chód Wiatru,Vindgang,"client: skill tooltip, skill name (M) (skill 49)",done
-c:skilldesc:49:4,God's speed,Chód Boga,Gudernes fart,"client: skill tooltip, skill name (G/P) (skill 49)",done
-c:skilldesc:49:5,Make your body lighter to increase moving speed.,"Zmniejsza wagę ciała, aby zwiększyć szybkość",Gør din krop lettere for at øge bevægelseshastigheden.,"client: skill tooltip, description (skill 49)",done
-c:skilldesc:49:6,Increases moving speed,Zwiększa Szybkośc Ruchu,Øger bevægelseshastighed,"client: skill tooltip, condition 1 (skill 49)",done
-c:skilldesc:49:7,Increases Endurance regeneration in combat,Zwiększa regenerację staminy w walce,Øger regenerering af udholdenhed i kamp,"client: skill tooltip, condition 2 (skill 49)",done
-c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,Svagere monstre hører ikke dine skridt|Maks. bevægelseshastighed stiger til 220.,"client: skill tooltip, condition 3 (skill 49)",done
-c:skilldesc:49:17,Moving Speed +%.0f ,Szybkość Ruchu +%.0f,Bevægelseshastighed +%.0f ,"client: skill tooltip, effect line 1 (skill 49) | keep: %.0f | max 64 characters",done
-c:skilldesc:50:2,Poison Arrow,Trująca Strzała,Giftpil,"client: skill tooltip, skill name (skill 50)",done
-c:skilldesc:50:3,Toxic Arrow,Toksyczna Strzała,Giftpil,"client: skill tooltip, skill name (M) (skill 50)",done
-c:skilldesc:50:4,Deadly Arrow,Śmiercionośna Strzała,Dødbringende pil,"client: skill tooltip, skill name (G/P) (skill 50)",done
-c:skilldesc:50:5,Coat the arrow with powerful poison.,Nasącz strzałę silną trucizną.,Overtræk pilen med stærk gift.,"client: skill tooltip, description (skill 50)",done
-c:skilldesc:50:6,Long-Range Attack,Atak na odległość,Afstandsangreb,"client: skill tooltip, condition 1 (skill 50)",done
-c:skilldesc:50:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 50)",done
-c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Vedvarende giftangreb|Kaster målet til jorden.|Chance for besvimelse hos monstre,"client: skill tooltip, condition 3 (skill 50)",done
-c:skilldesc:50:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 50) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:50:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Chance for forgiftning %.0f%%,"client: skill tooltip, effect line 2 (skill 50) | keep: %.0f | max 64 characters",done
-c:skilldesc:51:2,Arrow Shower,Deszcz Strzał,Pileregn,"client: skill tooltip, skill name (skill 51)",done
-c:skilldesc:51:3,Dynamic Arrow,Mrowie Strzał,Dynamisk pil,"client: skill tooltip, skill name (M) (skill 51)",done
-c:skilldesc:51:4,Arrow Rain,Prysznic Strzał,Pileregn,"client: skill tooltip, skill name (G/P) (skill 51)",done
-c:skilldesc:51:5,Shoot several arrows at several enemies. ,Miotaj kilka strzał w kilku wrogów.,Skyder flere pile mod flere fjender. ,"client: skill tooltip, description (skill 51)",done
-c:skilldesc:51:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 51)",done
-c:skilldesc:51:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 51)",done
-c:skilldesc:51:17,Attack Power %.0f-%0.f ,Siła Ataku %.0f-%0.f,Angrebskraft %.0f-%0.f ,"client: skill tooltip, effect line 1 (skill 51) | keep: %.0f %0.f | max 64 characters",done
-c:skilldesc:51:20,Max. number of targets: %.0f,Maks. ilość celów: %.0f,Maks. antal mål: %.0f,"client: skill tooltip, effect line 2 (skill 51) | keep: %.0f | max 64 characters",done
-c:skilldesc:61:2,Finger Strike,Uderzenie Palcem,Fingerslag,"client: skill tooltip, skill name (skill 61)",done
-c:skilldesc:61:3,Burning Finger Strike,Uderzenie Płonącego Palca,Brændende fingerslag,"client: skill tooltip, skill name (M) (skill 61)",done
-c:skilldesc:61:4,Finger Explosion ,Eksplozja Palca,Fingereksplosion ,"client: skill tooltip, skill name (G/P) (skill 61)",done
-c:skilldesc:61:5,Cause a big explosion with your fingertips. ,Stwórz dużą eksplozję swoimi koniuszkami palców.,Skab en stor eksplosion med fingerspidserne. ,"client: skill tooltip, description (skill 61)",done
-c:skilldesc:61:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontalt områdeangreb,"client: skill tooltip, condition 1 (skill 61)",done
-c:skilldesc:61:7,Opponent's defence is ignored,Ignoruje obronę wroga,Modstanderens forsvar ignoreres,"client: skill tooltip, condition 2 (skill 61)",done
-c:skilldesc:61:8,Intelligence Bonus,Bonus od Inteligencji,Intelligensbonus,"client: skill tooltip, condition 3 (skill 61)",done
-c:skilldesc:61:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 61) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:61:20,Chance of Piercing Hit %.0f%%,Szansa na cios przebicia %.0f%%,Chance for gennembrydende slag %.0f%%,"client: skill tooltip, effect line 2 (skill 61) | keep: %.0f | max 64 characters",done
-c:skilldesc:61:23,Faint Chance +%0.f%%,Szansa na omdlenie +%0.f%%,Chance for besvimelse +%0.f%%,"client: skill tooltip, effect line 3 (skill 61) | keep: %0.f | max 64 characters",done
-c:skilldesc:62:2,Dragon Swirl ,Smoczy Wir,Dragehvirvel ,"client: skill tooltip, skill name (skill 62)",done
-c:skilldesc:62:3,Tornado Swirl ,Wir Tornada,Tornadohvirvel ,"client: skill tooltip, skill name (M) (skill 62)",done
-c:skilldesc:62:4,Whirlwind,Trąba Powietrzna,Hvirvelvind,"client: skill tooltip, skill name (G/P) (skill 62)",done
-c:skilldesc:62:5,Create a strong tornado to defeat several enemies.,"Stwórz potężne tornado, aby pokonać kilku wrogów",Skab en stærk tornado for at besejre flere fjender.,"client: skill tooltip, description (skill 62)",done
-c:skilldesc:62:6,Splash Attack,Atak rozpryskowy,Områdeangreb,"client: skill tooltip, condition 1 (skill 62)",done
-c:skilldesc:62:7,Opponent's escape is ignored,Ignoruje ucieczkę wroga,Modstanderens undvigelse ignoreres,"client: skill tooltip, condition 2 (skill 62)",done
-c:skilldesc:62:8,Intelligence Bonus,Bonus od Inteligencji,Intelligensbonus,"client: skill tooltip, condition 3 (skill 62)",done
-c:skilldesc:62:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 62) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:62:20,Chance to ignore an opponent's escape %.0f%%,Szansa na Ignorowanie ucieczki wroga %.0f%%,Chance for at ignorere modstanderens undvigelse %.0f%%,"client: skill tooltip, effect line 2 (skill 62) | keep: %.0f | max 64 characters",done
-c:skilldesc:63:2,Enchanted Blade ,Czarowane Ostrze,Fortryllet klinge ,"client: skill tooltip, skill name (skill 63)",done
-c:skilldesc:63:3,Enchanted Sword,Czarowany Miecz,Fortryllet sværd,"client: skill tooltip, skill name (M) (skill 63)",done
-c:skilldesc:63:4,Ghost Blade,Duchowe Ostrze,Spøgelsesklinge,"client: skill tooltip, skill name (G/P) (skill 63)",done
-c:skilldesc:63:5,Endow your blade with a powerful ghost.,Wzmocnij swoje ostrze potężnym duchem.,Giv din klinge en mægtig ånd.,"client: skill tooltip, description (skill 63)",done
-c:skilldesc:63:6,Increases Attack Power,Zwiększa Siłę Ataku,Øger angrebskraft,"client: skill tooltip, condition 1 (skill 63)",done
-c:skilldesc:63:7,Intelligence Bonus,Bonus od Inteligencji,Intelligensbonus,"client: skill tooltip, condition 2 (skill 63)",done
-c:skilldesc:63:8,Steal Life from target,Kradzież życia,Stjæler liv fra målet,"client: skill tooltip, condition 3 (skill 63)",done
-c:skilldesc:63:17,Attack Power +%.1f ,Siła Ataku +%.0f,Angrebskraft +%.1f ,"client: skill tooltip, effect line 1 (skill 63) | keep: %.1f | max 64 characters",done
-c:skilldesc:63:20,Life thief: %.0f%% of damage,Złodziej życia: %.0f%% obrażeń,Livstyveri: %.0f%% af skaden,"client: skill tooltip, effect line 2 (skill 63) | keep: %.0f | max 64 characters",done
-c:skilldesc:64:2,Fear,Strach,Frygt,"client: skill tooltip, skill name (skill 64)",done
-c:skilldesc:64:3,Great Fear,Wielki Strach,Stor frygt,"client: skill tooltip, skill name (M) (skill 64)",done
-c:skilldesc:64:4,Terror,Terror,Rædsel,"client: skill tooltip, skill name (G/P) (skill 64)",done
-c:skilldesc:64:5,Weakens the enemies abilities,"Zmniejsza umiejętności wroga, który cię atakuje",Svækker fjendernes evner,"client: skill tooltip, description (skill 64)",done
-c:skilldesc:64:6,Decreases the opponent's Attack Power,Zmniejsza siłę ataku przeciwnika,Sænker modstanderens angrebskraft,"client: skill tooltip, condition 1 (skill 64)",done
-c:skilldesc:64:7,Increase chance that opponents miss the target,"Zwiększa szansę, że przeciwnik nie trafi w cel","Øger chancen for, at modstandere rammer forbi","client: skill tooltip, condition 2 (skill 64)",done
-c:skilldesc:64:8,It's only activated when you get a hit,"Aktywowane tylko wtedy, gdy zostaniesz trafiony","Aktiveres kun, når du bliver ramt","client: skill tooltip, condition 3 (skill 64)",done
-c:skilldesc:64:17,Opponent Attack Power -%.0f%%,Siła ataku wroga -%.0f%%,Modstanderens angrebskraft -%.0f%%,"client: skill tooltip, effect line 1 (skill 64) | keep: %.0f | max 64 characters",done
-c:skilldesc:64:20,Opponent Miss Chance %.0f%%,Niepowodzenia przeciwnika %.0f%%,Modstanderens chance for at ramme forbi %.0f%%,"client: skill tooltip, effect line 2 (skill 64) | keep: %.0f | max 64 characters",done
-c:skilldesc:65:2,Enchanted Armour ,Czarowana Zbroja,Fortryllet rustning ,"client: skill tooltip, skill name (skill 65)",done
-c:skilldesc:65:3,Stronger Enchanted Armour,Silniejsza Czarowana Zbroja,Stærkere fortryllet rustning,"client: skill tooltip, skill name (M) (skill 65)",done
-c:skilldesc:65:4,Armour of Darkness,Zbroja Ciemności,Mørkets rustning,"client: skill tooltip, skill name (G/P) (skill 65)",done
-c:skilldesc:65:5,Protect your body with dark armour. ,Chroń swoje ciało mrocznym pancerzem.,Beskyt din krop med mørk rustning. ,"client: skill tooltip, description (skill 65)",done
-c:skilldesc:65:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Kaster skade tilbage på angriberen,"client: skill tooltip, condition 1 (skill 65)",done
-c:skilldesc:65:7,Increases Defence,Zwiększa Obronę,Øger forsvar,"client: skill tooltip, condition 2 (skill 65)",done
-c:skilldesc:65:8,Intelligence Bonus,Bonus od Inteligencji,Intelligensbonus,"client: skill tooltip, condition 3 (skill 65)",done
-c:skilldesc:65:17,Defence +%.0f ,Obrona +%.0f,Forsvar +%.0f ,"client: skill tooltip, effect line 1 (skill 65) | keep: %.0f | max 64 characters",done
-c:skilldesc:65:20,Reflected Close-Combat Damage: %.0f%%,Odbicie ataku fizycznego: %.0f%%,Tilbagekastet nærkampsskade: %.0f%%,"client: skill tooltip, effect line 2 (skill 65) | keep: %.0f | max 64 characters",done
-c:skilldesc:66:2,Dispel,Rozproszenie Magii,Ophævelse,"client: skill tooltip, skill name (skill 66)",done
-c:skilldesc:66:3,Stronger Dispel,Silniejsze Rozproszenie Magii,Stærkere ophævelse,"client: skill tooltip, skill name (M) (skill 66)",done
-c:skilldesc:66:4,Dispel Attack,Szturm Rozproszenia Magii,Ophævelsesangreb,"client: skill tooltip, skill name (G/P) (skill 66)",done
-c:skilldesc:66:5,Remove all opponent's supporting effects.,Usuń wszystkie efekty wspierające wroga.,Fjerner alle modstanderens støtteeffekter.,"client: skill tooltip, description (skill 66)",done
-c:skilldesc:66:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 66)",done
-c:skilldesc:66:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 66)",done
-c:skilldesc:66:8,All effects on opponent are removed,Usuwa efekty przeciwnika,Alle effekter på modstanderen fjernes,"client: skill tooltip, condition 3 (skill 66)",done
-c:skilldesc:66:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 66) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:66:20,Dispel Chance %.0f%%,Szansa Na Rozproszenie %.0f%%,Chance for ophævelse %.0f%%,"client: skill tooltip, effect line 2 (skill 66) | keep: %.0f | max 64 characters",done
-c:skilldesc:76:2,Dark Strike,Mroczne Uderzenie,Mørkt slag,"client: skill tooltip, skill name (skill 76)",done
-c:skilldesc:76:3,Ghost Strike,Mroczny Cios,Spøgelsesslag,"client: skill tooltip, skill name (M) (skill 76)",done
-c:skilldesc:76:4,Dark Explosion,Czarny Atak,Mørk eksplosion,"client: skill tooltip, skill name (G/P) (skill 76)",done
-c:skilldesc:76:5,Throw the Dark Force to damage enemies. ,"Miotaj mrocznymi siłami, aby ranić wrogów.",Kast Den Mørke Kraft for at skade fjender. ,"client: skill tooltip, description (skill 76)",done
-c:skilldesc:76:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 76)",done
-c:skilldesc:76:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 76)",done
-c:skilldesc:76:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 76) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:77:2,Flame Strike,Ogniste Uderzenie,Flammeslag,"client: skill tooltip, skill name (skill 77)",done
-c:skilldesc:77:3,Burning Strike,Płonące Uderzenie,Brændende slag,"client: skill tooltip, skill name (M) (skill 77)",done
-c:skilldesc:77:4,Flame Detonation,Ognista Detonacja,Flammedetonation,"client: skill tooltip, skill name (G/P) (skill 77)",done
-c:skilldesc:77:5,Burn enemies with an explosion. ,Spal wrogów eksplozją.,Brænd fjender med en eksplosion. ,"client: skill tooltip, description (skill 77)",done
-c:skilldesc:77:6,Splash Attack,Atak rozpryskowy,Områdeangreb,"client: skill tooltip, condition 1 (skill 77)",done
-c:skilldesc:77:7,Fire Attack,Atak ogniem,Ildangreb,"client: skill tooltip, condition 2 (skill 77)",done
-c:skilldesc:77:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 77) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:77:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Chance for vedvarende ild %.0f%%,"client: skill tooltip, effect line 2 (skill 77) | keep: %.0f | max 64 characters",done
-c:skilldesc:78:2,Flame Spirit,Ognisty Duch,Flammeånd,"client: skill tooltip, skill name (skill 78)",done
-c:skilldesc:78:3,Flame Array,Ogniste Szeregi,Flammerække,"client: skill tooltip, skill name (M) (skill 78)",done
-c:skilldesc:78:4,Flame Explosion,Ognista Eksplozja,Flammeeksplosion,"client: skill tooltip, skill name (G/P) (skill 78)",done
-c:skilldesc:78:5,Call a Flame Spirit.,Przywołaj Ognistego Ducha,Tilkald en Flammeånd.,"client: skill tooltip, description (skill 78)",done
-c:skilldesc:78:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 78)",done
-c:skilldesc:78:7,Marked/Random Target,Zaznaczony/Losowy cel,Markeret/tilfældigt mål,"client: skill tooltip, condition 2 (skill 78)",done
-c:skilldesc:78:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory),Angreb på flere mål (monstre),"client: skill tooltip, condition 3 (skill 78)",done
-c:skilldesc:78:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 78) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:79:2,Dark Protection,Mroczna Ochrona,Mørk beskyttelse,"client: skill tooltip, skill name (skill 79)",done
-c:skilldesc:79:3,Dark Membrane,Mroczna Membrana,Mørk hinde,"client: skill tooltip, skill name (M) (skill 79)",done
-c:skilldesc:79:4,Protection of Dark Lord,Protekcja Mrocznego Lorda,Den Mørke Herres beskyttelse,"client: skill tooltip, skill name (G/P) (skill 79)",done
-c:skilldesc:79:5,Protects you with the Dark Force and converts physical damage into SP.,Ochrania Cię mroczną siłą i przekierowuje % obrażeń PŻ na PE.,Beskytter dig med Den Mørke Kraft og omdanner fysisk skade til SP.,"client: skill tooltip, description (skill 79)",done
-c:skilldesc:79:6,Reduces Magic Damage,Zmniejsza obrażenia od magii,Sænker magisk skade,"client: skill tooltip, condition 1 (skill 79)",done
-c:skilldesc:79:7,Increases Defence,Zwiększa obronę,Øger forsvar,"client: skill tooltip, condition 2 (skill 79)",done
-c:skilldesc:79:17,Redirected Damage Reduction %.0f%%,Obrona +%.0f,Reduktion af omdirigeret skade %.0f%%,"client: skill tooltip, effect line 1 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:79:20,Defence +%.0f,Zmniejszenie przekierowanych Obrażeń %.1f%%,Forsvar +%.0f,"client: skill tooltip, effect line 2 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:79:23,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,Skadesomdirigering %.0f%%,"client: skill tooltip, effect line 3 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:80:2,Spirit Strike (S),Duchowy Cios,Åndeslag (S),"client: skill tooltip, skill name (skill 80)",done
-c:skilldesc:80:3,Soul Strike,Cios Duszy,Sjæleslag,"client: skill tooltip, skill name (M) (skill 80)",done
-c:skilldesc:80:4,Spirit Assault,Duchowa Napaść,Åndeangreb,"client: skill tooltip, skill name (G/P) (skill 80)",done
-c:skilldesc:80:5,Throw Dark Spirits to damage enemies.,"Miotaj mrocznymi duchami, aby ranić wrogów.",Kast Mørke Ånder for at skade fjender.,"client: skill tooltip, description (skill 80)",done
-c:skilldesc:80:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 80)",done
-c:skilldesc:80:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 80)",done
-c:skilldesc:80:8,Opponents are slowed down,Spowalnia przeciwników,Modstandere bliver sinket,"client: skill tooltip, condition 3 (skill 80)",done
-c:skilldesc:80:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 80) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:80:20,Chance of slowing down %.1f%%,Szansa na Spowolnienie: %.1f%% ,Chance for sinkning %.1f%%,"client: skill tooltip, effect line 2 (skill 80) | keep: %.1f | max 64 characters",done
-c:skilldesc:81:2,Dark Orb,Mroczna Sfera,Mørk kugle,"client: skill tooltip, skill name (skill 81)",done
-c:skilldesc:81:3,Dark Globe,Mroczna Kula,Mørk klode,"client: skill tooltip, skill name (M) (skill 81)",done
-c:skilldesc:81:4,Dark Sphere,Mroczny Glob,Mørk kugle,"client: skill tooltip, skill name (G/P) (skill 81)",done
-c:skilldesc:81:5,Throw Dark Orbs to damage enemies.,"Miotaj mrocznymi kulami, aby ranić wrogów.",Kast Mørke Kugler for at skade fjender.,"client: skill tooltip, description (skill 81)",done
-c:skilldesc:81:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 81)",done
-c:skilldesc:81:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 81)",done
-c:skilldesc:81:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 81) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:91:2,Flying Talisman,Latający Talizman,Flyvende talisman,"client: skill tooltip, skill name (skill 91)",done
-c:skilldesc:91:3,Dragon Throw,Rzut Smoka,Dragekast,"client: skill tooltip, skill name (M) (skill 91)",done
-c:skilldesc:91:4,Massive Throw,Potężny Rzut,Massivt kast,"client: skill tooltip, skill name (G/P) (skill 91)",done
-c:skilldesc:91:5,Throw a talisman to damage enemies.,"Miotaj talizmanami, aby ranić wrogów.",Kast en talisman for at skade fjender.,"client: skill tooltip, description (skill 91)",done
-c:skilldesc:91:6,Long-Range Attack,Atak z dystansu,Afstandsangreb,"client: skill tooltip, condition 1 (skill 91)",done
-c:skilldesc:91:7,Attack on multiple targets,Atak skierowany w kilka celów,Angreb på flere mål,"client: skill tooltip, condition 2 (skill 91)",done
-c:skilldesc:91:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 91) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:92:2,Shooting Dragon ,Strzelający Smok,Skydende drage ,"client: skill tooltip, skill name (skill 92)",done
-c:skilldesc:92:3,Attacking Dragon,Atakujący Smok,Angribende drage,"client: skill tooltip, skill name (M) (skill 92)",done
-c:skilldesc:92:4,Rising Dragon,Wznoszący Smok,Stigende drage,"client: skill tooltip, skill name (G/P) (skill 92)",done
-c:skilldesc:92:5,Shoot a dragon figure to attack enemies directly.,Strzelaj smoczymi podobiznami i atakuj wrogów.,Skyd en dragefigur for at angribe fjender direkte.,"client: skill tooltip, description (skill 92)",done
-c:skilldesc:92:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontalt områdeangreb,"client: skill tooltip, condition 1 (skill 92)",done
-c:skilldesc:92:7,Lasting Fire Damage,Ognisty czasowy atak,Vedvarende ildskade,"client: skill tooltip, condition 2 (skill 92)",done
-c:skilldesc:92:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magisk angrebskraft %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 92) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:92:20,Chance of lasting fire %.0f%%,Szansa na Płonięcie %.0f%%,Chance for vedvarende ild %.0f%%,"client: skill tooltip, effect line 2 (skill 92) | keep: %.0f | max 64 characters",done
-c:skilldesc:93:2,Dragon's Roar,Smoczy Skowyt,Dragebrøl,"client: skill tooltip, skill name (skill 93)",done
-c:skilldesc:93:3,Dragon's Scream,Krzyk Smoka,Dragens skrig,"client: skill tooltip, skill name (M) (skill 93)",done
-c:skilldesc:93:4,Dragon's Cry,Płacz Smoka,Dragens råb,"client: skill tooltip, skill name (G/P) (skill 93)",done
-c:skilldesc:93:5,Attack enemies with a dragon figure.,Atakuj wrogów smoczymi podobiznami.,Angriber fjender med en dragefigur.,"client: skill tooltip, description (skill 93)",done
-c:skilldesc:93:6,Splash Attack,Atak rozpryskowy,Områdeangreb,"client: skill tooltip, condition 1 (skill 93)",done
-c:skilldesc:93:7,Lasting Fire Damage,Ognisty czasowy atak,Vedvarende ildskade,"client: skill tooltip, condition 2 (skill 93)",done
-c:skilldesc:93:8,Activates Dragon's Wrath,Aktywuje Smoczy Gniew,Aktiverer Dragens vrede,"client: skill tooltip, condition 3 (skill 93)",done

@@ -1,4 +1,5 @@
 id,english,polski,translation,notes,status
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Omlouváme se za nepříjemnosti.,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),Požádat o nový kód (až 2krát),client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742POZOR!|r Bezpečnostní kontrola!,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,Game master požádal o ověření.,client: window texts (uiScriptLocale),done
@@ -14,7 +15,7 @@ c:locale_interface:GM_BAN_DURATION,Ban duration,,Délka banu,client: window text
 c:locale_interface:GM_BAN_DAYS_PLACEHOLDER,in days,,ve dnech,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_WHY,WHY?!,,PROČ?!,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,Zadej důvod...,client: window texts (uiScriptLocale),done
-c:locale_interface:GM_BAN_BUTTON,Ban,,Ban,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_BUTTON,Ban,,Ban,client: window texts (uiScriptLocale),check
 c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,Zbývající čas: 30 s,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Přezdívka: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,Kód: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
@@ -223,7 +224,7 @@ c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to mov
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,Průměrná cena: |cFF99FF99|hNačítání...|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,Průměrná cena: |cFFFF9999|hNedostupná|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,Průměrná cena: |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
-c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,check
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|hNeznámé|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,Dekorace obchodu,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,Dekorace obchodu č. {},client: offline shop and market | keep: {},done
@@ -246,7 +247,7 @@ c:wiki_game:WIKI_ALL_CLASSES,All classes,Wszystkie,Všechny třídy,client: the 
 c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,Předměty,client: the in-game Wiki,done
 c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,Dostupné od,client: the in-game Wiki,done
 c:wiki_game:WIKI_BACK,Back,Wstecz,Zpět,client: the in-game Wiki,done
-c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,done
+c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,check
 c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bossové,client: the in-game Wiki,done
 c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,Eventoví bossové,client: the in-game Wiki,done
 c:wiki_game:WIKI_CATEGORY,Category,Kategoria,Kategorie,client: the in-game Wiki,done
@@ -263,7 +264,7 @@ c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Kostým,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Kostýmy,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Vlasy,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Šerpa,client: the in-game Wiki,done
-c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,check
 c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,Poškození: %d - %d,client: the in-game Wiki | keep: %d %d,done
 c:wiki_game:WIKI_DROP,Drop,Drop,Zahodit,client: the in-game Wiki,done
 c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,Seznam pádů: %s,client: the in-game Wiki | keep: %s,done
@@ -283,20 +284,20 @@ c:wiki_game:WIKI_EQUIPMENT_HELMET,Helmets,Hełmy,Helmy,client: the in-game Wiki,
 c:wiki_game:WIKI_EQUIPMENT_NECKLACE,Necklace,Naszyjniki,Náhrdelník,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHIELD,Shields,Tarcze,Štíty,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHOES,Shoes,Buty,Boty,client: the in-game Wiki,done
-c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,check
 c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Zbraně,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Zkušenosti,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Rozbalit,client: the in-game Wiki,done
 c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,Základní šance ze souborů serveru - Ctrl+Alt+pravé tlačítko otevře stránku v prohlížeči,client: the in-game Wiki,done
-c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
-c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,Max. HP: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
+c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,Max. HP: %d,client: the in-game Wiki | keep: %d,check
 c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Informace o vylepšení: %s,client: the in-game Wiki | keep: %s,done
 c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,Obchod s předměty,client: the in-game Wiki,done
 c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Název předmětu,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Šaman,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Válečník,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Úroveň %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Úroveň %d,client: the in-game Wiki | keep: %d,done
@@ -345,12 +346,12 @@ c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,EXP,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_HP,HP,PŻ,HP,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Úroveň,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Zdroje,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
 c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Systémy,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
 c:wiki_game:WIKI_TAG_KING,KING,KRÓL,KRÁL,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,check
 c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Systém Wiki,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Šperky,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alchymie,client: the in-game Wiki,done
@@ -383,7 +384,14 @@ c:wiki_game:WIKI_OTHER,Other,Inne,Ostatní,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Událost serveru (když je aktivní),client: the in-game Wiki,done
 c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Událost měsíčního svitu: pády závisí na nastavení události.,client: the in-game Wiki,done
 c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Tanakovo ucho za 1 fialovou ebenovou truhlu.,client: the in-game Wiki,done
-c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:wiki_game:WIKI_FISHING_ANY_ROD,any fishing rod,dowolna wędka,libovolný rybářský prut,client: the in-game Wiki,done
+c:wiki_game:WIKI_FISHING_ROD_OR_BETTER,%s or better,%s lub lepsza,%s nebo lepší,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_OR_WEAKER,%s or weaker,%s lub słabsza,%s nebo slabší,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_RANGE,%s to %s,%s do %s,%s až %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_BONUS,catch bonus %d or more,premia połowu od %d,bonus k úlovku %d nebo více,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_FISHING_SETUP,Catch bonus = rod + bait; %s with %s is enough.,Premia połowu = wędka + przynęta; wystarczy %s i %s.,Bonus k úlovku = prut + návnada; stačí %s s %s.,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_POOL_NOTE,Default pool; a world may have its own fishing settings.,Pula domyślna; świat może mieć własne ustawienia połowu.,Výchozí sada; svět může mít vlastní nastavení rybaření.,client: the in-game Wiki,done
+c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,nastavení boje,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,Zkratku automatického lovu nelze uložit.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b6c37aaf88b8,Auto Hunt - toggle on / off,Auto Łowy - włącz / wyłącz,Automatický lov - zapnout / vypnout,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -429,8 +437,8 @@ c:pbt:257c1c4b5f9a,Name A-Z,Nazwa A-Z,Jméno A-Z,"client: our windows (companion
 c:pbt:851085e076f7,Seller A-Z,Sprzedawca A-Z,Prodejce A-Z,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f0e6ea4e867f,Quantity: low to high,Ilosc: rosnaco,Množství: od nejnižšího,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8fc208b783fb,Quantity: high to low,Ilosc: malejaco,Množství: od nejvyššího,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f3eff5cf2cf1,Max. HP,Max PZ,Max. HP,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8c3e41c399c1,Max. SP,Max PM,Max. SP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3eff5cf2cf1,Max. HP,Max PZ,Max. HP,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:8c3e41c399c1,Max. SP,Max PM,Max. SP,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:636fe3e9cb87,Vitality (VIT),Witalnosc (WIT),Vitalita (VIT),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a7281c4f2ca8,Intelligence (INT),Inteligencja (INT),Inteligence (INT),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6094f7875c9b,Strength (STR),Sila (STR),Síla (STR),"client: our windows (companion, Auto Hunt, status lines)",done
@@ -476,7 +484,21 @@ c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,Odolnost: magie,"client: o
 c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,Pohlcení HP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:600f7953e765,SP absorption,Kradziez PM,Pohlcení SP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,Bonus k pádu Yangů,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:9b0b5a5aca35,Strong against monsters,Bonus vs potwory,Silný proti příšerám,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:befebe89c1fe,Strong against Warriors,Bonus vs Wojownik,Silný proti válečníkům,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2f0b70872a8,Strong against Ninjas,Bonus vs Ninja,Silný proti ninjům,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3e149af80b0,Strong against Suras,Bonus vs Sura,Silný proti surům,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea365cedf015,Strong against Shamans,Bonus vs Szaman,Silný proti šamanům,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:062864d36bdc,Resistance: Warriors,Odpornosc: Wojownik,Odolnost: válečníci,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a5ea337bdfd,Resistance: Ninjas,Odpornosc: Ninja,Odolnost: ninjové,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1756ae438081,Resistance: Suras,Odpornosc: Sura,Odolnost: surové,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3dcc671eaf88,Resistance: Shamans,Odpornosc: Szaman,Odolnost: šamani,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79507f7119f9,Resistance: fire,Odpornosc: ogien,Odolnost: oheň,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a869ea083a3,Resistance: lightning,Odpornosc: blyskawice,Odolnost: blesk,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:016c1c54129c,Resistance: wind,Odpornosc: wiatr,Odolnost: vítr,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b19a20795ce4,Double experience chance,Szansa na podwojny exp,Šance na dvojnásobné zkušenosti,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d827ea154c18,Item drop bonus,Bonus do dropu,Bonus k pádu předmětů,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",check
 c:pbt:7ceca51fcafe,Buy,Kup,Koupit,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:63fc03bc6359,- none -,- brak -,- žádný -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:96e578211aa2,Filters,Filtry,Filtry,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -511,6 +533,9 @@ c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,Vymazat název před
 c:pbt:56e3badc4e6c,Refresh,Odswiez,Obnovit,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:412226715c56,Clear filters,Wyczysc filtry,Vymazat filtry,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),Animace (zap/vyp),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98b2e774fca7,"Add to the wish list: the name, the least plus from Filters, ""to:"" a piece","Dodaj do listy zyczen: nazwa, min. plus z Filtrow, ""do:"" za sztuke","Přidat do seznamu přání: název, nejnižší plus z Filtrů, „do:“ za kus","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72856d01751b,WL,LZ,SP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62784b04f81f,Wish list,Lista zyczen,Seznam přání,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c4d63e4c56f1,From:,Od:,Od:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ba1cfdcd865f,to:,do:,do:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecdda59aea5e,Item,Przedmiot,Předmět,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -523,6 +548,7 @@ c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,Vybráno: %d | %s,"clie
 c:pbt:20b908f50fa9,Buy (%d),Kup (%d),Koupit (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,Koupit všechny vybrané nabídky,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,Koupit %d vybraných nabídek za %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:2cbb37b29c96,Bought %d of %d - no room in the inventory.,Kupiono %d z %d - brak miejsca w ekwipunku.,Koupeno %d z %d - v inventáři není místo.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,Načítání nabídek... přijato %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.","Zobrazeno %d nabídek (limit) - zúž hledání, abys viděl zbytek.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),Nabídky: %d (odpovídají filtrům: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
@@ -534,9 +560,35 @@ c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wcz
 c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,Málo nabídek - orientační odhad,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,Žádné cenové údaje,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","Vzorek: načtené nabídky (filtry, limit 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa1c659ef96a,Wish list: type an exact name from the suggestions in the Name field.,Lista zyczen: wpisz w polu Nazwa dokladna nazwe z podpowiedzi.,Seznam přání: napiš do pole Název přesný název z nabídky.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,Koupit %s za %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
 c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,Alchymie dračích kamenů byla zapnuta.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,Alchymie dračích kamenů byla v tomto světě vypnuta.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1476e3bb5bb5,%d min ago,%d min temu,před %d min,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:58da3110e0aa,%d h ago,%d godz. temu,před %d h,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:64e8c23a3eb2,%d d ago,%d dni temu,před %d d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:21fadc2ab284, (+%d or more), (od +%d), (+%d nebo více),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ab9668847d8c,", up to %s each",", do %s/szt.",", nejvýš %s za kus","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f553feb0496a,"%s - %s each, %s, %s","%s - %s/szt., %s, %s","%s - %s za kus, %s, %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s %s",done
+c:pbt:894ac47dfa47,"Wish list: %s is cheaper now, %s each (sold by %s). Look for it in the Flea Market.","Lista zyczen: potanialo %s, teraz %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.","Seznam přání: %s je teď levnější, %s za kus (prodává %s). Hledej ho na Bleším trhu.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:b7519293d145,Wish list: %s is on the market for %s each (sold by %s). Look for it in the Flea Market.,Lista zyczen: na rynku jest %s za %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.,Seznam přání: %s je na trhu za %s za kus (prodává %s). Hledej ho na Bleším trhu.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:d53aeea37112,Wish list: added %s,Lista zyczen: dodano %s,Seznam přání: přidáno %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:28b0cab3cbd9,The wish list is full (%d entries). Remove one to add another.,"Lista zyczen jest pelna (%d pozycji). Usun cos, aby dodac nowe.","Seznam přání je plný (%d položek). Odeber jednu, abys mohl přidat další.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:63f75130b52d,This item cannot be added to the wish list.,Tego przedmiotu nie mozna dodac do listy zyczen.,Tento předmět nelze přidat do seznamu přání.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6a796000188,The Flea Market is switched off in this world.,Dom Towarowy jest wylaczony na tym swiecie.,Bleší trh je v tomto světě vypnutý.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f059d5f00cc1,Remove from the list,Usun z listy,Odebrat ze seznamu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df251b06eefd,Find,Szukaj,Najít,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b026dcc3771a,Look for it in the Flea Market,Szukaj w Domu Towarowym,Hledat na Bleším trhu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2422bc09e6de,"To add: type the name in the Flea Market and click ""+"".","Dodaj: wpisz nazwe w Domu Towarowym i kliknij ""+"".",Přidání: napiš název na Bleším trhu a klikni na „+“.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c4367c6352ed,"The least plus comes from Filters, ""to:"" is the highest price a piece.","Najmniejszy plus z Filtrow, ""do:"" to najwyzsza cena za sztuke.","Nejnižší plus se bere z Filtrů, „do:“ je nejvyšší cena za kus.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6760f296a78,Clear the hits,Wyczysc trafienia,Vymazat nálezy,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbfa773e5a63,Close,Zamknij,Zavřít,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c1fa969b47d,Wanted (%d/%d),Szukane (%d/%d),Hledané (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:8b6ab2ac369f,Hits of the last 7 days (%d),Trafienia z ostatnich 7 dni (%d),Nálezy za posledních 7 dní (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b04ba49f8486,Loading...,Wczytywanie...,Načítání...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d18305c15cb,The server does not answer the wish list (an older server?).,Serwer nie odpowiada na liste zyczen (starsza wersja serwera?).,Server na seznam přání neodpovídá (starší server?).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c290077407c,The list is empty.,Lista jest pusta.,Seznam je prázdný.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6c0f1e39d2c,Dragon Flame: could not open the window.,Smoczy Plomien: nie udalo sie otworzyc okna.,Dračí plamen: okno se nepodařilo otevřít.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,Posednutí není k dispozici (na serveru není úkol).,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,Přebírání %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...","Posednutí: čekání, až bot opustí svět (asi %d s)...","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -558,7 +610,7 @@ c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - zbývá %d,"clie
 c:pbt:68c165671716,leads,prowadzi,vede,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.","Herní soubor metin2client.exe je zastaralý.[ENTER]Zavři hru i spouštěč, znovu otevři spouštěč[ENTER]a klikni na HRÁT - soubor se nahradí. Pokud se tato zpráva[ENTER]vrátí, přidej složku hry do výjimek antiviru.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
 c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,Uložené heslo nelze na tomto počítači přečíst.[ENTER]Zadej heslo a znovu klikni na tento účet - uloží se znovu.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,Originál: metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9823519a113,The original: mt2sp.com,Oryginał: mt2sp.com,Originál: mt2sp.com,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","Inventář seřazen: přesunuto %d, sloučeno %d balíků.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,Inventář už je seřazený.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","Inventář teď nelze seřadit - zavři obchod s hráčem, obchod nebo jiné okno.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -589,7 +641,6 @@ c:pbt:c2549723119a,Surprise,Niespodzianka,Překvapení,"client: our windows (com
 c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,Rozbalit,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,Jeden dárek na účet,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,24 prosincových překvapení,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbfa773e5a63,Close,Zamknij,Zavřít,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb11a8e3f871,Rules,Zasady,Pravidla,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:83c87884b09b,Claimed,Odebrano,Vyzvednuto,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b564001a58dc,Missed,Minelo,Zmeškáno,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -622,7 +673,7 @@ c:pbt:fe2c3f97aa0d,Quantity:,Ile sztuk:,Množství:,"client: our windows (compan
 c:pbt:ee8df12b6c3a,To pay for %d pcs.: %s,Do zaplaty za %d szt.: %s,K zaplacení za %d ks: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
 c:pbt:af17da72a33f,In the stack: %d pcs.,Dostepne: %d szt.,V balíku: %d ks,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:7fcd8d44c6f2,Suggested,Sugerowana,Doporučená,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d398eef3ecc,Minimum,Minimalna,Minimum,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d398eef3ecc,Minimum,Minimalna,Minimum,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:a8df2fec28d8,Maximum,Maksymalna,Maximální,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b887ba2a5f48,Median,Mediana,Medián,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d1c69a859a96,Last,Ostatnia,Poslední,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -640,62 +691,11 @@ c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu:
 c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,Trh: žádné srovnatelné nabídky.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,Poslední prodej botů: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,Poslední prodej botů: žádná data.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8e7920f8695,no limit,bez limitu,bez limitu,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).","Tvůj klient %s je starší,[ENTER]než server vyžaduje (%s).[ENTER]Pro aktualizaci zavři hru a spusť[ENTER]Aktualizuj.bat ve složce klienta[ENTER](nebo spouštěč, pokud ho máš).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:2a9cbcb43195,Boss on map,Boss na mapie,Boss na mapě,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,Kliknutí: skrýt procento EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,Kliknutí: zobrazit procento EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:20e40e8f033c,FPS counter,Licznik FPS,Počítadlo FPS,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ca6fcaed995c,Map name,Nazwa mapy,Název mapy,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,Drž Enter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8238f65551,Snow,Śnieg,Sníh,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c614ba7c453c,Auto,Auto,Auto,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,Aktivní úkoly: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,Pokračovat ve vylepšování,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",Po pokusu se okno znovu objeví,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,"pro stejný předmět, dokud je stále ve svém políčku.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,Každý pokus potvrzuješ sám.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.","Enter: vylepšit, a potvrdí dotaz.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,Herní server je starší než klient a vylepšování svitkem nesahá do tvého skladu - aktualizuj server.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,Herní server je starší než klient a jeho kovář nesahá do tvého skladu - aktualizuj server.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,Vylepšování svitkem bere materiály ze skladu jen v první nebo druhé vesnici.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).","Kovář sahá do skladu, jakmile ho otevřeš u skladníka (s heslem).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Materiály ze skladu bere jen kovář v první nebo druhé vesnici.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Sklad seřazen: přesunuto %d, sloučeno %d balíků.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,Sklad už je seřazený.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Sklad teď nelze seřadit - zavři obchod s hráčem, obchod nebo jiné okno.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Sklad nelze uspořádat - nic se nezměnilo.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,"Když jsi mrtvý, nemůžeš řadit sklad.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Sklad je v neočekávaném stavu - nic se nezměnilo. Nahlas to prosím na Discordu.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,Sklad není otevřený.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Server tuto funkci skladu nepodporuje.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,Během otevírání obchodu nelze řadit sklad.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Předmět teď nelze přesunout - zavři obchod s hráčem, obchod nebo jiné okno.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Ten předmět už tam není.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,V tom slotu leží jiný předmět.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Ten balík je plný.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Ten předmět tam nelze položit.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Tam nelze položit žádný předmět.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,Příliš rychle - zkus to znovu.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,"Když jsi mrtvý, nemůžeš přesouvat předměty.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Načítání cenových údajů...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Vyber způsob automatického ocenění.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Cena bude nastavena podle tvé volby.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Ceny: načteno %d z %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Načítání tržních cen pro %d předmětů, asi %d s. Nech okno obchodu otevřené.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Ceny se nezměnily: celková hodnota obchodu by dosáhla limitu Yangů.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,Přeskočeno %d předmětů bez ceny nebo se změněnou nabídkou obchodu.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,Změny cen zařazeny pro %d předmětů.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,Automatické ocenění zastaveno: okno obchodu bylo zavřeno nebo se změnil režim.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Ceny obchodu změněny (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Cenu %d řádků nelze změnit - zkus to znovu.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Červený (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acef391bd970,Red (M),Czerwone (S),Červený (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb9768bd833b,Red (L),Czerwone (D),Červený (V),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Modrý (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Modrý (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c9734458346,Blue (L),Niebieskie (D),Modrý (V),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Zelený (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Zelený (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:232a14f8169a,Green (L),Zielone (D),Zelený (V),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Fialový (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Fialový (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Fialový (V),"client: our windows (companion, Auto Hunt, status lines)",done

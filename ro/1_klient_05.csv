@@ -1,4 +1,5 @@
 id,english,polski,translation,notes,status
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Ne cerem scuze pentru neplacere.,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),Cereti un cod nou (de cel mult 2 ori),client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742ATENTIE!|r Verificare de securitate!,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,Un Game Master a cerut o verificare.,client: window texts (uiScriptLocale),done
@@ -14,7 +15,7 @@ c:locale_interface:GM_BAN_DURATION,Ban duration,,Durata banului,client: window t
 c:locale_interface:GM_BAN_DAYS_PLACEHOLDER,in days,,in zile,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_WHY,WHY?!,,DE CE?!,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,Introduceti un motiv...,client: window texts (uiScriptLocale),done
-c:locale_interface:GM_BAN_BUTTON,Ban,,Ban,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_BUTTON,Ban,,Ban,client: window texts (uiScriptLocale),check
 c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,Timp ramas: 30s,client: window texts (uiScriptLocale),done
 c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Nume: PLAYER_NAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,Cod: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
@@ -22,7 +23,7 @@ c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,Introduceti codu
 c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,Ramas: 45s,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,Cod:,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,Incercari ramase: 3,client: window texts (uiScriptLocale),done
-c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),check
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,DC,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,DM,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,Confirmati cumpararea,client: window texts (uiScriptLocale),done
@@ -139,7 +140,7 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% sau
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% sau mai mult,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% sau mai mult,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,doar 25%,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,check
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Stralucitor,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Rar,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,Antic,client: offline shop and market,done
@@ -223,7 +224,7 @@ c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to mov
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,Pret mediu: |cFF99FF99|hSe cere...|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,Pret mediu: |cFFFF9999|hIndisponibil|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,Pret mediu: |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
-c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,check
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|hNecunoscut|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,Decoratiuni pentru magazin,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,Decoratiune pentru magazin nr. {},client: offline shop and market | keep: {},done
@@ -246,7 +247,7 @@ c:wiki_game:WIKI_ALL_CLASSES,All classes,Wszystkie,Toate clasele,client: the in-
 c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,Obiecte,client: the in-game Wiki,done
 c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,Disponibil de la,client: the in-game Wiki,done
 c:wiki_game:WIKI_BACK,Back,Wstecz,Inapoi,client: the in-game Wiki,done
-c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,done
+c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biolog,client: the in-game Wiki,check
 c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bossi,client: the in-game Wiki,done
 c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,Bossi de eveniment,client: the in-game Wiki,done
 c:wiki_game:WIKI_CATEGORY,Category,Kategoria,Categorie,client: the in-game Wiki,done
@@ -263,7 +264,7 @@ c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Costum,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Costume,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Par,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Esarfa,client: the in-game Wiki,done
-c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,check
 c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,Daune: %d - %d,client: the in-game Wiki | keep: %d %d,done
 c:wiki_game:WIKI_DROP,Drop,Drop,Arunca,client: the in-game Wiki,done
 c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,Lista de drop pentru %s,client: the in-game Wiki | keep: %s,done
@@ -288,15 +289,15 @@ c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Arme,client: the in-game Wiki,
 c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Experienta,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Extinde,client: the in-game Wiki,done
 c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,Sanse de baza din fisierele serverului - Ctrl+Alt+clic dreapta deschide pagina in browser,client: the in-game Wiki,done
-c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
 c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,PV max.: %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Informatii de imbunatatire de la %s,client: the in-game Wiki | keep: %s,done
-c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
 c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Numele obiectului,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Saman,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Razboinic,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Nivel %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Nivel %d,client: the in-game Wiki | keep: %d,done
@@ -331,7 +332,7 @@ c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,Cufar,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,Drop dupa rang si nivel,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,Creare,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,Pescuit,client: the in-game Wiki,done
-c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
 c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,Monstru,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,Misiune sau recompensa,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,Rafinare,client: the in-game Wiki,done
@@ -341,16 +342,16 @@ c:wiki_game:WIKI_STATICS_INFO_DEFENSES,Defenses:,Odporności:,Aparari:,client: t
 c:wiki_game:WIKI_STATICS_INFO_DMG,Min. Dmg:%d | Max. Dmg:%d | Max HP: %d,Min. obrażenia: %d | Maks. obrażenia: %d | Maks. PZ: %d,Daune min.:%d | Daune max.:%d | PV max.: %d,client: the in-game Wiki | keep: %d %d %d,done
 c:wiki_game:WIKI_STATICS_INFO_TYPE,Genus: %s | Sub-genus: %s,Rodzaj: %s | Podrodzaj: %s,Gen: %s | Subgen: %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_STATICS_INFO_YNG,Min. Yang:%d | Max. Yang:%d | EXP: %d,Min. Yang: %d | Maks. Yang: %d | EXP: %d,Yang min.:%d | Yang max.:%d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,done
-c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,Exp,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,Exp,client: the in-game Wiki,check
 c:wiki_game:WIKI_STAT_HP,HP,PŻ,PV,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Nivel,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Surse,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
 c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Sisteme,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
 c:wiki_game:WIKI_TAG_KING,KING,KRÓL,REGE,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,check
 c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Sistemul wiki,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Bijuterii,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alchimie,client: the in-game Wiki,done
@@ -381,9 +382,16 @@ c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemSho
 c:wiki_game:WIKI_EVENTS,Event,Event,Eveniment,client: the in-game Wiki,done
 c:wiki_game:WIKI_OTHER,Other,Inne,Altul,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Eveniment server (cand este activ),client: the in-game Wiki,done
-c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Eveniment Lumina Lunii: Dropul depinde de setariile evenimentului.,client: the in Wiki,done
+c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Eveniment Lumina Lunii: Dropul depinde de setariile evenimentului.,client: the in-game Wiki,done
 c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Ureche Tanaka pentru 1 Cufar Ebonita,client: the in-game Wiki,done
-c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:wiki_game:WIKI_FISHING_ANY_ROD,any fishing rod,dowolna wędka,orice undita,client: the in-game Wiki,done
+c:wiki_game:WIKI_FISHING_ROD_OR_BETTER,%s or better,%s lub lepsza,%s sau mai buna,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_OR_WEAKER,%s or weaker,%s lub słabsza,%s sau mai slaba,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_RANGE,%s to %s,%s do %s,de la %s la %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_BONUS,catch bonus %d or more,premia połowu od %d,bonus de pescuit %d sau mai mult,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_FISHING_SETUP,Catch bonus = rod + bait; %s with %s is enough.,Premia połowu = wędka + przynęta; wystarczy %s i %s.,Bonus de pescuit = undita + momeala; %s cu %s este de ajuns.,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_POOL_NOTE,Default pool; a world may have its own fishing settings.,Pula domyślna; świat może mieć własne ustawienia połowu.,Tabel implicit; o lume poate avea propriile setari de pescuit.,client: the in-game Wiki,done
+c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,setari de lupta,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,Scurtatura pentru vanatoarea automata nu a putut fi salvata.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b6c37aaf88b8,Auto Hunt - toggle on / off,Auto Łowy - włącz / wyłącz,Vanatoare automata - pornire / oprire,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -476,7 +484,21 @@ c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,Rezistenta: magie,"client:
 c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,Absorbtie PV,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:600f7953e765,SP absorption,Kradziez PM,Absorbtie PM,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,Bonus drop Yang,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:9b0b5a5aca35,Strong against monsters,Bonus vs potwory,Puternic impotriva monstrilor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:befebe89c1fe,Strong against Warriors,Bonus vs Wojownik,Puternic impotriva razboinicilor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2f0b70872a8,Strong against Ninjas,Bonus vs Ninja,Puternic impotriva ninja,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3e149af80b0,Strong against Suras,Bonus vs Sura,Puternic impotriva sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea365cedf015,Strong against Shamans,Bonus vs Szaman,Puternic impotriva samanilor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:062864d36bdc,Resistance: Warriors,Odpornosc: Wojownik,Rezistenta: razboinici,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a5ea337bdfd,Resistance: Ninjas,Odpornosc: Ninja,Rezistenta: ninja,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1756ae438081,Resistance: Suras,Odpornosc: Sura,Rezistenta: sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3dcc671eaf88,Resistance: Shamans,Odpornosc: Szaman,Rezistenta: samani,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79507f7119f9,Resistance: fire,Odpornosc: ogien,Rezistenta: foc,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a869ea083a3,Resistance: lightning,Odpornosc: blyskawice,Rezistenta: fulger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:016c1c54129c,Resistance: wind,Odpornosc: wiatr,Rezistenta: vant,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b19a20795ce4,Double experience chance,Szansa na podwojny exp,Sansa de experienta dubla,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d827ea154c18,Item drop bonus,Bonus do dropu,Bonus de drop,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",check
 c:pbt:7ceca51fcafe,Buy,Kup,Cumpara,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:63fc03bc6359,- none -,- brak -,- niciunul -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:96e578211aa2,Filters,Filtry,Filtre,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -511,6 +533,9 @@ c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,Sterge numele obiect
 c:pbt:56e3badc4e6c,Refresh,Odswiez,Reimprospateaza,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:412226715c56,Clear filters,Wyczysc filtry,Sterge filtrele,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),Animatii (pornit/oprit),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98b2e774fca7,"Add to the wish list: the name, the least plus from Filters, ""to:"" a piece","Dodaj do listy zyczen: nazwa, min. plus z Filtrow, ""do:"" za sztuke","Adaugă pe lista de dorinţe: numele, plusul minim din Filtre, ""până la:"" pe bucată","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72856d01751b,WL,LZ,LD,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62784b04f81f,Wish list,Lista zyczen,Listă de dorinţe,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c4d63e4c56f1,From:,Od:,De la:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ba1cfdcd865f,to:,do:,pana la:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecdda59aea5e,Item,Przedmiot,Obiect,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -523,6 +548,7 @@ c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,Selectate: %d | %s,"cli
 c:pbt:20b908f50fa9,Buy (%d),Kup (%d),Cumpara (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,Cumpara toate ofertele selectate,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,Cumparati %d oferte selectate pentru %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:2cbb37b29c96,Bought %d of %d - no room in the inventory.,Kupiono %d z %d - brak miejsca w ekwipunku.,Cumparate %d din %d - nu mai este loc in inventar.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,Se incarca ofertele... %d primite,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.",Se afiseaza %d oferte (limita) - restrangeti cautarea pentru a le vedea pe celelalte.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),Oferte: %d (corespund filtrelor: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
@@ -534,9 +560,35 @@ c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wcz
 c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,Putine oferte - estimare orientativa,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,Nu exista date despre preturi,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","Esantion: oferte incarcate (filtre, limita 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa1c659ef96a,Wish list: type an exact name from the suggestions in the Name field.,Lista zyczen: wpisz w polu Nazwa dokladna nazwe z podpowiedzi.,Listă de dorinţe: scrie în câmpul Nume un nume exact din sugestii.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,Cumparati %s pentru %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
 c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,Alchimia Pietrelor Dragonului a fost activata.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,Alchimia Pietrelor Dragonului a fost dezactivata in aceasta lume.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1476e3bb5bb5,%d min ago,%d min temu,acum %d min,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:58da3110e0aa,%d h ago,%d godz. temu,acum %d h,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:64e8c23a3eb2,%d d ago,%d dni temu,acum %d z,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:21fadc2ab284, (+%d or more), (od +%d), (de la +%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ab9668847d8c,", up to %s each",", do %s/szt.",", până la %s bucata","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f553feb0496a,"%s - %s each, %s, %s","%s - %s/szt., %s, %s","%s - %s bucata, %s, %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s %s",done
+c:pbt:894ac47dfa47,"Wish list: %s is cheaper now, %s each (sold by %s). Look for it in the Flea Market.","Lista zyczen: potanialo %s, teraz %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.","Listă de dorinţe: %s s-a ieftinit, acum %s bucata (vinde %s). Caută-l în Talcioc.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:b7519293d145,Wish list: %s is on the market for %s each (sold by %s). Look for it in the Flea Market.,Lista zyczen: na rynku jest %s za %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.,Listă de dorinţe: %s este pe piaţă la %s bucata (vinde %s). Caută-l în Talcioc.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:d53aeea37112,Wish list: added %s,Lista zyczen: dodano %s,Listă de dorinţe: adăugat %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:28b0cab3cbd9,The wish list is full (%d entries). Remove one to add another.,"Lista zyczen jest pelna (%d pozycji). Usun cos, aby dodac nowe.",Lista de dorinţe este plină (%d intrări). Şterge una ca să adaugi alta.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:63f75130b52d,This item cannot be added to the wish list.,Tego przedmiotu nie mozna dodac do listy zyczen.,Acest obiect nu poate fi adăugat pe lista de dorinţe.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6a796000188,The Flea Market is switched off in this world.,Dom Towarowy jest wylaczony na tym swiecie.,Talciocul este oprit în această lume.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f059d5f00cc1,Remove from the list,Usun z listy,Şterge de pe listă,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df251b06eefd,Find,Szukaj,Caută,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b026dcc3771a,Look for it in the Flea Market,Szukaj w Domu Towarowym,Caută în Talcioc,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2422bc09e6de,"To add: type the name in the Flea Market and click ""+"".","Dodaj: wpisz nazwe w Domu Towarowym i kliknij ""+"".","Pentru adăugare: scrie numele în Talcioc şi apasă ""+"".","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c4367c6352ed,"The least plus comes from Filters, ""to:"" is the highest price a piece.","Najmniejszy plus z Filtrow, ""do:"" to najwyzsza cena za sztuke.","Plusul minim vine din Filtre, ""până la:"" este preţul maxim pe bucată.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6760f296a78,Clear the hits,Wyczysc trafienia,Goleşte găsirile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbfa773e5a63,Close,Zamknij,Inchide,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c1fa969b47d,Wanted (%d/%d),Szukane (%d/%d),Căutate (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:8b6ab2ac369f,Hits of the last 7 days (%d),Trafienia z ostatnich 7 dni (%d),Găsiri din ultimele 7 zile (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b04ba49f8486,Loading...,Wczytywanie...,Se incarca...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d18305c15cb,The server does not answer the wish list (an older server?).,Serwer nie odpowiada na liste zyczen (starsza wersja serwera?).,Serverul nu răspunde la lista de dorinţe (server mai vechi?).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c290077407c,The list is empty.,Lista jest pusta.,Lista este goală.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6c0f1e39d2c,Dragon Flame: could not open the window.,Smoczy Plomien: nie udalo sie otworzyc okna.,Flacara Dragonului: fereastra nu a putut fi deschisa.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,Posesia nu este disponibila (nicio misiune pe server).,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,Se preia controlul asupra lui %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...",Posesie: se asteapta ca botul sa paraseasca lumea (aproximativ %d s)...,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -558,7 +610,7 @@ c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - mai sunt %d,"cli
 c:pbt:68c165671716,leads,prowadzi,conduce,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.","Fisierul jocului metin2client.exe este invechit.[ENTER]Inchideti jocul si launcherul, deschideti din nou launcherul[ENTER]si apasati PLAY - acesta inlocuieste fisierul. Daca mesajul[ENTER]revine, adaugati folderul jocului la exceptiile antivirusului.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
 c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,Parola salvata nu poate fi citita pe acest computer.[ENTER]Scrieti parola si dati din nou clic pe acest cont - va fi salvata din nou.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,Originalul: metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9823519a113,The original: mt2sp.com,Oryginał: mt2sp.com,Originalul: mt2sp.com,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","Inventar sortat: %d mutate, %d stive unite.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,Inventarul este deja sortat.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","Inventarul nu poate fi sortat acum - inchideti schimbul, magazinul sau cealalta fereastra.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -589,7 +641,6 @@ c:pbt:c2549723119a,Surprise,Niespodzianka,Surpriza,"client: our windows (compani
 c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,Despacheteaza,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,Un cadou pe cont,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,24 de surprize in decembrie,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbfa773e5a63,Close,Zamknij,Inchide,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb11a8e3f871,Rules,Zasady,Reguli,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:83c87884b09b,Claimed,Odebrano,Revendicat,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b564001a58dc,Missed,Minelo,Ratat,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -640,62 +691,11 @@ c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu:
 c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,Piata: nu exista oferte comparabile.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,Ultima vanzare a botilor: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,Ultima vanzare a botilor: fara date.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8e7920f8695,no limit,bez limitu,fara limita,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).","Clientul dvs. %s este mai vechi[ENTER]decat cere serverul (%s).[ENTER]Pentru actualizare, inchideti jocul si rulati[ENTER]Aktualizuj.bat din folderul clientului[ENTER](sau launcherul, daca il aveti).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:2a9cbcb43195,Boss on map,Boss na mapie,Sef pe harta,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,Clic: ascunde procentul EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,Clic: arata procentul EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:20e40e8f033c,FPS counter,Licznik FPS,Contor FPS,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ca6fcaed995c,Map name,Nazwa mapy,Numele hartii,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,Tine apasat Enter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8238f65551,Snow,Śnieg,Zapada,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c614ba7c453c,Auto,Auto,Auto,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,Misiuni active: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,Continua rafinarea,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,","Dupa o incercare, fereastra revine","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,"pentru acelasi obiect, cat timp e inca in casuta lui.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,Confirmi tu insuti fiecare incercare.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.",Enter: rafineaza si confirma intrebarea.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,"Serverul de joc este mai vechi decat clientul, iar imbunatatirea cu un pergament nu ajunge la depozitul tau - actualizeaza serverul.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,"Serverul de joc este mai vechi decat clientul, iar fierarul lui nu ajunge la depozitul tau - actualizeaza serverul.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,Imbunatatirea cu un pergament ia materiale din depozit doar in primul sau al doilea sat.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).",Fierarul ia din depozit abia dupa ce il deschizi o data la paznicul depozitului (cu parola).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Doar un fierar din primul sau al doilea sat ia materiale din depozit.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Depozit sortat: %d mutate, %d stive unite.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,Depozitul este deja sortat.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Depozitul nu poate fi sortat acum - inchideti schimbul, magazinul sau cealalta fereastra.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Depozitul nu a putut fi aranjat - nu s-a schimbat nimic.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,Nu puteti sorta depozitul cat timp sunteti mort.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Depozitul este intr-o stare neasteptata - nu s-a schimbat nimic. Raportati asta pe Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,Depozitul nu este deschis.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Serverul nu suporta aceasta functie a depozitului.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,Depozitul nu poate fi sortat in timp ce se deschide un magazin.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Obiectul nu poate fi mutat acum - inchideti schimbul, magazinul sau cealalta fereastra.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Acel obiect nu mai este acolo.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,In acel slot se afla alt obiect.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Acea stiva este plina.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Acel obiect nu poate fi pus acolo.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Niciun obiect nu poate fi pus acolo.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,Prea repede - incercati din nou.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,Nu puteti muta obiecte cat timp sunteti mort.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Se incarca datele despre preturi...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Alegeti un mod automat de stabilire a preturilor.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Pretul va fi stabilit dupa alegerea dvs.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Preturi: %d din %d citite.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Se citesc preturile pietei pentru %d obiecte, cam %d s. Tineti fereastra magazinului deschisa.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Preturile nu au fost schimbate: totalul magazinului ar atinge limita de Yang.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,S-au sarit %d obiecte fara pret sau cu oferta magazinului schimbata.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,S-au pus in coada schimbari de pret pentru %d obiecte.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,Stabilirea automata a preturilor s-a oprit: fereastra magazinului a fost inchisa sau modul s-a schimbat.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Preturile magazinului s-au schimbat (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Pretul a %d linii nu a putut fi schimbat - incercati din nou.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Rosie (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acef391bd970,Red (M),Czerwone (S),Rosie (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb9768bd833b,Red (L),Czerwone (D),Rosie (L),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Albastra (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Albastra (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c9734458346,Blue (L),Niebieskie (D),Albastra (L),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Verde (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Verde (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:232a14f8169a,Green (L),Zielone (D),Verde (L),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Mov (S),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Mov (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Mov (L),"client: our windows (companion, Auto Hunt, status lines)",done

@@ -1,653 +1,701 @@
 id,english,polski,translation,notes,status
-c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,Mágikus támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Tartós tűz esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",done
-c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,Sárkány haragja +%.1f,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",done
-c:skilldesc:94:2,Blessing,Błogosławieństwo,Áldás,"client: skill tooltip, skill name (skill 94)",done
-c:skilldesc:94:3,Heaven,Ściana Nieba,Ég,"client: skill tooltip, skill name (M) (skill 94)",done
-c:skilldesc:94:4,Dragon,Błogosławieństwo Smoka,Sárkány,"client: skill tooltip, skill name (G/P) (skill 94)",done
-c:skilldesc:94:5,Protect your partner or yourself with a protection circle.,Ochraniaj partnera lub siebie samego kręgiem ochronnym.,Védőkörrel óvja a társadat vagy téged.,"client: skill tooltip, description (skill 94)",done
-c:skilldesc:94:6,Physical Attack Resistance,Odporność na fizyczne obrażenia,Fizikai támadással szembeni ellenállás,"client: skill tooltip, condition 1 (skill 94)",done
-c:skilldesc:94:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Csapattagokon használható|Másik játékoson: -25% bónuszérték.,"client: skill tooltip, condition 2 (skill 94)",done
-c:skilldesc:94:17,Physical Attack Resistance %.1f%% ,Odporność Na Ataki Fizyczne %.1f%%,Fizikai támadással szembeni ellenállás %.1f%% ,"client: skill tooltip, effect line 1 (skill 94) | keep: %.1f | max 64 characters",done
-c:skilldesc:95:2,Reflect,Odbicie,Visszaverés,"client: skill tooltip, skill name (skill 95)",done
-c:skilldesc:95:3,Reflecting Water,Odbijająca Woda,Tükröző víz,"client: skill tooltip, skill name (M) (skill 95)",done
-c:skilldesc:95:4,Crystal Mirror ,Krystaliczne Lustro,Kristálytükör ,"client: skill tooltip, skill name (G/P) (skill 95)",done
-c:skilldesc:95:5,Protect your partner or yourself with a reflecting circle.,Ochraniaj partnera lub siebie samego odbijającym kręgiem.,Tükröző körrel óvja a társadat vagy téged.,"client: skill tooltip, description (skill 95)",done
-c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Visszaveri a sebzést a támadóra,"client: skill tooltip, condition 1 (skill 95)",done
-c:skilldesc:95:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Csapattagokon használható|Másik játékoson: -25% bónuszérték.,"client: skill tooltip, condition 2 (skill 95)",done
-c:skilldesc:95:17,Reflected Physical Attack Damage: %.1f%% ,Odbicie Ataku Fizycznego: %.1f%%,Visszavert fizikai sebzés: %.1f%% ,"client: skill tooltip, effect line 1 (skill 95) | keep: %.1f | max 64 characters",done
-c:skilldesc:96:2,Dragon's Strength,Pomoc Smoka,Sárkány ereje,"client: skill tooltip, skill name (skill 96)",done
-c:skilldesc:96:3,Dragon's Support,Wsparcie Smoka,Sárkány támogatása,"client: skill tooltip, skill name (M) (skill 96)",done
-c:skilldesc:96:4,Dragon Power,Siła Smoka,Sárkányerő,"client: skill tooltip, skill name (G/P) (skill 96)",done
-c:skilldesc:96:5,Strengthens you or your partner's attack.,Zwiększ Twój atak lub kogoś z grupy.,Erősíti a te vagy a társad támadását.,"client: skill tooltip, description (skill 96)",done
-c:skilldesc:96:6,Increases chance of a critical hit,Zwiększa szansę na krytyczne uderzenie,Növeli a kritikus találat esélyét,"client: skill tooltip, condition 1 (skill 96)",done
-c:skilldesc:96:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Csapattagokon használható|Másik játékoson: -25% bónuszérték.,"client: skill tooltip, condition 2 (skill 96)",done
-c:skilldesc:96:17,Chance of critical hit %.1f%% ,Szansa na cios krytyczny: +%.1f%% ,Kritikus találat esélye %.1f%% ,"client: skill tooltip, effect line 1 (skill 96) | keep: %.1f | max 64 characters",done
-c:skilldesc:106:2,Lightning Throw ,Rzut Piorunem,Villámhajítás ,"client: skill tooltip, skill name (skill 106)",done
-c:skilldesc:106:3,Lightning Toss,Piorun Kulisty,Villámdobás,"client: skill tooltip, skill name (M) (skill 106)",done
-c:skilldesc:106:4,Thunder Hurl,Śmiertelny Piorun,Mennydörgő hajítás,"client: skill tooltip, skill name (G/P) (skill 106)",done
-c:skilldesc:106:5,Attack with Thunderbolts.,Miotaj pioruny.,Villámokkal támad.,"client: skill tooltip, description (skill 106)",done
-c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,Távolsági támadás,"client: skill tooltip, condition 1 (skill 106)",done
-c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 106)",done
-c:skilldesc:106:8,Lightning Attribute,Atrybut Piorunu,Villám tulajdonság,"client: skill tooltip, condition 3 (skill 106)",done
-c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Mágikus támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:107:2,Summon Lightning,Przywołanie błyskawicy,Villámidézés,"client: skill tooltip, skill name (skill 107)",done
-c:skilldesc:107:3,Lightning Launch,Wystrzał błyskawicy,Villámkilövés,"client: skill tooltip, skill name (M) (skill 107)",done
-c:skilldesc:107:4,Thunder Bolt,Grzmot,Mennykő,"client: skill tooltip, skill name (G/P) (skill 107)",done
-c:skilldesc:107:5,Summon Thunderbolts from the sky.,Przywołuje błyskawice z nieba,Villámokat hív le az égből.,"client: skill tooltip, description (skill 107)",done
-c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,Távolsági támadás,"client: skill tooltip, condition 1 (skill 107)",done
-c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 107)",done
-c:skilldesc:107:8,Lightning Attribute|Fainting Effect,Atrybut Błyskawicy|Efekt Omdlenia,Villám tulajdonság|Ájító hatás,"client: skill tooltip, condition 3 (skill 107)",done
-c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Mágikus támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Ájulás esélye: %.0f%%,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",done
-c:skilldesc:108:2,Lightning Claw ,Burzowy Szpon,Villámkarom ,"client: skill tooltip, skill name (skill 108)",done
-c:skilldesc:108:3,Lightning Punch,Piorunowy Cios,Villámütés,"client: skill tooltip, skill name (M) (skill 108)",done
-c:skilldesc:108:4,Thunder Punch ,Pięść Grzmotu,Mennydörgő ököl ,"client: skill tooltip, skill name (G/P) (skill 108)",done
-c:skilldesc:108:5,Summon a Thunderbolt to your fist. ,Wykonaj Piorunową Pięść.,Villámot hív az öklödbe. ,"client: skill tooltip, description (skill 108)",done
-c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,Távolsági támadás,"client: skill tooltip, condition 1 (skill 108)",done
-c:skilldesc:108:7,Lightning Attribute,Atrybut Błyskawicy,Villám tulajdonság,"client: skill tooltip, condition 2 (skill 108)",done
-c:skilldesc:108:8,Chain Reaction Attack,Atak łańcuchowy,Láncreakciós támadás,"client: skill tooltip, condition 3 (skill 108)",done
-c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Mágikus támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:109:2,Cure,Leczenie,Gyógyítás,"client: skill tooltip, skill name (skill 109)",done
-c:skilldesc:109:3,Heal,Uzdrowienie,Gyógyítás,"client: skill tooltip, skill name (M) (skill 109)",done
-c:skilldesc:109:4,Aid of Light,Pomoc Światła,A fény segítsége,"client: skill tooltip, skill name (G/P) (skill 109)",done
-c:skilldesc:109:5,Heal wounds with the aid of light.,Leczy urazy za pomocą światła,A fény segítségével gyógyítja a sebeket.,"client: skill tooltip, description (skill 109)",done
-c:skilldesc:109:6,Restores HP,Regeneruje PŻ,HP-t tölt vissza,"client: skill tooltip, condition 1 (skill 109)",done
-c:skilldesc:109:7,Cures Negative Effects,Leczy negatywne efekty,Gyógyítja a negatív hatásokat,"client: skill tooltip, condition 2 (skill 109)",done
-c:skilldesc:109:8,Usable on a party member|Activates Heavenly Shield,Możliwość użycia na członku grupy|Aktywuje Niebiańską Tarcze,Csapattagon használható|Aktiválja a Mennyei pajzsot,"client: skill tooltip, condition 3 (skill 109)",done
-c:skilldesc:109:17,Restore HP %.0f-%.0f,Przywraca PŻ %.0f,HP-visszatöltés %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 109) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:109:20,Cures Negative Effects Chance %.0f%%,Szansa na usunięcie negat. efektów %.0f%%,Negatív hatások gyógyításának esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 109) | keep: %.0f | max 64 characters",done
-c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,Szörnysebzés elnyelése +%.0f,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",done
-c:skilldesc:110:2,Swiftness,Zwinność ,Fürgeség,"client: skill tooltip, skill name (skill 110)",done
-c:skilldesc:110:3,Quickness,Szybkość ,Gyorsaság,"client: skill tooltip, skill name (M) (skill 110)",done
-c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,A szél sebessége,"client: skill tooltip, skill name (G/P) (skill 110)",done
-c:skilldesc:110:5,Run as fast as the Wind.,Biegnij szybko jak wiatr ,"Fuss olyan gyorsan, mint a szél.","client: skill tooltip, description (skill 110)",done
-c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,Növeli a mozgási sebességet,"client: skill tooltip, condition 1 (skill 110)",done
-c:skilldesc:110:7,Reduce Casting Speed,Zmniejsza się Czas Ładowania Umiejętności,Csökkenti a varázslási időt,"client: skill tooltip, condition 2 (skill 110)",done
-c:skilldesc:110:8,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Csapattagokon használható|Másik játékoson: -25% bónuszérték.,"client: skill tooltip, condition 3 (skill 110)",done
-c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,Mozgási sebesség +%.0f%%,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",done
-c:skilldesc:110:20,Casting Speed +%.0f%%,Czas Ładowania -%.0f%% ,Varázslási sebesség +%.0f%%,"client: skill tooltip, effect line 2 (skill 110) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:2,Attack Up,Zwiększenie Ataku,Támadás fel,"client: skill tooltip, skill name (skill 111)",done
-c:skilldesc:111:3,Support Attack,Podwyższenie Ataku,Támogató támadás,"client: skill tooltip, skill name (M) (skill 111)",done
-c:skilldesc:111:4,Strengthened Attack,Wzmocnienie Ataku,Megerősített támadás,"client: skill tooltip, skill name (G/P) (skill 111)",done
-c:skilldesc:111:5,Strengthen a partner.,Wzmacnia siłę partnera,Megerősít egy társat.,"client: skill tooltip, description (skill 111)",done
-c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,Növeli a támadóerőt,"client: skill tooltip, condition 1 (skill 111)",done
-c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Csapattagokon használható|Másik játékoson: -25% bónuszérték.,"client: skill tooltip, condition 2 (skill 111)",done
-c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,"Mágikus támadóbónusz, ha magadon használod","client: skill tooltip, condition 3 (skill 111)",done
-c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,Támadóerő +%.1f ,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",done
-c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,Mágikus sebzés (összes) +%.0f%%,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,Mágikus sebzés szörnyek ellen +%.0f%%,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,Bónusz: mágikus sebzés szörnyek ellen +%.0f,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:121:2,Leadership,Dowodzenie,Vezetés,"client: skill tooltip, skill name (skill 121)",done
-c:skilldesc:121:5,Ability to lead partners.,Umiejętność dowodzenia członkami grupy.,A társak vezetésének képessége.,"client: skill tooltip, description (skill 121)",done
-c:skilldesc:122:2,Combo,Kombinacja,Kombó,"client: skill tooltip, skill name (skill 122)",done
-c:skilldesc:122:5,Increase Combo attack.,Ulepsza atak Kombo,Növeli a kombótámadást.,"client: skill tooltip, description (skill 122)",done
-c:skilldesc:123:2,Fishing,Łowienie,Horgászat,"client: skill tooltip, skill name (skill 123)",done
-c:skilldesc:123:5,Fishing knowledge.,Wiedza o łowieniu ryb.,Horgásztudás.,"client: skill tooltip, description (skill 123)",done
-c:skilldesc:124:2,Gathering,Zbieractwo,Gyűjtés,"client: skill tooltip, skill name (skill 124)",done
-c:skilldesc:124:5,Ability to retrieve natural resources.,Umiejętność w pozyskiwaniu zasobów z natury.,Természeti erőforrások kinyerésének képessége.,"client: skill tooltip, description (skill 124)",done
-c:skilldesc:125:2,Item Creation,Tworzenie Przedmiotu,Tárgykészítés,"client: skill tooltip, skill name (skill 125)",done
-c:skilldesc:125:5,Create an item.,Stwórz przedmiot,Tárgyat készít.,"client: skill tooltip, description (skill 125)",done
-c:skilldesc:126:2,Shinsoo Language,Język Shinsoo,Shinsoo nyelv,"client: skill tooltip, skill name (skill 126)",done
-c:skilldesc:126:5,You can understand the Shinsoo language.,Rozumiesz język Shinsoo.,Érted a Shinsoo nyelvet.,"client: skill tooltip, description (skill 126)",done
-c:skilldesc:127:2,Chunjo Language,Język Chunjo,Chunjo nyelv,"client: skill tooltip, skill name (skill 127)",done
-c:skilldesc:127:5,You can understand the Chunjo language.,Rozumiesz język Chunjo.,Érted a Chunjo nyelvet.,"client: skill tooltip, description (skill 127)",done
-c:skilldesc:128:2,Jinno Language,Język Jinno,Jinno nyelv,"client: skill tooltip, skill name (skill 128)",done
-c:skilldesc:128:5,You can understand the Jinno language.,Rozumiesz język Jinno.,Érted a Jinno nyelvet.,"client: skill tooltip, description (skill 128)",done
-c:skilldesc:129:2,Polymorph,Polimorfia,Átváltozás,"client: skill tooltip, skill name (skill 129)",done
-c:skilldesc:129:5,Transform into a monster.,Przemiana w potwora,Szörnnyé változol.,"client: skill tooltip, description (skill 129)",done
-c:skilldesc:130:2,Horse Riding,Jeździectwo,Lovaglás,"client: skill tooltip, skill name (skill 130)",done
-c:skilldesc:130:5,Ability to ride a horse.,Umiejętność jazdy na koniu,A lovaglás képessége.,"client: skill tooltip, description (skill 130)",done
-c:skilldesc:131:2,Call Horse,Przywołaj Konia,Ló hívása,"client: skill tooltip, skill name (skill 131)",done
-c:skilldesc:131:5,Summon a horse.,Zwiększa szansę na przywołanie konia.,Lovat idéz.,"client: skill tooltip, description (skill 131)",done
-c:skilldesc:132:2,Sprint,Sprint,Vágta,"client: skill tooltip, skill name (skill 132)",done
-c:skilldesc:132:5,"In the old days of our world, people ran their prey to death. Uses stamina (yellow bar). Increases movement speed up to 150 points on foot, with no limit while riding.","W dawnych czasach naszego świata, ludzie zabiegiwali zwierzynę na śmierć. Utylizuje punkty staminy (żółty pasek). Zwiększa szybkość ruchu do 150 punktów (pieszo), konno bez ograniczeń.","Világunk régi napjaiban az emberek halálra hajszolták a zsákmányukat. Állóképességet használ (sárga sáv). Gyalog legfeljebb 150 ponttal növeli a mozgási sebességet, lóháton korlát nélkül.","client: skill tooltip, description (skill 132)",done
-c:skilldesc:137:2,Horseback Slash,Cięcie z Siodła,Lovas csapás,"client: skill tooltip, skill name (skill 137)",done
-c:skilldesc:137:5,Attack enemies whilst riding a horse. (from lv. 50),Atakuj wrogów podczas jazdy konnno. (od poz.50),Lóháton támadja az ellenségeket. (50. szinttől),"client: skill tooltip, description (skill 137)",done
-c:skilldesc:137:6,Riding Skill,Umiejętność Jeździecka,Lovaglási képzettség,"client: skill tooltip, condition 1 (skill 137)",done
-c:skilldesc:138:2,Horse Stump,Stąpnięcie Konia,Lótaposás,"client: skill tooltip, skill name (skill 138)",done
-c:skilldesc:138:5,Attack all nearby enemies. (from level 52),Zaatakuj wszystkich wrogów w pobliżu. (od p. 52),Az összes közeli ellenséget támadja. (52. szinttől),"client: skill tooltip, description (skill 138)",done
-c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,Lovaglási képzettség,"client: skill tooltip, condition 1 (skill 138)",done
-c:skilldesc:139:2,Power Wave,Fala Mocy,Erőhullám,"client: skill tooltip, skill name (skill 139)",done
-c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",Lóhátról támadja az összes ellenséget. (55. szinttől),"client: skill tooltip, description (skill 139)",done
-c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,Lovaglási képzettség,"client: skill tooltip, condition 1 (skill 139)",done
-c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:140:2,Arrow Storm,Grad Strzał,Nyílvihar,"client: skill tooltip, skill name (skill 140)",done
-c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),Lóháton nyilaz. (50. szinttől),"client: skill tooltip, description (skill 140)",done
-c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,Lovaglási képzettség,"client: skill tooltip, condition 1 (skill 140)",done
-c:skilldesc:151:2,Dragon Eyes,Smocze Oczy,Sárkányszemek,"client: skill tooltip, skill name (skill 151)",done
-c:skilldesc:151:5,Increase Maximum Dragon Ghost.,Zwiększa maksimum Ducha Smoka,Növeli a maximális Sárkányszellemet.,"client: skill tooltip, description (skill 151)",done
-c:skilldesc:151:17,Max. Dragon Ghost Increase +%.0f,Maksymalny Duch Smoka +%.0f,Max. Sárkányszellem növelése +%.0f,"client: skill tooltip, effect line 1 (skill 151) | keep: %.0f | max 64 characters",done
-c:skilldesc:152:2,Blood of Dragon God,Krew Boga Smoków,A Sárkányisten vére,"client: skill tooltip, skill name (skill 152)",done
-c:skilldesc:152:5,Increase Max HP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PŻ.,Egy ideig növeli minden céhtag maximális HP-ját.,"client: skill tooltip, description (skill 152)",done
-c:skilldesc:152:6,Guild War Only,Tylko Wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 152)",done
-c:skilldesc:152:17,Max. HP Increase +%.0f%%,Maks. PŻ +%.0f%%,Max. HP növelése +%.0f%%,"client: skill tooltip, effect line 1 (skill 152) | keep: %.0f | max 64 characters",done
-c:skilldesc:153:2,Benediction of Dragon God,Błogosławieństwo Boga Smoków,A Sárkányisten áldása,"client: skill tooltip, skill name (skill 153)",done
-c:skilldesc:153:5,Increase Max SP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PE.,Egy ideig növeli minden céhtag maximális SP-jét.,"client: skill tooltip, description (skill 153)",done
-c:skilldesc:153:6,Guild War Only,Tylko wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 153)",done
-c:skilldesc:153:17,Max. SP Increase +%.0f%%,Maks. PE +%.0f%%,Max. SP növelése +%.0f%%,"client: skill tooltip, effect line 1 (skill 153) | keep: %.0f | max 64 characters",done
-c:skilldesc:154:5,Increase defence of all guild members for a period of time.,Zwiększ na pewien czas swoją obronę.,Egy ideig növeli minden céhtag védelmét.,"client: skill tooltip, description (skill 154)",done
-c:skilldesc:154:6,Guild War Only,Tylko wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 154)",done
-c:skilldesc:154:17,Defence Increase +%.1f%%,Obrona +%.1f%%,Védelem növelése +%.1f%%,"client: skill tooltip, effect line 1 (skill 154) | keep: %.1f | max 64 characters",done
-c:skilldesc:155:2,Acceleration,Akceleracja,Gyorsítás,"client: skill tooltip, skill name (skill 155)",done
-c:skilldesc:155:5,Increase attack and motion speed of all guild members for a period of time.,Zwiększa przez określony czas szybkość ataku i szybkość ruchu,Egy ideig növeli minden céhtag támadási és mozgási sebességét.,"client: skill tooltip, description (skill 155)",done
-c:skilldesc:155:6,Guild War Only,Tylko wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 155)",done
-c:skilldesc:155:17,Attack Speed and Motion Increase +%.1f,Szybkość ataku i ruchu zwiększona +%.1f,Támadási és mozgási sebesség növelése +%.1f,"client: skill tooltip, effect line 1 (skill 155) | keep: %.1f | max 64 characters",done
-c:skilldesc:156:2,Rage of Dragon God,Furia Boga Smoków,A Sárkányisten dühe,"client: skill tooltip, skill name (skill 156)",done
-c:skilldesc:156:5,Increase Critical Hit Chance of all guild members for a period of time.,Zwiększ na pewien czas szanse na zadanie ciosu krytycznego.,Egy ideig növeli minden céhtag kritikus találati esélyét.,"client: skill tooltip, description (skill 156)",done
-c:skilldesc:156:6,Guild War Only,Tylko wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 156)",done
-c:skilldesc:156:17,Increase Critical Hit Chance +%.0f%%,szansę na cios krytyczny +%.0f%%,Kritikus találati esély növelése +%.0f%%,"client: skill tooltip, effect line 1 (skill 156) | keep: %.0f | max 64 characters",done
-c:skilldesc:157:2,Casting Aid,Magiczna Pomoc,Varázslássegítség,"client: skill tooltip, skill name (skill 157)",done
-c:skilldesc:157:5,Decrease cool down time of all guild members for a period of time.,Zmniejsz na pewien czas czas regeneracji swoich umiejętności.,Egy ideig csökkenti minden céhtag várakozási idejét.,"client: skill tooltip, description (skill 157)",done
-c:skilldesc:157:6,Guild War Only,Tylko wojna gildii,Csak céhháborúban,"client: skill tooltip, condition 1 (skill 157)",done
-c:skilldesc:157:17,Casting Speed Increase +%.0f%%,Czas regeneracji -%.0f%%,Varázslási sebesség növelése +%.0f%%,"client: skill tooltip, effect line 1 (skill 157) | keep: %.0f | max 64 characters",done
-c:file:rules,"General
-1.1. Metin2 Singleplayer is a free fan project: the server runs on your own computer and the world is populated by bots (Playerbots). The project is not affiliated with Gameforge or Webzen.[ENTER]1.2. Releases and updates of the project are published on GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. You play at your own risk. The project is provided ""as is"", without any warranty.
-Rules
-2.1. On your own server you play as you like. The admin / admin account is the test account of your installation.[ENTER]2.2. If you share the server with friends, you are its administrator and you keep order: fair play, respect for others, no cheating and no spoiling other people's game.[ENTER]2.3. Do not pass the package off as your own and do not make money from it. Since version 2.2.55 the project is licensed under CC BY-NC-ND 4.0 (the LICENSE file in the server folder): you may use it and share the official packages unchanged if you credit the author and do not make money from it; you may not share adaptations or separate distributions. The project is and stays free.
-Supporting the project
-3.1. Development, testing and the test server cost time and money. If you enjoy the project, you can buy the authors a coffee: buycoffee.to/metin2-playerbots.[ENTER]3.2. Support is entirely voluntary and unlocks nothing in the game.
-Community and help
-4.1. The project's Discord: discord.gg/DyCxXdZtnV - report bugs, ideas and questions there; news of new versions appears there too.[ENTER]4.2. When you report a bug, attach the log bundle from the launcher (DIAGNOSTICS, ""Collect logs (ZIP)""). Without it, hardly anything can be fixed.
-Privacy
-5.1. Everything runs locally: the client connects only to 127.0.0.1, and the server opens no ports to the outside.[ENTER]5.2. The game sends your data nowhere. The launcher connects to GitHub only to check whether there is a new version.
-Changes to these rules
-6.1. A new version of the game may bring new content to this window. It will then be shown again at your next login.[ENTER]6.2. Have fun!","Postanowienia ogólne
-1.1. Metin2 Singleplayer to darmowy projekt fanowski: serwer działa na Twoim komputerze, a świat zaludniają boty (Playerbots). Projekt nie jest powiązany z Gameforge ani Webzen.[ENTER]1.2. Wydania i aktualizacje projektu są publikowane na GitHubie: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Korzystasz z gry na własną odpowiedzialność. Projekt jest dostarczany w stanie „jak jest”, bez gwarancji.
-Zasady
-2.1. Na własnym serwerze grasz, jak chcesz. Konto admin / admin jest kontem testowym Twojej instalacji.[ENTER]2.2. Jeżeli udostępniasz serwer znajomym, to Ty jesteś jego administratorem i odpowiadasz za porządek: gra fair, szacunek dla innych, żadnych oszustw ani przeszkadzania w grze.[ENTER]2.3. Nie podawaj paczki jako własnej i nie zarabiaj na niej. Od wersji 2.2.55 projekt jest na licencji CC BY-NC-ND 4.0 (plik LICENSE w folderze serwera): możesz z niego korzystać i udostępniać oficjalne paczki bez zmian, jeśli podasz autora i nie zarabiasz na nim; przeróbek i osobnych dystrybucji udostępniać nie wolno. Projekt jest i pozostaje darmowy.
-Wsparcie projektu
-3.1. Rozwój, testy i serwer testowy kosztują czas i pieniądze. Jeżeli projekt sprawia Ci radość, możesz postawić kawę autorom: buycoffee.to/metin2-playerbots.[ENTER]3.2. Wsparcie jest całkowicie dobrowolne i niczego nie odblokowuje w grze.
-Społeczność i pomoc
-4.1. Discord projektu: discord.gg/DyCxXdZtnV — tam zgłaszaj błędy, pomysły i pytania, tam też pojawiają się informacje o nowych wersjach.[ENTER]4.2. Zgłaszając błąd, dołącz paczkę logów z launchera (przycisk „ZBIERZ LOGI”). Bez niej trudno cokolwiek naprawić.
-Prywatność
-5.1. Wszystko działa lokalnie: klient łączy się wyłącznie z 127.0.0.1, serwer nie otwiera żadnych portów na zewnątrz.[ENTER]5.2. Gra nie wysyła nigdzie Twoich danych. Launcher łączy się z GitHubem tylko po to, żeby sprawdzić, czy jest nowa wersja.
-Zmiany regulaminu
-6.1. Nowa wersja gry może przynieść nową treść tego okna. Pokaże się ono ponownie przy najbliższym logowaniu.[ENTER]6.2. Miłej gry!","Általános
-1.1. A Metin2 Singleplayer ingyenes rajongói projekt: a szerver a saját számítógépeden fut, a világot botok (Playerbots) népesítik be. A projekt nem kapcsolódik a Gameforge-hoz vagy a Webzenhez.[ENTER]1.2. A projekt kiadásai és frissítései a GitHubon jelennek meg: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Saját felelősségedre játszol. A projekt ""ahogy van"", mindenféle garancia nélkül érhető el.
-Szabályok
-2.1. A saját szervereden úgy játszol, ahogy szeretnél. Az admin / admin fiók a telepítésed tesztfiókja.[ENTER]2.2. Ha a szervert barátaiddal osztod meg, te vagy az adminisztrátora, és te tartasz rendet: tisztességes játék, mások tisztelete, semmi csalás és mások játékának elrontása.[ENTER]2.3. Ne add ki a csomagot a sajátodként, és ne keress vele pénzt. A 2.2.55-ös verzió óta a projekt CC BY-NC-ND 4.0 licenc alatt áll (a LICENSE fájl a szerver mappájában): használhatod, és változatlanul megoszthatod a hivatalos csomagokat, ha feltünteted a szerzőt, és nem keresel vele pénzt; átdolgozásokat vagy külön terjesztéseket nem oszthatsz meg. A projekt ingyenes, és az is marad.
-A projekt támogatása
-3.1. A fejlesztés, a tesztelés és a tesztszerver időbe és pénzbe kerül. Ha tetszik a projekt, meghívhatod a szerzőket egy kávéra: buycoffee.to/metin2-playerbots.[ENTER]3.2. A támogatás teljesen önkéntes, és semmit sem old fel a játékban.
-Közösség és segítség
-4.1. A projekt Discordja: discord.gg/DyCxXdZtnV - ott jelentsd a hibákat, ötleteket és kérdéseket; az új verziók hírei is ott jelennek meg.[ENTER]4.2. Hibabejelentéskor csatold a naplócsomagot az indítóból (DIAGNOSZTIKA, ""Naplók gyűjtése (ZIP)""). Enélkül szinte semmit sem lehet javítani.
-Adatvédelem
-5.1. Minden helyben fut: a kliens csak a 127.0.0.1-hez kapcsolódik, a szerver pedig nem nyit portot kifelé.[ENTER]5.2. A játék sehová sem küldi az adataidat. Az indító csak azért kapcsolódik a GitHubhoz, hogy megnézze, van-e új verzió.
-A szabályok változása
-6.1. A játék új verziója új tartalmat hozhat ebbe az ablakba. Ilyenkor a következő belépéskor újra megjelenik.[ENTER]6.2. Jó szórakozást!",client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:jobdesc_warrior,"[DELAY value;0]
-By virtue of their heavy[ENTER]
-armour, weapons and skills,[ENTER]
-Warriors play a crucial role[ENTER]
-in close combat situations.[ENTER]
-Their two aims in life are[ENTER]
-[WAIT]
-for raw physical strength[ENTER]
-combined with a balanced and[ENTER]
-serene psyche. Depending on[ENTER]
-their chosen specialisation,[ENTER]
-Warriors can deal out[ENTER]
-[WAIT]
-devastating amounts of[ENTER]
-damage with two-handed[ENTER]
-weapons, or skilfully[ENTER]
-combine shield and sword to[ENTER]
-neutralise the attacks of[ENTER]
-[WAIT]
-multiple enemies.","[DELAY value;0]
-Dzięki swoim umiejętnościom[ENTER]
-oraz możliwości noszenia[ENTER]
-ciężkich zbroi Wojownicy[ENTER]
-odgrywają ważną rolę w[ENTER]
-walkach w zwarciu. Jedyne[ENTER]
-czego pragną, to bardzo[ENTER]
-silne ciało i zbalansowany[ENTER]
-umysł. Zgodnie z ich[ENTER]
-zwyczajami i specjalizacją[ENTER]
-mogą albo zadawać ogromne[ENTER]
-obrażenia dzięki oburęcznym[ENTER]
-broniom albo parować ataki[ENTER]
-wroga mieczem i tarczą.","[DELAY value;0]
-Nehéz páncéljuknak, fegyvereiknek[ENTER]
-és képzettségeiknek köszönhetően[ENTER]
-a Harcosok döntő szerepet[ENTER]
-játszanak a közelharcban.[ENTER]
-Két életcéljuk a[ENTER]
-[WAIT]
-nyers testi erő,[ENTER]
-kiegyensúlyozott és nyugodt lélekkel[ENTER]
-párosítva. A választott[ENTER]
-szakiránytól függően a Harcosok[ENTER]
-kétkezes fegyverekkel[ENTER]
-[WAIT]
-pusztító sebzést okozhatnak,[ENTER]
-vagy ügyesen ötvözhetik[ENTER]
-a pajzsot[ENTER]
-és a kardot, hogy[ENTER]
-több ellenség támadását[ENTER]
-[WAIT]
-is semlegesítsék.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:jobdesc_assassin,"[DELAY value;0]
-Ninjas are professional[ENTER]
-killers, capable of carrying[ENTER]
-out silent and deadly[ENTER]
-attacks from their ambush.[ENTER]
-To maximise their speed and[ENTER]
-[WAIT]
-agility, these shadowy[ENTER]
-assassins of the night wear[ENTER]
-only the lightest armour, so[ENTER]
-as not to hinder their fleet[ENTER]
-and fluid movements.[ENTER]
-[WAIT]
-Depending on their[ENTER]
-particular areas of[ENTER]
-expertise, Ninjas can use[ENTER]
-their mastery of the dagger[ENTER]
-in close quarters, or wield[ENTER]
-[WAIT]
-a bow and arrow from[ENTER]
-distance.","[DELAY value;0]
-Ninja są profesjonalnymi[ENTER]
-zabójcami, którzy są w[ENTER]
-stanie zaatakować swojego[ENTER]
-przeciwnika z zaskoczenia.[ENTER]
-Aby zapewnić sobie[ENTER]
-odpowiednią zwinność i[ENTER]
-szybkość, prawdziwi Ninja[ENTER]
-noszą tylko lekkie pancerze[ENTER]
-ochronne. Zgodnie z ich[ENTER]
-profesją Ninja są albo[ENTER]
-mistrzami sztyletów albo[ENTER]
-doskonale atakują z dystansu[ENTER]
-za pomocą Łuku.","[DELAY value;0]
-A Nindzsák hivatásos[ENTER]
-gyilkosok, akik lesből[ENTER]
-néma és halálos[ENTER]
-támadásokra képesek. Hogy[ENTER]
-sebességük és fürgeségük a[ENTER]
-[WAIT]
-lehető legnagyobb legyen,[ENTER]
-az éjszaka árnyékos[ENTER]
-orgyilkosai csak a legkönnyebb[ENTER]
-páncélt viselik, hogy[ENTER]
-ne akadályozza gyors[ENTER]
-[WAIT]
-és gördülékeny[ENTER]
-mozgásukat. Szakterületüktől[ENTER]
-függően a Nindzsák[ENTER]
-közelharcban tőrrel mutathatják meg[ENTER]
-mesterségüket, vagy íjjal[ENTER]
-[WAIT]
-és nyíllal harcolhatnak[ENTER]
-távolról.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:jobdesc_sura,"[DELAY value;0]
-Suras are fighters who were[ENTER]
-blessed with magical powers[ENTER]
-when they agreed to allow[ENTER]
-the Seed of Evil to grow in[ENTER]
-their arms. The magic under[ENTER]
-[WAIT]
-their control allows them to[ENTER]
-inflict damage on their[ENTER]
-enemies from afar, and they[ENTER]
-make competent melee[ENTER]
-fighters thanks to their[ENTER]
-[WAIT]
-excellent swordsmanship.[ENTER]
-Depending on their choice of[ENTER]
-specialisation, Suras can[ENTER]
-improve their attack spells[ENTER]
-or develop additional[ENTER]
-[WAIT]
-strengthening spells.","[DELAY value;0]
-Sura to wojownicy, którzy[ENTER]
-otrzymali potężne magiczne[ENTER]
-moce, gdy zgodzili się na[ENTER]
-przyjęcie do ich rąk[ENTER]
-diabelskiego nasiona. Dzięki[ENTER]
-temu są w stanie sprawnie[ENTER]
-posługiwać się mieczem w[ENTER]
-zwarciu albo ranić wroga na[ENTER]
-dystans przy użyciu magii.[ENTER]
-Poprzez specjalizację mogą[ENTER]
-ulepszać swoje zaklęcia[ENTER]
-ofensywne albo otrzymać inne[ENTER]
-moce wspierające.","[DELAY value;0]
-A Surák olyan harcosok,[ENTER]
-akik mágikus erőt[ENTER]
-kaptak, amikor beleegyeztek,[ENTER]
-hogy a Gonosz Magja[ENTER]
-a karjukban növekedjen.[ENTER]
-[WAIT]
-Az uralmuk alatti mágia[ENTER]
-lehetővé teszi, hogy[ENTER]
-távolról sebezzék az[ENTER]
-ellenségeiket, kiváló kardforgatásuknak[ENTER]
-köszönhetően pedig a[ENTER]
-[WAIT]
-közelharcban is megállják[ENTER]
-a helyüket. A választott[ENTER]
-szakiránytól függően a[ENTER]
-Surák fejleszthetik támadó varázslataikat,[ENTER]
-vagy további[ENTER]
-[WAIT]
-erősítő varázslatokat tanulhatnak.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:jobdesc_shaman,"[DELAY value;0]
-Employing the wisdom achieve[ENTER]
-through long years of[ENTER]
-intense study, the Shamans[ENTER]
-use spells and magic to[ENTER]
-attack their foes. Their[ENTER]
-[WAIT]
-mystical powers are also of[ENTER]
-great effect in supporting[ENTER]
-their allies. Depending on[ENTER]
-their focus, Shamans can[ENTER]
-provide a boost to attacks,[ENTER]
-[WAIT]
-or instead choose to enhance[ENTER]
-individual healing and[ENTER]
-support spells.","[DELAY value;0]
-Szamani są bardzo mądrzy i[ENTER]
-używają potężnych zaklęć[ENTER]
-oraz magii. Podczas bitwy i[ENTER]
-w trakcie wspierania swoich[ENTER]
-przyjaciół ich mistyczne[ENTER]
-zaklęcia są bardzo pomocne.[ENTER]
-Poprzez specjalizację[ENTER]
-Szamani mogą albo zwiększać[ENTER]
-swoją siłę ofensywną, albo[ENTER]
-ulepszać swoje umiejętności[ENTER]
-leczące i zaklęcia[ENTER]
-wspierające.","[DELAY value;0]
-A hosszú évek[ENTER]
-kemény tanulásával szerzett[ENTER]
-bölcsességükre támaszkodva a[ENTER]
-Sámánok varázslatokkal és[ENTER]
-mágiával támadják ellenfeleiket.[ENTER]
-[WAIT]
-Misztikus erejük a[ENTER]
-szövetségesek támogatásában is[ENTER]
-nagyon hatásos. Irányultságuktól[ENTER]
-függően a Sámánok[ENTER]
-erősíthetik a támadásokat,[ENTER]
-[WAIT]
-vagy inkább egyes gyógyító[ENTER]
-és támogató[ENTER]
-varázslatokat fejleszthetnek.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:empiredesc_a,"[DELAY value;10]
-Shinsoo Kingdom[ENTER]
-[ENTER]
-The Shinsoo kingdom is located in the[ENTER]
-southern part of the continent. The[ENTER]
-main activity of[ENTER]
-[WAIT]
-the population is[ENTER]
-trade. Opened[ENTER]
-after the disintegration of the[ENTER]
-former empire by Yoon-Yoing,[ENTER]
-trade with[ENTER]
-[WAIT]
-the east quickly became[ENTER]
-a profitable arrangement.[ENTER]
-Shinsoo has conflicts[ENTER]
-with the western kingdom[ENTER]
-and the trade road[ENTER]
-[WAIT]
-can be dangerous.[ENTER]
-When they recognized[ENTER]
-the threat posed by[ENTER]
-the Metin Stones, the[ENTER]
-merchants armed themselves. Their [ENTER]
-[WAIT]
-aim is to defend themselves[ENTER]
-against western attacks,[ENTER]
-reopen the trade road [ENTER]
-and reunite the former[ENTER]
-empire under their[ENTER]
-[WAIT]
-Emperor.","[DELAY value;0]
-Królestwo Shinsoo[ENTER]
-[ENTER]
-Królestwo Shinsoo znajduje[ENTER]
-się na południu kontynentu.[ENTER]
-Mieszkańcy są w większości[ENTER]
-zajęci handlem. Stworzone[ENTER]
-przez Yoon-Yoing po tym, jak[ENTER]
-imperium upadło, stosunki[ENTER]
-handlowe ze wschodem[ENTER]
-doprowadziły szybko do[ENTER]
-ożywienia.[ENTER]
-Mieszkańcy walczą non stop z[ENTER]
-zachodem i ta trasa handlowa[ENTER]
-jest całkowicie odcięta.[ENTER]
-Będąc świadomi, że kamienie[ENTER]
-[WAIT]
-Metin są zagrożeniem dla ich[ENTER]
-podstaw życia, handlarze[ENTER]
-uzbroili się. Ich celem jest[ENTER]
-być w stanie przetrzymać[ENTER]
-ataki z zachodu, aby[ENTER]
-otworzyć ponownie wszystkie[ENTER]
-trasy handlowe i aby[ENTER]
-zjednoczyć cały kontynent[ENTER]
-pod ich dowództwem.","[DELAY value;10]
-Shinsoo Királyság[ENTER]
-[ENTER]
-A Shinsoo királyság a kontinens[ENTER]
-déli részén fekszik. A lakosság[ENTER]
-fő foglalkozása[ENTER]
-[WAIT]
-a kereskedelem.[ENTER]
-A régi[ENTER]
-birodalom széthullása után Yoon-Yoing[ENTER]
-nyitotta meg a[ENTER]
-keleti kereskedelmet,[ENTER]
-[WAIT]
-amely hamar jövedelmező[ENTER]
-üzlet lett. Shinsoo[ENTER]
-viszályban áll a[ENTER]
-nyugati királysággal, és[ENTER]
-a kereskedelmi út[ENTER]
-[WAIT]
-veszélyes lehet.[ENTER]
-Amikor felismerték[ENTER]
-a Metinkövek jelentette[ENTER]
-fenyegetést, a kereskedők[ENTER]
-felfegyverkeztek. Céljuk, hogy megvédjék[ENTER]
-[WAIT]
-magukat a nyugati támadásoktól,[ENTER]
-újra megnyissák a[ENTER]
-kereskedelmi utat, és[ENTER]
-Császáruk alatt újraegyesítsék[ENTER]
-a régi[ENTER]
-[WAIT]
-birodalmat.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:empiredesc_b,"[DELAY value;10]
-Chunjo Kingdom[ENTER]
-[ENTER]
-The Chunjo Kingdom is[ENTER]
-located in the western part of[ENTER]
-the continent. It is a theocratic[ENTER]
-[WAIT]
-kingdom and is controlled[ENTER]
-by its spiritual leader. It[ENTER]
-was founded by[ENTER]
-Yoon-Young, a cousin of the[ENTER]
-former emperor. Yoon's[ENTER]
-[WAIT]
-wife possessed vast[ENTER]
-magical powers, and it was she[ENTER]
-helped very soon to see the[ENTER]
-threat caused by[ENTER]
-metin stones. He said[ENTER]
-[WAIT]
-many times that there was something[ENTER]
-what to do but was[ENTER]
-ignored. So it led to[ENTER]
-its people to a rebellion[ENTER]
-against the empire, that the[ENTER]
-[WAIT]
-seasoning was still standing.[ENTER]
-After the Empire[ENTER]
-succumbed, his kingdom entered[ENTER]
-at war with the regions[ENTER]
-east and had problems[ENTER]
-[WAIT]
-with the south. The people of[ENTER]
-kingdom of Chunjo wanted[ENTER]
-reign over all[ENTER]
-continent to have[ENTER]
-control of growing power[ENTER]
-[WAIT]
-of the Metin Stones.","[DELAY value;0]
-Królestwo Chunjo[ENTER]
-[ENTER]
-Królestwo Chunjo jest[ENTER]
-położone na wschodzie[ENTER]
-kontynentu. Jest to[ENTER]
-królestwo teokratyczne i[ENTER]
-jest prowadzone przez[ENTER]
-duchowych Przywódców.[ENTER]
-Królestwo było stworzone[ENTER]
-przez Yoon-Young, który jest[ENTER]
-kuzynem poprzedniego[ENTER]
-Imperatora. Jego żona,[ENTER]
-posiadająca potężne magiczne[ENTER]
-umiejętności, pomogła mu[ENTER]
-bardzo wcześnie dostrzec[ENTER]
-[WAIT]
-masywne zagrożenie[ENTER]
-spowodowane przez Kamienie[ENTER]
-Metin.[ENTER]
-Powiedział wiele razy, że[ENTER]
-coś trzeba zrobić, ale[ENTER]
-został zignorowany. Więc[ENTER]
-oprowadził swoich ludzi do[ENTER]
-rebelii przeciw istniejącemu[ENTER]
-jeszcze wtedy Imperium.[ENTER]
-Kiedy Imperium rozpadło się,[ENTER]
-jego Królestwo jest do tej[ENTER]
-pory w stanie wojny z[ENTER]
-regionami wschodnimi i ma[ENTER]
-problemy z Południem. Ludzie[ENTER]
-z królestwa Chunjo chcą[ENTER]
-[WAIT]
-zdobyć kontrolę nad całym[ENTER]
-kontynentem dzięki czemu[ENTER]
-będą w stanie pozbyć się[ENTER]
-rosnących mocy Kamieni[ENTER]
-Metin.","[DELAY value;10]
-Chunjo Királyság[ENTER]
-[ENTER]
-A Chunjo Királyság[ENTER]
-a kontinens nyugati[ENTER]
-részén fekszik. Teokratikus királyság,[ENTER]
-[WAIT]
-amelyet szellemi vezetője[ENTER]
-irányít. Yoon-Young, az utolsó[ENTER]
-császár[ENTER]
-unokatestvére alapította. Yoon feleségének[ENTER]
-hatalmas mágikus[ENTER]
-[WAIT]
-ereje volt, és[ENTER]
-ő ismerte fel[ENTER]
-nagyon korán a Metinkövek[ENTER]
-fenyegetését. Sokszor[ENTER]
-figyelmeztetett, hogy[ENTER]
-[WAIT]
-tenni kell valamit, de[ENTER]
-nem hallgattak rá.[ENTER]
-Ezért népét[ENTER]
-lázadásba vezette a[ENTER]
-még álló birodalom ellen.[ENTER]
-[WAIT]
-A birodalom bukása[ENTER]
-után királysága[ENTER]
-háborúba keveredett a keleti[ENTER]
-vidékekkel, és gondjai[ENTER]
-lettek a[ENTER]
-[WAIT]
-déllel. Chunjo népe az[ENTER]
-egész kontinens felett[ENTER]
-akart uralkodni,[ENTER]
-hogy kézben[ENTER]
-tartsa a Metinkövek[ENTER]
-[WAIT]
-növekvő erejét.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
-c:file:empiredesc_c,"[DELAY value;10]
-Jinno Kingdom[ENTER]
-[ENTER]
-The Jinno kingdom is located in[ENTER]
-the eastern part of the[ENTER]
-continent. This kingdom was[ENTER]
-[WAIT]
- founded on military might and[ENTER]
-the population is aggressive and militant.[ENTER]
-The leader of the Jinno[ENTER]
-kingdom is Ee-Ryoong,[ENTER]
-the son of the last[ENTER]
-[WAIT]
-emperor. He believes that he[ENTER]
-can reunite the former[ENTER]
-empire through war.[ENTER]
-Fears about the implications[ENTER]
-or effects of the Metin Stones[ENTER]
-[WAIT]
-are officially ignored. But[ENTER]
-secretly, Ee-Ryoong is trying[ENTER]
-to find a way to use[ENTER]
-the deadly power of[ENTER]
-the Metin Stones[ENTER]
-[WAIT]
-for military purposes.","[DELAY value;0]
-Królestwo Jinno[ENTER]
-[ENTER]
-Królestwo Jinoo znajduje się[ENTER]
-we wschodnich regionach[ENTER]
-kontynentu. Podstawą[ENTER]
-królestwa jest siła[ENTER]
-militarna. Jego ludzie są[ENTER]
-agresywni i lubiący wojnę.[ENTER]
-Królestwem Jinoo zarządza[ENTER]
-Ee-Ryoong, syn ostatniego[ENTER]
-Imperatora. Czuje się[ENTER]
-wybrany do zjednoczenia[ENTER]
-starego Imperium poprzez[ENTER]
-jego dominację i silną[ENTER]
-Armię.[ENTER]
-[WAIT]
-Boi się,że znaczenie i[ENTER]
-efekty Kamieni Metin są[ENTER]
-oficjalnie ignorowane przez[ENTER]
-Królestwo Jinoo.[ENTER]
-Sekretnie,	Ee-Ryoong próbuje[ENTER]
-wykorzystać destrukcyjne[ENTER]
-moce Kamieni Metin dla[ENTER]
-wojny.","[DELAY value;10]
-Jinno Királyság[ENTER]
-[ENTER]
-A Jinno királyság a[ENTER]
-kontinens keleti részén[ENTER]
-fekszik. Ezt a[ENTER]
-[WAIT]
-királyságot katonai erőre[ENTER]
-alapították, lakossága agresszív és harcias. A[ENTER]
-Jinno királyság[ENTER]
-vezetője Ee-Ryoong, az[ENTER]
-utolsó császár[ENTER]
-[WAIT]
-fia. Úgy hiszi, háborúval[ENTER]
-újraegyesítheti a[ENTER]
-régi birodalmat. A[ENTER]
-Metinkövek következményeivel vagy[ENTER]
-hatásaival kapcsolatos félelmeket hivatalosan[ENTER]
-[WAIT]
-figyelmen kívül hagyják.[ENTER]
-Ee-Ryoong azonban titokban azt[ENTER]
-keresi, hogyan[ENTER]
-használhatná a[ENTER]
-Metinkövek halálos[ENTER]
-[WAIT]
-erejét katonai célokra.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:pbt:4a241e655e75,Choose a bot from the list on the left,,Válassz egy botot a bal oldali listából,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4fb2f511570b,Refresh log,,Napló frissítése,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de5c2bba0c16,Kick the bot,,Bot kirúgása,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a0187353bdc2,Give an item (vnum / amount):,,Tárgy adása (vnum / mennyiség):,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc2575c3930,Send,,Küldés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae665c861fa1,Active bots: %s,,Aktív botok: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:07a33b6f1402,In a party: %s,,Csapatban: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:89fe8f59022c,Keeping a stall: %s,,Standot tart: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:63a6e4280aab,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (%d. szint) - pid %d, poz. (%d, %d), birodalom %d","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d %d %d %d",done
+c:pbt:cb640dce08ec,(this bot has not said anything yet),,(ez a bot még nem mondott semmit),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e161602a2fa3,Achievement #%d,,%d. teljesítmény,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c080148f299b,Won by: %s,,Megszerezte: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bbf7fe0d2377,Nobody yet,,Még senki,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef27679fac54,The bot admin window did not load in this client - see syserr.txt,,A botadminisztrációs ablak nem töltődött be ebben a kliensben - lásd: syserr.txt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5cbff7ffd2bd,Drag Auto Hunt onto the quickbar,,Húzd az Automata vadászatot a gyorssávra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:23707dd8cdef,the server has not confirmed the filter yet - retrying. Pickup waits for the confirmation.,,a szerver még nem igazolta a szűrőt - újrapróbálás. A felvétel a megerősítésre vár.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b70e4a30bebe,the server refused the filter. Pickup paused. Change the filter settings or press Z to retry.,,"a szerver elutasította a szűrőt. A felvétel szünetel. Módosítsd a szűrő beállításait, vagy nyomd meg a Z-t az újrapróbáláshoz.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba7d67df5db7,the server does not know the Auto Hunt filter - it is older than the client. Update the server; until then filtered pickup is paused.,,a szerver nem ismeri az Automata vadászat szűrőjét - régebbi a kliensnél. Frissítsd a szervert; addig a szűrt felvétel szünetel.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d7a10c6a87ee,the server confirmed the filter - pickup resumed.,,a szerver igazolta a szűrőt - a felvétel folytatódik.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:10dfb99f271b,Min. +,,Min. +,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:3f0a8e7383bb,[x] Pick up,,[x] Felvétel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:135927e5861f,Selects or deselects the whole category. Clears manual exceptions while preserving Min. +.,,"Kijelöli vagy törli az egész kategóriát. Törli a kézi kivételeket, a Min. + megmarad.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6a7b377fe22,Name or vnum:,,Név vagy vnum:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea243e47d7b3,vnum exception limit. Use Entire page.,,Vnum-kivételkorlát. Használd az Egész oldal gombot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84a82b56c3af,exception limit; minimum + was not saved.,,Kivételkorlát; a minimális + nem mentődött.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:55dcbd95a175,Page %d/%d - %d items,,%d/%d. oldal - %d tárgy,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:d661b5182ce7,Page %d/%d - %s,,%d/%d. oldal - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
+c:pbt:92428eecce22,Loading catalogue: %d/%d,,Katalógus betöltése: %d/%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:b856edf2d4ee,Click: select item. Min. +: minimum upgrade level.,,Klikk: tárgy kiválasztása. Min. +: minimális fejlesztési szint.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba2b5a5fc869,Searching...,,Keresés...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c49ba22ae5dc,Click a skill: collect only selected skill books.,,Kattints egy képzettségre: csak a kijelölt képzettségkönyveket gyűjti.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96d7f0b44fcf,Click a skill: collect only selected forget books.,,Kattints egy képzettségre: csak a kijelölt Felejtés könyveit gyűjti.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8278c6b1cfe9,Variants: +%d to +%d,,Változatok: +%d - +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:4570b34c0595,Vnum series: ,,Vnum-sorozat: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1fa7c2a796dd,Refine all,,Összes finomítása,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44c13d067cc5,"Current tab, one attempt per set. Click again to stop.",,"Aktuális fül, készletenként egy próbálkozás. Kattints újra a leállításhoz.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50abfd1763fc,Server rejected the attempt. Batch stopped.,,A szerver elutasította a próbálkozást. A sorozat leállt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49f202584e0d,Stop (%d/%d),,Leállítás (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:481bf2955ab7,Waiting for result,,Várakozás az eredményre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b045e587a8ad,First place your chosen refining bean in the window.,,Előbb tedd az ablakba a kiválasztott finomítóbabot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8a5e8f82872,No complete refining sets in this tab.,,Ezen a fülön nincs teljes finomítókészlet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4262c689d900,Server reply timed out. Batch stopped; wait for the pending result.,,A szerver válaszideje lejárt. A sorozat leállt; várd meg a függő eredményt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5605d9f202ee,"Alchemy: %d attempts completed, %d successful.",,"Alkímia: %d próbálkozás kész, %d sikeres.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:0d1945a9b705,Inventory changed. Start a new batch.,,A felszerelés megváltozott. Indíts új sorozatot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4accfc2982bf,No more beans of the chosen type. Batch stopped.,,Nincs több a kiválasztott babból. A sorozat leállt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c4585bfc080,Marbles,,Golyók,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bffd1b75d0b,"Polymorph from its bag: ask, with you (no question), always (also alone in a fight), off.",,"Átváltozás a táskájából: kérdez, veled (kérdés nélkül), mindig (harcban egyedül is), ki.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3b50cd53cc4,Accessories,,Kiegészítők,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce3f44c0310c,Swords,,Kardok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce1649348ab2,Two-handed,,Kétkezes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e7594d5bba6,Daggers,,Tőrök,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f773e9d5bf0,Bows,,Íjak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:650749789a2e,Bells,,Harangok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:73d38dbf7c5d,Fans,,Legyezők,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:731efc758725,Body armour,,Páncélok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:830a75394156,Pendants,,Medálok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1fb2c11ac7e2,Gloves,,Kesztyűk,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75b04b88d466,Rings,,Gyűrűk,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0cb33492c615,Belts,,Övek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14a06b5af02b,Skill books,,Képességkönyvek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d454718ba8f3,Forget books,,Felejtés könyvei,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:760f58705552,Yang,,Yang,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:d8e12fdf7641,Gold stones,,Aranykövek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dfae001500b9,Ability potions,,Képességitalok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c5c266e3c9c,Instant potions,,Azonnali italok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c079af159c5,Continuous potions,,Folyamatos italok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99fab17755b3,Quest items,,Küldetéstárgyak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ebab47857476,Special / manuals,,Különleges / kézikönyvek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7dd3a1d8ed5,Upgrading,,Fejlesztés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fb1092f32d4,Recipes,,Receptek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:632b7a35e960,Other items,,Egyéb tárgyak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d844a14d111,Refinement materials,,Finomítóanyagok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d0c9b26f9cc4,Horse riding,,Lovaglás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f0acc036f949,Gathering,,Gyűjtés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7df7504fc57,Chests and keys,,Ládák és kulcsok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bdceda673b4,Rings and amulets,,Gyűrűk és amulettek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2d4140ad8e1,Polymorph,,Átváltozás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b45a045dfc32,Other books,,Egyéb könyvek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed58f29743f8,Instructions,,Útmutató,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:472b1d3a8bc8,Monkey dungeon,,Majomkazamata,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07ef2028c525,Orc Valley,,Orkvölgy,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e83789be88e,Temple,,Templom,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f6db3f96e9e3,Desert,,Sivatag,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c96e594616e0,Spider dungeon,,Pókkazamata,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91c55059ac81,Sohan,,Sohan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:a418c2fdb30d,Doyyum,,Doyyum,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:f41c4e4dab0b,Forest,,Erdő,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c028657cea3,Red forest,,Vörös erdő,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0fbd8efea51d,Demon tower,,Démontorony,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d1617afae6f,Grotto,,Barlang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7612be290582,Catacomb,,Katakomba,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5b0684bfb97,Maps 90+,,90+ térképek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:47b5b7ad33c5,Other sources,,Egyéb források,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:718a7e8a582e,Body,,Test,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e853f0d7cc6,Mental,,Szellem,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8940d66466e6,Assassin,,Orgyilkos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f75aedc160fd,Archer,,Íjász,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:17182e9dd599,Weaponry,,Fegyverforgatás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ae5e022bd4,Black magic,,Fekete mágia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb22c5e28adf,Dragon,,Sárkány,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:87272fae497d,Healing,,Gyógyítás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7efbe4b17742,Companion's skills,,A társ képzettségei,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:209d832ec6fb,Companion's options,,A társ beállításai,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07ea32dd0e5d,keeps,,megtart,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:801960125a1d,spends,,elkölt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c8f09270fc3,ask,,kérdez,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fdb8e1944d39,with you,,veled,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5b174dc33a0,1. Adding and viewing items,,1. Tárgyak hozzáadása és megtekintése,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9ac41d5dd0f,Open BS with its icon in the inventory panel or with F5. You can add up to 3 items.,,Nyisd meg a BS-t az ikonjával a felszerelés panelen vagy az F5-tel. Legfeljebb 3 tárgyat adhatsz hozzá.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b2ec769b89d,"Drag an item from your inventory into a slot, or right-click it while BS is open.",,"Húzz egy tárgyat a felszerelésből egy helyre, vagy kattints rá jobb gombbal nyitott BS mellett.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e0ff0c83bccb,"Each slot has three tabs: Set 1, Set 2 and Presets. Hover over the icon to see the item.",,"Minden helynek három füle van: 1. készlet, 2. készlet és Előbeállítások. Vidd az egeret az ikon fölé a tárgy megtekintéséhez.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0116c605c925,Equipped items cannot be changed. BS works with the horse bag too.,,Viselt tárgyak nem módosíthatók. A BS a ló táskájával is működik.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b5304dadc5e1,2. Main and alternative bonuses,,2. Fő és alternatív bónuszok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2c6b1d936874,Choose up to 5 main bonuses: all of them must reach their values.,,Válassz legfeljebb 5 fő bónuszt: mindnek el kell érnie az értékét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7223b7ac653a,"If you choose alternatives, at least one of them must match as well.",,"Ha alternatívákat választasz, legalább egynek közülük is teljesülnie kell.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3fb450f3bca,Example: poison as main + devils / undead as alternatives.,,Példa: méreg fő bónuszként + ördögök / élőhalottak alternatívaként.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c109f8f33a0,A value is a minimum (bonus >= target). Any / skip adds no requirement. Right-click a selected bonus to clear its requirement.,,Az érték minimum (bónusz >= cél). A Bármi / kihagyás nem ad feltételt. Jobb klikk egy kijelölt bónuszra törli a feltételét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8871e059527,3. Two independent target sets,,3. Két független célkészlet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fbf4c2a20209,Matching one active set is enough. An empty Set 1 or 2 is inactive.,,"Elég, ha egy aktív készlet teljesül. Az üres 1. vagy 2. készlet inaktív.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40ec6cf4900e,Hitting one whole set is enough. Set 2 can be activated once an item is added.,,Elég egy teljes készletet elérni. A 2. készlet tárgy hozzáadása után kapcsolható be.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c05615224f06,Example: Set 1: 30 average + 12 intelligence. Set 2: 40 average alone.,,Példa: 1. készlet: 30 átlag + 12 intelligencia. 2. készlet: csak 40 átlag.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba0690401010,Both set buttons show their activity. Set 2 must also be enabled.,,Mindkét készletgomb jelzi az állapotát. A 2. készletet be is kell kapcsolni.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aac8cf81eb75,"4. Starting, stopping and a manual change",,"4. Indítás, leállítás és kézi csere","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:898544f98917,Start begins automatic rerolling in that slot. Stop stops that slot.,,Az Indítás elkezdi az automatikus újradobást azon a helyen. A Leállítás leállítja azt a helyet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d070291d74c1,Start all resumes only inactive slots. Redundant Start all / Stop all shows a message.,,Az Összes indítása csak az inaktív helyeket indítja. A fölösleges Összes indítása / leállítása üzenetet mutat.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:598b7a88b00a,"Change bonuses requires stopping this slot first. Clicking while it runs only shows a message. Confirming makes one change, even if the targets already match.",,"A Bónuszok cseréjéhez előbb le kell állítani ezt a helyet. Futás közbeni kattintás csak üzenetet mutat. A megerősítés egy cserét végez, akkor is, ha a célok már teljesülnek.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d66df075256,Start/Stop ignores double-clicks for 0.5 s. Start waits for the previous result; a blocking popup names the bonus and reason.,,"Az Indítás/Leállítás 0,5 mp-ig figyelmen kívül hagyja a dupla kattintást. Az Indítás megvárja az előző eredményt; egy blokkoló ablak megnevezi a bónuszt és az okot.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36f2b9765f4f,5. One speed for all three slots,,5. Egy sebesség mindhárom helyre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e7bde8c4659b,The slider sets the gap between the requests of all active slots: 0.05-1 s.,,"A csúszka beállítja az összes aktív hely kérései közti időt: 0,05-1 mp.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9de16438c8ab,The step is 0.05 s. The default is 0.05 s; the chosen speed is remembered.,,"A lépésköz 0,05 mp. Az alapérték 0,05 mp; a választott sebességet megjegyzi.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5c946b676e2,With 3 items at 0.1 s each item changes about every 0.3 s.,,"3 tárgynál 0,1 mp-cel minden tárgy kb. 0,3 mp-enként változik.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5da70e95d976,"When one finishes, the others speed up. Server delays can slow them down.",,"Ha az egyik végez, a többi felgyorsul. A szerver késése lassíthatja őket.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3afa33527b90,6. Background work and notifications,,6. Háttérmunka és értesítések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24618314a664,"Close, X or Esc hide BS without stopping rerolling. With BS open, hits produce neither PM nor minimap notifications.",,"A Bezárás, az X vagy az Esc elrejti a BS-t az újradobás leállítása nélkül. Nyitott BS mellett a találatok nem adnak sem PÜ-t, sem minitérképes értesítést.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f538bf5de720,PM mode hides the status panel by the minimap. Popup and Popup + PM show the counters and speed.,,A PÜ mód elrejti a minitérkép melletti állapotpanelt. A Felugró ablak és a Felugró ablak + PÜ a számlálókat és a sebességet mutatja.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2bb364852ae8,Start / Stop in the minimap status panel controls all BS slots. Open BS window shows the full window. The notification type is shared by accounts using this client folder.,,A minitérkép állapotpaneljén az Indítás / Leállítás minden BS-helyet vezérel. A BS ablak megnyitása a teljes ablakot mutatja. Az értesítés típusa közös az ezt a kliensmappát használó fiókoknál.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e56a0b933e2,"Choose Popup, PM or Popup + PM next to Presets. Hit notifications work only in the background. PM briefly pauses rerolls until its quest ends.",,"Válaszd a Felugró ablak, PÜ vagy Felugró ablak + PÜ lehetőséget az Előbeállítások mellett. A találati értesítések csak háttérben működnek. A PÜ rövid időre szünetelteti az újradobást, amíg a küldetése véget nem ér.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6687301e162b,7. Server confirmations and pauses,,7. Szerver-visszaigazolások és szünetek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:77e82fbcdad7,BS waits for a change to be confirmed before it sends the next request.,,"A BS megvárja a csere megerősítését, mielőtt elküldi a következő kérést.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5102e2e12dc1,"BS waits up to 5 s for confirmation, then retries after about 1 s. Three consecutive unconfirmed attempts stop the slot.",,"A BS legfeljebb 5 mp-ig vár a megerősítésre, aztán kb. 1 mp múlva újrapróbálja. Három egymást követő megerősítetlen próba leállítja a helyet.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:814042aabf39,"Trade, storage, shops and NPC dialogs pause BS until the blocking window closes. After death, BS waits for revival.",,"A kereskedés, a raktár, a boltok és az NPC-párbeszédek szüneteltetik a BS-t, amíg a blokkoló ablak be nem zárul. Halál után a BS megvárja a feléledést.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7063b2330b51,A manual stop is never resumed by itself.,,A kézi leállítás sosem folytatódik magától.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bac71373e000,"8. Teleports, channels and where the item is",,"8. Teleportok, csatornák és a tárgy helye","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee8adc8b05ed,You can change the channel while rerolling. After a channel change or a teleport BS resumes after 5 s.,,Újradobás közben csatornát válthatsz. Csatornaváltás vagy teleport után a BS 5 mp múlva folytatja.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:388cf0ae20ca,It resumes only if the item is still in the remembered inventory slot.,,"Csak akkor folytatja, ha a tárgy még a megjegyzett felszerelés-helyen van.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95803235754f,Picking up the item pauses BS. Returning it to the same cell resumes work without resetting the counter.,,A tárgy felvétele szünetelteti a BS-t. Ugyanarra a mezőre visszatéve a számláló nullázása nélkül folytatja.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04932c792a29,Moving stops BS. Right-click the same item in EQ to assign it again. You can also drag it onto its BS slot or return it to its previous EQ slot; then click Start.,,"Az áthelyezés leállítja a BS-t. Kattints jobb gombbal ugyanarra a tárgyra az EQ-ban az újbóli hozzárendeléshez. A BS-helyére is húzhatod, vagy visszateheted a régi EQ-helyére; aztán kattints az Indításra.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e5d86f0bb0d,9. Buying reroll scrolls in the ItemShop,,9. Bónuszváltó tekercsek vásárlása az ItemShopban,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06167a733e07,BS buys 200 scrolls for DC when fewer than 200 remain. It buys while rerolling or processing a manual change.,,"A BS 200 tekercset vesz DC-ért, ha 200-nál kevesebb marad. Újradobás vagy kézi csere közben vásárol.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aefa361e1a1,Switching it on asks for your consent and shows the price. It applies to this character only.,,"A bekapcsolás a beleegyezésedet kéri, és mutatja az árat. Csak erre a karakterre vonatkozik.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4659fda56295,"A purchase needs free inventory space. If another window blocks it, BS retries every 5 s.",,"A vásárláshoz szabad hely kell a felszerelésben. Ha egy másik ablak blokkolja, a BS 5 mp-enként újrapróbálja.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a06944211a03,"Missing Dragon Coins, or a purchase that left no scrolls in the inventory, stops BS.",,"Hiányzó Sárkányérme vagy olyan vásárlás, amely után nem maradt tekercs a felszerelésben, leállítja a BS-t.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b5043f7aaea7,10. Presets and quick loading,,10. Előbeállítások és gyors betöltés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acd8a6efdcfa,"Save preset stores both sets, the chosen bonuses and their values under a name.",,"Az Előbeállítás mentése név alatt eltárolja mindkét készletet, a választott bónuszokat és értékeiket.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b243bf210077,Each category has its own presets: PvP can be saved separately for weapons and shoes.,,Minden kategóriának saját előbeállításai vannak: a PvP külön menthető fegyverekhez és cipőkhöz.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2452bb345e62,Bonus catalog: choose a category card with an icon to view its bonuses and possible values.,,Bónuszkatalógus: válassz egy ikonos kategóriakártyát a bónuszai és lehetséges értékei megtekintéséhez.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c4351752cd,Compatible replacements keep targets. Another matching item needs Start. Restarting clears slots; named presets remain.,,A kompatibilis cserék megtartják a célokat. Másik megfelelő tárgyhoz Indítás kell. Az újraindítás kiüríti a helyeket; a névvel mentett előbeállítások maradnak.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60e375d80427,"Presets can load before bonuses exist; Start checks targets. In the selection window, right-click adds to a free slot; dragging replaces a taken one.",,"Az előbeállítások betölthetők, mielőtt bónuszok lennének; az Indítás ellenőrzi a célokat. A választóablakban a jobb klikk szabad helyre tesz; a húzás lecserél egy foglaltat.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1d98532c97fa,"Replacing selected bonuses, overwriting and deleting presets require confirmation. Presets are shared and synchronized between clients using the same folder.",,"A választott bónuszok cseréje, az előbeállítások felülírása és törlése megerősítést kér. Az előbeállítások közösek és szinkronizáltak az azonos mappát használó kliensek között.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79c235b30309,"11. Values, colours and counters",,"11. Értékek, színek és számlálók","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d72b85b01775,A chosen bonus gets its maximum value; you can type your own.,,A kiválasztott bónusz a maximális értéket kapja; beírhatod a sajátodat.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22c2c0499b49,"Ordinary bonuses and values are green, maximum values gold, negative ones red.",,"A szokásos bónuszok és értékek zöldek, a maximális értékek aranyak, a negatívak pirosak.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b3365cece335,Green in BS and inventory means the targets were reached. Red and yellow cover the full item size (1-3 cells).,,"A zöld a BS-ben és a felszerelésben azt jelenti, hogy a célok teljesültek. A piros és a sárga a tárgy teljes méretét lefedi (1-3 mező).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:554c871e6853,A selected tab has white text and border; inactive sets keep a red background. Counters total usage and purchases.,,A kiválasztott fülnek fehér a szövege és kerete; az inaktív készletek háttere piros marad. A számlálók összesítik a felhasználást és a vásárlást.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea24fc455d17,12. Clearing and safe choices,,12. Ürítés és biztonságos választás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbb5a23f0d66,A right click on the item icon in BS works like Clear: the slot and its targets go.,,Jobb klikk a tárgy ikonjára a BS-ben a Törléssel azonos: a hely és céljai eltűnnek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc873faf6c4f,"Clear all clears every slot, the used-scroll counter and notifications. Clear dismisses the notification for that slot.",,"Az Összes törlése minden helyet, a felhasznált tekercsek számlálóját és az értesítéseket törli. A Törlés az adott hely értesítését veszi le.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:349b78fb96d3,Presets and inventory items remain after clearing. Full slots also show a popup; identical matches need dragging.,,Az előbeállítások és a felszerelés tárgyai törlés után is megmaradnak. A teli helyek felugró ablakot is mutatnak; az azonos egyezéseket húzni kell.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:027e55363c5b,Changing targets or restarting a slot dismisses its previous notification.,,A célok módosítása vagy egy hely újraindítása leveszi az előző értesítését.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4df16c3305c4,Red marks the selected item. Yellow with its BS slot number marks the original cell. Closing Info resets the page.,,A piros a kijelölt tárgyat jelöli. A sárga a BS-hely számával az eredeti mezőt jelöli. Az Info bezárása visszaállítja az oldalt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36155d48f460,Equipment,,Felszerelés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:893c12be4126,Upgrade and bonus items,,Fejlesztő és bónusztárgyak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2efc8a84342f,Books and skills,,Könyvek és képzettségek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bd629b84235b,Herbs,,Gyógynövények,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4190d6d0f5df,Consumables,,Fogyóeszközök,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:89d13e810ed3,Fishing and mining,,Horgászat és bányászat,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:515fe2b3ec1a,Quests and events,,Küldetések és események,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41def7a0febe,Appearance,,Megjelenés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09805f627824,Auto Hunt needs the new metin2client.exe. Start the game from the launcher (PLAY) or run Aktualizuj.bat in the client folder.,,"Az Automata vadászathoz az új metin2client.exe kell. Indítsd a játékot az indítóból (JÁTÉK), vagy futtasd az Aktualizuj.bat fájlt a kliens mappájában.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd6ec7d37764,One-handed swords,,Egykezes kardok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4fde72a7d89e,Two-handed swords,,Kétkezes kardok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f590edf2f02,Armour - Warrior,,Páncél - Harcos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36df01164e26,Armour - Ninja,,Páncél - Nindzsa,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c2009041421,Armour - Sura,,Páncél - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6b6613d4fa90,Armour - Shaman,,Páncél - Sámán,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:804652fa1c0a,Helmets - Warrior,,Sisakok - Harcos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:041e863bb094,Helmets - Ninja,,Sisakok - Nindzsa,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b2392000c1f,Helmets - Sura,,Sisakok - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f235d457fd9,Helmets - Shaman,,Sisakok - Sámán,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5c8c9d9b6ca,Forgetting books,,Felejtés könyvei,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:629edbdb7a92,Spirit stones,,Szellemkövek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb219dd7bd04,Ores,,Ércek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f1a3718b995,Usable items,,Használható tárgyak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d602fbea98b1,Upgrade items,,Fejlesztőtárgyak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a31539f977b4,Dragon Alchemy,,Sárkányalkímia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41af5f20e30d,"Your metin2client.exe is older than the rest of the client[ENTER](2 inventory pages instead of 4), so the game will not let it in.[ENTER]Close the game and start the launcher again - it replaces the file itself.[ENTER]If that does not help, ask on the project's Discord.",,"A metin2client.exe régebbi, mint a kliens többi része[ENTER](4 helyett 2 felszerelésoldal), ezért a játék nem engedi be.[ENTER]Zárd be a játékot, és indítsd újra az indítót - az maga cseréli le a fájlt.[ENTER]Ha ez nem segít, kérdezz a projekt Discordján.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:a4e5a3a9480e,Apply the selected mode to every shop listing.,,A kiválasztott mód alkalmazása a bolt minden tételére.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5efd3ff94132,Warning: This changes the price of every listed item!,,Figyelem: ez minden kirakott tárgy árát megváltoztatja!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b525de69e36,Game Master,,Játékmester,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61d5521893ec,%sHorse training is waiting for yang,,%sA lókiképzés Yangra vár,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:44ddd5364055,%d items,,%d tárgy,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c57e02b404c3,%s or better,,%s vagy jobb,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:6f49a902eff4,%s or weaker,,%s vagy gyengébb,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7deaa7243a27,%s to %s,,%s - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b96207db390a,%sResting after death - waiting for mana,,%sPihenés halál után - várakozás a manára,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:97fa66a28d26,%sResting after several deaths (break %u s),,%sPihenés több halál után (szünet: %u mp),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u",done
+c:pbt:ed2a19972f26,%sRunning errands in town (then %s),,%sElintéznivalók a városban (utána: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:858f27865770,0 = disabled,,0 = kikapcsolva,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05b88cb8255d,24h player ranking,,24 órás játékosrangsor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a584d72aa8a3,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.",,"5 szinttel fölötte: 92%, 10: 50% (főnök, Metin: 30%), 15+: 1%.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0eb68426544e,Additional (%d-%d drawn from the list):,,További (%d-%d sorsolva a listából):,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:dbd9d59e0ddf,Additional: none at this grade,,További: ezen a fokozaton nincs,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:075c35600e49,All subtypes,,Minden altípus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f024635bf90c,Apprentice Herbalist,,Füvesember-tanonc,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fd5a82a54fe7,Auto Hunt - Item selection,,Automata vadászat - Tárgyválasztás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ada5efd3889,Auto Hunt is disabled in this world.,,Az automata vadászat ki van kapcsolva ebben a világban.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d327fb90058,Average damage resistance,,Átlagos sebzésellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e16bc2102ff,Average: min.,,Átlag: min.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:431c23faebfe,BOSS,,FŐNÖK,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3debac3efd1,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,,Alapesélyek a szerverfájlokból - a Ctrl+Alt+jobb klikk megnyitja az oldalt a böngészőben,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7cc983a6dc16,Basic (always):,,Alap (mindig):,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6857caa5ae4,Biologist research,,Biológus-kutatás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d963cfab70d,Bonus,,Bónusz,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e144f64b4481,Bonuses,,Bónuszok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bc357f970291,Buildings cannot overlap.,,Az épületek nem fedhetik egymást.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61c148d2500a,Buy a plot in the guild atlas.,,Vegyél egy telket a céhatlaszban.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91e4005afbe3,Cannot generate bonuses. Nothing was charged.,,Nem sikerült bónuszokat generálni. Semmit sem vontunk le.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc43d433ba15,Catch bonus = rod + bait; %s with %s is enough.,,Fogási bónusz = horgászbot + csali; %s és %s elég.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a8ea45ae5a97,Chance for a character at most 1 level above the monster.,,Esély egy legfeljebb 1 szinttel a szörny fölötti karakternek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:173518fcb904,Change bonuses for %d flames and %d Yang?,,Bónuszokat cserélsz %d lángért és %d Yangért?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:a7f5fc04c476,Check the prerequisite and type limit.,,Ellenőrizd az előfeltételt és a típuskorlátot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fba8bb0d1e45,Checking fishing support,,Horgásztámogatás ellenőrzése,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4d74bcb7d0f,"Class, clarity, + and remaining time stay.",,"Az osztály, a tisztaság, a + és a hátralévő idő megmarad.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b52ccd5c7e46,Close trading and other activities before fishing.,,Horgászat előtt zárd be a kereskedést és más tevékenységeket.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f940aa429792,Combat stopped automatic fishing.,,A harc leállította az automatikus horgászatot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ea9b9f625d,Complete the Fisherman introduction first.,,Előbb teljesítsd a Halász bevezetőjét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5cbdf6bfb51,Contents,,Tartalom,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07053f970f24,Cost: %d flames and %d Yang,,Költség: %d láng és %d Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:431b1337ffb7,Costume,,Jelmez,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:778cbbb2ddbb,Daily quests,,Napi küldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:af4b8454e9e1,Defence,,Védelem,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85cce1e14782,Deselect all,,Kijelölés törlése,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f722313a99a,"Deselects items in every category, keeping Min. + and minimum bonuses.",,"Minden kategóriában törli a tárgyak kijelölését, a Min. + és a minimális bónuszok megmaradnak.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f133e32c82e,Different bonuses stack; same bonus: highest.,,A különböző bónuszok összeadódnak; azonos bónusz: a legnagyobb.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62ad63715d5e,Dismount and end polymorph first.,,"Előbb szállj le a lóról, és szüntesd meg az átváltozást.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ec5483b39290,Double EXP chance,,Dupla EXP esélye,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7a250facfaf,Double Yang chance,,Dupla Yang esélye,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3920e7670ff0,Drag a stone from the alchemy window.,,Húzz ide egy követ az alkímia ablakából.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fe401e0ecfd8,Dragon Coin vouchers,,Sárkányérme-utalványok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:27f08ef7caff,Dragon Flame,,Sárkányláng,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cedf8e9e1c40,Dragon Flame is disabled.,,A Sárkányláng ki van kapcsolva.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:10f3edeaa6ff,Eligible potion duration,,Jogosult főzet időtartama,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:238eefe47ee7,Eligible potion strength,,Jogosult főzet erőssége,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2fa2fffacf02,Entire category,,Teljes kategória,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bf0f71c9d82,Entire page,,Teljes oldal,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40ddf0065fee,Equip a fishing pass from the Fisherman.,,Szerelj fel egy horgászengedélyt a Halásztól.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f5008026d1b,Equip a fishing rod.,,Szerelj fel egy horgászbotot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad8919ace091,Event,,Esemény,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9358cf34277,Event quests,,Eseményküldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5871b8d86fba,Exp,,Exp,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:fb11d8756dee,Experience gained,,Szerzett tapasztalat,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8115a5849ed7,Fire resistance,,Tűzellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7e1eb2841ae,Fish bite the bait more often.,,A halak gyakrabban kapnak rá a csalira.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64f284055fa3,Fishing chance,,Horgászesély,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37c350aad8bd,Fishing is available from level 30.,,A horgászat a 30. szinttől érhető el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0323a576e280,Fishing made no progress. Start it again.,,A horgászat nem haladt. Indítsd el újra.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0148fe10da63,Found on:,,Előfordulás:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd37492dcf3b,Game missions,,Játékküldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:daa34ed676b3,Game session changed. Start fishing again.,,A játékmenet megváltozott. Kezdd újra a horgászatot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:595cee9d2177,Gear thresholds,,Felszerelési küszöbök,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d3e5ca1d39b,Global rankings,,Globális rangsorok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aafd85ada5bb,Grandmaster Herbalist,,Füvesember-nagymester,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:929a28d26142,Guides,,Útmutatók,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0fe18921a89e,Guild leader only.,,Csak a céhvezető.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d37918a2335,Guild level is too low.,,A céhszint túl alacsony.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4478dfd2c33d,Guild state is unavailable.,,A céh állapota nem érhető el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e8f931f8108,Guild storage is full for this material.,,A céhraktár megtelt ebből az anyagból.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0dcff6f0db15,Guild storage lacks materials.,,A céhraktárban nincs elég anyag.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5200bdfc01a1,HP,,HP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1452603be8e1,HP / SP,,HP / SP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6229089d1582,Hairstyles,,Frizurák,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1913d000a541,Herb research,,Gyógynövény-kutatás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e801ef81f5e3,Hunting missions,,Vadászküldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5ef8f60cf84,ITEMS,,TÁRGYAK,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e51d2d7a065,In your bag: %d flames (both kinds),,A táskádban: %d láng (mindkét fajta),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b8a0249cc54c,Increases damage dealt to monsters.,,Növeli a szörnyeknek okozott sebzést.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8a1f5ba53eb,Increases the chance of mining ore.,,Növeli az érc bányászatának esélyét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1258592e0d45,Increases the item refine chance.,,Növeli a tárgyfinomítás esélyét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:587a4b702aef,Invalid action.,,Érvénytelen művelet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e50e0171850,Invalid building type.,,Érvénytelen épülettípus.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2126d609ea3,Invalid entry.,,Érvénytelen bejegyzés.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6cd5f8b00620,Invalid selection.,,Érvénytelen kiválasztás.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:968bf01fb364,Item drop chance,,Tárgyesési esély,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5a5dae4e356,Item refine chance,,Tárgyfinomítási esély,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4360cc060e67,Jewellery,,Ékszerek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9ad04722b84,Journeyman Herbalist,,Füvesember-segéd,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50b8a339f82a,KING,,KIRÁLY,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:889acb9e79cd,Legendary Dragon Stones only.,,Csak legendás sárkánykövek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:47e0384caf89,Lightning resistance,,Villámellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91cfef8db0d3,List saved.,,Lista mentve.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e646dab9aa4,List unavailable.,,A lista nem érhető el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64f970f6ef4b,Loading scores...,,Pontszámok betöltése...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae6e1fe33f41,Local beta rules,,Helyi béta szabályok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f6d00f67258b,M1,,M1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c53ec69ce5eb,M2,,M2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49e34f4b86cd,M3,,M3,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62625833c965,METIN,,METIN,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:ee58980d3377,MINIBOSS,,MINIFŐNÖK,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6cee87b36fbd,Magic damage,,Mágikus sebzés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:80737e51b018,Magic resistance,,Mágiaellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd1ad30a4582,Main quests,,Fő küldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ec39d5ea7084,Manual fishing: automatic mode is off.,,Kézi horgászat: az automatikus mód ki van kapcsolva.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f89235b8cb2,Master Herbalist,,Füvesember-mester,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f730f3d99586,Material deposited in guild storage.,,Anyag berakva a céhraktárba.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d98c5f1e354,Material returned to your test pool.,,Anyag visszakerült a tesztkeretedbe.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3336a8aa850b,Mining chance,,Bányászesély,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37cc7008c0dc,Mission book quests,,Küldetéskönyv-küldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ff34da9f86c2,Monkey Dungeon 2,,Majomkazamata 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:546c11014f2f,Monkey Dungeon 3,,Majomkazamata 3,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42013a86f9c3,Monster experience,,Szörnytapasztalat,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d965072a1bbf,Monster item drop chance,,Szörnyek tárgyesési esélye,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6eec604176f,Monster resistance,,Ellenállás szörnyekkel szemben,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4a4ceae5370,Moonlight event: drops depend on the event settings.,,Holdfény-esemény: a zsákmány az esemény beállításaitól függ.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8e3ea859140,Movement stopped automatic fishing.,,A mozgás leállította az automatikus horgászatot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8642e35731ce,Names: off,,Nevek: ki,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:961748e90682,Names: on,,Nevek: be,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:514f3c3c06b6,New bonuses may be worse or identical.,,Az új bónuszok rosszabbak vagy azonosak is lehetnek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b8b8be8e749,No active Auto Hunt time.,,Nincs aktív automata vadászati idő.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72bb9c5c13e1,"No bait, or it cannot be attached.",,"Nincs csali, vagy nem lehet feltenni.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b658f0396404,No completed round.,,Nincs befejezett forduló.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cbc20dc368d4,No drop of its own - only the common drop by level.,,Nincs saját zsákmánya - csak a szint szerinti közös zsákmány.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc98e131b39a,No free inventory space.,,Nincs szabad hely a felszerelésben.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bec4fdb2d6bd,No points from books.,,Nincsenek pontok könyvekből.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50be5a2e3636,No response. Use Retry.,,Nincs válasz. Használd az Újra gombot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea1b591e7617,No reward,,Nincs jutalom,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:51617d123d63,No winners in this category.,,Nincsenek nyertesek ebben a kategóriában.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28d3a08c39e8,Not all buffs could be activated. Courage capes have resumed.,,Nem minden erősítést sikerült aktiválni. A Bátorság köpenyei folytatják.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b9eec72f4fae,Not enough Yang for the displayed cost.,,Nincs elég Yang a megjelenített költségre.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9df37c54e3e7,Not enough Yang in the treasury.,,Nincs elég Yang a kasszában.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e78c00f3c939,Not enough available flames in your bag.,,Nincs elég elérhető láng a táskádban.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa6479b2c750,Not enough materials in storage or Yang in the treasury.,,"Nincs elég anyag a raktárban, vagy Yang a kasszában.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e9da8b89b21,Not enough test resources.,,Nincs elég teszterőforrás.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:16ca44702a9b,Novice,,Kezdő,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36f485914c9f,One reward for the best place.,,Egy jutalom a legjobb helyezésért.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:13e9482b0f98,Only development materials are accepted.,,Csak fejlesztési anyagokat fogadunk el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8b2d3d2dd00,Only the leader can purchase land.,,Csak a vezető vásárolhat földet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c26eb9bee233,Parcel changes saved.,,A telek módosításai mentve.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c32a0147f2e4,Place,,Helyezés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e53407cfe1a5,Player,,Játékos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8af1aa8ae1c,Player ranking,,Játékosrangsor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dab49fc09284,Playing the fishing minigame,,A horgász-minijáték folyik,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:629d970e3759,Please wait a moment.,,"Kérlek, várj egy pillanatot.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e1751de1f3c,Plot purchased.,,Telek megvásárolva.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:29f30442f982,Points unavailable.,,A pontok nem érhetők el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83d7b4128be0,Potion duration,,Főzet időtartama,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8fec5324ccf,Potion strength,,Főzet erőssége,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c14f2ddaff0,Previous winners,,Korábbi nyertesek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb3144730c66,Project complete.,,Projekt kész.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76dcb814a54a,Projects are up to date.,,A projektek naprakészek.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18d4da5c6380,Quest item,,Küldetéstárgy,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be340955fc02,Ranking reward,,Rangsorjutalom,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be189dce07e2,Reading success chance,,Olvasás sikerességi esélye,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3732112b805,Reduces damage dealt by monsters.,,Csökkenti a szörnyek által okozott sebzést.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e6bb092f8a1f,Results appear after the first settlement.,,Az eredmények az első elszámolás után jelennek meg.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46a2ebd20ba3,Return to the Alchemist and reopen this window.,,"Térj vissza az Alkimistához, és nyisd meg újra ezt az ablakot.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1da4f8247b10,Rotate %d,,Forgatás: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e464dc1414cf,Round ended: %s,,A forduló véget ért: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3896b7515195,Round ends in %02d:%02d:%02d,,A forduló vége: %02d:%02d:%02d,"client: our windows (companion, Auto Hunt, status lines) | keep: %02d %02d %02d",done
+c:pbt:42272f4ba8cd,Round: %s | Reward: %s,,Forduló: %s | Jutalom: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bd876161abb6,Rules and tips,,Szabályok és tippek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:489f4877244a,Score,,Pontszám,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d7a30a931a3,Search...,,Keresés...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70b1b60f4ab2,Season end: {0},,A szezon vége: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:4f8508e8d960,Season start: {0},,A szezon kezdete: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:cb6f3fc5d17e,Select a stone,,Válassz egy követ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2150c2af5f73,Select a stone to check the cost.,,Válassz egy követ a költség ellenőrzéséhez.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2277dcd5a97,Select an unlocked legendary stone from alchemy again.,,Válassz ki újra egy feloldott legendás követ az alkímiából.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56e698d3ff8b,"Selects or deselects the current subtype; for skill/forget books, the books on the current page. All subtypes applies to the whole category.",,Kijelöli vagy törli az aktuális altípust; a képzettség-/felejtéskönyveknél az aktuális oldal könyveit. A Minden altípus az egész kategóriára vonatkozik.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f04f98a51cf9,Server event (when active),,Szerveresemény (amikor aktív),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca1c98b522ce,Side quests,,Mellékküldetések,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ece7afa7b45e,Skill damage resistance,,Képzettségsebzés-ellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24a4fa79cf36,Skill: min.,,Képzettség: min.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ff010763c027,Smelt failed. The attempt was charged.,,Az olvasztás sikertelen. A kísérletet felszámították.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35b6122221b7,Smelt succeeded. Output is in the test pool.,,Az olvasztás sikerült. Az eredmény a tesztkeretben van.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b335a234e41,Sort:,,Rendezés:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2eb56be3c2d9,Sources,,Források,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d594062db3f,Spawn locations,,Megjelenési helyek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb00bcb12e5a,Stand beside water in a permitted place.,,Állj víz mellé egy engedélyezett helyen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:715b4a2d0f45,Stone bonuses changed.,,A kő bónuszai megváltoztak.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:898ff96f1b6d,Target missing or allied.,,"Nincs célpont, vagy szövetséges.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3ca513813fc9,Test guild level saved.,,A teszt céhszint mentve.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75eb552a3c53,Test plot claimed.,,Teszttelek lefoglalva.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf1401b2643e,Test resources replenished.,,A teszterőforrások feltöltve.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0be8b62222b9,"The Alchemist and the Dragon Stone window (refining, upgrading)",,"Az Alkimista és a Sárkánykő ablak (finomítás, fejlesztés)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecfa7e44f24c,The Costumes section is not available yet.,,A Jelmezek rész még nem érhető el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8bccb9428a0,The atlas is temporarily unavailable.,,Az atlasz átmenetileg nem érhető el.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28cc6d316e89,The building extends beyond the parcel.,,Az épület kilóg a telekről.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f59955a5d5bb,The building has changed.,,Az épület megváltozott.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22f2973955b9,The building limit has been reached.,,Elérted az épületkorlátot.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:38a3907a0359,The character cannot fish now.,,A karakter most nem tud horgászni.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:276f056f7a26,The guild already owns a plot.,,A céhnek már van telke.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d14a0291c4e,The guild level is too low.,,A céhszint túl alacsony.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3074b2aaf21,The guild treasury has insufficient Yang.,,A céhkasszában nincs elég Yang.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b7117f7bbe9,The leader assigns points.,,A pontokat a vezető osztja ki.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad860f901d92,The leader manages buildings.,,Az épületeket a vezető kezeli.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:16b1f1622ee3,The list is full (20).,,A lista megtelt (20).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5eb5b11f3ee5,The plot is already occupied.,,A telek már foglalt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3725638e38fd,The plot is outside the guild kingdom.,,A telek a céh birodalmán kívül van.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b0ba9d366ba5,The project changed.,,A projekt megváltozott.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b80101af152a,The rank has changed.,,A rang megváltozott.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58a109d9e7d9,The ranking is still loading. Try again shortly.,,A rangsor még töltődik. Próbáld újra hamarosan.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa245a5f8e89,The server did not confirm target priority. Update the server or choose Bosses priority.,,"A szerver nem erősítette meg a célpont-prioritást. Frissítsd a szervert, vagy válaszd a Főnökök prioritást.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:300f92efa0c3,The server refused the cast. Check its fishing message.,,A szerver elutasította a dobást. Nézd meg a horgászüzenetét.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e415a968707,This is not your guild parcel.,,Ez nem a céhed telke.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0b6dff046349,This item is not a development material.,,Ez a tárgy nem fejlesztési anyag.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:34f4bb169bf1,This material has reached its limit.,,Ez az anyag elérte a korlátját.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2cf7a81eac66,This step is locked.,,Ez a lépés zárolva van.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e16b12bbe3d,Time left: {0},,Hátralévő idő: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:65cab106909a,Treasury changed. Try again.,,A kassza megváltozott. Próbáld újra.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3deb74565196,Type,,Típus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2c9c1f79142d,Unavailable,,Nem érhető el,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:87c6f410754d,Unique,,Egyedi,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1388ab17dd37,Update the server to enable automatic fishing.,,Frissítsd a szervert az automatikus horgászat engedélyezéséhez.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:af46aa8212c0,Usable,,Használható,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a5db926797b,WORLD,,VILÁG,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6d10c9636af,Wait for the character to finish loading.,,"Várd meg, amíg a karakter betöltődik.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28549fe9f8f5,Waiting for a bite,,Várakozás kapásra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e9211b0ed35,Waiting for the next cast,,Várakozás a következő dobásra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19291078386d,Waiting for the server,,Várakozás a szerverre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c0737830578,Wheel of Fortune (ItemShop),,Szerencsekerék (ItemShop),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5a2bb5a70d2,Where to get it,,Hol szerezhető be,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:315f5fb82ee5,Wind resistance,,Szélellenállás,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7ff7e641af7,Workshop ready. Diamond unlocked.,,A műhely kész. Gyémánt feloldva.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42b26ab9b8a5,Yang amount,,Yangösszeg,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d79bf489d9b7,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,,Yonah: 1 Tanaka füle 1 Lila ébenládáért.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7a06380f0e87,You must belong to a guild.,,Céh tagjának kell lenned.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2679f51037f0,all at once,,mindet egyszerre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7958f0c48e85,and %d more locations,,és még %d helyszín,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b1d8aa3a2dd9,any Dew,,bármilyen harmat,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:86bae31be3d8,any Juice,,bármilyen lé,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83f57ea13d3c,any Water,,bármilyen víz,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e61976b42252,any fishing rod,,bármilyen horgászbot,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:296349a2e707,attack speed,,támadási sebesség,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7d80df03888,boost,,erősítő,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee5b959b21e3,catch bonus %d or more,,fogási bónusz %d vagy több,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1210cdffc181,critical,,kritikus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:802d2a9ffa21,defensive,,védő,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa20c3bf5eca,drop,,zsákmány,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1da840244989,fire,,tűz,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39ccb32d95ed,food,,étel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aecee1f5417b,general use,,általános,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad60c535ff88,level,,szint,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71f497789120,lightning,,villám,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:65c4aaaab598,loading...,,betöltés...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b40981aab759,magic,,mágia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7937c4cd57a,monsters,,szörnyek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2512d5408f93,movement speed,,mozgási sebesség,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ae999552a0d,name,,név,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b07ce0be571f,no bonus,,nincs bónusz,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71f8e7976e4c,none,,nincs,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4a23e49d7d45,offensive,,támadó,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ef3ec044cb0,one at random,,egy véletlenszerűen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cce55e4309a7,order,,megrendelés,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a32b0438ae40,piercing,,átható,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa16af3e2aa1,step %d,,%d. lépés,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:18cbbab3929b,value +0 > +%d,,érték +0 > +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e70091e7cdb7,wind,,szél,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1780ecaa1645,Animals,,Állatok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:633490347d0b,Chunjo guild land,,Chunjo céhföldje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:081ae3fdc403,Custom,,Egyéni,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49571e8ecf5e,Devils,,Ördögök,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49609307701a,Humans,,Emberek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9462999f502a,Insects,,Rovarok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b82b3d220ff7,Jinno guild land,,Jinno céhföldje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a80fa6231b96,Joan,,Joan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:e6791be7eed7,Magic,,Mágia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70536ff48480,Mulled Wine,,Forralt bor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e64e6c5f476f,Mystics,,Misztikusok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b153089b44b5,Orcs,,Orkok,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7456edf46bce,Pyungmoo,,Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:4377dae0ed45,Shinsoo guild land,,Shinsoo céhföldje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e7081d736f4,Trees,,Fák,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f56e9884f67,Two-handed weapons,,Kétkezes fegyverek,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a53cc9c68e5e,Undead,,Élőhalottak,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c4777049dfb,Yongan,,Yongan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:skilldesc:1:2,Three-Way Cut,Trzystronne Cięcie,Háromirányú vágás,"client: skill tooltip, skill name (skill 1)",done
+c:skilldesc:1:3,Triple Cut,Potrójne Cięcie,Hármas vágás,"client: skill tooltip, skill name (M) (skill 1)",done
+c:skilldesc:1:4,Triple Slash,Potrójne Ciachnięcie,Hármas csapás,"client: skill tooltip, skill name (G/P) (skill 1)",done
+c:skilldesc:1:5,Cut the enemy with lightning speed.,Tnij wroga z niesamowitą szybkością,Villámgyorsan megvágja az ellenséget.,"client: skill tooltip, description (skill 1)",done
+c:skilldesc:1:6,Frontal Slash Attack 3 times,Frontalny atak rozpryskowy 3 razy,Elülső vágás 3-szor,"client: skill tooltip, condition 1 (skill 1)",done
+c:skilldesc:1:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 1)",done
+c:skilldesc:1:17,Total Attack Power %.0f-%.0f,Totalna Siła Ataku %.0f-%.0f,Teljes támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 1) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:2:2,Sword Spin,Wir Miecza,Kardpörgés,"client: skill tooltip, skill name (skill 2)",done
+c:skilldesc:2:3,Sword Dance,Taniec Miecza,Kardtánc,"client: skill tooltip, skill name (M) (skill 2)",done
+c:skilldesc:2:4,Cyclone,Cyklon,Forgószél,"client: skill tooltip, skill name (G/P) (skill 2)",done
+c:skilldesc:2:5,Spin the sword to attack several enemies.,Wiruj mieczem aby atakować wielu przeciwników,"Megpörgeti a kardot, hogy több ellenséget támadjon.","client: skill tooltip, description (skill 2)",done
+c:skilldesc:2:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Elülső területi támadás,"client: skill tooltip, condition 1 (skill 2)",done
+c:skilldesc:2:7,Attack on Multiple Targets,Atak w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 2)",done
+c:skilldesc:2:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 2) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:3:2,Berserk,Berserk,Berzerker,"client: skill tooltip, skill name (skill 3)",done
+c:skilldesc:3:3,Fury,Furia,Düh,"client: skill tooltip, skill name (M) (skill 3)",done
+c:skilldesc:3:4,Frenzy,Szał,Őrjöngés,"client: skill tooltip, skill name (G/P) (skill 3)",done
+c:skilldesc:3:5,Only concentrate on attacking.,Koncentracja tylko na ataku,Csak a támadásra összpontosít.,"client: skill tooltip, description (skill 3)",done
+c:skilldesc:3:6,Increases Attack Speed,Zwiększa Szybkość Ataku,Növeli a támadási sebességet,"client: skill tooltip, condition 1 (skill 3)",done
+c:skilldesc:3:7,Increases Moving Speed,Zwiększa Szybkość Ruchu,Növeli a mozgási sebességet,"client: skill tooltip, condition 2 (skill 3)",done
+c:skilldesc:3:8,Increases Received Damage,Zwiększa otrzymywane obrażenia,Növeli az elszenvedett sebzést,"client: skill tooltip, condition 3 (skill 3)",done
+c:skilldesc:3:17,Attack Speed +%.0f%%,Szybkość Ataku +%.0f%%,Támadási sebesség +%.0f%%,"client: skill tooltip, effect line 1 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:3:20,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%%,Mozgási sebesség +%.0f%%,"client: skill tooltip, effect line 2 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:3:23,Received Damage +%.0f%%,Otrzymywane obrażenia +%.0f%%,Elszenvedett sebzés +%.0f%%,"client: skill tooltip, effect line 3 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:4:2,Aura of the Sword,Aura Miecza,A kard aurája,"client: skill tooltip, skill name (skill 4)",done
+c:skilldesc:4:3,Spiritual Sword,Duchowy Miecz,Szellemkard,"client: skill tooltip, skill name (M) (skill 4)",done
+c:skilldesc:4:4,Phantom Sword,Miecz Zjawy,Fantomkard,"client: skill tooltip, skill name (G/P) (skill 4)",done
+c:skilldesc:4:5,Increases Attack Power for a period of time.,Czasowo zwiększa Siłę Ataku,Egy ideig növeli a támadóerőt.,"client: skill tooltip, description (skill 4)",done
+c:skilldesc:4:6,Increases Attack Power,Zwiększa Siłę Ataku,Növeli a támadóerőt,"client: skill tooltip, condition 1 (skill 4)",done
+c:skilldesc:4:17,Attack Power +%.0f,Siła Ataku +%.0f,Támadóerő +%.0f,"client: skill tooltip, effect line 1 (skill 4) | keep: %.0f | max 64 characters",done
+c:skilldesc:5:2,Dash,Szarża,Roham,"client: skill tooltip, skill name (skill 5)",done
+c:skilldesc:5:3,Bullet Dash,Uderzenie Pocisku,Golyórohanás,"client: skill tooltip, skill name (M) (skill 5)",done
+c:skilldesc:5:4,Powerful Attack,Potężny Atak,Erős támadás,"client: skill tooltip, skill name (G/P) (skill 5)",done
+c:skilldesc:5:5,You attack as fast as a Bullet,Twój atak jest szybki jak pocisk,"Gyors vagy, mint a golyó","client: skill tooltip, description (skill 5)",done
+c:skilldesc:5:6,Powerful Splash Attack,Potężny atak rozpryskowy,Erős területi támadás,"client: skill tooltip, condition 1 (skill 5)",done
+c:skilldesc:5:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 5) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:5:20,Faint Chance +%.0f%%,Szansa na omdlenie +%.0f%%,Ájulás esélye +%.0f%%,"client: skill tooltip, effect line 2 (skill 5) | keep: %.0f | max 64 characters",done
+c:skilldesc:16:2,Spirit Strike (W),Duchowe Uderzenie,Szellemcsapás (W),"client: skill tooltip, skill name (skill 16)",done
+c:skilldesc:16:3,Shockwave,Fala Uderzeniowa,Lökéshullám,"client: skill tooltip, skill name (M) (skill 16)",done
+c:skilldesc:16:4,Tsunami Attack,Atak Tsunami,Cunamitámadás,"client: skill tooltip, skill name (G/P) (skill 16)",done
+c:skilldesc:16:5,Attack enemies directly.,Atakuje centralnie wrogów,Közvetlenül támadja az ellenségeket.,"client: skill tooltip, description (skill 16)",done
+c:skilldesc:16:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Elülső területi támadás,"client: skill tooltip, condition 1 (skill 16)",done
+c:skilldesc:16:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 16) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:17:2,Bash,Walnięcie,Csapás,"client: skill tooltip, skill name (skill 17)",done
+c:skilldesc:17:3,Tiger Bash,Tygrysie walnięcie,Tigriscsapás,"client: skill tooltip, skill name (M) (skill 17)",done
+c:skilldesc:17:4,Dragon Bash,Smocze Powalenie,Sárkánycsapás,"client: skill tooltip, skill name (G/P) (skill 17)",done
+c:skilldesc:17:5,Attack enemies directly.,Atakuje centralnie wrogów,Közvetlenül támadja az ellenségeket.,"client: skill tooltip, description (skill 17)",done
+c:skilldesc:17:6,Straight Splash Attack,Prosty rozpryskowy atak,Egyenes területi támadás,"client: skill tooltip, condition 1 (skill 17)",done
+c:skilldesc:17:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 17)",done
+c:skilldesc:17:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 17) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:18:2,Stump,Tąpnięcie,Dobbantás,"client: skill tooltip, skill name (skill 18)",done
+c:skilldesc:18:3,Lion Stump,Tąpnięcia Lwa,Oroszlántaposás,"client: skill tooltip, skill name (M) (skill 18)",done
+c:skilldesc:18:4,Rhino Stump ,Tąpnięcie Nosorożca,Orrszarvútaposás ,"client: skill tooltip, skill name (G/P) (skill 18)",done
+c:skilldesc:18:5,Knock over several enemies.,Zwal z nóg kilku wrogów.,Több ellenséget is földre dönt.,"client: skill tooltip, description (skill 18)",done
+c:skilldesc:18:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Elülső területi támadás,"client: skill tooltip, condition 1 (skill 18)",done
+c:skilldesc:18:7,Fainting Effect Chance,Szansa na Omdlenie,Ájulás esélye,"client: skill tooltip, condition 2 (skill 18)",done
+c:skilldesc:18:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 18) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:18:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Ájulás esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 18) | keep: %.0f | max 64 characters",done
+c:skilldesc:19:2,Strong Body,Silne Ciało,Erős test,"client: skill tooltip, skill name (skill 19)",done
+c:skilldesc:19:3,Iron Body,Żelazne Ciało,Vastest,"client: skill tooltip, skill name (M) (skill 19)",done
+c:skilldesc:19:4,Steel Body,Stalowe Ciało,Acéltest,"client: skill tooltip, skill name (G/P) (skill 19)",done
+c:skilldesc:19:5,Increases defence and you won't fall on the ground.,Zwiększa Obronę i pomaga wygrać,"Növeli a védelmet, és nem esel el.","client: skill tooltip, description (skill 19)",done
+c:skilldesc:19:6,Increases Defence,Zwiększa Obronę,Növeli a védelmet,"client: skill tooltip, condition 1 (skill 19)",done
+c:skilldesc:19:7,Decreases Moving Speed.,Zmniejsza Szybkość Ruchu,Csökkenti a mozgási sebességet.,"client: skill tooltip, condition 2 (skill 19)",done
+c:skilldesc:19:8,You won't fall over,Nigdy nie upadasz,Nem esel el,"client: skill tooltip, condition 3 (skill 19)",done
+c:skilldesc:19:17,Defence: +%.0f ,Obrona: +%.0f,Védelem: +%.0f ,"client: skill tooltip, effect line 1 (skill 19) | keep: %.0f | max 64 characters",done
+c:skilldesc:20:2,Sword Strike,Uderzenie Miecza,Kardcsapás,"client: skill tooltip, skill name (skill 20)",done
+c:skilldesc:20:3,Sword Bolt ,Pchnięcie Miecza,Kardvillám ,"client: skill tooltip, skill name (M) (skill 20)",done
+c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Kardhajítás ,"client: skill tooltip, skill name (G/P) (skill 20)",done
+c:skilldesc:20:5,Attack enemies directly.,atakujesz wrogów bezpośrednio,Közvetlenül támadja az ellenségeket.,"client: skill tooltip, description (skill 20)",done
+c:skilldesc:20:6,Long-Range Attack,Atak z dystansu,Távolsági támadás,"client: skill tooltip, condition 1 (skill 20)",done
+c:skilldesc:20:7,Attack on multiple targets,Atak skierowany na kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 20)",done
+c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Ájító hatás|A célpontot a földre dönti.,"client: skill tooltip, condition 3 (skill 20)",done
+c:skilldesc:20:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 20) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:20:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Ájulás esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 20) | keep: %.0f | max 64 characters",done
+c:skilldesc:31:2,Ambush,Zasadzka,Rajtaütés,"client: skill tooltip, skill name (skill 31)",done
+c:skilldesc:31:3,Stealth Attack,Niewidzialny Atak,Lopakodó támadás,"client: skill tooltip, skill name (M) (skill 31)",done
+c:skilldesc:31:4,Stealth Ambush,Niewidzialna Zasadzka,Lopakodó rajtaütés,"client: skill tooltip, skill name (G/P) (skill 31)",done
+c:skilldesc:31:5,Approach an enemy from behind and make a deadly attack.,Podejdź wroga od tyłu i zadaj śmiertelny cios.,"Közelítsd meg hátulról az ellenséget, és mérj rá halálos csapást.","client: skill tooltip, description (skill 31)",done
+c:skilldesc:31:6,Attack Power increases for back hits.,"Siła ataku jest większa, jeśli cios zadano w plecy",A hátba mért ütéseknél nő a támadóerő.,"client: skill tooltip, condition 1 (skill 31)",done
+c:skilldesc:31:7,Stealth Bonus,Bonus od Niewidzialności,Lopakodási bónusz,"client: skill tooltip, condition 2 (skill 31)",done
+c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,A szint meghosszabbítja a Vérszomjat|Aktiválja a Vérszomjat,"client: skill tooltip, condition 3 (skill 31)",done
+c:skilldesc:31:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 31) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:31:20,Bloodthirst: dagger damage against monsters +%.0f,Żądza Krwi: obraż. sztyletów w potwory +%.0f,Bloodthirst: dagger damage against monsters +%.0f,"client: skill tooltip, effect line 2 (skill 31) | keep: %.0f | max 64 characters",check
+c:skilldesc:31:23,Bonus per stack (max. 2x): +%.0f,Premia za stack (max 2x): +%.0f,Bonus per stack (max. 2x): +%.0f,"client: skill tooltip, effect line 3 (skill 31) | keep: %.0f | max 64 characters",check
+c:skilldesc:31:26,Bloodthirst Duration: %.0f Sec.,Czas trwania Żądzy Krwi: %.0f Sek.,Bloodthirst Duration: %.0f Sec.,"client: skill tooltip, effect line 4 (skill 31) | keep: %.0f | max 64 characters",check
+c:skilldesc:32:2,Fast Attack,Szybki Atak,Gyors támadás,"client: skill tooltip, skill name (skill 32)",done
+c:skilldesc:32:3,Body Relocation,Przemieszczanie Ciała,Testáthelyezés,"client: skill tooltip, skill name (M) (skill 32)",done
+c:skilldesc:32:4,Death Strike,Cios Śmierci,Halálos csapás,"client: skill tooltip, skill name (G/P) (skill 32)",done
+c:skilldesc:32:5,Approach an enemy fast and make a deadly attack.,Podejdź wroga szybko i zadaj śmiertelny cios,"Közelítsd meg gyorsan az ellenséget, és mérj rá halálos csapást.","client: skill tooltip, description (skill 32)",done
+c:skilldesc:32:6,Teleport Attack,Atak teleportacyjny,Teleportáló támadás,"client: skill tooltip, condition 1 (skill 32)",done
+c:skilldesc:32:7,Stealth Bonus,Bonus od niewidzialności,Lopakodási bónusz,"client: skill tooltip, condition 2 (skill 32)",done
+c:skilldesc:32:8,Root holds the target in place for up to 2 sec.,Uziemienie unieruchamia cel do 2 sek.,A gyökerezés legfeljebb 2 mp-ig helyben tartja a célpontot.,"client: skill tooltip, condition 3 (skill 32)",done
+c:skilldesc:32:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 32) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:32:20,Root Chance %.0f%%,Szansa na Uziemienie %.0f%%,Gyökerezés esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 32) | keep: %.0f | max 64 characters",done
+c:skilldesc:33:2,Rolling Dagger,Wirujący Sztylet,Pörgő tőr,"client: skill tooltip, skill name (skill 33)",done
+c:skilldesc:33:3,Spinning Dagger,Krążący Sztylet,Pörgő tőr,"client: skill tooltip, skill name (M) (skill 33)",done
+c:skilldesc:33:4,Dancing Dagger,Tańczący Sztylet,Táncoló tőr,"client: skill tooltip, skill name (G/P) (skill 33)",done
+c:skilldesc:33:5,Whirl around enemies with a dagger.,Wiruj między wrogami ze sztyletem,Tőrrel forog az ellenségek körül.,"client: skill tooltip, description (skill 33)",done
+c:skilldesc:33:6,Splash Attack,Atak rozpryskowy,Területi támadás,"client: skill tooltip, condition 1 (skill 33)",done
+c:skilldesc:33:7,Lasting Poison Attack,Atak czasowy trucizną,Tartós mérgező támadás,"client: skill tooltip, condition 2 (skill 33)",done
+c:skilldesc:33:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 33) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:33:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Mérgezés esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 33) | keep: %.0f | max 64 characters",done
+c:skilldesc:34:2,Stealth,Krycie Się,Lopakodás,"client: skill tooltip, skill name (skill 34)",done
+c:skilldesc:34:3,Silent Walk,Cichy Chód,Néma lépés,"client: skill tooltip, skill name (M) (skill 34)",done
+c:skilldesc:34:4,Cloaking,Maskowanie,Álcázás,"client: skill tooltip, skill name (G/P) (skill 34)",done
+c:skilldesc:34:5,You can hide yourself.,Możesz się ukryć.,El tudsz rejtőzni.,"client: skill tooltip, description (skill 34)",done
+c:skilldesc:34:6,Stops attacks when used.,"Zatrzymuje ataki, gdy użyty",Használatkor leállítja a támadásokat.,"client: skill tooltip, condition 1 (skill 34)",done
+c:skilldesc:34:17,Ambush Bonus Damage: %.0f%% ,Bonus do obrażeń podczas zasadzki %.0f%%,Rajtaütés bónuszsebzése: %.0f%% ,"client: skill tooltip, effect line 1 (skill 34) | keep: %.0f | max 64 characters",done
+c:skilldesc:35:2,Poisonous Cloud,Trująca Chmura,Mérgező felhő,"client: skill tooltip, skill name (skill 35)",done
+c:skilldesc:35:3,Deadly Cloud,Śmiercionośna Chmura,Halálos felhő,"client: skill tooltip, skill name (M) (skill 35)",done
+c:skilldesc:35:4,Killing Cloud,Zabójcza Chmura,Gyilkos felhő,"client: skill tooltip, skill name (G/P) (skill 35)",done
+c:skilldesc:35:5,Make poisonous clouds around the enemy and intoxicate them.,Stwórz trującą chmurę wokół wrogów i otruj ich,"Mérges felhőket kelt az ellenség körül, és megmérgezi.","client: skill tooltip, description (skill 35)",done
+c:skilldesc:35:6,Long Range Attack,Atak zasięgowy,Távolsági támadás,"client: skill tooltip, condition 1 (skill 35)",done
+c:skilldesc:35:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 35)",done
+c:skilldesc:35:8,Lasting Poison Attack,Atak czasowy Trucizną,Tartós mérgező támadás,"client: skill tooltip, condition 3 (skill 35)",done
+c:skilldesc:35:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 35) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:35:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Mérgezés esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 35) | keep: %.0f | max 64 characters",done
+c:skilldesc:46:2,Repetitive Shot,Powtarzalny Strzał,Ismételt lövés,"client: skill tooltip, skill name (skill 46)",done
+c:skilldesc:46:3,Multi-Shot,Multi-Strzał,Többes lövés,"client: skill tooltip, skill name (M) (skill 46)",done
+c:skilldesc:46:4,Massive Shot,Masywny Strzał,Tömeges lövés,"client: skill tooltip, skill name (G/P) (skill 46)",done
+c:skilldesc:46:5,Shoot several arrows at one enemy.,Miotaj kilka strzał naraz w twojego wroga.,Több nyilat lő egy ellenségre.,"client: skill tooltip, description (skill 46)",done
+c:skilldesc:46:6,Long-Range Attack,Atak z dystansu,Távolsági támadás,"client: skill tooltip, condition 1 (skill 46)",done
+c:skilldesc:46:7,Several Attacks,Kilka Ataków,Több támadás,"client: skill tooltip, condition 2 (skill 46)",done
+c:skilldesc:46:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory)|Powala cel na ziemie,Támadás több célpontra (szörnyek),"client: skill tooltip, condition 3 (skill 46)",done
+c:skilldesc:46:17,Attack Power (1 arrow) %.0f-%.0f ,Siła ataku (1 strzał) %.0f-%.0f,Támadóerő (1 nyíl) %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 46) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:46:20,shot arrows: %.0f,Wystrzelone strzały: %.0f ,kilőtt nyilak: %.0f,"client: skill tooltip, effect line 2 (skill 46) | keep: %.0f | max 64 characters",done
+c:skilldesc:46:23,Chance of Piercing Shot +%.0f%%,Szansa na przeszywający strzał +%.0f%%,Átütő lövés esélye +%.0f%%,"client: skill tooltip, effect line 3 (skill 46) | keep: %.0f | max 64 characters",done
+c:skilldesc:47:2,Spark,Iskrzące Uderzenie,Szikra,"client: skill tooltip, skill name (skill 47)",done
+c:skilldesc:47:3,Light Beam,Snop Światła,Fénysugár,"client: skill tooltip, skill name (M) (skill 47)",done
+c:skilldesc:47:4,Lightning Blast,Błyskawica,Villámrobbanás,"client: skill tooltip, skill name (G/P) (skill 47)",done
+c:skilldesc:47:5,You cause heavy damage to your opponent by suddenly radiating light.,Zrań przeciwnika za pomocą promienia świetlnego.,Hirtelen fénykisugárzással súlyos sebzést okozol az ellenfélnek.,"client: skill tooltip, description (skill 47)",done
+c:skilldesc:47:6,Area of Effect,Obszar Efektu,Hatóterület,"client: skill tooltip, condition 1 (skill 47)",done
+c:skilldesc:47:7,Fainting Effect Chance,Szansa na Omdlenie,Ájulás esélye,"client: skill tooltip, condition 2 (skill 47)",done
+c:skilldesc:47:8,Knockback,Odrzut,Visszalökés,"client: skill tooltip, condition 3 (skill 47)",done
+c:skilldesc:47:17,Attack Power %.0f-%.0f,Siła Ataku: %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 47) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:47:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Ájulás esélye: %.0f%%,"client: skill tooltip, effect line 2 (skill 47) | keep: %.0f | max 64 characters",done
+c:skilldesc:48:2,Fire Arrow,Ognista Strzała,Tűznyíl,"client: skill tooltip, skill name (skill 48)",done
+c:skilldesc:48:3,Burning Arrow,Płonąca Strzała,Égő nyíl,"client: skill tooltip, skill name (M) (skill 48)",done
+c:skilldesc:48:4,Flame Arrow,Strzała Lawy,Lángnyíl,"client: skill tooltip, skill name (G/P) (skill 48)",done
+c:skilldesc:48:5,Ignite the arrow.,Podpala strzałę,Meggyújtja a nyilat.,"client: skill tooltip, description (skill 48)",done
+c:skilldesc:48:6,Long Range Attack,Atak zasięgowy,Távolsági támadás,"client: skill tooltip, condition 1 (skill 48)",done
+c:skilldesc:48:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 48)",done
+c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Tűztámadás|A szörnyeket a földre dönti.|Szörnyek ájulásának esélye,"client: skill tooltip, condition 3 (skill 48)",done
+c:skilldesc:48:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 48) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:48:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Tartós tűz esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 48) | keep: %.0f | max 64 characters",done
+c:skilldesc:48:23,Damage against Bosses/Mini-Bosses/Metins +%.0f%%,Obr. Metiny/Bossy/MiniBossy +%.0f%%,Damage against Bosses/Mini-Bosses/Metins +%.0f%%,"client: skill tooltip, effect line 3 (skill 48) | keep: %.0f | max 64 characters",check
+c:skilldesc:49:2,Feather Walk,Bezszelestny Chód,Tollléptek,"client: skill tooltip, skill name (skill 49)",done
+c:skilldesc:49:3,Wind Walk,Chód Wiatru,Szélléptek,"client: skill tooltip, skill name (M) (skill 49)",done
+c:skilldesc:49:4,God's speed,Chód Boga,Isteni sebesség,"client: skill tooltip, skill name (G/P) (skill 49)",done
+c:skilldesc:49:5,Make your body lighter to increase moving speed.,"Zmniejsza wagę ciała, aby zwiększyć szybkość","Könnyebbé teszi a testedet, hogy gyorsabban mozogj.","client: skill tooltip, description (skill 49)",done
+c:skilldesc:49:6,Increases moving speed,Zwiększa Szybkośc Ruchu,Növeli a mozgási sebességet,"client: skill tooltip, condition 1 (skill 49)",done
+c:skilldesc:49:7,Increases Endurance regeneration in combat,Zwiększa regenerację staminy w walce,Harcban növeli az állóképesség visszatöltődését,"client: skill tooltip, condition 2 (skill 49)",done
+c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,A gyengébb szörnyek nem hallják a lépteidet|A max. mozgási sebességet 220-ra emeli.,"client: skill tooltip, condition 3 (skill 49)",done
+c:skilldesc:49:17,Moving Speed +%.0f ,Szybkość Ruchu +%.0f,Mozgási sebesség +%.0f ,"client: skill tooltip, effect line 1 (skill 49) | keep: %.0f | max 64 characters",done
+c:skilldesc:50:2,Poison Arrow,Trująca Strzała,Mérgezett nyíl,"client: skill tooltip, skill name (skill 50)",done
+c:skilldesc:50:3,Toxic Arrow,Toksyczna Strzała,Mérgező nyíl,"client: skill tooltip, skill name (M) (skill 50)",done
+c:skilldesc:50:4,Deadly Arrow,Śmiercionośna Strzała,Halálos nyíl,"client: skill tooltip, skill name (G/P) (skill 50)",done
+c:skilldesc:50:5,Coat the arrow with powerful poison.,Nasącz strzałę silną trucizną.,Erős méreggel vonja be a nyilat.,"client: skill tooltip, description (skill 50)",done
+c:skilldesc:50:6,Long-Range Attack,Atak na odległość,Távolsági támadás,"client: skill tooltip, condition 1 (skill 50)",done
+c:skilldesc:50:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 50)",done
+c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Tartós mérgező támadás|A célpontot a földre dönti.|Szörnyek ájulásának esélye,"client: skill tooltip, condition 3 (skill 50)",done
+c:skilldesc:50:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 50) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:50:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Mérgezés esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 50) | keep: %.0f | max 64 characters",done
+c:skilldesc:50:23,Faint Chance +%.0f%%,Szansa na omdlenie +%0.f%%,Faint Chance +%.0f%%,"client: skill tooltip, effect line 3 (skill 50) | keep: %.0f | max 64 characters",check
+c:skilldesc:51:2,Arrow Shower,Deszcz Strzał,Nyílzápor,"client: skill tooltip, skill name (skill 51)",done
+c:skilldesc:51:3,Dynamic Arrow,Mrowie Strzał,Dinamikus nyíl,"client: skill tooltip, skill name (M) (skill 51)",done
+c:skilldesc:51:4,Arrow Rain,Prysznic Strzał,Nyílzápor,"client: skill tooltip, skill name (G/P) (skill 51)",done
+c:skilldesc:51:5,Shoot several arrows at several enemies. ,Miotaj kilka strzał w kilku wrogów.,Több nyilat lő több ellenségre. ,"client: skill tooltip, description (skill 51)",done
+c:skilldesc:51:6,Long-Range Attack,Atak z dystansu,Távolsági támadás,"client: skill tooltip, condition 1 (skill 51)",done
+c:skilldesc:51:7,Attack on multiple targets,Atak skierowany w kilka celów,Támadás több célpontra,"client: skill tooltip, condition 2 (skill 51)",done
+c:skilldesc:51:17,Attack Power %.0f-%0.f ,Siła Ataku %.0f-%0.f,Támadóerő %.0f-%0.f ,"client: skill tooltip, effect line 1 (skill 51) | keep: %.0f %0.f | max 64 characters",done
+c:skilldesc:51:20,Max. number of targets: %.0f,Maks. ilość celów: %.0f,Célpontok max. száma: %.0f,"client: skill tooltip, effect line 2 (skill 51) | keep: %.0f | max 64 characters",done
+c:skilldesc:61:2,Finger Strike,Uderzenie Palcem,Ujjcsapás,"client: skill tooltip, skill name (skill 61)",done
+c:skilldesc:61:3,Burning Finger Strike,Uderzenie Płonącego Palca,Égő ujjcsapás,"client: skill tooltip, skill name (M) (skill 61)",done
+c:skilldesc:61:4,Finger Explosion ,Eksplozja Palca,Ujjrobbanás ,"client: skill tooltip, skill name (G/P) (skill 61)",done
+c:skilldesc:61:5,Cause a big explosion with your fingertips. ,Stwórz dużą eksplozję swoimi koniuszkami palców.,Hatalmas robbanást okoz az ujjbegyeivel. ,"client: skill tooltip, description (skill 61)",done
+c:skilldesc:61:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Elülső területi támadás,"client: skill tooltip, condition 1 (skill 61)",done
+c:skilldesc:61:7,Opponent's defence is ignored,Ignoruje obronę wroga,Az ellenfél védelmét figyelmen kívül hagyja,"client: skill tooltip, condition 2 (skill 61)",done
+c:skilldesc:61:8,Intelligence Bonus,Bonus od Inteligencji,Intelligencia-bónusz,"client: skill tooltip, condition 3 (skill 61)",done
+c:skilldesc:61:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 61) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:61:20,Chance of Piercing Hit %.0f%%,Szansa na cios przebicia %.0f%%,Átütő találat esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 61) | keep: %.0f | max 64 characters",done
+c:skilldesc:61:23,Faint Chance +%0.f%%,Szansa na omdlenie +%0.f%%,Ájulás esélye +%0.f%%,"client: skill tooltip, effect line 3 (skill 61) | keep: %0.f | max 64 characters",done
+c:skilldesc:62:2,Dragon Swirl ,Smoczy Wir,Sárkányörvény ,"client: skill tooltip, skill name (skill 62)",done
+c:skilldesc:62:3,Tornado Swirl ,Wir Tornada,Tornádóörvény ,"client: skill tooltip, skill name (M) (skill 62)",done
+c:skilldesc:62:4,Whirlwind,Trąba Powietrzna,Forgószél,"client: skill tooltip, skill name (G/P) (skill 62)",done
+c:skilldesc:62:5,Create a strong tornado to defeat several enemies.,"Stwórz potężne tornado, aby pokonać kilku wrogów","Erős tornádót kelt, hogy több ellenséget legyőzzön.","client: skill tooltip, description (skill 62)",done
+c:skilldesc:62:6,Splash Attack,Atak rozpryskowy,Területi támadás,"client: skill tooltip, condition 1 (skill 62)",done
+c:skilldesc:62:7,Opponent's escape is ignored,Ignoruje ucieczkę wroga,Az ellenfél kitérését figyelmen kívül hagyja,"client: skill tooltip, condition 2 (skill 62)",done
+c:skilldesc:62:8,Intelligence Bonus,Bonus od Inteligencji,Intelligencia-bónusz,"client: skill tooltip, condition 3 (skill 62)",done
+c:skilldesc:62:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Támadóerő %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 62) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:62:20,Chance to ignore an opponent's escape %.0f%%,Szansa na Ignorowanie ucieczki wroga %.0f%%,Az ellenfél kitérésének figyelmen kívül hagyási esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 62) | keep: %.0f | max 64 characters",done
+c:skilldesc:63:2,Enchanted Blade ,Czarowane Ostrze,Elvarázsolt penge ,"client: skill tooltip, skill name (skill 63)",done
+c:skilldesc:63:3,Enchanted Sword,Czarowany Miecz,Elvarázsolt kard,"client: skill tooltip, skill name (M) (skill 63)",done
+c:skilldesc:63:4,Ghost Blade,Duchowe Ostrze,Szellempenge,"client: skill tooltip, skill name (G/P) (skill 63)",done
+c:skilldesc:63:5,Endow your blade with a powerful ghost.,Wzmocnij swoje ostrze potężnym duchem.,Erős szellemmel ruházza fel a pengédet.,"client: skill tooltip, description (skill 63)",done
+c:skilldesc:63:6,Increases Attack Power,Zwiększa Siłę Ataku,Növeli a támadóerőt,"client: skill tooltip, condition 1 (skill 63)",done
+c:skilldesc:63:7,Intelligence Bonus,Bonus od Inteligencji,Intelligencia-bónusz,"client: skill tooltip, condition 2 (skill 63)",done
+c:skilldesc:63:8,Steal Life from target,Kradzież życia,Életet szív el a célponttól,"client: skill tooltip, condition 3 (skill 63)",done
+c:skilldesc:63:17,Attack Power +%.1f ,Siła Ataku +%.0f,Támadóerő +%.1f ,"client: skill tooltip, effect line 1 (skill 63) | keep: %.1f | max 64 characters",done
+c:skilldesc:63:20,Life thief: %.0f%% of damage,Złodziej życia: %.0f%% obrażeń,Életlopás: a sebzés %.0f%%-a,"client: skill tooltip, effect line 2 (skill 63) | keep: %.0f | max 64 characters",done
+c:skilldesc:64:2,Fear,Strach,Félelem,"client: skill tooltip, skill name (skill 64)",done
+c:skilldesc:64:3,Great Fear,Wielki Strach,Nagy félelem,"client: skill tooltip, skill name (M) (skill 64)",done
+c:skilldesc:64:4,Terror,Terror,Rettegés,"client: skill tooltip, skill name (G/P) (skill 64)",done
+c:skilldesc:64:5,Weakens the enemies abilities,"Zmniejsza umiejętności wroga, który cię atakuje",Gyengíti az ellenségek képességeit,"client: skill tooltip, description (skill 64)",done
+c:skilldesc:64:6,Decreases the opponent's Attack Power,Zmniejsza siłę ataku przeciwnika,Csökkenti az ellenfél támadóerejét,"client: skill tooltip, condition 1 (skill 64)",done
+c:skilldesc:64:7,Increase chance that opponents miss the target,"Zwiększa szansę, że przeciwnik nie trafi w cel","Növeli az esélyt, hogy az ellenfelek mellétalálnak","client: skill tooltip, condition 2 (skill 64)",done
+c:skilldesc:64:8,It's only activated when you get a hit,"Aktywowane tylko wtedy, gdy zostaniesz trafiony","Csak akkor lép életbe, ha eltalálnak","client: skill tooltip, condition 3 (skill 64)",done
+c:skilldesc:64:17,Opponent Attack Power -%.0f%%,Siła ataku wroga -%.0f%%,Ellenfél támadóereje -%.0f%%,"client: skill tooltip, effect line 1 (skill 64) | keep: %.0f | max 64 characters",done
+c:skilldesc:64:20,Opponent Miss Chance %.0f%%,Niepowodzenia przeciwnika %.0f%%,Ellenfél mellétalálási esélye %.0f%%,"client: skill tooltip, effect line 2 (skill 64) | keep: %.0f | max 64 characters",done
+c:skilldesc:65:2,Enchanted Armour ,Czarowana Zbroja,Elvarázsolt páncél ,"client: skill tooltip, skill name (skill 65)",done
+c:skilldesc:65:3,Stronger Enchanted Armour,Silniejsza Czarowana Zbroja,Erősebb elvarázsolt páncél,"client: skill tooltip, skill name (M) (skill 65)",done
+c:skilldesc:65:4,Armour of Darkness,Zbroja Ciemności,A sötétség páncélja,"client: skill tooltip, skill name (G/P) (skill 65)",done
+c:skilldesc:65:5,Protect your body with dark armour. ,Chroń swoje ciało mrocznym pancerzem.,Sötét páncéllal védi a testedet. ,"client: skill tooltip, description (skill 65)",done
+c:skilldesc:65:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Visszaveri a sebzést a támadóra,"client: skill tooltip, condition 1 (skill 65)",done

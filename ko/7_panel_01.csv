@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 p:58358c356a84,Max. HP +%d,Max PŻ: +%d,최대 HP +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:01117c116082,Max. SP +%d,Max PE: +%d,최대 SP +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:01117c116082,Max. SP +%d,Max PE: +%d,최대 SP +%d,"APPLY_TEXTS[2][1] / panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:7505ed037a49,Vitality +%d,Witalność +%d,체력 +%d,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,지능 +%d,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:88be89e0b9e3,Strength +%d,Siła: +%d,근력 +%d,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -87,6 +87,7 @@ p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,어�
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,치명타 저항 +%d%%,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,관통타 저항 +%d%%,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:b35287fee0ec,Terror +%d%%,Terror +%d%%,공포 +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:54690e658e25,Chance to reflect Arrows: %d%%,Szansa na odbicie pocisku: %d%%,,"APPLY_TEXTS[1080][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,지구력 회복 +%d%%,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,몬스터 대상 단검 공격 +%d,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,몬스터 대상 공격력 +%d,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -278,7 +279,7 @@ p:7fe3519695c5,shellfish,małża,조개,"DECISION_ENUMS['FIXED'][4] | the classi
 p:f403de3ac3ab,horse medal,medal konny,말 메달,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",done
 p:eba8e06de737,Dried Head,Suszona Głowa,말린 머리,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,헤어스타일,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,마법 가루,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,마법 가루,"DECISION_ENUMS['FIXED'][8] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:0b6df592d5ed,Cor Draconis,Cor Draconis,용의 심장,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (등급표 기준),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,노점,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
@@ -307,8 +308,8 @@ p:c0c633ea5071,a key,klucz,열쇠,"DECISION_ENUMS['SAFEBOX_WHY'][4] | the classi
 p:d0941e68da8f,other,inne,기타,"DECISION_ENUMS['SAFEBOX_WHY'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:dfec73f58eb1,markdown off,przecena wyłączona,가격 인하 꺼짐,"DECISION_ENUMS['SUPPLY_TIER'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:263a014e24cf,"mild markdown (-5% every 3 h, to -20%)","przecena złagodzona (-5% co 3 h, do -20%)","약한 인하 (3시간마다 -5%, 최대 -20%)","DECISION_ENUMS['SUPPLY_TIER'][1] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:865c7909fed0,"standard markdown (-10% every 3 h, to -40%)","przecena standardowa (-10% co 3 h, do -40%)","기본 인하 (3시간마다 -10%, 최대 -40%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:2c147c5c2349,"add and change stone markdown (-10% every 3 h, to -60%)","przecena dodań i zmianek (-10% co 3 h, do -60%)","추가·변경석 인하 (3시간마다 -10%, 최대 -60%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:5fc77d554b66,"standard markdown (-10% every 3 h, to -70%)","przecena standardowa (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
+p:35f78aa61326,"add and change stone markdown (-10% every 3 h, to -70%)","przecena dodań i zmianek (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
 p:42f7cbbbdce6, (an earlier markdown cancelled), (wcześniejsza przecena anulowana), (이전 인하 취소됨),"DECISION_ENUMS['TIER_CANCELLED'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:424a8795fde9,", on a nice ending",", z ładną końcówką",", 깔끔한 끝자리","DECISION_ENUMS['NICE_END'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8992caf91843, (the average-damage base), (baza ŚR), (평균 피해 기준),"DECISION_ENUMS['CATALOGUE_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -356,7 +357,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,아이템몰 
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,판매용으로 보관한 물에서 얻은 염색약,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy",봇이 쓸 수 없는 아이템몰 헤어스타일,"DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),망각의 주문서: 봇의 어떤 스킬도 필요로 하지 않음 ({a}),"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","보관량 초과 마법 가루: 가방에 {a}, 보관 {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","보관량 초과 마법 가루: 가방에 {a}, 보관 {b}","DECISION_GOODS[30][1] / panel: module text | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,정령석 {a} (종류 {b}): 시장용으로 보관하는 100개 중 15개,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi",봇이 박을 수 없는 정령석 {a} (종류 {b}),"DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}","일반 스킬북: 가방에서 앞선 {a}, 보관 {b}{c}","DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
@@ -404,7 +405,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,레벨 30 미만 장비가 너무 낮거나 한도 초과,"DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,낚싯대나 곡괭이가 주인에게 돌아감,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,착용하려고 회수,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",done
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,건초는 더 이상 노점에 올리지 않음: 잡화상점 상인에게,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,건초는 더 이상 노점에 올리지 않음: 잡화상점 상인에게,"DECISION_OFF[21] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",시장에 부족한 상품을 위한 노점 공간,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,노점에 구운 생선 40개 초과: 칸토르에게 주문서와 교환,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa",추가석·변경석·축복의 주문서 1회 반감,"DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",done
@@ -413,6 +414,7 @@ p:e2046dfdb681,a level 32/36 bell +0..+3 (0-1 bonus) over the kingdom market's d
 p:fe86cee3c952,a carrot or a Red Ginseng over 300 on the kingdom's market — for Red Potions (D) or the merchant,Marchewka lub Czerwony Żeń-szeń ponad 300 na rynku królestwa — na Czerwone Mikstury (D) albo do Handlarki,왕국 시장에 300개 넘는 당근이나 붉은 인삼: 빨간 물약(D)용 또는 상인에게,"DECISION_OFF[27] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d9993d89706,a player is buying it from the bot at a meeting — taken home for the trade window,gracz kupuje go od bota na spotkaniu — zdjęty do torby na okno handlu,플레이어가 만나서 봇에게 구매 중: 거래창용으로 회수,"DECISION_OFF[28] | the classic web panel (browser, UTF-8: any letter)",done
 p:4b770d408280,a helmet or shield +0..+4 over 60 of the item on the bots' counters — for the merchant,hełm lub tarcza +0…+4 ponad 60 sztuk tego przedmiotu na ladach botów — do Handlarki,봇 노점에 60개 넘는 투구나 방패 +0..+4: 상인에게,"DECISION_OFF[29] | the classic web panel (browser, UTF-8: any letter)",done
+p:66a4f18d790a,a refine scroll the bot needs itself — taken back before it buys one elsewhere,"zwój ulepszania, którego bot sam potrzebuje — zabrany, zanim kupi go u innych",,"DECISION_OFF[30] | the classic web panel (browser, UTF-8: any letter)",new
 p:2f4cb7db5792,"unknown (a drop, a chest, a trade)","nieznane (łup, skrzynia, wymiana)","알 수 없음 (드롭, 상자, 거래)","DECISION_ORIGINS[0][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:b2f755925666,"bought from the merchant, off the ladder ({a})",kupione u handlarza z drabinki ({a}),"상인에게 구매, 단계 외 ({a})","DECISION_ORIGINS[1][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:03be11c61942,bought in an emergency from the merchant for {a},kupione awaryjnie u handlarza za {a},상인에게 긴급 구매 ({a}),"DECISION_ORIGINS[2][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -647,7 +649,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,창고에 넣음,"GEAR_HISTORY_HOWS[
 p:cacea96bfc17,Out of the safebox,Z magazynu,창고에서 꺼냄,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,달빛 보물상자에서,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,상인에게서 구매,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",done
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,마법 가루로 얻은 구슬,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,마법 가루로 얻은 구슬,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,재료 교환으로,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,재료 교환 실패,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,재료 교환에 제공,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -697,5 +699,3 @@ p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — 평무 (�
 p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — 박라 (진노),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,진노 길드 맵,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,진노 원숭이 던전,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,원숭이 던전 (쉬움),"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b8391ccd7843,Medium Monkey Dungeon,Średni Loch Małp,중급 원숭이 던전,"MAP_I18N['monkey_medium'] | the classic web panel (browser, UTF-8: any letter)",done

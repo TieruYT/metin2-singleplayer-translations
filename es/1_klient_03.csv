@@ -117,7 +117,7 @@ c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Poción de Fue
 c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Poción de Regeneración de Estamina,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Tiempo de lanzamiento de habilidad reducido en un %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Tipo de objeto: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
 c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,El código ya ha sido utilizado.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Código no válido.,client: game texts (localeInfo),done
@@ -129,10 +129,10 @@ c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom
 c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Desbloquear,client: game texts (localeInfo),done
 c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Menos de 1 min.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CLASS,Class:,,Clase:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Puntos de estado:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Puntos de habilidad:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Puntos de habilidades de apoyo:,client: game texts (localeInfo),done
@@ -145,8 +145,8 @@ c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Tiempo de juego (min):,client:
 c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Puntos de rango:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Guerrero (M),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Guerrero (F),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Chamán (M),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Chamán (F),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Panel Principal,client: game texts (localeInfo),done
@@ -319,7 +319,7 @@ c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Almacén,client: game texts (l
 c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Desierto de Yongbi,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Valle de Orcos,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Monte Sohan,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Mazmorra de Arañas V1,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Mazmorra de Arañas V2,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Mazmorra de Monos Fácil,client: game texts (localeInfo),done
@@ -370,7 +370,7 @@ c:locale_game:GM_PANEL_NO_ROOM_TARGET,No room at the destination.,,No hay espaci
 c:locale_game:GM_PANEL_SAFEBOX_CLOSED,The player has not opened the Storeroom this session.,,El jugador no ha abierto el Almacén en esta sesión.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_MALL_CLOSED,The player has not opened the Item Shop Storage this session.,,El jugador no ha abierto el Almacén de la Tienda de Objetos en esta sesión.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BAD_DATA,Data error.,,Error de datos.,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_ERROR,Error: %s,,Error: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_ERROR,Error: %s,,Error: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GM_PANEL_NEED_CREATURE,Choose a creature.,,Elige una criatura.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_MARBLE_ADDED,Marble added to the inventory.,,Bola añadida al inventario.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_UNKNOWN_CREATURE,Unknown creature.,,Criatura desconocida.,client: game texts (localeInfo),done
@@ -431,14 +431,14 @@ c:locale_game:GM_PANEL_BAD_EMPIRE,Invalid kingdom.,,Reino no válido.,client: ga
 c:locale_game:GM_PANEL_SEARCHING,Searching...,,Buscando...,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_PLAYER_NOT_FOUND,Player not found.,,Jugador no encontrado.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILLS_OFFLINE,(character offline - no skill preview),,(personaje desconectado - sin vista previa de habilidades),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_MOBS,Mobs:,,Mobs:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MOBS,Mobs:,,Mobs:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_CHOOSE_FROM_LIST,(choose from the list),,(elegir de la lista),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metins:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metins:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_GM_COMMANDS,GM commands,,Comandos de GM,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_PURGE,Remove mobs,,Eliminar mobs,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_WEAKEN,Mobs 1 hit,,Mobs a 1 golpe,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BOSSES,Bosses,,Jefes,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_METINS,Metins,,Metins,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS,Metins,,Metins,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_SPAWNING,Spawning...,,Generando...,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BOSSES_SPAWNED,Bosses spawned: %s/%s.,,Jefes generados: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GM_PANEL_METINS_SPAWNED,Metins spawned: %s/%s.,,Metins generados: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
@@ -497,7 +497,7 @@ c:locale_game:BOT_ADMIN_FIRST_30,First to level 30,,Primero al nivel 30,client: 
 c:locale_game:BOT_ADMIN_FIRST_60,First to level 60,,Primero al nivel 60,client: game texts (localeInfo),done
 c:locale_game:BOT_ADMIN_FIRST_90,First to level 90,,Primero al nivel 90,client: game texts (localeInfo),done
 c:locale_game:BOT_ADMIN_TITLE,Bot Management [GM],,Gestión de Bots [GM],client: game texts (localeInfo),done
-c:locale_game:BOT_ADMIN_TAB_GENERAL,General,,General,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_GENERAL,General,,General,client: game texts (localeInfo),check
 c:locale_game:BOT_ADMIN_TAB_LIVE,Bot actions,,Acciones de bot,client: game texts (localeInfo),done
 c:locale_game:BOT_ADMIN_TAB_MANAGE,Management,,Gestión,client: game texts (localeInfo),done
 c:locale_game:BOT_ADMIN_TAB_ACHIEVEMENTS,Achievements,,Logros,client: game texts (localeInfo),done
@@ -570,9 +570,9 @@ c:locale_game:GMP_NO_ANSWER,No answer from the server,,Sin respuesta del servido
 c:locale_game:GMP_SENT,Sent: %s,,Enviado: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_SAVED,Saved,,Guardado,client: game texts (localeInfo),done
 c:locale_game:GMP_SAVED_OFFLINE,Saved (player offline),,Guardado (jugador desconectado),client: game texts (localeInfo),done
-c:locale_game:GMP_ERR,Error: %s,,Error: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_ERR,Error: %s,,Error: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_ON,ON,,ON,client: game texts (localeInfo),done
-c:locale_game:GMP_OFF,OFF,,OFF,client: game texts (localeInfo),done
+c:locale_game:GMP_OFF,OFF,,OFF,client: game texts (localeInfo),check
 c:locale_game:GMP_MENU_PLAYER,Player,,Jugador,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_SELF,Me (GM),,Yo (GM),client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_WORLD,World & events,,Mundo y eventos,client: game texts (localeInfo),done
@@ -603,17 +603,17 @@ c:locale_game:GMP_ONLINE,Online,,En línea,client: game texts (localeInfo),done
 c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Desconectado desde %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_MAP,Map: %s,,Mapa: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,HP/SP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Cuenta: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,STR %s VIT %s DEX %s INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Puntos de estado %s, habilidad %s",client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Caballo: nivel %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_RANK,Rank: %s,,Rango: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_JOB_WARRIOR,Warrior,,Guerrero,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
 c:locale_game:GMP_JOB_SHAMAN,Shaman,,Chamán,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOVE,Movement,,Movimiento,client: game texts (localeInfo),done
 c:locale_game:GMP_GOTO_PLAYER,Go to,,Ir a,client: game texts (localeInfo),done
@@ -626,7 +626,7 @@ c:locale_game:GMP_GIVE_ITEM,Give item,,Dar objeto,client: game texts (localeInfo
 c:locale_game:GMP_SKILLS_M,All to M1,,Todo a M1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_G,All to G1,,Todo a G1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_P,All to P,,Todo a P,client: game texts (localeInfo),done
-c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
 c:locale_game:GMP_VAL_CASH,Dragon Coins,,Monedas Dragón,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_LEVEL,Level,,Nivel,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_RANK,Rank,,Rango,client: game texts (localeInfo),done
@@ -686,14 +686,14 @@ c:locale_game:GMP_NOTICE_BIG,Big,,Grande,client: game texts (localeInfo),done
 c:locale_game:GMP_NOTICE_MAP,This map only,,Solo este mapa,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Introduce el texto del anuncio,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Eventos (Bonificación de imperio),client: game texts (localeInfo),done
-c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_HOURS,Hours,,Horas,client: game texts (localeInfo),done
 c:locale_game:GMP_EMPIRE_ALL,All,,Todo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_START,Start event,,Iniciar evento,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_STOP,Stop events,,Detener eventos,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Porcentaje extra, ej. 100 = doble. Vacío/0 = sin cambios.",client: game texts (localeInfo),done

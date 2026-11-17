@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Kniha zapomnění přečtena: %s znovu na %d, žádný Mistr. Další kniha je další pokus (šance %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Kniha zapomnění přečtena: %s - Mistr!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Dokument pro reset dovedností použit: %s - Mistr!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(žádný),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,která není na 17,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Reset"" v okně dovedností ho spotřebuje.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Jdu za Jackem Dýní,"a phrase the 
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Obchoduji s Jackem Dýní,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,Jdu k Dýňovému strašákovi,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Mluvím s Dýňovým strašákem,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Sem nemůžu vstoupit - toto místo je jen pro hráče.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,Nedokázal jsem se k tobě dostat.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,Ruším nákupy. Po potvrzení obchodu se vrátím a pak půjdu sám získávat úrovně.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,Ruším nákupy. Po potvrzení obchodu se vrátím a pak půjdu rybařit.,"a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,"Ruším nákupy a po potvrzení obchodu se vracím. Až budu zpátky, propusť mě znovu.","a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,Po nákupech jsem rozkaz neprovedl - dej mi ho znovu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,Moment - ještě přebírám předchozí příkaz. Zkus to znovu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,"Nemám žádné nákupy, které bych zrušil.","a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,"Nákupy jsou zrušené - ještě čekám na obchod. Až budu zpátky, dej rozkaz znovu.","a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,"Už mám 8 rozkazů - počkej, až jeden dokončím.","a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,Nedokázal jsem se dostat do města.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,"Obchod se právě otevírá. Zůstanu u něj a zavřu ho, jakmile ho hra potvrdí; zboží se vrátí do mého vaku.","a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,offline obchod nedostupný,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,obchod vypnutý,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,"zavírám obchod: vyber Yangy z měšce, aby bylo místo pro výtěžek","a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"zavírám obchod; čekám na vrácené zboží, výtěžek nebo potvrzení","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,obchod čeká na kanál 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,jdu otevřít obchod v M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,"obchod otevřený; obsluha, až budu volný","a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,obchod vypršel; čekám na obsluhu,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Obchod: %u nabídek. Výtěžek k vybrání u stánku: %lld Yangů. Prodávám přebytky z celého vaku; dárky a potřebné předměty zůstávají.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Obchod zapnutý. Prodávám přebytky z celého vaku kromě dárků a potřebných předmětů. Výtěžek si vezmi z mého měšce. Když jsem po tvém boku, postavím ho v první vesnici, kde stojíš (libovolného království), na kanálu 1; s volnou rukou nebo když hraju sám jdu sám do vesnice svého království.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Obchody společníka jsou dostupné jen na mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,tvé dárky,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,označené/zamčené tebou,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,přesunuté tebou před <5 min,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,nelze prodat,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,potřebuji je,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Dárky nikdy neprodávám - Shift + pravé kliknutí v mém vaku jeden uvolní.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s dokončil úkol %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Nebojuji: mám nastaveno „Nebojovat“. Změň to v okně Společníka (P), záložka Boj, nebo mi pošeptej „attack“.","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Cvičný panák: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

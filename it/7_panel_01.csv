@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 p:58358c356a84,Max. HP +%d,Max PŻ: +%d,PV max. +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:01117c116082,Max. SP +%d,Max PE: +%d,PM max. +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:01117c116082,Max. SP +%d,Max PE: +%d,PM max. +%d,"APPLY_TEXTS[2][1] / panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:7505ed037a49,Vitality +%d,Witalność +%d,Vitalità +%d,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,Intelligenza +%d,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:88be89e0b9e3,Strength +%d,Siła: +%d,Forza +%d,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -62,7 +62,7 @@ p:c84fa2587ddc,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Forte
 p:1f83ddc18fb4,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Forza contro i mostri +%d%%,"APPLY_TEXTS[63][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:9ee5d4bd694f,Attack Value +%d%%,Wartość Ataku: +%d%%,Valore d'attacco +%d%%,"APPLY_TEXTS[64][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:de6fc43c64bc,Defence +%d%%,Obrona: +%d%%,Difesa +%d%%,"APPLY_TEXTS[65][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
 p:0bf3b96fbebf,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Probabilità di ottenere oggetti moltiplicata per %.1f,"APPLY_TEXTS[67][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:fda3aeb92023,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Probabilità di ottenere Yang moltiplicata per %.1f,"APPLY_TEXTS[68][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,PV max. +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -87,6 +87,7 @@ p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,Resis
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Resistenza ai colpi critici +%d%%,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Resistenza ai colpi perforanti +%d%%,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:b35287fee0ec,Terror +%d%%,Terror +%d%%,Terrore +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:54690e658e25,Chance to reflect Arrows: %d%%,Szansa na odbicie pocisku: %d%%,Probabilità di riflettere le frecce: %d%%,"APPLY_TEXTS[1080][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,Rigenerazione resistenza +%d%%,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,Attacco col pugnale contro i mostri +%d,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,Valore d'attacco contro i mostri +%d,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -194,7 +195,7 @@ p:4a3ef228df85,Metin dropper,Dropek Metinów,Farmatore di Metin,"BOT_PERSONALITY
 p:ae29ec418b7b,M3 weapon dropper,Dropek z M3,Farmatore di armi M3,"BOT_PERSONALITY_LABELS[8] | the classic web panel (browser, UTF-8: any letter)",done
 p:ba9418ead99d,M2 dropper (Warrior),Dropek M2 (Wojownik),Farmatore M2 (Guerriero),"BOT_PERSONALITY_LABELS[9] / T['m2w_role'] | the classic web panel (browser, UTF-8: any letter)",done
 p:f2fb7f44dcbd,Medal dropper,Dropek medali,Farmatore di medaglie,"BOT_PERSONALITY_LABELS[10] | the classic web panel (browser, UTF-8: any letter)",done
-p:88557672dea9,Grinder,Grinder,Grinder,"BOT_PERSONA_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",done
+p:88557672dea9,Grinder,Grinder,Grinder,"BOT_PERSONA_LABELS[0] | the classic web panel (browser, UTF-8: any letter)",check
 p:3deabb07a754,Conqueror,Zdobywca,Conquistatore,"BOT_PERSONA_LABELS[1] | the classic web panel (browser, UTF-8: any letter)",done
 p:de5e04489960,Trader,Handlarz,Commerciante,"BOT_PERSONA_LABELS[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bfd171baed7,Gambler,Hazardzista,Giocatore d'azzardo,"BOT_PERSONA_LABELS[3] | the classic web panel (browser, UTF-8: any letter)",done
@@ -218,10 +219,10 @@ p:3163a85fc381,Bonus Master,Mistrz Bonusów,Maestro dei bonus,"BOT_PERSONA_LABEL
 p:41dc3110c0fa,Bargain Hunter,Łowca Okazji,Cacciatore di affari,"BOT_PERSONA_LABELS[21] | the classic web panel (browser, UTF-8: any letter)",done
 p:b63f21fd8d7c,Daily Goal,Cel Dnia,Obiettivo giornaliero,"BOT_PERSONA_LABELS[22] / MAP_I18N['daily_goal'] | the classic web panel (browser, UTF-8: any letter)",done
 p:945eda39d82d,Warrior,Wojownik,Guerriero,"CLASS_NAMES[0] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
 p:6f6596271da8,Shaman,Szaman,Sciamano,"CLASS_NAMES[3] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",done
+p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",check
 p:cf4aa98d6a2a,a weaker blow than the weapon taken off: {a},słabszy cios niż zdjęta broń: {a},un colpo più debole dell'arma tolta: {a},"DECISION_ANOMALIES['blow_down'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:4804f0036f6f,a level-30 weapon replaced by another weapon,broń 30 lv zastąpiona inną bronią,un'arma di livello 30 sostituita da un'altra arma,"DECISION_ANOMALIES['level30_off'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d8f4654502b6,listed as a spare while a tool was in the hand ({a}),"wystawione jako zapas, gdy w ręce było narzędzie ({a})",messo come riserva con un attrezzo in mano ({a}),"DECISION_ANOMALIES['tool_spare'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -278,11 +279,11 @@ p:7fe3519695c5,shellfish,małża,mollusco,"DECISION_ENUMS['FIXED'][4] | the clas
 p:f403de3ac3ab,horse medal,medal konny,medaglia del cavallo,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",done
 p:eba8e06de737,Dried Head,Suszona Głowa,Testa essiccata,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,acconciatura,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,Polvere magica,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
-p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,Polvere magica,"DECISION_ENUMS['FIXED'][8] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",check
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (dalla tabella dei gradi),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,banchi,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
-p:b6c935d4f3c7,min,min,min,"DECISION_ENUMS['CLOCK_UNIT'][1] / T['unit_min'] | the classic web panel (browser, UTF-8: any letter)",done
+p:b6c935d4f3c7,min,min,min,"DECISION_ENUMS['CLOCK_UNIT'][1] / T['unit_min'] | the classic web panel (browser, UTF-8: any letter)",check
 p:b9ed428926d0, (the clock began after a restart), (zegar ruszył po restarcie), (l'orologio è partito dopo un riavvio),"DECISION_ENUMS['CLOCK_RESTART'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:a6478d5557ec,the current generation,bieżące pokolenie,la generazione attuale,"DECISION_ENUMS['GENERATION'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:01b91e60d972,priced under another generation (catching up),wycenione w innym pokoleniu (nadrabia tempo),prezzo fissato in un'altra generazione (in recupero),"DECISION_ENUMS['GENERATION'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -307,8 +308,8 @@ p:c0c633ea5071,a key,klucz,una chiave,"DECISION_ENUMS['SAFEBOX_WHY'][4] | the cl
 p:d0941e68da8f,other,inne,altro,"DECISION_ENUMS['SAFEBOX_WHY'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:dfec73f58eb1,markdown off,przecena wyłączona,ribasso disattivato,"DECISION_ENUMS['SUPPLY_TIER'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:263a014e24cf,"mild markdown (-5% every 3 h, to -20%)","przecena złagodzona (-5% co 3 h, do -20%)","ribasso lieve (-5% ogni 3 h, fino a -20%)","DECISION_ENUMS['SUPPLY_TIER'][1] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:865c7909fed0,"standard markdown (-10% every 3 h, to -40%)","przecena standardowa (-10% co 3 h, do -40%)","ribasso standard (-10% ogni 3 h, fino a -40%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:2c147c5c2349,"add and change stone markdown (-10% every 3 h, to -60%)","przecena dodań i zmianek (-10% co 3 h, do -60%)","ribasso delle pietre di aggiunta e cambio (-10% ogni 3 h, fino a -60%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:5fc77d554b66,"standard markdown (-10% every 3 h, to -70%)","przecena standardowa (-10% co 3 h, do -70%)","ribasso standard (-10% ogni 3 h, fino a -70%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:35f78aa61326,"add and change stone markdown (-10% every 3 h, to -70%)","przecena dodań i zmianek (-10% co 3 h, do -70%)","ribasso delle pietre di aggiunta e cambio (-10% ogni 3 h, fino a -70%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
 p:42f7cbbbdce6, (an earlier markdown cancelled), (wcześniejsza przecena anulowana), (un ribasso precedente annullato),"DECISION_ENUMS['TIER_CANCELLED'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:424a8795fde9,", on a nice ending",", z ładną końcówką",", su un bel finale","DECISION_ENUMS['NICE_END'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8992caf91843, (the average-damage base), (baza ŚR), (la base del danno medio),"DECISION_ENUMS['CATALOGUE_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -356,7 +357,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,Una tinta per
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,Una tinta dall'acqua tenuta per la vendita,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy",Un'acconciatura del negozio oggetti che il bot non può indossare,"DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),Una Pergamena dell'oblio: nessuna abilità del bot la aspetta ({a}),"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Polvere magica oltre la scorta: {a} nella borsa, ne tiene {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Polvere magica oltre la scorta: {a} nella borsa, ne tiene {b}","DECISION_GOODS[30][1] / panel: module text | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,Una pietra spirituale {a} (tipo {b}): una delle 15 su 100 tenute per il mercato,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi",Una pietra spirituale {a} (tipo {b}) che il bot non può incastonare,"DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}","Un libro generale: {a} prima di lui nella borsa, ne tiene {b}{c}","DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
@@ -404,7 +405,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,"equipaggiamento sotto il livello 30 troppo basso, o oltre il limite","DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,una canna o un piccone torna al suo proprietario,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,ripreso per indossarlo,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",done
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,il fieno non va più su nessun banco: per il mercante dell'Emporio,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,il fieno non va più su nessun banco: per il mercante dell'Emporio,"DECISION_OFF[21] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",spazio sul banco per merci che mancano al mercato,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,oltre 40 pesci grigliati sul banco: al Kantor per pergamene,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa","il dimezzamento una tantum di pietre di aggiunta, di cambio e Pergamene della benedizione","DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",done
@@ -413,6 +414,7 @@ p:e2046dfdb681,a level 32/36 bell +0..+3 (0-1 bonus) over the kingdom market's d
 p:fe86cee3c952,a carrot or a Red Ginseng over 300 on the kingdom's market — for Red Potions (D) or the merchant,Marchewka lub Czerwony Żeń-szeń ponad 300 na rynku królestwa — na Czerwone Mikstury (D) albo do Handlarki,una carota o un Ginseng rosso oltre 300 sul mercato del regno: per Pozioni rosse (D) o il mercante,"DECISION_OFF[27] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d9993d89706,a player is buying it from the bot at a meeting — taken home for the trade window,gracz kupuje go od bota na spotkaniu — zdjęty do torby na okno handlu,un giocatore lo compra dal bot in un incontro: portato via per la finestra di scambio,"DECISION_OFF[28] | the classic web panel (browser, UTF-8: any letter)",done
 p:4b770d408280,a helmet or shield +0..+4 over 60 of the item on the bots' counters — for the merchant,hełm lub tarcza +0…+4 ponad 60 sztuk tego przedmiotu na ladach botów — do Handlarki,un elmo o scudo +0..+4 oltre 60 dell'oggetto sui banchi dei bot: per il mercante,"DECISION_OFF[29] | the classic web panel (browser, UTF-8: any letter)",done
+p:66a4f18d790a,a refine scroll the bot needs itself — taken back before it buys one elsewhere,"zwój ulepszania, którego bot sam potrzebuje — zabrany, zanim kupi go u innych",una pergamena di raffinazione che serve al bot stesso — ripresa prima che ne compri una altrove,"DECISION_OFF[30] | the classic web panel (browser, UTF-8: any letter)",done
 p:2f4cb7db5792,"unknown (a drop, a chest, a trade)","nieznane (łup, skrzynia, wymiana)","sconosciuta (un bottino, uno scrigno, uno scambio)","DECISION_ORIGINS[0][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:b2f755925666,"bought from the merchant, off the ladder ({a})",kupione u handlarza z drabinki ({a}),"comprato dal mercante, fuori dalla scala ({a})","DECISION_ORIGINS[1][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:03be11c61942,bought in an emergency from the merchant for {a},kupione awaryjnie u handlarza za {a},comprato d'urgenza dal mercante per {a},"DECISION_ORIGINS[2][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -432,7 +434,7 @@ p:234787539762,a level-30 weapon family,rodzina broni 30 lv,una famiglia di armi
 p:4b379de69232,the class's level-30 weapon,broń 30 lv tej klasy,l'arma di livello 30 della classe,"DECISION_ROLES[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3d14efd7f548,a level-30 weapon project,projekt broni 30 lv,un progetto di arma di livello 30,"DECISION_ROLES[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:494193e923a9,a lines project,projekt bonusów,un progetto di righe,"DECISION_ROLES[8] | the classic web panel (browser, UTF-8: any letter)",done
-p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",done
+p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",check
 p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,Stalki tenuto per il livello,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
 p:a68ea0574790,a higher-tier spare,zapas na wyższy stopień,una riserva di livello superiore,"DECISION_ROLES[64] | the classic web panel (browser, UTF-8: any letter)",done
 p:359c623d2295,a backup,zapas,un ricambio,"DECISION_ROLES[128] | the classic web panel (browser, UTF-8: any letter)",done
@@ -479,7 +481,7 @@ p:88c99472ab2a,Unknown step,Nieznany krok,Passo sconosciuto,"DECISION_STEPS[0][2
 p:cc11b3a28fa3,Context,Kontekst,Contesto,"DECISION_STEPS[1][2] / MAP_I18N['ex_context'] | the classic web panel (browser, UTF-8: any letter)",done
 p:12ad80de2ef2,"curve {value}, yang rate {a}, inflation {b} ({c} steps)","krzywa {value}, stawka yang {a}, inflacja {b} (kroków: {c})","curva {value}, tasso dello yang {a}, inflazione {b} ({c} passi)","DECISION_STEPS[1][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:8ef3a2cfe9cc,Bonus line,Linia bonusu,Riga bonus,"DECISION_STEPS[2][2] | the classic web panel (browser, UTF-8: any letter)",done
-p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
+p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",check
 p:36dec63eb9a5,Lines at the top,Linie na maksimum,Righe in cima,"DECISION_STEPS[3][2] | the classic web panel (browser, UTF-8: any letter)",done
 p:fae8d9a96771,"{a} lines at the top, multiplier {value}","linii na maksimum: {a}, mnożnik {value}","{a} righe in cima, moltiplicatore {value}","DECISION_STEPS[3][3] | keep: {a} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:0e7d592cffc6,Bonus premium,Dopłata za bonusy,Premio bonus,"DECISION_STEPS[4][2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -647,7 +649,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,Nel magazzino,"GEAR_HISTORY_HOWS['SA
 p:cacea96bfc17,Out of the safebox,Z magazynu,Dal magazzino,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,Da uno scrigno Chiaro di luna,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,Comprato da un mercante,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",done
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Biglia dalla Polvere magica,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Biglia dalla Polvere magica,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,Da uno scambio di materiali,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,Scambio di materiali fallito,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,Dato in uno scambio di materiali,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -670,10 +672,10 @@ p:5075d0e08eee,Bonus lines rerolled (buff set),Zmieniono bonusy (set buffów),Ri
 p:248af2db80d7,blacksmith (scroll not worth it),kowal (zwój nieopłacalny),fabbro (pergamena non conveniente),"IWAKURA_SCROLL_UNPROFITABLE_LABEL | the classic web panel (browser, UTF-8: any letter)",done
 p:f80bd79e4024,Warrior (M),Wojownik (M),Guerriero (M),"JOB_NAMES_MAP[0] | the classic web panel (browser, UTF-8: any letter)",done
 p:72927eec5726,Warrior (F),Wojowniczka (K),Guerriera (F),"JOB_NAMES_MAP[4] | the classic web panel (browser, UTF-8: any letter)",done
-p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",done
-p:c7933bb2b4f9,Ninja (F),Ninja (K),Ninja (F),"JOB_NAMES_MAP[1] | the classic web panel (browser, UTF-8: any letter)",done
-p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",done
-p:e18c73ccad6d,Sura (F),Sura (K),Sura (F),"JOB_NAMES_MAP[6] | the classic web panel (browser, UTF-8: any letter)",done
+p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",check
+p:c7933bb2b4f9,Ninja (F),Ninja (K),Ninja (F),"JOB_NAMES_MAP[1] | the classic web panel (browser, UTF-8: any letter)",check
+p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",check
+p:e18c73ccad6d,Sura (F),Sura (K),Sura (F),"JOB_NAMES_MAP[6] | the classic web panel (browser, UTF-8: any letter)",check
 p:30e681f8c5bd,Shaman (M),Szaman (M),Sciamano (M),"JOB_NAMES_MAP[7] | the classic web panel (browser, UTF-8: any letter)",done
 p:981f1a942a27,Shaman (F),Szamanka (K),Sciamana (F),"JOB_NAMES_MAP[3] | the classic web panel (browser, UTF-8: any letter)",done
 p:0d550a145ad2,Live world map — Chunjo,Mapa świata na żywo — Chunjo,Mappa del mondo in diretta — Chunjo,"MAP_I18N['title'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -686,16 +688,14 @@ p:5e361041bfd8,Names and levels,Nicki i poziomy,Nomi e livelli,"MAP_I18N['names_
 p:6fe0d01b70d6,Party only (PT),Tylko w grupie (PT),Solo gruppo (PT),"MAP_I18N['pt_only'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a72085653e4,All,Wszystkie,Tutti,"MAP_I18N['all'] / MAP_I18N['gear_tab_all'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ab478f3efc84,Map,Mapa,Mappa,"MAP_I18N['map'] / T['pl_map'] | the classic web panel (browser, UTF-8: any letter)",done
-p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:8454362a7d5b,Chunjo guild map,Ziemia Klanu Chunjo,Mappa di gilda Chunjo,"MAP_I18N['m3'] | the classic web panel (browser, UTF-8: any letter)",done
-p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:74dc273555d1,Shinsoo guild map,Ziemia Klanu Shinsoo,Mappa di gilda Shinsoo,"MAP_I18N['s3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8be7a9b748c6,Shinsoo Monkey Dungeon,Loch Małp Shinsoo,Dungeon delle Scimmie Shinsoo,"MAP_I18N['smonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,Mappa di gilda Jinno,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,Dungeon delle Scimmie Jinno,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,Dungeon delle scimmie facile,"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b8391ccd7843,Medium Monkey Dungeon,Średni Loch Małp,Dungeon delle Scimmie medio,"MAP_I18N['monkey_medium'] | the classic web panel (browser, UTF-8: any letter)",done

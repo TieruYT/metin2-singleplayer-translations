@@ -1,653 +1,701 @@
 id,english,polski,translation,notes,status
-c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,Poder de ataque mágico %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Probabilidad de fuego duradero %.0f%%,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",done
-c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,Ira del Dragón +%.1f,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",done
-c:skilldesc:94:2,Blessing,Błogosławieństwo,Bendición,"client: skill tooltip, skill name (skill 94)",done
-c:skilldesc:94:3,Heaven,Ściana Nieba,Cielo,"client: skill tooltip, skill name (M) (skill 94)",done
-c:skilldesc:94:4,Dragon,Błogosławieństwo Smoka,Dragón,"client: skill tooltip, skill name (G/P) (skill 94)",done
-c:skilldesc:94:5,Protect your partner or yourself with a protection circle.,Ochraniaj partnera lub siebie samego kręgiem ochronnym.,Protege a tu compañero o a ti mismo con un círculo de protección.,"client: skill tooltip, description (skill 94)",done
-c:skilldesc:94:6,Physical Attack Resistance,Odporność na fizyczne obrażenia,Resistencia a ataques físicos,"client: skill tooltip, condition 1 (skill 94)",done
-c:skilldesc:94:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Se puede usar en miembros del grupo|Usado en otro jugador: -25% de valor de bonificación.,"client: skill tooltip, condition 2 (skill 94)",done
-c:skilldesc:94:17,Physical Attack Resistance %.1f%% ,Odporność Na Ataki Fizyczne %.1f%%,Resistencia a ataques físicos %.1f%%,"client: skill tooltip, effect line 1 (skill 94) | keep: %.1f | max 64 characters",done
-c:skilldesc:95:2,Reflect,Odbicie,Reflejar,"client: skill tooltip, skill name (skill 95)",done
-c:skilldesc:95:3,Reflecting Water,Odbijająca Woda,Agua de reflexión,"client: skill tooltip, skill name (M) (skill 95)",done
-c:skilldesc:95:4,Crystal Mirror ,Krystaliczne Lustro,Espejo de cristal,"client: skill tooltip, skill name (G/P) (skill 95)",done
-c:skilldesc:95:5,Protect your partner or yourself with a reflecting circle.,Ochraniaj partnera lub siebie samego odbijającym kręgiem.,Protege a tu compañero o a ti mismo con un círculo de reflexión.,"client: skill tooltip, description (skill 95)",done
-c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Refleja el daño de vuelta al atacante,"client: skill tooltip, condition 1 (skill 95)",done
-c:skilldesc:95:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Se puede usar en miembros del grupo|Usado en otro jugador: -25% de valor de bonificación.,"client: skill tooltip, condition 2 (skill 95)",done
-c:skilldesc:95:17,Reflected Physical Attack Damage: %.1f%% ,Odbicie Ataku Fizycznego: %.1f%%,Daño de ataque físico reflejado: %.1f%%,"client: skill tooltip, effect line 1 (skill 95) | keep: %.1f | max 64 characters",done
-c:skilldesc:96:2,Dragon's Strength,Pomoc Smoka,Ayuda del Dragón,"client: skill tooltip, skill name (skill 96)",done
-c:skilldesc:96:3,Dragon's Support,Wsparcie Smoka,Soporte del Dragón,"client: skill tooltip, skill name (M) (skill 96)",done
-c:skilldesc:96:4,Dragon Power,Siła Smoka,Poder del Dragón,"client: skill tooltip, skill name (G/P) (skill 96)",done
-c:skilldesc:96:5,Strengthens you or your partner's attack.,Zwiększ Twój atak lub kogoś z grupy.,Potencia tu ataque o el de tu compañero.,"client: skill tooltip, description (skill 96)",done
-c:skilldesc:96:6,Increases chance of a critical hit,Zwiększa szansę na krytyczne uderzenie,Aumenta la probabilidad de golpe crítico,"client: skill tooltip, condition 1 (skill 96)",done
-c:skilldesc:96:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Se puede usar en miembros del grupo|Usado en otro jugador: -25% de valor de bonificación.,"client: skill tooltip, condition 2 (skill 96)",done
-c:skilldesc:96:17,Chance of critical hit %.1f%% ,Szansa na cios krytyczny: +%.1f%% ,Probabilidad de golpe crítico %.1f%%,"client: skill tooltip, effect line 1 (skill 96) | keep: %.1f | max 64 characters",done
-c:skilldesc:106:2,Lightning Throw ,Rzut Piorunem,Lanzamiento relámpago,"client: skill tooltip, skill name (skill 106)",done
-c:skilldesc:106:3,Lightning Toss,Piorun Kulisty,Tiro de relámpago,"client: skill tooltip, skill name (M) (skill 106)",done
-c:skilldesc:106:4,Thunder Hurl,Śmiertelny Piorun,Lanzamiento de trueno,"client: skill tooltip, skill name (G/P) (skill 106)",done
-c:skilldesc:106:5,Attack with Thunderbolts.,Miotaj pioruny.,Ataca con relámpagos.,"client: skill tooltip, description (skill 106)",done
-c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 106)",done
-c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 106)",done
-c:skilldesc:106:8,Lightning Attribute,Atrybut Piorunu,Atributo relámpago,"client: skill tooltip, condition 3 (skill 106)",done
-c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:107:2,Summon Lightning,Przywołanie błyskawicy,Invocar relámpago,"client: skill tooltip, skill name (skill 107)",done
-c:skilldesc:107:3,Lightning Launch,Wystrzał błyskawicy,Lanzamiento de relámpago,"client: skill tooltip, skill name (M) (skill 107)",done
-c:skilldesc:107:4,Thunder Bolt,Grzmot,Rayo de trueno,"client: skill tooltip, skill name (G/P) (skill 107)",done
-c:skilldesc:107:5,Summon Thunderbolts from the sky.,Przywołuje błyskawice z nieba,Invoca relámpagos desde el cielo.,"client: skill tooltip, description (skill 107)",done
-c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 107)",done
-c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 107)",done
-c:skilldesc:107:8,Lightning Attribute|Fainting Effect,Atrybut Błyskawicy|Efekt Omdlenia,Atributo relámpago| Efecto de desmayo,"client: skill tooltip, condition 3 (skill 107)",done
-c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Probabilidad de desmayo: %.0f%%,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",done
-c:skilldesc:108:2,Lightning Claw ,Burzowy Szpon,Garra relámpago,"client: skill tooltip, skill name (skill 108)",done
-c:skilldesc:108:3,Lightning Punch,Piorunowy Cios,Puño de relámpago,"client: skill tooltip, skill name (M) (skill 108)",done
-c:skilldesc:108:4,Thunder Punch ,Pięść Grzmotu,Puño de trueno,"client: skill tooltip, skill name (G/P) (skill 108)",done
-c:skilldesc:108:5,Summon a Thunderbolt to your fist. ,Wykonaj Piorunową Pięść.,Convoca un relámpago en tu puño.,"client: skill tooltip, description (skill 108)",done
-c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 108)",done
-c:skilldesc:108:7,Lightning Attribute,Atrybut Błyskawicy,Atributo relámpago,"client: skill tooltip, condition 2 (skill 108)",done
-c:skilldesc:108:8,Chain Reaction Attack,Atak łańcuchowy,Ataque de reacción en cadena,"client: skill tooltip, condition 3 (skill 108)",done
-c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:109:2,Cure,Leczenie,Curación,"client: skill tooltip, skill name (skill 109)",done
-c:skilldesc:109:3,Heal,Uzdrowienie,Sanar,"client: skill tooltip, skill name (M) (skill 109)",done
-c:skilldesc:109:4,Aid of Light,Pomoc Światła,Auxilio de luz,"client: skill tooltip, skill name (G/P) (skill 109)",done
-c:skilldesc:109:5,Heal wounds with the aid of light.,Leczy urazy za pomocą światła,Sana las heridas con el auxilio de la luz.,"client: skill tooltip, description (skill 109)",done
-c:skilldesc:109:6,Restores HP,Regeneruje PŻ,Restaura HP,"client: skill tooltip, condition 1 (skill 109)",done
-c:skilldesc:109:7,Cures Negative Effects,Leczy negatywne efekty,Cura efectos negativos,"client: skill tooltip, condition 2 (skill 109)",done
-c:skilldesc:109:8,Usable on a party member|Activates Heavenly Shield,Możliwość użycia na członku grupy|Aktywuje Niebiańską Tarcze,Usable en un miembro del grupo|Activa Escudo Celestial,"client: skill tooltip, condition 3 (skill 109)",done
-c:skilldesc:109:17,Restore HP %.0f-%.0f,Przywraca PŻ %.0f,Restaurar HP %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 109) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:109:20,Cures Negative Effects Chance %.0f%%,Szansa na usunięcie negat. efektów %.0f%%,Probabilidad de curar efectos negativos %.0f%%,"client: skill tooltip, effect line 2 (skill 109) | keep: %.0f | max 64 characters",done
-c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,Absorción de daño de monstruo +%.0f,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",done
-c:skilldesc:110:2,Swiftness,Zwinność ,Rapidez,"client: skill tooltip, skill name (skill 110)",done
-c:skilldesc:110:3,Quickness,Szybkość ,Velocidad,"client: skill tooltip, skill name (M) (skill 110)",done
-c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,Velocidad del viento,"client: skill tooltip, skill name (G/P) (skill 110)",done
-c:skilldesc:110:5,Run as fast as the Wind.,Biegnij szybko jak wiatr ,Corre tan rápido como el viento.,"client: skill tooltip, description (skill 110)",done
-c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,Aumenta la velocidad de movimiento,"client: skill tooltip, condition 1 (skill 110)",done
-c:skilldesc:110:7,Reduce Casting Speed,Zmniejsza się Czas Ładowania Umiejętności,Reduce la velocidad de recarga (velocidad de hechizo),"client: skill tooltip, condition 2 (skill 110)",done
-c:skilldesc:110:8,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Se puede usar en miembros del grupo|Usado en otro jugador: -25% de valor de bonificación.,"client: skill tooltip, condition 3 (skill 110)",done
-c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,Velocidad de movimiento +%.0f%%,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",done
-c:skilldesc:110:20,Casting Speed +%.0f%%,Czas Ładowania -%.0f%% ,Velocidad de hechizo +%.0f%%,"client: skill tooltip, effect line 2 (skill 110) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:2,Attack Up,Zwiększenie Ataku,Ataque +,"client: skill tooltip, skill name (skill 111)",done
-c:skilldesc:111:3,Support Attack,Podwyższenie Ataku,Ataque de apoyo,"client: skill tooltip, skill name (M) (skill 111)",done
-c:skilldesc:111:4,Strengthened Attack,Wzmocnienie Ataku,Ataque potenciado,"client: skill tooltip, skill name (G/P) (skill 111)",done
-c:skilldesc:111:5,Strengthen a partner.,Wzmacnia siłę partnera,Potencia a un compañero.,"client: skill tooltip, description (skill 111)",done
-c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,Aumenta el poder de ataque,"client: skill tooltip, condition 1 (skill 111)",done
-c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Se puede usar en miembros del grupo|Usado en otro jugador: -25% de valor de bonificación.,"client: skill tooltip, condition 2 (skill 111)",done
-c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,Bonificación de ataque mágico al usarse en ti mismo,"client: skill tooltip, condition 3 (skill 111)",done
-c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,Poder de ataque +%.1f,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",done
-c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,Daño mágico (todos) +%.0f%%,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,Daño mágico contra monstruos +%.0f%%,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,Bonificación: Daño mágico contra monstruos +%.0f,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",done
-c:skilldesc:121:2,Leadership,Dowodzenie,Liderazgo,"client: skill tooltip, skill name (skill 121)",done
-c:skilldesc:121:5,Ability to lead partners.,Umiejętność dowodzenia członkami grupy.,Capacidad para liderar compañeros.,"client: skill tooltip, description (skill 121)",done
-c:skilldesc:122:2,Combo,Kombinacja,Combo,"client: skill tooltip, skill name (skill 122)",done
-c:skilldesc:122:5,Increase Combo attack.,Ulepsza atak Kombo,Aumenta el ataque Combo.,"client: skill tooltip, description (skill 122)",done
-c:skilldesc:123:2,Fishing,Łowienie,Pesca,"client: skill tooltip, skill name (skill 123)",done
-c:skilldesc:123:5,Fishing knowledge.,Wiedza o łowieniu ryb.,Conocimiento de pesca.,"client: skill tooltip, description (skill 123)",done
-c:skilldesc:124:2,Gathering,Zbieractwo,Recolección,"client: skill tooltip, skill name (skill 124)",done
-c:skilldesc:124:5,Ability to retrieve natural resources.,Umiejętność w pozyskiwaniu zasobów z natury.,Capacidad para extraer recursos naturales.,"client: skill tooltip, description (skill 124)",done
-c:skilldesc:125:2,Item Creation,Tworzenie Przedmiotu,Creación de objetos,"client: skill tooltip, skill name (skill 125)",done
-c:skilldesc:125:5,Create an item.,Stwórz przedmiot,Crea un objeto.,"client: skill tooltip, description (skill 125)",done
-c:skilldesc:126:2,Shinsoo Language,Język Shinsoo,Idioma Shinsoo,"client: skill tooltip, skill name (skill 126)",done
-c:skilldesc:126:5,You can understand the Shinsoo language.,Rozumiesz język Shinsoo.,Puedes entender el idioma Shinsoo.,"client: skill tooltip, description (skill 126)",done
-c:skilldesc:127:2,Chunjo Language,Język Chunjo,Idioma Chunjo,"client: skill tooltip, skill name (skill 127)",done
-c:skilldesc:127:5,You can understand the Chunjo language.,Rozumiesz język Chunjo.,Puedes entender el idioma Chunjo.,"client: skill tooltip, description (skill 127)",done
-c:skilldesc:128:2,Jinno Language,Język Jinno,Idioma Jinno,"client: skill tooltip, skill name (skill 128)",done
-c:skilldesc:128:5,You can understand the Jinno language.,Rozumiesz język Jinno.,Puedes entender el idioma Jinno.,"client: skill tooltip, description (skill 128)",done
-c:skilldesc:129:2,Polymorph,Polimorfia,Polimorfismo,"client: skill tooltip, skill name (skill 129)",done
-c:skilldesc:129:5,Transform into a monster.,Przemiana w potwora,Transfórmate en un monstruo.,"client: skill tooltip, description (skill 129)",done
-c:skilldesc:130:2,Horse Riding,Jeździectwo,Equitación,"client: skill tooltip, skill name (skill 130)",done
-c:skilldesc:130:5,Ability to ride a horse.,Umiejętność jazdy na koniu,Capacidad para montar a caballo.,"client: skill tooltip, description (skill 130)",done
-c:skilldesc:131:2,Call Horse,Przywołaj Konia,Llamar caballo,"client: skill tooltip, skill name (skill 131)",done
-c:skilldesc:131:5,Summon a horse.,Zwiększa szansę na przywołanie konia.,Invoca un caballo.,"client: skill tooltip, description (skill 131)",done
-c:skilldesc:132:2,Sprint,Sprint,Sprint,"client: skill tooltip, skill name (skill 132)",done
-c:skilldesc:132:5,"In the old days of our world, people ran their prey to death. Uses stamina (yellow bar). Increases movement speed up to 150 points on foot, with no limit while riding.","W dawnych czasach naszego świata, ludzie zabiegiwali zwierzynę na śmierć. Utylizuje punkty staminy (żółty pasek). Zwiększa szybkość ruchu do 150 punktów (pieszo), konno bez ograniczeń.","En los viejos tiempos de nuestro mundo, la gente corría a sus presas hasta matarlas. Consume resistencia (barra amarilla). Aumenta la velocidad de movimiento hasta 150 puntos a pie, sin límite mientras montas.","client: skill tooltip, description (skill 132)",done
-c:skilldesc:137:2,Horseback Slash,Cięcie z Siodła,Corte de a Caballo,"client: skill tooltip, skill name (skill 137)",done
-c:skilldesc:137:5,Attack enemies whilst riding a horse. (from lv. 50),Atakuj wrogów podczas jazdy konnno. (od poz.50),Ataca a los enemigos mientras montas a caballo. (desde niv. 50),"client: skill tooltip, description (skill 137)",done
-c:skilldesc:137:6,Riding Skill,Umiejętność Jeździecka,Habilidad de equitación,"client: skill tooltip, condition 1 (skill 137)",done
-c:skilldesc:138:2,Horse Stump,Stąpnięcie Konia,Pisada de Caballo,"client: skill tooltip, skill name (skill 138)",done
-c:skilldesc:138:5,Attack all nearby enemies. (from level 52),Zaatakuj wszystkich wrogów w pobliżu. (od p. 52),Ataca a todos los enemigos cercanos. (desde nivel 52),"client: skill tooltip, description (skill 138)",done
-c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,Habilidad de equitación,"client: skill tooltip, condition 1 (skill 138)",done
-c:skilldesc:139:2,Power Wave,Fala Mocy,Ola de Poder,"client: skill tooltip, skill name (skill 139)",done
-c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",Ataca a todos los enemigos desde tu caballo. (desde niv. 55),"client: skill tooltip, description (skill 139)",done
-c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,Habilidad de equitación,"client: skill tooltip, condition 1 (skill 139)",done
-c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:140:2,Arrow Storm,Grad Strzał,Tormenta de flechas,"client: skill tooltip, skill name (skill 140)",done
-c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),Dispara flechas mientras montas. (desde niv. 50),"client: skill tooltip, description (skill 140)",done
-c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,Habilidad de equitación,"client: skill tooltip, condition 1 (skill 140)",done
-c:skilldesc:151:2,Dragon Eyes,Smocze Oczy,Ojos de Dragón,"client: skill tooltip, skill name (skill 151)",done
-c:skilldesc:151:5,Increase Maximum Dragon Ghost.,Zwiększa maksimum Ducha Smoka,Aumenta el Alma Dragón máxima.,"client: skill tooltip, description (skill 151)",done
-c:skilldesc:151:17,Max. Dragon Ghost Increase +%.0f,Maksymalny Duch Smoka +%.0f,Aumento máx. de Alma Dragón +%.0f,"client: skill tooltip, effect line 1 (skill 151) | keep: %.0f | max 64 characters",done
-c:skilldesc:152:2,Blood of Dragon God,Krew Boga Smoków,Sangre del Dios Dragón,"client: skill tooltip, skill name (skill 152)",done
-c:skilldesc:152:5,Increase Max HP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PŻ.,Aumenta los HP máx. de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 152)",done
-c:skilldesc:152:6,Guild War Only,Tylko Wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 152)",done
-c:skilldesc:152:17,Max. HP Increase +%.0f%%,Maks. PŻ +%.0f%%,Aumento máx. de HP +%.0f%%,"client: skill tooltip, effect line 1 (skill 152) | keep: %.0f | max 64 characters",done
-c:skilldesc:153:2,Benediction of Dragon God,Błogosławieństwo Boga Smoków,Bendición del Dios Dragón,"client: skill tooltip, skill name (skill 153)",done
-c:skilldesc:153:5,Increase Max SP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PE.,Aumenta los SP máx. de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 153)",done
-c:skilldesc:153:6,Guild War Only,Tylko wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 153)",done
-c:skilldesc:153:17,Max. SP Increase +%.0f%%,Maks. PE +%.0f%%,Aumento máx. de SP +%.0f%%,"client: skill tooltip, effect line 1 (skill 153) | keep: %.0f | max 64 characters",done
-c:skilldesc:154:5,Increase defence of all guild members for a period of time.,Zwiększ na pewien czas swoją obronę.,Aumenta la defensa de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 154)",done
-c:skilldesc:154:6,Guild War Only,Tylko wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 154)",done
-c:skilldesc:154:17,Defence Increase +%.1f%%,Obrona +%.1f%%,Aumento de defensa +%.1f%%,"client: skill tooltip, effect line 1 (skill 154) | keep: %.1f | max 64 characters",done
-c:skilldesc:155:2,Acceleration,Akceleracja,Aceleración,"client: skill tooltip, skill name (skill 155)",done
-c:skilldesc:155:5,Increase attack and motion speed of all guild members for a period of time.,Zwiększa przez określony czas szybkość ataku i szybkość ruchu,Aumenta la velocidad de ataque y de movimiento de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 155)",done
-c:skilldesc:155:6,Guild War Only,Tylko wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 155)",done
-c:skilldesc:155:17,Attack Speed and Motion Increase +%.1f,Szybkość ataku i ruchu zwiększona +%.1f,Aumento de velocidad de ataque y movimiento +%.1f,"client: skill tooltip, effect line 1 (skill 155) | keep: %.1f | max 64 characters",done
-c:skilldesc:156:2,Rage of Dragon God,Furia Boga Smoków,Ira del Dios Dragón,"client: skill tooltip, skill name (skill 156)",done
-c:skilldesc:156:5,Increase Critical Hit Chance of all guild members for a period of time.,Zwiększ na pewien czas szanse na zadanie ciosu krytycznego.,Aumenta la probabilidad de golpe crítico de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 156)",done
-c:skilldesc:156:6,Guild War Only,Tylko wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 156)",done
-c:skilldesc:156:17,Increase Critical Hit Chance +%.0f%%,szansę na cios krytyczny +%.0f%%,Aumento de probabilidad de golpe crítico +%.0f%%,"client: skill tooltip, effect line 1 (skill 156) | keep: %.0f | max 64 characters",done
-c:skilldesc:157:2,Casting Aid,Magiczna Pomoc,Auxilio de Hechizo,"client: skill tooltip, skill name (skill 157)",done
-c:skilldesc:157:5,Decrease cool down time of all guild members for a period of time.,Zmniejsz na pewien czas czas regeneracji swoich umiejętności.,Reduce el tiempo de recarga de todos los miembros del gremio por un periodo de tiempo.,"client: skill tooltip, description (skill 157)",done
-c:skilldesc:157:6,Guild War Only,Tylko wojna gildii,Solo para guerra de gremios,"client: skill tooltip, condition 1 (skill 157)",done
-c:skilldesc:157:17,Casting Speed Increase +%.0f%%,Czas regeneracji -%.0f%%,Aumento de velocidad de hechizo +%.0f%%,"client: skill tooltip, effect line 1 (skill 157) | keep: %.0f | max 64 characters",done
-c:file:rules,"General
-1.1. Metin2 Singleplayer is a free fan project: the server runs on your own computer and the world is populated by bots (Playerbots). The project is not affiliated with Gameforge or Webzen.[ENTER]1.2. Releases and updates of the project are published on GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. You play at your own risk. The project is provided ""as is"", without any warranty.
-Rules
-2.1. On your own server you play as you like. The admin / admin account is the test account of your installation.[ENTER]2.2. If you share the server with friends, you are its administrator and you keep order: fair play, respect for others, no cheating and no spoiling other people's game.[ENTER]2.3. Do not pass the package off as your own and do not make money from it. Since version 2.2.55 the project is licensed under CC BY-NC-ND 4.0 (the LICENSE file in the server folder): you may use it and share the official packages unchanged if you credit the author and do not make money from it; you may not share adaptations or separate distributions. The project is and stays free.
-Supporting the project
-3.1. Development, testing and the test server cost time and money. If you enjoy the project, you can buy the authors a coffee: buycoffee.to/metin2-playerbots.[ENTER]3.2. Support is entirely voluntary and unlocks nothing in the game.
-Community and help
-4.1. The project's Discord: discord.gg/DyCxXdZtnV - report bugs, ideas and questions there; news of new versions appears there too.[ENTER]4.2. When you report a bug, attach the log bundle from the launcher (DIAGNOSTICS, ""Collect logs (ZIP)""). Without it, hardly anything can be fixed.
-Privacy
-5.1. Everything runs locally: the client connects only to 127.0.0.1, and the server opens no ports to the outside.[ENTER]5.2. The game sends your data nowhere. The launcher connects to GitHub only to check whether there is a new version.
-Changes to these rules
-6.1. A new version of the game may bring new content to this window. It will then be shown again at your next login.[ENTER]6.2. Have fun!","Postanowienia ogólne
-1.1. Metin2 Singleplayer to darmowy projekt fanowski: serwer działa na Twoim komputerze, a świat zaludniają boty (Playerbots). Projekt nie jest powiązany z Gameforge ani Webzen.[ENTER]1.2. Wydania i aktualizacje projektu są publikowane na GitHubie: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Korzystasz z gry na własną odpowiedzialność. Projekt jest dostarczany w stanie „jak jest”, bez gwarancji.
-Zasady
-2.1. Na własnym serwerze grasz, jak chcesz. Konto admin / admin jest kontem testowym Twojej instalacji.[ENTER]2.2. Jeżeli udostępniasz serwer znajomym, to Ty jesteś jego administratorem i odpowiadasz za porządek: gra fair, szacunek dla innych, żadnych oszustw ani przeszkadzania w grze.[ENTER]2.3. Nie podawaj paczki jako własnej i nie zarabiaj na niej. Od wersji 2.2.55 projekt jest na licencji CC BY-NC-ND 4.0 (plik LICENSE w folderze serwera): możesz z niego korzystać i udostępniać oficjalne paczki bez zmian, jeśli podasz autora i nie zarabiasz na nim; przeróbek i osobnych dystrybucji udostępniać nie wolno. Projekt jest i pozostaje darmowy.
-Wsparcie projektu
-3.1. Rozwój, testy i serwer testowy kosztują czas i pieniądze. Jeżeli projekt sprawia Ci radość, możesz postawić kawę autorom: buycoffee.to/metin2-playerbots.[ENTER]3.2. Wsparcie jest całkowicie dobrowolne i niczego nie odblokowuje w grze.
-Społeczność i pomoc
-4.1. Discord projektu: discord.gg/DyCxXdZtnV — tam zgłaszaj błędy, pomysły i pytania, tam też pojawiają się informacje o nowych wersjach.[ENTER]4.2. Zgłaszając błąd, dołącz paczkę logów z launchera (przycisk „ZBIERZ LOGI”). Bez niej trudno cokolwiek naprawić.
-Prywatność
-5.1. Wszystko działa lokalnie: klient łączy się wyłącznie z 127.0.0.1, serwer nie otwiera żadnych portów na zewnątrz.[ENTER]5.2. Gra nie wysyła nigdzie Twoich danych. Launcher łączy się z GitHubem tylko po to, żeby sprawdzić, czy jest nowa wersja.
-Zmiany regulaminu
-6.1. Nowa wersja gry może przynieść nową treść tego okna. Pokaże się ono ponownie przy najbliższym logowaniu.[ENTER]6.2. Miłej gry!","General
-1.1. Metin2 Singleplayer es un proyecto fan gratuito: el servidor se ejecuta en tu propia computadora y el mundo está poblado por bots (Playerbots). El proyecto no está afiliado con Gameforge ni Webzen.[ENTER]1.2. Las versiones y actualizaciones del proyecto se publican en GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Juegas bajo tu propio riesgo. El proyecto se proporciona """"tal cual"""", sin ningún tipo de garantía.
-Reglas
-2.1. En tu propio servidor juegas como quieras. La cuenta admin / admin es la cuenta de prueba de tu instalación.[ENTER]2.2. Si compartes el servidor con amigos, tú eres su administrador y mantienes el orden: juego limpio, respeto por los demás, sin trampas y sin arruinar el juego de otras personas.[ENTER]2.3. No hagas pasar el paquete como tuyo ni ganes dinero con él. Desde la versión 2.2.55, el proyecto tiene licencia CC BY-NC-ND 4.0 (archivo LICENSE en la carpeta del servidor): puedes usarlo y compartir los paquetes oficiales sin modificaciones si acreditas al autor y no lucras con ello; no puedes compartir adaptaciones ni distribuciones separadas. El proyecto es y seguirá siendo gratis.
-Apoyar el proyecto
-3.1. El desarrollo, las pruebas y el servidor de pruebas cuestan tiempo y dinero. Si disfrutas del proyecto, puedes invitar un café a los autores: buycoffee.to/metin2-playerbots.[ENTER]3.2. El apoyo es completamente voluntario y no desbloquea nada dentro del juego.
-Comunidad y ayuda
-4.1. El Discord del proyecto: discord.gg/DyCxXdZtnV - reporta errores, ideas y preguntas allí; las noticias de nuevas versiones también aparecen allí.[ENTER]4.2. Cuando reportes un error, adjunta el paquete de registros desde el launcher (DIAGNOSTICS, """"Collect logs (ZIP)""""). Sin él, casi nada se puede solucionar.
-Privacidad
-5.1. Todo se ejecuta localmente: el cliente se conecta únicamente a 127.0.0.1, y el servidor no abre puertos hacia el exterior.[ENTER]5.2. El juego no envía tus datos a ninguna parte. El launcher se conecta a GitHub solo para comprobar si hay una nueva versión.
-Cambios en estas reglas
-6.1. Una nueva versión del juego puede traer nuevo contenido a esta ventana. Se mostrará de nuevo en tu próximo inicio de sesión.[ENTER]6.2. ¡Diviértete!""",client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:jobdesc_warrior,"[DELAY value;0]
-By virtue of their heavy[ENTER]
-armour, weapons and skills,[ENTER]
-Warriors play a crucial role[ENTER]
-in close combat situations.[ENTER]
-Their two aims in life are[ENTER]
-[WAIT]
-for raw physical strength[ENTER]
-combined with a balanced and[ENTER]
-serene psyche. Depending on[ENTER]
-their chosen specialisation,[ENTER]
-Warriors can deal out[ENTER]
-[WAIT]
-devastating amounts of[ENTER]
-damage with two-handed[ENTER]
-weapons, or skilfully[ENTER]
-combine shield and sword to[ENTER]
-neutralise the attacks of[ENTER]
-[WAIT]
-multiple enemies.","[DELAY value;0]
-Dzięki swoim umiejętnościom[ENTER]
-oraz możliwości noszenia[ENTER]
-ciężkich zbroi Wojownicy[ENTER]
-odgrywają ważną rolę w[ENTER]
-walkach w zwarciu. Jedyne[ENTER]
-czego pragną, to bardzo[ENTER]
-silne ciało i zbalansowany[ENTER]
-umysł. Zgodnie z ich[ENTER]
-zwyczajami i specjalizacją[ENTER]
-mogą albo zadawać ogromne[ENTER]
-obrażenia dzięki oburęcznym[ENTER]
-broniom albo parować ataki[ENTER]
-wroga mieczem i tarczą.","[DELAY value;0]
-Gracias a sus pesadas[ENTER]
-armaduras, armas y habilidades,[ENTER]
-los Guerreros juegan un rol crucial[ENTER]
-en situaciones de combate cercano.[ENTER]
-Sus dos objetivos en la vida son[ENTER]
-[WAIT]
-alcanzar una fuerza física pura[ENTER]
-combinada con una mente equilibrada[ENTER]
-y serena. Dependiendo de[ENTER]
-su especialización elegida,[ENTER]
-los Guerreros pueden infligir[ENTER]
-[WAIT]
-cantidades devastadoras de[ENTER]
-daño con armas de dos manos,[ENTER]
-o combinar hábilmente[ENTER]
-el escudo y la espada para[ENTER]
-neutralizar los ataques de[ENTER]
-[WAIT]
-múltiples enemigos.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:jobdesc_assassin,"[DELAY value;0]
-Ninjas are professional[ENTER]
-killers, capable of carrying[ENTER]
-out silent and deadly[ENTER]
-attacks from their ambush.[ENTER]
-To maximise their speed and[ENTER]
-[WAIT]
-agility, these shadowy[ENTER]
-assassins of the night wear[ENTER]
-only the lightest armour, so[ENTER]
-as not to hinder their fleet[ENTER]
-and fluid movements.[ENTER]
-[WAIT]
-Depending on their[ENTER]
-particular areas of[ENTER]
-expertise, Ninjas can use[ENTER]
-their mastery of the dagger[ENTER]
-in close quarters, or wield[ENTER]
-[WAIT]
-a bow and arrow from[ENTER]
-distance.","[DELAY value;0]
-Ninja są profesjonalnymi[ENTER]
-zabójcami, którzy są w[ENTER]
-stanie zaatakować swojego[ENTER]
-przeciwnika z zaskoczenia.[ENTER]
-Aby zapewnić sobie[ENTER]
-odpowiednią zwinność i[ENTER]
-szybkość, prawdziwi Ninja[ENTER]
-noszą tylko lekkie pancerze[ENTER]
-ochronne. Zgodnie z ich[ENTER]
-profesją Ninja są albo[ENTER]
-mistrzami sztyletów albo[ENTER]
-doskonale atakują z dystansu[ENTER]
-za pomocą Łuku.","[DELAY value;0]
-Los Ninjas son asesinos[ENTER]
-profesionales, capaces de llevar[ENTER]
-a cabo ataques silenciosos[ENTER]
-y mortales desde su emboscada.[ENTER]
-Para maximizar su velocidad y[ENTER]
-[WAIT]
-agilidad, estos sombríos[ENTER]
-asesinos de la noche visten[ENTER]
-solo armaduras ligeras, con[ENTER]
-el fin de no entorpecer sus[ENTER]
-veloces y fluidos movimientos.[ENTER]
-[WAIT]
-Dependiendo de sus[ENTER]
-áreas particulares de[ENTER]
-experiencia, los Ninjas pueden usar[ENTER]
-su maestría con la daga[ENTER]
-en distancias cortas, o empuñar[ENTER]
-[WAIT]
-un arco y flechas desde[ENTER]
-la distancia.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:jobdesc_sura,"[DELAY value;0]
-Suras are fighters who were[ENTER]
-blessed with magical powers[ENTER]
-when they agreed to allow[ENTER]
-the Seed of Evil to grow in[ENTER]
-their arms. The magic under[ENTER]
-[WAIT]
-their control allows them to[ENTER]
-inflict damage on their[ENTER]
-enemies from afar, and they[ENTER]
-make competent melee[ENTER]
-fighters thanks to their[ENTER]
-[WAIT]
-excellent swordsmanship.[ENTER]
-Depending on their choice of[ENTER]
-specialisation, Suras can[ENTER]
-improve their attack spells[ENTER]
-or develop additional[ENTER]
-[WAIT]
-strengthening spells.","[DELAY value;0]
-Sura to wojownicy, którzy[ENTER]
-otrzymali potężne magiczne[ENTER]
-moce, gdy zgodzili się na[ENTER]
-przyjęcie do ich rąk[ENTER]
-diabelskiego nasiona. Dzięki[ENTER]
-temu są w stanie sprawnie[ENTER]
-posługiwać się mieczem w[ENTER]
-zwarciu albo ranić wroga na[ENTER]
-dystans przy użyciu magii.[ENTER]
-Poprzez specjalizację mogą[ENTER]
-ulepszać swoje zaklęcia[ENTER]
-ofensywne albo otrzymać inne[ENTER]
-moce wspierające.","[DELAY value;0]
-Los Suras son combatientes que fueron[ENTER]
-bendecidos con poderes mágicos[ENTER]
-cuando aceptaron dejar que[ENTER]
-la Semilla del Mal creciera en[ENTER]
-sus brazos. La magia bajo[ENTER]
-[WAIT]
-su control les permite[ENTER]
-infligir daño a sus[ENTER]
-enemigos desde lejos, y son[ENTER]
-competentes luchadores cuerpo[ENTER]
-a cuerpo gracias a su[ENTER]
-[WAIT]
-excelente manejo de la espada.[ENTER]
-Dependiendo de su elección de[ENTER]
-especialización, los Suras pueden[ENTER]
-mejorar sus hechizos de ataque[ENTER]
-o desarrollar hechizos adicionales[ENTER]
-[WAIT]
-de fortalecimiento.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:jobdesc_shaman,"[DELAY value;0]
-Employing the wisdom achieve[ENTER]
-through long years of[ENTER]
-intense study, the Shamans[ENTER]
-use spells and magic to[ENTER]
-attack their foes. Their[ENTER]
-[WAIT]
-mystical powers are also of[ENTER]
-great effect in supporting[ENTER]
-their allies. Depending on[ENTER]
-their focus, Shamans can[ENTER]
-provide a boost to attacks,[ENTER]
-[WAIT]
-or instead choose to enhance[ENTER]
-individual healing and[ENTER]
-support spells.","[DELAY value;0]
-Szamani są bardzo mądrzy i[ENTER]
-używają potężnych zaklęć[ENTER]
-oraz magii. Podczas bitwy i[ENTER]
-w trakcie wspierania swoich[ENTER]
-przyjaciół ich mistyczne[ENTER]
-zaklęcia są bardzo pomocne.[ENTER]
-Poprzez specjalizację[ENTER]
-Szamani mogą albo zwiększać[ENTER]
-swoją siłę ofensywną, albo[ENTER]
-ulepszać swoje umiejętności[ENTER]
-leczące i zaklęcia[ENTER]
-wspierające.","[DELAY value;0]
-Empleando la sabiduría alcanzada[ENTER]
-a través de largos años de[ENTER]
-intenso estudio, los Chamanes[ENTER]
-usan hechizos y magia para[ENTER]
-atacar a sus adversarios. Sus[ENTER]
-[WAIT]
-poderes místicos también son de[ENTER]
-gran efecto para dar apoyo a[ENTER]
-sus aliados. Dependiendo de[ENTER]
-su enfoque, los Chamanes pueden[ENTER]
-otorgar un aumento a los ataques,[ENTER]
-[WAIT]
-o en su lugar elegir mejorar[ENTER]
-hechizos individuales de[ENTER]
-curación y apoyo.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:empiredesc_a,"[DELAY value;10]
-Shinsoo Kingdom[ENTER]
-[ENTER]
-The Shinsoo kingdom is located in the[ENTER]
-southern part of the continent. The[ENTER]
-main activity of[ENTER]
-[WAIT]
-the population is[ENTER]
-trade. Opened[ENTER]
-after the disintegration of the[ENTER]
-former empire by Yoon-Yoing,[ENTER]
-trade with[ENTER]
-[WAIT]
-the east quickly became[ENTER]
-a profitable arrangement.[ENTER]
-Shinsoo has conflicts[ENTER]
-with the western kingdom[ENTER]
-and the trade road[ENTER]
-[WAIT]
-can be dangerous.[ENTER]
-When they recognized[ENTER]
-the threat posed by[ENTER]
-the Metin Stones, the[ENTER]
-merchants armed themselves. Their [ENTER]
-[WAIT]
-aim is to defend themselves[ENTER]
-against western attacks,[ENTER]
-reopen the trade road [ENTER]
-and reunite the former[ENTER]
-empire under their[ENTER]
-[WAIT]
-Emperor.","[DELAY value;0]
-Królestwo Shinsoo[ENTER]
-[ENTER]
-Królestwo Shinsoo znajduje[ENTER]
-się na południu kontynentu.[ENTER]
-Mieszkańcy są w większości[ENTER]
-zajęci handlem. Stworzone[ENTER]
-przez Yoon-Yoing po tym, jak[ENTER]
-imperium upadło, stosunki[ENTER]
-handlowe ze wschodem[ENTER]
-doprowadziły szybko do[ENTER]
-ożywienia.[ENTER]
-Mieszkańcy walczą non stop z[ENTER]
-zachodem i ta trasa handlowa[ENTER]
-jest całkowicie odcięta.[ENTER]
-Będąc świadomi, że kamienie[ENTER]
-[WAIT]
-Metin są zagrożeniem dla ich[ENTER]
-podstaw życia, handlarze[ENTER]
-uzbroili się. Ich celem jest[ENTER]
-być w stanie przetrzymać[ENTER]
-ataki z zachodu, aby[ENTER]
-otworzyć ponownie wszystkie[ENTER]
-trasy handlowe i aby[ENTER]
-zjednoczyć cały kontynent[ENTER]
-pod ich dowództwem.","[DELAY value;10]
-Reino Shinsoo[ENTER]
-[ENTER]
-El reino Shinsoo está ubicado en la[ENTER]
-parte sur del continente. La[ENTER]
-actividad principal de[ENTER]
-[WAIT]
-la población es el[ENTER]
-comercio. Fundado[ENTER]
-tras la desintegración del antiguo[ENTER]
-imperio por Yoon-Yoing, el[ENTER]
-comercio con[ENTER]
-[WAIT]
-el este se convirtió rápidamente[ENTER]
-en un acuerdo muy lucrativo.[ENTER]
-Shinsoo tiene conflictos[ENTER]
-lo con el reino occidental[ENTER]
-y la ruta comercial[ENTER]
-[WAIT]
-puede ser peligrosa.[ENTER]
-Cuando reconocieron[ENTER]
-la amenaza que representaban[ENTER]
-las Piedras Metin, los[ENTER]
-mercaderes se armaron. Su[ENTER]
-[WAIT]
-objetivo es defenderse[ENTER]
-de los ataques occidentales,[ENTER]
-reabrir la ruta comercial[ENTER]
-y reunir al antiguo[ENTER]
-imperio bajo su[ENTER]
-[WAIT]
-Emperador.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:empiredesc_b,"[DELAY value;10]
-Chunjo Kingdom[ENTER]
-[ENTER]
-The Chunjo Kingdom is[ENTER]
-located in the western part of[ENTER]
-the continent. It is a theocratic[ENTER]
-[WAIT]
-kingdom and is controlled[ENTER]
-by its spiritual leader. It[ENTER]
-was founded by[ENTER]
-Yoon-Young, a cousin of the[ENTER]
-former emperor. Yoon's[ENTER]
-[WAIT]
-wife possessed vast[ENTER]
-magical powers, and it was she[ENTER]
-helped very soon to see the[ENTER]
-threat caused by[ENTER]
-metin stones. He said[ENTER]
-[WAIT]
-many times that there was something[ENTER]
-what to do but was[ENTER]
-ignored. So it led to[ENTER]
-its people to a rebellion[ENTER]
-against the empire, that the[ENTER]
-[WAIT]
-seasoning was still standing.[ENTER]
-After the Empire[ENTER]
-succumbed, his kingdom entered[ENTER]
-at war with the regions[ENTER]
-east and had problems[ENTER]
-[WAIT]
-with the south. The people of[ENTER]
-kingdom of Chunjo wanted[ENTER]
-reign over all[ENTER]
-continent to have[ENTER]
-control of growing power[ENTER]
-[WAIT]
-of the Metin Stones.","[DELAY value;0]
-Królestwo Chunjo[ENTER]
-[ENTER]
-Królestwo Chunjo jest[ENTER]
-położone na wschodzie[ENTER]
-kontynentu. Jest to[ENTER]
-królestwo teokratyczne i[ENTER]
-jest prowadzone przez[ENTER]
-duchowych Przywódców.[ENTER]
-Królestwo było stworzone[ENTER]
-przez Yoon-Young, który jest[ENTER]
-kuzynem poprzedniego[ENTER]
-Imperatora. Jego żona,[ENTER]
-posiadająca potężne magiczne[ENTER]
-umiejętności, pomogła mu[ENTER]
-bardzo wcześnie dostrzec[ENTER]
-[WAIT]
-masywne zagrożenie[ENTER]
-spowodowane przez Kamienie[ENTER]
-Metin.[ENTER]
-Powiedział wiele razy, że[ENTER]
-coś trzeba zrobić, ale[ENTER]
-został zignorowany. Więc[ENTER]
-oprowadził swoich ludzi do[ENTER]
-rebelii przeciw istniejącemu[ENTER]
-jeszcze wtedy Imperium.[ENTER]
-Kiedy Imperium rozpadło się,[ENTER]
-jego Królestwo jest do tej[ENTER]
-pory w stanie wojny z[ENTER]
-regionami wschodnimi i ma[ENTER]
-problemy z Południem. Ludzie[ENTER]
-z królestwa Chunjo chcą[ENTER]
-[WAIT]
-zdobyć kontrolę nad całym[ENTER]
-kontynentem dzięki czemu[ENTER]
-będą w stanie pozbyć się[ENTER]
-rosnących mocy Kamieni[ENTER]
-Metin.","[DELAY value;10]
-Reino Chunjo[ENTER]
-[ENTER]
-El Reino Chunjo está[ENTER]
-ubicado en la parte occidental del[ENTER]
-continente. Es un reino teocrático[ENTER]
-[WAIT]
-y está controlado[ENTER]
-por su líder espiritual. Fue[ENTER]
-fundado por[ENTER]
-Yoon-Young, un primo del[ENTER]
-antiguo emperador. La esposa[ENTER]
-[WAIT]
-de Yoon poseía inmensos[ENTER]
-poderes mágicos, y fue ella[ENTER]
-quien ayudó muy pronto a ver la[ENTER]
-amenaza causada por[ENTER]
-las piedras metin. Él advirtió[ENTER]
-[WAIT]
-muchas veces que había algo[ENTER]
-que hacer, pero fue[ENTER]
-ignorado. Así que esto llevó a[ENTER]
-su pueblo a una rebelión[ENTER]
-contra el imperio, mientras la[ENTER]
-[WAIT]
-estructura seguía en pie.[ENTER]
-Tras la caída del Imperio,[ENTER]
-su reino entró[ENTER]
-en guerra con las regiones[ENTER]
-del este y tuvo problemas[ENTER]
-[WAIT]
-con el sur. El pueblo del[ENTER]
-reino de Chunjo quería[ENTER]
-reinar sobre todo el[ENTER]
-continente para tener[ENTER]
-el control del creciente poder[ENTER]
-[WAIT]
-de las Piedras Metin.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
-c:file:empiredesc_c,"[DELAY value;10]
-Jinno Kingdom[ENTER]
-[ENTER]
-The Jinno kingdom is located in[ENTER]
-the eastern part of the[ENTER]
-continent. This kingdom was[ENTER]
-[WAIT]
- founded on military might and[ENTER]
-the population is aggressive and militant.[ENTER]
-The leader of the Jinno[ENTER]
-kingdom is Ee-Ryoong,[ENTER]
-the son of the last[ENTER]
-[WAIT]
-emperor. He believes that he[ENTER]
-can reunite the former[ENTER]
-empire through war.[ENTER]
-Fears about the implications[ENTER]
-or effects of the Metin Stones[ENTER]
-[WAIT]
-are officially ignored. But[ENTER]
-secretly, Ee-Ryoong is trying[ENTER]
-to find a way to use[ENTER]
-the deadly power of[ENTER]
-the Metin Stones[ENTER]
-[WAIT]
-for military purposes.","[DELAY value;0]
-Królestwo Jinno[ENTER]
-[ENTER]
-Królestwo Jinoo znajduje się[ENTER]
-we wschodnich regionach[ENTER]
-kontynentu. Podstawą[ENTER]
-królestwa jest siła[ENTER]
-militarna. Jego ludzie są[ENTER]
-agresywni i lubiący wojnę.[ENTER]
-Królestwem Jinoo zarządza[ENTER]
-Ee-Ryoong, syn ostatniego[ENTER]
-Imperatora. Czuje się[ENTER]
-wybrany do zjednoczenia[ENTER]
-starego Imperium poprzez[ENTER]
-jego dominację i silną[ENTER]
-Armię.[ENTER]
-[WAIT]
-Boi się,że znaczenie i[ENTER]
-efekty Kamieni Metin są[ENTER]
-oficjalnie ignorowane przez[ENTER]
-Królestwo Jinoo.[ENTER]
-Sekretnie,	Ee-Ryoong próbuje[ENTER]
-wykorzystać destrukcyjne[ENTER]
-moce Kamieni Metin dla[ENTER]
-wojny.","[DELAY value;10]
-Reino Jinno[ENTER]
-[ENTER]
-El reino Jinno está ubicado en[ENTER]
-la parte oriental del[ENTER]
-continente. Este reino fue[ENTER]
-[WAIT]
-fundado sobre el poder militar y[ENTER]
-la población es agresiva y militante.[ENTER]
-El líder del reino Jinno[ENTER]
-es Ee-Ryoong,[ENTER]
-el hijo del último[ENTER]
-[WAIT]
-emperador. Él cree que[ENTER]
-puede reunir al antiguo[ENTER]
-imperio a través de la guerra.[ENTER]
-Los temores sobre las implicaciones[ENTER]
-o efectos de las Piedras Metin[ENTER]
-[WAIT]
-son ignorados oficialmente. Pero[ENTER]
-en secreto, Ee-Ryoong está intentando[ENTER]
-encontrar una forma de usar[ENTER]
-el poder mortal de[ENTER]
-las Piedras Metin[ENTER]
-[WAIT]
-con fines militares.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,new
+c:pbt:4a241e655e75,Choose a bot from the list on the left,,Elige un bot de la lista de la izquierda,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4fb2f511570b,Refresh log,,Actualizar registro,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de5c2bba0c16,Kick the bot,,Expulsar al bot,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a0187353bdc2,Give an item (vnum / amount):,,Dar objeto (vnum / cantidad):,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc2575c3930,Send,,Enviar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae665c861fa1,Active bots: %s,,Bots activos: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:07a33b6f1402,In a party: %s,,En grupo: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:89fe8f59022c,Keeping a stall: %s,,Con tienda abierta: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:63a6e4280aab,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Nivel %d) - pid %d, pos (%d, %d), kingdom %d","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d %d %d %d",done
+c:pbt:cb640dce08ec,(this bot has not said anything yet),,(este bot no ha dicho nada todavía),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e161602a2fa3,Achievement #%d,,Logro #%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c080148f299b,Won by: %s,,Ganado por: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bbf7fe0d2377,Nobody yet,,Nadie todavía,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef27679fac54,The bot admin window did not load in this client - see syserr.txt,,La ventana de admin de bots no se cargó en este cliente; consulta syserr.txt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5cbff7ffd2bd,Drag Auto Hunt onto the quickbar,,Arrastra Auto Caza al acceso rápido,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:23707dd8cdef,the server has not confirmed the filter yet - retrying. Pickup waits for the confirmation.,,el servidor aún no ha confirmado el filtro - reintentando. La recogida espera la confirmación.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b70e4a30bebe,the server refused the filter. Pickup paused. Change the filter settings or press Z to retry.,,el servidor rechazó el filtro. Recogida en pausa. Cambia los ajustes del filtro o presiona Z para reintentar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba7d67df5db7,the server does not know the Auto Hunt filter - it is older than the client. Update the server; until then filtered pickup is paused.,,el servidor no reconoce el filtro de Auto Caza - es más antiguo que el cliente. Actualiza el servidor; hasta entonces la recogida filtrada estará en pausa.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d7a10c6a87ee,the server confirmed the filter - pickup resumed.,,el servidor confirmó el filtro - recogida reanudada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:10dfb99f271b,Min. +,,Mín. +,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f0a8e7383bb,[x] Pick up,,[x] Recoger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:135927e5861f,Selects or deselects the whole category. Clears manual exceptions while preserving Min. +.,,Selecciona o deselecciona toda la categoría. Limpia las excepciones manuales conservando el + Mín.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6a7b377fe22,Name or vnum:,,Nombre o vnum:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea243e47d7b3,vnum exception limit. Use Entire page.,,límite de excepciones vnum. Usa Página entera.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84a82b56c3af,exception limit; minimum + was not saved.,,límite de excepciones; el + mínimo no se guardó.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:55dcbd95a175,Page %d/%d - %d items,,Página %d/%d - %d objetos,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:d661b5182ce7,Page %d/%d - %s,,Página %d/%d - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
+c:pbt:92428eecce22,Loading catalogue: %d/%d,,Cargando catálogo: %d/%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:b856edf2d4ee,Click: select item. Min. +: minimum upgrade level.,,Clic: seleccionar objeto. + Mín.: nivel mínimo de mejora.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba2b5a5fc869,Searching...,,Buscando...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c49ba22ae5dc,Click a skill: collect only selected skill books.,,Clic en una habilidad: recoger solo los libros de habilidad seleccionados.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96d7f0b44fcf,Click a skill: collect only selected forget books.,,Clic en una habilidad: recoger solo los libros del olvido seleccionados.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8278c6b1cfe9,Variants: +%d to +%d,,Variantes: +%d a +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:4570b34c0595,Vnum series: ,,Series Vnum:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1fa7c2a796dd,Refine all,,Refinar todo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44c13d067cc5,"Current tab, one attempt per set. Click again to stop.",,"Pestaña actual, un intento por set. Haz clic de nuevo para detener.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50abfd1763fc,Server rejected the attempt. Batch stopped.,,El servidor rechazó el intento. Proceso en masa detenido.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49f202584e0d,Stop (%d/%d),,Detener (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:481bf2955ab7,Waiting for result,,Esperando resultado,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b045e587a8ad,First place your chosen refining bean in the window.,,Primero coloca tu alubia de refinamiento elegida en la ventana.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8a5e8f82872,No complete refining sets in this tab.,,No hay sets de refinamiento completos en esta pestaña.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4262c689d900,Server reply timed out. Batch stopped; wait for the pending result.,,El tiempo de respuesta del servidor expiró. Proceso detenido; espera el resultado pendiente.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5605d9f202ee,"Alchemy: %d attempts completed, %d successful.",,"Alquimia: %d intentos completados, %d exitosos.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:0d1945a9b705,Inventory changed. Start a new batch.,,Inventario cambiado. Inicia un nuevo proceso en masa.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4accfc2982bf,No more beans of the chosen type. Batch stopped.,,No quedan más alubias del tipo elegido. Proceso detenido.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c4585bfc080,Marbles,,Esferas Poli,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bffd1b75d0b,"Polymorph from its bag: ask, with you (no question), always (also alone in a fight), off.",,"Polimorfismo desde su inventario: preguntar, contigo (sin pregunta), siempre (también solo en combate), apagado.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3b50cd53cc4,Accessories,,Accesorios,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce3f44c0310c,Swords,,Espadas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce1649348ab2,Two-handed,,Dos manos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e7594d5bba6,Daggers,,Dagas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f773e9d5bf0,Bows,,Arcos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:650749789a2e,Bells,,Campanas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:73d38dbf7c5d,Fans,,Fans,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:731efc758725,Body armour,,Armaduras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:830a75394156,Pendants,,Talismanes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1fb2c11ac7e2,Gloves,,Guantes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75b04b88d466,Rings,,Anillos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0cb33492c615,Belts,,Cinturones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14a06b5af02b,Skill books,,Libros de habilidad,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d454718ba8f3,Forget books,,Libros del olvido,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:760f58705552,Yang,,Yang,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:d8e12fdf7641,Gold stones,,Piedras de oro,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dfae001500b9,Ability potions,,Pociones de habilidad,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c5c266e3c9c,Instant potions,,Pociones instantáneas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c079af159c5,Continuous potions,,Pociones continuas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99fab17755b3,Quest items,,Objetos de misión,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ebab47857476,Special / manuals,,Especial / manuales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7dd3a1d8ed5,Upgrading,,Mejoras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fb1092f32d4,Recipes,,Recetas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:632b7a35e960,Other items,,Otros objetos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d844a14d111,Refinement materials,,Materiales de refinamiento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d0c9b26f9cc4,Horse riding,,Equitación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f0acc036f949,Gathering,,Recolección,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7df7504fc57,Chests and keys,,Cofres y llaves,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bdceda673b4,Rings and amulets,,Anillos y amuletos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2d4140ad8e1,Polymorph,,Polimorfismo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b45a045dfc32,Other books,,Otros libros,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed58f29743f8,Instructions,,Instrucciones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:472b1d3a8bc8,Monkey dungeon,,Mazmorra de monos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07ef2028c525,Orc Valley,,Valle de Orcos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e83789be88e,Temple,,Templo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f6db3f96e9e3,Desert,,Desierto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c96e594616e0,Spider dungeon,,Mazmorra de arañas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91c55059ac81,Sohan,,Sohan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:a418c2fdb30d,Doyyum,,Doyyum,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:f41c4e4dab0b,Forest,,Bosque,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c028657cea3,Red forest,,Bosque rojo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0fbd8efea51d,Demon tower,,Torre de demonios,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d1617afae6f,Grotto,,Gruta,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7612be290582,Catacomb,,Catacumbas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5b0684bfb97,Maps 90+,,Mapas 90+,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:47b5b7ad33c5,Other sources,,Otras fuentes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:718a7e8a582e,Body,,Corporal,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e853f0d7cc6,Mental,,Mental,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:8940d66466e6,Assassin,,Asesino,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f75aedc160fd,Archer,,Arquero,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:17182e9dd599,Weaponry,,Armas Mágicas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ae5e022bd4,Black magic,,Magia negra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb22c5e28adf,Dragon,,Dragón,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:87272fae497d,Healing,,Curación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7efbe4b17742,Companion's skills,,Habilidades del compañero,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:209d832ec6fb,Companion's options,,Opciones del compañero,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07ea32dd0e5d,keeps,,conserva,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:801960125a1d,spends,,gesta,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c8f09270fc3,ask,,preguntar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fdb8e1944d39,with you,,contigo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5b174dc33a0,1. Adding and viewing items,,1. Añadir y ver objetos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9ac41d5dd0f,Open BS with its icon in the inventory panel or with F5. You can add up to 3 items.,,Abrer el Cambiador (BS) con su ícono en el panel de inventario o con F5. Puedes añadir hasta 3 objetos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b2ec769b89d,"Drag an item from your inventory into a slot, or right-click it while BS is open.",,"Arrastra un objeto desde tu inventario hacia una ranura, o haz clic derecho sobre él mientras el Cambiador (BS) esté abierto.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e0ff0c83bccb,"Each slot has three tabs: Set 1, Set 2 and Presets. Hover over the icon to see the item.",,"Cada ranura tiene tres pestañas: Set 1, Set 2 y Preajustes. Pasa el cursor sobre el ícono para ver el objeto.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0116c605c925,Equipped items cannot be changed. BS works with the horse bag too.,,Los objetos equipados no se pueden cambiar. El Cambiador (BS) funciona también con el inventario del caballo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b5304dadc5e1,2. Main and alternative bonuses,,2. Bonificaciones principales y alternativas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2c6b1d936874,Choose up to 5 main bonuses: all of them must reach their values.,,Elige hasta 5 bonificaciones principales: todas ellas deben alcanzar sus valores indicados.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7223b7ac653a,"If you choose alternatives, at least one of them must match as well.",,"Si eliges alternativas, al menos una de ellas debe coincidir también.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3fb450f3bca,Example: poison as main + devils / undead as alternatives.,,Ejemplo: veneno como principal + demonios / no-muertos como alternativas.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c109f8f33a0,A value is a minimum (bonus >= target). Any / skip adds no requirement. Right-click a selected bonus to clear its requirement.,,Un valor actúa como un mínimo (bonificación >= objetivo). Cualquiera / omitir no añade requisitos. Haz clic derecho en una bonificación seleccionada para limpiar su requisito.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8871e059527,3. Two independent target sets,,3. Dos conjuntos de objetivos independientes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fbf4c2a20209,Matching one active set is enough. An empty Set 1 or 2 is inactive.,,Es suficiente con coincidir con uno de los conjuntos activos. Un Set 1 o 2 vacío se considera inactivo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40ec6cf4900e,Hitting one whole set is enough. Set 2 can be activated once an item is added.,,Lograr un conjunto completo es suficiente. El Set 2 se puede activar una vez que se añade un objeto.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c05615224f06,Example: Set 1: 30 average + 12 intelligence. Set 2: 40 average alone.,,Ejemplo: Set 1: 30 de media + 12 de inteligencia. Set 2: 40 de media únicamente.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba0690401010,Both set buttons show their activity. Set 2 must also be enabled.,,Ambos botones de set muestran su actividad. El Set 2 también debe estar habilitado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aac8cf81eb75,"4. Starting, stopping and a manual change",,"4. Iniciar, detener y cambios manuales","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:898544f98917,Start begins automatic rerolling in that slot. Stop stops that slot.,,Iniciar comienza el cambio automático de bonificaciones en esa ranura. Detener frena esa ranura.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d070291d74c1,Start all resumes only inactive slots. Redundant Start all / Stop all shows a message.,,Iniciar todo reanuda únicamente las ranuras inactivas. Usar Iniciar todo / Detener todo de forma redundante mostrará un mensaje.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:598b7a88b00a,"Change bonuses requires stopping this slot first. Clicking while it runs only shows a message. Confirming makes one change, even if the targets already match.",,"Cambiar bonificaciones requiere detener primero esta ranura. Hacer clic mientras está en curso solo mostrará un mensaje. Confirmar realiza un único cambio manual, incluso si los objetivos ya coinciden.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d66df075256,Start/Stop ignores double-clicks for 0.5 s. Start waits for the previous result; a blocking popup names the bonus and reason.,,Iniciar/Detener ignora los dobles clics durante 0.5 s. Iniciar espera al resultado anterior; una ventana emergente de bloqueo indicará el bonus y el motivo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36f2b9765f4f,5. One speed for all three slots,,5. Una sola velocidad para las tres ranuras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e7bde8c4659b,The slider sets the gap between the requests of all active slots: 0.05-1 s.,,El deslizador fija el intervalo entre las solicitudes de todas las ranuras activas: 0.05-1 s.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9de16438c8ab,The step is 0.05 s. The default is 0.05 s; the chosen speed is remembered.,,El paso es de 0.05 s. El valor por defecto es de 0.05 s; la velocidad elegida se memoriza.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5c946b676e2,With 3 items at 0.1 s each item changes about every 0.3 s.,,"Con 3 objetos a 0.1 s, cada objeto cambia aproximadamente cada 0.3 s.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5da70e95d976,"When one finishes, the others speed up. Server delays can slow them down.",,"Cuando una ranura termina, las demás se aceleran. Los retrasos del servidor pueden ralentizarlas.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3afa33527b90,6. Background work and notifications,,6. Trabajo en segundo plano y notificaciones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24618314a664,"Close, X or Esc hide BS without stopping rerolling. With BS open, hits produce neither PM nor minimap notifications.",,"Cerrar, X o Esc ocultan el Cambiador (BS) sin detener el cambio automático. Con el Cambiador abierto, los aciertos no generan MPs ni notificaciones en el minimapa.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f538bf5de720,PM mode hides the status panel by the minimap. Popup and Popup + PM show the counters and speed.,,El modo MP oculta el panel de estado junto al minimapa. Ventana emergente y Emergente + MP muestran los contadores y la velocidad.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2bb364852ae8,Start / Stop in the minimap status panel controls all BS slots. Open BS window shows the full window. The notification type is shared by accounts using this client folder.,,Iniciar / Detener en el panel de estado del minimapa controla todas las ranuras del Cambiador (BS). Mostrar ventana de BS abre la interfaz completa. El tipo de notificación se comparte entre las cuentas que usen esta misma carpeta del cliente.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e56a0b933e2,"Choose Popup, PM or Popup + PM next to Presets. Hit notifications work only in the background. PM briefly pauses rerolls until its quest ends.",,"Elige Emergente, MP o Emergente + MP junto a Preajustes. Las notificaciones de acierto solo funcionan en segundo plano. El modo MP pausa brevemente los cambios automáticos hasta que finalice su misión.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6687301e162b,7. Server confirmations and pauses,,7. Confirmaciones del servidor y pausas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:77e82fbcdad7,BS waits for a change to be confirmed before it sends the next request.,,El Cambiador (BS) espera a que se confirme un cambio antes de enviar la siguiente solicitud.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5102e2e12dc1,"BS waits up to 5 s for confirmation, then retries after about 1 s. Three consecutive unconfirmed attempts stop the slot.",,"El Cambiador (BS) espera hasta 5 s por una confirmación, luego reintenta tras aproximadamente 1 s. Tres intentos consecutivos sin confirmación detienen la ranura.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:814042aabf39,"Trade, storage, shops and NPC dialogs pause BS until the blocking window closes. After death, BS waits for revival.",,"El comercio, el almacén, las tiendas y los diálogos con NPCs pausan el Cambiador (BS) hasta que se cierre la ventana de bloqueo. Tras morir, el Cambiador (BS) espera a que revivas.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7063b2330b51,A manual stop is never resumed by itself.,,Un frenado manual nunca se reanuda por sí mismo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bac71373e000,"8. Teleports, channels and where the item is",,"8. Teletransportes, canales y ubicación del objeto","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee8adc8b05ed,You can change the channel while rerolling. After a channel change or a teleport BS resumes after 5 s.,,"Puedes cambiar de canal mientras realizas cambios automáticos. Tras un cambio de canal o un teletransporte, el Cambiador (BS) se reanuda después de 5 s.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:388cf0ae20ca,It resumes only if the item is still in the remembered inventory slot.,,Solo se reanudará si el objeto sigue en la misma ranura de inventario registrada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95803235754f,Picking up the item pauses BS. Returning it to the same cell resumes work without resetting the counter.,,Recoger el objeto pausa el Cambiador (BS). Devolverlo a la misma casilla reanuda el trabajo sin restablecer el contador.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04932c792a29,Moving stops BS. Right-click the same item in EQ to assign it again. You can also drag it onto its BS slot or return it to its previous EQ slot; then click Start.,,Mover el objeto detiene el Cambiador (BS). Haz clic derecho en el mismo objeto dentro del equipamiento para asignarlo de nuevo. También puedes arrastrarlo a su ranura del Cambiador o devolverlo a su ranura de EQ anterior; luego haz clic en Iniciar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e5d86f0bb0d,9. Buying reroll scrolls in the ItemShop,,9. Compra de pergaminos de cambio en la ItemShop,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06167a733e07,BS buys 200 scrolls for DC when fewer than 200 remain. It buys while rerolling or processing a manual change.,,El Cambiador (BS) compra 200 pergaminos por MD cuando quedan menos de 200 unidades. Los compra mientras realiza cambios automáticos o procesa un cambio manual.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aefa361e1a1,Switching it on asks for your consent and shows the price. It applies to this character only.,,Activar esta opción solicitará tu consentimiento y mostrará el precio. Se aplica únicamente a este personaje.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4659fda56295,"A purchase needs free inventory space. If another window blocks it, BS retries every 5 s.",,"Una compra requiere espacio libre en el inventario. Si otra ventana la bloquea, el Cambiador (BS) reintenta cada 5 s.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a06944211a03,"Missing Dragon Coins, or a purchase that left no scrolls in the inventory, stops BS.",,"Quedarse sin Monedas de Dragón, o una compra que no deje pergaminos en el inventario, detendrá el Cambiador (BS).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b5043f7aaea7,10. Presets and quick loading,,10. Preajustes y carga rápida,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acd8a6efdcfa,"Save preset stores both sets, the chosen bonuses and their values under a name.",,"Guardar preajuste almacena ambos sets, las bonificaciones elegidas y sus valores bajo un nombre.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b243bf210077,Each category has its own presets: PvP can be saved separately for weapons and shoes.,,Cada categoría tiene sus propios preajustes: PvP se puede guardar por separado para armas y zapatos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2452bb345e62,Bonus catalog: choose a category card with an icon to view its bonuses and possible values.,,Catálogo de bonus: elige una tarjeta de categoría con un ícono para ver sus bonificaciones y valores posibles.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c4351752cd,Compatible replacements keep targets. Another matching item needs Start. Restarting clears slots; named presets remain.,,Los reemplazos compatibles mantienen los objetivos. Otro objeto coincidente requiere pulsar Iniciar. Reiniciar limpia las ranuras; los preajustes con nombre se mantienen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60e375d80427,"Presets can load before bonuses exist; Start checks targets. In the selection window, right-click adds to a free slot; dragging replaces a taken one.",,"Los preajustes pueden cargarse antes de que existan las bonificaciones; Iniciar verifica los objetivos. En la ventana de selección, el clic derecho añade a una ranura libre; arrastrar reemplaza una ocupada.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1d98532c97fa,"Replacing selected bonuses, overwriting and deleting presets require confirmation. Presets are shared and synchronized between clients using the same folder.",,"Reemplazar bonificaciones seleccionadas, sobrescribir y eliminar preajustes requieren confirmación. Los preajustes se comparten y sincronizan entre clientes que usen la misma carpeta.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79c235b30309,"11. Values, colours and counters",,"11. Valores, colores y contadores","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d72b85b01775,A chosen bonus gets its maximum value; you can type your own.,,Un bonus elegido toma su valor máximo; puedes escribir tu propio valor manual.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22c2c0499b49,"Ordinary bonuses and values are green, maximum values gold, negative ones red.",,"Las bonificaciones y valores comunes son verdes, los valores máximos dorados y los negativos rojos.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b3365cece335,Green in BS and inventory means the targets were reached. Red and yellow cover the full item size (1-3 cells).,,El color verde en el Cambiador (BS) y en el inventario significa que se alcanzaron los objetivos. El rojo y el amarillo cubren el tamaño completo del objeto (1-3 casillas).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:554c871e6853,A selected tab has white text and border; inactive sets keep a red background. Counters total usage and purchases.,,Una pestaña seleccionada tiene borde y texto blancos; los conjuntos inactivos mantienen un fondo rojo. Los contadores totalizan el uso y las compras.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea24fc455d17,12. Clearing and safe choices,,12. Limpieza y elecciones seguras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbb5a23f0d66,A right click on the item icon in BS works like Clear: the slot and its targets go.,,Un clic derecho en el ícono del objeto dentro del Cambiador (BS) funciona como Limpiar: la ranura y sus objetivos desaparecen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc873faf6c4f,"Clear all clears every slot, the used-scroll counter and notifications. Clear dismisses the notification for that slot.",,"Limpiar todo limpia cada ranura, el contador de pergaminos usados y las notificaciones. Limpiar descarta la notificación para esa ranura.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:349b78fb96d3,Presets and inventory items remain after clearing. Full slots also show a popup; identical matches need dragging.,,Los preajustes y los objetos del inventario permanecen tras la limpieza. Las ranuras llenas también muestran una ventana emergente; las coincidencias idénticas requieren arrastrarse.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:027e55363c5b,Changing targets or restarting a slot dismisses its previous notification.,,Cambiar los objetivos o reiniciar una ranura descarta su notificación anterior.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4df16c3305c4,Red marks the selected item. Yellow with its BS slot number marks the original cell. Closing Info resets the page.,,El color rojo marca el objeto seleccionado. El amarillo con su número de ranura del Cambiador marca la casilla original. Cerrar Info restablece la página.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36155d48f460,Equipment,,Equipamiento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:893c12be4126,Upgrade and bonus items,,Objetos de mejora y bonus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2efc8a84342f,Books and skills,,Libros y habilidades,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bd629b84235b,Herbs,,Hierbas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4190d6d0f5df,Consumables,,Consumibles,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:89d13e810ed3,Fishing and mining,,Pesca y minería,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:515fe2b3ec1a,Quests and events,,Misiones y eventos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41def7a0febe,Appearance,,Aspecto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09805f627824,Auto Hunt needs the new metin2client.exe. Start the game from the launcher (PLAY) or run Aktualizuj.bat in the client folder.,,Auto Caza requiere el nuevo metin2client.exe. Inicia el juego desde el launcher (JUGAR) o ejecuta Aktualizuj.bat en la carpeta del cliente.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd6ec7d37764,One-handed swords,,Espadas de una mano,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4fde72a7d89e,Two-handed swords,,Espadas de dos manos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f590edf2f02,Armour - Warrior,,Armaduras - Guerrero,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36df01164e26,Armour - Ninja,,Armaduras - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c2009041421,Armour - Sura,,Armaduras - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6b6613d4fa90,Armour - Shaman,,Armaduras - Chamán,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:804652fa1c0a,Helmets - Warrior,,Cascos - Guerrero,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:041e863bb094,Helmets - Ninja,,Cascos - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b2392000c1f,Helmets - Sura,,Cascos - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f235d457fd9,Helmets - Shaman,,Cascos - Chamán,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5c8c9d9b6ca,Forgetting books,,Libros del olvido,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:629edbdb7a92,Spirit stones,,Piedras espirituales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb219dd7bd04,Ores,,Minerales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f1a3718b995,Usable items,,Objetos usables,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d602fbea98b1,Upgrade items,,Objetos de mejora,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a31539f977b4,Dragon Alchemy,,Alquimia Dragón,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41af5f20e30d,"Your metin2client.exe is older than the rest of the client[ENTER](2 inventory pages instead of 4), so the game will not let it in.[ENTER]Close the game and start the launcher again - it replaces the file itself.[ENTER]If that does not help, ask on the project's Discord.",,"Tu metin2client.exe es más antiguo que el resto del cliente[ENTER](2 páginas de inventario en lugar de 4), por lo que el juego no le permitirá el ingreso.[ENTER]Cierra el juego e inicia el launcher de nuevo; este reemplazará el archivo por sí mismo.[ENTER]Si eso no ayuda, consulta en el Discord del proyecto.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:a4e5a3a9480e,Apply the selected mode to every shop listing.,,Aplica el modo seleccionado a cada inventario de tienda.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5efd3ff94132,Warning: This changes the price of every listed item!,,Advertencia: ¡Esto cambia el precio de cada objeto listado!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b525de69e36,Game Master,,Game Master,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:61d5521893ec,%sHorse training is waiting for yang,,%sEl entrenamiento de caballo está esperando por yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:44ddd5364055,%d items,,%d objetos,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c57e02b404c3,%s or better,,%s o mejor,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:6f49a902eff4,%s or weaker,,%s o peor,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7deaa7243a27,%s to %s,,de %s a %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b96207db390a,%sResting after death - waiting for mana,,%sDescansando tras morir: esperando maná,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:97fa66a28d26,%sResting after several deaths (break %u s),,%sDescansando tras varias muertes (pausa de %u s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u",done
+c:pbt:ed2a19972f26,%sRunning errands in town (then %s),,%sHaciendo recados en la ciudad (luego %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:858f27865770,0 = disabled,,0 = desactivado,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05b88cb8255d,24h player ranking,,Clasificación de jugadores de 24 h,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a584d72aa8a3,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.",,"5 niveles por encima: 92%, 10: 50% (jefe, Metin: 30%), 15+: 1%.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0eb68426544e,Additional (%d-%d drawn from the list):,,Adicionales (%d-%d sorteados de la lista):,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:dbd9d59e0ddf,Additional: none at this grade,,Adicionales: ninguno en este grado,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:075c35600e49,All subtypes,,Todos los subtipos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f024635bf90c,Apprentice Herbalist,,Aprendiz de herborista,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fd5a82a54fe7,Auto Hunt - Item selection,,Auto Caza - Selección de objetos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ada5efd3889,Auto Hunt is disabled in this world.,,La Auto Caza está desactivada en este mundo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d327fb90058,Average damage resistance,,Resistencia media al daño,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e16bc2102ff,Average: min.,,Media: mín.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:431c23faebfe,BOSS,,JEFE,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3debac3efd1,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,,Probabilidades base de los archivos del servidor: Ctrl+Alt+RMB abre la página en el navegador,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7cc983a6dc16,Basic (always):,,Básicos (siempre):,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6857caa5ae4,Biologist research,,Investigación del Biólogo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d963cfab70d,Bonus,,Bonificación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e144f64b4481,Bonuses,,Bonificaciones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bc357f970291,Buildings cannot overlap.,,Los edificios no pueden solaparse.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61c148d2500a,Buy a plot in the guild atlas.,,Compra una parcela en el atlas del gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91e4005afbe3,Cannot generate bonuses. Nothing was charged.,,No se pueden generar bonificaciones. No se ha cobrado nada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc43d433ba15,Catch bonus = rod + bait; %s with %s is enough.,,Bonificación de captura = caña + cebo; basta con %s con %s.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a8ea45ae5a97,Chance for a character at most 1 level above the monster.,,Probabilidad para un personaje como máximo 1 nivel por encima del monstruo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:173518fcb904,Change bonuses for %d flames and %d Yang?,,¿Cambiar las bonificaciones por %d llamas y %d Yang?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:a7f5fc04c476,Check the prerequisite and type limit.,,Comprueba el requisito previo y el límite del tipo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fba8bb0d1e45,Checking fishing support,,Comprobando el soporte de pesca,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4d74bcb7d0f,"Class, clarity, + and remaining time stay.",,"La clase, la claridad, el + y el tiempo restante se mantienen.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b52ccd5c7e46,Close trading and other activities before fishing.,,Cierra el comercio y otras actividades antes de pescar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f940aa429792,Combat stopped automatic fishing.,,El combate detuvo la pesca automática.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ea9b9f625d,Complete the Fisherman introduction first.,,Completa primero la introducción del Pescador.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5cbdf6bfb51,Contents,,Contenido,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:07053f970f24,Cost: %d flames and %d Yang,,Coste: %d llamas y %d Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:431b1337ffb7,Costume,,Atuendo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:778cbbb2ddbb,Daily quests,,Misiones diarias,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:af4b8454e9e1,Defence,,Defensa,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85cce1e14782,Deselect all,,Deseleccionar todo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f722313a99a,"Deselects items in every category, keeping Min. + and minimum bonuses.",,"Deselecciona los objetos de todas las categorías, conservando Mín. + y las bonificaciones mínimas.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f133e32c82e,Different bonuses stack; same bonus: highest.,,Bonificaciones distintas se suman; la misma bonificación: la más alta.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62ad63715d5e,Dismount and end polymorph first.,,Desmonta y termina la transformación primero.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ec5483b39290,Double EXP chance,,Probabilidad de EXP doble,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7a250facfaf,Double Yang chance,,Probabilidad de Yang doble,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3920e7670ff0,Drag a stone from the alchemy window.,,Arrastra una piedra desde la ventana de alquimia.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fe401e0ecfd8,Dragon Coin vouchers,,Vales de Monedas de Dragón,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:27f08ef7caff,Dragon Flame,,Llama del Dragón,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cedf8e9e1c40,Dragon Flame is disabled.,,La Llama del Dragón está desactivada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:10f3edeaa6ff,Eligible potion duration,,Duración de pociones aplicable,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:238eefe47ee7,Eligible potion strength,,Potencia de pociones aplicable,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2fa2fffacf02,Entire category,,Toda la categoría,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bf0f71c9d82,Entire page,,Toda la página,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40ddf0065fee,Equip a fishing pass from the Fisherman.,,Equipa un permiso de pesca del Pescador.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f5008026d1b,Equip a fishing rod.,,Equipa una caña de pescar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad8919ace091,Event,,Evento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9358cf34277,Event quests,,Misiones de evento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5871b8d86fba,Exp,,Exp,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:fb11d8756dee,Experience gained,,Experiencia obtenida,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8115a5849ed7,Fire resistance,,Resistencia al fuego,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7e1eb2841ae,Fish bite the bait more often.,,Los peces muerden el cebo más a menudo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64f284055fa3,Fishing chance,,Probabilidad de pesca,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37c350aad8bd,Fishing is available from level 30.,,La pesca está disponible a partir del nivel 30.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0323a576e280,Fishing made no progress. Start it again.,,La pesca no avanzó. Iníciala de nuevo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0148fe10da63,Found on:,,Se encuentra en:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd37492dcf3b,Game missions,,Misiones del juego,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:daa34ed676b3,Game session changed. Start fishing again.,,La sesión de juego cambió. Vuelve a empezar a pescar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:595cee9d2177,Gear thresholds,,Umbrales de equipo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d3e5ca1d39b,Global rankings,,Clasificaciones globales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aafd85ada5bb,Grandmaster Herbalist,,Gran maestro herborista,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:929a28d26142,Guides,,Guías,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0fe18921a89e,Guild leader only.,,Solo el líder del gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d37918a2335,Guild level is too low.,,El nivel del gremio es demasiado bajo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4478dfd2c33d,Guild state is unavailable.,,El estado del gremio no está disponible.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e8f931f8108,Guild storage is full for this material.,,El almacén del gremio está lleno para este material.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0dcff6f0db15,Guild storage lacks materials.,,Al almacén del gremio le faltan materiales.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5200bdfc01a1,HP,,HP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1452603be8e1,HP / SP,,HP / SP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6229089d1582,Hairstyles,,Peinados,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1913d000a541,Herb research,,Investigación de hierbas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e801ef81f5e3,Hunting missions,,Misiones de caza,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5ef8f60cf84,ITEMS,,OBJETOS,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e51d2d7a065,In your bag: %d flames (both kinds),,En tu inventario: %d llamas (de ambos tipos),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b8a0249cc54c,Increases damage dealt to monsters.,,Aumenta el daño infligido a los monstruos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8a1f5ba53eb,Increases the chance of mining ore.,,Aumenta la probabilidad de extraer mineral.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1258592e0d45,Increases the item refine chance.,,Aumenta la probabilidad de refinar objetos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:587a4b702aef,Invalid action.,,Acción no válida.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e50e0171850,Invalid building type.,,Tipo de edificio no válido.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2126d609ea3,Invalid entry.,,Entrada no válida.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6cd5f8b00620,Invalid selection.,,Selección no válida.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:968bf01fb364,Item drop chance,,Probabilidad de botín de objetos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5a5dae4e356,Item refine chance,,Probabilidad de refinado de objetos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4360cc060e67,Jewellery,,Joyería,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9ad04722b84,Journeyman Herbalist,,Oficial herborista,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50b8a339f82a,KING,,REY,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:889acb9e79cd,Legendary Dragon Stones only.,,Solo Piedras Dragón legendarias.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:47e0384caf89,Lightning resistance,,Resistencia al rayo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91cfef8db0d3,List saved.,,Lista guardada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e646dab9aa4,List unavailable.,,Lista no disponible.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64f970f6ef4b,Loading scores...,,Cargando puntuaciones...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae6e1fe33f41,Local beta rules,,Reglas de la beta local,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f6d00f67258b,M1,,M1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c53ec69ce5eb,M2,,M2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49e34f4b86cd,M3,,M3,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62625833c965,METIN,,METIN,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:ee58980d3377,MINIBOSS,,MINIJEFE,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6cee87b36fbd,Magic damage,,Daño mágico,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:80737e51b018,Magic resistance,,Resistencia mágica,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd1ad30a4582,Main quests,,Misiones principales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ec39d5ea7084,Manual fishing: automatic mode is off.,,Pesca manual: el modo automático está desactivado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f89235b8cb2,Master Herbalist,,Maestro herborista,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f730f3d99586,Material deposited in guild storage.,,Material depositado en el almacén del gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d98c5f1e354,Material returned to your test pool.,,Material devuelto a tu reserva de prueba.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3336a8aa850b,Mining chance,,Probabilidad de minería,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37cc7008c0dc,Mission book quests,,Misiones del libro de misiones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ff34da9f86c2,Monkey Dungeon 2,,Mazmorra de Monos 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:546c11014f2f,Monkey Dungeon 3,,Mazmorra de Monos 3,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42013a86f9c3,Monster experience,,Experiencia de monstruos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d965072a1bbf,Monster item drop chance,,Probabilidad de botín de objetos de monstruos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6eec604176f,Monster resistance,,Resistencia contra monstruos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4a4ceae5370,Moonlight event: drops depend on the event settings.,,Evento Luz de Luna: el botín depende de los ajustes del evento.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8e3ea859140,Movement stopped automatic fishing.,,El movimiento detuvo la pesca automática.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8642e35731ce,Names: off,,Nombres: no,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:961748e90682,Names: on,,Nombres: sí,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:514f3c3c06b6,New bonuses may be worse or identical.,,Las nuevas bonificaciones pueden ser peores o idénticas.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b8b8be8e749,No active Auto Hunt time.,,No hay tiempo de Auto Caza activo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72bb9c5c13e1,"No bait, or it cannot be attached.",,"No hay cebo, o no se puede colocar.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b658f0396404,No completed round.,,No hay ninguna ronda completada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cbc20dc368d4,No drop of its own - only the common drop by level.,,Sin botín propio: solo el botín común por nivel.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc98e131b39a,No free inventory space.,,No hay espacio libre en el inventario.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bec4fdb2d6bd,No points from books.,,No hay puntos de libros.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50be5a2e3636,No response. Use Retry.,,Sin respuesta. Usa Reintentar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea1b591e7617,No reward,,Sin recompensa,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:51617d123d63,No winners in this category.,,No hay ganadores en esta categoría.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28d3a08c39e8,Not all buffs could be activated. Courage capes have resumed.,,No se pudieron activar todos los refuerzos. Los Cabos de Valor se han reanudado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b9eec72f4fae,Not enough Yang for the displayed cost.,,No hay suficiente Yang para el coste mostrado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9df37c54e3e7,Not enough Yang in the treasury.,,No hay suficiente Yang en la tesorería.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e78c00f3c939,Not enough available flames in your bag.,,No hay suficientes llamas disponibles en tu inventario.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa6479b2c750,Not enough materials in storage or Yang in the treasury.,,No hay suficientes materiales en el almacén o Yang en la tesorería.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e9da8b89b21,Not enough test resources.,,No hay suficientes recursos de prueba.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:16ca44702a9b,Novice,,Novato,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36f485914c9f,One reward for the best place.,,Una recompensa para el mejor puesto.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:13e9482b0f98,Only development materials are accepted.,,Solo se aceptan materiales de desarrollo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8b2d3d2dd00,Only the leader can purchase land.,,Solo el líder puede comprar terreno.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c26eb9bee233,Parcel changes saved.,,Cambios de la parcela guardados.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c32a0147f2e4,Place,,Puesto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e53407cfe1a5,Player,,Jugador,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8af1aa8ae1c,Player ranking,,Clasificación de jugadores,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dab49fc09284,Playing the fishing minigame,,Jugando al minijuego de pesca,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:629d970e3759,Please wait a moment.,,Espera un momento.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e1751de1f3c,Plot purchased.,,Parcela comprada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:29f30442f982,Points unavailable.,,Puntos no disponibles.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83d7b4128be0,Potion duration,,Duración de pociones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8fec5324ccf,Potion strength,,Potencia de pociones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c14f2ddaff0,Previous winners,,Ganadores anteriores,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb3144730c66,Project complete.,,Proyecto completado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76dcb814a54a,Projects are up to date.,,Los proyectos están al día.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18d4da5c6380,Quest item,,Objeto de misión,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be340955fc02,Ranking reward,,Recompensa de clasificación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be189dce07e2,Reading success chance,,Probabilidad de éxito de lectura,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3732112b805,Reduces damage dealt by monsters.,,Reduce el daño infligido por los monstruos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e6bb092f8a1f,Results appear after the first settlement.,,Los resultados aparecen tras la primera liquidación.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46a2ebd20ba3,Return to the Alchemist and reopen this window.,,Vuelve con el Alquimista y abre de nuevo esta ventana.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1da4f8247b10,Rotate %d,,Girar %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e464dc1414cf,Round ended: %s,,Ronda terminada: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3896b7515195,Round ends in %02d:%02d:%02d,,La ronda termina en %02d:%02d:%02d,"client: our windows (companion, Auto Hunt, status lines) | keep: %02d %02d %02d",done
+c:pbt:42272f4ba8cd,Round: %s | Reward: %s,,Ronda: %s | Recompensa: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bd876161abb6,Rules and tips,,Reglas y consejos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:489f4877244a,Score,,Puntuación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d7a30a931a3,Search...,,Buscar...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70b1b60f4ab2,Season end: {0},,Fin de temporada: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:4f8508e8d960,Season start: {0},,Inicio de temporada: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:cb6f3fc5d17e,Select a stone,,Selecciona una piedra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2150c2af5f73,Select a stone to check the cost.,,Selecciona una piedra para comprobar el coste.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2277dcd5a97,Select an unlocked legendary stone from alchemy again.,,Vuelve a seleccionar una piedra legendaria desbloqueada desde la alquimia.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56e698d3ff8b,"Selects or deselects the current subtype; for skill/forget books, the books on the current page. All subtypes applies to the whole category.",,"Selecciona o deselecciona el subtipo actual; para libros de habilidad/olvido, los libros de la página actual. Todos los subtipos se aplica a toda la categoría.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f04f98a51cf9,Server event (when active),,Evento del servidor (cuando está activo),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca1c98b522ce,Side quests,,Misiones secundarias,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ece7afa7b45e,Skill damage resistance,,Resistencia al daño de habilidades,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24a4fa79cf36,Skill: min.,,Habilidad: mín.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ff010763c027,Smelt failed. The attempt was charged.,,La fundición falló. El intento se cobró.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35b6122221b7,Smelt succeeded. Output is in the test pool.,,Fundición con éxito. El resultado está en la reserva de prueba.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b335a234e41,Sort:,,Ordenar:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2eb56be3c2d9,Sources,,Fuentes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d594062db3f,Spawn locations,,Lugares de aparición,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb00bcb12e5a,Stand beside water in a permitted place.,,Colócate junto al agua en un lugar permitido.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:715b4a2d0f45,Stone bonuses changed.,,Bonificaciones de la piedra cambiadas.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:898ff96f1b6d,Target missing or allied.,,Objetivo ausente o aliado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3ca513813fc9,Test guild level saved.,,Nivel de gremio de prueba guardado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75eb552a3c53,Test plot claimed.,,Parcela de prueba reclamada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf1401b2643e,Test resources replenished.,,Recursos de prueba repuestos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0be8b62222b9,"The Alchemist and the Dragon Stone window (refining, upgrading)",,"El Alquimista y la ventana de Piedras Dragón (refinado, mejora)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecfa7e44f24c,The Costumes section is not available yet.,,La sección de Atuendos aún no está disponible.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8bccb9428a0,The atlas is temporarily unavailable.,,El atlas no está disponible temporalmente.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28cc6d316e89,The building extends beyond the parcel.,,El edificio se sale de la parcela.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f59955a5d5bb,The building has changed.,,El edificio ha cambiado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22f2973955b9,The building limit has been reached.,,Se ha alcanzado el límite de edificios.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:38a3907a0359,The character cannot fish now.,,El personaje no puede pescar ahora.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:276f056f7a26,The guild already owns a plot.,,El gremio ya posee una parcela.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d14a0291c4e,The guild level is too low.,,El nivel del gremio es demasiado bajo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3074b2aaf21,The guild treasury has insufficient Yang.,,La tesorería del gremio no tiene suficiente Yang.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b7117f7bbe9,The leader assigns points.,,El líder asigna los puntos.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad860f901d92,The leader manages buildings.,,El líder gestiona los edificios.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:16b1f1622ee3,The list is full (20).,,La lista está llena (20).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5eb5b11f3ee5,The plot is already occupied.,,La parcela ya está ocupada.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3725638e38fd,The plot is outside the guild kingdom.,,La parcela está fuera del reino del gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b0ba9d366ba5,The project changed.,,El proyecto ha cambiado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b80101af152a,The rank has changed.,,El rango ha cambiado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58a109d9e7d9,The ranking is still loading. Try again shortly.,,La clasificación aún se está cargando. Inténtalo de nuevo en breve.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa245a5f8e89,The server did not confirm target priority. Update the server or choose Bosses priority.,,El servidor no confirmó la prioridad de objetivos. Actualiza el servidor o elige la prioridad Jefes.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:300f92efa0c3,The server refused the cast. Check its fishing message.,,El servidor rechazó el lanzamiento. Revisa su mensaje de pesca.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e415a968707,This is not your guild parcel.,,Esta no es la parcela de tu gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0b6dff046349,This item is not a development material.,,Este objeto no es un material de desarrollo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:34f4bb169bf1,This material has reached its limit.,,Este material ha alcanzado su límite.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2cf7a81eac66,This step is locked.,,Este paso está bloqueado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e16b12bbe3d,Time left: {0},,Tiempo restante: {0},"client: our windows (companion, Auto Hunt, status lines) | keep: {0}",done
+c:pbt:65cab106909a,Treasury changed. Try again.,,La tesorería ha cambiado. Inténtalo de nuevo.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3deb74565196,Type,,Tipo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2c9c1f79142d,Unavailable,,No disponible,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:87c6f410754d,Unique,,Único,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1388ab17dd37,Update the server to enable automatic fishing.,,Actualiza el servidor para activar la pesca automática.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:af46aa8212c0,Usable,,Utilizable,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a5db926797b,WORLD,,MUNDO,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6d10c9636af,Wait for the character to finish loading.,,Espera a que el personaje termine de cargar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28549fe9f8f5,Waiting for a bite,,Esperando a que piquen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e9211b0ed35,Waiting for the next cast,,Esperando el próximo lanzamiento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19291078386d,Waiting for the server,,Esperando al servidor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c0737830578,Wheel of Fortune (ItemShop),,Rueda de la Fortuna (ItemShop),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5a2bb5a70d2,Where to get it,,Dónde conseguirlo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:315f5fb82ee5,Wind resistance,,Resistencia al viento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7ff7e641af7,Workshop ready. Diamond unlocked.,,Taller listo. Diamante desbloqueado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42b26ab9b8a5,Yang amount,,Cantidad de Yang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d79bf489d9b7,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,,Yonah: 1 Oreja de Tanaka por 1 Cofre de ébano morado.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7a06380f0e87,You must belong to a guild.,,Debes pertenecer a un gremio.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2679f51037f0,all at once,,todos a la vez,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7958f0c48e85,and %d more locations,,y %d lugares más,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b1d8aa3a2dd9,any Dew,,cualquier rocío,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:86bae31be3d8,any Juice,,cualquier zumo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83f57ea13d3c,any Water,,cualquier agua,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e61976b42252,any fishing rod,,cualquier caña de pescar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:296349a2e707,attack speed,,velocidad de ataque,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7d80df03888,boost,,refuerzo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee5b959b21e3,catch bonus %d or more,,bonificación de captura %d o más,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1210cdffc181,critical,,crítico,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:802d2a9ffa21,defensive,,defensivo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa20c3bf5eca,drop,,botín,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1da840244989,fire,,fuego,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39ccb32d95ed,food,,comida,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aecee1f5417b,general use,,uso general,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad60c535ff88,level,,nivel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71f497789120,lightning,,rayo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:65c4aaaab598,loading...,,cargando...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b40981aab759,magic,,magia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7937c4cd57a,monsters,,monstruos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2512d5408f93,movement speed,,velocidad de movimiento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ae999552a0d,name,,nombre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b07ce0be571f,no bonus,,sin bonificación,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71f8e7976e4c,none,,ninguno,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4a23e49d7d45,offensive,,ofensivo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ef3ec044cb0,one at random,,uno al azar,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cce55e4309a7,order,,orden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a32b0438ae40,piercing,,penetración,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa16af3e2aa1,step %d,,paso %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:18cbbab3929b,value +0 > +%d,,valor +0 > +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e70091e7cdb7,wind,,viento,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1780ecaa1645,Animals,,Animales,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:633490347d0b,Chunjo guild land,,Terreno de gremio de Chunjo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:081ae3fdc403,Custom,,Personalizado,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49571e8ecf5e,Devils,,Demonios,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:49609307701a,Humans,,Humanos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9462999f502a,Insects,,Insectos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b82b3d220ff7,Jinno guild land,,Terreno de gremio de Jinno,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a80fa6231b96,Joan,,Joan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:e6791be7eed7,Magic,,Magia,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70536ff48480,Mulled Wine,,Vino caliente,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e64e6c5f476f,Mystics,,Místicos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b153089b44b5,Orcs,,Orcos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7456edf46bce,Pyungmoo,,Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:4377dae0ed45,Shinsoo guild land,,Terreno de gremio de Shinsoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e7081d736f4,Trees,,Árboles,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f56e9884f67,Two-handed weapons,,Armas de dos manos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a53cc9c68e5e,Undead,,No-muertos,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c4777049dfb,Yongan,,Yongan,"client: our windows (companion, Auto Hunt, status lines)",check
+c:skilldesc:1:2,Three-Way Cut,Trzystronne Cięcie,Corte de tres maneras,"client: skill tooltip, skill name (skill 1)",done
+c:skilldesc:1:3,Triple Cut,Potrójne Cięcie,Triple Corte,"client: skill tooltip, skill name (M) (skill 1)",done
+c:skilldesc:1:4,Triple Slash,Potrójne Ciachnięcie,Triple Tajo,"client: skill tooltip, skill name (G/P) (skill 1)",done
+c:skilldesc:1:5,Cut the enemy with lightning speed.,Tnij wroga z niesamowitą szybkością,Corta al enemigo con velocidad relámpago.,"client: skill tooltip, description (skill 1)",done
+c:skilldesc:1:6,Frontal Slash Attack 3 times,Frontalny atak rozpryskowy 3 razy,Ataque frontal de tajo 3 veces,"client: skill tooltip, condition 1 (skill 1)",done
+c:skilldesc:1:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 1)",done
+c:skilldesc:1:17,Total Attack Power %.0f-%.0f,Totalna Siła Ataku %.0f-%.0f,Poder de ataque total %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 1) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:2:2,Sword Spin,Wir Miecza,Giro de espada,"client: skill tooltip, skill name (skill 2)",done
+c:skilldesc:2:3,Sword Dance,Taniec Miecza,Danza de espada,"client: skill tooltip, skill name (M) (skill 2)",done
+c:skilldesc:2:4,Cyclone,Cyklon,Ciclón,"client: skill tooltip, skill name (G/P) (skill 2)",done
+c:skilldesc:2:5,Spin the sword to attack several enemies.,Wiruj mieczem aby atakować wielu przeciwników,Gira la espada para atacar a varios enemigos.,"client: skill tooltip, description (skill 2)",done
+c:skilldesc:2:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Ataque frontal de área,"client: skill tooltip, condition 1 (skill 2)",done
+c:skilldesc:2:7,Attack on Multiple Targets,Atak w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 2)",done
+c:skilldesc:2:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 2) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:3:2,Berserk,Berserk,Berserk,"client: skill tooltip, skill name (skill 3)",check
+c:skilldesc:3:3,Fury,Furia,Furia,"client: skill tooltip, skill name (M) (skill 3)",done
+c:skilldesc:3:4,Frenzy,Szał,Frenesí,"client: skill tooltip, skill name (G/P) (skill 3)",done
+c:skilldesc:3:5,Only concentrate on attacking.,Koncentracja tylko na ataku,Concéntrate únicamente en atacar.,"client: skill tooltip, description (skill 3)",done
+c:skilldesc:3:6,Increases Attack Speed,Zwiększa Szybkość Ataku,Aumenta la velocidad de ataque,"client: skill tooltip, condition 1 (skill 3)",done
+c:skilldesc:3:7,Increases Moving Speed,Zwiększa Szybkość Ruchu,Aumenta la velocidad de movimiento,"client: skill tooltip, condition 2 (skill 3)",done
+c:skilldesc:3:8,Increases Received Damage,Zwiększa otrzymywane obrażenia,Aumenta el daño recibido,"client: skill tooltip, condition 3 (skill 3)",done
+c:skilldesc:3:17,Attack Speed +%.0f%%,Szybkość Ataku +%.0f%%,Velocidad de ataque +%.0f%%,"client: skill tooltip, effect line 1 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:3:20,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%%,Velocidad de movimiento +%.0f%%,"client: skill tooltip, effect line 2 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:3:23,Received Damage +%.0f%%,Otrzymywane obrażenia +%.0f%%,Daño recibido +%.0f%%,"client: skill tooltip, effect line 3 (skill 3) | keep: %.0f | max 64 characters",done
+c:skilldesc:4:2,Aura of the Sword,Aura Miecza,Aura de Espada,"client: skill tooltip, skill name (skill 4)",done
+c:skilldesc:4:3,Spiritual Sword,Duchowy Miecz,Espada Espiritual,"client: skill tooltip, skill name (M) (skill 4)",done
+c:skilldesc:4:4,Phantom Sword,Miecz Zjawy,Espada Fantasma,"client: skill tooltip, skill name (G/P) (skill 4)",done
+c:skilldesc:4:5,Increases Attack Power for a period of time.,Czasowo zwiększa Siłę Ataku,Aumenta el poder de ataque por un periodo de tiempo.,"client: skill tooltip, description (skill 4)",done
+c:skilldesc:4:6,Increases Attack Power,Zwiększa Siłę Ataku,Aumenta el poder de ataque,"client: skill tooltip, condition 1 (skill 4)",done
+c:skilldesc:4:17,Attack Power +%.0f,Siła Ataku +%.0f,Poder de ataque +%.0f,"client: skill tooltip, effect line 1 (skill 4) | keep: %.0f | max 64 characters",done
+c:skilldesc:5:2,Dash,Szarża,Carga,"client: skill tooltip, skill name (skill 5)",done
+c:skilldesc:5:3,Bullet Dash,Uderzenie Pocisku,Embestida de bala,"client: skill tooltip, skill name (M) (skill 5)",done
+c:skilldesc:5:4,Powerful Attack,Potężny Atak,Ataque poderoso,"client: skill tooltip, skill name (G/P) (skill 5)",done
+c:skilldesc:5:5,You attack as fast as a Bullet,Twój atak jest szybki jak pocisk,Atacas tan rápido como una bala,"client: skill tooltip, description (skill 5)",done
+c:skilldesc:5:6,Powerful Splash Attack,Potężny atak rozpryskowy,Ataque poderoso de área,"client: skill tooltip, condition 1 (skill 5)",done
+c:skilldesc:5:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 5) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:5:20,Faint Chance +%.0f%%,Szansa na omdlenie +%.0f%%,Probabilidad de desmayo +%.0f%%,"client: skill tooltip, effect line 2 (skill 5) | keep: %.0f | max 64 characters",done
+c:skilldesc:16:2,Spirit Strike (W),Duchowe Uderzenie,Golpe espiritual (W),"client: skill tooltip, skill name (skill 16)",done
+c:skilldesc:16:3,Shockwave,Fala Uderzeniowa,Onda de choque,"client: skill tooltip, skill name (M) (skill 16)",done
+c:skilldesc:16:4,Tsunami Attack,Atak Tsunami,Ataque tsunami,"client: skill tooltip, skill name (G/P) (skill 16)",done
+c:skilldesc:16:5,Attack enemies directly.,Atakuje centralnie wrogów,Ataca a los enemigos directamente.,"client: skill tooltip, description (skill 16)",done
+c:skilldesc:16:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Ataque frontal de área,"client: skill tooltip, condition 1 (skill 16)",done
+c:skilldesc:16:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 16) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:17:2,Bash,Walnięcie,Golpe de espada,"client: skill tooltip, skill name (skill 17)",done
+c:skilldesc:17:3,Tiger Bash,Tygrysie walnięcie,Golpe del Tigre,"client: skill tooltip, skill name (M) (skill 17)",done
+c:skilldesc:17:4,Dragon Bash,Smocze Powalenie,Golpe del Dragón,"client: skill tooltip, skill name (G/P) (skill 17)",done
+c:skilldesc:17:5,Attack enemies directly.,Atakuje centralnie wrogów,Ataca a los enemigos directamente.,"client: skill tooltip, description (skill 17)",done
+c:skilldesc:17:6,Straight Splash Attack,Prosty rozpryskowy atak,Ataque frontal directo de área,"client: skill tooltip, condition 1 (skill 17)",done
+c:skilldesc:17:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 17)",done
+c:skilldesc:17:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 17) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:18:2,Stump,Tąpnięcie,Pisada,"client: skill tooltip, skill name (skill 18)",done
+c:skilldesc:18:3,Lion Stump,Tąpnięcia Lwa,Pisada de León,"client: skill tooltip, skill name (M) (skill 18)",done
+c:skilldesc:18:4,Rhino Stump ,Tąpnięcie Nosorożca,Pisada de Rinoceronte,"client: skill tooltip, skill name (G/P) (skill 18)",done
+c:skilldesc:18:5,Knock over several enemies.,Zwal z nóg kilku wrogów.,Derriba a varios enemigos.,"client: skill tooltip, description (skill 18)",done
+c:skilldesc:18:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Ataque frontal de área,"client: skill tooltip, condition 1 (skill 18)",done
+c:skilldesc:18:7,Fainting Effect Chance,Szansa na Omdlenie,Probabilidad de efecto de desmayo,"client: skill tooltip, condition 2 (skill 18)",done
+c:skilldesc:18:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 18) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:18:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Probabilidad de desmayo %.0f%%,"client: skill tooltip, effect line 2 (skill 18) | keep: %.0f | max 64 characters",done
+c:skilldesc:19:2,Strong Body,Silne Ciało,Cuerpo Fuerte,"client: skill tooltip, skill name (skill 19)",done
+c:skilldesc:19:3,Iron Body,Żelazne Ciało,Cuerpo de Hierro,"client: skill tooltip, skill name (M) (skill 19)",done
+c:skilldesc:19:4,Steel Body,Stalowe Ciało,Cuerpo de Acero,"client: skill tooltip, skill name (G/P) (skill 19)",done
+c:skilldesc:19:5,Increases defence and you won't fall on the ground.,Zwiększa Obronę i pomaga wygrać,Aumenta la defensa y no caerás al suelo.,"client: skill tooltip, description (skill 19)",done
+c:skilldesc:19:6,Increases Defence,Zwiększa Obronę,Aumenta la defensa,"client: skill tooltip, condition 1 (skill 19)",done
+c:skilldesc:19:7,Decreases Moving Speed.,Zmniejsza Szybkość Ruchu,Reduce la velocidad de movimiento.,"client: skill tooltip, condition 2 (skill 19)",done
+c:skilldesc:19:8,You won't fall over,Nigdy nie upadasz,No te caerás al suelo,"client: skill tooltip, condition 3 (skill 19)",done
+c:skilldesc:19:17,Defence: +%.0f ,Obrona: +%.0f,Defensa: +%.0f,"client: skill tooltip, effect line 1 (skill 19) | keep: %.0f | max 64 characters",done
+c:skilldesc:20:2,Sword Strike,Uderzenie Miecza,Golpe de espada,"client: skill tooltip, skill name (skill 20)",done
+c:skilldesc:20:3,Sword Bolt ,Pchnięcie Miecza,Flecha de espada,"client: skill tooltip, skill name (M) (skill 20)",done
+c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Lanzamiento de espada,"client: skill tooltip, skill name (G/P) (skill 20)",done
+c:skilldesc:20:5,Attack enemies directly.,atakujesz wrogów bezpośrednio,Ataca a los enemigos directamente.,"client: skill tooltip, description (skill 20)",done
+c:skilldesc:20:6,Long-Range Attack,Atak z dystansu,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 20)",done
+c:skilldesc:20:7,Attack on multiple targets,Atak skierowany na kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 20)",done
+c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Efecto de desmayo|Derriba al objetivo al suelo.,"client: skill tooltip, condition 3 (skill 20)",done
+c:skilldesc:20:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 20) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:20:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Probabilidad de desmayo %.0f%%,"client: skill tooltip, effect line 2 (skill 20) | keep: %.0f | max 64 characters",done
+c:skilldesc:31:2,Ambush,Zasadzka,Emboscada,"client: skill tooltip, skill name (skill 31)",done
+c:skilldesc:31:3,Stealth Attack,Niewidzialny Atak,Ataque sigiloso,"client: skill tooltip, skill name (M) (skill 31)",done
+c:skilldesc:31:4,Stealth Ambush,Niewidzialna Zasadzka,Emboscada sigilosa,"client: skill tooltip, skill name (G/P) (skill 31)",done
+c:skilldesc:31:5,Approach an enemy from behind and make a deadly attack.,Podejdź wroga od tyłu i zadaj śmiertelny cios.,Acércate a un enemigo desde atrás y realiza un ataque mortal.,"client: skill tooltip, description (skill 31)",done
+c:skilldesc:31:6,Attack Power increases for back hits.,"Siła ataku jest większa, jeśli cios zadano w plecy",El poder de ataque aumenta para golpes por la espalda.,"client: skill tooltip, condition 1 (skill 31)",done
+c:skilldesc:31:7,Stealth Bonus,Bonus od Niewidzialności,Bonificación por sigilo,"client: skill tooltip, condition 2 (skill 31)",done
+c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,El nivel prolonga Sed de sangre|Activa Sed de sangre,"client: skill tooltip, condition 3 (skill 31)",done
+c:skilldesc:31:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 31) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:31:20,Bloodthirst: dagger damage against monsters +%.0f,Żądza Krwi: obraż. sztyletów w potwory +%.0f,Sed de sangre: daño de daga contra monstruos +%.0f,"client: skill tooltip, effect line 2 (skill 31) | keep: %.0f | max 64 characters",done
+c:skilldesc:31:23,Bonus per stack (max. 2x): +%.0f,Premia za stack (max 2x): +%.0f,Bonificación por acumulación (máx. 2x): +%.0f,"client: skill tooltip, effect line 3 (skill 31) | keep: %.0f | max 64 characters",done
+c:skilldesc:31:26,Bloodthirst Duration: %.0f Sec.,Czas trwania Żądzy Krwi: %.0f Sek.,Duración de Sed de sangre: %.0f seg.,"client: skill tooltip, effect line 4 (skill 31) | keep: %.0f | max 64 characters",done
+c:skilldesc:32:2,Fast Attack,Szybki Atak,Ataque rápido,"client: skill tooltip, skill name (skill 32)",done
+c:skilldesc:32:3,Body Relocation,Przemieszczanie Ciała,Reubicación corporal,"client: skill tooltip, skill name (M) (skill 32)",done
+c:skilldesc:32:4,Death Strike,Cios Śmierci,Golpe mortal,"client: skill tooltip, skill name (G/P) (skill 32)",done
+c:skilldesc:32:5,Approach an enemy fast and make a deadly attack.,Podejdź wroga szybko i zadaj śmiertelny cios,Acércate a un enemigo rápidamente y realiza un ataque mortal.,"client: skill tooltip, description (skill 32)",done
+c:skilldesc:32:6,Teleport Attack,Atak teleportacyjny,Ataque con teletransporte,"client: skill tooltip, condition 1 (skill 32)",done
+c:skilldesc:32:7,Stealth Bonus,Bonus od niewidzialności,Bonificación por sigilo,"client: skill tooltip, condition 2 (skill 32)",done
+c:skilldesc:32:8,Root holds the target in place for up to 2 sec.,Uziemienie unieruchamia cel do 2 sek.,Raíz retiene al objetivo en el sitio hasta por 2 segundos.,"client: skill tooltip, condition 3 (skill 32)",done
+c:skilldesc:32:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 32) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:32:20,Root Chance %.0f%%,Szansa na Uziemienie %.0f%%,Probabilidad de Raíz %.0f%%,"client: skill tooltip, effect line 2 (skill 32) | keep: %.0f | max 64 characters",done
+c:skilldesc:33:2,Rolling Dagger,Wirujący Sztylet,Daga rodante,"client: skill tooltip, skill name (skill 33)",done
+c:skilldesc:33:3,Spinning Dagger,Krążący Sztylet,Daga giratoria,"client: skill tooltip, skill name (M) (skill 33)",done
+c:skilldesc:33:4,Dancing Dagger,Tańczący Sztylet,Daga danzante,"client: skill tooltip, skill name (G/P) (skill 33)",done
+c:skilldesc:33:5,Whirl around enemies with a dagger.,Wiruj między wrogami ze sztyletem,Gira alrededor de los enemigos con una daga.,"client: skill tooltip, description (skill 33)",done
+c:skilldesc:33:6,Splash Attack,Atak rozpryskowy,Ataque de área,"client: skill tooltip, condition 1 (skill 33)",done
+c:skilldesc:33:7,Lasting Poison Attack,Atak czasowy trucizną,Ataque de veneno duradero,"client: skill tooltip, condition 2 (skill 33)",done
+c:skilldesc:33:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 33) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:33:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Probabilidad de envenenamiento %.0f%%,"client: skill tooltip, effect line 2 (skill 33) | keep: %.0f | max 64 characters",done
+c:skilldesc:34:2,Stealth,Krycie Się,Camuflaje,"client: skill tooltip, skill name (skill 34)",done
+c:skilldesc:34:3,Silent Walk,Cichy Chód,Caminar silencioso,"client: skill tooltip, skill name (M) (skill 34)",done
+c:skilldesc:34:4,Cloaking,Maskowanie,Ocultamiento,"client: skill tooltip, skill name (G/P) (skill 34)",done
+c:skilldesc:34:5,You can hide yourself.,Możesz się ukryć.,Puedes esconderte de la vista.,"client: skill tooltip, description (skill 34)",done
+c:skilldesc:34:6,Stops attacks when used.,"Zatrzymuje ataki, gdy użyty",Detiene los ataques al utilizarse.,"client: skill tooltip, condition 1 (skill 34)",done
+c:skilldesc:34:17,Ambush Bonus Damage: %.0f%% ,Bonus do obrażeń podczas zasadzki %.0f%%,Daño extra de Emboscada: %.0f%%,"client: skill tooltip, effect line 1 (skill 34) | keep: %.0f | max 64 characters",done
+c:skilldesc:35:2,Poisonous Cloud,Trująca Chmura,Nube tóxica,"client: skill tooltip, skill name (skill 35)",done
+c:skilldesc:35:3,Deadly Cloud,Śmiercionośna Chmura,Nube mortal,"client: skill tooltip, skill name (M) (skill 35)",done
+c:skilldesc:35:4,Killing Cloud,Zabójcza Chmura,Nube asesina,"client: skill tooltip, skill name (G/P) (skill 35)",done
+c:skilldesc:35:5,Make poisonous clouds around the enemy and intoxicate them.,Stwórz trującą chmurę wokół wrogów i otruj ich,Crea nubes venenosas alrededor del enemigo para intoxicarlo.,"client: skill tooltip, description (skill 35)",done
+c:skilldesc:35:6,Long Range Attack,Atak zasięgowy,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 35)",done
+c:skilldesc:35:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 35)",done
+c:skilldesc:35:8,Lasting Poison Attack,Atak czasowy Trucizną,Ataque de veneno duradero,"client: skill tooltip, condition 3 (skill 35)",done
+c:skilldesc:35:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 35) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:35:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Probabilidad de envenenamiento %.0f%%,"client: skill tooltip, effect line 2 (skill 35) | keep: %.0f | max 64 characters",done
+c:skilldesc:46:2,Repetitive Shot,Powtarzalny Strzał,Disparo repetitivo,"client: skill tooltip, skill name (skill 46)",done
+c:skilldesc:46:3,Multi-Shot,Multi-Strzał,Disparo múltiple,"client: skill tooltip, skill name (M) (skill 46)",done
+c:skilldesc:46:4,Massive Shot,Masywny Strzał,Disparo masivo,"client: skill tooltip, skill name (G/P) (skill 46)",done
+c:skilldesc:46:5,Shoot several arrows at one enemy.,Miotaj kilka strzał naraz w twojego wroga.,Dispara varias flechas a un solo enemigo.,"client: skill tooltip, description (skill 46)",done
+c:skilldesc:46:6,Long-Range Attack,Atak z dystansu,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 46)",done
+c:skilldesc:46:7,Several Attacks,Kilka Ataków,Múltiples ataques,"client: skill tooltip, condition 2 (skill 46)",done
+c:skilldesc:46:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory)|Powala cel na ziemie,Ataque a múltiples objetivos (monstruos),"client: skill tooltip, condition 3 (skill 46)",done
+c:skilldesc:46:17,Attack Power (1 arrow) %.0f-%.0f ,Siła ataku (1 strzał) %.0f-%.0f,Poder de ataque (1 flecha) %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 46) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:46:20,shot arrows: %.0f,Wystrzelone strzały: %.0f ,flechas disparadas: %.0f,"client: skill tooltip, effect line 2 (skill 46) | keep: %.0f | max 64 characters",done
+c:skilldesc:46:23,Chance of Piercing Shot +%.0f%%,Szansa na przeszywający strzał +%.0f%%,Probabilidad de disparo de penetración +%.0f%%,"client: skill tooltip, effect line 3 (skill 46) | keep: %.0f | max 64 characters",done
+c:skilldesc:47:2,Spark,Iskrzące Uderzenie,Destello,"client: skill tooltip, skill name (skill 47)",done
+c:skilldesc:47:3,Light Beam,Snop Światła,Rayo de luz,"client: skill tooltip, skill name (M) (skill 47)",done
+c:skilldesc:47:4,Lightning Blast,Błyskawica,Ráfaga de relámpago,"client: skill tooltip, skill name (G/P) (skill 47)",done
+c:skilldesc:47:5,You cause heavy damage to your opponent by suddenly radiating light.,Zrań przeciwnika za pomocą promienia świetlnego.,Causas un daño grave a tu oponente al irradiar luz repentinamente.,"client: skill tooltip, description (skill 47)",done
+c:skilldesc:47:6,Area of Effect,Obszar Efektu,Área de efecto,"client: skill tooltip, condition 1 (skill 47)",done
+c:skilldesc:47:7,Fainting Effect Chance,Szansa na Omdlenie,Probabilidad de efecto de desmayo,"client: skill tooltip, condition 2 (skill 47)",done
+c:skilldesc:47:8,Knockback,Odrzut,Retroceso (Knockback),"client: skill tooltip, condition 3 (skill 47)",done
+c:skilldesc:47:17,Attack Power %.0f-%.0f,Siła Ataku: %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 47) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:47:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Probabilidad de desmayo: %.0f%%,"client: skill tooltip, effect line 2 (skill 47) | keep: %.0f | max 64 characters",done
+c:skilldesc:48:2,Fire Arrow,Ognista Strzała,Flecha de fuego,"client: skill tooltip, skill name (skill 48)",done
+c:skilldesc:48:3,Burning Arrow,Płonąca Strzała,Flecha ardiente,"client: skill tooltip, skill name (M) (skill 48)",done
+c:skilldesc:48:4,Flame Arrow,Strzała Lawy,Flecha de llama,"client: skill tooltip, skill name (G/P) (skill 48)",done
+c:skilldesc:48:5,Ignite the arrow.,Podpala strzałę,Enciende la flecha.,"client: skill tooltip, description (skill 48)",done
+c:skilldesc:48:6,Long Range Attack,Atak zasięgowy,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 48)",done
+c:skilldesc:48:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 48)",done
+c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Ataque de fuego|Derriba monstruos al suelo.|Probabilidad de desmayo de monstruo,"client: skill tooltip, condition 3 (skill 48)",done
+c:skilldesc:48:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 48) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:48:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Probabilidad de fuego duradero %.0f%%,"client: skill tooltip, effect line 2 (skill 48) | keep: %.0f | max 64 characters",done
+c:skilldesc:48:23,Damage against Bosses/Mini-Bosses/Metins +%.0f%%,Obr. Metiny/Bossy/MiniBossy +%.0f%%,Daño contra Jefes/Mini-Jefes/Metins +%.0f%%,"client: skill tooltip, effect line 3 (skill 48) | keep: %.0f | max 64 characters",done
+c:skilldesc:49:2,Feather Walk,Bezszelestny Chód,Caminar de pluma,"client: skill tooltip, skill name (skill 49)",done
+c:skilldesc:49:3,Wind Walk,Chód Wiatru,Caminar del viento,"client: skill tooltip, skill name (M) (skill 49)",done
+c:skilldesc:49:4,God's speed,Chód Boga,Velocidad divina,"client: skill tooltip, skill name (G/P) (skill 49)",done
+c:skilldesc:49:5,Make your body lighter to increase moving speed.,"Zmniejsza wagę ciała, aby zwiększyć szybkość",Vuelve tu cuerpo más ligero para aumentar la velocidad de movimiento.,"client: skill tooltip, description (skill 49)",done
+c:skilldesc:49:6,Increases moving speed,Zwiększa Szybkośc Ruchu,Aumenta la velocidad de movimiento,"client: skill tooltip, condition 1 (skill 49)",done
+c:skilldesc:49:7,Increases Endurance regeneration in combat,Zwiększa regenerację staminy w walce,Aumenta la regeneración de resistencia en combate,"client: skill tooltip, condition 2 (skill 49)",done
+c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,Los monstruos más débiles no escuchan tus pasos|Aumenta la velocidad máxima de movimiento a 220.,"client: skill tooltip, condition 3 (skill 49)",done
+c:skilldesc:49:17,Moving Speed +%.0f ,Szybkość Ruchu +%.0f,Velocidad de movimiento +%.0f,"client: skill tooltip, effect line 1 (skill 49) | keep: %.0f | max 64 characters",done
+c:skilldesc:50:2,Poison Arrow,Trująca Strzała,Flecha venenosa,"client: skill tooltip, skill name (skill 50)",done
+c:skilldesc:50:3,Toxic Arrow,Toksyczna Strzała,Flecha tóxica,"client: skill tooltip, skill name (M) (skill 50)",done
+c:skilldesc:50:4,Deadly Arrow,Śmiercionośna Strzała,Flecha mortal,"client: skill tooltip, skill name (G/P) (skill 50)",done
+c:skilldesc:50:5,Coat the arrow with powerful poison.,Nasącz strzałę silną trucizną.,Cubre la flecha con un poderoso veneno.,"client: skill tooltip, description (skill 50)",done
+c:skilldesc:50:6,Long-Range Attack,Atak na odległość,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 50)",done
+c:skilldesc:50:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 50)",done
+c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Ataque de veneno duradero|Derriba al objetivo al suelo.|Probabilidad de desmayo de monstruo,"client: skill tooltip, condition 3 (skill 50)",done
+c:skilldesc:50:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 50) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:50:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Probabilidad de envenenamiento %.0f%%,"client: skill tooltip, effect line 2 (skill 50) | keep: %.0f | max 64 characters",done
+c:skilldesc:50:23,Faint Chance +%.0f%%,Szansa na omdlenie +%0.f%%,Probabilidad de desmayo +%.0f%%,"client: skill tooltip, effect line 3 (skill 50) | keep: %.0f | max 64 characters",done
+c:skilldesc:51:2,Arrow Shower,Deszcz Strzał,Lluvia de flechas,"client: skill tooltip, skill name (skill 51)",done
+c:skilldesc:51:3,Dynamic Arrow,Mrowie Strzał,Flecha dinámica,"client: skill tooltip, skill name (M) (skill 51)",done
+c:skilldesc:51:4,Arrow Rain,Prysznic Strzał,Tormenta de flechas,"client: skill tooltip, skill name (G/P) (skill 51)",done
+c:skilldesc:51:5,Shoot several arrows at several enemies. ,Miotaj kilka strzał w kilku wrogów.,Dispara varias flechas a varios enemigos.,"client: skill tooltip, description (skill 51)",done
+c:skilldesc:51:6,Long-Range Attack,Atak z dystansu,Ataque a larga distancia,"client: skill tooltip, condition 1 (skill 51)",done
+c:skilldesc:51:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a múltiples objetivos,"client: skill tooltip, condition 2 (skill 51)",done
+c:skilldesc:51:17,Attack Power %.0f-%0.f ,Siła Ataku %.0f-%0.f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 51) | keep: %.0f %0.f | max 64 characters",done
+c:skilldesc:51:20,Max. number of targets: %.0f,Maks. ilość celów: %.0f,Cantidad máx. de objetivos: %.0f,"client: skill tooltip, effect line 2 (skill 51) | keep: %.0f | max 64 characters",done
+c:skilldesc:61:2,Finger Strike,Uderzenie Palcem,Golpe de dedo,"client: skill tooltip, skill name (skill 61)",done
+c:skilldesc:61:3,Burning Finger Strike,Uderzenie Płonącego Palca,Golpe de dedo ardiente,"client: skill tooltip, skill name (M) (skill 61)",done
+c:skilldesc:61:4,Finger Explosion ,Eksplozja Palca,Explosión de dedo,"client: skill tooltip, skill name (G/P) (skill 61)",done
+c:skilldesc:61:5,Cause a big explosion with your fingertips. ,Stwórz dużą eksplozję swoimi koniuszkami palców.,Causa una gran explosión con las yemas de tus dedos.,"client: skill tooltip, description (skill 61)",done
+c:skilldesc:61:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Ataque frontal de área,"client: skill tooltip, condition 1 (skill 61)",done
+c:skilldesc:61:7,Opponent's defence is ignored,Ignoruje obronę wroga,Se ignora la defensa del oponente,"client: skill tooltip, condition 2 (skill 61)",done
+c:skilldesc:61:8,Intelligence Bonus,Bonus od Inteligencji,Bonificación por Inteligencia,"client: skill tooltip, condition 3 (skill 61)",done
+c:skilldesc:61:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 61) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:61:20,Chance of Piercing Hit %.0f%%,Szansa na cios przebicia %.0f%%,Probabilidad de golpe de penetración %.0f%%,"client: skill tooltip, effect line 2 (skill 61) | keep: %.0f | max 64 characters",done
+c:skilldesc:61:23,Faint Chance +%0.f%%,Szansa na omdlenie +%0.f%%,Probabilidad de desmayo +%.0f%%,"client: skill tooltip, effect line 3 (skill 61) | keep: %0.f | max 64 characters",done
+c:skilldesc:62:2,Dragon Swirl ,Smoczy Wir,Disparo Dragón,"client: skill tooltip, skill name (skill 62)",done
+c:skilldesc:62:3,Tornado Swirl ,Wir Tornada,Giro de tornado,"client: skill tooltip, skill name (M) (skill 62)",done
+c:skilldesc:62:4,Whirlwind,Trąba Powietrzna,Remolino,"client: skill tooltip, skill name (G/P) (skill 62)",done
+c:skilldesc:62:5,Create a strong tornado to defeat several enemies.,"Stwórz potężne tornado, aby pokonać kilku wrogów",Crea un poderoso tornado para derrotar a varios enemigos.,"client: skill tooltip, description (skill 62)",done
+c:skilldesc:62:6,Splash Attack,Atak rozpryskowy,Ataque de área,"client: skill tooltip, condition 1 (skill 62)",done
+c:skilldesc:62:7,Opponent's escape is ignored,Ignoruje ucieczkę wroga,Se ignora la evasión del oponente,"client: skill tooltip, condition 2 (skill 62)",done
+c:skilldesc:62:8,Intelligence Bonus,Bonus od Inteligencji,Bonificación por Inteligencia,"client: skill tooltip, condition 3 (skill 62)",done
+c:skilldesc:62:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 62) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:62:20,Chance to ignore an opponent's escape %.0f%%,Szansa na Ignorowanie ucieczki wroga %.0f%%,Probabilidad de ignorar la evasión del oponente %.0f%%,"client: skill tooltip, effect line 2 (skill 62) | keep: %.0f | max 64 characters",done
+c:skilldesc:63:2,Enchanted Blade ,Czarowane Ostrze,Hoja Encantada,"client: skill tooltip, skill name (skill 63)",done
+c:skilldesc:63:3,Enchanted Sword,Czarowany Miecz,Espada Encantada,"client: skill tooltip, skill name (M) (skill 63)",done
+c:skilldesc:63:4,Ghost Blade,Duchowe Ostrze,Hoja Fantasma,"client: skill tooltip, skill name (G/P) (skill 63)",done
+c:skilldesc:63:5,Endow your blade with a powerful ghost.,Wzmocnij swoje ostrze potężnym duchem.,Dota a tu hoja con un poderoso espíritu.,"client: skill tooltip, description (skill 63)",done
+c:skilldesc:63:6,Increases Attack Power,Zwiększa Siłę Ataku,Aumenta el poder de ataque,"client: skill tooltip, condition 1 (skill 63)",done
+c:skilldesc:63:7,Intelligence Bonus,Bonus od Inteligencji,Bonificación por Inteligencia,"client: skill tooltip, condition 2 (skill 63)",done
+c:skilldesc:63:8,Steal Life from target,Kradzież życia,Roba vida del objetivo,"client: skill tooltip, condition 3 (skill 63)",done
+c:skilldesc:63:17,Attack Power +%.1f ,Siła Ataku +%.0f,Poder de ataque +%.1f,"client: skill tooltip, effect line 1 (skill 63) | keep: %.1f | max 64 characters",done
+c:skilldesc:63:20,Life thief: %.0f%% of damage,Złodziej życia: %.0f%% obrażeń,Ladrón de vida: %.0f%% del daño,"client: skill tooltip, effect line 2 (skill 63) | keep: %.0f | max 64 characters",done
+c:skilldesc:64:2,Fear,Strach,Miedo,"client: skill tooltip, skill name (skill 64)",done
+c:skilldesc:64:3,Great Fear,Wielki Strach,Gran miedo,"client: skill tooltip, skill name (M) (skill 64)",done
+c:skilldesc:64:4,Terror,Terror,Terror,"client: skill tooltip, skill name (G/P) (skill 64)",check
+c:skilldesc:64:5,Weakens the enemies abilities,"Zmniejsza umiejętności wroga, który cię atakuje",Debilita las facultades de los enemigos,"client: skill tooltip, description (skill 64)",done
+c:skilldesc:64:6,Decreases the opponent's Attack Power,Zmniejsza siłę ataku przeciwnika,Reduce el poder de ataque del oponente,"client: skill tooltip, condition 1 (skill 64)",done
+c:skilldesc:64:7,Increase chance that opponents miss the target,"Zwiększa szansę, że przeciwnik nie trafi w cel",Aumenta la probabilidad de que los oponentes fallen el objetivo,"client: skill tooltip, condition 2 (skill 64)",done
+c:skilldesc:64:8,It's only activated when you get a hit,"Aktywowane tylko wtedy, gdy zostaniesz trafiony",Solo se activa cuando recibes un golpe,"client: skill tooltip, condition 3 (skill 64)",done
+c:skilldesc:64:17,Opponent Attack Power -%.0f%%,Siła ataku wroga -%.0f%%,Poder de ataque del oponente -%.0f%%,"client: skill tooltip, effect line 1 (skill 64) | keep: %.0f | max 64 characters",done
+c:skilldesc:64:20,Opponent Miss Chance %.0f%%,Niepowodzenia przeciwnika %.0f%%,Probabilidad de fallo del oponente %.0f%%,"client: skill tooltip, effect line 2 (skill 64) | keep: %.0f | max 64 characters",done
+c:skilldesc:65:2,Enchanted Armour ,Czarowana Zbroja,Armadura Encantada,"client: skill tooltip, skill name (skill 65)",done
+c:skilldesc:65:3,Stronger Enchanted Armour,Silniejsza Czarowana Zbroja,Armadura Encantada fuerte,"client: skill tooltip, skill name (M) (skill 65)",done
+c:skilldesc:65:4,Armour of Darkness,Zbroja Ciemności,Armadura de la oscuridad,"client: skill tooltip, skill name (G/P) (skill 65)",done
+c:skilldesc:65:5,Protect your body with dark armour. ,Chroń swoje ciało mrocznym pancerzem.,Protege tu cuerpo con una armadura oscura.,"client: skill tooltip, description (skill 65)",done
+c:skilldesc:65:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Refleja el daño de vuelta al atacante,"client: skill tooltip, condition 1 (skill 65)",done

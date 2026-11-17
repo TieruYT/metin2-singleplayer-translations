@@ -86,7 +86,7 @@ c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE1,Give it to Yu-Hwan,Daj to Yu-Hwan'owi,
 c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE2,to get an,aby dostać,karşılığında,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE3,improved Knife.,ulepszony Nóż.,geliştirilmiş Bıçak al.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ITEM_QUALITY,Quality +%d%%,Jakość +%d%%,Kalite +%%%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAGIC_BONUS_SP,Bonus SP: %d ,Bonusowe PE: %d ,Bonus SP: %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_BONUS_SP,Bonus SP: %d ,Bonusowe PE: %d ,Bonus SP: %d ,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS,Magic damage against monsters +%d%% ,Magiczne Obrażenia w potwory +%d%% ,Canavarlara karşı büyü hasarı +%%%d ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS_PC,Magic damage bonus +%d%% ,Bonus Magicznych obrażeń +%d%% ,Büyü hasarı bonusu +%%%d ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_OPEN_SHOP_REQ_LEVEL,Level 15 required.,Wymagany 15 poziom.,15. seviye gerekli.,client: game texts (localeInfo),done
@@ -117,7 +117,7 @@ c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Güç İksiri,
 c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Dayanıklılık Yenileme İksiri,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Beceri yüklenme süresi %%%d kısalır ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Eşya türü: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
 c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,Kod zaten kullanıldı.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Geçersiz kod.,client: game texts (localeInfo),done
@@ -129,10 +129,10 @@ c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom
 c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Engeli kaldır,client: game texts (localeInfo),done
 c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,1 dakikadan az.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CLASS,Class:,,Sınıf:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Statü puanı:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Beceri puanı:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Destek becerisi puanı:,client: game texts (localeInfo),done
@@ -319,7 +319,7 @@ c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Depo,client: game texts (local
 c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Yongbi Çölü,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Seungryong Vadisi,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Sohan Dağı,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Örümcek Zindanı 1,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Örümcek Zindanı 2,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Kolay Maymun Zindanı,client: game texts (localeInfo),done
@@ -413,7 +413,7 @@ c:locale_game:GM_PANEL_ADD_GM_NOTE1,Works at once (no server restart) - refreshe
 c:locale_game:GM_PANEL_ADD_GM_NOTE2,on every character already logged in.,,zaten giriş yapmış her karakterde yeniler.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BAD_CHAR_NICK,A forbidden character in the nick.,,Karakter adında yasak bir karakter var.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BAD_RANK,Invalid rank.,,Geçersiz yetki.,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_BOT_ID,Bot ID:,,Bot ID:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_ID,Bot ID:,,Bot ID:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_EMPIRE,Kingdom:,,Krallık:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_REFRESH_LIST,Refresh list,,Listeyi yenile,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_BOTS_TO_SPAWN,Bots to spawn,,Spawn edilecek botlar,client: game texts (localeInfo),done
@@ -578,7 +578,7 @@ c:locale_game:GMP_MENU_SELF,Me (GM),,Ben (GM),client: game texts (localeInfo),do
 c:locale_game:GMP_MENU_WORLD,World & events,,Dünya ve etkinlikler,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ITEMS,Items,,Eşyalar,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Hesaplar,client: game texts (localeInfo),done
-c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
 c:locale_game:GMP_MENU_TELEPORT,Teleport,,Işınlan,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_SERVER,Server,,Sunucu,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_CMDS,GM commands,,GM komutları,client: game texts (localeInfo),done
@@ -603,17 +603,17 @@ c:locale_game:GMP_ONLINE,Online,,Çevrimiçi,client: game texts (localeInfo),don
 c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Çevrimdışı: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_MAP,Map: %s,,Harita: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,HP/SP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Hesap: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,STR %s VIT %s DEX %s INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Statü p. %s, beceri p. %s",client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HORSE,Horse: level %s,,At: seviye %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_RANK,Rank: %s,,Rütbe: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_JOB_WARRIOR,Warrior,,Savaşçı,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
 c:locale_game:GMP_JOB_SHAMAN,Shaman,,Şaman,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOVE,Movement,,Hareket,client: game texts (localeInfo),done
 c:locale_game:GMP_GOTO_PLAYER,Go to,,Yanına git,client: game texts (localeInfo),done
@@ -626,7 +626,7 @@ c:locale_game:GMP_GIVE_ITEM,Give item,,Eşya ver,client: game texts (localeInfo)
 c:locale_game:GMP_SKILLS_M,All to M1,,Tümü M1'e,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_G,All to G1,,Tümü G1'e,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_P,All to P,,Tümü P'ye,client: game texts (localeInfo),done
-c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
 c:locale_game:GMP_VAL_CASH,Dragon Coins,,Ejderha Parası,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_LEVEL,Level,,Seviye,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_RANK,Rank,,Rütbe,client: game texts (localeInfo),done
@@ -686,14 +686,14 @@ c:locale_game:GMP_NOTICE_BIG,Big,,Büyük,client: game texts (localeInfo),done
 c:locale_game:GMP_NOTICE_MAP,This map only,,Yalnızca bu harita,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Duyuru metnini gir,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Etkinlikler (krallık bonusu),client: game texts (localeInfo),done
-c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_HOURS,Hours,,Saat,client: game texts (localeInfo),done
 c:locale_game:GMP_EMPIRE_ALL,All,,Tümü,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_START,Start event,,Etkinliği başlat,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_STOP,Stop events,,Etkinlikleri durdur,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Ek yüzde, örn. 100 = iki katı. Boş/0 = değişmez.",client: game texts (localeInfo),done

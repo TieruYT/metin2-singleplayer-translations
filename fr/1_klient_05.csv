@@ -1,4 +1,5 @@
 id,english,polski,translation,notes,status
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Nous nous excusons pour la gêne occasionnée.,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),Demander un nouveau code (2 fois max.),client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742ATTENTION !|r Contrôle de sécurité !,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,Un Maître du jeu a demandé une vérification.,client: window texts (uiScriptLocale),done
@@ -22,7 +23,7 @@ c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,Saisissez le cod
 c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,Restant : 45s,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,Code :,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,Tentatives restantes : 3,client: window texts (uiScriptLocale),done
-c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Item Shop,client: window texts (uiScriptLocale),check
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,PD,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,MD,client: window texts (uiScriptLocale),done
 c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,Confirmer l'achat,client: window texts (uiScriptLocale),done
@@ -90,13 +91,13 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SEARCH_BUTTON_TEXT,Search,,Rechercher,
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_AUCTION_LIST_BUTTON_TEXT,Auctions,,Enchères,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_BUTTON_TEXT,History,,Historique,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_RESET_FILTER_BUTTON_TEXT,Cancel Filters,,Annuler les filtres,client: offline shop and market,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_HEADER,Type,,Type,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_HEADER,Type,,Type,client: offline shop and market,check
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_HEADER,Sub-type,,Sous-type,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SELECT_AN_ELEMENT,Select...,,Choisir...,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_WEAPON,Weapon,,Arme,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ARMOR,Armor,,Armure,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_JEWEL,Jewel,,Bijou,client: offline shop and market,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_COSTUME,Costume,,Costume,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_COSTUME,Costume,,Costume,client: offline shop and market,check
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_PET,Pet,,Familier,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MOUNT,Mount,,Monture,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ALCHEMY,Alchemy,,Alchimie,client: offline shop and market,done
@@ -139,9 +140,9 @@ c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% ou 
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% ou plus,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% ou plus,client: offline shop and market | keep: % o,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,25% uniquement,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Brillant,client: offline shop and market,done
-c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Rare,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Brillant,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Rare,client: offline shop and market,check
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,Antique,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_LEGENDARY,Legendary,,Légendaire,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_BUY_BUTTON_TEXT,Buy,,Acheter,client: offline shop and market,done
@@ -197,7 +198,7 @@ c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_FULL,Your shopping sa
 c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_RAISE_OVER_YOURSELF,You are already the highest bidder in this auction.,,Vous êtes déjà le meilleur enchérisseur.,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEM_TOOLTIP,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e Buy all those at this price,,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e Tout acheter à ce prix,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEMS_QUESTION,Do you want to buy all |cFFFFFF99|h{}|r sold at |cFFFFFF99|h{}|r?,,Voulez-vous acheter tous les |cFFFFFF99|h{}|r vendus à |cFFFFFF99|h{}|r ?,client: offline shop and market | keep: {}; |c...|r colour codes,done
-c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BOARD_TITLE,Notifications,,Notifications,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BOARD_TITLE,Notifications,,Notifications,client: offline shop and market,check
 c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SOLD_ITEM,You sold |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r.,,Vous avez vendu |cFFFFFF99|h{}|r pour |cFFFFFF99|h{}|r.,client: offline shop and market | keep: {}; |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_NEW_OFFER_ON_ITEM,You have received an offer for |cFFFFFF99|h{}|r.,,Vous avez reçu une offre pour |cFFFFFF99|h{}|r.,client: offline shop and market | keep: {}; |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SHOP_EXPIRED,Your shop has been closed!,,Votre étal a été fermé !,client: offline shop and market,done
@@ -223,7 +224,7 @@ c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to mov
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,Prix moyen : |cFF99FF99|hDemande en cours...|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,Prix moyen : |cFFFF9999|hIndisponible|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,Prix moyen : |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
-c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,check
 c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|hInconnu|r,client: offline shop and market | keep: |c...|r colour codes,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,Décorations d'étal,client: offline shop and market,done
 c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,Décoration d'étal n°{},client: offline shop and market | keep: {},done
@@ -259,8 +260,8 @@ c:wiki_game:WIKI_CHEST_ONE,one at random,losowo jeden,un au hasard,client: the i
 c:wiki_game:WIKI_COMMON_NOTE,"This lists assigned mob drops. Other drops depend on level, rank, quests and world settings.","Lista obejmuje drop przypisany potworowi. Inny drop zależy od poziomu, rangi, zadań i ustawień świata.","Voici les butins attribués aux monstres. Les autres butins dépendent du niveau, du rang, des quêtes et des réglages du monde.",client: the in-game Wiki,done
 c:wiki_game:WIKI_CONTENTS,Contents,Zawartość,Contenu,client: the in-game Wiki,done
 c:wiki_game:WIKI_CONTENT_INFO,Content of %s,Zawartość: %s,Contenu de %s,client: the in-game Wiki | keep: %s,done
-c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Costume,client: the in-game Wiki,done
-c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Costumes,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Costume,client: the in-game Wiki,check
+c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Costumes,client: the in-game Wiki,check
 c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Coiffure,client: the in-game Wiki,done
 c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Écharpe,client: the in-game Wiki,done
 c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki : Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,done
@@ -277,13 +278,13 @@ c:wiki_game:WIKI_DS_STEP,step %d,stopień %d,palier %d,client: the in-game Wiki 
 c:wiki_game:WIKI_EQUIPMENT,Equipment,Ekwipunek,Équipement,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_ARMOR,Armor,Zbroje,Armure,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_BELT,Belt,Pasy,Ceinture,client: the in-game Wiki,done
-c:wiki_game:WIKI_EQUIPMENT_BRACELET,Bracelet,Bransolety,Bracelet,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_BRACELET,Bracelet,Bransolety,Bracelet,client: the in-game Wiki,check
 c:wiki_game:WIKI_EQUIPMENT_EARRING,Earrings,Kolczyki,Boucles d'oreilles,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_HELMET,Helmets,Hełmy,Casques,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_NECKLACE,Necklace,Naszyjniki,Collier,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHIELD,Shields,Tarcze,Boucliers,client: the in-game Wiki,done
 c:wiki_game:WIKI_EQUIPMENT_SHOES,Shoes,Buty,Chaussures,client: the in-game Wiki,done
-c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,check
 c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Armes,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Expérience,client: the in-game Wiki,done
 c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Déplier,client: the in-game Wiki,done
@@ -291,12 +292,12 @@ c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens 
 c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang : %d - %d | EXP : %d,client: the in-game Wiki | keep: %d %d %d,done
 c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,PV max. : %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Infos d'amélioration de %s,client: the in-game Wiki | keep: %s,done
-c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
 c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
 c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Nom de l'objet,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Chamane,client: the in-game Wiki,done
-c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
 c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Guerrier,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Niveau %d,client: the in-game Wiki | keep: %d,done
 c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Niveau %d,client: the in-game Wiki | keep: %d,done
@@ -331,7 +332,7 @@ c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,Coffre,client: the in-game Wiki,don
 c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,Butin selon le rang et le niveau,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,Fabrication,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,Pêche,client: the in-game Wiki,done
-c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
 c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,Monstre,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,Quête ou récompense,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,Raffinage,client: the in-game Wiki,done
@@ -344,21 +345,21 @@ c:wiki_game:WIKI_STATICS_INFO_YNG,Min. Yang:%d | Max. Yang:%d | EXP: %d,Min. Yan
 c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,EXP,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_HP,HP,PŻ,PV,client: the in-game Wiki,done
 c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Niveau,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Sources,client: the in-game Wiki,done
-c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Sources,client: the in-game Wiki,check
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
 c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Systèmes,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
 c:wiki_game:WIKI_TAG_KING,KING,KRÓL,ROI,client: the in-game Wiki,done
-c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
 c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINI-BOSS,client: the in-game Wiki,done
 c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Système Wiki,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Bijoux,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alchimie,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_ARMOR,Equipment,Ekwipunek,Équipement,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_CHEST,Chest,Skrzynia,Coffre,client: the in-game Wiki,done
-c:wiki_game:WIKI_TYPE_COSTUME,Costume,Kostium,Costume,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_COSTUME,Costume,Kostium,Costume,client: the in-game Wiki,check
 c:wiki_game:WIKI_TYPE_QUEST,Quest item,Przedmiot questowy,Objet de quête,client: the in-game Wiki,done
-c:wiki_game:WIKI_TYPE_UNIQUE,Unique,Unikat,Unique,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_UNIQUE,Unique,Unikat,Unique,client: the in-game Wiki,check
 c:wiki_game:WIKI_TYPE_USE,Usable,Używalny,Utilisable,client: the in-game Wiki,done
 c:wiki_game:WIKI_TYPE_WEAPON,Weapon,Broń,Arme,client: the in-game Wiki,done
 c:wiki_game:WIKI_UNAVAILABLE,Wikipedia requires a complete client update.,Wikipedia wymaga pełnej aktualizacji klienta.,Le wiki nécessite une mise à jour complète du client.,client: the in-game Wiki,done
@@ -370,7 +371,7 @@ c:wiki_game:WIKI_UPGRADE_COSTS,Next Item,Następny poziom,Objet suivant,client: 
 c:wiki_game:WIKI_YANG_COSTS,Yang costs,Koszt Yang,Coût en yang,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_NOTE,Chance for a character at most 1 level above the monster.,Szansa dla postaci najwyżej 1 poziom wyżej od potwora.,Chance pour un personnage au plus 1 niveau au-dessus du monstre.,client: the in-game Wiki,done
 c:wiki_game:WIKI_LEVEL_TABLE,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.","Wyżej o 5 poz.: 92%, o 10: 50% (boss, metin: 30%), o 15+: 1%.","5 niveaux au-dessus : 92%, 10 : 50% (boss, Metin : 30%), 15+ : 1%.",client: the in-game Wiki,done
-c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guides,client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guides,client: the in-game Wiki,check
 c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Règles et astuces,client: the in-game Wiki,done
 c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Règles de la bêta locale,client: the in-game Wiki,done
 c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Coiffures,client: the in-game Wiki,done
@@ -383,7 +384,14 @@ c:wiki_game:WIKI_OTHER,Other,Inne,Autre,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Événement serveur (si actif),client: the in-game Wiki,done
 c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Événement Clair de lune : les drops dépendent des réglages de l'événement.,client: the in-game Wiki,done
 c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah : 1 oreille de Tanaka pour 1 coffre en ébène violet.,client: the in-game Wiki,done
-c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:wiki_game:WIKI_FISHING_ANY_ROD,any fishing rod,dowolna wędka,n'importe quelle canne à pêche,client: the in-game Wiki,done
+c:wiki_game:WIKI_FISHING_ROD_OR_BETTER,%s or better,%s lub lepsza,%s ou mieux,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_OR_WEAKER,%s or weaker,%s lub słabsza,%s ou moins,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_FISHING_ROD_RANGE,%s to %s,%s do %s,de %s à %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_BONUS,catch bonus %d or more,premia połowu od %d,bonus de pêche de %d ou plus,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_FISHING_SETUP,Catch bonus = rod + bait; %s with %s is enough.,Premia połowu = wędka + przynęta; wystarczy %s i %s.,Bonus de pêche = canne + appât ; %s avec %s suffit.,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_FISHING_POOL_NOTE,Default pool; a world may have its own fishing settings.,Pula domyślna; świat może mieć własne ustawienia połowu.,Table par défaut ; un monde peut avoir ses propres réglages de pêche.,client: the in-game Wiki,done
+c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,réglages de combat,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,Impossible d'enregistrer le raccourci de la chasse auto.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b6c37aaf88b8,Auto Hunt - toggle on / off,Auto Łowy - włącz / wyłącz,Chasse auto - activer / désactiver,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -432,7 +440,7 @@ c:pbt:8fc208b783fb,Quantity: high to low,Ilosc: malejaco,Quantité : décroissan
 c:pbt:f3eff5cf2cf1,Max. HP,Max PZ,PV max.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8c3e41c399c1,Max. SP,Max PM,PM max.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:636fe3e9cb87,Vitality (VIT),Witalnosc (WIT),Vitalité (VIT),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a7281c4f2ca8,Intelligence (INT),Inteligencja (INT),Intelligence (INT),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7281c4f2ca8,Intelligence (INT),Inteligencja (INT),Intelligence (INT),"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:6094f7875c9b,Strength (STR),Sila (STR),Force (FOR),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8d36f7565c7f,Dexterity (DEX),Zrecznosc (DEX),Dextérité (DEX),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8022d81e1777,Skill damage,Obrazenia umiejetnosci,Dégâts des compétences,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -476,7 +484,21 @@ c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,Résistance : magie,"clien
 c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,Absorption de PV,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:600f7953e765,SP absorption,Kradziez PM,Absorption de PM,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,Bonus de butin de yangs,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:9b0b5a5aca35,Strong against monsters,Bonus vs potwory,Fort contre les monstres,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:befebe89c1fe,Strong against Warriors,Bonus vs Wojownik,Fort contre les guerriers,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2f0b70872a8,Strong against Ninjas,Bonus vs Ninja,Fort contre les ninjas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3e149af80b0,Strong against Suras,Bonus vs Sura,Fort contre les suras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea365cedf015,Strong against Shamans,Bonus vs Szaman,Fort contre les chamans,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:062864d36bdc,Resistance: Warriors,Odpornosc: Wojownik,Résistance : guerriers,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a5ea337bdfd,Resistance: Ninjas,Odpornosc: Ninja,Résistance : ninjas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1756ae438081,Resistance: Suras,Odpornosc: Sura,Résistance : suras,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3dcc671eaf88,Resistance: Shamans,Odpornosc: Szaman,Résistance : chamans,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79507f7119f9,Resistance: fire,Odpornosc: ogien,Résistance : feu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a869ea083a3,Resistance: lightning,Odpornosc: blyskawice,Résistance : foudre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:016c1c54129c,Resistance: wind,Odpornosc: wiatr,Résistance : vent,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b19a20795ce4,Double experience chance,Szansa na podwojny exp,Chance de double expérience,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d827ea154c18,Item drop bonus,Bonus do dropu,Bonus de butin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (max. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",check
 c:pbt:7ceca51fcafe,Buy,Kup,Acheter,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:63fc03bc6359,- none -,- brak -,- aucun -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:96e578211aa2,Filters,Filtry,Filtres,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -511,6 +533,9 @@ c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,Effacer le nom de l'
 c:pbt:56e3badc4e6c,Refresh,Odswiez,Actualiser,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:412226715c56,Clear filters,Wyczysc filtry,Effacer les filtres,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),Animations (activées/désactivées),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98b2e774fca7,"Add to the wish list: the name, the least plus from Filters, ""to:"" a piece","Dodaj do listy zyczen: nazwa, min. plus z Filtrow, ""do:"" za sztuke","Ajouter à la liste de souhaits : le nom, le plus minimum des Filtres, ""à :"" à l'unité","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72856d01751b,WL,LZ,LS,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62784b04f81f,Wish list,Lista zyczen,Liste de souhaits,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c4d63e4c56f1,From:,Od:,De :,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ba1cfdcd865f,to:,do:,à :,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecdda59aea5e,Item,Przedmiot,Objet,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -523,6 +548,7 @@ c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,Sélection : %d | %s,"c
 c:pbt:20b908f50fa9,Buy (%d),Kup (%d),Acheter (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,Acheter toutes les offres sélectionnées,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,Acheter %d offres sélectionnées pour %s ?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:2cbb37b29c96,Bought %d of %d - no room in the inventory.,Kupiono %d z %d - brak miejsca w ekwipunku.,Achetés : %d sur %d - plus de place dans l'inventaire.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,Chargement des offres... %d reçues,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.",%d offres affichées (limite) - affine la recherche pour voir le reste.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),Offres : %d (correspondant aux filtres : %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
@@ -534,9 +560,35 @@ c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wcz
 c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,Peu d'offres - estimation indicative,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,Aucune donnée de prix,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","Échantillon : offres chargées (filtres, limite 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa1c659ef96a,Wish list: type an exact name from the suggestions in the Name field.,Lista zyczen: wpisz w polu Nazwa dokladna nazwe z podpowiedzi.,Liste de souhaits : tapez dans le champ Nom un nom exact parmi les suggestions.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,Acheter %s pour %s ?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
 c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,L'alchimie des Pierres de Dragon a été activée.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,L'alchimie des Pierres de Dragon a été désactivée dans ce monde.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1476e3bb5bb5,%d min ago,%d min temu,il y a %d min,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:58da3110e0aa,%d h ago,%d godz. temu,il y a %d h,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:64e8c23a3eb2,%d d ago,%d dni temu,il y a %d j,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:21fadc2ab284, (+%d or more), (od +%d), (à partir de +%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ab9668847d8c,", up to %s each",", do %s/szt.",", jusqu'à %s l'unité","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f553feb0496a,"%s - %s each, %s, %s","%s - %s/szt., %s, %s","%s - %s l'unité, %s, %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s %s",done
+c:pbt:894ac47dfa47,"Wish list: %s is cheaper now, %s each (sold by %s). Look for it in the Flea Market.","Lista zyczen: potanialo %s, teraz %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.","Liste de souhaits : %s est moins cher maintenant, %s l'unité (vendu par %s). Cherchez-le au Marché aux puces.","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:b7519293d145,Wish list: %s is on the market for %s each (sold by %s). Look for it in the Flea Market.,Lista zyczen: na rynku jest %s za %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.,Liste de souhaits : %s est sur le marché à %s l'unité (vendu par %s). Cherchez-le au Marché aux puces.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:d53aeea37112,Wish list: added %s,Lista zyczen: dodano %s,Liste de souhaits : %s ajouté,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:28b0cab3cbd9,The wish list is full (%d entries). Remove one to add another.,"Lista zyczen jest pelna (%d pozycji). Usun cos, aby dodac nowe.",La liste de souhaits est pleine (%d entrées). Retirez-en une pour en ajouter une autre.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:63f75130b52d,This item cannot be added to the wish list.,Tego przedmiotu nie mozna dodac do listy zyczen.,Cet objet ne peut pas être ajouté à la liste de souhaits.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6a796000188,The Flea Market is switched off in this world.,Dom Towarowy jest wylaczony na tym swiecie.,Le Marché aux puces est désactivé dans ce monde.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f059d5f00cc1,Remove from the list,Usun z listy,Retirer de la liste,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df251b06eefd,Find,Szukaj,Chercher,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b026dcc3771a,Look for it in the Flea Market,Szukaj w Domu Towarowym,Chercher au Marché aux puces,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2422bc09e6de,"To add: type the name in the Flea Market and click ""+"".","Dodaj: wpisz nazwe w Domu Towarowym i kliknij ""+"".","Pour ajouter : tapez le nom au Marché aux puces et cliquez sur ""+"".","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c4367c6352ed,"The least plus comes from Filters, ""to:"" is the highest price a piece.","Najmniejszy plus z Filtrow, ""do:"" to najwyzsza cena za sztuke.","Le plus minimum vient des Filtres, ""à :"" est le prix maximum à l'unité.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d6760f296a78,Clear the hits,Wyczysc trafienia,Effacer les trouvailles,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbfa773e5a63,Close,Zamknij,Fermer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c1fa969b47d,Wanted (%d/%d),Szukane (%d/%d),Recherchés (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:8b6ab2ac369f,Hits of the last 7 days (%d),Trafienia z ostatnich 7 dni (%d),Trouvailles des 7 derniers jours (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b04ba49f8486,Loading...,Wczytywanie...,Chargement...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d18305c15cb,The server does not answer the wish list (an older server?).,Serwer nie odpowiada na liste zyczen (starsza wersja serwera?).,Le serveur ne répond pas à la liste de souhaits (serveur plus ancien ?).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c290077407c,The list is empty.,Lista jest pusta.,La liste est vide.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6c0f1e39d2c,Dragon Flame: could not open the window.,Smoczy Plomien: nie udalo sie otworzyc okna.,Flamme du Dragon : impossible d'ouvrir la fenêtre.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,La possession n'est pas disponible (aucune quête sur le serveur).,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,Prise de contrôle de %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...",Possession : attente du départ du bot (environ %d s)...,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -558,7 +610,7 @@ c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - encore %d,"clien
 c:pbt:68c165671716,leads,prowadzi,mène,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.","Votre fichier de jeu metin2client.exe est obsolète.[ENTER]Fermez le jeu et le lanceur, rouvrez le lanceur[ENTER]et cliquez sur PLAY - il remplace le fichier. Si ce message[ENTER]revient, ajoutez le dossier du jeu aux exclusions de votre antivirus.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
 c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,Le mot de passe enregistré est illisible sur cet ordinateur.[ENTER]Saisissez le mot de passe et cliquez de nouveau sur ce compte - il sera réenregistré.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,L'original : metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9823519a113,The original: mt2sp.com,Oryginał: mt2sp.com,L'original : mt2sp.com,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","Inventaire trié : %d déplacés, %d piles fusionnées.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,L'inventaire est déjà trié.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","Impossible de trier l'inventaire maintenant - ferme l'échange, la boutique ou l'autre fenêtre.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -585,11 +637,10 @@ c:pbt:a6fe095b1637,Could not save favorites. Check permissions on the client cac
 c:pbt:5b76cca6e1cb,Item included in sorting again.,Przedmiot ponownie podlega sortowaniu.,Objet de nouveau inclus dans le tri.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e35dc9e7d6d6,Item excluded from sorting.,Przedmiot wykluczony z sortowania.,Objet exclu du tri.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:18c9173fa511,Could not load the favorites star. Sorting protection still works.,Nie udało się wczytać gwiazdki ulubionych. Ochrona sortowania nadal działa.,Impossible de charger l'étoile des favoris. La protection du tri fonctionne toujours.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c2549723119a,Surprise,Niespodzianka,Surprise,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2549723119a,Surprise,Niespodzianka,Surprise,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,Déballer,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,Un cadeau par compte,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,24 surprises de décembre,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbfa773e5a63,Close,Zamknij,Fermer,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb11a8e3f871,Rules,Zasady,Règles,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:83c87884b09b,Claimed,Odebrano,Récupéré,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b564001a58dc,Missed,Minelo,Manqué,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -622,8 +673,8 @@ c:pbt:fe2c3f97aa0d,Quantity:,Ile sztuk:,Quantité :,"client: our windows (compan
 c:pbt:ee8df12b6c3a,To pay for %d pcs.: %s,Do zaplaty za %d szt.: %s,À payer pour %d unités : %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
 c:pbt:af17da72a33f,In the stack: %d pcs.,Dostepne: %d szt.,Dans la pile : %d unités,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:7fcd8d44c6f2,Suggested,Sugerowana,Suggéré,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d398eef3ecc,Minimum,Minimalna,Minimum,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a8df2fec28d8,Maximum,Maksymalna,Maximum,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d398eef3ecc,Minimum,Minimalna,Minimum,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:a8df2fec28d8,Maximum,Maksymalna,Maximum,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:b887ba2a5f48,Median,Mediana,Médiane,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d1c69a859a96,Last,Ostatnia,Dernier,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09af574c7f20,Inactive,Nieaktywna,Inactif,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -640,62 +691,11 @@ c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu:
 c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,Le marché : aucune offre comparable.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,Dernière vente des bots : %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,Dernière vente des bots : aucune donnée.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8e7920f8695,no limit,bez limitu,sans limite,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).","Votre client %s est plus ancien[ENTER]que ce qu'exige le serveur (%s).[ENTER]Pour le mettre à jour, fermez le jeu et lancez[ENTER]Aktualizuj.bat dans le dossier du client[ENTER](ou votre lanceur, si vous en avez un).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:2a9cbcb43195,Boss on map,Boss na mapie,Boss sur la carte,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,Clic : masquer le pourcentage d'EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,Clic : afficher le pourcentage d'EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:20e40e8f033c,FPS counter,Licznik FPS,Compteur FPS,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ca6fcaed995c,Map name,Nazwa mapy,Nom de la carte,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,Maintenir Entrée,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8238f65551,Snow,Śnieg,Neige,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c614ba7c453c,Auto,Auto,Auto,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,Quêtes actives : %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,Continuer à raffiner,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,","Après une tentative, la fenêtre revient","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,"pour le même objet, tant qu'il est toujours dans sa case.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,Tu confirmes toi-même chaque tentative.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.","Entrée : raffiner, et la question est confirmée.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,Le serveur de jeu est plus ancien que le client et l'amélioration avec un parchemin n'accède pas à ton entrepôt - mets le serveur à jour.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,Le serveur de jeu est plus ancien que le client et son forgeron n'accède pas à ton entrepôt - mets le serveur à jour.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,L'amélioration avec un parchemin ne prend des matériaux dans ton entrepôt que dans le premier ou le deuxième village.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).",Le forgeron puise dans ton entrepôt une fois que tu l'as ouvert chez le magasinier (avec son mot de passe).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Seul un forgeron du premier ou du deuxième village prend des matériaux dans ton entrepôt.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Entrepôt trié : %d déplacés, %d piles fusionnées.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,L'entrepôt est déjà trié.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Impossible de trier l'entrepôt maintenant - ferme l'échange, la boutique ou l'autre fenêtre.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Impossible d'organiser l'entrepôt - rien n'a été modifié.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,Vous ne pouvez pas trier l'entrepôt en étant mort.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,L'entrepôt est dans un état inattendu - rien n'a été modifié. Signale-le sur Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,L'entrepôt n'est pas ouvert.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Le serveur ne prend pas en charge cette fonction d'entrepôt.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,Impossible de trier l'entrepôt pendant l'ouverture d'une boutique.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Impossible de déplacer l'objet maintenant - ferme l'échange, la boutique ou l'autre fenêtre.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Cet objet n'est plus là.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,Un autre objet occupe cet emplacement.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Cette pile est pleine.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Cet objet ne peut pas être placé là.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Aucun objet ne peut être placé là.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,Trop rapide - réessayez.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,Vous ne pouvez pas déplacer d'objets en étant mort.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Chargement des données de prix...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Choisissez un mode de prix automatique.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Le prix sera fixé selon votre choix.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Prix : %d sur %d récupérés.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Récupération des prix du marché pour %d objets, environ %d s. Gardez la fenêtre de l'étal ouverte.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Prix non modifiés : le total de l'étal atteindrait la limite de yangs.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,%d objets sans prix ou avec une ligne d'étal modifiée ignorés.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,Changements de prix en file d'attente pour %d objets.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,Prix automatiques arrêtés : la fenêtre de l'étal a été fermée ou le mode a changé.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Prix de l'étal modifiés (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Le prix de %d lignes n'a pas pu être modifié - réessayez.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Rouge (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acef391bd970,Red (M),Czerwone (S),Rouge (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb9768bd833b,Red (L),Czerwone (D),Rouge (G),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Bleue (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Bleue (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c9734458346,Blue (L),Niebieskie (D),Bleue (G),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Verte (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Verte (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:232a14f8169a,Green (L),Zielone (D),Verte (G),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Violette (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Violette (M),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Violette (G),"client: our windows (companion, Auto Hunt, status lines)",done

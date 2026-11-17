@@ -117,7 +117,7 @@ c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Pozione della 
 c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Pozione della rigenerazione della resistenza,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Tempo di lancio delle abilità ridotto del %d%% ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Tipo di oggetto: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
 c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,Il codice è già stato usato.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Codice non valido.,client: game texts (localeInfo),done
@@ -130,9 +130,9 @@ c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Sblocca,client: game texts (localeI
 c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Meno di 1 min.,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CLASS,Class:,,Classe:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_STR,STR:,,FOR:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_DEX,DEX:,,DES:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Punti stato:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Punti abilità:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Punti abilità di supporto:,client: game texts (localeInfo),done
@@ -140,13 +140,13 @@ c:locale_game:GM_PANEL_MAP_INDEX,Map (index):,,Mappa (indice):,client: game text
 c:locale_game:GM_PANEL_LAST_ONLINE,Last online:,,Ultimo accesso:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_HORSE_LEVEL,Horse level:,,Livello del cavallo:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_HORSE_POINTS,Horse points:,,Punti del cavallo:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_ACCOUNT,Account:,,Account:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT,Account:,,Account:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Tempo di gioco (min):,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Punti rango:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Guerriero (M),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Guerriera (F),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Sciamano (M),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Sciamana (F),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Pannello principale,client: game texts (localeInfo),done
@@ -319,7 +319,7 @@ c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Magazzino,client: game texts (
 c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Deserto di Yongbi,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Valle degli Orchi,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Monte Sohan,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Dungeon dei Ragni V1,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Dungeon dei Ragni V2,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Dungeon delle scimmie facile,client: game texts (localeInfo),done
@@ -546,7 +546,7 @@ c:locale_game:ITEMSHOP_ENDS_IN,Ends in %s  ,,Termina tra %s  ,client: game texts
 c:locale_game:ITEMSHOP_PIECES_BAR,Pieces: %d | ,,Pezzi: %d | ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:ITEMSHOP_PRICE_LABEL,Price: ,,Prezzo: ,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_PROMOTION_ENDS,Promotion ends in %s | ,,La promozione termina tra %s | ,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Shop],client: game texts (localeInfo),done
+c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Shop],client: game texts (localeInfo),check
 c:locale_game:BUSY_ACTION_GATHERING,Gathering,,Raccolta,client: game texts (localeInfo),done
 c:locale_game:BUSY_ACTION_IN_PROGRESS,In progress,,In corso,client: game texts (localeInfo),done
 c:locale_game:BUSY_ACTION_INTERRUPTED,Interrupted,,Interrotto,client: game texts (localeInfo),done
@@ -572,7 +572,7 @@ c:locale_game:GMP_SAVED,Saved,,Salvato,client: game texts (localeInfo),done
 c:locale_game:GMP_SAVED_OFFLINE,Saved (player offline),,Salvato (giocatore offline),client: game texts (localeInfo),done
 c:locale_game:GMP_ERR,Error: %s,,Errore: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_ON,ON,,ON,client: game texts (localeInfo),done
-c:locale_game:GMP_OFF,OFF,,OFF,client: game texts (localeInfo),done
+c:locale_game:GMP_OFF,OFF,,OFF,client: game texts (localeInfo),check
 c:locale_game:GMP_MENU_PLAYER,Player,,Giocatore,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_SELF,Me (GM),,Io (GM),client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_WORLD,World & events,,Mondo ed eventi,client: game texts (localeInfo),done
@@ -580,7 +580,7 @@ c:locale_game:GMP_MENU_ITEMS,Items,,Oggetti,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Account,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_SPAWN,Spawn,,Generazione,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teletrasporto,client: game texts (localeInfo),done
-c:locale_game:GMP_MENU_SERVER,Server,,Server,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SERVER,Server,,Server,client: game texts (localeInfo),check
 c:locale_game:GMP_MENU_CMDS,GM commands,,Comandi GM,client: game texts (localeInfo),done
 c:locale_game:GMP_NICK,Name:,,Nome:,client: game texts (localeInfo),done
 c:locale_game:GMP_SEARCH,Search,,Cerca,client: game texts (localeInfo),done
@@ -599,12 +599,12 @@ c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Inserisci un numero valido,cl
 c:locale_game:GMP_ERR_OFFLINE,The player is offline,,Il giocatore è offline,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,Il giocatore non è online,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,Equipaggiamento: clicca sul giocatore nel gioco e scegli EQ,client: game texts (localeInfo),done
-c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),done
+c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),check
 c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Offline da %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_MAP,Map: %s,,Mappa: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,HP/SP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Account: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Account: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,FOR %s  VIT %s  DES %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Punti stato %s, abilità %s",client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
@@ -612,8 +612,8 @@ c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Cavallo: livello %s,client: game t
 c:locale_game:GMP_INFO_RANK,Rank: %s,,Grado: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_EXP,Exp: %s,,EXP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_JOB_WARRIOR,Warrior,,Guerriero,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
 c:locale_game:GMP_JOB_SHAMAN,Shaman,,Sciamano,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOVE,Movement,,Movimento,client: game texts (localeInfo),done
 c:locale_game:GMP_GOTO_PLAYER,Go to,,Vai da,client: game texts (localeInfo),done
@@ -626,7 +626,7 @@ c:locale_game:GMP_GIVE_ITEM,Give item,,Dai oggetto,client: game texts (localeInf
 c:locale_game:GMP_SKILLS_M,All to M1,,Tutto a M1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_G,All to G1,,Tutto a G1,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_P,All to P,,Tutto a P,client: game texts (localeInfo),done
-c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
 c:locale_game:GMP_VAL_CASH,Dragon Coins,,Monete del Drago,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_LEVEL,Level,,Livello,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_RANK,Rank,,Grado,client: game texts (localeInfo),done
@@ -652,7 +652,7 @@ c:locale_game:GMP_STUN,Stun,,Stordisci,client: game texts (localeInfo),done
 c:locale_game:GMP_SLOW,Slow,,Lentezza,client: game texts (localeInfo),done
 c:locale_game:GMP_KILL,Kill...,,Uccidi...,client: game texts (localeInfo),done
 c:locale_game:GMP_KICK,Kick...,,Espelli...,client: game texts (localeInfo),done
-c:locale_game:GMP_BAN_DOTS,Ban...,,Ban...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_DOTS,Ban...,,Ban...,client: game texts (localeInfo),check
 c:locale_game:GMP_Q_KILL,Kill %s?,,Uccidere %s?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_Q_KICK,Kick %s from the game?,,Espellere %s dal gioco?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_HDR_ME,My character,,Il mio personaggio,client: game texts (localeInfo),done
@@ -680,20 +680,20 @@ c:locale_game:GMP_PULL,Pull mobs,,Attira mostri,client: game texts (localeInfo),
 c:locale_game:GMP_MOB_COUNT,Count mobs,,Conta mostri,client: game texts (localeInfo),done
 c:locale_game:GMP_RESPAWN,Respawn,,Rigenera,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_NOTICE,Notice,,Avviso,client: game texts (localeInfo),done
-c:locale_game:GMP_NOTICE_CHAT,In chat,,In chat,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_CHAT,In chat,,In chat,client: game texts (localeInfo),check
 c:locale_game:GMP_NOTICE_GM,As GM,,Come GM,client: game texts (localeInfo),done
 c:locale_game:GMP_NOTICE_BIG,Big,,Grande,client: game texts (localeInfo),done
 c:locale_game:GMP_NOTICE_MAP,This map only,,Solo questa mappa,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Inserisci il testo dell'avviso,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Eventi (bonus del regno),client: game texts (localeInfo),done
 c:locale_game:GMP_EV_EXP,Exp %,,EXP %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_HOURS,Hours,,Ore,client: game texts (localeInfo),done
 c:locale_game:GMP_EMPIRE_ALL,All,,Tutti,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_START,Start event,,Avvia evento,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_STOP,Stop events,,Ferma eventi,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Percentuale extra, es. 100 = doppio. Vuoto/0 = invariato.",client: game texts (localeInfo),done

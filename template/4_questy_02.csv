@@ -1,17 +1,91 @@
 id,english,polski,translation,notes,status
-q:ours:a2ad83d22fb8,"Quick Analysis Potion is active: if the Biologist finds the next item damaged, you will not have to wait.",,,quest dialog (our quests),new
-q:ours:760f58705552,Yang,,,quest dialog (our quests),new
-q:ours:dcdf11e37022,A system script or an inactive definition; there is no one-time quest to complete.,,,quest dialog (our quests),new
-q:ours:1656649117e4,Failure,,,quest dialog (our quests),new
-q:ours:d8072d43dde3,Second skill group,,,quest dialog (our quests),new
+q:ours:52db0c869c30,Plagued Shamaness,Zarazona Szamanka,,quest dialog (our quests),new
+q:ours:da3757fe13a1,An evil power is taking control of me. This place is tainted!,Zla moc przejmuje nade mna kontrole. To miejsce jest skazone!,,quest dialog (our quests),new
+q:ours:12d4b447ff84,I heard that the Plague Crystal can take the sickness away.,"Slyszalam, ze Krysztal Zarazy moze usunac objawy choroby.",,quest dialog (our quests),new
+q:ours:1616665d0ea7,"I do not know if it will work, but we must try. Bring me the crystal from the dragon!","Nie wiem, czy zadziala, ale musimy sprobowac. Przynies mi krysztal od smoka!",,quest dialog (our quests),new
+q:ours:1388794a87c4,It... does not work! No! Thank you for your help... Farewell!,To... nie dziala! Nie! Dziekuje za pomoc... Zegnaj!,,quest dialog (our quests),new
+q:ours:545a0c1c1580,Plague Dungeon reward,Nagroda za Loch Zarazy,,quest dialog (our quests),new
+q:ours:4b1f9ae7f52d,This scroll works from level 31.,Ten zwoj dziala od 31 poziomu.,,quest dialog (our quests),new
+q:ours:312f430890c8,You have no profession yet - you choose one at your class's trainer.,Nie masz jeszcze profesji - wybierzesz ja u trenera swojej klasy.,,quest dialog (our quests),new
+q:ours:e457399556f2,Every skill of yours goes back to zero and its points are yours to spend again.,"Wszystkie twoje umiejetnosci wroca do zera, a punkty do rozdania.",,quest dialog (our quests),new
+q:ours:e77e5c964a17,Master grades are lost. You choose your profession again at your class's trainer.,Mistrzowie przepadna. Profesje wybierzesz na nowo u trenera swojej klasy.,,quest dialog (our quests),new
+q:ours:613e148bb0da,Use the scroll,Uzyj zwoju,,quest dialog (our quests),new
+q:ours:86aa8e5c771c,Your skills start from zero. Choose your new profession at your class's trainer.,Umiejetnosci od zera. Wybierz nowa profesje u trenera swojej klasy.,,quest dialog (our quests),new
+q:ours:3dd3d22e12ef,Return to V2,Powrot do V2,,quest dialog (our quests),new
+q:ours:5c8271b0de7b,Do you want to return to Spider Dungeon V2?,Czy chcesz wrocic do Lochu Pajakow V2?,,quest dialog (our quests),new
+q:ours:24f096b221f9,Return,Wroc,,quest dialog (our quests),new
+q:ours:7594d83fa99d,Your kingdom,Twoje krolestwo,,quest dialog (our quests),new
+q:ours:254c0fea0142,Main maps,Podstawowe mapy,,quest dialog (our quests),new
+q:ours:89eabb1765a7,Dungeons,Lochy,,quest dialog (our quests),new
+q:ours:c217db681221,Other areas,Pozostale tereny,,quest dialog (our quests),new
+q:ours:53b9ccd0e055,From level 60,Od 60 poziomu,,quest dialog (our quests),new
+q:ours:7f36ead37771,Spider Dungeon V1,Loch Pajakow V1,,quest dialog (our quests),new
+q:ours:22e5cac1a339,Page %d of %d: %s,Strona %d z %d: %s,,quest dialog (our quests) | keep: %d %d %s,new
+q:ours:07c9398b6e7d,You are playing a companion - it cannot have,Grasz teraz Towarzyszem - on nie moze miec,,quest dialog (our quests),new
+q:ours:6a848e4a3e39,a companion of its own.,wlasnego towarzysza.,,quest dialog (our quests),new
+q:ours:dccc59d8dd75,Back to your own character: /towarzysz back.,Powrot do twojej postaci: /towarzysz wroc.,,quest dialog (our quests),new
+q:ours:16ca44702a9b,Novice,Nowicjusz,,quest dialog (our quests),new
+q:ours:f024635bf90c,Apprentice Herbalist,Uczen Zielarza,,quest dialog (our quests),new
+q:ours:d9ad04722b84,Journeyman Herbalist,Czeladnik Zielarski,,quest dialog (our quests),new
+q:ours:c205ffe7db50,Herbalist,Zielarz,,quest dialog (our quests),new
+q:ours:0f89235b8cb2,Master Herbalist,Mistrz Zielarz,,quest dialog (our quests),new
+q:ours:aafd85ada5bb,Grandmaster Herbalist,Arcymistrz Zielarstwa,,quest dialog (our quests),new
+q:ours:86bae31be3d8,any Juice,dowolny Sok,,quest dialog (our quests),new
+q:ours:83f57ea13d3c,any Water,dowolna Woda,,quest dialog (our quests),new
+q:ours:b1d8aa3a2dd9,any Dew,dowolna Rosa,,quest dialog (our quests),new
+q:ours:8bbb3a042db5,Character level: %d (you: %d),Poziom postaci: %d (masz %d),,quest dialog (our quests) | keep: %d %d,new
+q:ours:0b14cf59511f,Recipe knowledge: %d (you: %d),Wiedza o recepturach: %d (masz %d),,quest dialog (our quests) | keep: %d %d,new
+q:ours:0b2f86b24dea,"Herbalist's Knife +%d or better, equipped",Zalozony Nozyk Zielarza +%d lub lepszy,,quest dialog (our quests) | keep: %d,new
+q:ours:c0e1d820a3bf,Fee: %s Yang,Oplata: %s Yang,,quest dialog (our quests) | keep: %s,new
+q:ours:124f23453f5c,Exam: %s,Egzamin: %s,,quest dialog (our quests) | keep: %s,new
+q:ours:5d53129c18e3,To hand in (they will be taken):,Do oddania (zostana zabrane):,,quest dialog (our quests),new
+q:ours:aca029cbec58,%dx %s (you: %d),%dx %s (masz %d),,quest dialog (our quests) | keep: %d %s %d,new
+q:ours:843683b4489d,Make room in your inventory (free slots: %d).,Zrob miejsce w ekwipunku (wolne pola: %d).,,quest dialog (our quests) | keep: %d,new
+q:ours:d8a9b90573e1,Herbalist Rank,Ranga Zielarza,,quest dialog (our quests),new
+q:ours:fc29190a2556,Your herbalist rank: %s (%d/5).,Twoja ranga zielarza: %s (%d/5).,,quest dialog (our quests) | keep: %s %d,new
+q:ours:fb2ff51ee8e7,Next rank from level %d - ask Baek-Go about the Herbalist's Path.,Nastepna ranga od %d poziomu - zapytaj Baek-Go o Sciezke Zielarza.,,quest dialog (our quests) | keep: %d,new
+q:ours:0e365f685489,Baek-Go's orders of the day: %d per day.,Zlecenia dnia u Baek-Go: %d dziennie.,,quest dialog (our quests) | keep: %d,new
+q:ours:2af5d346625d,Herbalist's Workshop: talk to Baek-Go.,Pracownia Zielarza: rozmawiaj z Baek-Go.,,quest dialog (our quests),new
+q:ours:2e0b7235ed40,Herbalist's Path,Sciezka Zielarza,,quest dialog (our quests),new
+q:ours:46b6d70a8ca1,Your rank: %s.,Twoja ranga: %s.,,quest dialog (our quests) | keep: %s,new
+q:ours:a8ccbe1bca40,You have reached the highest rank. I have nothing left to teach you - now I learn from you.,Osiagnales najwyzsza range. Nie mam juz czego cie uczyc - teraz to ja ucze sie od ciebie.,,quest dialog (our quests),new
+q:ours:63f31a606d4a,Every herbalist starts with a knife and a handful of flowers. Show me what you have learned and I will open the next secrets to you.,"Kazdy zielarz zaczyna od nozyka i garsci kwiatow. Pokaz mi, czego sie nauczyles, a otworze przed toba kolejne tajemnice.",,quest dialog (our quests),new
+q:ours:b423282af9c4,Knowledge is the sum of the successful reads of all your herbal recipes.,Wiedza to suma udanych odczytow wszystkich twoich receptur zielarskich.,,quest dialog (our quests),new
+q:ours:a5118d9815dd,You do not meet all the conditions yet. Come back when you are ready.,"Jeszcze nie spelniasz wszystkich warunkow. Wroc, gdy bedziesz gotow.",,quest dialog (our quests),new
+q:ours:75220ff113f6,Do you want to take the exam now?,Czy chcesz teraz przystapic do egzaminu?,,quest dialog (our quests),new
+q:ours:3e3e506413de,Congratulations! From today your rank is: %s.,Gratulacje! Od dzis twoja ranga to: %s.,,quest dialog (our quests) | keep: %s,new
+q:ours:4645949b2473,New recipes are waiting for you in the Herbalist's Workshop.,W Pracowni Zielarza czekaja na ciebie nowe receptury.,,quest dialog (our quests),new
+q:ours:aa319f75bd37,Accept this small gift.,Przyjmij ten drobny podarunek.,,quest dialog (our quests),new
+q:ours:8802952ba79a,Herbalist's Workshop,Pracownia Zielarza,,quest dialog (our quests),new
+q:ours:e0ac7b20d45c,Order of the day,Zlecenie dnia,,quest dialog (our quests),new
+q:ours:f09c524fbb9b,I have no more orders today. Come back tomorrow.,Na dzis nie mam juz zlecen. Wroc jutro.,,quest dialog (our quests),new
+q:ours:f3e743a75a4c,Order %d of %d,Zlecenie %d z %d,,quest dialog (our quests) | keep: %d %d,new
+q:ours:850f35f955a1,Today I need:,Dzis potrzebuje:,,quest dialog (our quests),new
+q:ours:245dc4067332,Reward: %s experience and something from my stores.,Nagroda: %s pkt. doswiadczenia i cos z moich zapasow.,,quest dialog (our quests) | keep: %s,new
+q:ours:f0c9f985b2d2,You are still missing part of the goods.,Brakuje ci jeszcze czesci towaru.,,quest dialog (our quests),new
+q:ours:d7b1f63aff4f,Will you hand the goods in?,Oddajesz towar?,,quest dialog (our quests),new
+q:ours:250412239c0a,"Thank you, that will do. Drop by tomorrow.","Dziekuje, to mi wystarczy. Zajrzyj jutro.",,quest dialog (our quests),new
 q:ours:994feae1a022,First skill group,,,quest dialog (our quests),new
-q:ours:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,,quest dialog (our quests),new
-q:ours:2d945fab303e,Revenge done,,,quest dialog (our quests),new
-q:ours:32f303b5d1e1,The Researcher's Elixir was used: the chance of this hand-in is %d%%.,,,quest dialog (our quests) | keep: %d,new
 q:ours:007b6d688b03,The Biologist keeps no wait in this world - the Quick Analysis Potion is not needed.,,,quest dialog (our quests),new
-q:ours:a3775eac048c,Done! Talk to me once more.,,,quest dialog (our quests),new
-q:ours:c023a2f92491,Full skip,,,quest dialog (our quests),new
+q:ours:1656649117e4,Failure,,,quest dialog (our quests),new
+q:ours:760f58705552,Yang,,,quest dialog (our quests),new
 q:ours:7ea28d136d5d,Weapon 1,,,quest dialog (our quests),new
+q:ours:e989886c4e8b,"Quick Analysis Potion: the wait is over, the Biologist takes the next item at once.",,,quest dialog (our quests),new
+q:ours:2d945fab303e,Revenge done,,,quest dialog (our quests),new
+q:ours:a2ad83d22fb8,"Quick Analysis Potion is active: if the Biologist finds the next item damaged, you will not have to wait.",,,quest dialog (our quests),new
+q:ours:c023a2f92491,Full skip,,,quest dialog (our quests),new
+q:ours:a3775eac048c,Done! Talk to me once more.,,,quest dialog (our quests),new
+q:ours:dc0e11f36d85,The lie,,,quest dialog (our quests),new
+q:ours:d0ef153cb0e4,The truth,,,quest dialog (our quests),new
+q:ours:9d1557def1b5,Weapon 2,,,quest dialog (our quests),new
+q:ours:5b5aafe6b9e2,Experience,,,quest dialog (our quests),new
+q:ours:32f303b5d1e1,The Researcher's Elixir was used: the chance of this hand-in is %d%%.,,,quest dialog (our quests) | keep: %d,new
+q:ours:42a8f651d79f,Success,,,quest dialog (our quests),new
+q:ours:d8072d43dde3,Second skill group,,,quest dialog (our quests),new
+q:ours:2b4aba183bdd,"The Biologist of 92 and 94 (Seon-Pyeong): the player chooses one reward of three, so a GM skip does not support them.",,,quest dialog (our quests),new
+q:ours:8eefac21ad7d,Quick Analysis Potion: the Biologist will take the next item without a wait.,,,quest dialog (our quests),new
+q:ours:dcdf11e37022,A system script or an inactive definition; there is no one-time quest to complete.,,,quest dialog (our quests),new
+q:ours:87d2ffe01b92,Revenge given up,,,quest dialog (our quests),new
 q:pkg:g:arena_manager._100_say,"You want to fight against yourself?[ENTER]Do as you please, but you don't need an arena for[ENTER]that.[ENTER]Come again when you're ready to take this[ENTER]seriously. ","Chcesz walczyć sam z sobą?[ENTER]Proszę bardzo, ale do tego niepotrzebna ci arena.[ENTER]Wróć, jak przejdzie ci ochota na żarty! ",,quest dialog (the game's quests: arena_manager) | keep: [ENTER] = new line,new
 q:pkg:g:arena_manager._10_npcChat,Start a training fight ,Zacznij walkę treningową ,,quest dialog (the game's quests: arena_manager),new
 q:pkg:g:arena_manager._110_say,"Your training partner has not reached the[ENTER]required level of %s yet. I'm sorry, but I cannot[ENTER]allow this fight. ","Twój partner treningowy nie osiągnął jeszcze[ENTER]wymaganego poziomu %s. Przykro mi, ale nie mogę[ENTER]dopuścić do tej walki. ",,quest dialog (the game's quests: arena_manager) | keep: %s; [ENTER] = new line,new
@@ -625,77 +699,3 @@ q:pkg:g:couple_ring._40_select,I will avenge the Ringtrader. ,Pomszczę Handlarz
 q:pkg:g:couple_ring._50_select,"No, the Jin-Hee are too strong for me. ","Nie, Jin-Hee są dla mnie za silni. ",,quest dialog (the game's quests: couple_ring),new
 q:pkg:g:couple_ring._60_say,"That is a very wise and honourable decision! But[ENTER]remember - you have to kill 30 Jin-Hee. Be[ENTER]careful though, they are crafty and very skilled[ENTER]at hiding themselves! ","To bardzo rozsądna i honorowa decyzja! Jednak[ENTER]pamiętaj - musisz zabić 30 Jin-Hee. Bądź[ENTER]ostrożny, są bardzo przebiegli i trudno ich[ENTER]znaleźć! ",,quest dialog (the game's quests: couple_ring) | keep: [ENTER] = new line,new
 q:pkg:g:couple_ring._70_say,"Well, that is a regrettable decision, but it is[ENTER]up to you. After all, overconfidence can be[ENTER]lethal. Take care! ","Wielka szkoda, ale nic nie mogę na to poradzić.[ENTER]Konsekwencją nieuzasadnionej odwagi jest śmierć.[ENTER]Uważaj na siebie! ",,quest dialog (the game's quests: couple_ring) | keep: [ENTER] = new line,new
-q:pkg:g:couple_ring._75_say,Amount of remaining Jin-Hee,Pozostało Jin-Hee ,,quest dialog (the game's quests: couple_ring),new
-q:pkg:g:couple_ring._80_sayTitle,You have defeated all Jin-Hee. ,Pokonałeś wszystkich Jin Hee! ,,quest dialog (the game's quests: couple_ring),new
-q:pkg:g:couple_ring._90_say,"Now that the Ringtrader's death has been avenged,[ENTER]your mission is complete. ","Teraz, gdy Handlarz Pierścionków został[ENTER]odpowiednio pomszczony, moja misja została[ENTER]wykonana. ",,quest dialog (the game's quests: couple_ring) | keep: [ENTER] = new line,new
-q:pkg:g:cube._060_npcChat,Produce all potions ,Wycraftuj wszystkie mikstury ,,quest dialog (the game's quests: cube),new
-q:pkg:g:cube._10_say,Greetings! Are you interested in creating various[ENTER]potions that can strengthen or heal you?[ENTER]I am a medic and very experienced in creating[ENTER]potions. I have several different recipes that[ENTER]aren't available anywhere else. Do you want to[ENTER]try them out? ,"Cześć, jak się masz? Czy jesteś zainteresowany[ENTER]tworzeniem mikstur, które mogą Cię wzmocnić lub[ENTER]uleczyć? Ostatnio, podczas rutynowych badań[ENTER]odkryłem kilka sposobów na pozyskanie pewnych[ENTER]mikstur. To jak, jesteś zainteresowany? Chciałbyś[ENTER]spróbować? ",,quest dialog (the game's quests: cube) | keep: [ENTER] = new line,new
-q:pkg:g:cube._20_say,Refining things is an important craft. Are you[ENTER]interested in such skills? I can show you some of[ENTER]my herbal recipes. They're very useful for[ENTER]producing stronger variations of well-known[ENTER]potions. Or I can teach how to turn an everyday[ENTER]belt into a powerful tool. ,"Uszlachetnianie rzeczy jest bardzo ważnym[ENTER]rzemiosłem. Interesują cię takie procesy? Mogę ci[ENTER]pokazać parę przepisów zielarskich, której[ENTER]umożliwiają warzenie potężniejszych wersji[ENTER]znanych mikstur. Albo nauczę cię, jak zamieniać[ENTER]proste pasy w narzędzia mocy. ",,quest dialog (the game's quests: cube) | keep: [ENTER] = new line,new
-q:pkg:g:cube._30_npcChat,The secret recipe ,Tajny przepis ,,quest dialog (the game's quests: cube),new
-q:pkg:g:cube._50_say,"I have found a secret family recipe. Using this[ENTER]recipe, I can make a potion that will make you[ENTER]almost invincible! Are you interested in trying[ENTER]out my potions? ","Hah! Znalazłem rodzinną tajemnicę! Korzystając z[ENTER]niej, będziesz prawie niezniszczalny! Hahaha.[ENTER]Prawdopodobnie jestem jedyną osobą, która zna ten[ENTER]sposób. Z takimi miksturami prawie nic nie może[ENTER]Ci się stać. Czy chcesz spróbować?! ",,quest dialog (the game's quests: cube) | keep: [ENTER] = new line,new
-q:pkg:g:cube_opener_list._010_say,I need the following things to be able to refine[ENTER]this armour: %s. ,"Aby uszlachetnić tę zbroję, potrzebuję jeszcze[ENTER]następujących przedmiotów: %s. ",,quest dialog (the game's quests: cube_opener_list) | keep: %s; [ENTER] = new line,new
-q:pkg:g:cube_opener_list._020_sayTitle,Materials: ,Materiały: ,,quest dialog (the game's quests: cube_opener_list),new
-q:pkg:g:cube_opener_list._030_say,"As a result, you receive: ",W zamian otrzymasz: ,,quest dialog (the game's quests: cube_opener_list),new
-q:pkg:g:cube_opener_list._040_say,Should I refine the following armour:[ENTER]%s[ENTER]to[ENTER]%s[ENTER]for you? ,Czy uszlachetnić następującą zbroję:[ENTER]%s[ENTER]na[ENTER]%s? ,,quest dialog (the game's quests: cube_opener_list) | keep: %s %s; [ENTER] = new line,new
-q:pkg:g:cube_opener_list._050_say,I'm still missing one or two materials to fully[ENTER]complete my work. ,"Potrzebuję jeszczeż kilku materiałów, aby[ENTER]zakończyć moje dzieło. ",,quest dialog (the game's quests: cube_opener_list) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._100_npcChat,In the Devil's Catacomb ,Do Diabelskich Katakumb ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._10_say,Destroy this gate's seal to reach the 3rd floor! ,"Zniszcz pieczęć tych wrót, aby dotrzeć do 3.[ENTER]poziomu! ",,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._110_say,Access has been denied to you. You do not have[ENTER]enough experience to survive in the Devil's[ENTER]Catacomb. Come back when you have reached a[ENTER]minimum level of 75. ,"Nie otrzymasz pozwolenia wstępu. Nie posiadasz[ENTER]jeszcze wystarczającej ilości doświadczenia, aby[ENTER]przeżyć w Diabelskich Katakumbach. Wróć, gdy[ENTER]osiągniesz co najmniej poziom 75. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._120_say,You are too weak to survive in the Devil's[ENTER]Catacomb. Come back when you have defeated the[ENTER]Death Reaper on the 9th floor of the Demon Tower. ,"Jesteś jeszcze za słaby, aby przeżyć w[ENTER]Diabelskich Katakumbach. Wróć, gdy pokonasz[ENTER]Umarłego Rozpruwacza na 9. piętrze Wieży Demonów. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._130_say,You have to wait 30 minutes before you can[ENTER]re-enter. ,"Musisz poczekać 30 minut, aby ponownie podjąć[ENTER]walkę. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._140_say,Do you want to enter the Devil's Catacomb? ,Chcesz wkroczyć do Diabelskich Katakumb? ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._150_select,"Yes, let me enter! ","Tak, przepuść mnie! ",,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._160_select,"No, I don't wish to enter. ","Nie, lepiej nie. ",,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._170_say,You won't be able to achieve anything here as a[ENTER]lone fighter. You can only enter the next floor[ENTER]with a group. ,W pojedynkę nic tutaj nie zdziałasz. Do[ENTER]następnego poziomu możesz przejść jedynie w[ENTER]grupie. ,,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._180_say,Your group has already entered the dungeon. ,Twoja grupa wkroczyła już do lochów. ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._190_say,The entrance portal has been opened. Enter it[ENTER]quickly! ,"Otworzyły się wrota.[ENTER]Szybko, przejdź przez nie! ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._20_say,You have %s minute(s) left. ,Pozostało ci jeszcze %s min. ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: %s",new
-q:pkg:g:devilcatacomb_zone._210_dNotice,The time has expired. For your own safety you[ENTER]will be teleported out of the Devil's Catacomb. ,Koniec czasu! Dla twojego własnego dobra[ENTER]zostaniesz przeniesiony na zewnątrz. ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._220_say,Access has been denied to you. The door is still[ENTER]locked. ,Nie możesz tutaj wejść. Wrota są nadal zamknięte. ,,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._230_say,"Whilst examining the stone more closely, you[ENTER]discover an engraving. ",Po szczegółowej inspekcji kamienia dostrzegasz na[ENTER]nim grawerunek. ,,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._240_say,"Merely the owner of the Shrunken Head can enter,[ENTER]after the seals of all three doors have been[ENTER]broken open.[ENTER][ENTER]If you are not carrying this relic on you, you[ENTER]will be teleported out of the Devil's Catacomb. ","Wejść może jedynie ten, kto posiada Zasuszoną[ENTER]Głowę i zniszczył pieczęci trzech wrót.[ENTER][ENTER]Jeśli nie posiadasz tego reliktu, zostaniesz[ENTER]przeniesiony na zewnątrz katakumb. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._270_say,You will be teleported at any moment. ,Za chwilę zostaniesz przeniesiony. ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._280_dNotice,The real Metin Stone has been destroyed. You can[ENTER]now go on to the 4th floor. ,Prawdziwy Kamień Metin został zniszczony. Możesz[ENTER]teraz przejść do 4. poziomu. ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._290_dNotice,You destroyed the wrong Metin stone. Find the[ENTER]right one! ,Zniszczyłeś fałszywy Kamień Metin. Znajdź[ENTER]prawdziwy! ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._300_say,You've done it! Here's the labyrinth's exit.[ENTER]Now go down to the 5th floor. ,Dobra robota! Oto wyjście z labiryntu. Zejdź[ENTER]teraz do poziomu 5. ,,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._30_say,Stay close to your group so that you are not left[ENTER]behind. ,"Trzymaj się blisko swojej grupy, inaczej[ENTER]zostaniesz w tyle. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._310_dNotice,A blood-curdling cry echoes out from the depths[ENTER]of the Devil's Catacomb. Charon has awoken! ,Z głębi katakumb dobiega cię przeraźliwy ryk.[ENTER]Charon zbudził się ze swej wiecznej drzemki! ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._320_say,You have defeated Charon! Now you will be[ENTER]teleported to the last floor of the Devil's[ENTER]Catacomb. ,Pokonałeś Charona! Zostaniesz przeniesiony do[ENTER]ostatniego poziomu Diabelskich Katakumb. ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._330_dNotice,Defeat Azrael! ,Pokonaj Azraela! ,,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody",new
-q:pkg:g:devilcatacomb_zone._340_say,Azrael has been defeated. Peace finally reigns in[ENTER]Devil's Catacomb again. Now you will be[ENTER]teleported to the surface. ,"Azrael poległ, a w Diabelskich Katakumbach[ENTER]zapanował znowu spokój. Zostaniesz teraz[ENTER]przeniesiony na zewnątrz. ",,"quest dialog (the game's quests: devilcatacomb_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:devilcatacomb_zone._40_say,You have been defeated. The Dragon God's Blessing[ENTER]saved you in the nick of time and is now taking[ENTER]you out of the Devil's Catacomb. ,"Zostałeś pokonany. W ostatniej sekundzie ratuje[ENTER]ciebie błogosławieństwo Boga Smoków, i zostajesz[ENTER]przeniesiony na zewnątrz katakumb. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._50_say,Destroy the creatures to receive the Soul Crystal[ENTER]Key. It opens the door to the 2nd floor. ,"Zniszcz te kreatury, aby otrzymać Klucz Kryształu[ENTER]Duszy, który otworzy ci wrota do 2. poziomu. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._60_say,Look for the right Metin stone and destroy it! ,Znajdź prawdziwy Kamień Metin i zniszcz go! ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:devilcatacomb_zone._70_say,Find your way out of the labyrinth to reach the[ENTER]5th floor! ,"Znajdź wyjście z labiryntu, aby dotrzeć do 5.[ENTER]poziomu! ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._80_say,Defeat the Demon Guards to receive the Grimace[ENTER]Totem. It will serve you as the key to the 6th[ENTER]floor. ,"Pokonaj demoniczne straże, aby otrzymać Upiorny[ENTER]Totem, który otworzy ci wrota do 6. poziomu. ",,quest dialog (the game's quests: devilcatacomb_zone) | keep: [ENTER] = new line,new
-q:pkg:g:devilcatacomb_zone._90_say,Defeat Charon and his henchmen! ,Pokonaj Charona i jego sługusów! ,,quest dialog (the game's quests: devilcatacomb_zone),new
-q:pkg:g:deviltower_zone._100_dNotice,You have proved that you have an excellent sense[ENTER]of hearing and instinct and have destroyed the[ENTER]real Metin Stone! Now you can enter the 4th[ENTER]floor. ,Wykazałeś się doskonałym słuchem i instynktem.[ENTER]Zniszczyłeś prawidłowy kamień Metin! Za chwilę[ENTER]dotrzesz na 4. piętro! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._10_npcChat,Into the Demon Tower... ,Do Wieży Demonów... ,,quest dialog (the game's quests: deviltower_zone),new
-q:pkg:g:deviltower_zone._110_dNotice,"You are at the sealed gate on the 4th floor. You[ENTER]need to open the five Ancient Seals to get to the[ENTER]next floor. The path there is full of creatures[ENTER]that will be waiting to pounce on you. Some of[ENTER]them have keys on them. Get hold of enough Key[ENTER]Stones, to open all five Ancient Seals and to get[ENTER]to the 5th floor. But beware: You only have 20[ENTER]minutes time! ","Dotarłeś do zamkniętej Bramy na 4. piętrze![ENTER]Znajduje się tu wiele potworów, które strzegą[ENTER]tajemniczych kamieni - będziesz ich potrzebował.[ENTER]Bez nich nie dostaniesz się na 5. poziom Wieży.[ENTER]Zdobądź Kamienie od potworów i użyj ich, aby[ENTER]odblokować Starożytne Pieczęcie. Na wykonanie[ENTER]tego zadania masz tylko 20 minut - spiesz się! ",,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._120_dNotice,You have 15 minutes left. ,Pozostało 15 minut! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._130_dNotice,You have opened the Key Stones' seal and can now[ENTER]enter the 5th floor. The Proud Demon King is also[ENTER]on that floor. Destroy all the creatures that you[ENTER]meet there. ,"Wszystkie Starożytne Pieczęcie zostały otwarte.[ENTER]Teraz dotrzesz na 5. poziom Wieży Demonów.[ENTER]Zabij wszystkie potwory na 5. piętrze, jednak[ENTER]uważaj! Piętro to należy do Elitarnego Króla[ENTER]Demonów! ",,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._140_dNotice,You have opened the seal! There are %s left. ,Otworzyłeś pieczęć! Pozostało jeszcze: %s! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: %s",new
-q:pkg:g:deviltower_zone._150_dNotice,Kill all monsters on the 6th floor! ,Zabij wszystkie potwory na 6. piętrze! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._160_dNotice,"You've killed all the creatures. Now go to the[ENTER]Blacksmith and pick up your reward - he will[ENTER]improve an item of your choice. In order to do[ENTER]this, drag the item that you want to improve onto[ENTER]the Blacksmith. ","Zabiłeś wszystkie potwory, jako nagrodę otrzymasz[ENTER]możliwość ulepszenia jednego z Twoich przedmiotów[ENTER]u Kowala. Po prostu przeciągnij przedmiot, który[ENTER]chcesz ulepszyć na Kowala. ",,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._170_npcChat,The upper floors ,Wyższe piętra ,,quest dialog (the game's quests: deviltower_zone),new
-q:pkg:g:deviltower_zone._190_say,"You want to enter the 6th floor of the tower? It[ENTER]requires great skill and experience to deal with[ENTER]this floor. I can teleport you there, but only[ENTER]once you've reached level 75. ",Co?! Chcesz udać się na 6. poziom Wieży?[ENTER]Wyprawa na wyższe poziomy wymaga naprawdę dobrego[ENTER]przygotowania.[ENTER]Jeżeli osiągnąłeś 75. poziom mogę przenieść Cię[ENTER]na wyższe piętro. ,,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._200_say,You have the necessary experience and therefore[ENTER]have a good chance of surviving the upper floors.[ENTER]You can enter now! ,Masz odpowiedni poziom i dlatego masz spore[ENTER]szanse na przetrwanie na wyższych piętrach.[ENTER]Możesz wejść!  ,,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._20_sayTitle,Demon Tower Guard ,Strażnik Wieży Demonów ,,quest dialog (the game's quests: deviltower_zone),new
-q:pkg:g:deviltower_zone._210_select,Go ,Idź ,,quest dialog (the game's quests: deviltower_zone),new
-q:pkg:g:deviltower_zone._220_select,Leave the tower ,Opuść Wieżę! ,,quest dialog (the game's quests: deviltower_zone),new
-q:pkg:g:deviltower_zone._230_say,I can't allow you to enter the upper floors. You[ENTER]do not have enough experience yet. Come back when[ENTER]you have reached a minimum level of 75. ,"Masz za niski poziom postaci! Bardzo mi przykro,[ENTER]jednak dla Twojego dobra nie mogę pozwolić Ci[ENTER]przejść dalej.[ENTER]Wróć gdy zdobędziesz więcej doświadczenia. Musisz[ENTER]mieć co najmniej 75. poziom postaci. ",,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._240_dNotice,The Zin-Sa-Gui Tower Map opens up the path to the[ENTER]next floor. You can find them by destroying the[ENTER]Metin Stones. ,"Mapa Zin-Sa-Gui otwiera drogę na następne piętro.[ENTER]Zniszcz kamienie Metin, aby ją odnaleźć. ",,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._250_say,This map teleports you to the 7th floor of the[ENTER]Demon Tower. ,Ta mapa przeniesie Cię na 7. poziom Wieży Demonów. ,,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._260_dNotice,Find the right key to enter the next floor. You[ENTER]need the Zin-Bong-In Key to open Sa-Soe's seal. ,Znajdź odpowiedni klucz! Potrzebujesz klucza[ENTER]Zin-Bong-In aby móc otworzyć pieczęć Sa-Soein i[ENTER]dostać się na następne piętro Wieży. ,,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._270_dNotice,Kill the leader of the demons. ,Zabij Przywódcę Demonów! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._280_dNotice,You have completed the quest successfully and[ENTER]will be teleported out in a few minutes. ,Pomyślnie wykonałeś całe zadanie. Za chwilkę[ENTER]zostaniesz przeniesiony na zewnątrz. ,,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._290_dNotice,I'll be expecting you at Devil's Catacomb![ENTER]Follow me and my wrath will descend upon you like[ENTER]a tornado! ,"Będę czekał na ciebie w Diabelskich Katakumbach![ENTER]Jeśli pójdziesz za mną, mój gniew zmiażdży cię[ENTER]niczym robaka! ",,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._30_say,"This tower is swarming with devils. Only the[ENTER]strongest can reach the top. Rumour has it that[ENTER]no one who has entered that tower has ever got[ENTER]out of there alive. You cannot enter the tower[ENTER]yet, as you haven't reached level 40. ","Ta wieża jest opanowana przez diabły. Wejść do[ENTER]niej mogą tylko najsilniejsi. Chodzą słuchy, że[ENTER]jeszcze nikt nie wyszedł z niej żywy.[ENTER]Niestety nie mogę Cię wpuścić, ponieważ nie[ENTER]osiągnąłeś jeszcze 40. poziomu. ",,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._40_say,This tower is swarming with devils. Only the[ENTER]strongest can reach the top. Rumour has it that[ENTER]no one who has entered that tower has ever got[ENTER]out of there alive. Do you still want to enter[ENTER]the Demon Tower? ,"Ta wieża jest opanowana przez demony. Na jej[ENTER]szczyt mogą dostać się jedynie najsilniejsi.[ENTER]Chodzą słuchy, że jeszcze nikt nie wyszedł z niej[ENTER]żywy.[ENTER]Czy nadal chcesz wejść do Wieży[ENTER]Demonów?  ",,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:deviltower_zone._50_dNotice,"You are at the sealed gate on the 3rd floor.[ENTER]A lot of fake stones are waiting here to confuse[ENTER]you, but one of them is the very important Metin[ENTER]Stone. You have to destroy it within 15 minutes[ENTER]or you will not be able to pass back through the[ENTER]gate. ",Dotarłeś do Bramy Wyboru na 3. piętrze. Wiele[ENTER]kamieni Metin będzie drażnić Twoje oczy i uszy.[ENTER]Znajdź właściwy kamień Metin i zniszcz go w ciągu[ENTER]15 minut! To jedyny sposób aby przejść dalej. ,,"quest dialog (the game's quests: deviltower_zone), said to everybody | keep: [ENTER] = new line",new
-q:pkg:g:deviltower_zone._60_dNotice,There are 10 minutes remaining. ,Pozostało 10 minut! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._70_dNotice,There are 5 minutes remaining. ,Pozostało 5 minut! ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._80_dNotice,Your time is up. ,Czas już minął. ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._90_dNotice,The fake Metin Stones are disappearing. ,Fałszywe kamienie Metin znikają... ,,"quest dialog (the game's quests: deviltower_zone), said to everybody",new
-q:pkg:g:deviltower_zone._level7_start_loop,"The curse of the Demon Tower seeps into your body,[ENTER]making you more vulnerable to damage. Leave this[ENTER]place or prepare for pain and suffering! ","Klątwa Wieży Demonów przenika Twoje ciało,[ENTER]sprawiając, że stajesz się bardziej podatny na obrażenia.[ENTER]Opuszczaj to miejsce albo przygotuj się na ból i cierpienie! ",,quest dialog (the game's quests: deviltower_zone) | keep: [ENTER] = new line,new
-q:pkg:g:dragon_lair_access._010_npcChat,I want to kill the dragon! ,Chcę zabić tego smoka! ,,quest dialog (the game's quests: dragon_lair_access),new

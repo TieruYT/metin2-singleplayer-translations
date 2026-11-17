@@ -1,4 +1,5 @@
 id,english,polski,translation,notes,status
+c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Приносим извинения за неудобства.,client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),Запросить новый код (до 2 раз),client: window texts (uiScriptLocale),done
 c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742ВНИМАНИЕ!|r Проверка безопасности!,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
 c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,Гейм-мастер запросил проверку.,client: window texts (uiScriptLocale),done
@@ -383,6 +384,13 @@ c:wiki_game:WIKI_OTHER,Other,Inne,Прочее,client: the in-game Wiki,done
 c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Событие сервера (когда активно),client: the in-game Wiki,done
 c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Событие лунного света: дроп зависит от настроек события.,client: the in-game Wiki,done
 c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Йона: 1 ухо Танаки за 1 фиолетовый эбеновый сундук.,client: the in-game Wiki,done
+c:wiki_game:WIKI_FISHING_ANY_ROD,any fishing rod,dowolna wędka,,client: the in-game Wiki,new
+c:wiki_game:WIKI_FISHING_ROD_OR_BETTER,%s or better,%s lub lepsza,,client: the in-game Wiki | keep: %s,new
+c:wiki_game:WIKI_FISHING_ROD_OR_WEAKER,%s or weaker,%s lub słabsza,,client: the in-game Wiki | keep: %s,new
+c:wiki_game:WIKI_FISHING_ROD_RANGE,%s to %s,%s do %s,,client: the in-game Wiki | keep: %s %s,new
+c:wiki_game:WIKI_FISHING_BONUS,catch bonus %d or more,premia połowu od %d,,client: the in-game Wiki | keep: %d,new
+c:wiki_game:WIKI_FISHING_SETUP,Catch bonus = rod + bait; %s with %s is enough.,Premia połowu = wędka + przynęta; wystarczy %s i %s.,,client: the in-game Wiki | keep: %s %s,new
+c:wiki_game:WIKI_FISHING_POOL_NOTE,Default pool; a world may have its own fishing settings.,Pula domyślna; świat może mieć własne ustawienia połowu.,,client: the in-game Wiki,new
 c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,[Fishing] ,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5ad3706308ce,combat settings,ustawienia walki,настройки боя,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,Не удалось сохранить ярлык автоохоты.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -476,6 +484,20 @@ c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,Сопротивление
 c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,Поглощение HP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:600f7953e765,SP absorption,Kradziez PM,Поглощение SP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,Бонус к дропу янг,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b0b5a5aca35,Strong against monsters,Bonus vs potwory,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:befebe89c1fe,Strong against Warriors,Bonus vs Wojownik,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c2f0b70872a8,Strong against Ninjas,Bonus vs Ninja,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d3e149af80b0,Strong against Suras,Bonus vs Sura,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ea365cedf015,Strong against Shamans,Bonus vs Szaman,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:062864d36bdc,Resistance: Warriors,Odpornosc: Wojownik,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2a5ea337bdfd,Resistance: Ninjas,Odpornosc: Ninja,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1756ae438081,Resistance: Suras,Odpornosc: Sura,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3dcc671eaf88,Resistance: Shamans,Odpornosc: Szaman,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:79507f7119f9,Resistance: fire,Odpornosc: ogien,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8a869ea083a3,Resistance: lightning,Odpornosc: blyskawice,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:016c1c54129c,Resistance: wind,Odpornosc: wiatr,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b19a20795ce4,Double experience chance,Szansa na podwojny exp,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d827ea154c18,Item drop bonus,Bonus do dropu,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),%s (макс. %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
 c:pbt:7ceca51fcafe,Buy,Kup,Купить,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:63fc03bc6359,- none -,- brak -,- нет -,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -511,6 +533,9 @@ c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,Очистить н�
 c:pbt:56e3badc4e6c,Refresh,Odswiez,Обновить,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:412226715c56,Clear filters,Wyczysc filtry,Очистить фильтры,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),Анимации (вкл./выкл.),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98b2e774fca7,"Add to the wish list: the name, the least plus from Filters, ""to:"" a piece","Dodaj do listy zyczen: nazwa, min. plus z Filtrow, ""do:"" za sztuke",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:72856d01751b,WL,LZ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:62784b04f81f,Wish list,Lista zyczen,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:c4d63e4c56f1,From:,Od:,От:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ba1cfdcd865f,to:,do:,до:,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecdda59aea5e,Item,Przedmiot,Предмет,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -523,6 +548,7 @@ c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,Выбрано: %d | %s
 c:pbt:20b908f50fa9,Buy (%d),Kup (%d),Купить (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,Купить все выбранные предложения,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,Купить выбранные предложения (%d) за %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:2cbb37b29c96,Bought %d of %d - no room in the inventory.,Kupiono %d z %d - brak miejsca w ekwipunku.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
 c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,Загрузка предложений... получено %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.","Показано предложений: %d (лимит) - уточни поиск, чтобы увидеть остальные.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),Предложений: %d (подходят под фильтры: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
@@ -534,9 +560,35 @@ c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wcz
 c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,Мало предложений - примерная оценка,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,Нет данных о ценах,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","Выборка: загруженные предложения (фильтры, лимит 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa1c659ef96a,Wish list: type an exact name from the suggestions in the Name field.,Lista zyczen: wpisz w polu Nazwa dokladna nazwe z podpowiedzi.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,Купить %s за %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
 c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,Алхимия камней дракона включена.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,Алхимия камней дракона выключена в этом мире.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1476e3bb5bb5,%d min ago,%d min temu,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:58da3110e0aa,%d h ago,%d godz. temu,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:64e8c23a3eb2,%d d ago,%d dni temu,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:21fadc2ab284, (+%d or more), (od +%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:ab9668847d8c,", up to %s each",", do %s/szt.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:f553feb0496a,"%s - %s each, %s, %s","%s - %s/szt., %s, %s",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s %s",new
+c:pbt:894ac47dfa47,"Wish list: %s is cheaper now, %s each (sold by %s). Look for it in the Flea Market.","Lista zyczen: potanialo %s, teraz %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",new
+c:pbt:b7519293d145,Wish list: %s is on the market for %s each (sold by %s). Look for it in the Flea Market.,Lista zyczen: na rynku jest %s za %s/szt. (sprzedaje %s). Szukaj w Domu Towarowym.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",new
+c:pbt:d53aeea37112,Wish list: added %s,Lista zyczen: dodano %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:28b0cab3cbd9,The wish list is full (%d entries). Remove one to add another.,"Lista zyczen jest pelna (%d pozycji). Usun cos, aby dodac nowe.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:63f75130b52d,This item cannot be added to the wish list.,Tego przedmiotu nie mozna dodac do listy zyczen.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d6a796000188,The Flea Market is switched off in this world.,Dom Towarowy jest wylaczony na tym swiecie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f059d5f00cc1,Remove from the list,Usun z listy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:df251b06eefd,Find,Szukaj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b026dcc3771a,Look for it in the Flea Market,Szukaj w Domu Towarowym,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2422bc09e6de,"To add: type the name in the Flea Market and click ""+"".","Dodaj: wpisz nazwe w Domu Towarowym i kliknij ""+"".",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c4367c6352ed,"The least plus comes from Filters, ""to:"" is the highest price a piece.","Najmniejszy plus z Filtrow, ""do:"" to najwyzsza cena za sztuke.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d6760f296a78,Clear the hits,Wyczysc trafienia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bbfa773e5a63,Close,Zamknij,Закрыть,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c1fa969b47d,Wanted (%d/%d),Szukane (%d/%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:8b6ab2ac369f,Hits of the last 7 days (%d),Trafienia z ostatnich 7 dni (%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:b04ba49f8486,Loading...,Wczytywanie...,Загрузка...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d18305c15cb,The server does not answer the wish list (an older server?).,Serwer nie odpowiada na liste zyczen (starsza wersja serwera?).,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1c290077407c,The list is empty.,Lista jest pusta.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b6c0f1e39d2c,Dragon Flame: could not open the window.,Smoczy Plomien: nie udalo sie otworzyc okna.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,Вселение недоступно (на сервере нет задания).,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,Захват %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...","Вселение: ждём, пока бот покинет мир (около %d с)...","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -558,7 +610,7 @@ c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - осталось
 c:pbt:68c165671716,leads,prowadzi,лидирует,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.","Файл игры metin2client.exe устарел.[ENTER]Закрой игру и лаунчер, снова открой лаунчер[ENTER]и нажми ИГРАТЬ - файл будет заменён. Если сообщение[ENTER]появится снова, добавь папку игры в исключения антивируса.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
 c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,Сохранённый пароль не читается на этом компьютере.[ENTER]Введи пароль и снова щёлкни по этому аккаунту - он сохранится заново.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,Оригинал: metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9823519a113,The original: mt2sp.com,Oryginał: mt2sp.com,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","Инвентарь отсортирован: перемещено %d, объединено стопок %d.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,Инвентарь уже отсортирован.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","Сейчас нельзя отсортировать инвентарь - закрой обмен, лавку или другое окно.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -589,7 +641,6 @@ c:pbt:c2549723119a,Surprise,Niespodzianka,Сюрприз,"client: our windows (c
 c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,Распаковать,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,Один подарок на аккаунт,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,24 декабрьских сюрприза,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbfa773e5a63,Close,Zamknij,Закрыть,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb11a8e3f871,Rules,Zasady,Правила,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:83c87884b09b,Claimed,Odebrano,Получено,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b564001a58dc,Missed,Minelo,Пропущено,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -640,62 +691,11 @@ c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu:
 c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,Рынок: нет сопоставимых предложений.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,Последняя продажа ботами: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,Последняя продажа ботами: нет данных.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f8e7920f8695,no limit,bez limitu,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).","Твой клиент %s старше,[ENTER]чем требует сервер (%s).[ENTER]Чтобы обновить, закрой игру и запусти[ENTER]Aktualizuj.bat в папке клиента[ENTER](или лаунчер, если он есть).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:2a9cbcb43195,Boss on map,Boss na mapie,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,Щелчок: скрыть процент EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,Щелчок: показать процент EXP,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:20e40e8f033c,FPS counter,Licznik FPS,Счётчик FPS,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ca6fcaed995c,Map name,Nazwa mapy,Название карты,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,Удерживать Enter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8238f65551,Snow,Śnieg,Снег,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c614ba7c453c,Auto,Auto,Авто,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,Активные задания: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,Продолжать улучшать,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",После попытки окно появляется снова,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,"для того же предмета, пока он лежит в своей ячейке.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,Каждую попытку ты подтверждаешь сам.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.",Enter: улучшить и подтвердить вопрос.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,"Игровой сервер старше клиента, и улучшение свитком не берёт материалы со склада - обнови сервер.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,"Игровой сервер старше клиента, и его кузнец не берёт материалы со склада - обнови сервер.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,Улучшение свитком берёт материалы со склада только в первой или второй деревне.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).","Кузнец берёт материалы со склада, когда ты открыл его у кладовщика (с паролем).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Материалы со склада берёт только кузнец в первой или второй деревне.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Склад отсортирован: перемещено %d, объединено стопок %d.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,Склад уже отсортирован.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Сейчас нельзя отсортировать склад - закрой обмен, лавку или другое окно.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Не удалось разложить склад - ничего не изменено.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,"Нельзя сортировать склад, будучи мёртвым.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Склад в непредвиденном состоянии - ничего не изменено. Сообщи об этом в Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,Склад не открыт.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Сервер не поддерживает эту функцию склада.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,Нельзя сортировать склад во время открытия лавки.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Сейчас нельзя переместить предмет - закрой обмен, лавку или другое окно.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Этого предмета там больше нет.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,В этой ячейке лежит другой предмет.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Эта стопка заполнена.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Этот предмет туда положить нельзя.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Туда нельзя положить предмет.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,Слишком быстро - попробуй ещё раз.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,"Нельзя перемещать предметы, будучи мёртвым.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Загрузка данных о ценах...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Выбери режим автоматических цен.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Цена будет установлена по твоему выбору.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Цены: получено %d из %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Получение рыночных цен для %d предметов, около %d с. Не закрывай окно лавки.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Цены не изменены: сумма лавки достигла бы лимита янг.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,Пропущено предметов без цены или с изменённым лотом: %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,Изменения цен поставлены в очередь для %d предметов.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,Автоцены остановлены: окно лавки закрыто или режим изменён.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Цены лавки изменены (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Не удалось изменить цену %d строк - попробуй ещё раз.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Красное (М),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acef391bd970,Red (M),Czerwone (S),Красное (С),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb9768bd833b,Red (L),Czerwone (D),Красное (Б),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Синее (М),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Синее (С),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c9734458346,Blue (L),Niebieskie (D),Синее (Б),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Зелёное (М),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Зелёное (С),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:232a14f8169a,Green (L),Zielone (D),Зелёное (Б),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Фиолетовое (М),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Фиолетовое (С),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Фиолетовое (Б),"client: our windows (companion, Auto Hunt, status lines)",done

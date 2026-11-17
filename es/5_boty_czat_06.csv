@@ -54,7 +54,7 @@ b:phrase:1f87fc9d3910,You spend the skill points now.,,Gastas los puntos de habi
 b:phrase:c0930fa56af5,Your companion spends the skill points again.,,Tu companero vuelve a repartir los puntos de habilidad.,"a phrase the server says (bots' help, notices)",done
 b:phrase:127b4c86c441,Your companion has no path yet (it gets one at level 5).,,Tu companero aun no tiene doctrina (la elige al nivel 5).,"a phrase the server says (bots' help, notices)",done
 b:phrase:494e62a6df2e,That is not one of your companion's skills.,,Esa no es una habilidad de tu companero.,"a phrase the server says (bots' help, notices)",done
-b:phrase:c073c9914da9,Your companion has no skill points left.,,Your companion has no skill points left.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c073c9914da9,Your companion has no skill points left.,,Your companion has no skill points left.,"a phrase the server says (bots' help, notices)",check
 b:phrase:f4a5e6169d70,Only books and spirit stones raise that skill now.,,Ahora solo los libros y las piedras espirituales aumentan esa habilidad.,"a phrase the server says (bots' help, notices)",done
 b:phrase:a02ec3be7acd,"At 17 a skill waits for its Master - from there only books, or a reset at the Old Woman.",,"A los 17, una habilidad espera a su Maestro; a partir de ahi, solo los libros o un reinicio en la Anciana.","a phrase the server says (bots' help, notices)",done
 b:phrase:f9ed1f6ddb8a,Skill at level %d%s. You spend the points now.,,Habilidad en el nivel %d%s.Gastas los puntos ahora.,"a phrase the server says (bots' help, notices) | keep: %d %s",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Yendo a Jack Pumpkin,"a phrase the 
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Comerciando con Jack Pumpkin,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,voy al Espantapajaros Calabaza,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Hablando con el Espantapajaros Calabaza,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,No puedo entrar aquí: este lugar es solo para jugadores.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,No he podido llegar hasta ti.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,Cancelo las compras. Tras la confirmación de la tienda vuelvo y luego me voy a subir de nivel por mi cuenta.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,Cancelo las compras. Tras la confirmación de la tienda vuelvo y luego me voy a pescar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,Cancelo las compras y vuelvo tras la confirmación de la tienda. Despídeme de nuevo cuando haya vuelto.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,No cumplí la orden después de las compras: dámela otra vez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,"Un momento, todavía estoy recibiendo la orden anterior. Inténtalo de nuevo.","a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,No tengo compras que cancelar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,Las compras están canceladas; sigo esperando a la tienda. Vuelve a ordenármelo cuando haya vuelto.,"a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,Ya tengo 8 órdenes: espera a que termine una.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,No he podido llegar a la ciudad.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,La tienda se está abriendo. Me quedaré a su lado y la cerraré en cuanto el juego lo confirme; los bienes vuelven a mi inventario.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,tienda offline no disponible,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,tienda desactivada,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,cerrando la tienda: saca yang de la bolsa para hacer sitio a las ganancias,"a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"cerrando la tienda; esperando los bienes devueltos, las ganancias o la confirmación","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,tienda esperando al canal 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,voy a abrir la tienda en M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,tienda abierta; servicio cuando esté libre,"a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,tienda caducada; esperando servicio,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Tienda: %u ofertas. Ganancias por recoger en el puesto: %lld yang. Vendo lo sobrante de todo el inventario; los regalos y los objetos necesarios se quedan.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Tienda activada. Vendo lo sobrante de todo el inventario, salvo los regalos y los objetos necesarios. Recoge las ganancias de mi bolsa. A tu lado la monto en la primera aldea en la que estés (de cualquier reino) en el canal 1; con libertad o jugando solo voy por mi cuenta a la aldea de mi reino.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Las tiendas del compañero solo están disponibles en mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,tus regalos,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,marcado/bloqueado por ti,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,movido por ti hace <5 min,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,no se puede vender,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,lo necesito yo,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Nunca vendo regalos: Shift + clic derecho en mi inventario libera uno.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s completó la misión %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"No estoy luchando: estoy configurado en ""No luchar"". Cámbialo en la ventana del Compañero (P), pestaña Combate, o susúrrame ""attack"".","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Muñeco de entrenamiento: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

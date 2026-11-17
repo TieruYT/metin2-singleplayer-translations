@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 p:58358c356a84,Max. HP +%d,Max PŻ: +%d,,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
-p:01117c116082,Max. SP +%d,Max PE: +%d,,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
+p:01117c116082,Max. SP +%d,Max PE: +%d,,"APPLY_TEXTS[2][1] / panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:7505ed037a49,Vitality +%d,Witalność +%d,,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:88be89e0b9e3,Strength +%d,Siła: +%d,,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
@@ -87,6 +87,7 @@ p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,,"APP
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:b35287fee0ec,Terror +%d%%,Terror +%d%%,,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
+p:54690e658e25,Chance to reflect Arrows: %d%%,Szansa na odbicie pocisku: %d%%,,"APPLY_TEXTS[1080][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
@@ -278,7 +279,7 @@ p:7fe3519695c5,shellfish,małża,,"DECISION_ENUMS['FIXED'][4] | the classic web 
 p:f403de3ac3ab,horse medal,medal konny,,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",new
 p:eba8e06de737,Dried Head,Suszona Głowa,,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",new
 p:d0713f5a930d,hairstyle,fryzura,,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",new
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",new
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,,"DECISION_ENUMS['FIXED'][8] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:0b6df592d5ed,Cor Draconis,Cor Draconis,,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",new
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni),,"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:355c6915844f,stands,wystawień,,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",new
@@ -307,8 +308,8 @@ p:c0c633ea5071,a key,klucz,,"DECISION_ENUMS['SAFEBOX_WHY'][4] | the classic web 
 p:d0941e68da8f,other,inne,,"DECISION_ENUMS['SAFEBOX_WHY'][9] | the classic web panel (browser, UTF-8: any letter)",new
 p:dfec73f58eb1,markdown off,przecena wyłączona,,"DECISION_ENUMS['SUPPLY_TIER'][0] | the classic web panel (browser, UTF-8: any letter)",new
 p:263a014e24cf,"mild markdown (-5% every 3 h, to -20%)","przecena złagodzona (-5% co 3 h, do -20%)",,"DECISION_ENUMS['SUPPLY_TIER'][1] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
-p:865c7909fed0,"standard markdown (-10% every 3 h, to -40%)","przecena standardowa (-10% co 3 h, do -40%)",,"DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
-p:2c147c5c2349,"add and change stone markdown (-10% every 3 h, to -60%)","przecena dodań i zmianek (-10% co 3 h, do -60%)",,"DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
+p:5fc77d554b66,"standard markdown (-10% every 3 h, to -70%)","przecena standardowa (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
+p:35f78aa61326,"add and change stone markdown (-10% every 3 h, to -70%)","przecena dodań i zmianek (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
 p:42f7cbbbdce6, (an earlier markdown cancelled), (wcześniejsza przecena anulowana),,"DECISION_ENUMS['TIER_CANCELLED'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:424a8795fde9,", on a nice ending",", z ładną końcówką",,"DECISION_ENUMS['NICE_END'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:8992caf91843, (the average-damage base), (baza ŚR),,"DECISION_ENUMS['CATALOGUE_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",new
@@ -356,7 +357,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,,"DECISION_GO
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy",,"DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),,"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",new
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}",,"DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}",,"DECISION_GOODS[30][1] / panel: module text | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi",,"DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",new
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}",,"DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",new
@@ -404,7 +405,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,,"DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",new
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",new
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",new
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",new
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,,"DECISION_OFF[21] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",new
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",new
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa",,"DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",new
@@ -413,6 +414,7 @@ p:e2046dfdb681,a level 32/36 bell +0..+3 (0-1 bonus) over the kingdom market's d
 p:fe86cee3c952,a carrot or a Red Ginseng over 300 on the kingdom's market — for Red Potions (D) or the merchant,Marchewka lub Czerwony Żeń-szeń ponad 300 na rynku królestwa — na Czerwone Mikstury (D) albo do Handlarki,,"DECISION_OFF[27] | the classic web panel (browser, UTF-8: any letter)",new
 p:8d9993d89706,a player is buying it from the bot at a meeting — taken home for the trade window,gracz kupuje go od bota na spotkaniu — zdjęty do torby na okno handlu,,"DECISION_OFF[28] | the classic web panel (browser, UTF-8: any letter)",new
 p:4b770d408280,a helmet or shield +0..+4 over 60 of the item on the bots' counters — for the merchant,hełm lub tarcza +0…+4 ponad 60 sztuk tego przedmiotu na ladach botów — do Handlarki,,"DECISION_OFF[29] | the classic web panel (browser, UTF-8: any letter)",new
+p:66a4f18d790a,a refine scroll the bot needs itself — taken back before it buys one elsewhere,"zwój ulepszania, którego bot sam potrzebuje — zabrany, zanim kupi go u innych",,"DECISION_OFF[30] | the classic web panel (browser, UTF-8: any letter)",new
 p:2f4cb7db5792,"unknown (a drop, a chest, a trade)","nieznane (łup, skrzynia, wymiana)",,"DECISION_ORIGINS[0][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:b2f755925666,"bought from the merchant, off the ladder ({a})",kupione u handlarza z drabinki ({a}),,"DECISION_ORIGINS[1][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",new
 p:03be11c61942,bought in an emergency from the merchant for {a},kupione awaryjnie u handlarza za {a},,"DECISION_ORIGINS[2][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",new
@@ -647,7 +649,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,,"GEAR_HISTORY_HOWS['SAFEBOX PUT'][1
 p:cacea96bfc17,Out of the safebox,Z magazynu,,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",new
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",new
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",new
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",new
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",new
@@ -697,5 +699,3 @@ p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),,"MAP_I18N['j1'] 
 p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),,"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",new
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",new
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",new
-p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,,"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",new
-p:b8391ccd7843,Medium Monkey Dungeon,Średni Loch Małp,,"MAP_I18N['monkey_medium'] | the classic web panel (browser, UTF-8: any letter)",new
