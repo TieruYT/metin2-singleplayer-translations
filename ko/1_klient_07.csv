@@ -1,4 +1,412 @@
 id,english,polski,translation,notes,status
+c:pbt:39e47571accd,Character to Report,Zgłaszana postać,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f219cc0614ae,Reason,Powód,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d11da964559c,Character Name,Nazwa postaci,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ae8a3be16298,Other:,Inny:,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9fa94db7fd1b,No response from the server. Please try again.,Brak potwierdzenia z serwera. Spróbuj ponownie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c338c191ab1e,Sending...,Wysyłanie...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a49e825b3407,Cannot save favourite contacts.,Nie można zapisać ulubionych kontaktów.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c83a87c9f18e,Notifications: OFF,Powiadomienia: WYŁ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ee31fc604ee4,Channel CH%d is unavailable.,Kanal CH%d jest niedostepny.,CH%d 채널을 사용할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:0c0bee78e03f,You are already on CH%d.,Jestes juz na kanale CH%d.,이미 CH%d에 있습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1310c1044867,"A channel change is already on its way, wait a moment.","Zmiana kanalu juz trwa, poczekaj chwile.",이미 채널 변경 중입니다. 잠시 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:34b7ac96f817,"%s (%d, %d) - right click: remove","%s (%d, %d) - PPM: usuń","%s (%d, %d) - 우클릭: 제거","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:eb8e9b8f57d4,Marker name,Nazwa znacznika,표식 이름,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d699f1e1bda,"Remove the marker ""%s""?","Usunąć znacznik ""%s""?","""%s"" 표식을 제거하시겠습니까?","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c39ee28e28ed,Marker added: %s,Dodano znacznik: %s,표식 추가: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e42f62b0b97f,Marker removed: %s,Usunięto znacznik: %s,표식 제거: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a84a51bd45f9,This map already has %d markers - remove one to add another.,"Na tej mapie jest już %d znaczników - usuń któryś, aby dodać nowy.",이 지도에는 이미 표식이 %d개 있습니다. 하나를 지워야 추가할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d5da83c1a7bf,Could not save the markers (%s).,Nie udało się zapisać znaczników (%s).,표식을 저장할 수 없습니다 (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f5c8926c8e0e,Asking for the drop...,Pobieram drop...,전리품 정보를 요청하는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:004a20a9c523,Nothing drops from the drop tables,Nic nie wypada z tabel dropu,전리품 표에서 떨어지는 것이 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2cc16239a00a,No drop data,Brak danych o dropie,전리품 정보 없음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:437f5ba9da64,Drops come from its second form,Łupy wypadają z drugiej formy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6f656b10e0cd,Drops come from its second form: %s,Łupy wypadają z drugiej formy: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:7239eeb24471,"Invalid Yang amount. Use k, kk or kkk.","Niepoprawna kwota Yang. Uzyj k, kk lub kkk.","냥 금액이 잘못되었습니다. k, kk 또는 kkk를 사용하세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3fedea596370,Yang amount exceeds available funds.,Kwota Yang przekracza dostepne srodki.,냥 금액이 보유 금액을 넘습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9f8b0eab973b,Enter a valid whole quantity.,Wpisz poprawna liczbe calkowita.,올바른 정수 수량을 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a31d29e9258,Ranking is not available yet.,Ranking nie jest jeszcze dostępny.,순위를 아직 볼 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:056278bc5f06,Loading ranking...,Pobieranie rankingu...,순위 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f090dd6fc241,Unknown character,Nieznana postać,알 수 없는 캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be0c9e50fbd6,The ranking is still empty.,Ranking jest jeszcze pusty.,순위가 아직 비어 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b3d7eb409803,Ranking is being calculated; try in %d min.,"Ranking liczy się, spróbuj za %d min.",순위를 계산 중입니다. %d분 후 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:41869306de76,Wait a moment before refreshing.,Odczekaj chwilę przed odświeżeniem.,새로 고치기 전에 잠시 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14aaac54a39a,Ranking unavailable. Try again.,Ranking chwilowo niedostępny. Spróbuj ponownie.,순위를 볼 수 없습니다. 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:48b07c1a268c,Character Fame,Sława postaci,캐릭터 명성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f9ed0bb0c39a,Your fame:,Twoja sława:,당신의 명성:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6de63fda11e7,Most famous characters,Najsławniejsze postacie,가장 유명한 캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd48a1149548,Rank,Miejsce,직급,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee9946c82d4a,Character,Postać,캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:197e7446125b,Fame,Sława,명성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b2a6a314956,Points,Punkty,포인트,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:615d333fc0e9,F11: open / close,F11: otwórz / zamknij,F11: 열기 / 닫기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:31e5f48153d2,Excluded (GM),Poza rankingiem (GM),제외 (GM),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:159b81bac28d,Your rank: %d of %d  |  Points: %d,Twoje miejsce: %d z %d  |  Punkty: %d,내 순위: %d / %d  |  점수: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:d2dbcb22661f,Your rank: unranked,Twoje miejsce: poza rankingiem,내 순위: 순위 없음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:abb8bf370dc4,Your rank: --,Twoje miejsce: --,내 순위: --,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a3374ec1079,GM characters are excluded from ranking.,Postacie GM nie biorą udziału w rankingu.,GM 캐릭터는 순위에서 제외됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6315d147b088,Snapshot age: %d min; ranking updates periodically.,Zapis sprzed %d min; ranking aktualizuje się okresowo.,"스냅샷 경과: %d분, 순위는 주기적으로 갱신됩니다.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:4ca88ea465a9,Bots,Boty,봇,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc7a4ca91615,Companion,Towarzysz,동료,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:977d44d9558b,"Summon your companion and set combat and pickup. Its window holds inventory, skills and Alchemy.","Przywołaj pomocnika, ustaw walkę i drop. Plecak, umiejętności i Alchemia są w jego oknie.","동료를 부르고 전투와 줍기를 설정하세요. 동료 창에는 인벤토리, 스킬, 연금술이 있습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fca1ec8b3d85,Auto Hunt,Auto Łowy,자동 사냥,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aabcf0e5b6dc,"Set targets, range, skills, potions and pickup kinds. Battle Rider fights from a combat horse.","Ustaw cele, zasięg, umiejętności, mikstury i rodzaje dropu. Bojowiec walczy z konia bojowego.","대상, 범위, 스킬, 물약, 줍기 종류를 설정하세요. 전투 기수는 전투마 위에서 싸웁니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a48ae114274d,Pickup filters,Filtry dropu,줍기 필터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39655da2304d,K / P,K / P,K / P,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cba05c465f4b,K: pickup kinds and filter for Z / `. P: Drop and Filter also govern bots collecting your party share.,K: rodzaje dropu i filtr dla Z / `. P: Drop i Filtr sterują też botami zbierającymi twój drop w PT.,K: 줍기 종류와 Z / ` 필터. P: 전리품과 필터는 파티 몫을 줍는 봇에도 적용됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1305fffae062,Fame and diagnostics,Sława i diagnostyka,명성과 진단,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2c0697bd48b9,"F11 shows your fame and ranking. Ctrl+F11 shows or hides the diagnostics at the top right: position, FPS and camera (by Lostek).","F11 pokazuje twoją sławę i ranking. Ctrl+F11 pokazuje lub ukrywa informacje diagnostyczne w prawym górnym rogu: pozycję, FPS i kamerę (Lostek).","F11은 명성과 순위를 보여 줍니다. Ctrl+F11은 오른쪽 위 진단(위치, FPS, 카메라, 제작: Lostek)을 표시하거나 숨깁니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e797e5eb127,Talk to a bot,Rozmowa z botem,봇과 대화,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70d8789d3401,"Whisper a bot about gear, skills or prices. You can also call your own companion.","Napisz do bota: zapytaj o ekwipunek, umiejętności lub cenę. Własnego kompana możesz wezwać.","장비, 스킬, 가격에 대해 봇에게 귓속말하세요. 자신의 동료를 부를 수도 있습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:045d3de3a333,Guild bot orders,Rozkazy gildii,길드 봇 명령,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60a538fbd0ec,"Guild window, Guild bots button: Help me!, Hunt with me, Go back. Or type /gildia_boty help, exp or return.","Okno gildii, przycisk Boty gildii: Pomocy!, Expimy razem, Wracajcie. Albo wpisz /gildia_boty pomoc, exp lub wracajcie.","길드 창의 길드 봇 버튼: 도와줘!, 함께 사냥하자, 돌아가. 또는 /gildia_boty help, exp, return을 입력하세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b0811e470d6b,Trade,Handel,거래,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01c3eff2ecb8,Collector's warehouse,Magazyn kolekcjonera,수집가의 창고,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f59d1ce059f,Storekeeper,Dozorca,창고지기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:271718233629,Open storage at the Storekeeper with your storage password. Categories and stack transfers save bag space.,"Otwórz magazyn u Dozorcy hasłem magazynu. Kategorie, sortowanie i przenoszenie stosów zwalniają plecak.",창고지기에게서 창고 비밀번호로 창고를 여세요. 분류와 묶음 이동으로 가방 공간을 아낄 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae436cd86487,Alchemy,Alchemia,연금술,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bf576920600f,Dragon Stones have separate storage and two decks. The Alchemist refines them; the bag button opens the window.,Kamienie Smoka mają osobny ekwipunek i dwa zestawy. Alchemik ulepsza kamienie; przycisk w plecaku otwiera okno.,"용혼석은 별도 창고와 두 개의 덱이 있습니다. 연금술사가 정제하며, 가방 버튼으로 창을 엽니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50d0547e023e,Auto-price,Auto-cena,자동 가격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4f1646532a7,Price dialog / Prices,Okno ceny / Ceny,가격 창 / 가격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72d5c38573ac,Choose a pricing mode when listing. Prices in shop editing can price the whole shop; you can still type a price.,Wybierz tryb wyceny przy wystawianiu. Ceny w edycji sklepu pozwalają ustawić cały sklep; własną cenę wpiszesz ręcznie.,"물건을 올릴 때 가격 방식을 고르세요. 상점 편집의 가격 버튼으로 상점 전체 가격을 정할 수 있으며, 직접 입력도 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7cd13d0155fe,DC icon by the minimap,Ikona SM przy minimapie,미니맵 옆 DC 아이콘,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b41b57dec0e9,Browse goods for Dragon Coins and Dragon Marks. In-game vouchers increase your account balance.,Przeglądaj ofertę za Smocze Monety i Smocze Znaki. Bony z gry zwiększają saldo konta.,드래곤 코인과 드래곤 마크로 살 수 있는 상품을 둘러보세요. 게임 내 쿠폰은 계정 잔액을 늘려 줍니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e85232d9b07,General Store in M1 and M2,Handlarka Różności w M1 i M2,M1과 M2의 잡화상점,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1d66c80110a4,Search shop offers and buy without walking to a stall. Choose the quantity when buying a stack.,Szukaj ofert sklepów i kupuj bez chodzenia do straganu. Wybierz liczbę sztuk przy zakupie stosu.,상점 매물을 검색해 노점까지 가지 않고 구매하세요. 묶음을 살 때 수량을 고르세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df6f3b8246a4,Drop preview,Podgląd dropu,전리품 미리보기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fcc678277688,Target / chest window,Okno celu / skrzyni,대상 / 상자 창,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3798e1d62a35,"Preview possible monster or chest items. These are drop chances, not a guaranteed reward.","Podgląd pokazuje możliwe przedmioty potwora lub skrzyni. To szanse na drop, nie obietnica nagrody.",몬스터나 상자에서 나올 수 있는 아이템을 미리 봅니다. 확률일 뿐 보장된 보상이 아닙니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6bf5da9c080b,Options,Opcje,옵션,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18e03e2a37ba,Channels,Kanały,채널,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5539613ae963,"X opens channel selection, X+1-4 moves to CH1-CH4. You can also click a CH button beside the minimap.","X otwiera wybór kanału, X+1-4 przenosi na CH1-CH4. Możesz też kliknąć przycisk CH obok minimapy.","X는 채널 선택을 열고, X+1-4는 CH1-CH4로 이동합니다. 미니맵 옆의 CH 버튼을 눌러도 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70d4d4f6e5d4,Tyrion's options,Opcje Tyriona,Tyrion의 옵션,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3d28be36debb,ESC > System options,ESC > Opcje systemowe,ESC > 시스템 옵션,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6df8b42bfc27,"Set field of view, FPS counter, snow and map name. Change font size in the login screen settings.","Ustaw pole widzenia, licznik FPS, śnieg i nazwę mapy. Rozmiar czcionki zmienisz w ustawieniach na ekranie logowania.","시야, FPS 표시, 눈, 맵 이름을 설정하세요. 글자 크기는 로그인 화면 설정에서 바꿉니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc43c4cead15,Map markers,Znaczniki mapy,지도 표식,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a0ad638430b,Right click on minimap / M,PPM na minimapie / M,미니맵 우클릭 / M,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5169b3fc6dcb,Mark your position on the minimap. On the M map choose a location; click an existing marker to remove it.,"Na minimapie dodaj znacznik swojej pozycji. Na mapie pod M wskaż miejsce; kliknij istniejący znacznik, aby go usunąć.","미니맵에 현재 위치를 표시하세요. M 지도에서 장소를 고르고, 기존 표식을 클릭하면 지워집니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a024cdcd7dd,Ctrl+Alt+Right click,Ctrl+Alt+PPM,Ctrl+Alt+우클릭,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca8c9c58af1a,"Click an inventory item or a monster, Metin or NPC target to open its wiki page in your browser.","Kliknij przedmiot w plecaku albo cel: potwora, Metina lub NPC. Otworzysz odpowiednią stronę wiki w przeglądarce.","인벤토리 아이템이나 몬스터, 메틴석, NPC 대상을 클릭하면 브라우저에서 위키 페이지가 열립니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:77c98c75b86a,Statistics and administration,Statystyki i administracja,통계와 관리,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4787c49ab43a,"Y: character statistics. F9: GM panel, F10: GM bot inspection. The GM panels require GM rights.","Y: statystyki postaci. F9: panel GM, F10: podgląd botów dla GM. Uprawnienia GM są wymagane.","Y: 캐릭터 통계. F9: GM 패널, F10: GM 봇 검사. GM 패널은 GM 권한이 필요합니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5fe28116e643,Help and horse,Pomoc i koń,도움말과 말,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c520865b329f,H opens and closes help. Ctrl+H keeps its horse action. Some features may be disabled in world settings.,H otwiera i zamyka pomoc. Ctrl+H zachowuje obsługę konia. Część funkcji może być wyłączona w ustawieniach świata.,H로 도움말을 열고 닫습니다. Ctrl+H는 말 기능을 그대로 유지합니다. 일부 기능은 월드 설정에서 꺼져 있을 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:45e5f3f72e96,Commands,Komendy,명령어,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b76736f1ad71,Command  |  what for,Komenda  |  czego dotyczy,명령어  |  용도,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab82dcd51304,/companion summon | wait | free,/towarzysz przywolaj | czekaj | wolny,/companion summon | wait | free,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70d14bc0423a,"Call your companion, make it wait or let it go free. /sidekick is the same. PL: /towarzysz przywolaj | czekaj | wolny.","Wezwij towarzysza, każ mu czekać albo puść go wolno. EN: /companion summon | wait | free (także /sidekick).",동료를 부르거나 기다리게 하거나 자유롭게 둡니다. /sidekick도 같습니다. PL: /towarzysz przywolaj | czekaj | wolny.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e15b3423d84b,/companion fight attack | defend | passive,/towarzysz walka atakuj | obrona | spokoj,/companion fight attack | defend | passive,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a86fcf78cbf3,"Fighting stance: attacks on its own, only defends you, or does not fight. PL: /towarzysz walka atakuj | obrona | spokoj.","Postawa w walce: sam atakuje, tylko cię broni albo nie walczy. EN: /companion fight attack | defend | passive.","전투 태세: 스스로 공격, 당신만 방어, 또는 싸우지 않음. PL: /towarzysz walka atakuj | obrona | spokoj.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5189a27a351,/companion loot none | owner | all,/towarzysz zbieraj 0 | 1 | 2,/companion loot none | owner | all,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:336d74d33c85,"What it picks up: nothing, only your drop, or the whole drop. PL: /towarzysz zbieraj 0 | 1 | 2.","Co zbiera: nic, tylko twój drop albo cały drop. EN: /companion loot none | owner | all.","줍는 것: 없음, 당신의 전리품만, 또는 전부. PL: /towarzysz zbieraj 0 | 1 | 2.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9f77105e898c,/companion protect | buffs | lure | ranged on|off,/towarzysz ochrona | buffy | luruj | dystans 0|1,/companion protect | buffs | lure | ranged on|off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:55ed9866e01f,Pulls monsters off you when you are dying; buffs you; lures; hits archers and casters first. Example: /companion buffs on.,"Ściąga potwory, gdy giniesz; buffuje cię; luruje; najpierw bije łuczników i magów. Przykład: /towarzysz buffy 1 (EN: buffs on).","당신이 죽어 갈 때 몬스터를 떼어 내고, 버프를 걸고, 유인하며, 궁수와 마법사를 먼저 공격합니다. 예: /companion buffs on.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b544b1c8b96,/companion solo | party | chests | coins | lock on|off,/towarzysz sam | grupa | skrzynki | monety | blokada 0|1,/companion solo | party | chests | coins | lock on|off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1331f47dc39f,"Plays without you; joins your party; opens chests; spends Dragon Coins; leaves its gear alone. PL: sam, grupa, skrzynki, monety, blokada.","Gra bez ciebie; wchodzi do twojej grupy; otwiera skrzynie; wydaje Smocze Monety; nie rusza swojego sprzętu. EN: solo, party, chests, coins, lock.","당신 없이 플레이, 파티 참가, 상자 열기, 드래곤 코인 사용, 장비 고정. PL: sam, grupa, skrzynki, monety, blokada.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:729c31d7bc58,/companion shopping | fishing | status,/towarzysz zakupy | lowienie | stan,/companion shopping | fishing | status,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d7aa7f28eda9,Send it shopping in town or fishing; status says what it is doing now. PL: /towarzysz zakupy | lowienie | stan.,"Wyślij go po zakupy do miasta albo na ryby; stan mówi, co teraz robi. EN: /companion shopping | fishing | status.",마을로 쇼핑을 보내거나 낚시를 시킵니다. status는 지금 하는 일을 알려 줍니다. PL: /towarzysz zakupy | lowienie | stan.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9845468bf74d,/companion bag yang give | take <amount>,/towarzysz eq yang daj | wez <ilosc>,/companion bag yang give | take <amount>,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd54ec31bf81,Give your companion yang or take it back. Example: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,Daj towarzyszowi yang albo zabierz mu. Przykład: /towarzysz eq yang wez 1000000 (EN: /companion bag yang take 1000000).,동료에게 냥을 주거나 돌려받습니다. 예: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcacd50a224c,/companion bag sort | merge,/towarzysz eq sortuj | scal,/companion bag sort | merge,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ca3b9856d1e,Sorts your companion's bag or merges its stacks; items move with the mouse in its window (P). PL: /towarzysz eq sortuj | scal.,Uporządkuj plecak towarzysza albo scal jego stosy; przedmioty przenosisz myszą w jego oknie (P). EN: /companion bag sort | merge.,동료 가방을 정렬하거나 묶음을 합칩니다. 아이템은 동료 창(P)에서 마우스로 옮깁니다. PL: /towarzysz eq sortuj | scal.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0cd4442a53b9,/companion stats add str|dex|vit|int [n],/towarzysz statystyki dodaj st|dx|ht|iq [ile],/companion stats add str|dex|vit|int [n],"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4d3f5d67618,"Spends its status points, e.g. /companion stats add str 5; stats reset is its one free reset. PL: statystyki dodaj st 5, statystyki odnow.","Wydaj jego punkty statusu, np. /towarzysz statystyki dodaj st 5; statystyki odnow to jeden darmowy reset. EN: stats add str 5, stats reset.","동료의 스탯 포인트를 씁니다(예: /companion stats add str 5). stats reset은 단 한 번의 무료 초기화입니다. PL: statystyki dodaj st 5, statystyki odnow.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:655f5b60902f,/companion skills | stats manual on|off,/towarzysz umiejetnosci | statystyki reczne 0|1,/companion skills | stats manual on|off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7ccd36cf825f,"You spend the skill or status points (on), or your companion does it itself (off). PL: /towarzysz umiejetnosci reczne 1.",Punkty umiejętności albo statusu rozdajesz ty (1) albo towarzysz sam (0). EN: /companion skills manual on.,"스킬이나 스탯 포인트를 당신이 쓰거나(on), 동료가 스스로 씁니다(off). PL: /towarzysz umiejetnosci reczne 1.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d87684e23ba,/companion polymorph ask | with | always | off,/towarzysz marmury pytaj | ztoba | zawsze | nie,/companion polymorph ask | with | always | off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:165d83c8b1da,"Polymorph marbles: asks after you transform, transforms with you, always, or never. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","Marmury przemiany: pyta po twojej przemianie, przemienia się z tobą, zawsze albo nigdy. EN: /companion polymorph ask | with | always | off.","변신 구슬: 당신이 변신한 뒤 묻기, 함께 변신, 항상, 또는 안 함. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1f50534ba5f1,/companion saddle auto | always | never,/towarzysz kon auto | zawsze | nigdy,/companion saddle auto | always | never,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba3cea4b7b35,"Fighting from the saddle: by its class, always while you ride, or always on foot. PL: /towarzysz kon auto | zawsze | nigdy.","Walka z konia: według klasy, zawsze z konia, gdy jedziesz, albo zawsze pieszo. EN: /companion saddle auto | always | never.","안장 위 전투: 직업에 따라, 당신이 탈 때 항상, 또는 항상 도보. PL: /towarzysz kon auto | zawsze | nigdy.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dbcee1c65633,/companion exp | support on|off,/towarzysz exp | wsparcie 0|1,/companion exp | support on|off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1872edeb9008,exp: your Anti-Exp Ring stops blocking its EXP (up to your level +30). support: it stays behind and buffs. PL: exp | wsparcie.,exp: twój pierścień anty-EXP nie blokuje jego EXP (do twojego poziomu +30). wsparcie: trzyma się z tyłu i buffuje. EN: exp | support.,exp: 경험치 차단 반지가 동료의 경험치를 막지 않습니다(당신의 레벨 +30까지). support: 뒤에서 버프를 겁니다. PL: exp | wsparcie.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:45c4823e77d1,/companion store on | off,/towarzysz sklep 1 | 0,/companion store on | off,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28c8e29c04d9,Opens or closes your companion's counter; without a number it says how the counter stands. PL: /towarzysz sklep 1 | 0.,"Otwiera albo zamyka stoisko towarzysza; bez liczby mówi, co się z nim dzieje. EN: /companion store on | off.",동료의 노점을 열거나 닫습니다. 숫자 없이 쓰면 노점 상태를 알려 줍니다. PL: /towarzysz sklep 1 | 0.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ba4986dbd38,/companion play | back,/towarzysz graj | wroc,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bfa8dabdb330,"You play your companion yourself as an ordinary player; back returns you to your own character. The same as the P window, Management. PL: /towarzysz graj | wroc.","Grasz Towarzyszem sam jak zwykły gracz; wroc - powrót na swoją postać. To samo co okno P, Zarządzanie. EN: /companion play | back.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:01376fa2658c,/companion dismiss yes,/towarzysz odprawa tak,/companion dismiss yes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a3ea265da44,"Dismisses your companion for good - that character does not come back. Without ""yes"" it only asks. PL: /towarzysz odprawa tak.","Odprawia towarzysza na zawsze - tej postaci już nie odzyskasz. Bez ""tak"" tylko pyta. EN: /companion dismiss yes.","동료를 영구히 해고합니다 - 그 캐릭터는 돌아오지 않습니다. ""yes"" 없이 쓰면 확인만 합니다. PL: /towarzysz odprawa tak.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2cf0a1a974d,/guild_bots help | exp | return,/gildia_boty pomoc | exp | wracajcie,/guild_bots help | exp | return,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:26a3ee028295,"Your guild's bots: help in a fight, hunt together, go back. The same as the guild window's Guild bots button; /gildia_boty takes these words too.","Boty twojej gildii: pomoc w walce, wspólny exp, powrót. To samo co przycisk Boty gildii w oknie gildii. EN: /guild_bots help | exp | return.","길드 봇: 전투 지원, 함께 사냥, 복귀. 길드 창의 길드 봇 버튼과 같으며, /gildia_boty도 이 단어를 받습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d99afeeb7ea6,/dice [max] | /dice <min> <max>,/dice [max] | /dice <od> <do>,/dice [max] | /dice <min> <max>,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3e82846c325,Game,Gra,게임,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f0b780c77db,"Rolls a die, 1-100 by default; your whole party sees the result. Example: /dice 6.","Rzut kością, domyślnie 1-100; wynik widzi cała twoja grupa. Przykład: /dice 6.",주사위를 굴립니다(기본 1-100). 파티 전체가 결과를 봅니다. 예: /dice 6.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee888c848ef5,/ride | /unmount,/ride | /unmount,/ride | /unmount,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3b79e36c67ea,"Get on your horse or on a mount seal (the same as Ctrl+G), and get off it.",Wsiądź na konia albo na wierzchowca z pieczęci (to samo co Ctrl+G) i zsiądź z niego.,말이나 탈것 인장에 타고 내립니다(Ctrl+G와 같음).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de2ac055257a,/restart_here | /restart_town,/restart_here | /restart_town,/restart_here | /restart_town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:027b10fe054e,After dying: stand up here or in town - the same as the buttons of the death window.,Po śmierci: wstań w miejscu albo w mieście - to samo co przyciski okna śmierci.,사망 후: 여기서 또는 마을에서 일어납니다 - 사망 창의 버튼과 같습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ebf877f1789,/escape,/escape,/escape,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2caa7ddc09f5,"Frees a character stuck on blocked ground. Not in a fight or while dead, and only once in a while.","Uwalnia postać, która utknęła w zablokowanym miejscu. Nie w walce i nie po śmierci, raz na jakiś czas.",막힌 지형에 갇힌 캐릭터를 꺼냅니다. 전투 중이나 사망 상태에서는 안 되며 가끔만 쓸 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:966308760d05,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <ile>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,"client: our windows (companion, Auto Hunt, status lines) | keep: |c...|r colour codes",done
+c:pbt:ba1d534991bf,"Spends one status point, or several at once, e.g. /str+ 10 (strength) or /con+ 5 (vitality).","Wydaj jeden punkt statusu albo kilka naraz, np. /str+ 10 (siła) albo /con+ 5 (witalność).","스탯 포인트를 하나 또는 여러 개 한 번에 씁니다(예: /str+ 10 근력, /con+ 5 체력).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fabdd75fd1db,/change_channel 1-4,/change_channel 1-4,/change_channel 1-4,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b390b94e5ce,Moves you to another channel - the same as X+1-4 or a CH button by the minimap.,Przejdź na inny kanał - to samo co X+1-4 albo przycisk CH przy minimapie.,다른 채널로 이동합니다 - X+1-4나 미니맵 옆 CH 버튼과 같습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e5e664a3a76,/bot_rank,/bot_rank,/bot_rank,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb87dc9da092,"The ten highest-level bots in the game, with their position and party.","Dziesięć botów o najwyższym poziomie w grze, z ich pozycją i grupą.","게임에서 레벨이 가장 높은 봇 10명과 위치, 파티.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:adbaee89f258,/logout | /quit | /phase_select,/logout | /quit | /phase_select,/logout | /quit | /phase_select,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4118bbd7b8fd,"Log out, quit the game, or go back to character selection (after a few seconds).","Wyloguj się, zamknij grę albo wróć do wyboru postaci (po kilku sekundach).","로그아웃, 게임 종료 또는 캐릭터 선택으로 돌아가기(몇 초 후).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b66a609bf96f,Help - Metin2 Singleplayer,Pomoc - Metin2 Singleplayer,도움말 - Metin2 Singleplayer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5fcebeefad3c,Basics,Podstawy,기본,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:664add438097,Wikipedia,Wikipedia,위키백과,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50b7b203dcfd,H / Esc: close. Basics: original game help.,H / Esc: zamknij. Podstawy: oryginalna pomoc gry.,H / Esc: 닫기. 기본: 게임 원래 도움말.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f13dfacada70,< Back,< Wstecz,< 뒤로,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f80fd0c9d9fb,Next >,Dalej >,다음 >,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc338f87a058,Features,Funkcje,기능,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b054422f6f8a,Feature / where to open,Funkcja / gdzie otworzyć,기능 / 여는 곳,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:968a888b58e8,Report Management,Panel zgłoszeń,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:466c3b6d7957,Find report,Znajdź zgłoszenie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9e457c4d0e92,Character name or ID,Nazwa postaci lub numer,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d625a12c5c0f,All reasons,Wszystkie powody,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c2b49c765e3c,Report list,Lista zgłoszeń,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:387f34d9d3d0,Report details,Szczegóły zgłoszenia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d37b68f65dbc,Reporter,Zgłaszający,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:eb9a4bc1c0c1,Date,Data,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7af363c7e1cc,Go to player,Przejdź do postaci,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:12dfcddc4382,Close report,Zamknij zgłoszenie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:668fa662e9be,Report remains in history.,Zgłoszenie pozostaje w historii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e740a44907df,Loading reports...,Pobieranie zgłoszeń...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5c04f727d1ca,No server confirmation. Refresh the list.,Brak potwierdzenia z serwera. Odśwież listę.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:95404b711d0f,This panel is available to GMs only.,Panel jest dostępny tylko dla GM.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cbd20f6d1b02,Report data could not be loaded.,Nie można pobrać danych zgłoszeń.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bbdc8bcb5cfb,Wait a moment and refresh.,Odczekaj chwilę i odśwież listę.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ef0e9a4da5cb,Report has already been closed.,Zgłoszenie zostało już zamknięte.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4006fea943eb,Character is offline or does not exist.,Postać jest offline lub nie istnieje.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bb2ebaad2e0b,Action failed.,Nie udało się wykonać czynności.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:17deffb03ebd,No reports.,Brak zgłoszeń.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:462e0b975362,Report #,Zgłoszenie #,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3fbae1155e2c,Selected reason: ,Wybrano powód: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ee097a04e6e3,Close report #%d?,Zamknąć zgłoszenie #%d?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:8eb2aafc4cf4,The report will remain in history.,Zgłoszenie pozostanie w historii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0bfc5da5d5ac,Green Fangs,Zielone Kly,녹색 송곳니,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c5f5fe5c326b,Companion (P),Towarzysz (P),동료 (P),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b5948930ebb,Auto Hunt (K),Auto Łowy (K),자동 사냥 (K),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b7e12add513,Pick-up,Podnoszenie,줍기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d7decf1aa22b,Filter,Filtr,필터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5041fdaa241,Set up,Ustaw,설정,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3ac5656aeda,Z and ` pick up only what Set up keeps,"Z i ` podnoszą tylko to, co włączone w Ustaw",Z와 `는 설정에서 남긴 것만 줍습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6bab26bc7668,Next target,Kolejny cel,다음 대상,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7ae0e5ed69cb,With bow,Z łukiem,활 사용 시,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a91bcce893b5,Always,Zawsze,항상,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee07ee0a8d12,After a kill: next one you already hit,"Po zabiciu: kolejny, którego już biłeś",처치 후: 이미 때린 다음 대상,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d824442e12c7,"Valuable equipment found (level 30, 70 or 75+). Continue?","Wykryto cenny ekwipunek (poziom 30, 70 lub 75+), kontynuować?","귀중한 장비를 찾았습니다(레벨 30, 70 또는 75+). 계속하시겠습니까?","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7eb0443b6298,Ninja,Ninja,자객,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9777182d69c2,Sura,Sura,수라,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2815c3b7ce9,at your side,przy tobie,곁에 있음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18b0c6247e19,free hand,wolna ręka,자유 행동,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d896fded55f,waiting here,czeka w miejscu,여기서 대기 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c651445273f6,shopping,robi zakupy,쇼핑 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eab0f0d67576,fishing,łowi ryby,낚시 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b9e422260511,No 1st hit,Nie 1. atak,선공 안 함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cb96ed31c4f2,Don't fight,Nie walcz,전투 안 함,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:832f36669230,hits everything nearby,bije wszystko w pobliżu,주변의 모든 대상을 공격,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d2b0517bf98e,"never first, guards you and itself","nie zaczyna, broni ciebie i siebie",먼저 공격하지 않고 당신과 자신을 보호,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9123d8c25e5c,does not fight at all,nie walczy wcale,전혀 싸우지 않음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4481948392a8,Nothing,Nic,없음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f58529bb3d25,Your drop,Twój drop,당신의 전리품,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4a66d1480779,Everything,Wszystko,전부,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ead533685e26,Weapon,Broń,무기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:29b791a35bd7,Helmet,Hełm,투구,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:08271419319f,Shield,Tarcza,방패,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:08b9fcb7a3be,Bracelet,Bransoleta,팔찌,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:200b37cbaa9c,Necklace,Naszyjnik,목걸이,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be320b06f43b,Vitality,Witalność,체력,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c698f940a03e,Intelligence,Inteligencja,지능,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24d3e4fdd9a8,Strength,Siła,근력,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:585f02aaec97,Dexterity,Zręczność,민첩성,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da2b63a76327,Raises HP and defence.,Podnosi PŻ i obronę.,HP와 방어력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8123c3249b76,Raises SP and magic attack.,Podnosi PE i magiczny atak.,SP와 마법 공격력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d9e43566a99,Raises attack.,Podnosi atak.,공격력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6eec259246b0,Raises attack and evasion.,Podnosi atak i uniki.,공격력과 회피를 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca8aa56a1d8d,Own EXP,Osobny EXP,자체 경험치,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f2467b6ce3d,"EXP despite your Anti-Exp Ring, up to your level +30.","EXP mimo twojego anty-EXP, do twojego poziomu +30.","경험치 차단 반지를 껴도 경험치를 얻으며, 당신의 레벨 +30까지입니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dd3ec3d963a,Behind,Z tylu,후방,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:494b05fa47c9,"While following, stays behind and buffs without fighting. Wait and other orders take priority.",Przy tobie stoi z tylu i buffuje bez walki. Czekaj i inne polecenia maja pierwszenstwo.,따라다니는 동안 뒤에 머물며 싸우지 않고 버프를 겁니다. 대기와 다른 명령이 우선합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fc93acaa44f,Solo,Solo,솔로,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9d950ac96af,Lock EQ,Blokada,장비 잠금,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6a535b865db,Ranged,Dystans,원거리,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f2eda10563c,You have no companion yet.,Nie masz jeszcze towarzysza.,아직 동료가 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:714419ccc680,"Choose one in the ""Companion"" letter.","Wybierz go w liście ""Towarzysz"".","""동료"" 편지에서 선택하세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df74bda1d464,Companions are switched off on this server.,Towarzysze są wyłączeni na tym serwerze.,이 서버에서는 동료가 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e1cae9b3d37a,The server owner turns them on in the launcher.,Włącza je właściciel serwera w launcherze.,서버 운영자가 런처에서 켭니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:690c9c1f2d7d,In the game in a moment.,Za chwilę będzie w grze.,곧 게임에 들어옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:441e7097a612,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893a구매 가능 [|r%d|cffbc893a]|r,"client: our windows (companion, Auto Hunt, status lines) | keep: %d; |c...|r colour codes",done
+c:pbt:4634cb47e6fe,Ctrl + click: several points at once,Ctrl + klik: kilka punktów naraz,Ctrl + 클릭: 여러 포인트 한 번에,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e94758304eae,Spent: %d,Rozdane: %d,사용: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:41fb986a7235,From the gear: %+d,Z ekwipunku: %+d,장비 보너스: %+d,"client: our windows (companion, Auto Hunt, status lines) | keep: %+d",done
+c:pbt:507594e2ae0d,%s: how many points?,%s: ile punktów?,%s: 몇 포인트?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e01c43a069d2,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienia),기본 방어력: %d (+%d%% 강화),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ef6155a5eccf,Bag,Plecak,가방,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44e6822a751d,Wearing,Na sobie,착용 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66b68f64fd6f,Click: the companion's bag,Klik: plecak towarzysza,클릭: 동료 가방,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3aaaddc88c7,You spend the points:,Punkty rozdaję sam:,포인트를 직접 사용:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c0e3b171ed73,Click a skill above.,Kliknij umiejętność powyżej.,위의 스킬을 클릭하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef02f539d8c9,Right click on it: reset.,Prawy klik na niej: zeruj.,우클릭: 초기화.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:016b47a6f23c,Right click: reset,Prawy klik: zeruj,우클릭: 초기화,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7cc7cc5ae55d,Level: %s,Poziom: %s,레벨: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9013310682e3,Your companion gets a path at level 5.,Towarzysz dostanie ścieżkę na 5 poziomie.,동료는 레벨 5에서 수련을 정합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb9840c89413,Your companion's AI spends the points.,Punkty rozdaje SI towarzysza.,동료 AI가 포인트를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:beadfb865e87,"The points wait for you (""+""). ""no"" above: the AI spends them.","Punkty czekają na ciebie (""+""). ""nie"" wyżej: rozda je SI.","포인트가 대기합니다(""+""). 위에서 ""아니요"": AI가 사용합니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44c57abd888a,Reset,Zeruj,초기화,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3799b2ccda5c,Reset %s?,Wyzerować %s?,%s을(를) 초기화하시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:ee5434bb8744, Its Master grade will be lost., Mistrz przepadnie., 마스터 등급이 사라집니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:23e13c4fb77e,"Matching Forgetfulness Books: %d, or 1 Skill Reset Document.",%d KZ tej umiejętności albo 1 Zwój Powrotu Umiejętności.,"맞는 망각의 서: %d권, 또는 스킬 초기화 문서 1장.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1d93c338318a,Master: 1 Skill Reset Document. Forgetfulness Books cannot be used.,Mistrz: 1 Zwój Powrotu Umiejętności. KZ nie zadziałają.,마스터: 스킬 초기화 문서 1장. 망각의 서는 쓸 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64fbd995d3b6,Change,Zmień,변경,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05e626d6b14f,Scroll of Lore Change: every skill from zero and a path of your choice.,Zwój Zmiany Profesji: umiejętności od zera i ścieżka do wyboru.,수련 변경 주문서: 모든 스킬이 0부터 시작하며 원하는 수련을 고릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8922b50fb048,Which path? Scroll of Lore Change (from level 31).,Która ścieżka? Zwój Zmiany Profesji (od 31 poziomu).,어떤 수련을 고르시겠습니까? 수련 변경 주문서(레벨 31부터).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01cdda7755a1,Path: %s. Every skill back to zero?,Ścieżka: %s. Wszystkie umiejętności od zera?,수련: %s. 모든 스킬을 0으로 되돌리시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e171d2e76cbf,Uses 1 scroll from your companion's bag or yours.,Zużywa 1 zwój z plecaka towarzysza albo twojego.,동료의 가방이나 당신의 가방에서 주문서 1개를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca032b5844df,What it does,Co robi,하는 일,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cded093321dd,Orders,Polecenia,명령,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a088b311505,Drop,Drop,버리기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:171ca0385a0e,Behaviour,Zachowanie,행동,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:490a7e43af7a,Now: %s,Teraz: %s,현재: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:fcafeb95b595,"Now: down, getting up soon","Teraz: leży, zaraz wstanie","현재: 쓰러짐, 곧 일어남","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cb83ead9f0c8,Where: %s,Gdzie: %s,위치: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:350f8e6f6efc,%d red / %d blue,%d czerw. / %d nieb.,빨강 %d / 파랑 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:2fc24d47c27c,Mode: %s,Tryb: %s,모드: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:291a0a58dfa6,Call,Przywołaj,호출,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8eda27bd36f3,Wait here,Czekaj tu,여기서 대기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54e59352a112,Free hand,Wolna ręka,자유 행동,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ea83e1b6ffd,Buy goods,Kup towar,물건 구매,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:70afe9eff3f2,Dismiss,Odpraw,해고,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:55de88709232,Shop,Sklep,상점,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76a032e9c77c,Closing,Zamyka,닫는 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da7a68734367,off,wył.,끔,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db3d405b1067,on,wł.,켬,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a447aafdb229,closing,zamykanie,닫는 중,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:50eabe984380,Shop: %s,Sklep: %s,상점: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e84d751a9a91,Sell surplus from the whole bag?,Sprzedawać z całej torby?,가방 전체의 남는 아이템을 파시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1be64c9b126a,Gifts and needed items stay.,Dary i potrzebne rzeczy zostają.,선물과 필요한 아이템은 남습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c406ae02ba8c,Companion shop,Sklep towarzysza,동료 상점,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8eea33492d3d,"Surplus from every bag page, including new drops.","Nadwyżki ze wszystkich stron torby, także nowy drop.",새 전리품을 포함해 가방 모든 페이지의 남는 아이템.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ce304c1ac99,"Gifts, needed items and pinned gear stay.","Bez darów, potrzebnych rzeczy i przypiętego sprzętu.","선물, 필요한 아이템, 고정된 장비는 남습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f53c8066c220,Items dragged in the window wait at least 5 min.,Rzeczy przeciągnięte w oknie czekają co najmniej 5 min.,창에 끌어 넣은 아이템은 최소 5분 기다립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db74c26928fc,Bot prices. Collect proceeds with Take yang.,Ceny jak u botów. Utarg odbierasz przyciskiem Weź yang.,"봇 가격입니다. 수익은 ""냥 받기""로 수령하세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ec270b63b247,"Service at the M1 stand, channel 1, when free.","Obsługa przy sklepie w M1, kanał 1, gdy ma czas.","M1 노점에서 판매합니다(채널 1, 비어 있을 때).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac39ca018163,"Bot markdowns, no automatic return after 24 h.","Przeceny jak u botów, bez zwrotu po 24 h.","봇이 가격을 내리며, 24시간 후 자동 반환은 없습니다.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98ad37ae5373,Closing returns goods to the bag when there is room.,"Zamknięcie zwraca towar do torby, gdy jest miejsce.",닫으면 공간이 있을 때 물건이 가방으로 돌아옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e0a2aa2d518,Drag a return in the bag to allow listing again after 5 min.,"Przeciągnij zwrot w torbie, aby po 5 min mógł znów trafić na ladę.",반환된 아이템을 가방에서 끌면 5분 후 다시 판매할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97c09dcce9de,Dismiss your companion for good? This cannot be undone.,Odprawić towarzysza na dobre? Tego nie da się cofnąć.,동료를 영구히 해고하시겠습니까? 되돌릴 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:300d29fd5f32,Inventory,Ekwipunek,인벤토리,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2ae3b40edd1,Filter: %s,Filtr: %s,필터: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8259bc236291,Pick-up filter,Filtr podnoszenia,줍기 필터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:055a2b1a877c,Yes: it picks up only what the filter,"Tak: podnosi tylko to, co bierze filtr",예: 자동 사냥 필터(아이템 선택...)가,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7960e0c88ae,of your Auto Hunt takes (Select items...):,twoich Auto Łowów (Wybierz przedmioty...):,가져가는 것만 줍습니다:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:888977cb78eb,"categories, exceptions, Min. + and Gear: min.","kategorie, wyjątki, Min. + i Ekwipunek: min.","분류, 예외, Min. + 및 장비: 최소","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:821bdbff73d3,"Gear: min. N - weapons, armour and jewellery","Ekwipunek: min. N - broń, zbroje i ozdoby","장비: 최소 N - 무기, 갑옷, 장신구는","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a58ffb4cc925,only with at least N bonus lines;,tylko z co najmniej N liniami bonusu;,보너스 줄이 N개 이상일 때만;,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a9ca83509433,a weapon's average and skill damage are no bonus.,średnie i um. obrażenia broni to nie bonusy.,무기의 평균 피해와 스킬 피해는 보너스가 아닙니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:221b94c16ff2,0 or empty: no such condition.,0 lub puste: bez tego warunku.,0 또는 빈칸: 해당 조건 없음.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9fbd57b5636,No: everything its Drop allows.,"Nie: wszystko, na co pozwala Drop.",아니요: 전리품 설정이 허용하는 모든 것.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:176701f73b7f,Auto Hunt's settings cannot be read.,Nie mogę odczytać ustawień Auto Łowów.,자동 사냥 설정을 읽을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c8748499dbb,out of the game,poza grą,게임 밖,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c7b16e4ff86,%s (another map),%s (inna mapa),%s (다른 맵),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8a8f4d4713fe,another map,inna mapa,다른 맵,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:782cb23f1809,next to you,obok ciebie,옆에 있음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8b02f2ec520,%d m from you,%d m od ciebie,%d m 떨어짐,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:4c29870ccbea,Rank points:,Punkty Rangi:,선악치:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:863b8eb114bf,Companion has a matching marble.,Towarzysz ma marmur tego potwora.,동료에게 맞는 구슬이 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c08f3b6a6321,Use their own marble?,Użyć jego marmuru?,동료의 구슬을 쓰시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ddf9f0e22761,Companion's inventory,Ekwipunek towarzysza,동료 인벤토리,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:944550bc67c5,Your companion is not in the game.,Towarzysz nie jest teraz w grze.,동료가 게임에 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b03511c5e5d3,Companions are switched off here.,Towarzysze są tu wyłączeni.,이곳에서는 동료가 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0699ba601eaf,Update the client and the server.,Zaktualizuj klienta i serwer.,클라이언트와 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2eba6a03b89a,Unpin,Odepnij,고정 해제,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1ca623701c36,Merge and sort the companion's bag,Scal i uporządkuj torbę towarzysza,동료 가방 합치기 및 정렬,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed5a8a14d33a,Deck %d,Zestaw %d,덱 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:95e970d81c5d,%d / %d,%d / %d,%d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:c1876298835d,Drag to your bag: the stone goes into your Alchemy.,Przeciagnij do swojej torby: kamien trafi do twojej alchemii.,가방으로 끌어 놓으면 돌이 당신의 연금술로 갑니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c7cb72859f2,Pick up an item and click the pin to let your companion choose its equipment again.,"Podnieś przedmiot i kliknij pinezkę, aby towarzysz znów sam dobierał wyposażenie.",아이템을 집고 핀을 클릭하면 동료가 다시 장비를 직접 고릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:31c5ddebe711,Nothing to unpin there.,Tego nie trzeba odpinać.,고정 해제할 것이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:be28809fcf22,Take it off into the bag first.,Zdejmij go najpierw do torby.,먼저 벗어서 가방에 넣으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e15020ab0e03,Give it an item from your bag.,Daj mu przedmiot z torby.,가방의 아이템을 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b51ab5faba0,Your companion takes whole stacks only.,Towarzysz bierze tylko cały stos.,동료는 묶음 전체만 받습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fbefae1e9659,Give,Daj,지급,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56806a1ffdde,Take,Weź,꺼내기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a92e0affbd0d,Give yang to your companion,Daj yang towarzyszowi,동료에게 냥 주기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:57411afba7f3,Take yang from your companion,Weź yang od towarzysza,동료에게서 냥 받기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f813dca1c7d,Amount: ,Kwota: ,금액: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1062bffa9428,Your companion has moved it already.,Towarzysz już go przestawił.,동료가 이미 옮겼습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:577ef7dc1516,Destroy,Zniszcz,파괴,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:24d46630b72e,A worn piece cannot be destroyed - take it off into the bag first.,Noszonego nie da się zniszczyć - zdejmij go najpierw do torby.,착용 중인 장비는 파괴할 수 없습니다 - 먼저 벗어서 가방에 넣으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:428e6ef00a33,Only an item of your companion's bag can be destroyed.,Zniszczyć można tylko przedmiot z torby towarzysza.,동료 가방의 아이템만 파괴할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:00e29b7a7f93,Update the server to destroy your companion's items.,"Zaktualizuj serwer, aby niszczyć przedmioty towarzysza.",동료의 아이템을 파괴하려면 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd625c754905,Destroy: %s?,Zniszczyć: %s?,파괴: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cbb3f03839e6,Your companion's item will be gone for good.,Przedmiot towarzysza zniknie na zawsze.,동료의 아이템이 영구히 사라집니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f03d78610e78,Click items in the companion bag - the red ones will be destroyed. Then click the bin.,Klikaj przedmioty w torbie towarzysza - czerwone zostaną zniszczone. Potem kliknij kosz.,동료 가방의 아이템을 클릭하세요 - 빨간 아이템이 파괴됩니다. 그다음 휴지통을 클릭하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b153f417577a,Bin: click items in the bag (Esc - leave).,Kosz: kliknij przedmioty w torbie (Esc - wyjście).,휴지통: 가방의 아이템을 클릭하세요 (Esc - 나가기).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c73d382fafe7,Bin: %d selected. Click the bin to destroy.,"Kosz: wybrano %d. Kliknij kosz, aby zniszczyć.",휴지통: %d개 선택. 휴지통을 클릭하면 파괴됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d059179fdef8,Destroy your companion's items for good: %d?,Zniszczyć na zawsze przedmioty towarzysza: %d?,동료의 아이템을 영구히 파괴하시겠습니까: %d?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:fd34ec265936,Destroying... %d / %d,Niszczę... %d / %d,파괴 중... %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:bc62a41dd168,Destroyed: %d of %d.,Zniszczono: %d z %d.,파괴: %d / %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:9d681c525103,Skipped (your companion moved or sold them): %d.,Pominięte (towarzysz je przestawił lub sprzedał): %d.,건너뜀 (동료가 옮기거나 팔았음): %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:3d88aaa54dae,Destroying items...,Trwa niszczenie przedmiotów...,아이템 파괴 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3cea6bd97e94,Destroying stopped: %d of %d destroyed.,Niszczenie przerwane: zniszczono %d z %d.,파괴 중지: %d / %d 파괴됨.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:e9d911b5064b,The server does not answer - destroying stopped.,Serwer nie odpowiada - niszczenie przerwane.,서버가 응답하지 않아 파괴를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4dad3d0578fd,Your companion moved a selected item - it was unselected.,Towarzysz przestawił zaznaczony przedmiot - odznaczono go.,동료가 선택한 아이템을 옮겨 선택이 해제되었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e2bcda84facb,Done.,Gotowe.,완료.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f34166d6b1f,Your companion refused.,Towarzysz odmówił.,동료가 거절했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:020c883ef1d7,There is nothing there.,Tam nic nie ma.,아무것도 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:36a5b0d1e792,A wrong order.,Złe polecenie.,잘못된 명령입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa0d618af75d,Put on by you - your companion will not take it off,Założone przez ciebie - towarzysz tego nie zdejmie,당신이 착용시킴 - 동료가 벗지 않습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f4baea35a4d3,A gift from you,Prezent od ciebie,당신이 준 선물,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2a844c68869,Taken off by you - your companion will not put it on,Zdjęte przez ciebie - towarzysz sam tego nie założy,당신이 벗김 - 동료가 착용하지 않습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:20e23c7450d0,Ctrl + click: unpin,Ctrl + klik: odepnij,Ctrl + 클릭: 고정 해제,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e25ae629fc65,Shift + right click: remove the gift mark,Shift + prawy klik: zdejmij status prezentu,Shift + 우클릭: 선물 표시 제거,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37587943934f,The gift mark changes only on an item of your companion's bag.,Status prezentu zmienisz tylko na przedmiocie z torby towarzysza.,선물 표시는 동료 가방의 아이템에서만 바뀝니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93d25e2abc6d,Update the server to change the gift mark.,"Zaktualizuj serwer, aby zmieniać status prezentu.",선물 표시를 바꾸려면 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d9d6c383318,Remove the gift mark: %s?,Zdjąć status prezentu: %s?,선물 표시 제거: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0847873f9a95,Your companion will be able to sell it.,Towarzysz będzie mógł to sprzedać.,동료가 이 아이템을 팔 수 있게 됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:558fed72ccfd,Mark as a gift: %s?,Oznaczyć jako prezent: %s?,선물로 표시: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:1d2946d6078f,Your companion will not sell it.,Towarzysz tego nie sprzeda.,동료가 이 아이템을 팔지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e699a0e6ffe7,Right click: put on,Prawy klik: załóż,우클릭: 착용,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d30caa454ba2,Right click: take off,Prawy klik: zdejmij,우클릭: 벗기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:262cdf2df410,Skill %d,Umiejętność %d,스킬 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:3c1bcbc84ebb,Companion storage,Magazyn towarzysza,동료 창고,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab8163c6ce45,Unlock equipment choice (Ctrl + click),Odblokuj dobór wyposażenia (Ctrl + klik),장비 선택 잠금 해제 (Ctrl + 클릭),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:985618d4c29b,Companion bin,Kosz towarzysza,동료 휴지통,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e33027ebddb1,Companion alchemy,Alchemia towarzysza,동료 연금술,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d622916e7a6,Storage contains %s entries. Dismissing deletes its contents.,Magazyn zawiera %s wpisów. Odprawienie usunie jego zawartość.,창고에 %s개 항목이 있습니다. 해고하면 내용물이 삭제됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:024b1d19eeee,Cancel to collect your items first. This cannot be undone.,"Anuluj, aby najpierw odebrać przedmioty. Tej operacji nie można cofnąć.",먼저 아이템을 회수하려면 취소하세요. 되돌릴 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54913f9af9ff,Dismiss and delete,Odpraw i usuń,해고 및 삭제,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d2c7d905301d,Split item,Rozdzielanie przedmiotu,아이템 나누기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9787f6ca7771,Units / package size,Liczba sztuk / wielkość paczki,개수 / 묶음 크기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93af25db220a,Into packages (units):,Na paczki (limit szt.):,묶음으로 (개수):,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a999012ffb8,Packages,Paczki,묶음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:73595d8a7aa0,%d x %d | rest: %d,%d x %d szt. | reszta: %d,%d x %d | 남음: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:a45acfd30f82,Enter a valid amount,Wpisz prawidłową ilość,올바른 수량을 입력하세요,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d0fca43cc0ef,The package size must be above zero and below the stack.,Wielkość paczki musi być mniejsza od stosu i większa od zera.,묶음 크기는 0보다 크고 전체 묶음보다 작아야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f0946633c948,Enter a valid number of units for the packages.,Wpisz prawidłową ilość sztuk na paczki.,묶음에 넣을 올바른 개수를 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54e99b57acbe,Split the item into packages?,Rozdzielić przedmiot na paczki?,아이템을 묶음으로 나누시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:289e7339c31c,%d packages of %d | rest: %d,%d paczek po %d szt. | reszta: %d szt.,%d묶음 × %d개 | 남음: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:fc8230b4119a,Split,Rozdziel,나누기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0b3ea484948e,The item changed. Choose it again.,Przedmiot zmienił się. Wybierz go ponownie.,아이템이 바뀌었습니다. 다시 선택하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e4664d81d6a,Splitting into packages works in the normal inventory.,Rozdzielanie na paczki działa w zwykłym ekwipunku.,묶음 나누기는 일반 인벤토리에서 됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01c061d499e9,Close the trade or the other window and put down the item on your cursor.,Zamknij handel lub inne okno i odłóż przedmiot z kursora.,거래나 다른 창을 닫고 커서에 든 아이템을 내려놓으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93c488b48c00,"Invalid package size, or the stack changed.",Nieprawidłowa wielkość paczki lub stos został zmieniony.,묶음 크기가 잘못되었거나 묶음이 바뀌었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:20445e0682e2,Enter units for at least one package.,Podaj liczbę sztuk na co najmniej jedną paczkę.,최소 한 묶음의 개수를 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:191c4fb7906a,Splitting into packages stopped.,Rozdzielanie na paczki zostało zatrzymane.,묶음 나누기를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:12f2bb783251,The server did not confirm the split. The remaining units were not moved.,Serwer nie potwierdził rozdzielenia. Pozostałe sztuki nie zostały przeniesione.,서버가 나누기를 확인하지 않아 남은 개수는 옮기지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4dc1e06c5ef8,The stack changed. Splitting stopped.,Stos został zmieniony. Rozdzielanie zatrzymane.,묶음이 바뀌어 나누기를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5fdc99474b59,No free space. The rest of the stack stays in its slot.,Brak wolnego miejsca. Reszta stosu pozostaje w pierwotnym slocie.,빈 공간이 없습니다. 나머지는 원래 칸에 남습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9941cf4da5e8,is built into the item and cannot be rolled again,jest wbudowany w przedmiot i nie można go wylosować ponownie,아이템에 내장되어 있어 다시 굴릴 수 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df51d96f9e86,is already in the rare bonuses,jest już w bonusach 6/7,이미 희귀 보너스에 있습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da460d8e09b2,cannot be rolled on this item,nie występuje w losowaniu na tym przedmiocie,이 아이템에서는 나올 수 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e6332bc4d328,The item has no bonuses to change.,Przedmiot nie ma bonusów do zmiany.,이 아이템에는 바꿀 보너스가 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fac6f104fbc0,Set %d: blocking bonus[ENTER]%s[ENTER]Change or remove this target in BS.,Zestaw %d: blokujący bonus[ENTER]%s[ENTER]Zmień lub usuń ten cel w BS.,세트 %d: 방해 보너스[ENTER]%s[ENTER]BS에서 이 목표를 바꾸거나 지우세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
+c:pbt:24a1d403c6a2,Set %d: no alternative bonus fits this item[ENTER]%s[ENTER]Change or remove these targets in BS.,Zestaw %d: brak pasujących alternatyw[ENTER]%s[ENTER]Zmień lub usuń te cele w BS.,세트 %d: 이 아이템에 맞는 대체 보너스가 없습니다[ENTER]%s[ENTER]BS에서 이 목표들을 바꾸거나 지우세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
+c:pbt:f4ecc67eb38e,Set %d: more targets than the item has bonuses.,Zestaw %d: więcej celów niż bonusów przedmiotu.,세트 %d: 목표가 아이템의 보너스 수보다 많습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:edb82823eedf,Set %d: this average and skill damage cannot occur together.,Zestaw %d: te średnie i umiejętności nie mogą wypaść razem.,세트 %d: 이 평균 피해와 스킬 피해는 함께 나올 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:399748187f91,Item on cursor - paused.,Przedmiot na kursorze - pauza.,커서에 아이템이 있어 일시 정지합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f4ffd0deaab1,The item was moved - stopped.,Przeniesiono przedmiot - zatrzymano.,아이템이 옮겨져 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:23d46fce50b8,Any / skip,Dowolny / pomiń,아무거나 / 건너뛰기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e950c6af8d47,Right-click an item in your inventory / drag it into the slot,PPM na przedmiot w EQ / przeciągnij przedmiot z EQ w slot,인벤토리 아이템 우클릭 / 슬롯에 끌어 놓기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62ce91194322,Open BS window,Otwórz okno BS,BS 창 열기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b07baa06a705,Set 1,Zestaw 1,세트 1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2313d9d74d94,Set 2,Zestaw 2,세트 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e709e76ff542,Presets,Presety,프리셋,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a834a054a5c,Main bonuses,Bonusy główne,주 보너스,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c56e68e5c621,Alternative bonuses,Bonusy alternatywne,대체 보너스,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a733b809d2f1,Active,Aktywny,활성,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:152a613800d9,Change bonuses,Zmień Bonusy,보너스 변경,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9b88ca691377,Item %d,Przedmiot %d,아이템 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -121,7 +529,6 @@ c:pbt:1b94dc71abbf,Set %d (%s),Zestaw %d (%s),세트 %d (%s),"client: our window
 c:pbt:2bb6b986c5d6,active,aktywny,활성,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d436a3f40e3e,inactive,nieaktywny,비활성,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:82f827c14afb,Bonus catalog - choose a category,Katalog bonusów - wybierz kategorię,보너스 목록 - 분류를 고르세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f6fdbe48dc54,Delete,Usuń,삭제,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a1377af5ae39,No presets in this category,Brak presetów w tej kategorii,이 분류에 프리셋이 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1ccf423fd1b1,[BS] Add an item and set bonuses in the chosen slot,[BS] Dodaj przedmiot i ustaw bonusy w wybranym slocie,[BS] 선택한 슬롯에 아이템을 넣고 보너스를 설정하세요,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bca5a19292f5,[BS] The item in this slot does not fit the chosen category,[BS] Przedmiot w tym slocie nie pasuje do wybranej kategorii,[BS] 이 슬롯의 아이템은 선택한 분류에 맞지 않습니다,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -183,6 +590,7 @@ c:pbt:0c8e022ffc3a,Possess,Przemiana,빙의,"client: our windows (companion, Aut
 c:pbt:f113dac80997,Auto Hunt ticket: 8 hours of automatic hunting (the K key). The time only runs while you are in the game; more tickets add up (up to 30 days). Use it from your inventory.,"Bilet na Auto Łowy: 8 godzin automatycznego polowania (klawisz K). Czas leci tylko wtedy, gdy jesteś w grze; kolejne bilety się sumują (do 30 dni). Użyj z ekwipunku.",자동 사냥 이용권: 자동 사냥 8시간(K 키). 게임 중일 때만 시간이 흐르며 여러 장은 합산됩니다(최대 30일). 인벤토리에서 사용하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:92451ddcb1e4,Use it to switch the experience block on or off. No time limit.,"Użyj, aby włączyć albo wyłączyć blokadę doświadczenia. Bez limitu czasu.",경험치 차단을 켜거나 끌 때 사용합니다. 시간 제한 없음.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:448b2aab0c2a,No time information,Brak informacji o czasie,시간 정보 없음,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:191e517f2c99,The skill is drawn at random when bought,Umiejętność losowana przy zakupie,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:bbe3b2b5efa5,Snakefield,Wężowe Pole,뱀의 들판,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ecae781933da,Current world,Bieżący świat,현재 월드,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0528310c9fd2,Loading data from the server...,Pobieranie danych z serwera...,서버에서 데이터를 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -201,7 +609,6 @@ c:pbt:e167bfa0cf2e,Potions and special bonuses,Mikstury i specjalne bonusy,물�
 c:pbt:fb9436e6a6ba,Beta content: errors may occur; Snakefield and assault-horse bot support is pending.,Testowa zawartość: możliwe błędy; obsługa botów Wężowego Pola i konia jest w przygotowaniu.,"베타 콘텐츠: 오류가 있을 수 있으며, 뱀의 들판과 돌격마의 봇 지원은 아직 준비 중입니다.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:88b84613be17,Getting there,Jak dotrzeć,가는 방법,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d8c55bfa13d9,Talk to the Teleporter and choose Snakefield (test). The map teleporter also offers a return trip.,Porozmawiaj ze Strażnikiem Teleportu i wybierz Wężowe Pole (test). Powrót przez strażnika na mapie.,텔레포터에게 말을 걸어 뱀의 들판(테스트)을 선택하세요. 맵의 텔레포터에서 돌아올 수도 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0bfc5da5d5ac,Green Fangs,Zielone Kły,녹색 송곳니,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f959ce63b3db,"At level 50 speak to the Captain: Mysteries of Snakefield. Then find Haneul (751, 80).","Od poziomu 50 porozmawiaj z Kapitanem: Tajemnice Wężowego Pola. Następnie znajdź Haneul (751, 80).","레벨 50에 대장에게 말을 거세요: 뱀의 들판의 비밀. 그다음 하늘(751, 80)을 찾으세요.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:eee70751529b,"Haneul: 15 swordsmen, 15 archers and 10 warriors; 100 reputation, 50,000 Yang and 250,000 EXP.","Haneul: 15 mieczników, 15 łuczników i 10 wojowników; 100 reputacji, 50 000 Yang i 250 000 EXP.","하늘: 검사 15, 궁수 15, 전사 10. 명성 100, 50,000냥, 경험치 250,000.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7cc9c8ca5a8e,"Ji Jin (776, 111): Szeptotruj and 2 Metins of Doubt; 150 reputation, 100,000 Yang and 500,000 EXP.","Ji Jin (776, 111): Szeptotruj i 2 Metiny Zwątpienia; 150 reputacji, 100 000 Yang i 500 000 EXP.","지진(776, 111): 솁토트루이와 의심의 메틴석 2개. 명성 150, 100,000냥, 경험치 500,000.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -236,466 +643,59 @@ c:pbt:0d6a854f1b29,Dragon God potions have ItemShop and tradeable variants. Choo
 c:pbt:9464c67279f6,Entry and return,Wejście i powrót,입장과 귀환,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:948729a7a4bd,Map and enemies,Mapa i przeciwnicy,맵과 적,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c7f7e711b1ff,This is the regular third dungeon floor. The separate Spider Baroness instance is not active. This is beta content; bot support for the new map still needs work.,To zwykły trzeci poziom lochu. Osobna instancja Baronówny Pająków nie jest aktywna. Zawartość jest w fazie beta; obsługa nowej mapy przez boty wymaga dalszych prac.,일반 던전 3층입니다. 거미 남작부인의 별도 인스턴스는 활성화되지 않았습니다. 베타 콘텐츠이며 새 맵의 봇 지원은 아직 작업 중입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5489dec830c3,Fame: %d/10,,명성: %d/10,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:17ce36c14b57,Dragon Stone Alchemy - Heaven deck,,용혼석 연금술 - 천 덱,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:35768a9ee3e3,Dragon Stone Alchemy - Earth deck,,용혼석 연금술 - 지 덱,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ee9edc4537c,logged in again after the connection dropped.,,연결이 끊긴 뒤 다시 로그인했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7c972291d56,Auto Hunt: resumed after logging in again.,,자동 사냥: 다시 로그인한 뒤 재개했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:96b38e81a238,Hunting started. Range: %d.,,사냥 시작. 범위: %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:d557a5f24f82,picking up is switched off.,,줍기가 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d18249c7b08,Hunting stopped.,,사냥 중지.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8d13dcbcc6fb,Auto Hunt: no time left. Buy its 8-hour ticket in the ItemShop and use it from your inventory - the time only runs while you play.,,자동 사냥: 시간이 없습니다. ItemShop에서 8시간 이용권을 사서 인벤토리에서 사용하세요 - 플레이 중에만 시간이 흐릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:caec836d4e19,Auto Hunt is switched off on this server (the world settings in the launcher).,,이 서버에서는 자동 사냥이 꺼져 있습니다 (런처의 월드 설정).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d80df967c0f8,server did not confirm the filter. Pickup paused. Change the filter settings to retry.,,서버가 필터를 확인하지 않아 줍기를 멈췄습니다. 다시 시도하려면 필터 설정을 바꾸세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04e30825e892,could not save the advanced filter.,,고급 필터를 저장할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c3b014633d81,Auto Hunt: battle horse mode off.,,자동 사냥: 전투마 모드 끔.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:729e50638728,Auto Hunt: the battle horse mode needs a horse of level %d or more - hunting on foot for now.,,자동 사냥: 전투마 모드는 레벨 %d 이상의 말이 필요합니다 - 지금은 도보로 사냥합니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:1f20c69b9fdd,Auto Hunt: battle horse mode - fighting in place from the saddle.,,자동 사냥: 전투마 모드 - 안장 위에서 제자리 전투.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3df822263409,Auto Hunt: battle horse mode - getting on the horse.,,자동 사냥: 전투마 모드 - 말에 타는 중.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:782dd7b32c81,Auto Hunt: the character got off the horse - hunting on foot. Get back on (Ctrl+G) and the battle horse mode comes back.,,자동 사냥: 캐릭터가 말에서 내려 도보로 사냥합니다. 다시 타면(Ctrl+G) 전투마 모드가 돌아옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04805def1ab2,Auto Hunt: the horse cannot be mounted - hunting on foot. Get on yourself (Ctrl+G) and the battle horse mode comes back.,,자동 사냥: 말에 탈 수 없어 도보로 사냥합니다. 직접 타면(Ctrl+G) 전투마 모드가 돌아옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb893bb37448,"Auto Hunt: cannot get on the horse - trying every %d s, fighting on foot meanwhile.",,자동 사냥: 말에 탈 수 없습니다 - %d초마다 시도하며 그동안 도보로 싸웁니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:a11c06604aba,damaged advanced filter save; selection is empty. Configure the filter again.,,고급 필터 저장이 손상되어 선택이 비었습니다. 필터를 다시 설정하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:11325f8d9b46,could not migrate the old settings to slot 1.,,이전 설정을 슬롯 1로 옮길 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0e17463306d9,could not read slot 1 (%s).,,슬롯 1을 읽을 수 없습니다 (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:c5d536b25525,"Targets (Settings): Monsters, Metins, Bosses. The server picks one in range: a boss first, then a Metin, then the nearest monster (one hitting you counts as nearer).",,"대상(설정): 몬스터, 메틴석, 보스. 서버가 범위 안에서 하나를 고릅니다: 보스, 메틴석, 가장 가까운 몬스터 순(당신을 때리는 몬스터는 더 가까운 것으로 칩니다).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aef3077b4076,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Minimum gear bonuses: 1-7; 0 or empty also allows plain gear. Sockets are not bonuses.,,"줍기: 별도 창에서 아이템을 고르세요. 필터가 켜져 있으면 Z / `도 이를 씁니다. 장비 최소 보너스: 1-7, 0이나 빈칸이면 일반 장비도 줍습니다. 소켓은 보너스가 아닙니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:40a1bfd7317d,Gear: min.,,장비: 최소,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:06e5751d6fa8,bonuses,,보너스,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e74a2acdf717,General Store in M1,,M1 잡화상점,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6e66568583d1,Guard,,경계,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8c9ea1ca61ba,When you are low on health it takes on what hits you.,,체력이 낮으면 당신을 때리는 적을 대신 맡습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:038f64fef6f2,Casts its buffs on you.,,당신에게 버프를 겁니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:642a998efd6e,Luring,,유인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:909344c5e053,Brings you packs of monsters from around.,,주변의 몬스터 무리를 데려옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c6ec8a3ba1a2,Plays without me,,나 없이 플레이,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7610d67dcce2,Plays on when you leave the game - up to your level +30.,,당신이 게임을 나가도 계속 플레이합니다 - 당신의 레벨 +30까지.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:13b577b1052d,Chests,,상자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3243c9254152,Opens the chests and fish in its bag. Off: it leaves them to you.,,가방의 상자와 물고기를 엽니다. 끔: 당신에게 맡깁니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60b18fc8a85f,Party,,파티,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:83c55e55104f,"Joins your party, also one somebody else leads.",,다른 사람이 이끄는 파티라도 당신의 파티에 들어갑니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd5ec76c0e73,Dragon Coins,,드래곤 코인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b20161c3dac5,Buys what it needs in the Item Shop with them. Keeps: leaves them alone.,,그것으로 아이템샵에서 필요한 것을 삽니다. 보관: 건드리지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:26121b5b5b99,Lock equipment,,장비 잠금,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:11ecbda6c6d1,"No refining, bonus changes or gear swaps. Your manual commands still work.",,"제련, 보너스 변경, 장비 교체를 하지 않습니다. 직접 내린 명령은 그대로 작동합니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce0893a5c37e,Ranged first,,원거리 먼저,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b73a36f3d4ac,"First hits the archers and casters attacking you, it or the party.",,"당신, 동료, 파티를 공격하는 궁수와 마법사를 먼저 칩니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d1cb9713668,Potions: %d red / %d blue,,물약: 빨강 %d / 파랑 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:27970f823341,You spend the stat points,,스탯 포인트를 직접 사용,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba64d4ccd8df,You spend the skill points,,스킬 포인트를 직접 사용,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e68b6b2bf92,"The first ""+"" on the Status tab gives them to you too.",,"상태 탭의 첫 ""+""를 누르면 당신이 쓰게 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:134228be0bfa,"The first ""+"" on the Skills tab gives them to you too.",,"스킬 탭의 첫 ""+""를 누르면 당신이 쓰게 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e30775d09af1,Spend again (once for free),,다시 분배 (1회 무료),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0f60543ac84e,"Takes every stat point back - once, for free.",,모든 스탯 포인트를 돌려받습니다 - 1회 무료.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f852b8b06f71,Take back all your companion's stat points to spend them again? There is only one free reset.,,동료의 스탯 포인트를 모두 돌려받아 다시 분배하시겠습니까? 무료 초기화는 한 번뿐입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4c2c8e3564f5,Update the server to spend stats.,,스탯을 쓰려면 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:163c95f2a201,Your companion's AI spends the stat points.,,동료 AI가 스탯 포인트를 씁니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0f955129b280,"%d stat points wait for you: ""+"" on the Status tab.",,"스탯 포인트 %d개가 대기 중: 상태 탭의 ""+"".","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:e1f9ccc1b334,"%d skill points wait for you: ""+"" on the Skills tab.",,"스킬 포인트 %d개가 대기 중: 스킬 탭의 ""+"".","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:11909ec80319,Pick it up and click Unpin.,,집어 들고 고정 해제를 누르세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1f54edac1543,Pick an item up from the bag and click Destroy.,,가방에서 아이템을 집고 파괴를 누르세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc96e09a1bd6,"%sFallen, waiting at the camp for the next round - war with %s",,%s쓰러져서 진영에서 다음 라운드를 기다리는 중 - %s와(과) 전쟁,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:bb58ffeee774,"%sBreak between rounds, holding the middle - war with %s",,"%s라운드 사이 휴식, 중앙을 지키는 중 - %s와(과) 전쟁","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:b353a2e2a270,"%sHanding the pack over%s: %d brought, %d still after me",,"%s몬스터 무리를 넘기는 중%s: %d마리 데려옴, %d마리가 아직 쫓아옴","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d %d",done
-c:pbt:28fb1d8ff77f,%sGoing through the portal to M2 for a Horse Medal,,%s말 메달을 얻으러 포탈로 M2에 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:5ff73502dd5c,%sCollecting a battle horse from the Stable Boy,,%s마구간지기에게서 전투마를 받는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,%s말 메달을 얻으러 원숭이 던전에 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:b4fa1035b5ab,%sBreak between rounds at the camp - war with %s,,%s진영에서 라운드 사이 휴식 중 - %s와(과) 전쟁,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:a8993dc60c6f,%sTaking soul stones to the Alchemist for dust,,%s가루를 얻으러 영혼석을 연금술사에게 가져가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:2efa6c6e2b55,%sWaiting for a route to the merchant; then %s,,"%s상인에게 가는 길을 기다리는 중, 그다음 %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:70b47ec0c082,%sGoing to the Stable Boy for a battle horse,,%s전투마를 받으러 마구간지기에게 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a508e4b423c7,%sFinding my way through the Monkey Dungeon,,%s원숭이 던전에서 길을 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:cffaedc39201,%sEarning a battle horse in the desert (%d/%d),,%s사막에서 전투마를 얻는 중 (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
-c:pbt:bd2399767d86,%sTaking a Medal to the nearest Stable Boy,,%s가장 가까운 마구간지기에게 메달을 가져가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:2d4978c856fe,Buying refine materials at the market,,시장에서 제련 재료를 사는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7c4efd4f76b1,%sMustering for the guild war with %s (%s),,%s%s와(과)의 길드 전쟁을 위해 모이는 중 (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:5fffab5b0d96,%sWaiting for a route to the merchant,,%s상인에게 가는 길을 기다리는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:fd37c8978a82,%sLooking for something at the stalls,,%s노점에서 물건을 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:667aea86fe25,%sSaving yang for the Teleporter %s (%lld/%d),,%s텔레포터 비용을 모으는 중 %s (%lld/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %lld %d",done
-c:pbt:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,%sM3에서 레벨 30 무기를 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bf17b3eccd8d,%sLooking for a better spot (goal: %s),,%s더 좋은 자리를 찾는 중 (목표: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:118fccaf9b63,%sLooking for a target for the group,,%s파티의 대상을 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:3d801aed6cbb,%sGoing to the blacksmith to upgrade,,%s강화하러 대장장이에게 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:f40b01d1168e,%sTrying to drop for the Biologist: %s,,%s생물학자에게 줄 아이템을 얻으려는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:86258d4cccf4,%s's companion - at the blacksmith,,%s의 동료 - 대장장이에게,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:d3e419e8362b,%sTaking a medal to the Stable Boy,,%s마구간지기에게 메달을 가져가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bf3378b87c43,%sResetting skills at the Old Lady,,%s노파에게서 스킬을 초기화하는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:1f83bfe36ce7,%sHaggling over a price at a stall,,%s노점에서 가격을 흥정하는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:f079c15141fe,%sLooking for a party after dying,,%s사망 후 파티를 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:952ef4c0ae19,%sGoing to the Fisherman for bait,,%s미끼를 사러 어부에게 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:c969beeee6dc,%sComing back%s: leading %d monsters,,%s돌아오는 중%s: 몬스터 %d마리를 끌고 옴,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
-c:pbt:10e09dfd0932,Trading with the weapon dealer,,무기상과 거래 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:37919e723267,%sComing back from the Biologist,,%s생물학자에게서 돌아오는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:0311cdf36cf8,%sCollecting for the Biologist: %s,,%s생물학자를 위해 모으는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:1e443a9cae26,%sHanding in a horse medal (%u/21),,%s말 메달을 바치는 중 (%u/21),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u",done
-c:pbt:a279fa522e8b,Trading with the armour dealer,,방어구상과 거래 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:28df8b66bd5e,%s's companion - at the merchant,,%s의 동료 - 상인에게,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:96d59e2f5d6b,"%sLuring%s: %u/%u groups, %d chasing me",,"%s유인 중%s: %u/%u 무리, %d마리가 쫓아옴","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u %d",done
-c:pbt:9e28dad791d4,%sLure on hold: %s still fighting,,%s유인 대기: %s이(가) 아직 싸우는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:b50e31d19feb,%sHanding in to the Biologist: %s,,%s생물학자에게 바치는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:da63d06293b3,%sGuild gathering: Demon Tower,,%s길드 집결: 악마의 탑,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:53686397f63f,%sDefending the party against %s,,%s%s에게서 파티를 지키는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:0fe43bd15db1,%sDefending the guild against %s,,%s%s에게서 길드를 지키는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:c7b6b9575ede,%sChasing %s away from the Metin,,%s메틴석에서 %s을(를) 쫓아내는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:a12f33d08a6f,%sFishing - waiting for a bite,,%s낚시 중 - 입질을 기다리는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:df7459fe12d7,"Buying potions, selling loot",,"물약 구매, 전리품 판매 중","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f5869123311e,Taking books to the storage,,책을 창고로 가져가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d9c4904feaee,%sGoing to town for equipment,,%s장비를 사러 마을로 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:804500d1db91,strong monsters in a party,,파티로 강한 몬스터 사냥,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4695b589a3e3,Going to the general store,,잡화상점에 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4daf3338ab67,%sGoing to town for supplies,,%s보급품을 사러 마을로 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:810777b4a5b0,%sGoing to the river to fish,,%s낚시하러 강으로 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:eb10c3288fae,Going to the armour dealer,,방어구상에게 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c075477ef7d3,Quest: %s - going to the NPC,,퀘스트: %s - NPC에게 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:ff2ade108fb4,Going to the weapon dealer,,무기상에게 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:09d7e1632df7,Putting books into storage,,책을 창고에 넣는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1494782aea4e,%sTaking to the Biologist: %s,,%s생물학자에게 가져가는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:7f2f45da5d75,%s's companion - recovering,,%s의 동료 - 회복 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:922a5f1634da,%sDefending myself against %s,,%s%s에게서 자신을 지키는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:a01294d4d40b,%sGathering materials from %s,,%s%s에서 재료를 모으는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:05f26e179bf8,%s's companion - picking up,,%s의 동료 - 줍는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bd301b4a78b6,%sLooking for a fishing rod,,%s낚싯대를 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:8c75ccfe5101,%sLevelling on M3 (Tier 2),,%sM3에서 레벨업 중 (2단계),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e8185b3a7953,%s's companion - fighting,,%s의 동료 - 전투 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:62e0ca6c75db,Going to the blacksmith,,대장장이에게 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f17c74f34874,Running errands in town,,마을에서 볼일을 보는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e1aa1f7f0fa,%sGoing to the Biologist,,%s생물학자에게 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:04e29e9f4aa7,%sSetting a spirit stone,,%s정령석을 박는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:9e213fe05bff,Going for a profession,,수련을 고르러 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:688b3e455c37,%s's companion - waiting,,%s의 동료 - 대기 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:9f1bdcc55993,Choosing a profession,,수련을 고르는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:72dd5bbe7d15,%sChoosing a profession,,%s수련을 고르는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a69eb7fd412b,%sTaking a short break,,%s잠깐 쉬는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:d7a4d0fc83c9,Heading back to hunt,,사냥하러 돌아가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1a58a7c474ca,%sReading a skill book,,%s스킬 책을 읽는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:2a462a7b2fd3,%sBack for revenge on %s,,%s%s에게 복수하러 돌아옴,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:d67908ac9359,%sGoing to an ore vein,,%s광맥으로 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:efa06935560b,Upgrading equipment,,장비 강화 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b92ea8dfb82,%sHelping the party: %s,,%s파티를 돕는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:add2c61e9144,%sRetreating - low HP,,%s후퇴 중 - HP 부족,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:7d9ac9c37991,%sBrowsing the stalls,,%s노점을 둘러보는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a2afce5ad977,%sDemon Tower: floor %d,,%s악마의 탑: %d층,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
-c:pbt:314440c29807,%sDefending %s against %s,,%s%s을(를) %s에게서 지키는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:388230d5d523,%sResting after death,,%s사망 후 휴식 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a4f79d8c029a,%sUpgrading equipment,,%s장비 강화 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:409ac4671051,%sLooking at a stall,,%s노점을 보는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:cc480c78224e,%sRunning a stall (%s),,%s노점 운영 중 (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:25a8aebca2f9,%sGuild war with %s (%s),,%s%s와(과) 길드 전쟁 (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:dfcde592b162,%sWaiting to lure%s (%s),,%s유인 대기 중%s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:98d36b134c2d,%sVendetta against %s,,%s%s에게 복수 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:665c88cd3c8e,%sLooking for a foe,,%s적을 찾는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:61438ac5c929,%sPreparing a lure%s,,%s유인 준비 중%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:e11d725c3968,%sGoing %s (goal: %s),,%s이동 중 %s (목표: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:b36e1ea527cc,%sHunting with %s: %s,,%s%s와(과) 사냥 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:0ae63fbd5bfd,%sResting in town,,%s마을에서 쉬는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:2fef48726671,%sBaiting the rod,,%s낚싯대에 미끼를 끼우는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:3433f2e9b25a,Going into town,,마을로 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:749543f5d77e,%sWaiting to lure%s,,%s유인 대기 중%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:fcfbc80824fd,%sPicking up loot,,%s전리품을 줍는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:f366b272a74c,%sAFK - back soon,,%s자리 비움 - 곧 돌아옴,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:0aa486e67e83,%sHunt: %s (%d left),,%s사냥: %s (%d 남음),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
-c:pbt:d1701c8d9c4a,horse training,,말 훈련,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a61bbcde3f2,skill training,,스킬 수련,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4563e4849769, for the party,, 파티를 위해,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:656240c2bef2,%sDoing a quest,,%s퀘스트 진행 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bdabf14dbaff,the player is,,플레이어는,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b6ed8c91715a, to the party,, 파티에게,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e09b31f7128,%sRecovering HP,,%sHP 회복 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:dc23ea51b855,%s's companion,,%s의 동료,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:4785683a6b19,%s%s - potions %u/%u,,%s%s - 물약 %u/%u,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u",done
-c:pbt:18fe0e6b7c5e,Metin stones,,메틴석,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9ee9d6bba9b3,the party is,,파티는,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e2ed6ae75509,%sBoss raid: %s,,%s보스 레이드: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:11ae337591ef,%sPlanning: %s,,%s계획 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:80a306e56cd2,%sMining ore,,%s광석 채굴 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:6ae2df692f64,profession,,수련,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a14f093fe35c,%sHelping %s: %s,,%s%s을(를) 돕는 중: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:501d5804b509,upgrading,,강화,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54d1ba7dd9d7,%sBreaking %s,,%s%s 파괴 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:bedcc40ee5df,equipment,,장비,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8d99241f08f2,%sFighting %s,,%s%s와(과) 전투 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:28d16ad6208d,levelling,,레벨업,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:96204760da7c,%s%s (goal: %s),,%s%s (목표: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
-c:pbt:d345da7a3983,Biologist,,생물학자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5357262c9d82,%sChasing %s,,%s%s 추격 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
-c:pbt:caa8914f4f3a,a player,,플레이어,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:72275625c8d9,supplies,,보급품,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b60e9d739b5,recovery,,회복,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6b346cdb9ee8,%sTrading,,%s거래 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:52f5d9fedd47,Hunting,,사냥,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9cec681cf5e8, for %s,, %s을(를) 위해,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:cf49ef7ef7c6,Persistent Explorer,,끈기 있는 탐험가,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:59cf1e15bf2a,Metin Slayer,,메틴석 파괴자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2a21565ff393,Team Player,,팀 플레이어,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:14db222d660e,Equipment Master,,장비의 달인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d008da60aaf6,Careful Gatherer,,꼼꼼한 채집가,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de5e04489960,Trader,,상인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e38b843512a9,Metin Farmer,,메틴석 사냥꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cc6757dee9dc,M3 Farmer,,M3 사냥꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7bc6e192c183,M2 Farmer,,M2 사냥꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ecd0bc440e55,Medal Farmer,,메달 사냥꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3deabb07a754,Conqueror,,정복자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0bfd171baed7,Gambler,,도박꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de9bb20b09e2,Perfectionist,,완벽주의자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4486006f811b,Miner,,광부,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0d57bd5497ca,Fisher,,낚시꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:37a8650da7a9,Mercenary,,용병,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:713f7f0890c9,Metinologist,,메틴석 학자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7509ac40db87,Addict,,중독자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e25b58cbc199,Mad Scientist,,미친 과학자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f5dfbe1cae9c,Executioner,,처형자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2e79c8a2ef8e,Mad Angler,,미친 낚시꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:940e4dd57121,Junior Gambler,,초보 도박꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca1a9e88c123,Senior Gambler,,숙련 도박꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:852e38f3df18,Chief Gambler,,대도박꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:94e529e288d3,Mad Gambler,,미친 도박꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c205ffe7db50,Herbalist,,약초꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3163a85fc381,Bonus Master,,보너스의 달인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:41dc3110c0fa,Bargain Hunter,,알뜰 쇼핑꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b63f21fd8d7c,Daily Goal,,일일 목표,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:58911cf7195a,Keepsake of Mirine's Brother.,,미리네 오빠의 유품.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6809e8745eab,Guardian,,수호자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7fa23fb61b2,Welcome to Metin2 SinglePlayer,,Metin2 SinglePlayer에 오신 것을 환영합니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:30f45262a0f3,Go to the Captain,,대장에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:453a9c8d005b,Kill 10 Alpha Grey Wolves,,우두머리 회색 늑대 10마리 처치,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d824bb948f39,Destroy the Metin of Battle,,전투의 메틴석 파괴,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:31bda7537934,Talk to the Captain,,대장과 대화하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:58ea37474009,Capture the spy,,첩자를 잡으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d4266380e60b,Letter from the City Guard,,도시 경비대의 편지,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2eeeb4a35ea3,Destroy the Metin Stones,,메틴석을 파괴하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3f8a58eb1309,News from the City Guard,,도시 경비대의 소식,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c884636a97f0,The secret of the Metin Stones,,메틴석의 비밀,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:89924e62815e,The secret book,,비밀의 책,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b96db278dc0,Off into the Yongbi Desert,,영비사막으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0d5c0523b044,The sixth page,,여섯 번째 쪽,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d453e7f0cc69,The ninth page,,아홉 번째 쪽,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d8b6d72af23e,Looking for the memorials,,기념비를 찾아서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:050282dff64a,The Blacksmith's mission,,대장장이의 임무,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cde4dbb89e1d,Find the Fisherman,,어부를 찾으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:515a5c546f0d,Talk to the City Guard,,도시 경비병과 대화하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0709f49e2af1,The gift for Chaegirab,,채기랍을 위한 선물,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6593982a75ec,The sick brother,,아픈 동생,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c5f9cd8592da,The deserter,,탈영병,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc15d67c3060,Ah-Yu's worries,,아유의 걱정,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:718a35f89a75,The broken porcelain,,깨진 도자기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:52c363104c68,Rumble rumble,,꼬르륵 꼬르륵,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:622be932a29e,Visiting Wonda-Rim,,원다림 방문,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:85efc110e61e,Letter from the Captain,,대장의 편지,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a2e828cd9ccf,The daughter's wedding,,딸의 결혼식,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:79cb2a493c55,Get the Peach Seeds,,복숭아씨를 구하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e73906114016,The stolen Hairpin,,도둑맞은 비녀,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:46eca64fc658,Find my brother.,,제 오빠를 찾아 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39b954042b8a,Kill Mi-Jung from the White Oath,,하얀 맹세의 미정을 처치하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cf08db268137,Look for materials,,재료를 찾으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2e66213676f0,Eun-Jung from the White Oath,,하얀 맹세의 은정,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c9a90f3b574d,Go to the Peddler,,행상인에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b2739d337c31,Kill Goo-Paes,,구패를 처치하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7e3f4df99b33,Find Soon,,순을 찾으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8ac7a457b79b,Get a Wolf Pelt,,늑대 가죽을 구하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3959f0879be5,The dinner,,저녁 식사,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b3848e5dd70e,The Spears,,창,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0e05bb4929ef,A medicine for Balso,,발소를 위한 약,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c7208f520bff,Deokbae's Golden Axe,,덕배의 금도끼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54f4d786d380,Look for Yu-Hwan,,유환을 찾으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:181ca3b1c8d9,The Stolen Rice Cake,,도둑맞은 떡,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9564b755ebe4,Go to Ariyoung,,아리영에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fc6fad9695d1,Go to Octavio,,옥타비오에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2567ddc19e7f,Go to Aranyo,,아라뇨에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9274929c90a6,Return to Baek-Go,,백고에게 돌아가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d0420e5dc99,Ore for a new weapon,,새 무기를 위한 광석,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d478a79e30e5,Ore for new armour,,새 갑옷을 위한 광석,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:97551417c346,Peddler's Request,,행상인의 부탁,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7ebe7cf335b8,The bookworm's Treasure Map,,책벌레의 보물 지도,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6a8f125394f2,Kill the Black Wind generals,,흑풍의 장군들을 처치하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c3118e1fd4da,Return to Yonah,,요나에게 돌아가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f47434ca9522,Go to Soon,,순에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22ac51ec3aa6,You found the Decorated Bow!,,장식된 활을 찾았습니다!,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f1eadb5684d1,Go to Baek-Go,,백고에게 가세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5c49c8f7dd0a,A Letter from the Blacksmith,,대장장이의 편지,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bdfcd917d66b,Supporting War Device,,지원 병기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6fa64cfb8ddc,Spider Eyes Special,,거미 눈 특선,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c06bd2f8c284,Let the Dead Rest,,망자를 잠들게 하라,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:477e715a98ca,The Spider with the Bell,,방울 달린 거미,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:446f31875e7a,Temple of Darkness,,어둠의 사원,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:673ddd1abb8d,Celadon Porcelain,,청자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:94633491fbbf,Meet the spy,,첩자를 만나세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ad194f9fca39,Let's go see Octavio,,옥타비오를 만나러 가자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8b9ee107b0fe,Back to Soon,,순에게 돌아가기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:045ae476c9ba,Get materials,,재료를 구하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8857557d694c,The best cookbook,,최고의 요리책,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e0d7a332bdf,Rice Cake,,떡,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c058f87fbcc3,Find the Golden Axe,,금도끼를 찾으세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6714baff8c78,Quest: %s (%u/%u),,퀘스트: %s (%u/%u),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u %u",done
-c:pbt:d6f06ff68c38,Quest: %s,,퀘스트: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:ae36a27aaaf6,Wanderer,,방랑자,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:88557672dea9,Grinder,,노가다꾼,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:10b2941434ed,to Yongan,,용안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b140fb76accf,in Yongan,,용안에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1ca8a5ecb4cb,to Jayang,,자양으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:961eb8fb8e65,in Jayang,,자양에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2caee097c335,to Joan,,조안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f384284fb3f8,in Joan,,조안에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f8dfea2471e,to Bokjung,,복정으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:26f3ef3f7815,in Bokjung,,복정에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab2b1d5c6f12,to Pyongmoo,,평무로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e40a1fb1ec19,in Pyongmoo,,평무에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:548917ab802c,to Pyungmoo,,평무로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ded922fdf547,in Pyungmoo,,평무에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:519249f0aa0a,to Bakra,,박라로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:141f9067b82a,in Bakra,,박라에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:69c001bdd898,to Waryong,,와룡으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:57a27bbc114a,in Waryong,,와룡에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9982b937239c,to Yayang,,야양으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e4c68492b54f,in Yayang,,야양에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:155e9fc0eecb,to Jungrang,,중랑으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9d93674aaab4,in Jungrang,,중랑에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:86cc67371d1d,to Imha,,임하로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:81163fb8469b,in Imha,,임하에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:72efe3bfc347,to Doyyumhwaji,,도염화지로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:71b4dc62e142,in Doyyumhwaji,,도염화지에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ca92904fb6c,to Doyyumhwan,,도염화지로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ac12f94ceae4,in Doyyumhwan,,도염화지에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fec350a6a82d,to the Guild Land,,길드 영토로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ac8f812f64fe,in the Guild Land,,길드 영토에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6aefee0405b2,into the Guild Land,,길드 영토 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f07e0e08372b,to the Monkey Dungeon,,원숭이 던전으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:33a1fd35c818,in the Monkey Dungeon,,원숭이 던전에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e056ced9adb4,into the Monkey Dungeon,,원숭이 던전 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cdc31a85de75,to the Monkey Dungeon II,,원숭이 던전 II로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b869cd086831,in the Monkey Dungeon II,,원숭이 던전 II에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9b7c17da595,into the Monkey Dungeon II,,원숭이 던전 II 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cd1f93d524cf,to the Monkey Dungeon III,,원숭이 던전 III으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6014dfcf268f,in the Monkey Dungeon III,,원숭이 던전 III에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce43ac0992a7,into the Monkey Dungeon III,,원숭이 던전 III 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c203c1360f17,to Monkey Dungeon II,,원숭이 던전 II로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aa11033d6c98,in Monkey Dungeon II,,원숭이 던전 II에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b36e45cca6eb,into Monkey Dungeon II,,원숭이 던전 II 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:19aad470eec1,to Monkey Dungeon III,,원숭이 던전 III으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:99f3c534475a,in Monkey Dungeon III,,원숭이 던전 III에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:52a07e6292f3,into Monkey Dungeon III,,원숭이 던전 III 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a679c524ebed,to the Orc Valley,,오크 계곡으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ae1f32cf453,in the Orc Valley,,오크 계곡에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2678b788b10d,into the Orc Valley,,오크 계곡 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d21fe6f58729,to Orc Valley,,오크 계곡으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce99b25c83bd,in Orc Valley,,오크 계곡에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b11e85ea8fa8,into Orc Valley,,오크 계곡 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93dd4ea14407,to Mount Sohan,,서한산으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d69a2cd8b6d,in Mount Sohan,,서한산에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bcbdf0bcfcbb,into Mount Sohan,,서한산 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5855a3d4c17f,to the Spider Dungeon,,거미 던전으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bb1311e77521,in the Spider Dungeon,,거미 던전에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39cb1ffbe8a0,into the Spider Dungeon,,거미 던전 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c68aa523e51c,to the Spider Dungeon 2,,거미 던전 2로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c9949f8c9fcc,in the Spider Dungeon 2,,거미 던전 2에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22947400a463,into the Spider Dungeon 2,,거미 던전 2 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b2ea41db6da3,to Spider Dungeon 2,,거미 던전 2로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f872cf7c84ae,in Spider Dungeon 2,,거미 던전 2에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e188b51951c3,into Spider Dungeon 2,,거미 던전 2 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e35ed21321c,to the Hwang Temple,,황사원으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:82ce3aeed9e2,in the Hwang Temple,,황사원에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:955cba80817c,into the Hwang Temple,,황사원 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d3a3bfec0d7d,to Hwang Temple,,황사원으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b1e64df20539,in Hwang Temple,,황사원에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39ffcd5f944a,into Hwang Temple,,황사원 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98659210f965,to the Ghost Wood,,유령 숲으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9ff0e9045056,in the Ghost Wood,,유령 숲에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f2407884b78,into the Ghost Wood,,유령 숲 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b8295ca50c33,to the Ghost Forest,,유령 숲으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ae6d2c0e0119,in the Ghost Forest,,유령 숲에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0e49151f506a,into the Ghost Forest,,유령 숲 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22258fee6b80,to the Red Wood,,붉은 숲으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ad42b52957f8,in the Red Wood,,붉은 숲에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:00f9e37076e6,into the Red Wood,,붉은 숲 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:76d34513403b,to the Red Forest,,붉은 숲으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:230afa876cda,in the Red Forest,,붉은 숲에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:91b3a29c5c65,into the Red Forest,,붉은 숲 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1a1e0a0475fb,to the Demon Tower,,악마의 탑으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:907079fa4fe8,in the Demon Tower,,악마의 탑에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6d67786f5008,into the Demon Tower,,악마의 탑 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4de2fcea488b,to the Grotto of Exile,,유배의 동굴로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66cb3e9cf03b,in the Grotto of Exile,,유배의 동굴에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cc43748f00c2,into the Grotto of Exile,,유배의 동굴 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d9dd613effbc,to the Grotto of Exile 2,,유배의 동굴 2로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5eec845e8a64,in the Grotto of Exile 2,,유배의 동굴 2에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1075ae2e1321,into the Grotto of Exile 2,,유배의 동굴 2 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:56030b826114,to the Grotto,,동굴로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:760b5e04a530,in the Grotto,,동굴에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3015625d415a,into the Grotto,,동굴 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:27c23a352268,to the Yongbi Desert,,영비사막으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df722d9149e3,in the Yongbi Desert,,영비사막에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3c25f433f746,into the Yongbi Desert,,영비사막 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:33ad2cae4f96,to the armour dealer,,방어구상으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2dd928c0e8e2,in the armour dealer,,방어구상에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:917fc69b5f15,into the armour dealer,,방어구상 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6eeb5b8c0d4b,to the weapon dealer,,무기상으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:789b94f625f1,in the weapon dealer,,무기상에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a95d776addf1,into the weapon dealer,,무기상 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3547c995455f,to the general store,,잡화상점으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a3af7bf31a09,in the general store,,잡화상점에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0d4c099ca255,into the general store,,잡화상점 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ccf84acd99cc,to the blacksmith,,대장장이로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44fb14cb1fbf,in the blacksmith,,대장장이에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:963bc36dcb98,into the blacksmith,,대장장이 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a2048fbf5f7,to town,,마을로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8cb8932eed71,in town,,마을에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce4e974955f3,into town,,마을 안으로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:84f6bb20d960,at the blacksmith,,대장장이에게서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:270e173948ef,at a merchant,,상인에게서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7b658ad6de18,in the north,,북쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d3db39970f6,in the south,,남쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7d935c4566f4,in the east,,동쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1bcefc713b0d,in the west,,서쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5f14cdd4e76c,in the north-east,,북동쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fcc606576079,in the north-west,,북서쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9a54e61923c8,in the south-east,,남동쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:40e145ffd641,in the south-west,,남서쪽에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ad7e2f5eefa8,in the middle of the map,,맵 중앙에서,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cae56215a804,hunting,,사냥,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df9a698b88a5,regeneration,,회복,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:95fa7a5a6524,Sorting out the inventory,,인벤토리 정리 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:827cc8f22d2b,Going to a duel with %s,,%s와(과) 결투하러 가는 중,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:3e5bc4c74536,Duel with %s,,%s와(과) 결투,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:9323334c6d7e,back to work,,다시 일하러,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cc68da4c470b,to train a Grand Master skill,,그랜드 마스터 스킬을 수련하려고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04606fc64b12,to get back to town quickly,,마을로 빨리 돌아가려고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0bdc5330e8b1,to read my books without the wait,,기다리지 않고 책을 읽으려고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aa4048e113b0,to change bonuses at the blacksmith,,대장장이에게서 보너스를 바꾸려고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bcabf8965fdc,Going to the OX Quiz,,OX 퀴즈에 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:343b399714fd,[PT] ,,[PT] ,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44042a89bcb9,Mounted,,탑승,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0d612c12d2ac,auto,,자동,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6656018ac96d,always,,항상,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:85777c03b725,never,,안 함,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d5fdac3b434e,"Fights from its horse beside you while you ride: auto (Shaman, black-magic Sura climb off), always, never.",,"당신이 말을 탈 때 옆에서 말 위로 싸웁니다: 자동(무당과 흑마법 수라는 내림), 항상, 안 함.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d0352c971bb1,Going to Jack Pumpkin,,잭 호박에게 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:58462b7ff323,Trading with Jack Pumpkin,,잭 호박과 거래 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:077d49e68fbc,Going to the Pumpkin Scarecrow,,호박 허수아비에게 가는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:013db90e04d4,Talking to the Pumpkin Scarecrow,,호박 허수아비와 대화 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dbe23ae3d200,Buffs,,버프,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:42153ed0bae2,Player:,,플레이어:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d48aafe6892b,Fetch,,불러오기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e7b192caac22,Type the player's name.,,플레이어 이름을 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eee35960f44d,The quest,,퀘스트,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:476cb365f676,Reward variant,,보상 종류,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5620aaff56f1,Complete with reward,,보상과 함께 완료,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eefaca3dd40b,The list is the database's copy. The server checks the stage again in the game.,,목록은 데이터베이스의 사본입니다. 서버가 게임 안에서 단계를 다시 확인합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f4d0e1411220,Type a valid player name.,,올바른 플레이어 이름을 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:61bf181c9b7d,Fetching the quests of %s...,,%s의 퀘스트를 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:b51350304a09,Give the reward above and skip what this quest requires? Click again.,,위 보상을 주고 이 퀘스트의 요구 사항을 건너뛰시겠습니까? 다시 클릭하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:471c0eb9b2e3,Confirm the reward,,보상 확인,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:513b552b2ca1,No answer from the server. Refresh the list or the request.,,서버에서 응답이 없습니다. 목록이나 요청을 새로 고치세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:274908e3773f,The quest's stage changed. Fetch the list again.,,퀘스트 단계가 바뀌었습니다. 목록을 다시 불러오세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:94e66b8dd068,The reward changed. Open its preview again.,,보상이 바뀌었습니다. 미리보기를 다시 여세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b747dd0e8f44,The game's reward table needs a reload by the administrator.,,게임 보상 표를 관리자가 다시 불러와야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ecaed3188c01,The player's inventory has no room.,,플레이어 인벤토리에 공간이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:190d448fa845,The reward would pass the player's Yang limit.,,보상이 플레이어의 냥 한도를 넘습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2678e948175b,This quest has already been rewarded.,,이 퀘스트는 이미 보상을 받았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:35ae97a01321,The Biologist's reward has already been given.,,생물학자의 보상은 이미 지급되었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:99dbc257dda7,Quest completion is switched off (panel: Player quests).,,퀘스트 완료가 꺼져 있습니다 (패널: 플레이어 퀘스트).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7bf1254ce489,Pick the quest again to refresh its reward.,,보상을 갱신하려면 퀘스트를 다시 고르세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da444935e92f,No such character.,,그런 캐릭터가 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f39dc511265f,Too many requests. Wait a moment.,,요청이 너무 많습니다. 잠시 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fa324ede4494,"This quest cannot be completed here, or its stage is inactive.",,이 퀘스트는 여기서 완료할 수 없거나 단계가 비활성 상태입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a86c3243e7d5,This reward needs its room checked by hand.,,이 보상은 공간을 직접 확인해야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bed2a0560dd3,This variant does not fit the class or the stage.,,이 종류는 직업이나 단계에 맞지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aab23ad18640,The quest's cycle changed. Fetch the quests again.,,퀘스트 주기가 바뀌었습니다. 퀘스트를 다시 불러오세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:53768f4c9b5a,A catch depends on the rod and the catch bonus: the rod's bonus and the bait's together. Choose an item to see what it needs.,"Połów zależy od wędki i premii połowu, czyli premii wędki i przynęty razem. Kliknij przedmiot, aby zobaczyć, czego wymaga.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a77c54ba0b45,A rod's bonus: %s.,Premia wędki: %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:32ae7625e38d,A bait's bonus: %s.,Premia przynęty: %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:aaf7bb8bcb1a,Default pool; a world may have its own fishing settings.,Pula domyślna; świat może mieć własne ustawienia połowu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9ee8f66786a8,What you can catch,Co można złowić,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2f507ca20579,Herbalism: getting started,Zielarstwo: jak zacząć,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:401bc7357515,Baek-Go's recipes,Receptury Baek-Go,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8802952ba79a,Herbalist's Workshop,Pracownia Zielarza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6cd1b82bf860,Data from this version's server files,Dane z plików serwera tej wersji,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:24e931b9fbff,Bonus %d: +%d,Bonus %d: +%d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:2ba5fa924a82,your next hand-in to the Biologist after a failed analysis has no wait (once),następne oddanie Biologowi po nieudanej analizie bez czekania (jednorazowo),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c6b68fbd5be9,your next failed skill book read sets no waiting time (once),następny nieudany odczyt księgi umiejętności bez czasu oczekiwania (jednorazowo),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cc86e3eaee9a,blocks experience gain,blokuje zdobywanie doświadczenia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d7fbaba97aa9,+%d%% herb gathering chance; on average every %dth successful pick +%d herbs,+%d%% szansy na zbiór ziół; co %d. udany zbiór średnio +%d zioła,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:9044734bd129,special effect %d,efekt specjalny %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:73064a35f3e7,Effect: %s,Efekt: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:a4dff8576d74,lasts %s,czas %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:519f9ed86142,until the next recipe read,do następnego odczytu receptury,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3713784bd4c6,until used,do wykorzystania,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:95a61a8906c7,group: %s,grupa: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:2164b86e8394,cooldown %s,odnowienie %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:39afa7e0fd31,from level %d,od poziomu %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:c7c1a0def0f4,"Effect: %s, lasts %s.","Efekt: %s, czas %s.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",new
+c:pbt:105d0d2188c8,Effect: refills HP by itself from a pool of %s.,Efekt: sam uzupełnia PŻ z puli %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:3ec5abcf4202,Effect: refills SP by itself from a pool of %s.,Efekt: sam uzupełnia PE z puli %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:4a5a4121980c,%s HP,%s PŻ,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:4775f32d9b07,%s SP,%s PE,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:6aaa0bee0c08,Effect: restores %s.,Efekt: przywraca %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:2d1821664e3a,"Teaches the recipe: %s (read chance %d%%, up to %d reads).","Uczy receptury: %s (szansa odczytu %d%%, odczytów: do %d).",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",new
+c:pbt:d45e05c755d1,"Herb or material: used in recipes, exams and orders.","Zioło lub materiał: składnik receptur, egzaminów i zleceń.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:76e7a3a3f9c2,Getting started,Jak zacząć,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fb56e1d76b21,%s stands in every first village: %s. From level %d ask him about herbalism.,%s stoi w każdej pierwszej wiosce: %s. Od poziomu %d zapytaj go o zielarstwo.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",new
+c:pbt:c6bddd164ea8,The first time he gives you %s (once per character). Equip the knife instead of your weapon.,Za pierwszym razem dostaniesz od niego %s (raz na postać). Załóż nożyk zamiast broni.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:8e4ee2d759b5,Pick %d x %s - these bushes grow in the meadows round the first villages - and come back. You keep the blossoms.,Zbierz %d x %s - te krzewy rosną na łąkach wokół pierwszych wiosek - i wróć. Kwiaty zostają u Ciebie.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",new
+c:pbt:9313ea4fad0e,"You receive %s. Read the recipe, then craft your first potion at %s.","Otrzymasz %s. Przeczytaj recepturę, a potem u %s wytwórz pierwszą miksturę.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",new
+c:pbt:464b707bf20c,The introduction rewards %s and %d%% of a level's experience. From level %d the Herbalist's Path awaits.,Nagroda za wprowadzenie: %s i %d%% doświadczenia poziomu. Od poziomu %d czeka Ścieżka Zielarza.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",new
+c:pbt:ad22b1c3cc56,The knife goes in the weapon slot (from level %d). Every plus raises the gathering chance and needs more practice.,Nożyk zakładasz w miejscu broni (od poziomu %d). Każdy plus zwiększa szansę zbioru i wymaga więcej praktyki.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:a90e33b370a7,"Practice: +1 point for a successful pick, and for a failed one 1 time in %d. With full practice %s (%s) upgrades the knife.","Praktyka: +1 punkt za udany zbiór, a za nieudany w 1 na %d przypadków. Gdy praktyka jest pełna, %s (%s) ulepszy nożyk.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",new
+c:pbt:bee3e8f44daa,A failed upgrade takes the knife one plus down; after every attempt practice starts from zero. %s sells the +0 knife.,Nieudane ulepszenie cofa nożyk o jeden plus; po każdej próbie praktyka liczy się od zera. %s sprzedaje nożyk +0.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:f2cb0c22e1dd,"+%d: gathering +%d%%, practice %s. Upgrade: %s Yang, %s, chance %d%%.","+%d: zbiór +%d%%, praktyka %s. Ulepszenie: %s Yang, %s, szansa %d%%.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s %s %s %d",new
+c:pbt:f29b9de15372,+%d: gathering +%d%% - the highest plus.,+%d: zbiór +%d%% - najwyższy plus.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:0618fb7e1dce,Herbalist's Knife,Nóż Zielarza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d70f8b54734c,Gathering herbs,Zbieranie ziół,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:00d351acbb36,"Walk up to a bush and click it with the knife equipped: not mounted, not polymorphed, at least the bush's level. A pick takes %d s.","Podejdź do krzewu i kliknij go z założonym nożykiem: nie na koniu, nie po przemianie, z poziomem co najmniej krzewu. Zbiór trwa %d s.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:a12744c341cc,"Chance: %d%% + the knife's bonus + the mining skill bonus (the same as for mining) + %d%% for every failed pick (up to %d%%, reset by a success).","Szansa: %d%% + premia nożyka + premia umiejętności wydobycia (ta sama co przy kopaniu) + %d%% za każdy nieudany zbiór (do %d%%, zeruje się po udanym).",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:73a40498400c,"A successful pick gives %d-%d herbs. %s adds %d%% chance, and on average every %dth success +%d herbs.","Udany zbiór daje %d-%d zioła. %s dodaje %d%% szansy, a co %d. udany zbiór średnio +%d zioła.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s %d %d %d",new
+c:pbt:be6ce7c2909a,"A bush withers after picks: after the 2nd with a %d%% chance, the 3rd %d%%, the 4th %d%%, the 5th %d%%, always after the %dth. It grows back later.","Krzew więdnie po zbiorach: po 2. z szansą %d%%, po 3. %d%%, po 4. %d%%, po 5. %d%%, po %d. zawsze. Odrasta po czasie.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d %d %d",new
+c:pbt:99d8cb2bf7de,"A bush and its level, then the maps it grows on. Herbs also drop from monsters - choose a herb for its sources.","Krzew i jego poziom, a potem mapy, na których rośnie. Zioła wypadają też z potworów - kliknij zioło, aby zobaczyć źródła.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8ee9fc8bab48,no map in this version,brak mapy w tej wersji,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:78080a1eec0f,%s (lv. %d): %s,%s (poz. %d): %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %s",new
+c:pbt:8ee1849bf3e0,Bushes and where they grow,Krzewy i gdzie rosną,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5a881839c7fb,"From level %d ask %s about the Herbalist's Path. The exam for the next rank checks your level, knowledge, the equipped knife, the fee and the goods, which are taken. You need 2 free inventory slots.","Od poziomu %d zapytaj %s o Ścieżkę Zielarza. Egzamin na kolejną rangę sprawdza poziom, wiedzę, założony nożyk, opłatę i towar, który zostanie zabrany. Potrzebne są 2 wolne miejsca w ekwipunku.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",new
+c:pbt:12944376459d,Knowledge is the sum of the successful reads of all %d herbal recipes of %s's window (see Baek-Go's recipes). Your rank at the start: %s.,Wiedza to suma udanych odczytów wszystkich %d receptur zielarskich z okna %s (karta Receptury Baek-Go). Twoja ranga na starcie: %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %s",new
+c:pbt:3e6f408c2e1e,lv. %d,poz. %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:aef23695db6e,"Knowledge: %d, knife +%d or better (equipped), fee: %s Yang.","Wiedza: %d, nożyk +%d lub lepszy (założony), opłata: %s Yang.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",new
+c:pbt:d7f0281010d2,To hand in:,Do oddania:,,"client: our windows (companion, Auto Hunt, status lines)",new

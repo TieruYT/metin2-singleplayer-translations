@@ -1,0 +1,731 @@
+id,english,polski,translation,notes,status
+c:skilldesc:65:7,Increases Defence,Zwiększa Obronę,Aumenta a defesa,"client: skill tooltip, condition 2 (skill 65)",done
+c:skilldesc:65:8,Intelligence Bonus,Bonus od Inteligencji,Bónus de inteligência,"client: skill tooltip, condition 3 (skill 65)",done
+c:skilldesc:65:17,Defence +%.0f ,Obrona +%.0f,Defesa +%.0f ,"client: skill tooltip, effect line 1 (skill 65) | keep: %.0f | max 64 characters",done
+c:skilldesc:65:20,Reflected Close-Combat Damage: %.0f%%,Odbicie ataku fizycznego: %.0f%%,Dano corpo a corpo refletido: %.0f%%,"client: skill tooltip, effect line 2 (skill 65) | keep: %.0f | max 64 characters",done
+c:skilldesc:66:2,Dispel,Rozproszenie Magii,Dissipar,"client: skill tooltip, skill name (skill 66)",done
+c:skilldesc:66:3,Stronger Dispel,Silniejsze Rozproszenie Magii,Dissipar reforçado,"client: skill tooltip, skill name (M) (skill 66)",done
+c:skilldesc:66:4,Dispel Attack,Szturm Rozproszenia Magii,Ataque de dissipação,"client: skill tooltip, skill name (G/P) (skill 66)",done
+c:skilldesc:66:5,Remove all opponent's supporting effects.,Usuń wszystkie efekty wspierające wroga.,Remove todos os efeitos de apoio do adversário.,"client: skill tooltip, description (skill 66)",done
+c:skilldesc:66:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 66)",done
+c:skilldesc:66:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 66)",done
+c:skilldesc:66:8,All effects on opponent are removed,Usuwa efekty przeciwnika,Todos os efeitos do adversário são removidos,"client: skill tooltip, condition 3 (skill 66)",done
+c:skilldesc:66:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 66) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:66:20,Dispel Chance %.0f%%,Szansa Na Rozproszenie %.0f%%,Probabilidade de dissipar %.0f%%,"client: skill tooltip, effect line 2 (skill 66) | keep: %.0f | max 64 characters",done
+c:skilldesc:76:2,Dark Strike,Mroczne Uderzenie,Golpe sombrio,"client: skill tooltip, skill name (skill 76)",done
+c:skilldesc:76:3,Ghost Strike,Mroczny Cios,Golpe fantasma,"client: skill tooltip, skill name (M) (skill 76)",done
+c:skilldesc:76:4,Dark Explosion,Czarny Atak,Explosão sombria,"client: skill tooltip, skill name (G/P) (skill 76)",done
+c:skilldesc:76:5,Throw the Dark Force to damage enemies. ,"Miotaj mrocznymi siłami, aby ranić wrogów.",Lança a força das trevas contra os inimigos. ,"client: skill tooltip, description (skill 76)",done
+c:skilldesc:76:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 76)",done
+c:skilldesc:76:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 76)",done
+c:skilldesc:76:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 76) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:77:2,Flame Strike,Ogniste Uderzenie,Golpe flamejante,"client: skill tooltip, skill name (skill 77)",done
+c:skilldesc:77:3,Burning Strike,Płonące Uderzenie,Golpe ardente,"client: skill tooltip, skill name (M) (skill 77)",done
+c:skilldesc:77:4,Flame Detonation,Ognista Detonacja,Detonação flamejante,"client: skill tooltip, skill name (G/P) (skill 77)",done
+c:skilldesc:77:5,Burn enemies with an explosion. ,Spal wrogów eksplozją.,Queima os inimigos com uma explosão. ,"client: skill tooltip, description (skill 77)",done
+c:skilldesc:77:6,Splash Attack,Atak rozpryskowy,Ataque em área,"client: skill tooltip, condition 1 (skill 77)",done
+c:skilldesc:77:7,Fire Attack,Atak ogniem,Ataque de fogo,"client: skill tooltip, condition 2 (skill 77)",done
+c:skilldesc:77:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 77) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:77:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Probabilidade de queimadura prolongada %.0f%%,"client: skill tooltip, effect line 2 (skill 77) | keep: %.0f | max 64 characters",done
+c:skilldesc:78:2,Flame Spirit,Ognisty Duch,Espírito flamejante,"client: skill tooltip, skill name (skill 78)",done
+c:skilldesc:78:3,Flame Array,Ogniste Szeregi,Fileira de chamas,"client: skill tooltip, skill name (M) (skill 78)",done
+c:skilldesc:78:4,Flame Explosion,Ognista Eksplozja,Explosão de chamas,"client: skill tooltip, skill name (G/P) (skill 78)",done
+c:skilldesc:78:5,Call a Flame Spirit.,Przywołaj Ognistego Ducha,Chama um espírito flamejante.,"client: skill tooltip, description (skill 78)",done
+c:skilldesc:78:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 78)",done
+c:skilldesc:78:7,Marked/Random Target,Zaznaczony/Losowy cel,Alvo marcado/aleatório,"client: skill tooltip, condition 2 (skill 78)",done
+c:skilldesc:78:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory),Ataque a vários alvos (monstros),"client: skill tooltip, condition 3 (skill 78)",done
+c:skilldesc:78:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 78) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:79:2,Dark Protection,Mroczna Ochrona,Proteção sombria,"client: skill tooltip, skill name (skill 79)",done
+c:skilldesc:79:3,Dark Membrane,Mroczna Membrana,Membrana sombria,"client: skill tooltip, skill name (M) (skill 79)",done
+c:skilldesc:79:4,Protection of Dark Lord,Protekcja Mrocznego Lorda,Proteção do senhor das trevas,"client: skill tooltip, skill name (G/P) (skill 79)",done
+c:skilldesc:79:5,Protects you with the Dark Force and converts physical damage into SP.,Ochrania Cię mroczną siłą i przekierowuje % obrażeń PŻ na PE.,Protege-te com a força das trevas e converte dano físico em PM.,"client: skill tooltip, description (skill 79)",done
+c:skilldesc:79:6,Reduces Magic Damage,Zmniejsza obrażenia od magii,Reduz o dano mágico,"client: skill tooltip, condition 1 (skill 79)",done
+c:skilldesc:79:7,Increases Defence,Zwiększa obronę,Aumenta a defesa,"client: skill tooltip, condition 2 (skill 79)",done
+c:skilldesc:79:17,Defence +%.0f,Obrona +%.0f,Defesa +%.0f,"client: skill tooltip, effect line 1 (skill 79) | keep: %.0f | max 64 characters",done
+c:skilldesc:79:20,Redirected Damage Reduction %.0f%%,Zmniejszenie przekierowanych Obrażeń %.1f%%,Redução do dano redirecionado %.0f%%,"client: skill tooltip, effect line 2 (skill 79) | keep: %.0f | max 64 characters",done
+c:skilldesc:79:23,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,Redirecionamento de dano %.0f%%,"client: skill tooltip, effect line 3 (skill 79) | keep: %.0f | max 64 characters",done
+c:skilldesc:80:2,Spirit Strike (S),Duchowy Cios,Golpe espiritual,"client: skill tooltip, skill name (skill 80)",done
+c:skilldesc:80:3,Soul Strike,Cios Duszy,Golpe da alma,"client: skill tooltip, skill name (M) (skill 80)",done
+c:skilldesc:80:4,Spirit Assault,Duchowa Napaść,Assalto espiritual,"client: skill tooltip, skill name (G/P) (skill 80)",done
+c:skilldesc:80:5,Throw Dark Spirits to damage enemies.,"Miotaj mrocznymi duchami, aby ranić wrogów.",Lança espíritos sombrios contra os inimigos.,"client: skill tooltip, description (skill 80)",done
+c:skilldesc:80:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 80)",done
+c:skilldesc:80:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 80)",done
+c:skilldesc:80:8,Opponents are slowed down,Spowalnia przeciwników,Os adversários ficam mais lentos,"client: skill tooltip, condition 3 (skill 80)",done
+c:skilldesc:80:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 80) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:80:20,Chance of slowing down %.1f%%,Szansa na Spowolnienie: %.1f%% ,Probabilidade de abrandar %.1f%%,"client: skill tooltip, effect line 2 (skill 80) | keep: %.1f | max 64 characters",done
+c:skilldesc:81:2,Dark Orb,Mroczna Sfera,Orbe sombria,"client: skill tooltip, skill name (skill 81)",done
+c:skilldesc:81:3,Dark Globe,Mroczna Kula,Globo sombrio,"client: skill tooltip, skill name (M) (skill 81)",done
+c:skilldesc:81:4,Dark Sphere,Mroczny Glob,Esfera sombria,"client: skill tooltip, skill name (G/P) (skill 81)",done
+c:skilldesc:81:5,Throw Dark Orbs to damage enemies.,"Miotaj mrocznymi kulami, aby ranić wrogów.",Lança orbes sombrias contra os inimigos.,"client: skill tooltip, description (skill 81)",done
+c:skilldesc:81:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 81)",done
+c:skilldesc:81:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 81)",done
+c:skilldesc:81:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 81) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:91:2,Flying Talisman,Latający Talizman,Talismã voador,"client: skill tooltip, skill name (skill 91)",done
+c:skilldesc:91:3,Dragon Throw,Rzut Smoka,Arremesso do dragão,"client: skill tooltip, skill name (M) (skill 91)",done
+c:skilldesc:91:4,Massive Throw,Potężny Rzut,Arremesso maciço,"client: skill tooltip, skill name (G/P) (skill 91)",done
+c:skilldesc:91:5,Throw a talisman to damage enemies.,"Miotaj talizmanami, aby ranić wrogów.",Lança um talismã contra os inimigos.,"client: skill tooltip, description (skill 91)",done
+c:skilldesc:91:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 91)",done
+c:skilldesc:91:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 91)",done
+c:skilldesc:91:8,Lasting Fire Damage,Ognisty czasowy atak,Dano de fogo prolongado,"client: skill tooltip, condition 3 (skill 91)",done
+c:skilldesc:91:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 91) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:91:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Probabilidade de queimadura prolongada %.0f%%,"client: skill tooltip, effect line 2 (skill 91) | keep: %.0f | max 64 characters",done
+c:skilldesc:92:2,Shooting Dragon ,Strzelający Smok,Dragão atirador ,"client: skill tooltip, skill name (skill 92)",done
+c:skilldesc:92:3,Attacking Dragon,Atakujący Smok,Dragão atacante,"client: skill tooltip, skill name (M) (skill 92)",done
+c:skilldesc:92:4,Rising Dragon,Wznoszący Smok,Dragão ascendente,"client: skill tooltip, skill name (G/P) (skill 92)",done
+c:skilldesc:92:5,Shoot a dragon figure to attack enemies directly.,Strzelaj smoczymi podobiznami i atakuj wrogów.,Dispara uma figura de dragão para atacar diretamente os inimigos.,"client: skill tooltip, description (skill 92)",done
+c:skilldesc:92:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Ataque frontal em área,"client: skill tooltip, condition 1 (skill 92)",done
+c:skilldesc:92:7,Lasting Fire Damage,Ognisty czasowy atak,Dano de fogo prolongado,"client: skill tooltip, condition 2 (skill 92)",done
+c:skilldesc:92:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 92) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:92:20,Chance of lasting fire %.0f%%,Szansa na Płonięcie %.0f%%,Probabilidade de queimadura prolongada %.0f%%,"client: skill tooltip, effect line 2 (skill 92) | keep: %.0f | max 64 characters",done
+c:skilldesc:93:2,Dragon's Roar,Smoczy Skowyt,Rugido do dragão,"client: skill tooltip, skill name (skill 93)",done
+c:skilldesc:93:3,Dragon's Scream,Krzyk Smoka,Grito do dragão,"client: skill tooltip, skill name (M) (skill 93)",done
+c:skilldesc:93:4,Dragon's Cry,Płacz Smoka,Clamor do dragão,"client: skill tooltip, skill name (G/P) (skill 93)",done
+c:skilldesc:93:5,Attack enemies with a dragon figure.,Atakuj wrogów smoczymi podobiznami.,Ataca os inimigos com uma figura de dragão.,"client: skill tooltip, description (skill 93)",done
+c:skilldesc:93:6,Splash Attack,Atak rozpryskowy,Ataque em área,"client: skill tooltip, condition 1 (skill 93)",done
+c:skilldesc:93:7,Lasting Fire Damage,Ognisty czasowy atak,Dano de fogo prolongado,"client: skill tooltip, condition 2 (skill 93)",done
+c:skilldesc:93:8,Activates Dragon's Wrath,Aktywuje Smoczy Gniew,Ativa a ira do dragão,"client: skill tooltip, condition 3 (skill 93)",done
+c:skilldesc:93:17,Magic Attack Power %.0f-%.0f,Magiczna Siła Ataku: %.0f-%.0f,Poder de ataque mágico %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 93) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:93:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Probabilidade de queimadura prolongada %.0f%%,"client: skill tooltip, effect line 2 (skill 93) | keep: %.0f | max 64 characters",done
+c:skilldesc:93:23,Dragon's Wrath +%.1f,Smoczy Gniew +%.1f,Ira do dragão +%.1f,"client: skill tooltip, effect line 3 (skill 93) | keep: %.1f | max 64 characters",done
+c:skilldesc:94:2,Blessing,Błogosławieństwo,Bênção,"client: skill tooltip, skill name (skill 94)",done
+c:skilldesc:94:3,Heaven,Ściana Nieba,Céu,"client: skill tooltip, skill name (M) (skill 94)",done
+c:skilldesc:94:4,Dragon,Błogosławieństwo Smoka,Dragão,"client: skill tooltip, skill name (G/P) (skill 94)",done
+c:skilldesc:94:5,Protect your partner or yourself with a protection circle.,Ochraniaj partnera lub siebie samego kręgiem ochronnym.,Protege o teu parceiro ou a ti próprio com um círculo de proteção.,"client: skill tooltip, description (skill 94)",done
+c:skilldesc:94:6,Physical Attack Resistance,Odporność na fizyczne obrażenia,Resistência a ataques físicos,"client: skill tooltip, condition 1 (skill 94)",done
+c:skilldesc:94:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Pode ser usada em membros do grupo|Noutro jogador: valor do bónus -25%.,"client: skill tooltip, condition 2 (skill 94)",done
+c:skilldesc:94:17,Physical Attack Resistance %.1f%% ,Odporność Na Ataki Fizyczne %.1f%%,Resistência a ataques físicos %.1f%% ,"client: skill tooltip, effect line 1 (skill 94) | keep: %.1f | max 64 characters",done
+c:skilldesc:95:2,Reflect,Odbicie,Reflexo,"client: skill tooltip, skill name (skill 95)",done
+c:skilldesc:95:3,Reflecting Water,Odbijająca Woda,Água refletora,"client: skill tooltip, skill name (M) (skill 95)",done
+c:skilldesc:95:4,Crystal Mirror ,Krystaliczne Lustro,Espelho de cristal ,"client: skill tooltip, skill name (G/P) (skill 95)",done
+c:skilldesc:95:5,Protect your partner or yourself with a reflecting circle.,Ochraniaj partnera lub siebie samego odbijającym kręgiem.,Protege o teu parceiro ou a ti próprio com um círculo refletor.,"client: skill tooltip, description (skill 95)",done
+c:skilldesc:95:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Reflete o dano de volta ao atacante,"client: skill tooltip, condition 1 (skill 95)",done
+c:skilldesc:95:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Pode ser usada em membros do grupo|Noutro jogador: valor do bónus -25%.,"client: skill tooltip, condition 2 (skill 95)",done
+c:skilldesc:95:17,Reflected Physical Attack Damage: %.1f%% ,Odbicie Ataku Fizycznego: %.1f%%,Dano físico refletido: %.1f%% ,"client: skill tooltip, effect line 1 (skill 95) | keep: %.1f | max 64 characters",done
+c:skilldesc:96:2,Dragon's Strength,Pomoc Smoka,Ajuda do dragão,"client: skill tooltip, skill name (skill 96)",done
+c:skilldesc:96:3,Dragon's Support,Wsparcie Smoka,Apoio do dragão,"client: skill tooltip, skill name (M) (skill 96)",done
+c:skilldesc:96:4,Dragon Power,Siła Smoka,Poder do dragão,"client: skill tooltip, skill name (G/P) (skill 96)",done
+c:skilldesc:96:5,Strengthens you or your partner's attack.,Zwiększ Twój atak lub kogoś z grupy.,Reforça o teu ataque ou o do teu parceiro.,"client: skill tooltip, description (skill 96)",done
+c:skilldesc:96:6,Increases chance of a critical hit,Zwiększa szansę na krytyczne uderzenie,Aumenta a probabilidade de golpe crítico,"client: skill tooltip, condition 1 (skill 96)",done
+c:skilldesc:96:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Pode ser usada em membros do grupo|Noutro jogador: valor do bónus -25%.,"client: skill tooltip, condition 2 (skill 96)",done
+c:skilldesc:96:17,Chance of critical hit %.1f%% ,Szansa na cios krytyczny: +%.1f%% ,Probabilidade de golpe crítico %.1f%% ,"client: skill tooltip, effect line 1 (skill 96) | keep: %.1f | max 64 characters",done
+c:skilldesc:106:2,Lightning Throw ,Rzut Piorunem,Lançamento de relâmpago ,"client: skill tooltip, skill name (skill 106)",done
+c:skilldesc:106:3,Lightning Toss,Piorun Kulisty,Arremesso de relâmpago,"client: skill tooltip, skill name (M) (skill 106)",done
+c:skilldesc:106:4,Thunder Hurl,Śmiertelny Piorun,Arremesso do trovão,"client: skill tooltip, skill name (G/P) (skill 106)",done
+c:skilldesc:106:5,Attack with Thunderbolts.,Miotaj pioruny.,Ataca com raios.,"client: skill tooltip, description (skill 106)",done
+c:skilldesc:106:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 106)",done
+c:skilldesc:106:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 106)",done
+c:skilldesc:106:8,Lightning Attribute,Atrybut Piorunu,Atributo relâmpago,"client: skill tooltip, condition 3 (skill 106)",done
+c:skilldesc:106:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 106) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:107:2,Summon Lightning,Przywołanie błyskawicy,Invocar relâmpago,"client: skill tooltip, skill name (skill 107)",done
+c:skilldesc:107:3,Lightning Launch,Wystrzał błyskawicy,Lançamento de raio,"client: skill tooltip, skill name (M) (skill 107)",done
+c:skilldesc:107:4,Thunder Bolt,Grzmot,Raio trovejante,"client: skill tooltip, skill name (G/P) (skill 107)",done
+c:skilldesc:107:5,Summon Thunderbolts from the sky.,Przywołuje błyskawice z nieba,Invoca raios do céu.,"client: skill tooltip, description (skill 107)",done
+c:skilldesc:107:6,Long-Range Attack,Atak Zasięgowy,Ataque à distância,"client: skill tooltip, condition 1 (skill 107)",done
+c:skilldesc:107:7,Attack on multiple targets,Atak skierowany w kilka celów,Ataque a vários alvos,"client: skill tooltip, condition 2 (skill 107)",done
+c:skilldesc:107:8,Lightning Attribute|Fainting Effect,Atrybut Błyskawicy|Efekt Omdlenia,Atributo relâmpago|Efeito de atordoamento,"client: skill tooltip, condition 3 (skill 107)",done
+c:skilldesc:107:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 107) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:107:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Probabilidade de atordoar: %.0f%%,"client: skill tooltip, effect line 2 (skill 107) | keep: %.0f | max 64 characters",done
+c:skilldesc:108:2,Lightning Claw ,Burzowy Szpon,Garra de relâmpago ,"client: skill tooltip, skill name (skill 108)",done
+c:skilldesc:108:3,Lightning Punch,Piorunowy Cios,Soco de relâmpago,"client: skill tooltip, skill name (M) (skill 108)",done
+c:skilldesc:108:4,Thunder Punch ,Pięść Grzmotu,Soco do trovão ,"client: skill tooltip, skill name (G/P) (skill 108)",done
+c:skilldesc:108:5,Summon a Thunderbolt to your fist. ,Wykonaj Piorunową Pięść.,Invoca um raio no teu punho. ,"client: skill tooltip, description (skill 108)",done
+c:skilldesc:108:6,Long-Range Attack,Atak z dystansu,Ataque à distância,"client: skill tooltip, condition 1 (skill 108)",done
+c:skilldesc:108:7,Lightning Attribute,Atrybut Błyskawicy,Atributo relâmpago,"client: skill tooltip, condition 2 (skill 108)",done
+c:skilldesc:108:8,Chain Reaction Attack,Atak łańcuchowy,Ataque em cadeia,"client: skill tooltip, condition 3 (skill 108)",done
+c:skilldesc:108:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Poder de ataque mágico %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 108) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:109:2,Cure,Leczenie,Cura,"client: skill tooltip, skill name (skill 109)",done
+c:skilldesc:109:3,Heal,Uzdrowienie,Tratamento,"client: skill tooltip, skill name (M) (skill 109)",done
+c:skilldesc:109:4,Aid of Light,Pomoc Światła,Ajuda da luz,"client: skill tooltip, skill name (G/P) (skill 109)",done
+c:skilldesc:109:5,Heal wounds with the aid of light.,Leczy urazy za pomocą światła,Cura feridas com a ajuda da luz.,"client: skill tooltip, description (skill 109)",done
+c:skilldesc:109:6,Restores HP,Regeneruje PŻ,Repõe PV,"client: skill tooltip, condition 1 (skill 109)",done
+c:skilldesc:109:7,Cures Negative Effects,Leczy negatywne efekty,Cura efeitos negativos,"client: skill tooltip, condition 2 (skill 109)",done
+c:skilldesc:109:8,Usable on a party member|Activates Heavenly Shield,Możliwość użycia na członku grupy|Aktywuje Niebiańską Tarcze,Utilizável num membro do grupo|Ativa o escudo celestial,"client: skill tooltip, condition 3 (skill 109)",done
+c:skilldesc:109:17,Restore HP %.0f-%.0f,Przywraca PŻ %.0f,Repõe %.0f-%.0f PV,"client: skill tooltip, effect line 1 (skill 109) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:109:20,Cures Negative Effects Chance %.0f%%,Szansa na usunięcie negat. efektów %.0f%%,Probabilidade de curar efeitos negativos %.0f%%,"client: skill tooltip, effect line 2 (skill 109) | keep: %.0f | max 64 characters",done
+c:skilldesc:109:23,Monster Damage Absorption +%.0f,Absorpcja obrażeń potwora +%.0f,Absorção de dano de monstros +%.0f,"client: skill tooltip, effect line 3 (skill 109) | keep: %.0f | max 64 characters",done
+c:skilldesc:110:2,Swiftness,Zwinność ,Rapidez,"client: skill tooltip, skill name (skill 110)",done
+c:skilldesc:110:3,Quickness,Szybkość ,Agilidade,"client: skill tooltip, skill name (M) (skill 110)",done
+c:skilldesc:110:4,Speed of Wind,Prędkość Wiatru ,Velocidade do vento,"client: skill tooltip, skill name (G/P) (skill 110)",done
+c:skilldesc:110:5,Run as fast as the Wind.,Biegnij szybko jak wiatr ,Corre tão depressa como o vento.,"client: skill tooltip, description (skill 110)",done
+c:skilldesc:110:6,Increases Moving Speed,Zwiększa Szybkość Ruchu,Aumenta a velocidade de movimento,"client: skill tooltip, condition 1 (skill 110)",done
+c:skilldesc:110:7,Reduce Casting Speed,Zmniejsza się Czas Ładowania Umiejętności,Reduz o tempo de feitiço,"client: skill tooltip, condition 2 (skill 110)",done
+c:skilldesc:110:8,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Pode ser usada em membros do grupo|Noutro jogador: valor do bónus -25%.,"client: skill tooltip, condition 3 (skill 110)",done
+c:skilldesc:110:17,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%% ,Velocidade de movimento +%.0f%%,"client: skill tooltip, effect line 1 (skill 110) | keep: %.0f | max 64 characters",done
+c:skilldesc:110:20,Casting Speed +%.0f%%,Czas Ładowania -%.0f%% ,Velocidade de feitiço +%.0f%%,"client: skill tooltip, effect line 2 (skill 110) | keep: %.0f | max 64 characters",done
+c:skilldesc:111:2,Attack Up,Zwiększenie Ataku,Aumento de ataque,"client: skill tooltip, skill name (skill 111)",done
+c:skilldesc:111:3,Support Attack,Podwyższenie Ataku,Ataque de apoio,"client: skill tooltip, skill name (M) (skill 111)",done
+c:skilldesc:111:4,Strengthened Attack,Wzmocnienie Ataku,Ataque reforçado,"client: skill tooltip, skill name (G/P) (skill 111)",done
+c:skilldesc:111:5,Strengthen a partner.,Wzmacnia siłę partnera,Reforça um parceiro.,"client: skill tooltip, description (skill 111)",done
+c:skilldesc:111:6,Increases Attack Power,Zwiększa Siłę Ataku,Aumenta o poder de ataque,"client: skill tooltip, condition 1 (skill 111)",done
+c:skilldesc:111:7,Can be used on group members|Used on another player: -25% bonus value.,Możliwość użycia na członków grupy|Użycie na innym graczu -25% wartości bonusu.,Pode ser usada em membros do grupo|Noutro jogador: valor do bónus -25%.,"client: skill tooltip, condition 2 (skill 111)",done
+c:skilldesc:111:8,Magic attack bonus when used on yourself,Premia magicznego ataku przy użyciu na siebie,Bónus de ataque mágico se usado em ti próprio,"client: skill tooltip, condition 3 (skill 111)",done
+c:skilldesc:111:17,Attack Power +%.1f ,Siła Ataku: +%.0f,Poder de ataque +%.1f ,"client: skill tooltip, effect line 1 (skill 111) | keep: %.1f | max 64 characters",done
+c:skilldesc:111:20,Magic Damage (all) +%.0f%%,Magiczne Obrażenia (ogólne) +%.0f%%,Dano mágico (todos) +%.0f%%,"client: skill tooltip, effect line 2 (skill 111) | keep: %.0f | max 64 characters",done
+c:skilldesc:111:23,Magic Damage against monsters +%.0f%%,Magiczne Obrażenia w potwory +%.0f%%,Dano mágico contra monstros +%.0f%%,"client: skill tooltip, effect line 3 (skill 111) | keep: %.0f | max 64 characters",done
+c:skilldesc:111:26,Bonus: Magic Damage against monsters +%.0f,Premia: Magiczne obrażenia w potwory +%.0f,Bónus: dano mágico contra monstros +%.0f,"client: skill tooltip, effect line 4 (skill 111) | keep: %.0f | max 64 characters",done
+c:skilldesc:121:2,Leadership,Dowodzenie,Liderança,"client: skill tooltip, skill name (skill 121)",done
+c:skilldesc:121:5,Ability to lead partners.,Umiejętność dowodzenia członkami grupy.,Capacidade de liderar parceiros.,"client: skill tooltip, description (skill 121)",done
+c:skilldesc:122:2,Combo,Kombinacja,Combo,"client: skill tooltip, skill name (skill 122)",check
+c:skilldesc:122:5,Improve your attack chains by reading Combo books.,"Rozwijaj technikę łączenia ciosów, czytając księgi Combo.",Aumenta o ataque combo.,"client: skill tooltip, description (skill 122)",done
+c:skilldesc:122:6,"10 points: 1 extra hit, +10 attack value","10 punktów: +1 uderzenie w serii, +10 wartości ataku","10 points: 1 extra hit, +10 attack value","client: skill tooltip, condition 1 (skill 122)",check
+c:skilldesc:122:7,"20 points: 2 extra hits, +30 attack value","20 punktów: +2 uderzenia w serii, +30 wartości ataku","20 points: 2 extra hits, +30 attack value","client: skill tooltip, condition 2 (skill 122)",check
+c:skilldesc:122:8,"30 points: 2 extra hits, +50 attack value","30 punktów: +2 uderzenia w serii, +50 wartości ataku","30 points: 2 extra hits, +50 attack value","client: skill tooltip, condition 3 (skill 122)",check
+c:skilldesc:123:2,Fishing,Łowienie,Pesca,"client: skill tooltip, skill name (skill 123)",done
+c:skilldesc:123:5,Fishing knowledge.,Wiedza o łowieniu ryb.,Conhecimento de pesca.,"client: skill tooltip, description (skill 123)",done
+c:skilldesc:124:2,Gathering,Zbieractwo,Recolha,"client: skill tooltip, skill name (skill 124)",done
+c:skilldesc:124:5,Ability to retrieve natural resources.,Umiejętność w pozyskiwaniu zasobów z natury.,Capacidade de recolher recursos naturais.,"client: skill tooltip, description (skill 124)",done
+c:skilldesc:125:2,Item Creation,Tworzenie Przedmiotu,Criação de itens,"client: skill tooltip, skill name (skill 125)",done
+c:skilldesc:125:5,Create an item.,Stwórz przedmiot,Cria um item.,"client: skill tooltip, description (skill 125)",done
+c:skilldesc:126:2,Shinsoo Language,Język Shinsoo,Língua de Shinsoo,"client: skill tooltip, skill name (skill 126)",done
+c:skilldesc:126:5,You can understand the Shinsoo language.,Rozumiesz język Shinsoo.,Compreendes a língua de Shinsoo.,"client: skill tooltip, description (skill 126)",done
+c:skilldesc:127:2,Chunjo Language,Język Chunjo,Língua de Chunjo,"client: skill tooltip, skill name (skill 127)",done
+c:skilldesc:127:5,You can understand the Chunjo language.,Rozumiesz język Chunjo.,Compreendes a língua de Chunjo.,"client: skill tooltip, description (skill 127)",done
+c:skilldesc:128:2,Jinno Language,Język Jinno,Língua de Jinno,"client: skill tooltip, skill name (skill 128)",done
+c:skilldesc:128:5,You can understand the Jinno language.,Rozumiesz język Jinno.,Compreendes a língua de Jinno.,"client: skill tooltip, description (skill 128)",done
+c:skilldesc:129:2,Polymorph,Polimorfia,Metamorfose,"client: skill tooltip, skill name (skill 129)",done
+c:skilldesc:129:5,Transform into a monster.,Przemiana w potwora,Transforma-te num monstro.,"client: skill tooltip, description (skill 129)",done
+c:skilldesc:130:2,Horse Riding,Jeździectwo,Equitação,"client: skill tooltip, skill name (skill 130)",done
+c:skilldesc:130:5,Ability to ride a horse.,Umiejętność jazdy na koniu,Capacidade de montar a cavalo.,"client: skill tooltip, description (skill 130)",done
+c:skilldesc:131:2,Call Horse,Przywołaj Konia,Chamar cavalo,"client: skill tooltip, skill name (skill 131)",done
+c:skilldesc:131:5,Summon a horse.,Zwiększa szansę na przywołanie konia.,Invoca um cavalo.,"client: skill tooltip, description (skill 131)",done
+c:skilldesc:132:2,Sprint,Sprint,Sprint,"client: skill tooltip, skill name (skill 132)",check
+c:skilldesc:132:5,"In the old days of our world, people ran their prey to death. Uses stamina (yellow bar). Increases movement speed up to 150 points on foot, with no limit while riding.","W dawnych czasach naszego świata, ludzie zabiegiwali zwierzynę na śmierć. Utylizuje punkty staminy (żółty pasek). Zwiększa szybkość ruchu do 150 punktów (pieszo), konno bez ograniczeń.","Antigamente, no nosso mundo, perseguia-se a presa até à exaustão. Usa resistência (barra amarela). Aumenta a velocidade de movimento até 150 pontos a pé, sem limite a cavalo.","client: skill tooltip, description (skill 132)",done
+c:skilldesc:137:2,Horseback Slash,Cięcie z Siodła,Golpe a cavalo,"client: skill tooltip, skill name (skill 137)",done
+c:skilldesc:137:5,Attack enemies whilst riding a horse. (from lv. 50),Atakuj wrogów podczas jazdy konnno. (od poz.50),Ataca inimigos a cavalo. (a partir do nv. 50),"client: skill tooltip, description (skill 137)",done
+c:skilldesc:137:6,Riding Skill,Umiejętność Jeździecka,Habilidade de equitação,"client: skill tooltip, condition 1 (skill 137)",done
+c:skilldesc:138:2,Horse Stump,Stąpnięcie Konia,Pisoteio,"client: skill tooltip, skill name (skill 138)",done
+c:skilldesc:138:5,Attack all nearby enemies. (from level 52),Zaatakuj wszystkich wrogów w pobliżu. (od p. 52),Ataca todos os inimigos próximos. (a partir do nível 52),"client: skill tooltip, description (skill 138)",done
+c:skilldesc:138:6,Riding Skill,Umiejętność jeździecka,Habilidade de equitação,"client: skill tooltip, condition 1 (skill 138)",done
+c:skilldesc:139:2,Power Wave,Fala Mocy,Onda de poder,"client: skill tooltip, skill name (skill 139)",done
+c:skilldesc:139:5,Attack all enemies from your horse. (from lv.55),"Atakuj wszystkich wrogów, którzy atakują z dystansu (np. łucznicy). (od poz. 55)",Ataca todos os inimigos a partir do cavalo. (a partir do nv. 55),"client: skill tooltip, description (skill 139)",done
+c:skilldesc:139:6,Riding Skill,Umiejętność Jeździecka,Habilidade de equitação,"client: skill tooltip, condition 1 (skill 139)",done
+c:skilldesc:139:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Poder de ataque %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 139) | keep: %.0f %.0f | max 64 characters",done
+c:skilldesc:140:2,Arrow Storm,Grad Strzał,Tempestade de flechas,"client: skill tooltip, skill name (skill 140)",done
+c:skilldesc:140:5,Shoot arrows while you are riding. (from lv.50),Posyłaj strzały z siodła. (od p. 50),Dispara flechas a cavalo. (a partir do nv. 50),"client: skill tooltip, description (skill 140)",done
+c:skilldesc:140:6,Riding Skill,Umiejętność jeździecka,Habilidade de equitação,"client: skill tooltip, condition 1 (skill 140)",done
+c:skilldesc:151:2,Dragon Eyes,Smocze Oczy,Olhos do dragão,"client: skill tooltip, skill name (skill 151)",done
+c:skilldesc:151:5,Increase Maximum Dragon Ghost.,Zwiększa maksimum Ducha Smoka,Aumenta o espírito do dragão máximo.,"client: skill tooltip, description (skill 151)",done
+c:skilldesc:151:17,Max. Dragon Ghost Increase +%.0f,Maksymalny Duch Smoka +%.0f,Espírito do dragão máx. +%.0f,"client: skill tooltip, effect line 1 (skill 151) | keep: %.0f | max 64 characters",done
+c:skilldesc:152:2,Blood of Dragon God,Krew Boga Smoków,Sangue do deus dragão,"client: skill tooltip, skill name (skill 152)",done
+c:skilldesc:152:5,Increase Max HP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PŻ.,Aumenta temporariamente os PV máx. de todos os membros da guilda.,"client: skill tooltip, description (skill 152)",done
+c:skilldesc:152:6,Guild War Only,Tylko Wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 152)",done
+c:skilldesc:152:17,Max. HP Increase +%.0f%%,Maks. PŻ +%.0f%%,PV máx. +%.0f%%,"client: skill tooltip, effect line 1 (skill 152) | keep: %.0f | max 64 characters",done
+c:skilldesc:153:2,Benediction of Dragon God,Błogosławieństwo Boga Smoków,Bênção do deus dragão,"client: skill tooltip, skill name (skill 153)",done
+c:skilldesc:153:5,Increase Max SP of all guild members for a period of time.,Zwiększ na pewien czas maks. ilość swoich PE.,Aumenta temporariamente os PM máx. de todos os membros da guilda.,"client: skill tooltip, description (skill 153)",done
+c:skilldesc:153:6,Guild War Only,Tylko wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 153)",done
+c:skilldesc:153:17,Max. SP Increase +%.0f%%,Maks. PE +%.0f%%,PM máx. +%.0f%%,"client: skill tooltip, effect line 1 (skill 153) | keep: %.0f | max 64 characters",done
+c:skilldesc:154:5,Increase defence of all guild members for a period of time.,Zwiększ na pewien czas swoją obronę.,Aumenta temporariamente a defesa de todos os membros da guilda.,"client: skill tooltip, description (skill 154)",done
+c:skilldesc:154:6,Guild War Only,Tylko wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 154)",done
+c:skilldesc:154:17,Defence Increase +%.1f%%,Obrona +%.1f%%,Defesa +%.1f%%,"client: skill tooltip, effect line 1 (skill 154) | keep: %.1f | max 64 characters",done
+c:skilldesc:155:2,Acceleration,Akceleracja,Aceleração,"client: skill tooltip, skill name (skill 155)",done
+c:skilldesc:155:5,Increase attack and motion speed of all guild members for a period of time.,Zwiększa przez określony czas szybkość ataku i szybkość ruchu,Aumenta temporariamente a velocidade de ataque e de movimento de todos os membros da guilda.,"client: skill tooltip, description (skill 155)",done
+c:skilldesc:155:6,Guild War Only,Tylko wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 155)",done
+c:skilldesc:155:17,Attack Speed and Motion Increase +%.1f,Szybkość ataku i ruchu zwiększona +%.1f,Velocidade de ataque e de movimento +%.1f,"client: skill tooltip, effect line 1 (skill 155) | keep: %.1f | max 64 characters",done
+c:skilldesc:156:2,Rage of Dragon God,Furia Boga Smoków,Fúria do deus dragão,"client: skill tooltip, skill name (skill 156)",done
+c:skilldesc:156:5,Increase Critical Hit Chance of all guild members for a period of time.,Zwiększ na pewien czas szanse na zadanie ciosu krytycznego.,Aumenta temporariamente a probabilidade de golpe crítico de todos os membros da guilda.,"client: skill tooltip, description (skill 156)",done
+c:skilldesc:156:6,Guild War Only,Tylko wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 156)",done
+c:skilldesc:156:17,Increase Critical Hit Chance +%.0f%%,szansę na cios krytyczny +%.0f%%,Probabilidade de golpe crítico +%.0f%%,"client: skill tooltip, effect line 1 (skill 156) | keep: %.0f | max 64 characters",done
+c:skilldesc:157:2,Casting Aid,Magiczna Pomoc,Ajuda ao feitiço,"client: skill tooltip, skill name (skill 157)",done
+c:skilldesc:157:5,Decrease cool down time of all guild members for a period of time.,Zmniejsz na pewien czas czas regeneracji swoich umiejętności.,Reduz temporariamente o tempo de recarga de todos os membros da guilda.,"client: skill tooltip, description (skill 157)",done
+c:skilldesc:157:6,Guild War Only,Tylko wojna gildii,Só em guerra de guildas,"client: skill tooltip, condition 1 (skill 157)",done
+c:skilldesc:157:17,Casting Speed Increase +%.0f%%,Czas regeneracji -%.0f%%,Velocidade de feitiço +%.0f%%,"client: skill tooltip, effect line 1 (skill 157) | keep: %.0f | max 64 characters",done
+c:file:rules,"General
+1.1. Metin2 Singleplayer is a free fan project: the server runs on your own computer and the world is populated by bots (Playerbots). The project is not affiliated with Gameforge or Webzen.[ENTER]1.2. Releases and updates of the project are published on GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. You play at your own risk. The project is provided ""as is"", without any warranty.
+Rules
+2.1. On your own server you play as you like. The admin / admin account is the test account of your installation.[ENTER]2.2. If you share the server with friends, you are its administrator and you keep order: fair play, respect for others, no cheating and no spoiling other people's game.[ENTER]2.3. Do not pass the package off as your own and do not make money from it. Since version 2.2.55 the project is licensed under CC BY-NC-ND 4.0 (the LICENSE file in the server folder): you may use it and share the official packages unchanged if you credit the author and do not make money from it; you may not share adaptations or separate distributions. The project is and stays free.
+Supporting the project
+3.1. Development, testing and the test server cost time and money. If you enjoy the project, you can buy the authors a coffee: buycoffee.to/metin2-playerbots.[ENTER]3.2. Support is entirely voluntary and unlocks nothing in the game.
+Community and help
+4.1. The project's Discord: discord.gg/DyCxXdZtnV - report bugs, ideas and questions there; news of new versions appears there too.[ENTER]4.2. When you report a bug, attach the log bundle from the launcher (DIAGNOSTICS, ""Collect logs (ZIP)""). Without it, hardly anything can be fixed.
+Privacy
+5.1. Everything runs locally: the client connects only to 127.0.0.1, and the server opens no ports to the outside.[ENTER]5.2. The game sends your data nowhere. The launcher connects to GitHub only to check whether there is a new version.
+Changes to these rules
+6.1. A new version of the game may bring new content to this window. It will then be shown again at your next login.[ENTER]6.2. Have fun!","Postanowienia ogólne
+1.1. Metin2 Singleplayer to darmowy projekt fanowski: serwer działa na Twoim komputerze, a świat zaludniają boty (Playerbots). Projekt nie jest powiązany z Gameforge ani Webzen.[ENTER]1.2. Wydania i aktualizacje projektu są publikowane na GitHubie: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Korzystasz z gry na własną odpowiedzialność. Projekt jest dostarczany w stanie „jak jest”, bez gwarancji.
+Zasady
+2.1. Na własnym serwerze grasz, jak chcesz. Konto admin / admin jest kontem testowym Twojej instalacji.[ENTER]2.2. Jeżeli udostępniasz serwer znajomym, to Ty jesteś jego administratorem i odpowiadasz za porządek: gra fair, szacunek dla innych, żadnych oszustw ani przeszkadzania w grze.[ENTER]2.3. Nie podawaj paczki jako własnej i nie zarabiaj na niej. Od wersji 2.2.55 projekt jest na licencji CC BY-NC-ND 4.0 (plik LICENSE w folderze serwera): możesz z niego korzystać i udostępniać oficjalne paczki bez zmian, jeśli podasz autora i nie zarabiasz na nim; przeróbek i osobnych dystrybucji udostępniać nie wolno. Projekt jest i pozostaje darmowy.
+Wsparcie projektu
+3.1. Rozwój, testy i serwer testowy kosztują czas i pieniądze. Jeżeli projekt sprawia Ci radość, możesz postawić kawę autorom: buycoffee.to/metin2-playerbots.[ENTER]3.2. Wsparcie jest całkowicie dobrowolne i niczego nie odblokowuje w grze.
+Społeczność i pomoc
+4.1. Discord projektu: discord.gg/DyCxXdZtnV — tam zgłaszaj błędy, pomysły i pytania, tam też pojawiają się informacje o nowych wersjach.[ENTER]4.2. Zgłaszając błąd, dołącz paczkę logów z launchera (przycisk „ZBIERZ LOGI”). Bez niej trudno cokolwiek naprawić.
+Prywatność
+5.1. Wszystko działa lokalnie: klient łączy się wyłącznie z 127.0.0.1, serwer nie otwiera żadnych portów na zewnątrz.[ENTER]5.2. Gra nie wysyła nigdzie Twoich danych. Launcher łączy się z GitHubem tylko po to, żeby sprawdzić, czy jest nowa wersja.
+Zmiany regulaminu
+6.1. Nowa wersja gry może przynieść nową treść tego okna. Pokaże się ono ponownie przy najbliższym logowaniu.[ENTER]6.2. Miłej gry!","Geral
+1.1. O Metin2 Singleplayer é um projeto de fãs gratuito: o servidor corre no teu próprio computador e o mundo é povoado por bots (Playerbots). O projeto não tem ligação à Gameforge nem à Webzen.[ENTER]1.2. As versões e atualizações do projeto são publicadas no GitHub: github.com/TieruYT/metin2-playerbots.[ENTER]1.3. Jogas por tua conta e risco. O projeto é fornecido «tal como está», sem qualquer garantia.
+Regras
+2.1. No teu próprio servidor jogas como quiseres. A conta admin / admin é a conta de teste da tua instalação.[ENTER]2.2. Se partilhares o servidor com amigos, és o administrador e manténs a ordem: jogo limpo, respeito pelos outros, sem batota e sem estragar o jogo dos outros.[ENTER]2.3. Não apresentes o pacote como teu nem ganhes dinheiro com ele. Desde a versão 2.2.55 o projeto está sob a licença CC BY-NC-ND 4.0 (ficheiro LICENSE na pasta do servidor): podes usá-lo e partilhar os pacotes oficiais sem alterações se indicares o autor e não ganhares dinheiro com isso; não podes partilhar adaptações nem distribuições próprias. O projeto é e continuará gratuito.
+Apoiar o projeto
+3.1. O desenvolvimento, os testes e o servidor de testes custam tempo e dinheiro. Se gostas do projeto, podes pagar um café aos autores: buycoffee.to/metin2-playerbots.[ENTER]3.2. O apoio é totalmente voluntário e não desbloqueia nada no jogo.
+Comunidade e ajuda
+4.1. O Discord do projeto: discord.gg/DyCxXdZtnV - comunica lá erros, ideias e perguntas; as novidades das novas versões também aparecem lá.[ENTER]4.2. Quando comunicares um erro, junta o pacote de registos do launcher (DIAGNOSTICS, «Collect logs (ZIP)»). Sem ele, quase nada pode ser corrigido.
+Privacidade
+5.1. Tudo corre localmente: o cliente liga-se apenas a 127.0.0.1 e o servidor não abre portas para o exterior.[ENTER]5.2. O jogo não envia os teus dados para lado nenhum. O launcher liga-se ao GitHub apenas para verificar se há uma nova versão.
+Alterações a estas regras
+6.1. Uma nova versão do jogo pode trazer novo conteúdo para esta janela. Nesse caso, ela volta a aparecer no teu próximo início de sessão.[ENTER]6.2. Diverte-te!",client: the rules window | keep: [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:jobdesc_warrior,"[DELAY value;0]
+By virtue of their heavy[ENTER]
+armour, weapons and skills,[ENTER]
+Warriors play a crucial role[ENTER]
+in close combat situations.[ENTER]
+Their two aims in life are[ENTER]
+[WAIT]
+for raw physical strength[ENTER]
+combined with a balanced and[ENTER]
+serene psyche. Depending on[ENTER]
+their chosen specialisation,[ENTER]
+Warriors can deal out[ENTER]
+[WAIT]
+devastating amounts of[ENTER]
+damage with two-handed[ENTER]
+weapons, or skilfully[ENTER]
+combine shield and sword to[ENTER]
+neutralise the attacks of[ENTER]
+[WAIT]
+multiple enemies.","[DELAY value;0]
+Dzięki swoim umiejętnościom[ENTER]
+oraz możliwości noszenia[ENTER]
+ciężkich zbroi Wojownicy[ENTER]
+odgrywają ważną rolę w[ENTER]
+walkach w zwarciu. Jedyne[ENTER]
+czego pragną, to bardzo[ENTER]
+silne ciało i zbalansowany[ENTER]
+umysł. Zgodnie z ich[ENTER]
+zwyczajami i specjalizacją[ENTER]
+mogą albo zadawać ogromne[ENTER]
+obrażenia dzięki oburęcznym[ENTER]
+broniom albo parować ataki[ENTER]
+wroga mieczem i tarczą.","[DELAY value;0]
+Graças à sua pesada[ENTER]
+armadura, armas e[ENTER]
+habilidades, os Guerreiros[ENTER]
+têm um papel crucial em[ENTER]
+situações de combate[ENTER]
+corpo-a-corpo. Os seus dois[ENTER]
+objectivos de vida são[ENTER]
+atingir pura força física[ENTER]
+combinada com um espírito[ENTER]
+equilibrado e sereno.[ENTER]
+Dependendo da especialização[ENTER]
+que escolherem, os[ENTER]
+Guerreiros são capazes de[ENTER]
+infligir devastadoras[ENTER]
+quantidades de dano ou de[ENTER]
+[WAIT]
+combinar habilmente um[ENTER]
+escudo e uma espada para[ENTER]
+neutralizarem os ataques de[ENTER]
+múltiplos inimigos.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:jobdesc_assassin,"[DELAY value;0]
+Ninjas are professional[ENTER]
+killers, capable of carrying[ENTER]
+out silent and deadly[ENTER]
+attacks from their ambush.[ENTER]
+To maximise their speed and[ENTER]
+[WAIT]
+agility, these shadowy[ENTER]
+assassins of the night wear[ENTER]
+only the lightest armour, so[ENTER]
+as not to hinder their fleet[ENTER]
+and fluid movements.[ENTER]
+[WAIT]
+Depending on their[ENTER]
+particular areas of[ENTER]
+expertise, Ninjas can use[ENTER]
+their mastery of the dagger[ENTER]
+in close quarters, or wield[ENTER]
+[WAIT]
+a bow and arrow from[ENTER]
+distance.","[DELAY value;0]
+Ninja są profesjonalnymi[ENTER]
+zabójcami, którzy są w[ENTER]
+stanie zaatakować swojego[ENTER]
+przeciwnika z zaskoczenia.[ENTER]
+Aby zapewnić sobie[ENTER]
+odpowiednią zwinność i[ENTER]
+szybkość, prawdziwi Ninja[ENTER]
+noszą tylko lekkie pancerze[ENTER]
+ochronne. Zgodnie z ich[ENTER]
+profesją Ninja są albo[ENTER]
+mistrzami sztyletów albo[ENTER]
+doskonale atakują z dystansu[ENTER]
+za pomocą Łuku.","[DELAY value;0]
+Os Ninjas são assassinos[ENTER]
+profissionais, capazes de[ENTER]
+levar a cabo ataques de[ENTER]
+emboscada silenciosos e[ENTER]
+mortíferos. Para maximizarem[ENTER]
+a sua rapidez e agilidade,[ENTER]
+estes assassinos das sombras[ENTER]
+vestem apenas as armaduras[ENTER]
+mais leves, de forma a não[ENTER]
+verem prejudicados os seus[ENTER]
+movimentos rápidos e[ENTER]
+fluidos. Dependendo das suas[ENTER]
+áreas de especialização, os[ENTER]
+Ninjas podem usar a sua[ENTER]
+mestria com adagas em lutas[ENTER]
+[WAIT]
+corpo-a-corpo ou empunhar um[ENTER]
+arco e flecha para combate à[ENTER]
+distância.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:jobdesc_sura,"[DELAY value;0]
+Suras are fighters who were[ENTER]
+blessed with magical powers[ENTER]
+when they agreed to allow[ENTER]
+the Seed of Evil to grow in[ENTER]
+their arms. The magic under[ENTER]
+[WAIT]
+their control allows them to[ENTER]
+inflict damage on their[ENTER]
+enemies from afar, and they[ENTER]
+make competent melee[ENTER]
+fighters thanks to their[ENTER]
+[WAIT]
+excellent swordsmanship.[ENTER]
+Depending on their choice of[ENTER]
+specialisation, Suras can[ENTER]
+improve their attack spells[ENTER]
+or develop additional[ENTER]
+[WAIT]
+strengthening spells.","[DELAY value;0]
+Sura to wojownicy, którzy[ENTER]
+otrzymali potężne magiczne[ENTER]
+moce, gdy zgodzili się na[ENTER]
+przyjęcie do ich rąk[ENTER]
+diabelskiego nasiona. Dzięki[ENTER]
+temu są w stanie sprawnie[ENTER]
+posługiwać się mieczem w[ENTER]
+zwarciu albo ranić wroga na[ENTER]
+dystans przy użyciu magii.[ENTER]
+Poprzez specjalizację mogą[ENTER]
+ulepszać swoje zaklęcia[ENTER]
+ofensywne albo otrzymać inne[ENTER]
+moce wspierające.","[DELAY value;0]
+Os Suras são lutadores que[ENTER]
+foram abençoados com poderes[ENTER]
+mágicos quando escolheram[ENTER]
+permitir que a Semente do[ENTER]
+Mal crescesse nos seus[ENTER]
+braços. A magia que[ENTER]
+controlam permite-lhes[ENTER]
+infligirem dano aos seus[ENTER]
+inimigos à distância, sendo[ENTER]
+também bons combatentes[ENTER]
+corpo-a-corpo graças às suas[ENTER]
+excelentes artes de[ENTER]
+espadachins. Dependendo da[ENTER]
+sua especialização, os Suras[ENTER]
+são capazes de melhorar os[ENTER]
+[WAIT]
+seus feitiços de ataque ou[ENTER]
+de desenvolver feitiços de[ENTER]
+fortalecimento adicionais.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:jobdesc_shaman,"[DELAY value;0]
+Employing the wisdom achieve[ENTER]
+through long years of[ENTER]
+intense study, the Shamans[ENTER]
+use spells and magic to[ENTER]
+attack their foes. Their[ENTER]
+[WAIT]
+mystical powers are also of[ENTER]
+great effect in supporting[ENTER]
+their allies. Depending on[ENTER]
+their focus, Shamans can[ENTER]
+provide a boost to attacks,[ENTER]
+[WAIT]
+or instead choose to enhance[ENTER]
+individual healing and[ENTER]
+support spells.","[DELAY value;0]
+Szamani są bardzo mądrzy i[ENTER]
+używają potężnych zaklęć[ENTER]
+oraz magii. Podczas bitwy i[ENTER]
+w trakcie wspierania swoich[ENTER]
+przyjaciół ich mistyczne[ENTER]
+zaklęcia są bardzo pomocne.[ENTER]
+Poprzez specjalizację[ENTER]
+Szamani mogą albo zwiększać[ENTER]
+swoją siłę ofensywną, albo[ENTER]
+ulepszać swoje umiejętności[ENTER]
+leczące i zaklęcia[ENTER]
+wspierające.","[DELAY value;0]
+Usando a sabedoria adquirida[ENTER]
+ao longo de vários anos de[ENTER]
+estudo intenso, os Xamãs[ENTER]
+usam feitiços e magia para[ENTER]
+atacarem os seus[ENTER]
+adversários. Os seus poderes[ENTER]
+místicos têm também um[ENTER]
+grande efeito de apoio a[ENTER]
+aliados. Dependendo do seu[ENTER]
+foco, os Xamãs podem[ENTER]
+proporcionar um[ENTER]
+fortalecimento dos ataques[ENTER]
+ou, em vez disso, escolher[ENTER]
+usar feitiços de cura e[ENTER]
+suporte individuais.",client: class description (character creation) | keep: [DELAY value;0] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:empiredesc_a,"[DELAY value;10]
+Shinsoo Kingdom[ENTER]
+[ENTER]
+The Shinsoo kingdom is located in the[ENTER]
+southern part of the continent. The[ENTER]
+main activity of[ENTER]
+[WAIT]
+the population is[ENTER]
+trade. Opened[ENTER]
+after the disintegration of the[ENTER]
+former empire by Yoon-Yoing,[ENTER]
+trade with[ENTER]
+[WAIT]
+the east quickly became[ENTER]
+a profitable arrangement.[ENTER]
+Shinsoo has conflicts[ENTER]
+with the western kingdom[ENTER]
+and the trade road[ENTER]
+[WAIT]
+can be dangerous.[ENTER]
+When they recognized[ENTER]
+the threat posed by[ENTER]
+the Metin Stones, the[ENTER]
+merchants armed themselves. Their [ENTER]
+[WAIT]
+aim is to defend themselves[ENTER]
+against western attacks,[ENTER]
+reopen the trade road [ENTER]
+and reunite the former[ENTER]
+empire under their[ENTER]
+[WAIT]
+Emperor.","[DELAY value;0]
+Królestwo Shinsoo[ENTER]
+[ENTER]
+Królestwo Shinsoo znajduje[ENTER]
+się na południu kontynentu.[ENTER]
+Mieszkańcy są w większości[ENTER]
+zajęci handlem. Stworzone[ENTER]
+przez Yoon-Yoing po tym, jak[ENTER]
+imperium upadło, stosunki[ENTER]
+handlowe ze wschodem[ENTER]
+doprowadziły szybko do[ENTER]
+ożywienia.[ENTER]
+Mieszkańcy walczą non stop z[ENTER]
+zachodem i ta trasa handlowa[ENTER]
+jest całkowicie odcięta.[ENTER]
+Będąc świadomi, że kamienie[ENTER]
+[WAIT]
+Metin są zagrożeniem dla ich[ENTER]
+podstaw życia, handlarze[ENTER]
+uzbroili się. Ich celem jest[ENTER]
+być w stanie przetrzymać[ENTER]
+ataki z zachodu, aby[ENTER]
+otworzyć ponownie wszystkie[ENTER]
+trasy handlowe i aby[ENTER]
+zjednoczyć cały kontynent[ENTER]
+pod ich dowództwem.","[DELAY value;0]
+Reino Shinsoo[ENTER]
+[ENTER]
+O Reino Shinsoo fica na[ENTER]
+parte Sul do continente. Os[ENTER]
+seus habitantes são[ENTER]
+predominantemente[ENTER]
+comerciantes. Fundado por[ENTER]
+Yoon-Yoing após a queda do[ENTER]
+Império, as trocas[ENTER]
+comerciais com o Oriente[ENTER]
+transformaram-se rapidamente[ENTER]
+num grande negócio.[ENTER]
+Os habitantes estão em[ENTER]
+constante luta com o[ENTER]
+Ocidente e esta rota[ENTER]
+[WAIT]
+comercial está totalmente[ENTER]
+desactivada de momento.[ENTER]
+Quando se aperceberam da[ENTER]
+ameaça das Pedras Metin, os[ENTER]
+mercadores armaram-se. O seu[ENTER]
+objectivo é repelir os[ENTER]
+ataques do Ocidente para que[ENTER]
+possam abrir novamente todas[ENTER]
+as rotas comerciais e reunir[ENTER]
+todo o continente sob a sua[ENTER]
+liderança.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:empiredesc_b,"[DELAY value;10]
+Chunjo Kingdom[ENTER]
+[ENTER]
+The Chunjo Kingdom is[ENTER]
+located in the western part of[ENTER]
+the continent. It is a theocratic[ENTER]
+[WAIT]
+kingdom and is controlled[ENTER]
+by its spiritual leader. It[ENTER]
+was founded by[ENTER]
+Yoon-Young, a cousin of the[ENTER]
+former emperor. Yoon's[ENTER]
+[WAIT]
+wife possessed vast[ENTER]
+magical powers, and it was she[ENTER]
+helped very soon to see the[ENTER]
+threat caused by[ENTER]
+metin stones. He said[ENTER]
+[WAIT]
+many times that there was something[ENTER]
+what to do but was[ENTER]
+ignored. So it led to[ENTER]
+its people to a rebellion[ENTER]
+against the empire, that the[ENTER]
+[WAIT]
+seasoning was still standing.[ENTER]
+After the Empire[ENTER]
+succumbed, his kingdom entered[ENTER]
+at war with the regions[ENTER]
+east and had problems[ENTER]
+[WAIT]
+with the south. The people of[ENTER]
+kingdom of Chunjo wanted[ENTER]
+reign over all[ENTER]
+continent to have[ENTER]
+control of growing power[ENTER]
+[WAIT]
+of the Metin Stones.","[DELAY value;0]
+Królestwo Chunjo[ENTER]
+[ENTER]
+Królestwo Chunjo jest[ENTER]
+położone na wschodzie[ENTER]
+kontynentu. Jest to[ENTER]
+królestwo teokratyczne i[ENTER]
+jest prowadzone przez[ENTER]
+duchowych Przywódców.[ENTER]
+Królestwo było stworzone[ENTER]
+przez Yoon-Young, który jest[ENTER]
+kuzynem poprzedniego[ENTER]
+Imperatora. Jego żona,[ENTER]
+posiadająca potężne magiczne[ENTER]
+umiejętności, pomogła mu[ENTER]
+bardzo wcześnie dostrzec[ENTER]
+[WAIT]
+masywne zagrożenie[ENTER]
+spowodowane przez Kamienie[ENTER]
+Metin.[ENTER]
+Powiedział wiele razy, że[ENTER]
+coś trzeba zrobić, ale[ENTER]
+został zignorowany. Więc[ENTER]
+oprowadził swoich ludzi do[ENTER]
+rebelii przeciw istniejącemu[ENTER]
+jeszcze wtedy Imperium.[ENTER]
+Kiedy Imperium rozpadło się,[ENTER]
+jego Królestwo jest do tej[ENTER]
+pory w stanie wojny z[ENTER]
+regionami wschodnimi i ma[ENTER]
+problemy z Południem. Ludzie[ENTER]
+z królestwa Chunjo chcą[ENTER]
+[WAIT]
+zdobyć kontrolę nad całym[ENTER]
+kontynentem dzięki czemu[ENTER]
+będą w stanie pozbyć się[ENTER]
+rosnących mocy Kamieni[ENTER]
+Metin.","[DELAY value;0]
+Reino Chunjo[ENTER]
+[ENTER]
+O Reino Chunjo está[ENTER]
+localizado na parte Oeste do[ENTER]
+Continente. É um reino[ENTER]
+teocrático e é governado por[ENTER]
+Líderes Espirituais. O Reino[ENTER]
+foi fundado pelo primo do[ENTER]
+antigo imperador,[ENTER]
+Yoon-Young. Ele usou os[ENTER]
+poderes da sua esposa para o[ENTER]
+ajudar a descobrir a ameaça[ENTER]
+vinda das Pedras Metin.[ENTER]
+Ele defendeu múltiplas vezes[ENTER]
+a preparação de[ENTER]
+[WAIT]
+contra-medidas relativamente[ENTER]
+às Pedras, mas foi ignorado.[ENTER]
+Portanto ele levou a sua[ENTER]
+aliança a rebelar-se contra[ENTER]
+o Antigo Império. Depois da[ENTER]
+queda do Império, o seu[ENTER]
+Reino continuou até hoje em[ENTER]
+guerra com as Regiões[ENTER]
+Orientais e tem frequentes[ENTER]
+problemas com o Sul. As[ENTER]
+pessoas do Reino Chunjo[ENTER]
+querem ganhar o controlo de[ENTER]
+todo o continente para que[ENTER]
+possam livrar-se do poder[ENTER]
+emergente das Pedras Metin.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done
+c:file:empiredesc_c,"[DELAY value;10]
+Jinno Kingdom[ENTER]
+[ENTER]
+The Jinno kingdom is located in[ENTER]
+the eastern part of the[ENTER]
+continent. This kingdom was[ENTER]
+[WAIT]
+ founded on military might and[ENTER]
+the population is aggressive and militant.[ENTER]
+The leader of the Jinno[ENTER]
+kingdom is Ee-Ryoong,[ENTER]
+the son of the last[ENTER]
+[WAIT]
+emperor. He believes that he[ENTER]
+can reunite the former[ENTER]
+empire through war.[ENTER]
+Fears about the implications[ENTER]
+or effects of the Metin Stones[ENTER]
+[WAIT]
+are officially ignored. But[ENTER]
+secretly, Ee-Ryoong is trying[ENTER]
+to find a way to use[ENTER]
+the deadly power of[ENTER]
+the Metin Stones[ENTER]
+[WAIT]
+for military purposes.","[DELAY value;0]
+Królestwo Jinno[ENTER]
+[ENTER]
+Królestwo Jinoo znajduje się[ENTER]
+we wschodnich regionach[ENTER]
+kontynentu. Podstawą[ENTER]
+królestwa jest siła[ENTER]
+militarna. Jego ludzie są[ENTER]
+agresywni i lubiący wojnę.[ENTER]
+Królestwem Jinoo zarządza[ENTER]
+Ee-Ryoong, syn ostatniego[ENTER]
+Imperatora. Czuje się[ENTER]
+wybrany do zjednoczenia[ENTER]
+starego Imperium poprzez[ENTER]
+jego dominację i silną[ENTER]
+Armię.[ENTER]
+[WAIT]
+Boi się,że znaczenie i[ENTER]
+efekty Kamieni Metin są[ENTER]
+oficjalnie ignorowane przez[ENTER]
+Królestwo Jinoo.[ENTER]
+Sekretnie,	Ee-Ryoong próbuje[ENTER]
+wykorzystać destrukcyjne[ENTER]
+moce Kamieni Metin dla[ENTER]
+wojny.","[DELAY value;0]
+Reino Jinno[ENTER]
+[ENTER]
+O Reino Jinno fica na parte[ENTER]
+Oriental do continente. Este[ENTER]
+Reino baseia-se no seu[ENTER]
+poderio militar. A sua[ENTER]
+população é agressiva e[ENTER]
+experiente em guerra. O[ENTER]
+Reino Jinno é dirigido por[ENTER]
+Ee-Ryoong, o filho do último[ENTER]
+imperador. Ele acha que foi[ENTER]
+escolhido para reunir o[ENTER]
+velho Império sob o seu[ENTER]
+reinado usando a força[ENTER]
+militar.[ENTER]
+[WAIT]
+O potencial significado ou[ENTER]
+perigos das Pedras Metin são[ENTER]
+oficialmente ignorados no[ENTER]
+Reino Jinno. No entanto,[ENTER]
+Ee-Ryoong tenta secretamente[ENTER]
+descobrir uma forma de usar[ENTER]
+os poderes destrutivos das[ENTER]
+Pedras Metin para conseguir[ENTER]
+atingir os seus objectivos.",client: kingdom description (kingdom choice) | keep: [DELAY value;10] [WAIT]; [ENTER] = new line | new lines allowed | the whole file in one cell; keep the line breaks as they are,done

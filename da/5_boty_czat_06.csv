@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Glemselens bog læst: %s igen på %d, ingen Mester. Næste bog er næste forsøg (chance %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Glemselens bog læst: %s - Mester!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Dokument til nulstilling af færdigheder brugt: %s - Mester!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(ingen),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,som ikke er på 17,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Nulstil"" i færdighedsvinduet bruger den.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Går til Jack Græskar,"a phrase th
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Handler med Jack Græskar,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,Går til Græskarfugleskræmslet,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Taler med Græskarfugleskræmslet,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Jeg kan ikke komme ind her - dette sted er kun for spillere.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,Jeg kunne ikke nå frem til dig.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,Jeg annullerer indkøbene. Efter butikkens bekræftelse kommer jeg tilbage og går så ud og stiger i niveau på egen hånd.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,Jeg annullerer indkøbene. Efter butikkens bekræftelse kommer jeg tilbage og går så ud og fisker.,"a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,"Jeg annullerer indkøbene og kommer tilbage efter butikkens bekræftelse. Afskedig mig igen, når jeg er tilbage.","a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,Jeg udførte ikke ordren efter indkøbene - giv den igen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,Et øjeblik - jeg er stadig ved at tage imod den forrige kommando. Prøv igen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,Jeg har ingen indkøb at annullere.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,"Indkøbene er annulleret - jeg venter stadig på butikken. Giv ordren igen, når jeg er tilbage.","a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,"Jeg har allerede 8 ordrer - vent, til jeg er færdig med én.","a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,Jeg kunne ikke komme til byen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,"Butikken er ved at åbne. Jeg bliver ved den og lukker den, så snart spillet bekræfter det; varerne kommer tilbage i min taske.","a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,offlinebutik ikke tilgængelig,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,butik fra,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,lukker butik: tag yang fra pungen for at gøre plads til indtægten,"a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"lukker butik; venter på returnerede varer, indtægt eller bekræftelse","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,butik venter på kanal 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,går for at åbne butikken i M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,"butik åben; service, når der er tid","a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,butik udløbet; venter på service,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Butik: %u tilbud. Indtægt at hente ved boden: %lld yang. Jeg sælger overskud fra hele tasken; gaver og nødvendige genstande bliver.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Butik slået til. Jeg sælger overskud fra hele tasken, undtagen gaver og nødvendige genstande. Tag indtægten fra min pung. Ved din side stiller jeg den op i den første landsby, du står i (uanset rige), på kanal 1; med frie hænder eller når jeg spiller alene, går jeg selv til mit riges landsby.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Følgesvendens butikker er kun tilgængelige på mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,dine gaver,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,markeret/låst af dig,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,flyttet af dig for <5 min siden,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,kan ikke sælges,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,jeg har brug for dem,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Jeg sælger aldrig gaver - Shift + højreklik i min taske frigør en.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s fuldførte questen %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Jeg kæmper ikke: jeg er sat til ""Kæmp ikke"". Skift det i Følgesvend-vinduet (P), fanen Kamp, eller hvisk ""attack"" til mig.","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Træningsdukke: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

@@ -1,4 +1,73 @@
 id,english,polski,translation,notes,status
+c:pbt:9c8238f65551,Snow,Śnieg,Sne,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c614ba7c453c,Auto,Auto,Auto,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,Fortsæt forfining,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",Efter et forsøg kommer vinduet tilbage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,"for samme genstand, så længe den stadig ligger i sin rude.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,Du bekræfter selv hvert forsøg.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.","Enter: forfin, og spørgsmålet bekræftes.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05f0d151e49b,"One item of the stack is improved: it goes to a free cell, the rest of the stack stays.","Ulepszana jest jedna sztuka ze stosu: trafi do wolnej komorki, reszta stosu zostaje.","Én genstand fra stakken forbedres: den lægges på en ledig plads, resten af stakken bliver.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:321ce741be17,Automatic refining: reached +%d.,Ulepszanie automatyczne: osiągnięto +%d.,Automatisk forfining: nåede +%d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:8a1d08892161,Automatic refining: the item was destroyed on the attempt at +%d.,Ulepszanie automatyczne: przedmiot zniknął przy próbie na +%d.,Automatisk forfining: genstanden blev ødelagt ved forsøget på +%d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:7a0658934c6c,"Automatic refining: the attempt at +%d failed, stopped.","Ulepszanie automatyczne: próba na +%d nieudana, zatrzymano.","Automatisk forfining: forsøget på +%d mislykkedes, stoppet.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:6b1b3ce5c214,Automatic refining stopped at +%d: not enough yang or materials (or the smith refused).,Ulepszanie automatyczne zatrzymane na +%d: brak yang lub materiałów (albo kowal odmówił).,Automatisk forfining stoppet ved +%d: ikke nok Yang eller materialer (eller smeden nægtede).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:6a9c7f463809,Automatic refining stopped at +%d: the smith did not send the window back (too far from the smith?).,Ulepszanie automatyczne zatrzymane na +%d: kowal nie odesłał okna (za daleko od kowala?).,Automatisk forfining stoppet ved +%d: smeden sendte ikke vinduet tilbage (for langt fra smeden?).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:30e99e93d150,Automatic refining stopped at +%d: the materials from your storage did not arrive.,Ulepszanie automatyczne zatrzymane na +%d: materiały z magazynu nie doszły.,Automatisk forfining stoppet ved +%d: materialerne fra dit lager kom ikke frem.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:092890c54330,Automatic refining stopped at +%d: the window is for another item.,Ulepszanie automatyczne przerwane na +%d: okno jest dla innego przedmiotu.,Automatisk forfining stoppet ved +%d: vinduet gælder en anden genstand.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:2d8368297335,Automatic refining stopped at +%d.,Ulepszanie automatyczne przerwane na +%d.,Automatisk forfining stoppet ved +%d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:735f573bb8b4,"Switch on ""Keep refining"" first.","Najpierw włącz ""Ulepszaj dalej"".","Slå først ""Fortsæt forfining"" til.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62fcb8d4a000,Refine automatically up to +%d? (now +%d),Ulepszać automatycznie do +%d? (teraz +%d),Forfin automatisk op til +%d? (nu +%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:68f1d007b6b0,The item may be destroyed; you will spend yang and materials.,"Przedmiot może zniknąć, zużyjesz yang i materiały.",Genstanden kan blive ødelagt; du bruger Yang og materialer.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:90c35feed336,Refine up to,Ulepszaj do,Forfin op til,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a736077f376,"The smith refines by itself, step by step, up to the grade chosen.","Kowal ulepsza sam, krok po kroku, do wybranego plusa.","Smeden forfiner selv, trin for trin, op til det valgte niveau.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e175262fcc54,Every step is an ordinary attempt: the item may be destroyed.,Każdy krok to zwykła próba: przedmiot może zniknąć.,Hvert trin er et almindeligt forsøg: genstanden kan blive ødelagt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c0093bef9b88,The arrows < > choose the grade; a click on the box starts.,Strzałki < > wybierają plus; klik w kratkę zaczyna.,Pilene < > vælger niveauet; et klik på feltet starter.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5e233ac28853,"Stop: Cancel, closing the window or a click on the box.","Stop: Anuluj, zamknięcie okna albo klik w kratkę.","Stop: Annuller, luk vinduet eller klik på feltet.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,"Spilserveren er ældre end klienten, og opgradering med en rulle når ikke ind i dit lager - opdatér serveren.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,"Spilserveren er ældre end klienten, og dens smed når ikke ind i dit lager - opdatér serveren.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,Opgradering med en rulle tager kun materialer fra dit lager i første eller anden landsby.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).","Smeden når ind i dit lager, når du har åbnet det hos lagerforvalteren (med adgangskoden).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Kun en smed i første eller anden landsby tager materialer fra dit lager.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Lager sorteret: %d flyttet, %d stakke samlet.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,Lageret er allerede sorteret.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Lageret kan ikke sorteres nu - luk handlen, butikken eller det andet vindue.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Lageret kunne ikke ordnes - intet blev ændret.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,"Du kan ikke sortere lageret, mens du er død.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Lageret er i en uventet tilstand - intet blev ændret. Rapportér det på Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,Lageret er ikke åbent.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Serveren understøtter ikke denne lagerfunktion.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,"Lageret kan ikke sorteres, mens en butik åbnes.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Genstanden kan ikke flyttes nu - luk handlen, butikken eller det andet vindue.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Den genstand er der ikke længere.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,Der ligger en anden genstand på den plads.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Den stak er fuld.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Den genstand kan ikke lægges der.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Der kan ikke lægges nogen genstand der.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,For hurtigt - prøv igen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,"Du kan ikke flytte genstande, mens du er død.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Indlæser prisdata...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Vælg en automatisk prissætningsmetode.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Prisen sættes efter dit valg.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Priser: %d af %d hentet.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Henter markedspriser for %d genstande, cirka %d s. Hold butiksvinduet åbent.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Priserne blev ikke ændret: butikkens samlede værdi ville nå Yang-grænsen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,Sprang %d genstande over uden pris eller med en ændret butiksopstilling.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,Prisændringer sat i kø for %d genstande.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,"Automatisk prissætning stoppet: butiksvinduet blev lukket, eller metoden blev ændret.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Butikspriser ændret (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Prisen på %d linjer kunne ikke ændres - prøv igen.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Rød (S),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acef391bd970,Red (M),Czerwone (S),Rød (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb9768bd833b,Red (L),Czerwone (D),Rød (L),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Blå (S),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Blå (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c9734458346,Blue (L),Niebieskie (D),Blå (L),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Grøn (S),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Grøn (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:232a14f8169a,Green (L),Zielone (D),Grøn (L),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Lilla (S),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Lilla (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Lilla (L),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0cf604cb001b,Arrows,Strzały,Pile,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fed5881aed01,Bravery Cape,Peleryna Męstwa,Modets kappe,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b1939203e806,Companion shopping,Zakupy towarzysza,Følgesvendens indkøb,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -7,6 +76,17 @@ c:pbt:7054a7a0a34b,Town maintenance,Porządki w mieście,Vedligehold i byen,"cli
 c:pbt:4a8df3c1caf2,Target quantity in bag (1-10000),Docelowa ilość w torbie (1-10000),Ønsket antal i tasken (1-10000),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b0dd7568a666,A valuable ring decorated with jade and turquoise.,Drogocenny pierścień przyozdobiony nefrytem i turkusem.,En værdifuld ring prydet med jade og turkis.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e0d6b82950bb,A magical medal that empowers its wearer.,Magiczny medal wspierający jego właściciela.,"En magisk medalje, der styrker sin bærer.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aaef230d053a,Target details,Dane celu,Måldetaljer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d963ade8ac7,No information for this target.,Brak danych o tym celu.,Ingen oplysninger om dette mål.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a45f8055dba4,Target type,Typ przeciwnika,Måltype,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ace61317349e,Metin stone,Kamień Metin,Metinsten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:59e84663024c,No special race,Brak specjalnego typu,Ingen særlig race,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c73b23082d89,Effective bonuses: strong against,Działające bonusy: silny przeciwko,Effektive bonusser: stærk mod,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ebea5fed56a8,Monsters,Potworom,Monstre,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18fe0e6b7c5e,Metin stones,Kamieniom Metin,Metinsten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97ec1f0dd897,Bosses,Bossom,Bosser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:367c5c385db2,Base resistances,Bazowe odporności (ABS),Grundmodstande,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0c209a5480fb,Positive: resistance; negative: weakness.,"Dodatnie: odporność, ujemne: podatność.",Positiv: modstand; negativ: svaghed.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5eab830be56d,Assault horse,Koń szturmowy,Stormhest,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dcc454f62ce0,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,Skadesomdirigering %.0f%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %.0f",done
 c:pbt:5b721c5524ca,Redirected Damage Reduction %d%%,Zmniejszenie przekierowanych obrażeń %d%%,Reduktion af omdirigeret skade %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -28,7 +108,7 @@ c:pbt:fb360f9c09ac,yes,tak,ja,"client: our windows (companion, Auto Hunt, status
 c:pbt:fd1286353570,no,nie,nej,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:387d7a59dbaa,ON,WŁ,TIL,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ad50489054dd,OFF,WYŁ,FRA,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:52a816352cf7,[Auto Hunt] ,[Auto Łowy] ,[Auto Hunt] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52a816352cf7,[Auto Hunt] ,[Auto Łowy] ,[Auto Hunt] ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:31b64d58c384,"Auto Hunt: autologin on - if the connection drops, the game logs in again by itself and the hunt goes on. Save the combat settings to keep it for next time.","Auto Łowy: autologin włączony - po zerwaniu połączenia gra sama zaloguje się ponownie i wznowi łowy. Zapisz ustawienia walki, żeby zapamiętać to na następny raz.","Autojagt: autologin til - hvis forbindelsen afbrydes, logger spillet selv ind igen, og jagten fortsætter. Gem kampindstillingerne for at beholde det til næste gang.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6d8e2d197c9b,Auto Hunt: autologin off.,Auto Łowy: autologin wyłączony.,Autojagt: autologin fra.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:db68f2c1dac5,Auto Hunt - how it works,Auto Łowy - jak to działa,Autojagt - sådan virker det,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -64,7 +144,7 @@ c:pbt:44d25b5d1b6d,Items,Przedmioty,Genstande,"client: our windows (companion, A
 c:pbt:1b81f28b5afb,Attack,Atak,Angreb,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2e08bbd34b71,Revive,Wskrzeszenie,Genoplivning,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7bfa3e908743,Revive HP %,HP po wskrz. %,HP ved genoplivning %,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba44ffde1745,Kiting,Atak i odwrót,Kiting,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba44ffde1745,Kiting,Atak i odwrót,Kiting,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:8c47b1be2e09,Battle horse,Bojowiec,Kamphest,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:24f096b221f9,Return,Wracaj,Vend tilbage,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:60441217def1,Combat settings,Ustawienia walki,Kampindstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -73,8 +153,8 @@ c:pbt:d54819e7772a,Automatically revives the character at the place of death. Re
 c:pbt:5f6f8532c0d9,Returns to the auto hunt starting point when there is no attack target or item to pick up,"Wraca do miejsca rozpoczęcia autołowów, gdy nie ma celu do ataku ani przedmiotów do podniesienia","Vender tilbage til autojagtens startpunkt, når der ikke er noget mål eller nogen genstand at samle op","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d746684a23a2,"Battle horse: fights in place, only what is near - off only for buffs","Koń bojowy: atak w miejscu, tylko to, co blisko - po buffy zsiada","Kamphest: kæmper på stedet, kun mod det nære - stiger kun af for buffs","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5fd4632150d9,"Foot Ninja archer: runs away from a nearby monster, stops and shoots","Ninja łucznik pieszo: odbiega od pobliskiego potwora, zatrzymuje się i strzela","Ninja-bueskytte til fods: løber væk fra et nært monster, stopper og skyder","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:952f375412e8,Start,Start,Start,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e253470c876,Stop,Zatrzymaj,Stop,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:952f375412e8,Start,Start,Start,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:9e253470c876,Stop,Zatrzymaj,Stop,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:c7f73bb54d92,Settings,Ustawienia,Indstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cadfb5be2a34,Fishing,Ryby,Fiskeri,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6fe38fedea01,Switch to automatic fishing.,Przelacz na automatyczne lowienie ryb.,Skift til automatisk fiskeri.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -89,7 +169,9 @@ c:pbt:01f3a8887d9e,Start again after relogging or warping.,Po relogu lub zmianie
 c:pbt:af169bb89cfb,Combat,Walka,Kamp,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c397cd03c935,Auto Hunt - Fishing,Auto Lowy - Lowienie,Autojagt - Fiskeri,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a93bdaa0b916,Enable / disable: ,Włącz / wyłącz: ,Til / fra: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bf101b2a03ea,Fleeing: HP %d%% / %d%%,Ucieczka: HP %d%% / %d%%,Flugt: HP %d%% / %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:206d7fc90dfe,Waiting for HP (%d%%),Czekam na HP (%d%%),Venter på HP (%d%%),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b4926f71d0dc,HP recovery: %d%% / %d%%,Regeneracja HP: %d%% / %d%%,HP-genvinding: %d%% / %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:63faa9df5d8e,Casting buffs,Rzucam buffy,Kaster buffs,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5e63d1c6c525,Archer: kiting,Łucznik: atak i odwrót,Bueskytte: kiting,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a879bb70b32b,Getting round an obstacle,Omijam przeszkodę,Går uden om en forhindring,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -105,9 +187,7 @@ c:pbt:1fba5f85a18e,Rider: waiting for monsters,Bojowiec: czekam na potwory,Rytte
 c:pbt:0d4595f6f665,Target: %s,Cel: %s,Mål: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:aa9f8bfd272f,Picking up an item,Podnoszę przedmiot,Samler en genstand op,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e197f22aac98,Looking for monsters,Szukam potworków,Leder efter monstre,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ebea5fed56a8,Monsters,Moby,Monstre,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9334c768771b,Metins,Metiny,Metins,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:97ec1f0dd897,Bosses,Bossy,Bosser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9334c768771b,Metins,Metiny,Metins,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:8a63c51267b7,Click a block to enable or disable its category.,"Kliknij bloczek, aby włączyć lub wyłączyć kategorię.",Klik på en blok for at slå dens kategori til eller fra.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ce091085a07d,Drag blocks: the leftmost category has the highest priority.,Przeciągnij bloczki: kategoria po lewej ma najwyższy priorytet.,Træk blokke: kategorien længst til venstre har højeste prioritet.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:05dee3243618,"If that category has no target in range, the next enabled category is checked.","Gdy w tej kategorii brak celu w zasięgu, sprawdzana jest kolejna włączona kategoria.","Hvis den kategori ikke har noget mål inden for rækkevidde, tjekkes den næste aktive kategori.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -121,14 +201,22 @@ c:pbt:518fa1e886df,Select items...,Wybierz przedmioty...,Vælg genstande...,"cli
 c:pbt:b68c14290315,What to attack,Cele do atakowania,Hvad der skal angribes,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d4f8824fb9a4,Uses distance instead of the block order. Dragging a block restores category ordering.,Wybiera cel według odległości zamiast kolejności bloczków. Przeciągnięcie bloczka przywraca kolejność kategorii.,"Bruger afstanden i stedet for blokkenes rækkefølge. Når du trækker en blok, gendannes kategorirækkefølgen.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7ba4cf924d3e,Additional settings,Dodatkowe ustawienia,Yderligere indstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:459581ded4b1,Autologin,Autologin,Autologin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:459581ded4b1,Autologin,Autologin,Autologin,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:36e795e9663f,Log in again and resume auto hunt after a lost connection,Po utracie połączenia zaloguj ponownie i wznów autołowy,Log ind igen og fortsæt autojagten efter en mistet forbindelse,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:69c6b60fdc04,Auto Hunt shortcut,Skrót Auto Łowów,Genvej til autojagt,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:86b0f314fd64,Drag the icon,Przeciągnij ikonę,Træk ikonet,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e42192012cec,onto the quickbar,na pasek skrótów,til hurtigbjælken,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ab54e01938d6,Range: %d,Zasięg: %d,Rækkevidde: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a2ad3851b3da,HP recovery,Regeneracja HP,HP-genvinding,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f24a5d2a453,Pause to recover HP,Przerwa na regenerację HP,Hold pause for at genvinde HP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:934fa28314a8,Starts no new fights until HP recovers. Defends against attackers. Potions and healing remain active.,Nie rozpoczyna nowych walk do odzyskania HP. Broni się przed napastnikami. Mikstury i leczenie nadal działają.,"Starter ingen nye kampe, før HP er genvundet. Forsvarer sig mod angribere. Eliksirer og helbredelse forbliver aktive.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4ce4dabc5c5c,Flee while recovering HP,Uciekaj podczas regeneracji,Flygt under HP-genvinding,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fbb29934caba,"Moves away from attackers and nearby aggressive monsters until the HP threshold is reached, including after revival. If no safe route is available, waits without attacking.","Ucieka od napastników i pobliskich agresywnych potworów do osiągnięcia ustawionego HP, także po wskrzeszeniu. Gdy nie ma bezpiecznej drogi, czeka bez atakowania.","Bevæger sig væk fra angribere og nærliggende aggressive monstre, indtil HP-grænsen er nået, også efter genoplivning. Hvis der ikke er nogen sikker rute, venter den uden at angribe.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:921878e7d23a,Pause below (%),Wstrzymaj poniżej (%),Pause under (%),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8347ed94e3c0,Resume at (%),Wznów po osiągnięciu (%),Genoptag ved (%),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1bc3102ff5fb,Nearest target,Najbliższy cel,Nærmeste mål,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7228e11fd406, (mounted: %d), (na koniu: %d), (til hest: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:4dfe07d72950,HP recovery requires a server with attacker queries.,Regeneracja HP wymaga serwera z obsługą listy napastników.,HP-genvinding kræver en server med forespørgsler om angribere.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0ab53071a18a,Chest opener,Otwieracz,Kisteåbner,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b2a557673b1f,No chest chosen,Nie wybrano skrzynki,Ingen kiste valgt,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:da8c5b5304bf,Choose a chest from your inventory,Wybierz skrzynkę z EQ,Vælg en kiste fra din inventar,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -157,12 +245,13 @@ c:pbt:17b57ec8a317,Opened: %d / %d,Otwarto: %d / %d,Åbnet: %d / %d,"client: our
 c:pbt:2190ad594cf9,The stack changed. Stopped.,Stack zmienił się. Zatrzymano.,Stakken ændrede sig. Stoppet.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:86b2b2a2c1ba,No opening confirmation from the server. Stopped.,Brak potwierdzenia otwarcia od serwera. Zatrzymano.,Ingen bekræftelse af åbning fra serveren. Stoppet.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:3d97df5cfb1a,Done: %d opened.,Gotowe: otwarto %d szt.,Færdig: %d åbnet.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:e63d88bd7bf3,Monster,Potwór,Monster,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e63d88bd7bf3,Monster,Potwór,Monster,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:33dcec9ce454,Slow,Spowol.,Langsomhed,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4e4369e733c0,Drain,Wyssanie,Dræn,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6de0b0c65644,Poison,Trucizna,Gift,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:171a0606f7c7,Group,Grupa,Gruppe,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:311524bb82e9,Bleed,Krwaw.,Blødning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3160ab760089,Unknown item - update the client,Nieznany przedmiot – zaktualizuj klienta,Ukendt genstand - opdatér klienten,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:081bcc41aee6,Drag a chest from your inventory.,Przeciągnij skrzynkę z ekwipunku.,Træk en kiste fra din inventar.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2149cfee07dd,The chest has to be in your inventory.,Skrzynka musi być w ekwipunku.,Kisten skal være i din inventar.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8eedb06cea2e,Chest preview,Podgląd skrzynki,Forhåndsvisning af kiste,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -250,13 +339,24 @@ c:pbt:7ea4aadb3cc7,UI scale applies without logging in again.,Skala UI działa b
 c:pbt:65743c433f35,Resize: drag the window edge or maximize.,Rozmiar: przeciągnij krawęź okna lub maksymalizuj.,"Tilpas størrelse: træk i vindueskanten, eller maksimér.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:428819bf9e83,Defaults,Domyślne,Standard,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c303c2c4b2d4,Restore 100% scale without changing the resolution.,Przywróć skalę 100% bez zmiany rozdzielczości.,Gendan 100% skalering uden at ændre opløsningen.,"client: our windows (companion, Auto Hunt, status lines) | keep: % s | shown as written: % is a percent sign here",done
-c:pbt:3592366b9749,Live changes require windowed mode.,Zmiany na żywo wymagają trybu okna.,Ændringer i realtid kræver vinduestilstand.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c0649d3d016,Full screen: the scale changes after the game is restarted.,Pełny ekran: skala zmieni się po ponownym uruchomieniu gry.,"Fuld skærm: skalaen ændres, når spillet genstartes.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d359989ffc3e,Current scale: %d%%,Aktualna skala: %d%%,Nuværende skalering: %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:5f7b3fe8f47b,Selected %d%%; at this screen size %d%% at most.,Wybrano %d%%; przy tym rozmiarze ekranu najwyżej %d%%.,Valgt %d%%; ved denne skærmstørrelse højst %d%%.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:1618b1b35f82,Selected %d%%. Apply saves the scale and closes the game.,Wybrano %d%%. Zastosuj zapisze skalę i zamknie grę.,Valgt %d%%. Anvend gemmer skalaen og lukker spillet.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:9332442f6b67,Selected %d%%. Click Apply.,Wybrano %d%%. Kliknij Zastosuj.,%d%% valgt. Klik på Anvend.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:355328634fbb,The window is still being resized. Try again in a moment.,Trwa zmiana rozmiaru okna. Spróbuj za chwilę.,Vinduets størrelse ændres stadig. Prøv igen om et øjeblik.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3d2d558f132b,The scale is already %d%%.,Skala %d%% jest już ustawiona.,Skalaen er allerede %d%%.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:64b7936aa753,Full screen: change the scale in the settings on the login screen.,Pełny ekran: zmień skalę w ustawieniach na ekranie logowania.,Fuld skærm: skift skalaen i indstillingerne på loginskærmen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b63fddd3848,In full screen the scale changes after the game is restarted.,W trybie pełnoekranowym skala zmienia się po ponownym uruchomieniu gry.,"I fuld skærm ændres skalaen, når spillet genstartes.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b9e091e9268f,Save %d%% and close the game now?,Zapisać %d%% i zamknąć grę teraz?,Gem %d%% og luk spillet nu?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:6915211463ff,Applying display settings...,Zmienianie ustawień obrazu...,Anvender skærmindstillinger...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:68f51e4b9ca1,These settings could not be applied.,Nie można zastosować tych ustawień.,Disse indstillinger kunne ikke anvendes.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4609daf9e56d,Display change failed (%d).,Błąd zmiany obrazu (%d).,Skift af visning mislykkedes (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:b7829a25d8a8,Display / interface,Obraz / interfejs,Skærm / brugerflade,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ff4bb9544e1,Flame (B),Plomien (B),Flamme (B),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:245eb6d90c4a,Flame,Plomien,Flamme,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad70fc1b6c02,Slot %d: %s x%d,Miejsce %d: %s x%d,Plads %d: %s x%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %d",done
+c:pbt:c2f1ec4baf36,Both flame kinds,Plomienie obu odmian,Begge flammetyper,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0ba78ab6ae88,Hover over a prize to see its bonuses.,"Najedź na nagrodę, aby zobaczyć jej bonusy.",Hold musen over en præmie for at se dens bonusser.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09bf7888cde9,You have too few Dragon Coins.,Masz za mało Smoczych Monet.,Du har for få dragemønter.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bdfce41a74f2,Close other windows and try again.,Zamknij inne okna i spróbuj ponownie.,"Luk andre vinduer, og prøv igen.","client: our windows (companion, Auto Hunt, status lines)",done
@@ -265,19 +365,22 @@ c:pbt:131c30c3f8e3,You cannot spin the wheel now.,Nie możesz teraz kręcić ko�
 c:pbt:d17ebe45ae48,Unknown way of paying.,Nieznany sposób zapłaty.,Ukendt betalingsmåde.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:754b9a1336eb,The wheel is not available.,Koło niedostępne.,Hjulet er ikke tilgængeligt.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f75c68dae1b8,You have no Lucky Ticket.,Nie masz Kuponu Losu.,Du har ingen Lykkebillet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63ee2afda6fe,The wheel has changed - spin again.,Koło się zmieniło - zakręć jeszcze raz.,Hjulet er ændret - drej igen.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6ee419d36065,Wheel of Fortune,Koło Fortuny,Lykkehjul,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:093b995d0394,WHEEL OF FORTUNE,KOŁO FORTUNY,LYKKEHJUL,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bda9f0424d9e,Spin and discover your prize.,Zakręć i odkryj swoją nagrodę.,Drej og find din præmie.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5631850dd717,Skip the animation,Pomiń animację,Spring animationen over,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fe6f094f3f44,%s DC,%s SM,%s DC,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b92e1fffeeaf,Lucky Ticket x%d (%d),Kupon Losu x%d (%d),Lykkebillet x%d (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
 c:pbt:4ed3f9288b69,Lucky Ticket (%d),Kupon Losu (%d),Lykkebillet (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:e1a0229f789b,You have no Lucky Ticket - choose Dragon Coins.,Nie masz Kuponu Losu - zaznacz Smocze Monety.,Du har ingen Lykkebillet - vælg Dragemønter.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b56427e1fb93,Use %d Lucky Tickets on a spin of the wheel?,Użyć %d Kuponów Losu na obrót koła?,Brug %d Lykkebilletter på et spin med hjulet?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:b0df33014cd6,Use 1 Lucky Ticket on a spin of the wheel?,Użyć 1 Kuponu Losu na obrót koła?,Brug 1 Lykkebillet på et spin med hjulet?,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c2fac2d906b7,Spend %s on a spin of the wheel?,Wydać %s na obrót koła?,Brug %s på et spin med hjulet?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:bd51a1021c4f,Waiting for the result...,Oczekiwanie na wynik...,Venter på resultatet...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cd9147bafef7,Spin finished. Waiting for your reward...,Losowanie zakończone. Oczekiwanie na nagrodę...,Spin færdigt. Venter på din belønning...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d50d1e72a370,You won: %s,Wygrałeś: %s,Du vandt: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:43a51c97e470,[Wheel of Fortune] ,[Koło Fortuny] ,[Wheel of Fortune] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:43a51c97e470,[Wheel of Fortune] ,[Koło Fortuny] ,[Wheel of Fortune] ,"client: our windows (companion, Auto Hunt, status lines)",check
 c:pbt:ed8a90bc8a0f,No answer from the server.,Brak odpowiedzi serwera.,Intet svar fra serveren.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:25aa183f151b,No answer. Check your inventory.,Brak odpowiedzi. Sprawdź ekwipunek.,Intet svar. Tjek din inventar.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bb01a19b8eaf,[Wheel of Fortune] You won: %s,[Koło Fortuny] Wygrałeś: %s,[Lykkehjul] Du vandt: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
@@ -294,8 +397,175 @@ c:pbt:f72dc4dc32aa,A moment...,Chwilę...,Et øjeblik...,"client: our windows (c
 c:pbt:dddec2b560fb,Order sent.,Rozkaz wysłany.,Ordre sendt.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1f514bb5a432,The chat says who is coming.,"Kto idzie, powie ci czat.","Chatten viser, hvem der kommer.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:21fec24c97da,Orders to your guild's bots,Rozkazy dla botów twojej gildii,Ordrer til dit laugs bots,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b53353d937de,No response. Click Refresh.,Brak odpowiedzi. Kliknij Odśwież.,Intet svar. Klik på Opdatér.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2ed967a66970,Waiting for the server...,Czekam na serwer...,Venter på serveren...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d773fd5d0696,Remaining deposits cancelled.,Przerwano kolejne wpłaty.,Resterende indbetalinger annulleret.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:80b6149a8314,Stage complete.,Etap ukończony.,Etape fuldført.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:809fd2721855,Stage requirements changed.,Zmieniono warunki etapu.,Etapens krav er ændret.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:284e3c77d22a,Missing resources to finish this stage.,Brak zasobu do dokończenia etapu.,Der mangler ressourcer til at fuldføre denne etape.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42ed57ef9bdb,GM tools,Narzędzia GM,GM-værktøjer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:085d89003f7b,Yang in your test pool,Yang w Twojej puli testowej,Yang i din testpulje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f434259607f,Refill covers Yang and materials used by guild tests.,Pakiet uzupełnia Yang i materiały do testów gildii.,"Genopfyldning dækker Yang og materialer, som laugstests bruger.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c7784a99aa2,Refill supplies,Uzupełnij pulę,Genopfyld forsyninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d19d1498f94f,Test level,Poziom testowy,Testniveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee076b3973de,Guild level: %d   |   Test level: %s,Poziom gildii: %d   |   Próg testowy: %s,Laugsniveau: %d   |   Testniveau: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:7eb0a6ee41b2,Enter level,Wpisz poziom,Angiv niveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc8171cea1c2,Quick funding,Szybka wpłata,Hurtig finansiering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5dfbea1ffbc3,Stop funding,Zatrzymaj,Stop finansiering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:727cef010497,Fund stage,Sfinansuj etap,Finansiér etape,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fee23d3108e4,Set test level,Ustaw próg,Indstil testniveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:141fcadcaa7e,Stage %d   |   required level %d,Etap %d   |   wymagany poziom %d,Etape %d   |   krævet niveau %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:79148a2fd6a0,Covers remaining costs from the test pool.,Pokrywa brakujące koszty z puli testowej.,Dækker de resterende omkostninger fra testpuljen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4af071d26ad2,Select a bonus or the next locked smelt.,Wybierz bonus lub najbliższy nieodblokowany przetop.,Vælg en bonus eller den næste låste smeltning.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b52b36b7269f,Back,Powrót,Tilbage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3b693802a02,Test supplies,Zasoby testowe,Testforsyninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f981c1b672c0,Your test pool,Twoja pula testowa,Din testpulje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aba71d0c8a0c,Guild storage,Magazyn gildii,Lauglager,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef163cd9508c,Waiting for storage data.,Oczekiwanie na dane magazynu.,Venter på lagerdata.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4fdf6f6944d2,Click a material to deposit it.,"Kliknij materiał, by go wpłacić.",Klik på et materiale for at indsætte det.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:809e9d08b874,Click a material to withdraw it.,"Kliknij materiał, by go wypłacić.",Klik på et materiale for at hæve det.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ffddfb486bd9,Materials available for projects.,Materiały dostępne dla projektów.,Materialer til rådighed for projekter.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4a84232fdda2,Your bag,Twój ekwipunek,Din taske,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96c1cd036934,Deposit from bag: click a material.,Wpłać z ekwipunku: kliknij materiał.,Indsæt fra tasken: klik på et materiale.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1d29f69717eb,Drop a bag item here.,Upuść tu przedmiot z ekwipunku.,Slip en genstand fra tasken her.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2ff2e6fcb247,Deposit: ,Wpłać: ,Indsæt: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71ff45b4db94,Withdraw: ,Wypłać: ,Hæv: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7781270a4238,Guild bonuses,Bonusy gildii,Laugsbonusser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f691db1faf38,Active / max.,Aktywny / maks.,Aktive / maks.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3aa4b0eac1ed,Waiting for bonus data.,Oczekiwanie na dane bonusów.,Venter på bonusdata.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e178942312d8,Maximum bonus rank.,Maksymalny poziom bonusu.,Højeste bonusrang.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:89ad8bdf00f4,Rank %d   +%d%%   Guild level %d,Ranga %d   +%d%%   Gildia od %d,Rang %d   +%d%%   Laugsniveau %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:797e7086dd9d,Guild smelter,Alchemik gildyjny,Laugets smelteovn,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:453a7efb208f,Territory workshop,Warsztat na działce,Territoriets værksted,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:140cca1a9fd7,Waiting for territory data.,Oczekiwanie na dane działki.,Venter på territoriedata.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9eaa2e607f7,Open atlas,Otwórz atlas,Åbn atlas,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c192530082a7,Yang in the test pool,Yang w puli testowej,Yang i testpuljen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8adb99af4a6d,Choose a plot in your kingdom's atlas.,Wybierz działkę w atlasie swojego królestwa.,Vælg en grund i dit riges atlas.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e12fdd875b5,The price is paid from the guild treasury.,Zapłata pochodzi ze skarbca gildii.,Prisen betales fra laugets skatkammer.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c79671279bb9,The guild leader purchases the land.,Zakupu dokonuje lider gildii.,Laugslederen køber jorden.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:867bcf0f4518,"Build: guild leader, guild level 3.","Budowa: mistrz gildii, poziom gildii 3.","Byg: laugsleder, laugsniveau 3.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbd80cf7e2de,Build,Postaw,Byg,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc631034c2d1,Smelts: %d / %d,Przetopy: %d / %d,Smeltninger: %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:b3af82fb0c1c,Recipe unlocked,Receptura odblokowana,Opskrift låst op,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f5f8c4521f2,Smelt,Przetop,Smeltning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8108130d5bcf,Required guild level: %d,Wymagany poziom gildii: %d,Krævet laugsniveau: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a54d78bb07a9,Unlock the previous smelt first.,Najpierw odblokuj poprzedni przetop.,Lås først den forrige smeltning op.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8169782b57c,Material,Materiał,Materiale,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d447dcaddde,Funded / goal,Wpłata / cel,Finansieret / mål,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:64ae43e8fe76,Cost,Koszt,Pris,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c9fcefca88cc,Pool / stock,Pula / mag.,Pulje / beholdning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de9a4aac731b,Have,Masz,Har,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:778627418cb4,Pool,Pula,Pulje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fee6c545a6f7,Fund from your pool,Wpłać z puli,Finansiér fra din pulje,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcecf4562f17,Stock,Mag.,Beholdning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b3043ebadf0,Fund from guild storage,Wpłać z magazynu,Finansiér fra lauglageret,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f8780d0cc61,Fund,Wpłać,Finansiér,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a0204f290116,From stock,Z magazynu,Fra beholdning,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f86771e69c26,Test level (1-20),Próg testowy (1-20),Testniveau (1-20),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5028313aa562,Fund: ,Wpłać: ,Finansiér: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb5ed39bfb30,War skills,Umiejętności wojenne,Krigsfærdigheder,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c516ca3d5e47,"Deposit Yang (max. 100,000,000)",Wpłata Yang (maks. 100 000 000),Indbetal Yang (maks. 100.000.000),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5452a08a744a,"Enter an amount from 1 to 100,000,000 Yang that you own.","Wpisz kwotę od 1 do 100 000 000 Yang, którą posiadasz.","Angiv et beløb fra 1 til 100.000.000 Yang, som du ejer.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a3041eccac7,Guild territory atlas,Atlas działek gildii,Atlas over laugsterritorier,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:444821dc27d5,Loading plots...,Wczytywanie działek...,Indlæser grunde...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c62a1424469,Available,Wolna,Ledig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fabcbbd4d37a,Guild #%d,Gildia #%d,Laug nr. %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:54efefeba05e,Purchasing plot...,Trwa zakup działki...,Køber grund...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63504ead7968,Required guild level: %d.,Wymagany poziom gildii: %d.,Krævet laugsniveau: %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:31c85dc0c35e,The treasury needs %s more Yang.,Brakuje %s Yang w skarbcu.,Skatkammeret mangler %s Yang mere.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:86f4170ab9d0,Plots in your kingdom,Działki Twojego królestwa,Grunde i dit rige,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5ea56e0abd2e,Choose a plot on the map or from the list.,Wybierz parcelę na mapie lub na liście.,Vælg en grund på kortet eller fra listen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ebccf951eab8,Plots on this map,Parcele na mapie,Grunde på dette kort,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30c51a99d5e7,Occupied,Zajęta,Optaget,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:580df03672b7,Your guild,Twojej gildii,Dit laug,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c82cbc3f052b,No plots on this map.,Brak działek na tej mapie.,Ingen grunde på dette kort.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8e91b69ac02,Treasury: %s Yang,Skarbiec: %s Yang,Skatkammer: %s Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9a7b98b289cd,Deposit Yang,Wpłać Yang,Indbetal Yang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5813228bfdfb,Your guild parcel,Działka Twojej gildii,Dit laugs grund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72134f3dcaae,Another guild parcel,Działka innej gildii,Et andet laugs grund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c53aa9ddb82a,Plot #%d  /  %s Yang,Działka #%d  /  %s Yang,Grund nr. %d  /  %s Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:a56af1beb261,Manage parcel,Zarządzaj działką,Administrér grund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7cb1ca9f24b,Pay from the guild treasury?,Zapłacić ze skarbca gildii?,Betal fra laugets skatkammer?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04a212215ef9,Confirm,Potwierdź,Bekræft,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:adbca1ff9a0b,Purchase plot,Kup działkę,Køb grund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:53a9f21e7995,Select a plot to see its price.,"Wybierz działkę, aby zobaczyć cenę.",Vælg en grund for at se dens pris.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e4f5ba7b9a5,Player name,Nick gracza,Spillernavn,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8978ccfea44a,Guild name,Nazwa gildii,Laugsnavn,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66757d01be63,Guild enemies,Wrogowie gildii,Laugets fjender,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:392feef07c53,Players,Gracze,Spillere,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb386fdbe7c3,Guilds,Gildie,Laug,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bde278880b70,No entries.,Brak wpisów.,Ingen poster.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c65851c8e06,Add player,Dodaj gracza,Tilføj spiller,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b048e788874c,Add guild,Dodaj gildię,Tilføj laug,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bc3a50ea5e0f,Guild status,Status gildii,Laugsstatus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:57a15c335fd5,Guild level,Poziom gildii,Laugsniveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f54f2a689460,Required EXP,Wymagane PD,Nødvendig EXP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1cb449c11266,Members,Liczba członków,Medlemmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:69a26baddfd1,Average level,Średni poziom,Gennemsnitligt niveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2de691b60820,Guild menu,Zakładki,Laugsmenu,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19553dcb0936,Guild  /  ,Gildia  /  ,Laug  /  ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c24a7b8b4879,Guild information,Informacje o gildii,Laugsoplysninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:51b28c1c4da1,Upload mark,Wgraj logo,Upload mærke,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac4b063a0275,Upload symbol,Wgraj symbol,Upload flag,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:312bec8b3279,Donate EXP,Oddaj PD,Donér EXP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ff84d113a44f,Guild management,Zarządzanie gildią,Laugsadministration,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:feef11dd3554,Leader: ,Lider: ,Leder: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b657fbe45ef,The guild owns a plot.,Gildia ma własną działkę.,Lauget ejer en grund.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40210a660e58,The guild has no plot yet.,Gildia nie ma jeszcze działki.,Lauget har endnu ingen grund.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d366fe9851f0,Guild treasury,Skarbiec gildii,Laugets skatkammer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:534fad3701b8,Available funds,Dostępne środki,Tilgængelige midler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5507e04df284,Withdraw all,Wypłać całość,Hæv alt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:566cbad0daf3,Active wars,Aktywne wojny,Aktive krige,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11f1e979262b,No active wars.,Brak aktywnych wojen.,Ingen aktive krige.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9927bd65ab8,Declare war,Wypowiedz wojnę,Erklær krig,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2782994d9554,Skills available during guild wars.,Umiejętności dostępne podczas wojny gildii.,"Færdigheder, der kan bruges under laugskrige.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4128ea6b4089,Restore Dragon Power from the treasury.,Moc Smoka odnowisz ze środków gildii.,Genopret drageenergi fra skatkammeret.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e58b629305d5,You are a member of %s.,Należysz do gildii %s.,Du er medlem af %s.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:23ca14fad757,Bonuses from guild membership.,Premie z członkostwa w gildii.,Bonusser fra medlemskab af lauget.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3790452ee11,Book points: %d,Punkty z ksiąg: %d,Bogpoint: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e6e347ff9a98,Spend one book point on this bonus?,Wydać 1 punkt z ksiąg na tę premię?,Brug ét bogpoint på denne bonus?,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:386da5c26df8,Loading guild rank...,Wczytywanie rangi gildii...,Indlæser laugsrang...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:455fbfeb2e7b,Rank %d / 5   +%d%%  /  max. +%d%%,Ranga %d / 5   +%d%%  /  maks. +%d%%,Rang %d / 5   +%d%%  /  maks. +%d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
+c:pbt:754cc938ed8a,Guild Books grant points.,Punkty daje Księga Gildii.,Laugsbøger giver point.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc995e5c38c4,Click to spend one point.,"Kliknij, aby wydać 1 punkt.",Klik for at bruge ét point.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5397e0583f14,Yes,Tak,Ja,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db49a7847cd9,No notices yet.,Brak ogłoszeń.,Ingen opslag endnu.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3bc3cc473ed0,Post notice,Dodaj wpis,Slå opslag op,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f6fdbe48dc54,Delete,Usuń,Slet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:618176da4fed,Guild notice board,Tablica gildii,Laugets opslagstavle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05343d2de324,Guild members,Lista członków,Laugsmedlemmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b1e6201772a7,Rank permissions,Uprawnienia rang,Rangtilladelser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b27d5b61012f,Manage guild parcel,Zarządzanie działką,Administrér laugets grund,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef5e02f4ee31,Select a building.,Wybierz budynek.,Vælg en bygning.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c3f5338cb30,Confirm the previous save first.,Najpierw potwierdź poprzedni zapis.,Bekræft først den forrige gemning.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c0433c88601,Build first: %s,Najpierw wybuduj: %s,Byg først: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:03399cb519a7,A building of this type already exists.,Ten typ budynku już stoi na działce.,Der findes allerede en bygning af denne type.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2c22624bc25,Choose a place on the map to the left.,Wskaż miejsce na mapie po lewej.,Vælg et sted på kortet til venstre.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01edc1a042d6,Build: %s?,Postawić: %s?,Byg: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9fa0ff11f2df,Move: %s?,Przesunąć: %s?,Flyt: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:aa9f3af5d5df,Cost: %s Yang + materials.,Koszt: %s Yang + materiały.,Pris: %s Yang + materialer.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9d9f66c94398,Moving is free.,Przesunięcie jest bezpłatne.,Flytning er gratis.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2b4b849ab8f,Demolish the building? Costs are not refunded.,Zburzyć budynek? Koszty nie wracają.,Nedriv bygningen? Omkostningerne refunderes ikke.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf1c664c2480,Plot #%d,Działka #%d,Grund nr. %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:40373a2437c3,2. Click a location  >  3. Confirm below,2. Kliknij miejsce  >  3. Zatwierdź poniżej,2. Klik på et sted  >  3. Bekræft nedenfor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d40717393eb4,1. Select a building from the list or map,1. Wybierz budynek z listy lub z mapy,1. Vælg en bygning fra listen eller kortet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ed37c2a7cfc,Gold: plan  |  Red: blocked  |  Green: selected,Złoty: plan  |  Czerwony: blokada  |  Zielony: wybrany,Guld: plan  |  Rød: blokeret  |  Grøn: valgt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0619aa99c753,Smelter and recipes,Alchemik i przetopy,Smelteovn og opskrifter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:53647c36b6b6,Guild buildings,Budynki gildii,Laugsbygninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da33e1b7e0c4,Construction,Budowa,Opførelse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a6f32131d64,Existing,Postawione,Eksisterende,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:daa2990b3cce,Cost: %s Yang,Koszt: %s Yang,Pris: %s Yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:d6979e416249,"Choose Move, then click the map.","Wybierz Przesuń, potem kliknij mapę.","Vælg Flyt, og klik derefter på kortet.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:209cf9f56d5e,3. Ready to confirm.,3. Gotowe do zatwierdzenia.,3. Klar til at bekræfte.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d7dfdf754b1e,Selected: %s,Wybrano: %s,Valgt: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e38e24a37a3c,Save position,Zapisz pozycję,Gem position,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d0cc4789781,Cancel plan,Anuluj plan,Annuller plan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76cdb9507216,Move,Przesuń,Flyt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:907e5563d797,Demolish,Zburz,Nedriv,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9f5cd8a2e880,Retry,Ponów,Prøv igen,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e716dcb879e3,Hunter's Forge,Kuznia Lowcy,Jægerens smedje,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6109092d43b6,Choose a weapon,Wybierz bron,Vælg et våben,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa14e6b54f4a,This weapon is equipped. Take it off into your inventory and put it into the Forge window again.,Ta bron jest zalozona. Zdejmij ja do ekwipunku i wloz ponownie do okna Kuzni.,"Dette våben er udrustet. Tag det af til inventaret, og læg det i Smedjevinduet igen.","client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e79f04c2efa3,Left Alt + Shift + LMB: exclude item from sorting,Lewy Alt + Shift + LPM: wyklucz przedmiot z sortowania,Venstre Alt + Shift + venstreklik: udelad genstand fra sortering,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:048df8daeef8,Horse inventory,Juki konne,Hestens inventar,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5892a2faf3f6,Offline shop,Sklep offline,Offlinebutik,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -323,379 +593,109 @@ c:pbt:a59608f4e4c7,Server busy. Check your inventory and log in again.,Serwer za
 c:pbt:712a34b775df,Deleting... Remaining: %d,Usuwanie... Pozostało: %d,Sletter... Tilbage: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:4065ab4b7735,Deleted: %d,Usunięto: %d,Slettet: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:9d42d4a3da57,Deletion stopped. Check your inventory.,Usuwanie przerwane. Sprawdź ekwipunek.,Sletningen stoppede. Tjek din inventar.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee31fc604ee4,Channel CH%d is unavailable.,Kanal CH%d jest niedostepny.,Kanal CH%d er ikke tilgængelig.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:0c0bee78e03f,You are already on CH%d.,Jestes juz na kanale CH%d.,Du er allerede på CH%d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:1310c1044867,"A channel change is already on its way, wait a moment.","Zmiana kanalu juz trwa, poczekaj chwile.","Et kanalskift er allerede i gang, vent et øjeblik.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:34b7ac96f817,"%s (%d, %d) - right click: remove","%s (%d, %d) - PPM: usuń","%s (%d, %d) - højreklik: fjern","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
-c:pbt:eb8e9b8f57d4,Marker name,Nazwa znacznika,Markørens navn,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d699f1e1bda,"Remove the marker ""%s""?","Usunąć znacznik ""%s""?","Fjern markøren ""%s""?","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:c39ee28e28ed,Marker added: %s,Dodano znacznik: %s,Markør tilføjet: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e42f62b0b97f,Marker removed: %s,Usunięto znacznik: %s,Markør fjernet: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a84a51bd45f9,This map already has %d markers - remove one to add another.,"Na tej mapie jest już %d znaczników - usuń któryś, aby dodać nowy.",Dette kort har allerede %d markører - fjern en for at tilføje en ny.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:d5da83c1a7bf,Could not save the markers (%s).,Nie udało się zapisać znaczników (%s).,Kunne ikke gemme markørerne (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:f5c8926c8e0e,Asking for the drop...,Pobieram drop...,Spørger efter bytte...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:004a20a9c523,Nothing drops from the drop tables,Nic nie wypada z tabel dropu,Intet falder fra byttetabellerne,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2cc16239a00a,No drop data,Brak danych o dropie,Ingen byttedata,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7239eeb24471,"Invalid Yang amount. Use k, kk or kkk.","Niepoprawna kwota Yang. Uzyj k, kk lub kkk.","Ugyldigt Yang-beløb. Brug k, kk eller kkk.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3fedea596370,Yang amount exceeds available funds.,Kwota Yang przekracza dostepne srodki.,"Yang-beløbet overstiger det, du har.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f8b0eab973b,Enter a valid whole quantity.,Wpisz poprawna liczbe calkowita.,Indtast et gyldigt helt antal.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a31d29e9258,Ranking is not available yet.,Ranking nie jest jeszcze dostępny.,Ranglisten er ikke tilgængelig endnu.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:056278bc5f06,Loading ranking...,Pobieranie rankingu...,Indlæser rangliste...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f090dd6fc241,Unknown character,Nieznana postać,Ukendt figur,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be0c9e50fbd6,The ranking is still empty.,Ranking jest jeszcze pusty.,Ranglisten er stadig tom.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b3d7eb409803,Ranking is being calculated; try in %d min.,"Ranking liczy się, spróbuj za %d min.",Ranglisten beregnes; prøv om %d min.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:41869306de76,Wait a moment before refreshing.,Odczekaj chwilę przed odświeżeniem.,"Vent et øjeblik, før du opdaterer.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:14aaac54a39a,Ranking unavailable. Try again.,Ranking chwilowo niedostępny. Spróbuj ponownie.,Ranglisten er ikke tilgængelig. Prøv igen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:48b07c1a268c,Character Fame,Sława postaci,Figurens berømmelse,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f9ed0bb0c39a,Your fame:,Twoja sława:,Din berømmelse:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6de63fda11e7,Most famous characters,Najsławniejsze postacie,Mest berømte figurer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd48a1149548,Rank,Miejsce,Rang,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee9946c82d4a,Character,Postać,Karakter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:197e7446125b,Fame,Sława,Berømmelse,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b2a6a314956,Points,Punkty,Point,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:615d333fc0e9,F11: open / close,F11: otwórz / zamknij,F11: åbn / luk,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:31e5f48153d2,Excluded (GM),Poza rankingiem (GM),Udelukket (GM),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:159b81bac28d,Your rank: %d of %d  |  Points: %d,Twoje miejsce: %d z %d  |  Punkty: %d,Din placering: %d af %d  |  Point: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:d2dbcb22661f,Your rank: unranked,Twoje miejsce: poza rankingiem,Din placering: ikke placeret,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:abb8bf370dc4,Your rank: --,Twoje miejsce: --,Din placering: --,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1a3374ec1079,GM characters are excluded from ranking.,Postacie GM nie biorą udziału w rankingu.,GM-figurer er udelukket fra ranglisten.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6315d147b088,Snapshot age: %d min; ranking updates periodically.,Zapis sprzed %d min; ranking aktualizuje się okresowo.,Øjebliksbilledets alder: %d min; ranglisten opdateres jævnligt.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:4ca88ea465a9,Bots,Boty,Bots,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc7a4ca91615,Companion,Towarzysz,Følgesvend,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:977d44d9558b,"Summon your companion and set combat and pickup. Its window holds inventory, skills and Alchemy.","Przywołaj pomocnika, ustaw walkę i drop. Plecak, umiejętności i Alchemia są w jego oknie.","Tilkald din følgesvend og indstil kamp og opsamling. Dens vindue rummer inventar, færdigheder og Alkymi.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fca1ec8b3d85,Auto Hunt,Auto Łowy,Autojagt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aabcf0e5b6dc,"Set targets, range, skills, potions and pickup kinds. Battle Rider fights from a combat horse.","Ustaw cele, zasięg, umiejętności, mikstury i rodzaje dropu. Bojowiec walczy z konia bojowego.","Indstil mål, rækkevidde, færdigheder, eliksirer og opsamlingstyper. Kamprytteren kæmper fra en kamphest.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a48ae114274d,Pickup filters,Filtry dropu,Opsamlingsfiltre,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39655da2304d,K / P,K / P,K / P,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cba05c465f4b,K: pickup kinds and filter for Z / `. P: Drop and Filter also govern bots collecting your party share.,K: rodzaje dropu i filtr dla Z / `. P: Drop i Filtr sterują też botami zbierającymi twój drop w PT.,"K: opsamlingstyper og filter for Z / `. P: Bytte og Filter gælder også bots, der samler din gruppeandel.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1305fffae062,Fame and diagnostics,Sława i diagnostyka,Berømmelse og diagnostik,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2c0697bd48b9,"F11 shows your fame and ranking. Ctrl+F11 shows or hides the diagnostics at the top right: position, FPS and camera (by Lostek).","F11 pokazuje twoją sławę i ranking. Ctrl+F11 pokazuje lub ukrywa informacje diagnostyczne w prawym górnym rogu: pozycję, FPS i kamerę (Lostek).","F11 viser din berømmelse og rangliste. Ctrl+F11 viser eller skjuler diagnostikken øverst til højre: position, FPS og kamera (af Lostek).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e797e5eb127,Talk to a bot,Rozmowa z botem,Tal med en bot,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c010a73e4748,Whisper,Szept,Hvisk,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d8789d3401,"Whisper a bot about gear, skills or prices. You can also call your own companion.","Napisz do bota: zapytaj o ekwipunek, umiejętności lub cenę. Własnego kompana możesz wezwać.","Hvisk til en bot om udstyr, færdigheder eller priser. Du kan også kalde din egen følgesvend.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:045d3de3a333,Guild bot orders,Rozkazy gildii,Ordrer til laugsbots,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60a538fbd0ec,"Guild window, Guild bots button: Help me!, Hunt with me, Go back. Or type /gildia_boty help, exp or return.","Okno gildii, przycisk Boty gildii: Pomocy!, Expimy razem, Wracajcie. Albo wpisz /gildia_boty pomoc, exp lub wracajcie.","Laugsvinduet, knappen Laugsbots: Hjælp mig!, Jag med mig, Gå tilbage. Eller skriv /gildia_boty help, exp eller return.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b0811e470d6b,Trade,Handel,Handel,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01c3eff2ecb8,Collector's warehouse,Magazyn kolekcjonera,Samlerens lager,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f59d1ce059f,Storekeeper,Dozorca,Lagerforvalter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:271718233629,Open storage at the Storekeeper with your storage password. Categories and stack transfers save bag space.,"Otwórz magazyn u Dozorcy hasłem magazynu. Kategorie, sortowanie i przenoszenie stosów zwalniają plecak.",Åbn lageret hos Lagerforvalteren med din lageradgangskode. Kategorier og overførsel af stakke sparer plads i tasken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ae436cd86487,Alchemy,Alchemia,Alkymi,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bf576920600f,Dragon Stones have separate storage and two decks. The Alchemist refines them; the bag button opens the window.,Kamienie Smoka mają osobny ekwipunek i dwa zestawy. Alchemik ulepsza kamienie; przycisk w plecaku otwiera okno.,Dragesten har separat lager og to bunker. Alkymisten forfiner dem; taskeknappen åbner vinduet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50d0547e023e,Auto-price,Auto-cena,Automatisk pris,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d4f1646532a7,Price dialog / Prices,Okno ceny / Ceny,Prisvindue / Priser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:72d5c38573ac,Choose a pricing mode when listing. Prices in shop editing can price the whole shop; you can still type a price.,Wybierz tryb wyceny przy wystawianiu. Ceny w edycji sklepu pozwalają ustawić cały sklep; własną cenę wpiszesz ręcznie.,"Vælg en prismetode, når du sætter til salg. Priser under redigering af butikken kan prissætte hele butikken; du kan stadig skrive en pris.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7cd13d0155fe,DC icon by the minimap,Ikona SM przy minimapie,DC-ikon ved minikortet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b41b57dec0e9,Browse goods for Dragon Coins and Dragon Marks. In-game vouchers increase your account balance.,Przeglądaj ofertę za Smocze Monety i Smocze Znaki. Bony z gry zwiększają saldo konta.,Se varer for Dragemønter og Dragemærker. Værdikuponer i spillet øger din kontosaldo.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e85232d9b07,General Store in M1 and M2,Handlarka Różności w M1 i M2,Købmand i M1 og M2,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1d66c80110a4,Search shop offers and buy without walking to a stall. Choose the quantity when buying a stack.,Szukaj ofert sklepów i kupuj bez chodzenia do straganu. Wybierz liczbę sztuk przy zakupie stosu.,"Søg i butikkernes tilbud og køb uden at gå hen til en bod. Vælg antallet, når du køber en stak.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df6f3b8246a4,Drop preview,Podgląd dropu,Forhåndsvisning af bytte,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fcc678277688,Target / chest window,Okno celu / skrzyni,Vindue for mål / kiste,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3798e1d62a35,"Preview possible monster or chest items. These are drop chances, not a guaranteed reward.","Podgląd pokazuje możliwe przedmioty potwora lub skrzyni. To szanse na drop, nie obietnica nagrody.","Se mulige genstande fra monstre eller kister. Det er chancer for bytte, ikke en garanteret belønning.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6bf5da9c080b,Options,Opcje,Indstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:18e03e2a37ba,Channels,Kanały,Kanaler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5539613ae963,"X opens channel selection, X+1-4 moves to CH1-CH4. You can also click a CH button beside the minimap.","X otwiera wybór kanału, X+1-4 przenosi na CH1-CH4. Możesz też kliknąć przycisk CH obok minimapy.","X åbner kanalvalget, X+1-4 flytter til CH1-CH4. Du kan også klikke på en CH-knap ved minikortet.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d4d4f6e5d4,Tyrion's options,Opcje Tyriona,Tyrions indstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d28be36debb,ESC > System options,ESC > Opcje systemowe,ESC > Systemindstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6df8b42bfc27,"Set field of view, FPS counter, snow and map name. Change font size in the login screen settings.","Ustaw pole widzenia, licznik FPS, śnieg i nazwę mapy. Rozmiar czcionki zmienisz w ustawieniach na ekranie logowania.","Indstil synsfelt, FPS-tæller, sne og kortnavn. Skift skriftstørrelse i indstillingerne på loginskærmen.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc43c4cead15,Map markers,Znaczniki mapy,Kortmarkører,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a0ad638430b,Right click on minimap / M,PPM na minimapie / M,Højreklik på minikortet / M,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5169b3fc6dcb,Mark your position on the minimap. On the M map choose a location; click an existing marker to remove it.,"Na minimapie dodaj znacznik swojej pozycji. Na mapie pod M wskaż miejsce; kliknij istniejący znacznik, aby go usunąć.",Marker din position på minikortet. Vælg et sted på M-kortet; klik på en eksisterende markør for at fjerne den.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8a024cdcd7dd,Ctrl+Alt+Right click,Ctrl+Alt+PPM,Ctrl+Alt+højreklik,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca8c9c58af1a,"Click an inventory item or a monster, Metin or NPC target to open its wiki page in your browser.","Kliknij przedmiot w plecaku albo cel: potwora, Metina lub NPC. Otworzysz odpowiednią stronę wiki w przeglądarce.","Klik på en genstand i inventaret eller et monster-, Metin- eller NPC-mål for at åbne dets wikiside i browseren.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:77c98c75b86a,Statistics and administration,Statystyki i administracja,Statistik og administration,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4787c49ab43a,"Y: character statistics. F9: GM panel, F10: GM bot inspection. The GM panels require GM rights.","Y: statystyki postaci. F9: panel GM, F10: podgląd botów dla GM. Uprawnienia GM są wymagane.","Y: figurstatistik. F9: GM-panel, F10: GM-botinspektion. GM-panelerne kræver GM-rettigheder.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fe28116e643,Help and horse,Pomoc i koń,Hjælp og hest,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c520865b329f,H opens and closes help. Ctrl+H keeps its horse action. Some features may be disabled in world settings.,H otwiera i zamyka pomoc. Ctrl+H zachowuje obsługę konia. Część funkcji może być wyłączona w ustawieniach świata.,H åbner og lukker hjælpen. Ctrl+H beholder sin hestefunktion. Nogle funktioner kan være slået fra i verdensindstillingerne.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:45e5f3f72e96,Commands,Komendy,Kommandoer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b76736f1ad71,Command  |  what for,Komenda  |  czego dotyczy,Kommando  |  hvad den gør,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab82dcd51304,/companion summon | wait | free,/towarzysz przywolaj | czekaj | wolny,/companion summon | wait | free,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d14bc0423a,"Call your companion, make it wait or let it go free. /sidekick is the same. PL: /towarzysz przywolaj | czekaj | wolny.","Wezwij towarzysza, każ mu czekać albo puść go wolno. EN: /companion summon | wait | free (także /sidekick).","Kald din følgesvend, lad den vente eller slip den fri. /sidekick er det samme. PL: /towarzysz przywolaj | czekaj | wolny.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e15b3423d84b,/companion fight attack | defend | passive,/towarzysz walka atakuj | obrona | spokoj,/companion fight attack | defend | passive,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a86fcf78cbf3,"Fighting stance: attacks on its own, only defends you, or does not fight. PL: /towarzysz walka atakuj | obrona | spokoj.","Postawa w walce: sam atakuje, tylko cię broni albo nie walczy. EN: /companion fight attack | defend | passive.","Kampstilling: angriber selv, forsvarer kun dig eller kæmper ikke. PL: /towarzysz walka atakuj | obrona | spokoj.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a5189a27a351,/companion loot none | owner | all,/towarzysz zbieraj 0 | 1 | 2,/companion loot none | owner | all,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:336d74d33c85,"What it picks up: nothing, only your drop, or the whole drop. PL: /towarzysz zbieraj 0 | 1 | 2.","Co zbiera: nic, tylko twój drop albo cały drop. EN: /companion loot none | owner | all.","Hvad den samler op: intet, kun dit bytte eller alt bytte. PL: /towarzysz zbieraj 0 | 1 | 2.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f77105e898c,/companion protect | buffs | lure | ranged on|off,/towarzysz ochrona | buffy | luruj | dystans 0|1,/companion protect | buffs | lure | ranged on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55ed9866e01f,Pulls monsters off you when you are dying; buffs you; lures; hits archers and casters first. Example: /companion buffs on.,"Ściąga potwory, gdy giniesz; buffuje cię; luruje; najpierw bije łuczników i magów. Przykład: /towarzysz buffy 1 (EN: buffs on).","Trækker monstre væk fra dig, når du er ved at dø; buffer dig; lokker; rammer bueskytter og magikere først. Eksempel: /companion buffs on.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b544b1c8b96,/companion solo | party | chests | coins | lock on|off,/towarzysz sam | grupa | skrzynki | monety | blokada 0|1,/companion solo | party | chests | coins | lock on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1331f47dc39f,"Plays without you; joins your party; opens chests; spends Dragon Coins; leaves its gear alone. PL: sam, grupa, skrzynki, monety, blokada.","Gra bez ciebie; wchodzi do twojej grupy; otwiera skrzynie; wydaje Smocze Monety; nie rusza swojego sprzętu. EN: solo, party, chests, coins, lock.","Spiller uden dig; slutter sig til din gruppe; åbner kister; bruger Dragemønter; rører ikke sit udstyr. PL: sam, grupa, skrzynki, monety, blokada.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:729c31d7bc58,/companion shopping | fishing | status,/towarzysz zakupy | lowienie | stan,/companion shopping | fishing | status,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7aa7f28eda9,Send it shopping in town or fishing; status says what it is doing now. PL: /towarzysz zakupy | lowienie | stan.,"Wyślij go po zakupy do miasta albo na ryby; stan mówi, co teraz robi. EN: /companion shopping | fishing | status.","Send den på indkøb i byen eller ud at fiske; status siger, hvad den laver nu. PL: /towarzysz zakupy | lowienie | stan.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9845468bf74d,/companion bag yang give | take <amount>,/towarzysz eq yang daj | wez <ilosc>,/companion bag yang give | take <amount>,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd54ec31bf81,Give your companion yang or take it back. Example: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,Daj towarzyszowi yang albo zabierz mu. Przykład: /towarzysz eq yang wez 1000000 (EN: /companion bag yang take 1000000).,Giv din følgesvend yang eller tag det tilbage. Eksempel: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bcacd50a224c,/companion bag sort | merge,/towarzysz eq sortuj | scal,/companion bag sort | merge,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8ca3b9856d1e,Sorts your companion's bag or merges its stacks; items move with the mouse in its window (P). PL: /towarzysz eq sortuj | scal.,Uporządkuj plecak towarzysza albo scal jego stosy; przedmioty przenosisz myszą w jego oknie (P). EN: /companion bag sort | merge.,Sorterer din følgesvends taske eller samler stakke; genstande flyttes med musen i dens vindue (P). PL: /towarzysz eq sortuj | scal.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0cd4442a53b9,/companion stats add str|dex|vit|int [n],/towarzysz statystyki dodaj st|dx|ht|iq [ile],/companion stats add str|dex|vit|int [n],"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d4d3f5d67618,"Spends its status points, e.g. /companion stats add str 5; stats reset is its one free reset. PL: statystyki dodaj st 5, statystyki odnow.","Wydaj jego punkty statusu, np. /towarzysz statystyki dodaj st 5; statystyki odnow to jeden darmowy reset. EN: stats add str 5, stats reset.","Bruger dens statuspoint, fx /companion stats add str 5; stats reset er dens eneste gratis nulstilling. PL: statystyki dodaj st 5, statystyki odnow.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:655f5b60902f,/companion skills | stats manual on|off,/towarzysz umiejetnosci | statystyki reczne 0|1,/companion skills | stats manual on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7ccd36cf825f,"You spend the skill or status points (on), or your companion does it itself (off). PL: /towarzysz umiejetnosci reczne 1.",Punkty umiejętności albo statusu rozdajesz ty (1) albo towarzysz sam (0). EN: /companion skills manual on.,"Du bruger færdigheds- eller statuspointene (on), eller din følgesvend gør det selv (off). PL: /towarzysz umiejetnosci reczne 1.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d87684e23ba,/companion polymorph ask | with | always | off,/towarzysz marmury pytaj | ztoba | zawsze | nie,/companion polymorph ask | with | always | off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:165d83c8b1da,"Polymorph marbles: asks after you transform, transforms with you, always, or never. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","Marmury przemiany: pyta po twojej przemianie, przemienia się z tobą, zawsze albo nigdy. EN: /companion polymorph ask | with | always | off.","Forvandlingskugler: spørger efter din forvandling, forvandler sig med dig, altid eller aldrig. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1f50534ba5f1,/companion saddle auto | always | never,/towarzysz kon auto | zawsze | nigdy,/companion saddle auto | always | never,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba3cea4b7b35,"Fighting from the saddle: by its class, always while you ride, or always on foot. PL: /towarzysz kon auto | zawsze | nigdy.","Walka z konia: według klasy, zawsze z konia, gdy jedziesz, albo zawsze pieszo. EN: /companion saddle auto | always | never.","Kamp fra sadlen: efter dens klasse, altid når du rider, eller altid til fods. PL: /towarzysz kon auto | zawsze | nigdy.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dbcee1c65633,/companion exp | support on|off,/towarzysz exp | wsparcie 0|1,/companion exp | support on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1872edeb9008,exp: your Anti-Exp Ring stops blocking its EXP (up to your level +30). support: it stays behind and buffs. PL: exp | wsparcie.,exp: twój pierścień anty-EXP nie blokuje jego EXP (do twojego poziomu +30). wsparcie: trzyma się z tyłu i buffuje. EN: exp | support.,exp: din Anti-EXP-ring holder op med at blokere dens EXP (op til dit niveau +30). support: den bliver bagved og buffer. PL: exp | wsparcie.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:45c4823e77d1,/companion store on | off,/towarzysz sklep 1 | 0,/companion store on | off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:28c8e29c04d9,Opens or closes your companion's counter; without a number it says how the counter stands. PL: /towarzysz sklep 1 | 0.,"Otwiera albo zamyka stoisko towarzysza; bez liczby mówi, co się z nim dzieje. EN: /companion store on | off.","Åbner eller lukker din følgesvends disk; uden tal fortæller den, hvordan disken står. PL: /towarzysz sklep 1 | 0.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01376fa2658c,/companion dismiss yes,/towarzysz odprawa tak,/companion dismiss yes,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a3ea265da44,"Dismisses your companion for good - that character does not come back. Without ""yes"" it only asks. PL: /towarzysz odprawa tak.","Odprawia towarzysza na zawsze - tej postaci już nie odzyskasz. Bez ""tak"" tylko pyta. EN: /companion dismiss yes.","Afskediger din følgesvend for altid - den figur kommer ikke tilbage. Uden ""yes"" spørger den kun. PL: /towarzysz odprawa tak.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f2cf0a1a974d,/guild_bots help | exp | return,/gildia_boty pomoc | exp | wracajcie,/guild_bots help | exp | return,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d219c68101f5,Location,Lokalizacja,Sted,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2b67d43ba564,Send Report,Wyślij zgłoszenie,Send anmeldelse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb54db510a92,Accept,Akceptuj,Acceptér,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b59cf9ed55bb,Decline,Odrzuć,Afvis,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9704b6631f6a,Favourite,Ulubiony,Favorit,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eaa62926b706,Invite to party,Zaproś do grupy,Invitér til gruppe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:12aabd251c42,Unblock,Odblokuj,Fjern blokering,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfd58ee3a270,Community,Społeczność,Fællesskab,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bae7d5be7082,Status,Status,Status,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:e25474167710,Status message,Wiadomość statusu,Statusbesked,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e2dd1356c149,Invite spouse to party,Zaproś małżonka do grupy,Invitér ægtefælle til gruppe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2811e779e55,Marriage,Małżeństwo,Ægteskab,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c11d5e1d35fb,Friends,Znajomi,Venner,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d60a85090c55,Blocked players,Zablokowani,Blokerede spillere,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cdfe806f9b75,Friend requests,Zaproszenia,Venneanmodninger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e0a731d84f24,Add friend,Dodaj znajomego,Tilføj ven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:191bee37bff7,Block player,Zablokuj gracza,Blokér spiller,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c010a73e4748,Whisper,Szepnij,Hvisk,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61686e8f14a2,Remove selected contact,Usuń wybraną osobę,Fjern valgt kontakt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9fb3f8ed9e7d,Guild info,Informacje gildii,Laugsinfo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9822f6f1d123,You are not in a guild.,Nie należysz do gildii.,Du er ikke i et laug.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:54241a3d0070,Guild,Gildia,Laug,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:26a3ee028295,"Your guild's bots: help in a fight, hunt together, go back. The same as the guild window's Guild bots button; /gildia_boty takes these words too.","Boty twojej gildii: pomoc w walce, wspólny exp, powrót. To samo co przycisk Boty gildii w oknie gildii. EN: /guild_bots help | exp | return.","Dit laugs bots: hjælper i kamp, jager sammen, går tilbage. Det samme som knappen Laugsbots i laugsvinduet; /gildia_boty tager også disse ord.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d99afeeb7ea6,/dice [max] | /dice <min> <max>,/dice [max] | /dice <od> <do>,/dice [max] | /dice <min> <max>,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3e82846c325,Game,Gra,Spil,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3f0b780c77db,"Rolls a die, 1-100 by default; your whole party sees the result. Example: /dice 6.","Rzut kością, domyślnie 1-100; wynik widzi cała twoja grupa. Przykład: /dice 6.","Slår med en terning, 1-100 som standard; hele din gruppe ser resultatet. Eksempel: /dice 6.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee888c848ef5,/ride | /unmount,/ride | /unmount,/ride | /unmount,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3b79e36c67ea,"Get on your horse or on a mount seal (the same as Ctrl+G), and get off it.",Wsiądź na konia albo na wierzchowca z pieczęci (to samo co Ctrl+G) i zsiądź z niego.,"Stig op på din hest eller et ridedyrsegl (det samme som Ctrl+G), og stig af igen.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de2ac055257a,/restart_here | /restart_town,/restart_here | /restart_town,/restart_here | /restart_town,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:027b10fe054e,After dying: stand up here or in town - the same as the buttons of the death window.,Po śmierci: wstań w miejscu albo w mieście - to samo co przyciski okna śmierci.,Efter døden: rejs dig her eller i byen - det samme som knapperne i dødsvinduet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ebf877f1789,/escape,/escape,/escape,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2caa7ddc09f5,"Frees a character stuck on blocked ground. Not in a fight or while dead, and only once in a while.","Uwalnia postać, która utknęła w zablokowanym miejscu. Nie w walce i nie po śmierci, raz na jakiś czas.","Befrier en figur, der sidder fast på blokeret grund. Ikke i kamp eller som død, og kun en gang imellem.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:966308760d05,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <ile>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,"client: our windows (companion, Auto Hunt, status lines) | keep: |c...|r colour codes",done
-c:pbt:ba1d534991bf,"Spends one status point, or several at once, e.g. /str+ 10 (strength) or /con+ 5 (vitality).","Wydaj jeden punkt statusu albo kilka naraz, np. /str+ 10 (siła) albo /con+ 5 (witalność).","Bruger ét statuspoint eller flere på én gang, fx /str+ 10 (styrke) eller /con+ 5 (vitalitet).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fabdd75fd1db,/change_channel 1-4,/change_channel 1-4,/change_channel 1-4,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b390b94e5ce,Moves you to another channel - the same as X+1-4 or a CH button by the minimap.,Przejdź na inny kanał - to samo co X+1-4 albo przycisk CH przy minimapie.,Flytter dig til en anden kanal - det samme som X+1-4 eller en CH-knap ved minikortet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8e5e664a3a76,/bot_rank,/bot_rank,/bot_rank,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bb87dc9da092,"The ten highest-level bots in the game, with their position and party.","Dziesięć botów o najwyższym poziomie w grze, z ich pozycją i grupą.","De ti bots med højest niveau i spillet, med deres position og gruppe.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:adbaee89f258,/logout | /quit | /phase_select,/logout | /quit | /phase_select,/logout | /quit | /phase_select,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4118bbd7b8fd,"Log out, quit the game, or go back to character selection (after a few seconds).","Wyloguj się, zamknij grę albo wróć do wyboru postaci (po kilku sekundach).","Log ud, afslut spillet eller gå tilbage til valg af figur (efter et par sekunder).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b66a609bf96f,Help - Metin2 Singleplayer,Pomoc - Metin2 Singleplayer,Hjælp - Metin2 Singleplayer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fcebeefad3c,Basics,Podstawy,Grundlæggende,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:664add438097,Wikipedia,Wikipedia,Wikipedia,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50b7b203dcfd,H / Esc: close. Basics: original game help.,H / Esc: zamknij. Podstawy: oryginalna pomoc gry.,H / Esc: luk. Grundlæggende: spillets originale hjælp.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f13dfacada70,< Back,< Wstecz,< Tilbage,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f80fd0c9d9fb,Next >,Dalej >,Næste >,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fc338f87a058,Features,Funkcje,Funktioner,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b054422f6f8a,Feature / where to open,Funkcja / gdzie otworzyć,Funktion / hvor den åbnes,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c5f5fe5c326b,Companion (P),Towarzysz (P),Følgesvend (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b5948930ebb,Auto Hunt (K),Auto Łowy (K),Autojagt (K),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9b7e12add513,Pick-up,Podnoszenie,Opsamling,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7decf1aa22b,Filter,Filtr,Filter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a5041fdaa241,Set up,Ustaw,Indstil,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c3ac5656aeda,Z and ` pick up only what Set up keeps,"Z i ` podnoszą tylko to, co włączone w Ustaw","Z og ` samler kun det op, som Indstil beholder","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6bab26bc7668,Next target,Kolejny cel,Næste mål,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7ae0e5ed69cb,With bow,Z łukiem,Med bue,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a91bcce893b5,Always,Zawsze,Altid,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee07ee0a8d12,After a kill: next one you already hit,"Po zabiciu: kolejny, którego już biłeś","Efter et drab: den næste, du allerede har ramt","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d824442e12c7,"Valuable equipment found (level 30, 70 or 75+). Continue?","Wykryto cenny ekwipunek (poziom 30, 70 lub 75+), kontynuować?","Værdifuldt udstyr fundet (niveau 30, 70 eller 75+). Fortsæt?","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7eb0443b6298,Ninja,Ninja,Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9777182d69c2,Sura,Sura,Sura,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f2815c3b7ce9,at your side,przy tobie,ved din side,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:18b0c6247e19,free hand,wolna ręka,frie hænder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d896fded55f,waiting here,czeka w miejscu,venter her,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c651445273f6,shopping,robi zakupy,handler,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eab0f0d67576,fishing,łowi ryby,fisker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b9e422260511,No 1st hit,Nie 1. atak,Intet 1. slag,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cb96ed31c4f2,Don't fight,Nie walcz,Kæmp ikke,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:832f36669230,hits everything nearby,bije wszystko w pobliżu,angriber alt i nærheden,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d2b0517bf98e,"never first, guards you and itself","nie zaczyna, broni ciebie i siebie","aldrig først, beskytter dig og sig selv","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9123d8c25e5c,does not fight at all,nie walczy wcale,kæmper slet ikke,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4481948392a8,Nothing,Nic,Intet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f58529bb3d25,Your drop,Twój drop,Dit bytte,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4a66d1480779,Everything,Wszystko,Alt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ead533685e26,Weapon,Broń,Våben,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:29b791a35bd7,Helmet,Hełm,Hjelm,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:08271419319f,Shield,Tarcza,Skjold,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:08b9fcb7a3be,Bracelet,Bransoleta,Armbånd,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:200b37cbaa9c,Necklace,Naszyjnik,Halskæde,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be320b06f43b,Vitality,Witalność,Vitalitet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c698f940a03e,Intelligence,Inteligencja,Intelligens,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24d3e4fdd9a8,Strength,Siła,Styrke,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:585f02aaec97,Dexterity,Zręczność,Smidighed,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da2b63a76327,Raises HP and defence.,Podnosi PŻ i obronę.,Øger HP og forsvar.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8123c3249b76,Raises SP and magic attack.,Podnosi PE i magiczny atak.,Øger SP og magisk angreb.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d9e43566a99,Raises attack.,Podnosi atak.,Øger angreb.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6eec259246b0,Raises attack and evasion.,Podnosi atak i uniki.,Øger angreb og undvigelse.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca8aa56a1d8d,Own EXP,Osobny EXP,Egen EXP,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2f2467b6ce3d,"EXP despite your Anti-Exp Ring, up to your level +30.","EXP mimo twojego anty-EXP, do twojego poziomu +30.","EXP trods din Anti-EXP-ring, op til dit niveau +30.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dd3ec3d963a,Behind,Z tylu,Bagved,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:494b05fa47c9,"While following, stays behind and buffs without fighting. Wait and other orders take priority.",Przy tobie stoi z tylu i buffuje bez walki. Czekaj i inne polecenia maja pierwszenstwo.,"Bliver bagved, når den følger dig, og buffer uden at kæmpe. Vent og andre ordrer har forrang.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9fc93acaa44f,Solo,Solo,Solo,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9d950ac96af,Lock EQ,Blokada,Lås udstyr,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a6a535b865db,Ranged,Dystans,Afstand,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2ed967a66970,Waiting for the server...,Czekam na odpowiedź serwera...,Venter på serveren...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7f2eda10563c,You have no companion yet.,Nie masz jeszcze towarzysza.,Du har endnu ingen følgesvend.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:714419ccc680,"Choose one in the ""Companion"" letter.","Wybierz go w liście ""Towarzysz"".","Vælg en i brevet ""Følgesvend"".","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df74bda1d464,Companions are switched off on this server.,Towarzysze są wyłączeni na tym serwerze.,Følgesvende er slået fra på denne server.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e1cae9b3d37a,The server owner turns them on in the launcher.,Włącza je właściciel serwera w launcherze.,Serverejeren slår dem til i launcheren.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:690c9c1f2d7d,In the game in a moment.,Za chwilę będzie w grze.,I spillet om et øjeblik.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:441e7097a612,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893atilgængelig [|r%d|cffbc893a]|r,"client: our windows (companion, Auto Hunt, status lines) | keep: %d; |c...|r colour codes",done
-c:pbt:4634cb47e6fe,Ctrl + click: several points at once,Ctrl + klik: kilka punktów naraz,Ctrl + klik: flere point på én gang,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e94758304eae,Spent: %d,Rozdane: %d,Brugt: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:41fb986a7235,From the gear: %+d,Z ekwipunku: %+d,Fra udstyret: %+d,"client: our windows (companion, Auto Hunt, status lines) | keep: %+d",done
-c:pbt:507594e2ae0d,%s: how many points?,%s: ile punktów?,%s: hvor mange point?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e01c43a069d2,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienia),Grundforsvar: %d (+%d%% forstærkning),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ef6155a5eccf,Bag,Plecak,Taske,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44e6822a751d,Wearing,Na sobie,Båret,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66b68f64fd6f,Click: the companion's bag,Klik: plecak towarzysza,Klik: følgesvendens taske,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3aaaddc88c7,You spend the points:,Punkty rozdaję sam:,Du bruger pointene:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c0e3b171ed73,Click a skill above.,Kliknij umiejętność powyżej.,Klik på en færdighed ovenfor.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ef02f539d8c9,Right click on it: reset.,Prawy klik na niej: zeruj.,Højreklik på den: nulstil.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:016b47a6f23c,Right click: reset,Prawy klik: zeruj,Højreklik: nulstil,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7cc7cc5ae55d,Level: %s,Poziom: %s,Niveau: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:9013310682e3,Your companion gets a path at level 5.,Towarzysz dostanie ścieżkę na 5 poziomie.,Din følgesvend får en vej på niveau 5.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb9840c89413,Your companion's AI spends the points.,Punkty rozdaje SI towarzysza.,Din følgesvends AI bruger pointene.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:beadfb865e87,"The points wait for you (""+""). ""no"" above: the AI spends them.","Punkty czekają na ciebie (""+""). ""nie"" wyżej: rozda je SI.","Pointene venter på dig (""+""). ""nej"" ovenfor: AI'en bruger dem.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44c57abd888a,Reset,Zeruj,Nulstil,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3799b2ccda5c,Reset %s?,Wyzerować %s?,Nulstil %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:ee5434bb8744, Its Master grade will be lost., Mistrz przepadnie., Dens Mester-grad går tabt.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23e13c4fb77e,"Matching Forgetfulness Books: %d, or 1 Skill Reset Document.",%d KZ tej umiejętności albo 1 Zwój Powrotu Umiejętności.,"Passende Glemselsbøger: %d, eller 1 Dokument til nulstilling af færdigheder.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:1d93c338318a,Master: 1 Skill Reset Document. Forgetfulness Books cannot be used.,Mistrz: 1 Zwój Powrotu Umiejętności. KZ nie zadziałają.,Mester: 1 Dokument til nulstilling af færdigheder. Glemselsbøger kan ikke bruges.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:64fbd995d3b6,Change,Zmień,Skift,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:05e626d6b14f,Scroll of Lore Change: every skill from zero and a path of your choice.,Zwój Zmiany Profesji: umiejętności od zera i ścieżka do wyboru.,Skriftrulle til læreskift: hver færdighed fra nul og en vej efter eget valg.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8922b50fb048,Which path? Scroll of Lore Change (from level 31).,Która ścieżka? Zwój Zmiany Profesji (od 31 poziomu).,Hvilken vej? Skriftrulle til læreskift (fra niveau 31).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01cdda7755a1,Path: %s. Every skill back to zero?,Ścieżka: %s. Wszystkie umiejętności od zera?,Vej: %s. Hver færdighed tilbage til nul?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e171d2e76cbf,Uses 1 scroll from your companion's bag or yours.,Zużywa 1 zwój z plecaka towarzysza albo twojego.,Bruger 1 skriftrulle fra din følgesvends taske eller din egen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca032b5844df,What it does,Co robi,Hvad den gør,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cded093321dd,Orders,Polecenia,Ordrer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a088b311505,Drop,Drop,Smid,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:171ca0385a0e,Behaviour,Zachowanie,Adfærd,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:490a7e43af7a,Now: %s,Teraz: %s,Nu: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:fcafeb95b595,"Now: down, getting up soon","Teraz: leży, zaraz wstanie","Nu: nede, rejser sig snart","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cb83ead9f0c8,Where: %s,Gdzie: %s,Hvor: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:350f8e6f6efc,%d red / %d blue,%d czerw. / %d nieb.,%d røde / %d blå,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:2fc24d47c27c,Mode: %s,Tryb: %s,Tilstand: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:291a0a58dfa6,Call,Przywołaj,Kald,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8eda27bd36f3,Wait here,Czekaj tu,Vent her,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54e59352a112,Free hand,Wolna ręka,Frie hænder,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ea83e1b6ffd,Buy goods,Kup towar,Køb varer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee45c30326b7,Report,Raport,Anmeld,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70afe9eff3f2,Dismiss,Odpraw,Afskedig,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55de88709232,Shop,Sklep,Butik,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:76a032e9c77c,Closing,Zamyka,Lukker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da7a68734367,off,wył.,fra,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:db3d405b1067,on,wł.,til,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a447aafdb229,closing,zamykanie,lukker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50eabe984380,Shop: %s,Sklep: %s,Butik: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e84d751a9a91,Sell surplus from the whole bag?,Sprzedawać z całej torby?,Sælg overskud fra hele tasken?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1be64c9b126a,Gifts and needed items stay.,Dary i potrzebne rzeczy zostają.,Gaver og nødvendige genstande bliver.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c406ae02ba8c,Companion shop,Sklep towarzysza,Følgesvendens butik,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8eea33492d3d,"Surplus from every bag page, including new drops.","Nadwyżki ze wszystkich stron torby, także nowy drop.","Overskud fra hver side i tasken, også nyt bytte.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ce304c1ac99,"Gifts, needed items and pinned gear stay.","Bez darów, potrzebnych rzeczy i przypiętego sprzętu.","Gaver, nødvendige genstande og fastgjort udstyr bliver.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f53c8066c220,Items dragged in the window wait at least 5 min.,Rzeczy przeciągnięte w oknie czekają co najmniej 5 min.,Genstande trukket i vinduet venter mindst 5 min.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:db74c26928fc,Bot prices. Collect proceeds with Take yang.,Ceny jak u botów. Utarg odbierasz przyciskiem Weź yang.,"Botpriser. Hent indtægten med ""Tag Yang"".","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ec270b63b247,"Service at the M1 stand, channel 1, when free.","Obsługa przy sklepie w M1, kanał 1, gdy ma czas.","Betjening ved boden i M1, kanal 1, når den er ledig.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ac39ca018163,"Bot markdowns, no automatic return after 24 h.","Przeceny jak u botów, bez zwrotu po 24 h.","Botnedsættelser, ingen automatisk returnering efter 24 t.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98ad37ae5373,Closing returns goods to the bag when there is room.,"Zamknięcie zwraca towar do torby, gdy jest miejsce.","Ved lukning kommer varerne tilbage i tasken, hvis der er plads.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e0a2aa2d518,Drag a return in the bag to allow listing again after 5 min.,"Przeciągnij zwrot w torbie, aby po 5 min mógł znów trafić na ladę.","Træk en returvare i tasken for at tillade, at den sættes til salg igen efter 5 min.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:97c09dcce9de,Dismiss your companion for good? This cannot be undone.,Odprawić towarzysza na dobre? Tego nie da się cofnąć.,Afskedig din følgesvend for altid? Det kan ikke fortrydes.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:300d29fd5f32,Inventory,Ekwipunek,Inventar,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a2ae3b40edd1,Filter: %s,Filtr: %s,Filter: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:8259bc236291,Pick-up filter,Filtr podnoszenia,Opsamlingsfilter,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:055a2b1a877c,Yes: it picks up only what the filter,"Tak: podnosi tylko to, co bierze filtr","Ja: den samler kun det op, som filteret","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a7960e0c88ae,of your Auto Hunt takes (Select items...):,twoich Auto Łowów (Wybierz przedmioty...):,i din Autojagt tager (Vælg genstande...):,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:888977cb78eb,"categories, exceptions, Min. + and Gear: min.","kategorie, wyjątki, Min. + i Ekwipunek: min.","kategorier, undtagelser, Min. + og Udstyr: min.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:821bdbff73d3,"Gear: min. N - weapons, armour and jewellery","Ekwipunek: min. N - broń, zbroje i ozdoby","Udstyr: min. N - våben, rustninger og smykker","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a58ffb4cc925,only with at least N bonus lines;,tylko z co najmniej N liniami bonusu;,kun med mindst N bonuslinjer;,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a9ca83509433,a weapon's average and skill damage are no bonus.,średnie i um. obrażenia broni to nie bonusy.,et våbens gennemsnits- og færdighedsskade er ingen bonus.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:221b94c16ff2,0 or empty: no such condition.,0 lub puste: bez tego warunku.,0 eller tom: ingen sådan betingelse.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9fbd57b5636,No: everything its Drop allows.,"Nie: wszystko, na co pozwala Drop.","Nej: alt, hvad dets Bytte tillader.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:176701f73b7f,Auto Hunt's settings cannot be read.,Nie mogę odczytać ustawień Auto Łowów.,Autojagtens indstillinger kan ikke læses.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8748499dbb,out of the game,poza grą,ude af spillet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6c7b16e4ff86,%s (another map),%s (inna mapa),%s (et andet kort),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:8a8f4d4713fe,another map,inna mapa,et andet kort,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:782cb23f1809,next to you,obok ciebie,ved siden af dig,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d8b02f2ec520,%d m from you,%d m od ciebie,%d m fra dig,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:4c29870ccbea,Rank points:,Punkty Rangi:,Rangpoint:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:863b8eb114bf,Companion has a matching marble.,Towarzysz ma marmur tego potwora.,Følgesvenden har en passende kugle.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c08f3b6a6321,Use their own marble?,Użyć jego marmuru?,Brug dens egen kugle?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ddf9f0e22761,Companion's inventory,Ekwipunek towarzysza,Følgesvendens inventar,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:944550bc67c5,Your companion is not in the game.,Towarzysz nie jest teraz w grze.,Din følgesvend er ikke i spillet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b03511c5e5d3,Companions are switched off here.,Towarzysze są tu wyłączeni.,Følgesvende er slået fra her.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0699ba601eaf,Update the client and the server.,Zaktualizuj klienta i serwer.,Opdater klienten og serveren.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2eba6a03b89a,Unpin,Odepnij,Frigør,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1ca623701c36,Merge and sort the companion's bag,Scal i uporządkuj torbę towarzysza,Saml og sorter følgesvendens taske,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed5a8a14d33a,Deck %d,Zestaw %d,Bunke %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:95e970d81c5d,%d / %d,%d / %d,%d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:c1876298835d,Drag to your bag: the stone goes into your Alchemy.,Przeciagnij do swojej torby: kamien trafi do twojej alchemii.,Træk til din taske: stenen kommer i din Alkymi.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7c7cb72859f2,Pick up an item and click the pin to let your companion choose its equipment again.,"Podnieś przedmiot i kliknij pinezkę, aby towarzysz znów sam dobierał wyposażenie.","Tag en genstand og klik på nålen, så din følgesvend igen vælger sit udstyr.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:31c5ddebe711,Nothing to unpin there.,Tego nie trzeba odpinać.,Der er intet at frigøre der.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be28809fcf22,Take it off into the bag first.,Zdejmij go najpierw do torby.,Tag den først af ned i tasken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e15020ab0e03,Give it an item from your bag.,Daj mu przedmiot z torby.,Giv den en genstand fra din taske.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b51ab5faba0,Your companion takes whole stacks only.,Towarzysz bierze tylko cały stos.,Din følgesvend tager kun hele stakke.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fbefae1e9659,Give,Daj,Giv,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:56806a1ffdde,Take,Weź,Tag,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a92e0affbd0d,Give yang to your companion,Daj yang towarzyszowi,Giv yang til din følgesvend,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:57411afba7f3,Take yang from your companion,Weź yang od towarzysza,Tag yang fra din følgesvend,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f813dca1c7d,Amount: ,Kwota: ,Beløb: ,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1062bffa9428,Your companion has moved it already.,Towarzysz już go przestawił.,Din følgesvend har allerede flyttet den.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:577ef7dc1516,Destroy,Zniszcz,Ødelæg,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24d46630b72e,A worn piece cannot be destroyed - take it off into the bag first.,Noszonego nie da się zniszczyć - zdejmij go najpierw do torby.,Et båret stykke kan ikke ødelægges - tag det først af ned i tasken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:428e6ef00a33,Only an item of your companion's bag can be destroyed.,Zniszczyć można tylko przedmiot z torby towarzysza.,Kun en genstand fra din følgesvends taske kan ødelægges.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:00e29b7a7f93,Update the server to destroy your companion's items.,"Zaktualizuj serwer, aby niszczyć przedmioty towarzysza.",Opdater serveren for at ødelægge din følgesvends genstande.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cd625c754905,Destroy: %s?,Zniszczyć: %s?,Ødelæg: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:cbb3f03839e6,Your companion's item will be gone for good.,Przedmiot towarzysza zniknie na zawsze.,Din følgesvends genstand forsvinder for altid.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f03d78610e78,Click items in the companion bag - the red ones will be destroyed. Then click the bin.,Klikaj przedmioty w torbie towarzysza - czerwone zostaną zniszczone. Potem kliknij kosz.,Klik på genstande i følgesvendens taske - de røde ødelægges. Klik så på skraldespanden.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b153f417577a,Bin: click items in the bag (Esc - leave).,Kosz: kliknij przedmioty w torbie (Esc - wyjście).,Skraldespand: klik på genstande i tasken (Esc - forlad).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c73d382fafe7,Bin: %d selected. Click the bin to destroy.,"Kosz: wybrano %d. Kliknij kosz, aby zniszczyć.",Skraldespand: %d valgt. Klik på skraldespanden for at ødelægge.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:d059179fdef8,Destroy your companion's items for good: %d?,Zniszczyć na zawsze przedmioty towarzysza: %d?,Ødelæg din følgesvends genstande for altid: %d?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:fd34ec265936,Destroying... %d / %d,Niszczę... %d / %d,Ødelægger... %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:bc62a41dd168,Destroyed: %d of %d.,Zniszczono: %d z %d.,Ødelagt: %d af %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:9d681c525103,Skipped (your companion moved or sold them): %d.,Pominięte (towarzysz je przestawił lub sprzedał): %d.,Sprunget over (din følgesvend flyttede eller solgte dem): %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:3d88aaa54dae,Destroying items...,Trwa niszczenie przedmiotów...,Ødelægger genstande...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3cea6bd97e94,Destroying stopped: %d of %d destroyed.,Niszczenie przerwane: zniszczono %d z %d.,Ødelæggelsen stoppede: %d af %d ødelagt.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:e9d911b5064b,The server does not answer - destroying stopped.,Serwer nie odpowiada - niszczenie przerwane.,Serveren svarer ikke - ødelæggelsen stoppede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4dad3d0578fd,Your companion moved a selected item - it was unselected.,Towarzysz przestawił zaznaczony przedmiot - odznaczono go.,Din følgesvend flyttede en valgt genstand - den blev fravalgt.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e2bcda84facb,Done.,Gotowe.,Færdig.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2f34166d6b1f,Your companion refused.,Towarzysz odmówił.,Din følgesvend nægtede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:020c883ef1d7,There is nothing there.,Tam nic nie ma.,Der er intet der.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36a5b0d1e792,A wrong order.,Złe polecenie.,En forkert ordre.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aa0d618af75d,Put on by you - your companion will not take it off,Założone przez ciebie - towarzysz tego nie zdejmie,Taget på af dig - din følgesvend tager den ikke af,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f4baea35a4d3,A gift from you,Prezent od ciebie,En gave fra dig,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c2a844c68869,Taken off by you - your companion will not put it on,Zdjęte przez ciebie - towarzysz sam tego nie założy,Taget af af dig - din følgesvend tager den ikke på,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:20e23c7450d0,Ctrl + click: unpin,Ctrl + klik: odepnij,Ctrl + klik: frigør,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e25ae629fc65,Shift + right click: remove the gift mark,Shift + prawy klik: zdejmij status prezentu,Shift + højreklik: fjern gavemærket,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:37587943934f,The gift mark changes only on an item of your companion's bag.,Status prezentu zmienisz tylko na przedmiocie z torby towarzysza.,Gavemærket ændres kun på en genstand i din følgesvends taske.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93d25e2abc6d,Update the server to change the gift mark.,"Zaktualizuj serwer, aby zmieniać status prezentu.",Opdater serveren for at ændre gavemærket.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d9d6c383318,Remove the gift mark: %s?,Zdjąć status prezentu: %s?,Fjern gavemærket: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:0847873f9a95,Your companion will be able to sell it.,Towarzysz będzie mógł to sprzedać.,Din følgesvend kan så sælge den.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:558fed72ccfd,Mark as a gift: %s?,Oznaczyć jako prezent: %s?,Marker som gave: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:1d2946d6078f,Your companion will not sell it.,Towarzysz tego nie sprzeda.,Din følgesvend vil ikke sælge den.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e699a0e6ffe7,Right click: put on,Prawy klik: załóż,Højreklik: tag på,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d30caa454ba2,Right click: take off,Prawy klik: zdejmij,Højreklik: tag af,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:262cdf2df410,Skill %d,Umiejętność %d,Færdighed %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:3c1bcbc84ebb,Companion storage,Magazyn towarzysza,Følgesvendens lager,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab8163c6ce45,Unlock equipment choice (Ctrl + click),Odblokuj dobór wyposażenia (Ctrl + klik),Lås op for valg af udstyr (Ctrl + klik),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:985618d4c29b,Companion bin,Kosz towarzysza,Følgesvendens skraldespand,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e33027ebddb1,Companion alchemy,Alchemia towarzysza,Følgesvendens alkymi,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7d622916e7a6,Storage contains %s entries. Dismissing deletes its contents.,Magazyn zawiera %s wpisów. Odprawienie usunie jego zawartość.,Lageret indeholder %s poster. Afskedigelse sletter indholdet.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:024b1d19eeee,Cancel to collect your items first. This cannot be undone.,"Anuluj, aby najpierw odebrać przedmioty. Tej operacji nie można cofnąć.",Annuller for først at hente dine genstande. Det kan ikke fortrydes.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54913f9af9ff,Dismiss and delete,Odpraw i usuń,Afskedig og slet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d2c7d905301d,Split item,Rozdzielanie przedmiotu,Opdel genstand,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9787f6ca7771,Units / package size,Liczba sztuk / wielkość paczki,Enheder / pakkestørrelse,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93af25db220a,Into packages (units):,Na paczki (limit szt.):,I pakker (enheder):,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a999012ffb8,Packages,Paczki,Pakker,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:73595d8a7aa0,%d x %d | rest: %d,%d x %d szt. | reszta: %d,%d x %d | rest: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:a45acfd30f82,Enter a valid amount,Wpisz prawidłową ilość,Indtast et gyldigt antal,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d0fca43cc0ef,The package size must be above zero and below the stack.,Wielkość paczki musi być mniejsza od stosu i większa od zera.,Pakkestørrelsen skal være over nul og under stakken.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f0946633c948,Enter a valid number of units for the packages.,Wpisz prawidłową ilość sztuk na paczki.,Indtast et gyldigt antal enheder til pakkerne.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54e99b57acbe,Split the item into packages?,Rozdzielić przedmiot na paczki?,Opdel genstanden i pakker?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:289e7339c31c,%d packages of %d | rest: %d,%d paczek po %d szt. | reszta: %d szt.,%d pakker á %d | rest: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:fc8230b4119a,Split,Rozdziel,Opdel,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0b3ea484948e,The item changed. Choose it again.,Przedmiot zmienił się. Wybierz go ponownie.,Genstanden ændrede sig. Vælg den igen.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e4664d81d6a,Splitting into packages works in the normal inventory.,Rozdzielanie na paczki działa w zwykłym ekwipunku.,Opdeling i pakker virker i det normale inventar.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01c061d499e9,Close the trade or the other window and put down the item on your cursor.,Zamknij handel lub inne okno i odłóż przedmiot z kursora.,"Luk handlen eller det andet vindue, og læg genstanden på din markør fra dig.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93c488b48c00,"Invalid package size, or the stack changed.",Nieprawidłowa wielkość paczki lub stos został zmieniony.,"Ugyldig pakkestørrelse, eller stakken ændrede sig.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:20445e0682e2,Enter units for at least one package.,Podaj liczbę sztuk na co najmniej jedną paczkę.,Indtast enheder til mindst én pakke.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:191c4fb7906a,Splitting into packages stopped.,Rozdzielanie na paczki zostało zatrzymane.,Opdeling i pakker stoppede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:12f2bb783251,The server did not confirm the split. The remaining units were not moved.,Serwer nie potwierdził rozdzielenia. Pozostałe sztuki nie zostały przeniesione.,Serveren bekræftede ikke opdelingen. De resterende enheder blev ikke flyttet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4dc1e06c5ef8,The stack changed. Splitting stopped.,Stos został zmieniony. Rozdzielanie zatrzymane.,Stakken ændrede sig. Opdelingen stoppede.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fdc99474b59,No free space. The rest of the stack stays in its slot.,Brak wolnego miejsca. Reszta stosu pozostaje w pierwotnym slocie.,Ingen ledig plads. Resten af stakken bliver på sin plads.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9941cf4da5e8,is built into the item and cannot be rolled again,jest wbudowany w przedmiot i nie można go wylosować ponownie,er indbygget i genstanden og kan ikke rulles igen,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df51d96f9e86,is already in the rare bonuses,jest już w bonusach 6/7,er allerede blandt de sjældne bonusser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da460d8e09b2,cannot be rolled on this item,nie występuje w losowaniu na tym przedmiocie,kan ikke rulles på denne genstand,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e6332bc4d328,The item has no bonuses to change.,Przedmiot nie ma bonusów do zmiany.,Genstanden har ingen bonusser at skifte.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fac6f104fbc0,Set %d: blocking bonus[ENTER]%s[ENTER]Change or remove this target in BS.,Zestaw %d: blokujący bonus[ENTER]%s[ENTER]Zmień lub usuń ten cel w BS.,Sæt %d: blokerende bonus[ENTER]%s[ENTER]Skift eller fjern dette mål i BS.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
-c:pbt:24a1d403c6a2,Set %d: no alternative bonus fits this item[ENTER]%s[ENTER]Change or remove these targets in BS.,Zestaw %d: brak pasujących alternatyw[ENTER]%s[ENTER]Zmień lub usuń te cele w BS.,Sæt %d: ingen alternativ bonus passer til denne genstand[ENTER]%s[ENTER]Skift eller fjern disse mål i BS.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
-c:pbt:f4ecc67eb38e,Set %d: more targets than the item has bonuses.,Zestaw %d: więcej celów niż bonusów przedmiotu.,"Sæt %d: flere mål, end genstanden har bonusser.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:edb82823eedf,Set %d: this average and skill damage cannot occur together.,Zestaw %d: te średnie i umiejętności nie mogą wypaść razem.,Sæt %d: denne gennemsnits- og færdighedsskade kan ikke forekomme sammen.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:399748187f91,Item on cursor - paused.,Przedmiot na kursorze - pauza.,Genstand på markøren - sat på pause.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f4ffd0deaab1,The item was moved - stopped.,Przeniesiono przedmiot - zatrzymano.,Genstanden blev flyttet - stoppet.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23d46fce50b8,Any / skip,Dowolny / pomiń,Vilkårlig / spring over,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e950c6af8d47,Right-click an item in your inventory / drag it into the slot,PPM na przedmiot w EQ / przeciągnij przedmiot z EQ w slot,Højreklik på en genstand i inventaret / træk den over på pladsen,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62ce91194322,Open BS window,Otwórz okno BS,Åbn BS-vinduet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5397e0583f14,Yes,Tak,Ja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b07baa06a705,Set 1,Zestaw 1,Sæt 1,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2313d9d74d94,Set 2,Zestaw 2,Sæt 2,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e709e76ff542,Presets,Presety,Forudindstillinger,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a834a054a5c,Main bonuses,Bonusy główne,Hovedbonusser,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c56e68e5c621,Alternative bonuses,Bonusy alternatywne,Alternative bonusser,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf01481f626d,Privacy,Prywatność,Privatliv,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c5577be1e75,Character level,Poziom postaci,Figurniveau,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:53cde4b08c18,Status and message,Status i wiadomość,Status og besked,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46c4e735df80,Party invitations,Zaproszenia do grupy,Gruppeinvitationer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3cdf89044f04,Friend invitations,Zaproszenia do znajomych,Venneinvitationer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4f5ebc5cb7a2,Notifications: ON,Powiadomienia: WŁ,Notifikationer: TIL,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3e839df6084,Online,Online,Online,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:2b136b7e3c82,AFK,Zaraz wracam,AFK,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:26f1fef8f2c7,Auto-Hunting,Auto Łowy,Autojagter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06e7b5b42d41,Shop in use,Sklep,Butik i brug,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e01fa717bacc,Offline,Offline,Offline,"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:c756f6af1f03,Everyone,Wszyscy,Alle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:29ec7e1ac63a,Friends / guild / spouse,Znajomi / gildia / małżonek,Venner / laug / ægtefælle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04aee080b498,Spouse,Małżonek,Ægtefælle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01673a1f73ad,Everyone except friends / guild / spouse,Poza znajomymi / gildią / małżonkiem,Alle undtagen venner / laug / ægtefælle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:148ba2d23619,Nobody,Nikt,Ingen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b66082079360,No guild,Brak gildii,Intet laug,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:216686cccf6e,Settings save was not confirmed.,Brak potwierdzenia zapisu ustawień.,Gemningen af indstillingerne blev ikke bekræftet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:097879623f4c,Report saved.,Zgłoszenie zapisano.,Anmeldelse gemt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:65c29cf25ce0,[Report ,[Zgłoszenie ,[Anmeldelse ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:88d86b7721d5,Closed,Zamknięte,Lukket,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6403f2b7eb2a,New,Nowe,Ny,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bacfb74e2fd9,Reports displayed: ,Liczba zgłoszeń: ,Viste anmeldelser: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f1c6f91b2058,Older: /reports ,Starsze: /reports ,Ældre: /reports ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bef4fd21474,Closed report #,Zamknięto zgłoszenie #,Lukket anmeldelse nr. ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6c4c0d13fc16,Enter the reason in the Other field.,Wpisz powód zgłoszenia w polu Inny.,Angiv årsagen i feltet Andet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b9edc0e4ed7a,You already have an open report about this character.,Masz już otwarte zgłoszenie dotyczące tej postaci.,Du har allerede en åben anmeldelse af denne figur.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6630da752706,You cannot report yourself.,Nie możesz zgłosić swojej postaci.,Du kan ikke anmelde dig selv.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b333d68cf594,This command is available to GMs only.,Ta komenda jest dostępna tylko dla GM.,Denne kommando er kun for GM'er.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61ef075e241f,Check the character name or report ID.,Sprawdź nazwę postaci lub numer zgłoszenia.,Tjek figurens navn eller anmeldelsens ID.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4dca5c6e1594,Report does not exist or is already closed.,Zgłoszenie nie istnieje lub jest już zamknięte.,Anmeldelsen findes ikke eller er allerede lukket.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:15002f014fba,Please wait before trying again.,Odczekaj chwilę przed kolejną próbą.,"Vent venligst, før du prøver igen.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:608971194d93,Community data error. Check the server log.,Błąd danych społeczności. Sprawdź log serwera.,Fejl i fællesskabsdata. Tjek serverloggen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:524960b49e4a,Privacy settings or a block prevent this action.,Ustawienia prywatności lub blokada uniemożliwiają tę czynność.,Privatlivsindstillinger eller en blokering forhindrer denne handling.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f305ae7b5a86,This character is in a different server area. Invite them when you meet.,Ta postać jest w innym obszarze serwera. Zaproś ją po spotkaniu.,"Denne figur er i et andet serverområde. Invitér den, når I mødes.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84a518cab72e,Complete the biologist Orc Tooth quest first.,Najpierw ukończ misję biologa: Zęby Orka.,Fuldfør først biologens Orketand-quest.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09b2cdcfffc1,Character not found.,Nie znaleziono takiej postaci.,Figuren blev ikke fundet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fadc5044be66,This action is currently unavailable.,Ta czynność jest teraz niedostępna.,Denne handling er ikke tilgængelig i øjeblikket.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:efe72b17e0bb,Cannot complete this action.,Nie można wykonać tej czynności.,Handlingen kan ikke fuldføres.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9ef575af55e,Loading character information...,Pobieranie informacji o postaci...,Indlæser figuroplysninger...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63487c957160,Yongan (M1),Yongan (M1),Yongan (M1),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:6e239b014061,Jayang (M2),Jayang (M2),Jayang (M2),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:1cf9fa5a852a,Joan (M1),Joan (M1),Joan (M1),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:56cfd91c319b,Bokjung (M2),Bokjung (M2),Bokjung (M2),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:1a5fab18c49c,Pyungmoo (M1),Pyungmoo (M1),Pyungmoo (M1),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:04b307efd0fb,Bakra (M2),Bakra (M2),Bakra (M2),"client: our windows (companion, Auto Hunt, status lines)",check
+c:pbt:47da815d223d,Mount Sohan,Góra Sohan,Sohan-bjerget,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3986a6ce2cc5,Fireland,Ognista Ziemia,Ildlandet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c87afcfeeb56,Yongbi Desert,Pustynia Yongbi,Yongbi-ørkenen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:856fb1ae8b25,Valley of Seungryong,Dolina Orków,Seungryong-dalen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e6a9d06d25e1,Hwang Temple,Świątynia Hwang,Hwang-templet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef983c050fdc,Jungrang (guild map),Jungrang (mapa gildii),Jungrang (laugskort),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:642ee4d1d6c2,Waryong (guild map),Waryong (mapa gildii),Waryong (laugskort),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e1d3295a6d7,Imha (guild map),Imha (mapa gildii),Imha (laugskort),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ef85ecbfa22c,Monkey Dungeon (easy),Loch Małp (łatwy),Abefangehullet (let),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6de256ea277,Monkey Dungeon (normal),Loch Małp (średni),Abefangehullet (normal),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:369516b73135,Monkey Dungeon (hard),Loch Małp (trudny),Abefangehullet (svær),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e3daded137b,Demon Tower,Wieża Demonów,Dæmontårnet,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8eb0d50b0b35,Ghost Forest,Las Duchów,Spøgelsesskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c22173ba22f8,Red Forest,Czerwony Las,Rødskoven,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e65eca4a985d,Land of Giants,Kraina Gigantów,Kæmpernes land,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce1e4d8eeff1,Spider Dungeon V2,Loch Pająków V2,Edderkoppefangehullet V2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14b0ebea1249,Grotto of Exile V1,Grota Wygnańców V1,Eksilets grotte V1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7e55136d0b77,Grotto of Exile V2,Grota Wygnańców V2,Eksilets grotte V2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35dadedf4f90,Wedding hall,Sala weselna,Bryllupssal,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f36ead37771,Spider Dungeon V1,Loch Pająków V1,Edderkoppefangehullet V1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa06de8bd466,Guild war arena,Arena wojny gildii,Laugskrigsarena,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b9c2b42fb37,OX Arena,Arena OX,OX-arena,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ea4ec92ededc,Beran-Setaou's Lair,Leże Beran-Setaou,Beran-Setaous hule,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4781c1fd87d7,Devil's Catacomb,Diabelskie Katakumby,Djævlens katakombe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:21a6a8ca23cd,Map %d,Mapa %d,Kort %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:09f8438ef28a,Wait for the community connection.,Poczekaj na połączenie z systemem społeczności.,Vent på forbindelsen til fællesskabet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:daa30a52213b,Loading location...,Pobieranie lokalizacji...,Indlæser position...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2bb9f6d9ba2a,Character is offline.,Postać jest offline.,Figuren er offline.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5becbde41a92,Location unavailable.,Lokalizacja niedostępna.,Positionen er ikke tilgængelig.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58b9659d8186,New friend request from ,Nowe zaproszenie do znajomych od ,Ny venneanmodning fra ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:054b746a2cbe,. Open Community: Alt+M.,. Otwórz Społeczność: Alt+M.,. Åbn Fællesskab: Alt+M.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:319c111bda96,The 100-block limit has been reached. Existing blocks are preserved.,Limit 100 blokad został osiągnięty. Istniejące blokady zachowano.,Grænsen på 100 blokeringer er nået. Eksisterende blokeringer bevares.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5bb26ec5362b,Select a character first.,Najpierw wybierz postać na liście.,Vælg først en figur.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8e942680ef3c,Yang selling,Sprzedaż Yang,Salg af Yang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f7ecc6f83854,Illegal trading,Nielegalny handel,Ulovlig handel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e60cad1d59d,Cheating,Oszukiwanie,Snyd,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30261a552471,Other: ,Inny: ,Andet: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee45c30326b7,Report,Zgłoś gracza,Anmeld,"client: our windows (companion, Auto Hunt, status lines)",done

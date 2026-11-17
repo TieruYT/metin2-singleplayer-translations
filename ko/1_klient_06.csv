@@ -1,4 +1,73 @@
 id,english,polski,translation,notes,status
+c:pbt:9c8238f65551,Snow,Śnieg,눈,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c614ba7c453c,Auto,Auto,자동,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,계속 개량하기,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",시도 후 같은 아이템이 칸에 남아 있으면,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,같은 아이템에 대해 창이 다시 열립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,매 시도는 직접 확인해야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.",Enter: 개량하고 확인 창도 승인합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:05f0d151e49b,"One item of the stack is improved: it goes to a free cell, the rest of the stack stays.","Ulepszana jest jedna sztuka ze stosu: trafi do wolnej komorki, reszta stosu zostaje.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:321ce741be17,Automatic refining: reached +%d.,Ulepszanie automatyczne: osiągnięto +%d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:8a1d08892161,Automatic refining: the item was destroyed on the attempt at +%d.,Ulepszanie automatyczne: przedmiot zniknął przy próbie na +%d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:7a0658934c6c,"Automatic refining: the attempt at +%d failed, stopped.","Ulepszanie automatyczne: próba na +%d nieudana, zatrzymano.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:6b1b3ce5c214,Automatic refining stopped at +%d: not enough yang or materials (or the smith refused).,Ulepszanie automatyczne zatrzymane na +%d: brak yang lub materiałów (albo kowal odmówił).,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:6a9c7f463809,Automatic refining stopped at +%d: the smith did not send the window back (too far from the smith?).,Ulepszanie automatyczne zatrzymane na +%d: kowal nie odesłał okna (za daleko od kowala?).,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:30e99e93d150,Automatic refining stopped at +%d: the materials from your storage did not arrive.,Ulepszanie automatyczne zatrzymane na +%d: materiały z magazynu nie doszły.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:092890c54330,Automatic refining stopped at +%d: the window is for another item.,Ulepszanie automatyczne przerwane na +%d: okno jest dla innego przedmiotu.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:2d8368297335,Automatic refining stopped at +%d.,Ulepszanie automatyczne przerwane na +%d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:735f573bb8b4,"Switch on ""Keep refining"" first.","Najpierw włącz ""Ulepszaj dalej"".",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:62fcb8d4a000,Refine automatically up to +%d? (now +%d),Ulepszać automatycznie do +%d? (teraz +%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:68f1d007b6b0,The item may be destroyed; you will spend yang and materials.,"Przedmiot może zniknąć, zużyjesz yang i materiały.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:90c35feed336,Refine up to,Ulepszaj do,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0a736077f376,"The smith refines by itself, step by step, up to the grade chosen.","Kowal ulepsza sam, krok po kroku, do wybranego plusa.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e175262fcc54,Every step is an ordinary attempt: the item may be destroyed.,Każdy krok to zwykła próba: przedmiot może zniknąć.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c0093bef9b88,The arrows < > choose the grade; a click on the box starts.,Strzałki < > wybierają plus; klik w kratkę zaczyna.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5e233ac28853,"Stop: Cancel, closing the window or a click on the box.","Stop: Anuluj, zamknięcie okna albo klik w kratkę.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,게임 서버가 클라이언트보다 오래되어 개량서 사용 시 창고를 쓸 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,게임 서버가 클라이언트보다 오래되어 대장장이가 창고를 쓸 수 없습니다 - 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,개량서 사용 시 창고 재료는 첫 번째 또는 두 번째 마을에서만 쓰입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).",창고지기에게서 창고를 (비밀번호로) 열면 대장장이가 창고 재료를 쓸 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,첫 번째 또는 두 번째 마을의 대장장이만 창고 재료를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","창고 정렬: %d개 이동, %d묶음 합침.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,창고가 이미 정렬되어 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","지금은 창고를 정렬할 수 없습니다 - 거래, 상점 또는 다른 창을 닫으세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,창고를 배치할 수 없습니다 - 아무것도 바뀌지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,사망한 상태에서는 창고를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,창고 상태가 예상과 다릅니다 - 아무것도 바뀌지 않았습니다. Discord에 알려 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,창고가 열려 있지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,서버가 이 창고 기능을 지원하지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,상점을 여는 중에는 창고를 정렬할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","지금은 아이템을 옮길 수 없습니다 - 거래, 상점 또는 다른 창을 닫으세요.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,그 아이템은 더 이상 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,그 칸에 다른 아이템이 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,그 묶음은 가득 찼습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,그 아이템은 그곳에 놓을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,그곳에는 아이템을 놓을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,너무 빠릅니다 - 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,사망한 상태에서는 아이템을 옮길 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,가격 정보 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,자동 가격 방식을 선택하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,선택에 따라 가격이 설정됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,가격: %d / %d 불러옴.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.",아이템 %d개의 시세를 불러오는 중입니다 (약 %d초). 상점 창을 열어 두세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,가격을 바꾸지 않았습니다: 상점 총액이 냥 한도에 도달합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,가격이 없거나 상점 목록이 바뀐 아이템 %d개를 건너뛰었습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,아이템 %d개의 가격 변경을 예약했습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,자동 가격 설정이 중지되었습니다: 상점 창이 닫혔거나 방식이 바뀌었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,상점 가격을 변경했습니다 (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,%d개 항목의 가격을 바꾸지 못했습니다 - 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),빨강 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acef391bd970,Red (M),Czerwone (S),빨강 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb9768bd833b,Red (L),Czerwone (D),빨강 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:811bcac8acce,Blue (S),Niebieskie (M),파랑 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c649b232c58e,Blue (M),Niebieskie (S),파랑 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c9734458346,Blue (L),Niebieskie (D),파랑 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb2e9ec063bb,Green (S),Zielone (M),초록 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),초록 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:232a14f8169a,Green (L),Zielone (D),초록 (대),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),보라 (소),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46ab40326db1,Purple (M),Fioletowe (S),보라 (중),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),보라 (대),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:0cf604cb001b,Arrows,Strzały,화살,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fed5881aed01,Bravery Cape,Peleryna Męstwa,용기의 망토,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b1939203e806,Companion shopping,Zakupy towarzysza,동료 쇼핑,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -7,6 +76,17 @@ c:pbt:7054a7a0a34b,Town maintenance,Porządki w mieście,마을 정비,"client: 
 c:pbt:4a8df3c1caf2,Target quantity in bag (1-10000),Docelowa ilość w torbie (1-10000),가방 목표 수량 (1-10000),"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b0dd7568a666,A valuable ring decorated with jade and turquoise.,Drogocenny pierścień przyozdobiony nefrytem i turkusem.,비취와 터키석으로 장식된 귀한 반지입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e0d6b82950bb,A magical medal that empowers its wearer.,Magiczny medal wspierający jego właściciela.,착용자를 강하게 하는 마법 메달입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aaef230d053a,Target details,Dane celu,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9d963ade8ac7,No information for this target.,Brak danych o tym celu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a45f8055dba4,Target type,Typ przeciwnika,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ace61317349e,Metin stone,Kamień Metin,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:59e84663024c,No special race,Brak specjalnego typu,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c73b23082d89,Effective bonuses: strong against,Działające bonusy: silny przeciwko,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ebea5fed56a8,Monsters,Potworom,몬스터,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18fe0e6b7c5e,Metin stones,Kamieniom Metin,메틴석,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97ec1f0dd897,Bosses,Bossom,보스,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:367c5c385db2,Base resistances,Bazowe odporności (ABS),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0c209a5480fb,Positive: resistance; negative: weakness.,"Dodatnie: odporność, ujemne: podatność.",,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:5eab830be56d,Assault horse,Koń szturmowy,돌격마,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:dcc454f62ce0,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,피해 전환 %.0f%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %.0f",done
 c:pbt:5b721c5524ca,Redirected Damage Reduction %d%%,Zmniejszenie przekierowanych obrażeń %d%%,전환 피해 감소 %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
@@ -89,7 +169,9 @@ c:pbt:01f3a8887d9e,Start again after relogging or warping.,Po relogu lub zmianie
 c:pbt:af169bb89cfb,Combat,Walka,전투,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c397cd03c935,Auto Hunt - Fishing,Auto Lowy - Lowienie,자동 사냥 - 낚시,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a93bdaa0b916,Enable / disable: ,Włącz / wyłącz: ,켜기 / 끄기: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bf101b2a03ea,Fleeing: HP %d%% / %d%%,Ucieczka: HP %d%% / %d%%,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
 c:pbt:206d7fc90dfe,Waiting for HP (%d%%),Czekam na HP (%d%%),HP 대기 중 (%d%%),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b4926f71d0dc,HP recovery: %d%% / %d%%,Regeneracja HP: %d%% / %d%%,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
 c:pbt:63faa9df5d8e,Casting buffs,Rzucam buffy,버프 거는 중,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5e63d1c6c525,Archer: kiting,Łucznik: atak i odwrót,궁수: 카이팅,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:a879bb70b32b,Getting round an obstacle,Omijam przeszkodę,장애물 우회 중,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -105,9 +187,7 @@ c:pbt:1fba5f85a18e,Rider: waiting for monsters,Bojowiec: czekam na potwory,기�
 c:pbt:0d4595f6f665,Target: %s,Cel: %s,대상: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:aa9f8bfd272f,Picking up an item,Podnoszę przedmiot,아이템 줍는 중,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e197f22aac98,Looking for monsters,Szukam potworków,몬스터 찾는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ebea5fed56a8,Monsters,Moby,몬스터,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:9334c768771b,Metins,Metiny,메틴석,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:97ec1f0dd897,Bosses,Bossy,보스,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8a63c51267b7,Click a block to enable or disable its category.,"Kliknij bloczek, aby włączyć lub wyłączyć kategorię.",블록을 클릭하면 해당 분류를 켜거나 끕니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ce091085a07d,Drag blocks: the leftmost category has the highest priority.,Przeciągnij bloczki: kategoria po lewej ma najwyższy priorytet.,블록을 끌어 정렬하세요: 가장 왼쪽 분류가 최우선입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:05dee3243618,"If that category has no target in range, the next enabled category is checked.","Gdy w tej kategorii brak celu w zasięgu, sprawdzana jest kolejna włączona kategoria.",해당 분류에 범위 내 대상이 없으면 다음으로 켜진 분류를 확인합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -127,8 +207,16 @@ c:pbt:69c6b60fdc04,Auto Hunt shortcut,Skrót Auto Łowów,자동 사냥 단축�
 c:pbt:86b0f314fd64,Drag the icon,Przeciągnij ikonę,아이콘을,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:e42192012cec,onto the quickbar,na pasek skrótów,퀵슬롯으로 끌어 놓으세요,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:ab54e01938d6,Range: %d,Zasięg: %d,범위: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a2ad3851b3da,HP recovery,Regeneracja HP,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8f24a5d2a453,Pause to recover HP,Przerwa na regenerację HP,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:934fa28314a8,Starts no new fights until HP recovers. Defends against attackers. Potions and healing remain active.,Nie rozpoczyna nowych walk do odzyskania HP. Broni się przed napastnikami. Mikstury i leczenie nadal działają.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4ce4dabc5c5c,Flee while recovering HP,Uciekaj podczas regeneracji,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fbb29934caba,"Moves away from attackers and nearby aggressive monsters until the HP threshold is reached, including after revival. If no safe route is available, waits without attacking.","Ucieka od napastników i pobliskich agresywnych potworów do osiągnięcia ustawionego HP, także po wskrzeszeniu. Gdy nie ma bezpiecznej drogi, czeka bez atakowania.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:921878e7d23a,Pause below (%),Wstrzymaj poniżej (%),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8347ed94e3c0,Resume at (%),Wznów po osiągnięciu (%),,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:1bc3102ff5fb,Nearest target,Najbliższy cel,가장 가까운 대상,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:7228e11fd406, (mounted: %d), (na koniu: %d), (탑승 시: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:4dfe07d72950,HP recovery requires a server with attacker queries.,Regeneracja HP wymaga serwera z obsługą listy napastników.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:0ab53071a18a,Chest opener,Otwieracz,상자 열기,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:b2a557673b1f,No chest chosen,Nie wybrano skrzynki,선택한 상자 없음,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:da8c5b5304bf,Choose a chest from your inventory,Wybierz skrzynkę z EQ,인벤토리에서 상자를 선택하세요,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -163,6 +251,7 @@ c:pbt:4e4369e733c0,Drain,Wyssanie,흡수,"client: our windows (companion, Auto H
 c:pbt:6de0b0c65644,Poison,Trucizna,독,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:171a0606f7c7,Group,Grupa,파티,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:311524bb82e9,Bleed,Krwaw.,출혈,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3160ab760089,Unknown item - update the client,Nieznany przedmiot – zaktualizuj klienta,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:081bcc41aee6,Drag a chest from your inventory.,Przeciągnij skrzynkę z ekwipunku.,인벤토리에서 상자를 끌어 놓으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:2149cfee07dd,The chest has to be in your inventory.,Skrzynka musi być w ekwipunku.,상자가 인벤토리에 있어야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:8eedb06cea2e,Chest preview,Podgląd skrzynki,상자 미리보기,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -250,13 +339,24 @@ c:pbt:7ea4aadb3cc7,UI scale applies without logging in again.,Skala UI działa b
 c:pbt:65743c433f35,Resize: drag the window edge or maximize.,Rozmiar: przeciągnij krawęź okna lub maksymalizuj.,크기 조정: 창 가장자리를 끌거나 최대화하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:428819bf9e83,Defaults,Domyślne,기본값,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c303c2c4b2d4,Restore 100% scale without changing the resolution.,Przywróć skalę 100% bez zmiany rozdzielczości.,해상도는 그대로 두고 배율을 100%로 되돌립니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: % s | shown as written: % is a percent sign here",done
-c:pbt:3592366b9749,Live changes require windowed mode.,Zmiany na żywo wymagają trybu okna.,실시간 변경은 창 모드에서만 가능합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c0649d3d016,Full screen: the scale changes after the game is restarted.,Pełny ekran: skala zmieni się po ponownym uruchomieniu gry.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:d359989ffc3e,Current scale: %d%%,Aktualna skala: %d%%,현재 배율: %d%%,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:5f7b3fe8f47b,Selected %d%%; at this screen size %d%% at most.,Wybrano %d%%; przy tym rozmiarze ekranu najwyżej %d%%.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:1618b1b35f82,Selected %d%%. Apply saves the scale and closes the game.,Wybrano %d%%. Zastosuj zapisze skalę i zamknie grę.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
 c:pbt:9332442f6b67,Selected %d%%. Click Apply.,Wybrano %d%%. Kliknij Zastosuj.,%d%% 선택됨. 적용을 누르세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:355328634fbb,The window is still being resized. Try again in a moment.,Trwa zmiana rozmiaru okna. Spróbuj za chwilę.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3d2d558f132b,The scale is already %d%%.,Skala %d%% jest już ustawiona.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:64b7936aa753,Full screen: change the scale in the settings on the login screen.,Pełny ekran: zmień skalę w ustawieniach na ekranie logowania.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7b63fddd3848,In full screen the scale changes after the game is restarted.,W trybie pełnoekranowym skala zmienia się po ponownym uruchomieniu gry.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b9e091e9268f,Save %d%% and close the game now?,Zapisać %d%% i zamknąć grę teraz?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
 c:pbt:6915211463ff,Applying display settings...,Zmienianie ustawień obrazu...,화면 설정 적용 중...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:68f51e4b9ca1,These settings could not be applied.,Nie można zastosować tych ustawień.,이 설정을 적용할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:4609daf9e56d,Display change failed (%d).,Błąd zmiany obrazu (%d).,화면 변경 실패 (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:b7829a25d8a8,Display / interface,Obraz / interfejs,화면 / 인터페이스,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ff4bb9544e1,Flame (B),Plomien (B),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:245eb6d90c4a,Flame,Plomien,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ad70fc1b6c02,Slot %d: %s x%d,Miejsce %d: %s x%d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %d",new
+c:pbt:c2f1ec4baf36,Both flame kinds,Plomienie obu odmian,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:0ba78ab6ae88,Hover over a prize to see its bonuses.,"Najedź na nagrodę, aby zobaczyć jej bonusy.",상품에 마우스를 올리면 보너스를 볼 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:09bf7888cde9,You have too few Dragon Coins.,Masz za mało Smoczych Monet.,드래곤 코인이 부족합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bdfce41a74f2,Close other windows and try again.,Zamknij inne okna i spróbuj ponownie.,다른 창을 닫고 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -265,13 +365,16 @@ c:pbt:131c30c3f8e3,You cannot spin the wheel now.,Nie możesz teraz kręcić ko�
 c:pbt:d17ebe45ae48,Unknown way of paying.,Nieznany sposób zapłaty.,알 수 없는 결제 방법입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:754b9a1336eb,The wheel is not available.,Koło niedostępne.,바퀴를 사용할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f75c68dae1b8,You have no Lucky Ticket.,Nie masz Kuponu Losu.,행운의 티켓이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63ee2afda6fe,The wheel has changed - spin again.,Koło się zmieniło - zakręć jeszcze raz.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:6ee419d36065,Wheel of Fortune,Koło Fortuny,행운의 바퀴,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:093b995d0394,WHEEL OF FORTUNE,KOŁO FORTUNY,행운의 바퀴,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:bda9f0424d9e,Spin and discover your prize.,Zakręć i odkryj swoją nagrodę.,돌려서 상품을 확인하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5631850dd717,Skip the animation,Pomiń animację,애니메이션 건너뛰기,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fe6f094f3f44,%s DC,%s SM,%s DC,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b92e1fffeeaf,Lucky Ticket x%d (%d),Kupon Losu x%d (%d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
 c:pbt:4ed3f9288b69,Lucky Ticket (%d),Kupon Losu (%d),행운의 티켓 (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:e1a0229f789b,You have no Lucky Ticket - choose Dragon Coins.,Nie masz Kuponu Losu - zaznacz Smocze Monety.,행운의 티켓이 없습니다 - 드래곤 코인을 선택하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b56427e1fb93,Use %d Lucky Tickets on a spin of the wheel?,Użyć %d Kuponów Losu na obrót koła?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
 c:pbt:b0df33014cd6,Use 1 Lucky Ticket on a spin of the wheel?,Użyć 1 Kuponu Losu na obrót koła?,행운의 티켓 1장을 사용해 바퀴를 돌리시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c2fac2d906b7,Spend %s on a spin of the wheel?,Wydać %s na obrót koła?,%s을(를) 사용해 바퀴를 돌리시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
 c:pbt:bd51a1021c4f,Waiting for the result...,Oczekiwanie na wynik...,결과를 기다리는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -294,8 +397,175 @@ c:pbt:f72dc4dc32aa,A moment...,Chwilę...,잠시만요...,"client: our windows (
 c:pbt:dddec2b560fb,Order sent.,Rozkaz wysłany.,명령을 보냈습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:1f514bb5a432,The chat says who is coming.,"Kto idzie, powie ci czat.",누가 오는지 채팅에 표시됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:21fec24c97da,Orders to your guild's bots,Rozkazy dla botów twojej gildii,길드 봇에게 내리는 명령,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b53353d937de,No response. Click Refresh.,Brak odpowiedzi. Kliknij Odśwież.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2ed967a66970,Waiting for the server...,Czekam na serwer...,서버 응답 대기 중...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d773fd5d0696,Remaining deposits cancelled.,Przerwano kolejne wpłaty.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:80b6149a8314,Stage complete.,Etap ukończony.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:809fd2721855,Stage requirements changed.,Zmieniono warunki etapu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:284e3c77d22a,Missing resources to finish this stage.,Brak zasobu do dokończenia etapu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:42ed57ef9bdb,GM tools,Narzędzia GM,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:085d89003f7b,Yang in your test pool,Yang w Twojej puli testowej,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2f434259607f,Refill covers Yang and materials used by guild tests.,Pakiet uzupełnia Yang i materiały do testów gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5c7784a99aa2,Refill supplies,Uzupełnij pulę,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d19d1498f94f,Test level,Poziom testowy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ee076b3973de,Guild level: %d   |   Test level: %s,Poziom gildii: %d   |   Próg testowy: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",new
+c:pbt:7eb0a6ee41b2,Enter level,Wpisz poziom,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:dc8171cea1c2,Quick funding,Szybka wpłata,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5dfbea1ffbc3,Stop funding,Zatrzymaj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:727cef010497,Fund stage,Sfinansuj etap,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fee23d3108e4,Set test level,Ustaw próg,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:141fcadcaa7e,Stage %d   |   required level %d,Etap %d   |   wymagany poziom %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:79148a2fd6a0,Covers remaining costs from the test pool.,Pokrywa brakujące koszty z puli testowej.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4af071d26ad2,Select a bonus or the next locked smelt.,Wybierz bonus lub najbliższy nieodblokowany przetop.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b52b36b7269f,Back,Powrót,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c3b693802a02,Test supplies,Zasoby testowe,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f981c1b672c0,Your test pool,Twoja pula testowa,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:aba71d0c8a0c,Guild storage,Magazyn gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ef163cd9508c,Waiting for storage data.,Oczekiwanie na dane magazynu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4fdf6f6944d2,Click a material to deposit it.,"Kliknij materiał, by go wpłacić.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:809e9d08b874,Click a material to withdraw it.,"Kliknij materiał, by go wypłacić.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ffddfb486bd9,Materials available for projects.,Materiały dostępne dla projektów.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4a84232fdda2,Your bag,Twój ekwipunek,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:96c1cd036934,Deposit from bag: click a material.,Wpłać z ekwipunku: kliknij materiał.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1d29f69717eb,Drop a bag item here.,Upuść tu przedmiot z ekwipunku.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2ff2e6fcb247,Deposit: ,Wpłać: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:71ff45b4db94,Withdraw: ,Wypłać: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7781270a4238,Guild bonuses,Bonusy gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f691db1faf38,Active / max.,Aktywny / maks.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3aa4b0eac1ed,Waiting for bonus data.,Oczekiwanie na dane bonusów.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e178942312d8,Maximum bonus rank.,Maksymalny poziom bonusu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:89ad8bdf00f4,Rank %d   +%d%%   Guild level %d,Ranga %d   +%d%%   Gildia od %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:797e7086dd9d,Guild smelter,Alchemik gildyjny,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:453a7efb208f,Territory workshop,Warsztat na działce,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:140cca1a9fd7,Waiting for territory data.,Oczekiwanie na dane działki.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e9eaa2e607f7,Open atlas,Otwórz atlas,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c192530082a7,Yang in the test pool,Yang w puli testowej,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8adb99af4a6d,Choose a plot in your kingdom's atlas.,Wybierz działkę w atlasie swojego królestwa.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6e12fdd875b5,The price is paid from the guild treasury.,Zapłata pochodzi ze skarbca gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c79671279bb9,The guild leader purchases the land.,Zakupu dokonuje lider gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:867bcf0f4518,"Build: guild leader, guild level 3.","Budowa: mistrz gildii, poziom gildii 3.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bbd80cf7e2de,Build,Postaw,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cc631034c2d1,Smelts: %d / %d,Przetopy: %d / %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",new
+c:pbt:b3af82fb0c1c,Recipe unlocked,Receptura odblokowana,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7f5f8c4521f2,Smelt,Przetop,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8108130d5bcf,Required guild level: %d,Wymagany poziom gildii: %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:a54d78bb07a9,Unlock the previous smelt first.,Najpierw odblokuj poprzedni przetop.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d8169782b57c,Material,Materiał,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4d447dcaddde,Funded / goal,Wpłata / cel,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:64ae43e8fe76,Cost,Koszt,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c9fcefca88cc,Pool / stock,Pula / mag.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:de9a4aac731b,Have,Masz,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:778627418cb4,Pool,Pula,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fee6c545a6f7,Fund from your pool,Wpłać z puli,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bcecf4562f17,Stock,Mag.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5b3043ebadf0,Fund from guild storage,Wpłać z magazynu,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5f8780d0cc61,Fund,Wpłać,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a0204f290116,From stock,Z magazynu,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f86771e69c26,Test level (1-20),Próg testowy (1-20),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5028313aa562,Fund: ,Wpłać: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:eb5ed39bfb30,War skills,Umiejętności wojenne,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c516ca3d5e47,"Deposit Yang (max. 100,000,000)",Wpłata Yang (maks. 100 000 000),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5452a08a744a,"Enter an amount from 1 to 100,000,000 Yang that you own.","Wpisz kwotę od 1 do 100 000 000 Yang, którą posiadasz.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8a3041eccac7,Guild territory atlas,Atlas działek gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:444821dc27d5,Loading plots...,Wczytywanie działek...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7c62a1424469,Available,Wolna,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fabcbbd4d37a,Guild #%d,Gildia #%d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:54efefeba05e,Purchasing plot...,Trwa zakup działki...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:63504ead7968,Required guild level: %d.,Wymagany poziom gildii: %d.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:31c85dc0c35e,The treasury needs %s more Yang.,Brakuje %s Yang w skarbcu.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:86f4170ab9d0,Plots in your kingdom,Działki Twojego królestwa,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5ea56e0abd2e,Choose a plot on the map or from the list.,Wybierz parcelę na mapie lub na liście.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ebccf951eab8,Plots on this map,Parcele na mapie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:30c51a99d5e7,Occupied,Zajęta,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:580df03672b7,Your guild,Twojej gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c82cbc3f052b,No plots on this map.,Brak działek na tej mapie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b8e91b69ac02,Treasury: %s Yang,Skarbiec: %s Yang,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:9a7b98b289cd,Deposit Yang,Wpłać Yang,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5813228bfdfb,Your guild parcel,Działka Twojej gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:72134f3dcaae,Another guild parcel,Działka innej gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c53aa9ddb82a,Plot #%d  /  %s Yang,Działka #%d  /  %s Yang,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",new
+c:pbt:a56af1beb261,Manage parcel,Zarządzaj działką,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a7cb1ca9f24b,Pay from the guild treasury?,Zapłacić ze skarbca gildii?,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:04a212215ef9,Confirm,Potwierdź,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:adbca1ff9a0b,Purchase plot,Kup działkę,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:53a9f21e7995,Select a plot to see its price.,"Wybierz działkę, aby zobaczyć cenę.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2e4f5ba7b9a5,Player name,Nick gracza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8978ccfea44a,Guild name,Nazwa gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:66757d01be63,Guild enemies,Wrogowie gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:392feef07c53,Players,Gracze,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bb386fdbe7c3,Guilds,Gildie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bde278880b70,No entries.,Brak wpisów.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6c65851c8e06,Add player,Dodaj gracza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b048e788874c,Add guild,Dodaj gildię,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bc3a50ea5e0f,Guild status,Status gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:57a15c335fd5,Guild level,Poziom gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f54f2a689460,Required EXP,Wymagane PD,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1cb449c11266,Members,Liczba członków,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:69a26baddfd1,Average level,Średni poziom,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2de691b60820,Guild menu,Zakładki,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:19553dcb0936,Guild  /  ,Gildia  /  ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c24a7b8b4879,Guild information,Informacje o gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:51b28c1c4da1,Upload mark,Wgraj logo,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ac4b063a0275,Upload symbol,Wgraj symbol,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:312bec8b3279,Donate EXP,Oddaj PD,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ff84d113a44f,Guild management,Zarządzanie gildią,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:feef11dd3554,Leader: ,Lider: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7b657fbe45ef,The guild owns a plot.,Gildia ma własną działkę.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:40210a660e58,The guild has no plot yet.,Gildia nie ma jeszcze działki.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d366fe9851f0,Guild treasury,Skarbiec gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:534fad3701b8,Available funds,Dostępne środki,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5507e04df284,Withdraw all,Wypłać całość,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:566cbad0daf3,Active wars,Aktywne wojny,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:11f1e979262b,No active wars.,Brak aktywnych wojen.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e9927bd65ab8,Declare war,Wypowiedz wojnę,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2782994d9554,Skills available during guild wars.,Umiejętności dostępne podczas wojny gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4128ea6b4089,Restore Dragon Power from the treasury.,Moc Smoka odnowisz ze środków gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e58b629305d5,You are a member of %s.,Należysz do gildii %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:23ca14fad757,Bonuses from guild membership.,Premie z członkostwa w gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f3790452ee11,Book points: %d,Punkty z ksiąg: %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:e6e347ff9a98,Spend one book point on this bonus?,Wydać 1 punkt z ksiąg na tę premię?,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:386da5c26df8,Loading guild rank...,Wczytywanie rangi gildii...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:455fbfeb2e7b,Rank %d / 5   +%d%%  /  max. +%d%%,Ranga %d / 5   +%d%%  /  maks. +%d%%,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:754cc938ed8a,Guild Books grant points.,Punkty daje Księga Gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cc995e5c38c4,Click to spend one point.,"Kliknij, aby wydać 1 punkt.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5397e0583f14,Yes,Tak,예,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:db49a7847cd9,No notices yet.,Brak ogłoszeń.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3bc3cc473ed0,Post notice,Dodaj wpis,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f6fdbe48dc54,Delete,Usuń,삭제,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:618176da4fed,Guild notice board,Tablica gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:05343d2de324,Guild members,Lista członków,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b1e6201772a7,Rank permissions,Uprawnienia rang,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b27d5b61012f,Manage guild parcel,Zarządzanie działką,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ef5e02f4ee31,Select a building.,Wybierz budynek.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4c3f5338cb30,Confirm the previous save first.,Najpierw potwierdź poprzedni zapis.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9c0433c88601,Build first: %s,Najpierw wybuduj: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:03399cb519a7,A building of this type already exists.,Ten typ budynku już stoi na działce.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b2c22624bc25,Choose a place on the map to the left.,Wskaż miejsce na mapie po lewej.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:01edc1a042d6,Build: %s?,Postawić: %s?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:9fa0ff11f2df,Move: %s?,Przesunąć: %s?,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:aa9f3af5d5df,Cost: %s Yang + materials.,Koszt: %s Yang + materiały.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:9d9f66c94398,Moving is free.,Przesunięcie jest bezpłatne.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f2b4b849ab8f,Demolish the building? Costs are not refunded.,Zburzyć budynek? Koszty nie wracają.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cf1c664c2480,Plot #%d,Działka #%d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:40373a2437c3,2. Click a location  >  3. Confirm below,2. Kliknij miejsce  >  3. Zatwierdź poniżej,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d40717393eb4,1. Select a building from the list or map,1. Wybierz budynek z listy lub z mapy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8ed37c2a7cfc,Gold: plan  |  Red: blocked  |  Green: selected,Złoty: plan  |  Czerwony: blokada  |  Zielony: wybrany,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0619aa99c753,Smelter and recipes,Alchemik i przetopy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:53647c36b6b6,Guild buildings,Budynki gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:da33e1b7e0c4,Construction,Budowa,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0a6f32131d64,Existing,Postawione,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:daa2990b3cce,Cost: %s Yang,Koszt: %s Yang,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:d6979e416249,"Choose Move, then click the map.","Wybierz Przesuń, potem kliknij mapę.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:209cf9f56d5e,3. Ready to confirm.,3. Gotowe do zatwierdzenia.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d7dfdf754b1e,Selected: %s,Wybrano: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:e38e24a37a3c,Save position,Zapisz pozycję,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2d0cc4789781,Cancel plan,Anuluj plan,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:76cdb9507216,Move,Przesuń,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:907e5563d797,Demolish,Zburz,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9f5cd8a2e880,Retry,Ponów,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:e716dcb879e3,Hunter's Forge,Kuznia Lowcy,사냥꾼의 대장간,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:6109092d43b6,Choose a weapon,Wybierz bron,무기를 선택하세요,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa14e6b54f4a,This weapon is equipped. Take it off into your inventory and put it into the Forge window again.,Ta bron jest zalozona. Zdejmij ja do ekwipunku i wloz ponownie do okna Kuzni.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:e79f04c2efa3,Left Alt + Shift + LMB: exclude item from sorting,Lewy Alt + Shift + LPM: wyklucz przedmiot z sortowania,왼쪽 Alt + Shift + 좌클릭: 정렬에서 아이템 제외,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:048df8daeef8,Horse inventory,Juki konne,말 인벤토리,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:5892a2faf3f6,Offline shop,Sklep offline,오프라인 상점,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -323,379 +593,109 @@ c:pbt:a59608f4e4c7,Server busy. Check your inventory and log in again.,Serwer za
 c:pbt:712a34b775df,Deleting... Remaining: %d,Usuwanie... Pozostało: %d,삭제 중... 남음: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:4065ab4b7735,Deleted: %d,Usunięto: %d,삭제됨: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
 c:pbt:9d42d4a3da57,Deletion stopped. Check your inventory.,Usuwanie przerwane. Sprawdź ekwipunek.,삭제가 중지되었습니다. 인벤토리를 확인하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee31fc604ee4,Channel CH%d is unavailable.,Kanal CH%d jest niedostepny.,CH%d 채널을 사용할 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:0c0bee78e03f,You are already on CH%d.,Jestes juz na kanale CH%d.,이미 CH%d에 있습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:1310c1044867,"A channel change is already on its way, wait a moment.","Zmiana kanalu juz trwa, poczekaj chwile.",이미 채널 변경 중입니다. 잠시 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:34b7ac96f817,"%s (%d, %d) - right click: remove","%s (%d, %d) - PPM: usuń","%s (%d, %d) - 우클릭: 제거","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
-c:pbt:eb8e9b8f57d4,Marker name,Nazwa znacznika,표식 이름,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d699f1e1bda,"Remove the marker ""%s""?","Usunąć znacznik ""%s""?","""%s"" 표식을 제거하시겠습니까?","client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:c39ee28e28ed,Marker added: %s,Dodano znacznik: %s,표식 추가: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e42f62b0b97f,Marker removed: %s,Usunięto znacznik: %s,표식 제거: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:a84a51bd45f9,This map already has %d markers - remove one to add another.,"Na tej mapie jest już %d znaczników - usuń któryś, aby dodać nowy.",이 지도에는 이미 표식이 %d개 있습니다. 하나를 지워야 추가할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:d5da83c1a7bf,Could not save the markers (%s).,Nie udało się zapisać znaczników (%s).,표식을 저장할 수 없습니다 (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:f5c8926c8e0e,Asking for the drop...,Pobieram drop...,전리품 정보를 요청하는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:004a20a9c523,Nothing drops from the drop tables,Nic nie wypada z tabel dropu,전리품 표에서 떨어지는 것이 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2cc16239a00a,No drop data,Brak danych o dropie,전리품 정보 없음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7239eeb24471,"Invalid Yang amount. Use k, kk or kkk.","Niepoprawna kwota Yang. Uzyj k, kk lub kkk.","냥 금액이 잘못되었습니다. k, kk 또는 kkk를 사용하세요.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3fedea596370,Yang amount exceeds available funds.,Kwota Yang przekracza dostepne srodki.,냥 금액이 보유 금액을 넘습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f8b0eab973b,Enter a valid whole quantity.,Wpisz poprawna liczbe calkowita.,올바른 정수 수량을 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a31d29e9258,Ranking is not available yet.,Ranking nie jest jeszcze dostępny.,순위를 아직 볼 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:056278bc5f06,Loading ranking...,Pobieranie rankingu...,순위 불러오는 중...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f090dd6fc241,Unknown character,Nieznana postać,알 수 없는 캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be0c9e50fbd6,The ranking is still empty.,Ranking jest jeszcze pusty.,순위가 아직 비어 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b3d7eb409803,Ranking is being calculated; try in %d min.,"Ranking liczy się, spróbuj za %d min.",순위를 계산 중입니다. %d분 후 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:41869306de76,Wait a moment before refreshing.,Odczekaj chwilę przed odświeżeniem.,새로 고치기 전에 잠시 기다리세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:14aaac54a39a,Ranking unavailable. Try again.,Ranking chwilowo niedostępny. Spróbuj ponownie.,순위를 볼 수 없습니다. 다시 시도하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:48b07c1a268c,Character Fame,Sława postaci,캐릭터 명성,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f9ed0bb0c39a,Your fame:,Twoja sława:,당신의 명성:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6de63fda11e7,Most famous characters,Najsławniejsze postacie,가장 유명한 캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd48a1149548,Rank,Miejsce,직급,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee9946c82d4a,Character,Postać,캐릭터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:197e7446125b,Fame,Sława,명성,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b2a6a314956,Points,Punkty,포인트,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:615d333fc0e9,F11: open / close,F11: otwórz / zamknij,F11: 열기 / 닫기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:31e5f48153d2,Excluded (GM),Poza rankingiem (GM),제외 (GM),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:159b81bac28d,Your rank: %d of %d  |  Points: %d,Twoje miejsce: %d z %d  |  Punkty: %d,내 순위: %d / %d  |  점수: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:d2dbcb22661f,Your rank: unranked,Twoje miejsce: poza rankingiem,내 순위: 순위 없음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:abb8bf370dc4,Your rank: --,Twoje miejsce: --,내 순위: --,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1a3374ec1079,GM characters are excluded from ranking.,Postacie GM nie biorą udziału w rankingu.,GM 캐릭터는 순위에서 제외됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6315d147b088,Snapshot age: %d min; ranking updates periodically.,Zapis sprzed %d min; ranking aktualizuje się okresowo.,"스냅샷 경과: %d분, 순위는 주기적으로 갱신됩니다.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:4ca88ea465a9,Bots,Boty,봇,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc7a4ca91615,Companion,Towarzysz,동료,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:977d44d9558b,"Summon your companion and set combat and pickup. Its window holds inventory, skills and Alchemy.","Przywołaj pomocnika, ustaw walkę i drop. Plecak, umiejętności i Alchemia są w jego oknie.","동료를 부르고 전투와 줍기를 설정하세요. 동료 창에는 인벤토리, 스킬, 연금술이 있습니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fca1ec8b3d85,Auto Hunt,Auto Łowy,자동 사냥,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aabcf0e5b6dc,"Set targets, range, skills, potions and pickup kinds. Battle Rider fights from a combat horse.","Ustaw cele, zasięg, umiejętności, mikstury i rodzaje dropu. Bojowiec walczy z konia bojowego.","대상, 범위, 스킬, 물약, 줍기 종류를 설정하세요. 전투 기수는 전투마 위에서 싸웁니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a48ae114274d,Pickup filters,Filtry dropu,줍기 필터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:39655da2304d,K / P,K / P,K / P,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cba05c465f4b,K: pickup kinds and filter for Z / `. P: Drop and Filter also govern bots collecting your party share.,K: rodzaje dropu i filtr dla Z / `. P: Drop i Filtr sterują też botami zbierającymi twój drop w PT.,K: 줍기 종류와 Z / ` 필터. P: 전리품과 필터는 파티 몫을 줍는 봇에도 적용됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1305fffae062,Fame and diagnostics,Sława i diagnostyka,명성과 진단,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2c0697bd48b9,"F11 shows your fame and ranking. Ctrl+F11 shows or hides the diagnostics at the top right: position, FPS and camera (by Lostek).","F11 pokazuje twoją sławę i ranking. Ctrl+F11 pokazuje lub ukrywa informacje diagnostyczne w prawym górnym rogu: pozycję, FPS i kamerę (Lostek).","F11은 명성과 순위를 보여 줍니다. Ctrl+F11은 오른쪽 위 진단(위치, FPS, 카메라, 제작: Lostek)을 표시하거나 숨깁니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e797e5eb127,Talk to a bot,Rozmowa z botem,봇과 대화,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c010a73e4748,Whisper,Szept,귓속말,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d8789d3401,"Whisper a bot about gear, skills or prices. You can also call your own companion.","Napisz do bota: zapytaj o ekwipunek, umiejętności lub cenę. Własnego kompana możesz wezwać.","장비, 스킬, 가격에 대해 봇에게 귓속말하세요. 자신의 동료를 부를 수도 있습니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:045d3de3a333,Guild bot orders,Rozkazy gildii,길드 봇 명령,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60a538fbd0ec,"Guild window, Guild bots button: Help me!, Hunt with me, Go back. Or type /gildia_boty help, exp or return.","Okno gildii, przycisk Boty gildii: Pomocy!, Expimy razem, Wracajcie. Albo wpisz /gildia_boty pomoc, exp lub wracajcie.","길드 창의 길드 봇 버튼: 도와줘!, 함께 사냥하자, 돌아가. 또는 /gildia_boty help, exp, return을 입력하세요.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b0811e470d6b,Trade,Handel,거래,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01c3eff2ecb8,Collector's warehouse,Magazyn kolekcjonera,수집가의 창고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f59d1ce059f,Storekeeper,Dozorca,창고지기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:271718233629,Open storage at the Storekeeper with your storage password. Categories and stack transfers save bag space.,"Otwórz magazyn u Dozorcy hasłem magazynu. Kategorie, sortowanie i przenoszenie stosów zwalniają plecak.",창고지기에게서 창고 비밀번호로 창고를 여세요. 분류와 묶음 이동으로 가방 공간을 아낄 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ae436cd86487,Alchemy,Alchemia,연금술,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bf576920600f,Dragon Stones have separate storage and two decks. The Alchemist refines them; the bag button opens the window.,Kamienie Smoka mają osobny ekwipunek i dwa zestawy. Alchemik ulepsza kamienie; przycisk w plecaku otwiera okno.,"용혼석은 별도 창고와 두 개의 덱이 있습니다. 연금술사가 정제하며, 가방 버튼으로 창을 엽니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50d0547e023e,Auto-price,Auto-cena,자동 가격,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d4f1646532a7,Price dialog / Prices,Okno ceny / Ceny,가격 창 / 가격,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:72d5c38573ac,Choose a pricing mode when listing. Prices in shop editing can price the whole shop; you can still type a price.,Wybierz tryb wyceny przy wystawianiu. Ceny w edycji sklepu pozwalają ustawić cały sklep; własną cenę wpiszesz ręcznie.,"물건을 올릴 때 가격 방식을 고르세요. 상점 편집의 가격 버튼으로 상점 전체 가격을 정할 수 있으며, 직접 입력도 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7cd13d0155fe,DC icon by the minimap,Ikona SM przy minimapie,미니맵 옆 DC 아이콘,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b41b57dec0e9,Browse goods for Dragon Coins and Dragon Marks. In-game vouchers increase your account balance.,Przeglądaj ofertę za Smocze Monety i Smocze Znaki. Bony z gry zwiększają saldo konta.,드래곤 코인과 드래곤 마크로 살 수 있는 상품을 둘러보세요. 게임 내 쿠폰은 계정 잔액을 늘려 줍니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e85232d9b07,General Store in M1 and M2,Handlarka Różności w M1 i M2,M1과 M2의 잡화상점,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1d66c80110a4,Search shop offers and buy without walking to a stall. Choose the quantity when buying a stack.,Szukaj ofert sklepów i kupuj bez chodzenia do straganu. Wybierz liczbę sztuk przy zakupie stosu.,상점 매물을 검색해 노점까지 가지 않고 구매하세요. 묶음을 살 때 수량을 고르세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df6f3b8246a4,Drop preview,Podgląd dropu,전리품 미리보기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fcc678277688,Target / chest window,Okno celu / skrzyni,대상 / 상자 창,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3798e1d62a35,"Preview possible monster or chest items. These are drop chances, not a guaranteed reward.","Podgląd pokazuje możliwe przedmioty potwora lub skrzyni. To szanse na drop, nie obietnica nagrody.",몬스터나 상자에서 나올 수 있는 아이템을 미리 봅니다. 확률일 뿐 보장된 보상이 아닙니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6bf5da9c080b,Options,Opcje,옵션,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:18e03e2a37ba,Channels,Kanały,채널,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5539613ae963,"X opens channel selection, X+1-4 moves to CH1-CH4. You can also click a CH button beside the minimap.","X otwiera wybór kanału, X+1-4 przenosi na CH1-CH4. Możesz też kliknąć przycisk CH obok minimapy.","X는 채널 선택을 열고, X+1-4는 CH1-CH4로 이동합니다. 미니맵 옆의 CH 버튼을 눌러도 됩니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d4d4f6e5d4,Tyrion's options,Opcje Tyriona,Tyrion의 옵션,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3d28be36debb,ESC > System options,ESC > Opcje systemowe,ESC > 시스템 옵션,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6df8b42bfc27,"Set field of view, FPS counter, snow and map name. Change font size in the login screen settings.","Ustaw pole widzenia, licznik FPS, śnieg i nazwę mapy. Rozmiar czcionki zmienisz w ustawieniach na ekranie logowania.","시야, FPS 표시, 눈, 맵 이름을 설정하세요. 글자 크기는 로그인 화면 설정에서 바꿉니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dc43c4cead15,Map markers,Znaczniki mapy,지도 표식,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3a0ad638430b,Right click on minimap / M,PPM na minimapie / M,미니맵 우클릭 / M,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5169b3fc6dcb,Mark your position on the minimap. On the M map choose a location; click an existing marker to remove it.,"Na minimapie dodaj znacznik swojej pozycji. Na mapie pod M wskaż miejsce; kliknij istniejący znacznik, aby go usunąć.","미니맵에 현재 위치를 표시하세요. M 지도에서 장소를 고르고, 기존 표식을 클릭하면 지워집니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8a024cdcd7dd,Ctrl+Alt+Right click,Ctrl+Alt+PPM,Ctrl+Alt+우클릭,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca8c9c58af1a,"Click an inventory item or a monster, Metin or NPC target to open its wiki page in your browser.","Kliknij przedmiot w plecaku albo cel: potwora, Metina lub NPC. Otworzysz odpowiednią stronę wiki w przeglądarce.","인벤토리 아이템이나 몬스터, 메틴석, NPC 대상을 클릭하면 브라우저에서 위키 페이지가 열립니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:77c98c75b86a,Statistics and administration,Statystyki i administracja,통계와 관리,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4787c49ab43a,"Y: character statistics. F9: GM panel, F10: GM bot inspection. The GM panels require GM rights.","Y: statystyki postaci. F9: panel GM, F10: podgląd botów dla GM. Uprawnienia GM są wymagane.","Y: 캐릭터 통계. F9: GM 패널, F10: GM 봇 검사. GM 패널은 GM 권한이 필요합니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fe28116e643,Help and horse,Pomoc i koń,도움말과 말,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c520865b329f,H opens and closes help. Ctrl+H keeps its horse action. Some features may be disabled in world settings.,H otwiera i zamyka pomoc. Ctrl+H zachowuje obsługę konia. Część funkcji może być wyłączona w ustawieniach świata.,H로 도움말을 열고 닫습니다. Ctrl+H는 말 기능을 그대로 유지합니다. 일부 기능은 월드 설정에서 꺼져 있을 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:45e5f3f72e96,Commands,Komendy,명령어,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b76736f1ad71,Command  |  what for,Komenda  |  czego dotyczy,명령어  |  용도,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab82dcd51304,/companion summon | wait | free,/towarzysz przywolaj | czekaj | wolny,/companion summon | wait | free,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70d14bc0423a,"Call your companion, make it wait or let it go free. /sidekick is the same. PL: /towarzysz przywolaj | czekaj | wolny.","Wezwij towarzysza, każ mu czekać albo puść go wolno. EN: /companion summon | wait | free (także /sidekick).",동료를 부르거나 기다리게 하거나 자유롭게 둡니다. /sidekick도 같습니다. PL: /towarzysz przywolaj | czekaj | wolny.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e15b3423d84b,/companion fight attack | defend | passive,/towarzysz walka atakuj | obrona | spokoj,/companion fight attack | defend | passive,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a86fcf78cbf3,"Fighting stance: attacks on its own, only defends you, or does not fight. PL: /towarzysz walka atakuj | obrona | spokoj.","Postawa w walce: sam atakuje, tylko cię broni albo nie walczy. EN: /companion fight attack | defend | passive.","전투 태세: 스스로 공격, 당신만 방어, 또는 싸우지 않음. PL: /towarzysz walka atakuj | obrona | spokoj.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a5189a27a351,/companion loot none | owner | all,/towarzysz zbieraj 0 | 1 | 2,/companion loot none | owner | all,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:336d74d33c85,"What it picks up: nothing, only your drop, or the whole drop. PL: /towarzysz zbieraj 0 | 1 | 2.","Co zbiera: nic, tylko twój drop albo cały drop. EN: /companion loot none | owner | all.","줍는 것: 없음, 당신의 전리품만, 또는 전부. PL: /towarzysz zbieraj 0 | 1 | 2.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9f77105e898c,/companion protect | buffs | lure | ranged on|off,/towarzysz ochrona | buffy | luruj | dystans 0|1,/companion protect | buffs | lure | ranged on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55ed9866e01f,Pulls monsters off you when you are dying; buffs you; lures; hits archers and casters first. Example: /companion buffs on.,"Ściąga potwory, gdy giniesz; buffuje cię; luruje; najpierw bije łuczników i magów. Przykład: /towarzysz buffy 1 (EN: buffs on).","당신이 죽어 갈 때 몬스터를 떼어 내고, 버프를 걸고, 유인하며, 궁수와 마법사를 먼저 공격합니다. 예: /companion buffs on.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b544b1c8b96,/companion solo | party | chests | coins | lock on|off,/towarzysz sam | grupa | skrzynki | monety | blokada 0|1,/companion solo | party | chests | coins | lock on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1331f47dc39f,"Plays without you; joins your party; opens chests; spends Dragon Coins; leaves its gear alone. PL: sam, grupa, skrzynki, monety, blokada.","Gra bez ciebie; wchodzi do twojej grupy; otwiera skrzynie; wydaje Smocze Monety; nie rusza swojego sprzętu. EN: solo, party, chests, coins, lock.","당신 없이 플레이, 파티 참가, 상자 열기, 드래곤 코인 사용, 장비 고정. PL: sam, grupa, skrzynki, monety, blokada.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:729c31d7bc58,/companion shopping | fishing | status,/towarzysz zakupy | lowienie | stan,/companion shopping | fishing | status,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7aa7f28eda9,Send it shopping in town or fishing; status says what it is doing now. PL: /towarzysz zakupy | lowienie | stan.,"Wyślij go po zakupy do miasta albo na ryby; stan mówi, co teraz robi. EN: /companion shopping | fishing | status.",마을로 쇼핑을 보내거나 낚시를 시킵니다. status는 지금 하는 일을 알려 줍니다. PL: /towarzysz zakupy | lowienie | stan.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9845468bf74d,/companion bag yang give | take <amount>,/towarzysz eq yang daj | wez <ilosc>,/companion bag yang give | take <amount>,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dd54ec31bf81,Give your companion yang or take it back. Example: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,Daj towarzyszowi yang albo zabierz mu. Przykład: /towarzysz eq yang wez 1000000 (EN: /companion bag yang take 1000000).,동료에게 냥을 주거나 돌려받습니다. 예: /companion bag yang take 1000000 (PL: /towarzysz eq yang wez 1000000).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bcacd50a224c,/companion bag sort | merge,/towarzysz eq sortuj | scal,/companion bag sort | merge,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8ca3b9856d1e,Sorts your companion's bag or merges its stacks; items move with the mouse in its window (P). PL: /towarzysz eq sortuj | scal.,Uporządkuj plecak towarzysza albo scal jego stosy; przedmioty przenosisz myszą w jego oknie (P). EN: /companion bag sort | merge.,동료 가방을 정렬하거나 묶음을 합칩니다. 아이템은 동료 창(P)에서 마우스로 옮깁니다. PL: /towarzysz eq sortuj | scal.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0cd4442a53b9,/companion stats add str|dex|vit|int [n],/towarzysz statystyki dodaj st|dx|ht|iq [ile],/companion stats add str|dex|vit|int [n],"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d4d3f5d67618,"Spends its status points, e.g. /companion stats add str 5; stats reset is its one free reset. PL: statystyki dodaj st 5, statystyki odnow.","Wydaj jego punkty statusu, np. /towarzysz statystyki dodaj st 5; statystyki odnow to jeden darmowy reset. EN: stats add str 5, stats reset.","동료의 스탯 포인트를 씁니다(예: /companion stats add str 5). stats reset은 단 한 번의 무료 초기화입니다. PL: statystyki dodaj st 5, statystyki odnow.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:655f5b60902f,/companion skills | stats manual on|off,/towarzysz umiejetnosci | statystyki reczne 0|1,/companion skills | stats manual on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7ccd36cf825f,"You spend the skill or status points (on), or your companion does it itself (off). PL: /towarzysz umiejetnosci reczne 1.",Punkty umiejętności albo statusu rozdajesz ty (1) albo towarzysz sam (0). EN: /companion skills manual on.,"스킬이나 스탯 포인트를 당신이 쓰거나(on), 동료가 스스로 씁니다(off). PL: /towarzysz umiejetnosci reczne 1.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d87684e23ba,/companion polymorph ask | with | always | off,/towarzysz marmury pytaj | ztoba | zawsze | nie,/companion polymorph ask | with | always | off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:165d83c8b1da,"Polymorph marbles: asks after you transform, transforms with you, always, or never. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","Marmury przemiany: pyta po twojej przemianie, przemienia się z tobą, zawsze albo nigdy. EN: /companion polymorph ask | with | always | off.","변신 구슬: 당신이 변신한 뒤 묻기, 함께 변신, 항상, 또는 안 함. PL: /towarzysz marmury pytaj | ztoba | zawsze | nie.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1f50534ba5f1,/companion saddle auto | always | never,/towarzysz kon auto | zawsze | nigdy,/companion saddle auto | always | never,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba3cea4b7b35,"Fighting from the saddle: by its class, always while you ride, or always on foot. PL: /towarzysz kon auto | zawsze | nigdy.","Walka z konia: według klasy, zawsze z konia, gdy jedziesz, albo zawsze pieszo. EN: /companion saddle auto | always | never.","안장 위 전투: 직업에 따라, 당신이 탈 때 항상, 또는 항상 도보. PL: /towarzysz kon auto | zawsze | nigdy.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dbcee1c65633,/companion exp | support on|off,/towarzysz exp | wsparcie 0|1,/companion exp | support on|off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1872edeb9008,exp: your Anti-Exp Ring stops blocking its EXP (up to your level +30). support: it stays behind and buffs. PL: exp | wsparcie.,exp: twój pierścień anty-EXP nie blokuje jego EXP (do twojego poziomu +30). wsparcie: trzyma się z tyłu i buffuje. EN: exp | support.,exp: 경험치 차단 반지가 동료의 경험치를 막지 않습니다(당신의 레벨 +30까지). support: 뒤에서 버프를 겁니다. PL: exp | wsparcie.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:45c4823e77d1,/companion store on | off,/towarzysz sklep 1 | 0,/companion store on | off,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:28c8e29c04d9,Opens or closes your companion's counter; without a number it says how the counter stands. PL: /towarzysz sklep 1 | 0.,"Otwiera albo zamyka stoisko towarzysza; bez liczby mówi, co się z nim dzieje. EN: /companion store on | off.",동료의 노점을 열거나 닫습니다. 숫자 없이 쓰면 노점 상태를 알려 줍니다. PL: /towarzysz sklep 1 | 0.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01376fa2658c,/companion dismiss yes,/towarzysz odprawa tak,/companion dismiss yes,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a3ea265da44,"Dismisses your companion for good - that character does not come back. Without ""yes"" it only asks. PL: /towarzysz odprawa tak.","Odprawia towarzysza na zawsze - tej postaci już nie odzyskasz. Bez ""tak"" tylko pyta. EN: /companion dismiss yes.","동료를 영구히 해고합니다 - 그 캐릭터는 돌아오지 않습니다. ""yes"" 없이 쓰면 확인만 합니다. PL: /towarzysz odprawa tak.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f2cf0a1a974d,/guild_bots help | exp | return,/gildia_boty pomoc | exp | wracajcie,/guild_bots help | exp | return,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d219c68101f5,Location,Lokalizacja,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2b67d43ba564,Send Report,Wyślij zgłoszenie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bb54db510a92,Accept,Akceptuj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b59cf9ed55bb,Decline,Odrzuć,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9704b6631f6a,Favourite,Ulubiony,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:eaa62926b706,Invite to party,Zaproś do grupy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:12aabd251c42,Unblock,Odblokuj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bfd58ee3a270,Community,Społeczność,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bae7d5be7082,Status,Status,상태,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e25474167710,Status message,Wiadomość statusu,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e2dd1356c149,Invite spouse to party,Zaproś małżonka do grupy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f2811e779e55,Marriage,Małżeństwo,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c11d5e1d35fb,Friends,Znajomi,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d60a85090c55,Blocked players,Zablokowani,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:cdfe806f9b75,Friend requests,Zaproszenia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e0a731d84f24,Add friend,Dodaj znajomego,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:191bee37bff7,Block player,Zablokuj gracza,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c010a73e4748,Whisper,Szepnij,귓속말,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61686e8f14a2,Remove selected contact,Usuń wybraną osobę,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9fb3f8ed9e7d,Guild info,Informacje gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9822f6f1d123,You are not in a guild.,Nie należysz do gildii.,,"client: our windows (companion, Auto Hunt, status lines)",new
 c:pbt:54241a3d0070,Guild,Gildia,길드,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:26a3ee028295,"Your guild's bots: help in a fight, hunt together, go back. The same as the guild window's Guild bots button; /gildia_boty takes these words too.","Boty twojej gildii: pomoc w walce, wspólny exp, powrót. To samo co przycisk Boty gildii w oknie gildii. EN: /guild_bots help | exp | return.","길드 봇: 전투 지원, 함께 사냥, 복귀. 길드 창의 길드 봇 버튼과 같으며, /gildia_boty도 이 단어를 받습니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d99afeeb7ea6,/dice [max] | /dice <min> <max>,/dice [max] | /dice <od> <do>,/dice [max] | /dice <min> <max>,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3e82846c325,Game,Gra,게임,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3f0b780c77db,"Rolls a die, 1-100 by default; your whole party sees the result. Example: /dice 6.","Rzut kością, domyślnie 1-100; wynik widzi cała twoja grupa. Przykład: /dice 6.",주사위를 굴립니다(기본 1-100). 파티 전체가 결과를 봅니다. 예: /dice 6.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee888c848ef5,/ride | /unmount,/ride | /unmount,/ride | /unmount,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3b79e36c67ea,"Get on your horse or on a mount seal (the same as Ctrl+G), and get off it.",Wsiądź na konia albo na wierzchowca z pieczęci (to samo co Ctrl+G) i zsiądź z niego.,말이나 탈것 인장에 타고 내립니다(Ctrl+G와 같음).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de2ac055257a,/restart_here | /restart_town,/restart_here | /restart_town,/restart_here | /restart_town,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:027b10fe054e,After dying: stand up here or in town - the same as the buttons of the death window.,Po śmierci: wstań w miejscu albo w mieście - to samo co przyciski okna śmierci.,사망 후: 여기서 또는 마을에서 일어납니다 - 사망 창의 버튼과 같습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ebf877f1789,/escape,/escape,/escape,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2caa7ddc09f5,"Frees a character stuck on blocked ground. Not in a fight or while dead, and only once in a while.","Uwalnia postać, która utknęła w zablokowanym miejscu. Nie w walce i nie po śmierci, raz na jakiś czas.",막힌 지형에 갇힌 캐릭터를 꺼냅니다. 전투 중이나 사망 상태에서는 안 되며 가끔만 쓸 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:966308760d05,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <ile>,/stat st|dx|ht|iq   /str+ /dex+ /con+ /int+ <n>,"client: our windows (companion, Auto Hunt, status lines) | keep: |c...|r colour codes",done
-c:pbt:ba1d534991bf,"Spends one status point, or several at once, e.g. /str+ 10 (strength) or /con+ 5 (vitality).","Wydaj jeden punkt statusu albo kilka naraz, np. /str+ 10 (siła) albo /con+ 5 (witalność).","스탯 포인트를 하나 또는 여러 개 한 번에 씁니다(예: /str+ 10 근력, /con+ 5 체력).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fabdd75fd1db,/change_channel 1-4,/change_channel 1-4,/change_channel 1-4,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b390b94e5ce,Moves you to another channel - the same as X+1-4 or a CH button by the minimap.,Przejdź na inny kanał - to samo co X+1-4 albo przycisk CH przy minimapie.,다른 채널로 이동합니다 - X+1-4나 미니맵 옆 CH 버튼과 같습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8e5e664a3a76,/bot_rank,/bot_rank,/bot_rank,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bb87dc9da092,"The ten highest-level bots in the game, with their position and party.","Dziesięć botów o najwyższym poziomie w grze, z ich pozycją i grupą.","게임에서 레벨이 가장 높은 봇 10명과 위치, 파티.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:adbaee89f258,/logout | /quit | /phase_select,/logout | /quit | /phase_select,/logout | /quit | /phase_select,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4118bbd7b8fd,"Log out, quit the game, or go back to character selection (after a few seconds).","Wyloguj się, zamknij grę albo wróć do wyboru postaci (po kilku sekundach).","로그아웃, 게임 종료 또는 캐릭터 선택으로 돌아가기(몇 초 후).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b66a609bf96f,Help - Metin2 Singleplayer,Pomoc - Metin2 Singleplayer,도움말 - Metin2 Singleplayer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fcebeefad3c,Basics,Podstawy,기본,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:664add438097,Wikipedia,Wikipedia,위키백과,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50b7b203dcfd,H / Esc: close. Basics: original game help.,H / Esc: zamknij. Podstawy: oryginalna pomoc gry.,H / Esc: 닫기. 기본: 게임 원래 도움말.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f13dfacada70,< Back,< Wstecz,< 뒤로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f80fd0c9d9fb,Next >,Dalej >,다음 >,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fc338f87a058,Features,Funkcje,기능,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b054422f6f8a,Feature / where to open,Funkcja / gdzie otworzyć,기능 / 여는 곳,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c5f5fe5c326b,Companion (P),Towarzysz (P),동료 (P),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b5948930ebb,Auto Hunt (K),Auto Łowy (K),자동 사냥 (K),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9b7e12add513,Pick-up,Podnoszenie,줍기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7decf1aa22b,Filter,Filtr,필터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a5041fdaa241,Set up,Ustaw,설정,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c3ac5656aeda,Z and ` pick up only what Set up keeps,"Z i ` podnoszą tylko to, co włączone w Ustaw",Z와 `는 설정에서 남긴 것만 줍습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6bab26bc7668,Next target,Kolejny cel,다음 대상,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7ae0e5ed69cb,With bow,Z łukiem,활 사용 시,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a91bcce893b5,Always,Zawsze,항상,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee07ee0a8d12,After a kill: next one you already hit,"Po zabiciu: kolejny, którego już biłeś",처치 후: 이미 때린 다음 대상,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d824442e12c7,"Valuable equipment found (level 30, 70 or 75+). Continue?","Wykryto cenny ekwipunek (poziom 30, 70 lub 75+), kontynuować?","귀중한 장비를 찾았습니다(레벨 30, 70 또는 75+). 계속하시겠습니까?","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7eb0443b6298,Ninja,Ninja,자객,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9777182d69c2,Sura,Sura,수라,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f2815c3b7ce9,at your side,przy tobie,곁에 있음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:18b0c6247e19,free hand,wolna ręka,자유 행동,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d896fded55f,waiting here,czeka w miejscu,여기서 대기 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c651445273f6,shopping,robi zakupy,쇼핑 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eab0f0d67576,fishing,łowi ryby,낚시 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b9e422260511,No 1st hit,Nie 1. atak,선공 안 함,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cb96ed31c4f2,Don't fight,Nie walcz,전투 안 함,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:832f36669230,hits everything nearby,bije wszystko w pobliżu,주변의 모든 대상을 공격,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d2b0517bf98e,"never first, guards you and itself","nie zaczyna, broni ciebie i siebie",먼저 공격하지 않고 당신과 자신을 보호,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9123d8c25e5c,does not fight at all,nie walczy wcale,전혀 싸우지 않음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4481948392a8,Nothing,Nic,없음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f58529bb3d25,Your drop,Twój drop,당신의 전리품,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4a66d1480779,Everything,Wszystko,전부,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ead533685e26,Weapon,Broń,무기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:29b791a35bd7,Helmet,Hełm,투구,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:08271419319f,Shield,Tarcza,방패,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:08b9fcb7a3be,Bracelet,Bransoleta,팔찌,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:200b37cbaa9c,Necklace,Naszyjnik,목걸이,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be320b06f43b,Vitality,Witalność,체력,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c698f940a03e,Intelligence,Inteligencja,지능,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24d3e4fdd9a8,Strength,Siła,근력,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:585f02aaec97,Dexterity,Zręczność,민첩성,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da2b63a76327,Raises HP and defence.,Podnosi PŻ i obronę.,HP와 방어력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8123c3249b76,Raises SP and magic attack.,Podnosi PE i magiczny atak.,SP와 마법 공격력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d9e43566a99,Raises attack.,Podnosi atak.,공격력을 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6eec259246b0,Raises attack and evasion.,Podnosi atak i uniki.,공격력과 회피를 올립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca8aa56a1d8d,Own EXP,Osobny EXP,자체 경험치,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2f2467b6ce3d,"EXP despite your Anti-Exp Ring, up to your level +30.","EXP mimo twojego anty-EXP, do twojego poziomu +30.","경험치 차단 반지를 껴도 경험치를 얻으며, 당신의 레벨 +30까지입니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8dd3ec3d963a,Behind,Z tylu,후방,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:494b05fa47c9,"While following, stays behind and buffs without fighting. Wait and other orders take priority.",Przy tobie stoi z tylu i buffuje bez walki. Czekaj i inne polecenia maja pierwszenstwo.,따라다니는 동안 뒤에 머물며 싸우지 않고 버프를 겁니다. 대기와 다른 명령이 우선합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9fc93acaa44f,Solo,Solo,솔로,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9d950ac96af,Lock EQ,Blokada,장비 잠금,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a6a535b865db,Ranged,Dystans,원거리,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2ed967a66970,Waiting for the server...,Czekam na odpowiedź serwera...,서버 응답 대기 중...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7f2eda10563c,You have no companion yet.,Nie masz jeszcze towarzysza.,아직 동료가 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:714419ccc680,"Choose one in the ""Companion"" letter.","Wybierz go w liście ""Towarzysz"".","""동료"" 편지에서 선택하세요.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df74bda1d464,Companions are switched off on this server.,Towarzysze są wyłączeni na tym serwerze.,이 서버에서는 동료가 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e1cae9b3d37a,The server owner turns them on in the launcher.,Włącza je właściciel serwera w launcherze.,서버 운영자가 런처에서 켭니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:690c9c1f2d7d,In the game in a moment.,Za chwilę będzie w grze.,곧 게임에 들어옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:441e7097a612,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893a구매 가능 [|r%d|cffbc893a]|r,"client: our windows (companion, Auto Hunt, status lines) | keep: %d; |c...|r colour codes",done
-c:pbt:4634cb47e6fe,Ctrl + click: several points at once,Ctrl + klik: kilka punktów naraz,Ctrl + 클릭: 여러 포인트 한 번에,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e94758304eae,Spent: %d,Rozdane: %d,사용: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:41fb986a7235,From the gear: %+d,Z ekwipunku: %+d,장비 보너스: %+d,"client: our windows (companion, Auto Hunt, status lines) | keep: %+d",done
-c:pbt:507594e2ae0d,%s: how many points?,%s: ile punktów?,%s: 몇 포인트?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e01c43a069d2,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienia),기본 방어력: %d (+%d%% 강화),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:ef6155a5eccf,Bag,Plecak,가방,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44e6822a751d,Wearing,Na sobie,착용 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:66b68f64fd6f,Click: the companion's bag,Klik: plecak towarzysza,클릭: 동료 가방,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3aaaddc88c7,You spend the points:,Punkty rozdaję sam:,포인트를 직접 사용:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c0e3b171ed73,Click a skill above.,Kliknij umiejętność powyżej.,위의 스킬을 클릭하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ef02f539d8c9,Right click on it: reset.,Prawy klik na niej: zeruj.,우클릭: 초기화.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:016b47a6f23c,Right click: reset,Prawy klik: zeruj,우클릭: 초기화,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7cc7cc5ae55d,Level: %s,Poziom: %s,레벨: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:9013310682e3,Your companion gets a path at level 5.,Towarzysz dostanie ścieżkę na 5 poziomie.,동료는 레벨 5에서 수련을 정합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb9840c89413,Your companion's AI spends the points.,Punkty rozdaje SI towarzysza.,동료 AI가 포인트를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:beadfb865e87,"The points wait for you (""+""). ""no"" above: the AI spends them.","Punkty czekają na ciebie (""+""). ""nie"" wyżej: rozda je SI.","포인트가 대기합니다(""+""). 위에서 ""아니요"": AI가 사용합니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44c57abd888a,Reset,Zeruj,초기화,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3799b2ccda5c,Reset %s?,Wyzerować %s?,%s을(를) 초기화하시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:ee5434bb8744, Its Master grade will be lost., Mistrz przepadnie., 마스터 등급이 사라집니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23e13c4fb77e,"Matching Forgetfulness Books: %d, or 1 Skill Reset Document.",%d KZ tej umiejętności albo 1 Zwój Powrotu Umiejętności.,"맞는 망각의 서: %d권, 또는 스킬 초기화 문서 1장.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:1d93c338318a,Master: 1 Skill Reset Document. Forgetfulness Books cannot be used.,Mistrz: 1 Zwój Powrotu Umiejętności. KZ nie zadziałają.,마스터: 스킬 초기화 문서 1장. 망각의 서는 쓸 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:64fbd995d3b6,Change,Zmień,변경,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:05e626d6b14f,Scroll of Lore Change: every skill from zero and a path of your choice.,Zwój Zmiany Profesji: umiejętności od zera i ścieżka do wyboru.,수련 변경 주문서: 모든 스킬이 0부터 시작하며 원하는 수련을 고릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8922b50fb048,Which path? Scroll of Lore Change (from level 31).,Która ścieżka? Zwój Zmiany Profesji (od 31 poziomu).,어떤 수련을 고르시겠습니까? 수련 변경 주문서(레벨 31부터).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01cdda7755a1,Path: %s. Every skill back to zero?,Ścieżka: %s. Wszystkie umiejętności od zera?,수련: %s. 모든 스킬을 0으로 되돌리시겠습니까?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e171d2e76cbf,Uses 1 scroll from your companion's bag or yours.,Zużywa 1 zwój z plecaka towarzysza albo twojego.,동료의 가방이나 당신의 가방에서 주문서 1개를 사용합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ca032b5844df,What it does,Co robi,하는 일,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cded093321dd,Orders,Polecenia,명령,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a088b311505,Drop,Drop,버리기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:171ca0385a0e,Behaviour,Zachowanie,행동,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:490a7e43af7a,Now: %s,Teraz: %s,현재: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:fcafeb95b595,"Now: down, getting up soon","Teraz: leży, zaraz wstanie","현재: 쓰러짐, 곧 일어남","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cb83ead9f0c8,Where: %s,Gdzie: %s,위치: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:350f8e6f6efc,%d red / %d blue,%d czerw. / %d nieb.,빨강 %d / 파랑 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:2fc24d47c27c,Mode: %s,Tryb: %s,모드: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:291a0a58dfa6,Call,Przywołaj,호출,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8eda27bd36f3,Wait here,Czekaj tu,여기서 대기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54e59352a112,Free hand,Wolna ręka,자유 행동,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0ea83e1b6ffd,Buy goods,Kup towar,물건 구매,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee45c30326b7,Report,Raport,신고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:70afe9eff3f2,Dismiss,Odpraw,해고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55de88709232,Shop,Sklep,상점,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:76a032e9c77c,Closing,Zamyka,닫는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da7a68734367,off,wył.,끔,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:db3d405b1067,on,wł.,켬,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a447aafdb229,closing,zamykanie,닫는 중,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50eabe984380,Shop: %s,Sklep: %s,상점: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:e84d751a9a91,Sell surplus from the whole bag?,Sprzedawać z całej torby?,가방 전체의 남는 아이템을 파시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1be64c9b126a,Gifts and needed items stay.,Dary i potrzebne rzeczy zostają.,선물과 필요한 아이템은 남습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c406ae02ba8c,Companion shop,Sklep towarzysza,동료 상점,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8eea33492d3d,"Surplus from every bag page, including new drops.","Nadwyżki ze wszystkich stron torby, także nowy drop.",새 전리품을 포함해 가방 모든 페이지의 남는 아이템.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6ce304c1ac99,"Gifts, needed items and pinned gear stay.","Bez darów, potrzebnych rzeczy i przypiętego sprzętu.","선물, 필요한 아이템, 고정된 장비는 남습니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f53c8066c220,Items dragged in the window wait at least 5 min.,Rzeczy przeciągnięte w oknie czekają co najmniej 5 min.,창에 끌어 넣은 아이템은 최소 5분 기다립니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:db74c26928fc,Bot prices. Collect proceeds with Take yang.,Ceny jak u botów. Utarg odbierasz przyciskiem Weź yang.,"봇 가격입니다. 수익은 ""냥 받기""로 수령하세요.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ec270b63b247,"Service at the M1 stand, channel 1, when free.","Obsługa przy sklepie w M1, kanał 1, gdy ma czas.","M1 노점에서 판매합니다(채널 1, 비어 있을 때).","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ac39ca018163,"Bot markdowns, no automatic return after 24 h.","Przeceny jak u botów, bez zwrotu po 24 h.","봇이 가격을 내리며, 24시간 후 자동 반환은 없습니다.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:98ad37ae5373,Closing returns goods to the bag when there is room.,"Zamknięcie zwraca towar do torby, gdy jest miejsce.",닫으면 공간이 있을 때 물건이 가방으로 돌아옵니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e0a2aa2d518,Drag a return in the bag to allow listing again after 5 min.,"Przeciągnij zwrot w torbie, aby po 5 min mógł znów trafić na ladę.",반환된 아이템을 가방에서 끌면 5분 후 다시 판매할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:97c09dcce9de,Dismiss your companion for good? This cannot be undone.,Odprawić towarzysza na dobre? Tego nie da się cofnąć.,동료를 영구히 해고하시겠습니까? 되돌릴 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:300d29fd5f32,Inventory,Ekwipunek,인벤토리,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a2ae3b40edd1,Filter: %s,Filtr: %s,필터: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:8259bc236291,Pick-up filter,Filtr podnoszenia,줍기 필터,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:055a2b1a877c,Yes: it picks up only what the filter,"Tak: podnosi tylko to, co bierze filtr",예: 자동 사냥 필터(아이템 선택...)가,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a7960e0c88ae,of your Auto Hunt takes (Select items...):,twoich Auto Łowów (Wybierz przedmioty...):,가져가는 것만 줍습니다:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:888977cb78eb,"categories, exceptions, Min. + and Gear: min.","kategorie, wyjątki, Min. + i Ekwipunek: min.","분류, 예외, Min. + 및 장비: 최소","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:821bdbff73d3,"Gear: min. N - weapons, armour and jewellery","Ekwipunek: min. N - broń, zbroje i ozdoby","장비: 최소 N - 무기, 갑옷, 장신구는","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a58ffb4cc925,only with at least N bonus lines;,tylko z co najmniej N liniami bonusu;,보너스 줄이 N개 이상일 때만;,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a9ca83509433,a weapon's average and skill damage are no bonus.,średnie i um. obrażenia broni to nie bonusy.,무기의 평균 피해와 스킬 피해는 보너스가 아닙니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:221b94c16ff2,0 or empty: no such condition.,0 lub puste: bez tego warunku.,0 또는 빈칸: 해당 조건 없음.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9fbd57b5636,No: everything its Drop allows.,"Nie: wszystko, na co pozwala Drop.",아니요: 전리품 설정이 허용하는 모든 것.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:176701f73b7f,Auto Hunt's settings cannot be read.,Nie mogę odczytać ustawień Auto Łowów.,자동 사냥 설정을 읽을 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9c8748499dbb,out of the game,poza grą,게임 밖,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6c7b16e4ff86,%s (another map),%s (inna mapa),%s (다른 맵),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:8a8f4d4713fe,another map,inna mapa,다른 맵,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:782cb23f1809,next to you,obok ciebie,옆에 있음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d8b02f2ec520,%d m from you,%d m od ciebie,%d m 떨어짐,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:4c29870ccbea,Rank points:,Punkty Rangi:,선악치:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:863b8eb114bf,Companion has a matching marble.,Towarzysz ma marmur tego potwora.,동료에게 맞는 구슬이 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c08f3b6a6321,Use their own marble?,Użyć jego marmuru?,동료의 구슬을 쓰시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ddf9f0e22761,Companion's inventory,Ekwipunek towarzysza,동료 인벤토리,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:944550bc67c5,Your companion is not in the game.,Towarzysz nie jest teraz w grze.,동료가 게임에 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b03511c5e5d3,Companions are switched off here.,Towarzysze są tu wyłączeni.,이곳에서는 동료가 꺼져 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0699ba601eaf,Update the client and the server.,Zaktualizuj klienta i serwer.,클라이언트와 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2eba6a03b89a,Unpin,Odepnij,고정 해제,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1ca623701c36,Merge and sort the companion's bag,Scal i uporządkuj torbę towarzysza,동료 가방 합치기 및 정렬,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed5a8a14d33a,Deck %d,Zestaw %d,덱 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:95e970d81c5d,%d / %d,%d / %d,%d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:c1876298835d,Drag to your bag: the stone goes into your Alchemy.,Przeciagnij do swojej torby: kamien trafi do twojej alchemii.,가방으로 끌어 놓으면 돌이 당신의 연금술로 갑니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7c7cb72859f2,Pick up an item and click the pin to let your companion choose its equipment again.,"Podnieś przedmiot i kliknij pinezkę, aby towarzysz znów sam dobierał wyposażenie.",아이템을 집고 핀을 클릭하면 동료가 다시 장비를 직접 고릅니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:31c5ddebe711,Nothing to unpin there.,Tego nie trzeba odpinać.,고정 해제할 것이 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:be28809fcf22,Take it off into the bag first.,Zdejmij go najpierw do torby.,먼저 벗어서 가방에 넣으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e15020ab0e03,Give it an item from your bag.,Daj mu przedmiot z torby.,가방의 아이템을 주세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1b51ab5faba0,Your companion takes whole stacks only.,Towarzysz bierze tylko cały stos.,동료는 묶음 전체만 받습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fbefae1e9659,Give,Daj,지급,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:56806a1ffdde,Take,Weź,꺼내기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a92e0affbd0d,Give yang to your companion,Daj yang towarzyszowi,동료에게 냥 주기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:57411afba7f3,Take yang from your companion,Weź yang od towarzysza,동료에게서 냥 받기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8f813dca1c7d,Amount: ,Kwota: ,금액: ,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1062bffa9428,Your companion has moved it already.,Towarzysz już go przestawił.,동료가 이미 옮겼습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:577ef7dc1516,Destroy,Zniszcz,파괴,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24d46630b72e,A worn piece cannot be destroyed - take it off into the bag first.,Noszonego nie da się zniszczyć - zdejmij go najpierw do torby.,착용 중인 장비는 파괴할 수 없습니다 - 먼저 벗어서 가방에 넣으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:428e6ef00a33,Only an item of your companion's bag can be destroyed.,Zniszczyć można tylko przedmiot z torby towarzysza.,동료 가방의 아이템만 파괴할 수 있습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:00e29b7a7f93,Update the server to destroy your companion's items.,"Zaktualizuj serwer, aby niszczyć przedmioty towarzysza.",동료의 아이템을 파괴하려면 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cd625c754905,Destroy: %s?,Zniszczyć: %s?,파괴: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:cbb3f03839e6,Your companion's item will be gone for good.,Przedmiot towarzysza zniknie na zawsze.,동료의 아이템이 영구히 사라집니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f03d78610e78,Click items in the companion bag - the red ones will be destroyed. Then click the bin.,Klikaj przedmioty w torbie towarzysza - czerwone zostaną zniszczone. Potem kliknij kosz.,동료 가방의 아이템을 클릭하세요 - 빨간 아이템이 파괴됩니다. 그다음 휴지통을 클릭하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b153f417577a,Bin: click items in the bag (Esc - leave).,Kosz: kliknij przedmioty w torbie (Esc - wyjście).,휴지통: 가방의 아이템을 클릭하세요 (Esc - 나가기).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c73d382fafe7,Bin: %d selected. Click the bin to destroy.,"Kosz: wybrano %d. Kliknij kosz, aby zniszczyć.",휴지통: %d개 선택. 휴지통을 클릭하면 파괴됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:d059179fdef8,Destroy your companion's items for good: %d?,Zniszczyć na zawsze przedmioty towarzysza: %d?,동료의 아이템을 영구히 파괴하시겠습니까: %d?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:fd34ec265936,Destroying... %d / %d,Niszczę... %d / %d,파괴 중... %d / %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:bc62a41dd168,Destroyed: %d of %d.,Zniszczono: %d z %d.,파괴: %d / %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:9d681c525103,Skipped (your companion moved or sold them): %d.,Pominięte (towarzysz je przestawił lub sprzedał): %d.,건너뜀 (동료가 옮기거나 팔았음): %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:3d88aaa54dae,Destroying items...,Trwa niszczenie przedmiotów...,아이템 파괴 중...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3cea6bd97e94,Destroying stopped: %d of %d destroyed.,Niszczenie przerwane: zniszczono %d z %d.,파괴 중지: %d / %d 파괴됨.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:e9d911b5064b,The server does not answer - destroying stopped.,Serwer nie odpowiada - niszczenie przerwane.,서버가 응답하지 않아 파괴를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4dad3d0578fd,Your companion moved a selected item - it was unselected.,Towarzysz przestawił zaznaczony przedmiot - odznaczono go.,동료가 선택한 아이템을 옮겨 선택이 해제되었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e2bcda84facb,Done.,Gotowe.,완료.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2f34166d6b1f,Your companion refused.,Towarzysz odmówił.,동료가 거절했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:020c883ef1d7,There is nothing there.,Tam nic nie ma.,아무것도 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36a5b0d1e792,A wrong order.,Złe polecenie.,잘못된 명령입니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aa0d618af75d,Put on by you - your companion will not take it off,Założone przez ciebie - towarzysz tego nie zdejmie,당신이 착용시킴 - 동료가 벗지 않습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f4baea35a4d3,A gift from you,Prezent od ciebie,당신이 준 선물,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c2a844c68869,Taken off by you - your companion will not put it on,Zdjęte przez ciebie - towarzysz sam tego nie założy,당신이 벗김 - 동료가 착용하지 않습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:20e23c7450d0,Ctrl + click: unpin,Ctrl + klik: odepnij,Ctrl + 클릭: 고정 해제,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e25ae629fc65,Shift + right click: remove the gift mark,Shift + prawy klik: zdejmij status prezentu,Shift + 우클릭: 선물 표시 제거,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:37587943934f,The gift mark changes only on an item of your companion's bag.,Status prezentu zmienisz tylko na przedmiocie z torby towarzysza.,선물 표시는 동료 가방의 아이템에서만 바뀝니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93d25e2abc6d,Update the server to change the gift mark.,"Zaktualizuj serwer, aby zmieniać status prezentu.",선물 표시를 바꾸려면 서버를 업데이트하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2d9d6c383318,Remove the gift mark: %s?,Zdjąć status prezentu: %s?,선물 표시 제거: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:0847873f9a95,Your companion will be able to sell it.,Towarzysz będzie mógł to sprzedać.,동료가 이 아이템을 팔 수 있게 됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:558fed72ccfd,Mark as a gift: %s?,Oznaczyć jako prezent: %s?,선물로 표시: %s?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:1d2946d6078f,Your companion will not sell it.,Towarzysz tego nie sprzeda.,동료가 이 아이템을 팔지 않습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e699a0e6ffe7,Right click: put on,Prawy klik: załóż,우클릭: 착용,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d30caa454ba2,Right click: take off,Prawy klik: zdejmij,우클릭: 벗기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:262cdf2df410,Skill %d,Umiejętność %d,스킬 %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:3c1bcbc84ebb,Companion storage,Magazyn towarzysza,동료 창고,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ab8163c6ce45,Unlock equipment choice (Ctrl + click),Odblokuj dobór wyposażenia (Ctrl + klik),장비 선택 잠금 해제 (Ctrl + 클릭),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:985618d4c29b,Companion bin,Kosz towarzysza,동료 휴지통,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e33027ebddb1,Companion alchemy,Alchemia towarzysza,동료 연금술,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7d622916e7a6,Storage contains %s entries. Dismissing deletes its contents.,Magazyn zawiera %s wpisów. Odprawienie usunie jego zawartość.,창고에 %s개 항목이 있습니다. 해고하면 내용물이 삭제됩니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:024b1d19eeee,Cancel to collect your items first. This cannot be undone.,"Anuluj, aby najpierw odebrać przedmioty. Tej operacji nie można cofnąć.",먼저 아이템을 회수하려면 취소하세요. 되돌릴 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54913f9af9ff,Dismiss and delete,Odpraw i usuń,해고 및 삭제,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d2c7d905301d,Split item,Rozdzielanie przedmiotu,아이템 나누기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9787f6ca7771,Units / package size,Liczba sztuk / wielkość paczki,개수 / 묶음 크기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93af25db220a,Into packages (units):,Na paczki (limit szt.):,묶음으로 (개수):,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a999012ffb8,Packages,Paczki,묶음,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:73595d8a7aa0,%d x %d | rest: %d,%d x %d szt. | reszta: %d,%d x %d | 남음: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:a45acfd30f82,Enter a valid amount,Wpisz prawidłową ilość,올바른 수량을 입력하세요,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d0fca43cc0ef,The package size must be above zero and below the stack.,Wielkość paczki musi być mniejsza od stosu i większa od zera.,묶음 크기는 0보다 크고 전체 묶음보다 작아야 합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f0946633c948,Enter a valid number of units for the packages.,Wpisz prawidłową ilość sztuk na paczki.,묶음에 넣을 올바른 개수를 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:54e99b57acbe,Split the item into packages?,Rozdzielić przedmiot na paczki?,아이템을 묶음으로 나누시겠습니까?,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:289e7339c31c,%d packages of %d | rest: %d,%d paczek po %d szt. | reszta: %d szt.,%d묶음 × %d개 | 남음: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:fc8230b4119a,Split,Rozdziel,나누기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0b3ea484948e,The item changed. Choose it again.,Przedmiot zmienił się. Wybierz go ponownie.,아이템이 바뀌었습니다. 다시 선택하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1e4664d81d6a,Splitting into packages works in the normal inventory.,Rozdzielanie na paczki działa w zwykłym ekwipunku.,묶음 나누기는 일반 인벤토리에서 됩니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:01c061d499e9,Close the trade or the other window and put down the item on your cursor.,Zamknij handel lub inne okno i odłóż przedmiot z kursora.,거래나 다른 창을 닫고 커서에 든 아이템을 내려놓으세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:93c488b48c00,"Invalid package size, or the stack changed.",Nieprawidłowa wielkość paczki lub stos został zmieniony.,묶음 크기가 잘못되었거나 묶음이 바뀌었습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:20445e0682e2,Enter units for at least one package.,Podaj liczbę sztuk na co najmniej jedną paczkę.,최소 한 묶음의 개수를 입력하세요.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:191c4fb7906a,Splitting into packages stopped.,Rozdzielanie na paczki zostało zatrzymane.,묶음 나누기를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:12f2bb783251,The server did not confirm the split. The remaining units were not moved.,Serwer nie potwierdził rozdzielenia. Pozostałe sztuki nie zostały przeniesione.,서버가 나누기를 확인하지 않아 남은 개수는 옮기지 않았습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4dc1e06c5ef8,The stack changed. Splitting stopped.,Stos został zmieniony. Rozdzielanie zatrzymane.,묶음이 바뀌어 나누기를 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5fdc99474b59,No free space. The rest of the stack stays in its slot.,Brak wolnego miejsca. Reszta stosu pozostaje w pierwotnym slocie.,빈 공간이 없습니다. 나머지는 원래 칸에 남습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9941cf4da5e8,is built into the item and cannot be rolled again,jest wbudowany w przedmiot i nie można go wylosować ponownie,아이템에 내장되어 있어 다시 굴릴 수 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:df51d96f9e86,is already in the rare bonuses,jest już w bonusach 6/7,이미 희귀 보너스에 있습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:da460d8e09b2,cannot be rolled on this item,nie występuje w losowaniu na tym przedmiocie,이 아이템에서는 나올 수 없습니다,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e6332bc4d328,The item has no bonuses to change.,Przedmiot nie ma bonusów do zmiany.,이 아이템에는 바꿀 보너스가 없습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fac6f104fbc0,Set %d: blocking bonus[ENTER]%s[ENTER]Change or remove this target in BS.,Zestaw %d: blokujący bonus[ENTER]%s[ENTER]Zmień lub usuń ten cel w BS.,세트 %d: 방해 보너스[ENTER]%s[ENTER]BS에서 이 목표를 바꾸거나 지우세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
-c:pbt:24a1d403c6a2,Set %d: no alternative bonus fits this item[ENTER]%s[ENTER]Change or remove these targets in BS.,Zestaw %d: brak pasujących alternatyw[ENTER]%s[ENTER]Zmień lub usuń te cele w BS.,세트 %d: 이 아이템에 맞는 대체 보너스가 없습니다[ENTER]%s[ENTER]BS에서 이 목표들을 바꾸거나 지우세요.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s; [ENTER] = new line",done
-c:pbt:f4ecc67eb38e,Set %d: more targets than the item has bonuses.,Zestaw %d: więcej celów niż bonusów przedmiotu.,세트 %d: 목표가 아이템의 보너스 수보다 많습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:edb82823eedf,Set %d: this average and skill damage cannot occur together.,Zestaw %d: te średnie i umiejętności nie mogą wypaść razem.,세트 %d: 이 평균 피해와 스킬 피해는 함께 나올 수 없습니다.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:399748187f91,Item on cursor - paused.,Przedmiot na kursorze - pauza.,커서에 아이템이 있어 일시 정지합니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f4ffd0deaab1,The item was moved - stopped.,Przeniesiono przedmiot - zatrzymano.,아이템이 옮겨져 중지했습니다.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23d46fce50b8,Any / skip,Dowolny / pomiń,아무거나 / 건너뛰기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e950c6af8d47,Right-click an item in your inventory / drag it into the slot,PPM na przedmiot w EQ / przeciągnij przedmiot z EQ w slot,인벤토리 아이템 우클릭 / 슬롯에 끌어 놓기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:62ce91194322,Open BS window,Otwórz okno BS,BS 창 열기,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5397e0583f14,Yes,Tak,예,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b07baa06a705,Set 1,Zestaw 1,세트 1,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2313d9d74d94,Set 2,Zestaw 2,세트 2,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e709e76ff542,Presets,Presety,프리셋,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0a834a054a5c,Main bonuses,Bonusy główne,주 보너스,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c56e68e5c621,Alternative bonuses,Bonusy alternatywne,대체 보너스,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf01481f626d,Privacy,Prywatność,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5c5577be1e75,Character level,Poziom postaci,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:53cde4b08c18,Status and message,Status i wiadomość,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:46c4e735df80,Party invitations,Zaproszenia do grupy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3cdf89044f04,Friend invitations,Zaproszenia do znajomych,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4f5ebc5cb7a2,Notifications: ON,Powiadomienia: WŁ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c3e839df6084,Online,Online,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2b136b7e3c82,AFK,Zaraz wracam,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:26f1fef8f2c7,Auto-Hunting,Auto Łowy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:06e7b5b42d41,Shop in use,Sklep,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e01fa717bacc,Offline,Offline,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c756f6af1f03,Everyone,Wszyscy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:29ec7e1ac63a,Friends / guild / spouse,Znajomi / gildia / małżonek,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:04aee080b498,Spouse,Małżonek,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:01673a1f73ad,Everyone except friends / guild / spouse,Poza znajomymi / gildią / małżonkiem,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:148ba2d23619,Nobody,Nikt,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b66082079360,No guild,Brak gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:216686cccf6e,Settings save was not confirmed.,Brak potwierdzenia zapisu ustawień.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:097879623f4c,Report saved.,Zgłoszenie zapisano.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:65c29cf25ce0,[Report ,[Zgłoszenie ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:88d86b7721d5,Closed,Zamknięte,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6403f2b7eb2a,New,Nowe,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bacfb74e2fd9,Reports displayed: ,Liczba zgłoszeń: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f1c6f91b2058,Older: /reports ,Starsze: /reports ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7bef4fd21474,Closed report #,Zamknięto zgłoszenie #,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6c4c0d13fc16,Enter the reason in the Other field.,Wpisz powód zgłoszenia w polu Inny.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b9edc0e4ed7a,You already have an open report about this character.,Masz już otwarte zgłoszenie dotyczące tej postaci.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6630da752706,You cannot report yourself.,Nie możesz zgłosić swojej postaci.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b333d68cf594,This command is available to GMs only.,Ta komenda jest dostępna tylko dla GM.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:61ef075e241f,Check the character name or report ID.,Sprawdź nazwę postaci lub numer zgłoszenia.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4dca5c6e1594,Report does not exist or is already closed.,Zgłoszenie nie istnieje lub jest już zamknięte.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:15002f014fba,Please wait before trying again.,Odczekaj chwilę przed kolejną próbą.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:608971194d93,Community data error. Check the server log.,Błąd danych społeczności. Sprawdź log serwera.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:524960b49e4a,Privacy settings or a block prevent this action.,Ustawienia prywatności lub blokada uniemożliwiają tę czynność.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f305ae7b5a86,This character is in a different server area. Invite them when you meet.,Ta postać jest w innym obszarze serwera. Zaproś ją po spotkaniu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:84a518cab72e,Complete the biologist Orc Tooth quest first.,Najpierw ukończ misję biologa: Zęby Orka.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:09b2cdcfffc1,Character not found.,Nie znaleziono takiej postaci.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fadc5044be66,This action is currently unavailable.,Ta czynność jest teraz niedostępna.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:efe72b17e0bb,Cannot complete this action.,Nie można wykonać tej czynności.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e9ef575af55e,Loading character information...,Pobieranie informacji o postaci...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:63487c957160,Yongan (M1),Yongan (M1),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6e239b014061,Jayang (M2),Jayang (M2),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1cf9fa5a852a,Joan (M1),Joan (M1),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:56cfd91c319b,Bokjung (M2),Bokjung (M2),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1a5fab18c49c,Pyungmoo (M1),Pyungmoo (M1),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:04b307efd0fb,Bakra (M2),Bakra (M2),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:47da815d223d,Mount Sohan,Góra Sohan,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3986a6ce2cc5,Fireland,Ognista Ziemia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c87afcfeeb56,Yongbi Desert,Pustynia Yongbi,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:856fb1ae8b25,Valley of Seungryong,Dolina Orków,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e6a9d06d25e1,Hwang Temple,Świątynia Hwang,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ef983c050fdc,Jungrang (guild map),Jungrang (mapa gildii),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:642ee4d1d6c2,Waryong (guild map),Waryong (mapa gildii),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0e1d3295a6d7,Imha (guild map),Imha (mapa gildii),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ef85ecbfa22c,Monkey Dungeon (easy),Loch Małp (łatwy),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b6de256ea277,Monkey Dungeon (normal),Loch Małp (średni),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:369516b73135,Monkey Dungeon (hard),Loch Małp (trudny),,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6e3daded137b,Demon Tower,Wieża Demonów,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8eb0d50b0b35,Ghost Forest,Las Duchów,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c22173ba22f8,Red Forest,Czerwony Las,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e65eca4a985d,Land of Giants,Kraina Gigantów,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ce1e4d8eeff1,Spider Dungeon V2,Loch Pająków V2,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:14b0ebea1249,Grotto of Exile V1,Grota Wygnańców V1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7e55136d0b77,Grotto of Exile V2,Grota Wygnańców V2,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:35dadedf4f90,Wedding hall,Sala weselna,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7f36ead37771,Spider Dungeon V1,Loch Pająków V1,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:fa06de8bd466,Guild war arena,Arena wojny gildii,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7b9c2b42fb37,OX Arena,Arena OX,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ea4ec92ededc,Beran-Setaou's Lair,Leże Beran-Setaou,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4781c1fd87d7,Devil's Catacomb,Diabelskie Katakumby,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:21a6a8ca23cd,Map %d,Mapa %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:09f8438ef28a,Wait for the community connection.,Poczekaj na połączenie z systemem społeczności.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:daa30a52213b,Loading location...,Pobieranie lokalizacji...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2bb9f6d9ba2a,Character is offline.,Postać jest offline.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5becbde41a92,Location unavailable.,Lokalizacja niedostępna.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:58b9659d8186,New friend request from ,Nowe zaproszenie do znajomych od ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:054b746a2cbe,. Open Community: Alt+M.,. Otwórz Społeczność: Alt+M.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:319c111bda96,The 100-block limit has been reached. Existing blocks are preserved.,Limit 100 blokad został osiągnięty. Istniejące blokady zachowano.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5bb26ec5362b,Select a character first.,Najpierw wybierz postać na liście.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8e942680ef3c,Yang selling,Sprzedaż Yang,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f7ecc6f83854,Illegal trading,Nielegalny handel,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0e60cad1d59d,Cheating,Oszukiwanie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:30261a552471,Other: ,Inny: ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ee45c30326b7,Report,Zgłoś gracza,신고,"client: our windows (companion, Auto Hunt, status lines)",done

@@ -117,7 +117,7 @@ c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Az erő főzet
 c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,A kitartásregeneráció főzete,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,A képességek varázslási ideje %d%%-kal rövidebb ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Tárgytípus: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
 c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,A kódot már felhasználták.,client: game texts (localeInfo),done
 c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Érvénytelen kód.,client: game texts (localeInfo),done
@@ -130,9 +130,9 @@ c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Tiltás feloldása,client: game tex
 c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Kevesebb mint 1 perc,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_CLASS,Class:,,Kaszt:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_STR,STR:,,ERŐ:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_DEX,DEX:,,ÜGY:,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Státuszpontok:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Képességpontok:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Támogató képességpontok:,client: game texts (localeInfo),done
@@ -145,8 +145,8 @@ c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Játékidő (perc):,client: ga
 c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Rangpontok:,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Harcos (F),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Harcos (N),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Sámán (F),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Sámán (N),client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Főpanel,client: game texts (localeInfo),done
@@ -319,7 +319,7 @@ c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Raktár,client: game texts (lo
 c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Yongbi-sivatag,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Orkvölgy,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Sohan-hegy,client: game texts (localeInfo),done
-c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Pókkazamata V1,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Pókkazamata V2,client: game texts (localeInfo),done
 c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Könnyű majomkazamata,client: game texts (localeInfo),done
@@ -546,7 +546,7 @@ c:locale_game:ITEMSHOP_ENDS_IN,Ends in %s  ,,Ennyi múlva ér véget: %s  ,clien
 c:locale_game:ITEMSHOP_PIECES_BAR,Pieces: %d | ,,Darab: %d | ,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:ITEMSHOP_PRICE_LABEL,Price: ,,Ár: ,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_PROMOTION_ENDS,Promotion ends in %s | ,,Az akció ennyi múlva ér véget: %s | ,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Shop],client: game texts (localeInfo),done
+c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Shop],client: game texts (localeInfo),check
 c:locale_game:BUSY_ACTION_GATHERING,Gathering,,Gyűjtés,client: game texts (localeInfo),done
 c:locale_game:BUSY_ACTION_IN_PROGRESS,In progress,,Folyamatban,client: game texts (localeInfo),done
 c:locale_game:BUSY_ACTION_INTERRUPTED,Interrupted,,Megszakítva,client: game texts (localeInfo),done
@@ -579,7 +579,7 @@ c:locale_game:GMP_MENU_WORLD,World & events,,Világ és események,client: game 
 c:locale_game:GMP_MENU_ITEMS,Items,,Tárgyak,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Fiókok,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_SPAWN,Spawn,,Idézés,client: game texts (localeInfo),done
-c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teleport,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teleport,client: game texts (localeInfo),check
 c:locale_game:GMP_MENU_SERVER,Server,,Szerver,client: game texts (localeInfo),done
 c:locale_game:GMP_MENU_CMDS,GM commands,,GM-parancsok,client: game texts (localeInfo),done
 c:locale_game:GMP_NICK,Name:,,Név:,client: game texts (localeInfo),done
@@ -599,11 +599,11 @@ c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Adj meg egy érvényes számo
 c:locale_game:GMP_ERR_OFFLINE,The player is offline,,A játékos offline,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,A játékos nincs online,client: game texts (localeInfo),done
 c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,"Felszerelés: kattints a játékosra a játékban, és válaszd az EQ-t",client: game texts (localeInfo),done
-c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),done
+c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),check
 c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Offline ennyi ideje: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_MAP,Map: %s,,Térkép: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,HP/SP: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
-c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
 c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Fiók: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,ERŐ %s  VIT %s  ÜGY %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
 c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Státuszpontok %s, képesség %s",client: game texts (localeInfo) | keep: %s %s,done
@@ -612,8 +612,8 @@ c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Ló: %s. szint,client: game texts 
 c:locale_game:GMP_INFO_RANK,Rank: %s,,Rang: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_INFO_EXP,Exp: %s,,EXP: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_JOB_WARRIOR,Warrior,,Harcos,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),done
-c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
 c:locale_game:GMP_JOB_SHAMAN,Shaman,,Sámán,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOVE,Movement,,Mozgás,client: game texts (localeInfo),done
 c:locale_game:GMP_GOTO_PLAYER,Go to,,Odamenni,client: game texts (localeInfo),done
@@ -626,7 +626,7 @@ c:locale_game:GMP_GIVE_ITEM,Give item,,Tárgy adása,client: game texts (localeI
 c:locale_game:GMP_SKILLS_M,All to M1,,Mind M1-re,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_G,All to G1,,Mind G1-re,client: game texts (localeInfo),done
 c:locale_game:GMP_SKILLS_P,All to P,,Mind P-re,client: game texts (localeInfo),done
-c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
 c:locale_game:GMP_VAL_CASH,Dragon Coins,,Sárkányérmék,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_LEVEL,Level,,Szint,client: game texts (localeInfo),done
 c:locale_game:GMP_VAL_RANK,Rank,,Rang,client: game texts (localeInfo),done
@@ -688,12 +688,12 @@ c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Írd be a közlemény szöv
 c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Események (birodalmi bónusz),client: game texts (localeInfo),done
 c:locale_game:GMP_EV_EXP,Exp %,,EXP %,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_DROP,Drop %,,Esés %,client: game texts (localeInfo),done
-c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_HOURS,Hours,,Óra,client: game texts (localeInfo),done
 c:locale_game:GMP_EMPIRE_ALL,All,,Mind,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),done
-c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
 c:locale_game:GMP_EV_START,Start event,,Esemény indítása,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_STOP,Stop events,,Események leállítása,client: game texts (localeInfo),done
 c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Extra százalék, pl. 100 = dupla. Üres/0 = változatlan.",client: game texts (localeInfo),done

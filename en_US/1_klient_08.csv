@@ -1,4 +1,504 @@
 id,english,polski,translation,notes,status
+c:pbt:e4b32b1c1a23,Gift: %s. Orders of the day: %d per day.,Podarunek: %s. Zlecenia dnia: %d dziennie.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
+c:pbt:878b19620456,Herbalist's Path: ranks 0-5,Ścieżka Zielarza: rangi 0-5,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ddb2583c0421,From rank 1 %s opens the Herbalist's Workshop (a window of rank recipes - see Herbalist's Workshop) and gives orders of the day.,Od rangi 1 %s otwiera Pracownię Zielarza (osobne okno z recepturami rang - karta Pracownia Zielarza) i daje zlecenia dnia.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:770ad8982ff6,"Orders renew at midnight UTC+1 (Central European winter time). The first is of your rank, the second one rank lower, the third two lower. The goods of a day are fixed for the character.","Zlecenia odnawiają się o północy UTC+1 (czas środkowoeuropejski zimowy). Pierwsze jest z Twojej rangi, drugie z rangi niższej o 1, trzecie o 2. Towar na dany dzień jest stały dla postaci.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bd7df0843a83,Reward: a share of your level's experience and one item from his stores (chances below).,Nagroda: część doświadczenia Twojego poziomu i jeden przedmiot z zapasów (szanse poniżej).,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f1692bde9346,Rank %d order,Zlecenie rangi %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:b6476f58f57f,%d%% exp,%d%% dośw.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:6804e94cb2c7,One of: %s.,Jedno z: %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:79a564330cc2,Workshop and order of the day,Pracownia i zlecenie dnia,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7f88fc23f0c9,"At once up to %d boost, %d offensive and %d defensive potion effects work; a weaker or equal potion of the same effect does not replace a running one.","Naraz działa do %d efektów mikstur wzmacniających, %d ofensywnych i %d defensywnych; słabsza lub równa mikstura tego samego efektu nie zastąpi działającej.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:a018eb967180,"%s (%s) lengthens a potion stack by %d%% or %d%%, once. General-use potions cannot be lengthened.","%s (%s) wydłuża działanie stosu mikstur o %d%% albo %d%%, jeden raz. Nie wydłuża mikstur ogólnych.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d %d",new
+c:pbt:3ae52538475e,Potion from lv. %d: %s Yang and %dx %s each (+%d%%).,Mikstura od poz. %d: %s Yang i %dx %s za sztukę (+%d%%).,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s %d %s %d",new
+c:pbt:5dc9b74f03ee,Others: %s Yang and %dx %s each (+%d%%).,Pozostałe: %s Yang i %dx %s za sztukę (+%d%%).,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %s %d",new
+c:pbt:0aff502ca9a8,For +%d%% you pay half the Yang and half the dust (rounded up).,Za +%d%% płacisz połowę Yang i połowę pyłu (w górę).,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:6393653fba1b,Level exceptions when lengthening: %s.,Wyjątki poziomu przy wydłużaniu: %s.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:df432eaf864e,Potions: groups and lengthening,Mikstury: grupy i wydłużanie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:93d1da7b6e6b,%s x%d: %s Yang,%s x%d: %s Yang,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %s",new
+c:pbt:fe44549c2232, and %s, oraz %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:ebbd1a02d76f,Baek-Go's shop,Sklep Baek-Go,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bfac50d6424b,Credits,Autorzy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9ffd87e9c62c,"The Herbalist's Path - the ranks, the Workshop and the orders of the day - was designed by Said (saido_0). In-game Wiki: Kiciamol. Thank you!","Ścieżkę Zielarza - rangi, Pracownię i zlecenia dnia - zaprojektował Said (saido_0). Wiki w grze: Kiciamol. Dziękujemy!",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:dc749b39999d,How recipes work,Jak działają receptury,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f2cae2daaca3,You read a recipe scroll from your inventory (after %s's introduction). A successful read adds 1 to its reads; a scroll has a chance and a read limit.,Zwój receptury czytasz z ekwipunku (po wprowadzeniu u %s). Udany odczyt dodaje 1 do jej odczytów; zwój ma szansę i limit odczytów.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:7e8240616ab1,"Every row needs a number of reads of its recipe and a level. You craft at %s (the crafting option, within 10 m).","Każdy wiersz wymaga liczby odczytów swojej receptury i poziomu. Wytwarzasz u %s (opcja wytwarzania, do 10 m od niego).",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:906d28ce1bd4,"The cost and the ingredients are taken before the roll: a failed attempt loses them. Crafting several, each attempt rolls on its own.",Koszt i składniki są pobierane przed losowaniem: nieudana próba je zabiera. Przy kilku sztukach każda próba losuje osobno.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:badd14124514,%s raises the chance of your next recipe read.,%s zwiększa szansę następnego odczytu receptury.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:23a1c945dafb,"Scroll: %s - chance %d%%, up to %d reads.","Zwój: %s - szansa %d%%, odczytów: do %d.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",new
+c:pbt:3ab2efddd19d,From rank 1 of the Herbalist's Path %s offers the Herbalist's Workshop. A row needs a rank and a level; no recipe is read here.,Od rangi 1 Ścieżki Zielarza %s ma opcję Pracownia Zielarza. Wiersz wymaga rangi i poziomu; receptur się tu nie czyta.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:17e902c82218,The cost and the ingredients are taken before the roll: a failed attempt loses them.,Koszt i składniki są pobierane przed losowaniem: nieudana próba je zabiera.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5b7d32c9191d,Rank %d: %s,Ranga %d: %s,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",new
+c:pbt:00ad0a83d886,"Recipe reads: %d, level: %d, cost: %s Yang.","Odczyty receptury: %d, poziom: %d, koszt: %s Yang.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",new
+c:pbt:eaceee7b645c,"Rank: %d, level: %d, cost: %s Yang.","Ranga: %d, poziom: %d, koszt: %s Yang.",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",new
+c:pbt:5489dec830c3,Fame: %d/10,,Fame: %d/10,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:17ce36c14b57,Dragon Stone Alchemy - Heaven deck,,Dragon Stone Alchemy - Heaven deck,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35768a9ee3e3,Dragon Stone Alchemy - Earth deck,,Dragon Stone Alchemy - Earth deck,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ee9edc4537c,logged in again after the connection dropped.,,logged in again after the connection dropped.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c972291d56,Auto Hunt: resumed after logging in again.,,Auto Hunt: resumed after logging in again.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96b38e81a238,Hunting started. Range: %d.,,Hunting started. Range: %d.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d557a5f24f82,picking up is switched off.,,picking up is switched off.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d18249c7b08,Hunting stopped.,,Hunting stopped.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d13dcbcc6fb,Auto Hunt: no time left. Buy its 8-hour ticket in the ItemShop and use it from your inventory - the time only runs while you play.,,Auto Hunt: no time left. Buy its 8-hour ticket in the ItemShop and use it from your inventory - the time only runs while you play.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:caec836d4e19,Auto Hunt is switched off on this server (the world settings in the launcher).,,Auto Hunt is switched off on this server (the world settings in the launcher).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d80df967c0f8,server did not confirm the filter. Pickup paused. Change the filter settings to retry.,,server did not confirm the filter. Pickup paused. Change the filter settings to retry.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04e30825e892,could not save the advanced filter.,,could not save the advanced filter.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3b014633d81,Auto Hunt: battle horse mode off.,,Auto Hunt: battle horse mode off.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:729e50638728,Auto Hunt: the battle horse mode needs a horse of level %d or more - hunting on foot for now.,,Auto Hunt: the battle horse mode needs a horse of level %d or more - hunting on foot for now.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:1f20c69b9fdd,Auto Hunt: battle horse mode - fighting in place from the saddle.,,Auto Hunt: battle horse mode - fighting in place from the saddle.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3df822263409,Auto Hunt: battle horse mode - getting on the horse.,,Auto Hunt: battle horse mode - getting on the horse.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:782dd7b32c81,Auto Hunt: the character got off the horse - hunting on foot. Get back on (Ctrl+G) and the battle horse mode comes back.,,Auto Hunt: the character got off the horse - hunting on foot. Get back on (Ctrl+G) and the battle horse mode comes back.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04805def1ab2,Auto Hunt: the horse cannot be mounted - hunting on foot. Get on yourself (Ctrl+G) and the battle horse mode comes back.,,Auto Hunt: the horse cannot be mounted - hunting on foot. Get on yourself (Ctrl+G) and the battle horse mode comes back.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb893bb37448,"Auto Hunt: cannot get on the horse - trying every %d s, fighting on foot meanwhile.",,"Auto Hunt: cannot get on the horse - trying every %d s, fighting on foot meanwhile.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a11c06604aba,damaged advanced filter save; selection is empty. Configure the filter again.,,damaged advanced filter save; selection is empty. Configure the filter again.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11325f8d9b46,could not migrate the old settings to slot 1.,,could not migrate the old settings to slot 1.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e17463306d9,could not read slot 1 (%s).,,could not read slot 1 (%s).,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c5d536b25525,"Targets (Settings): Monsters, Metins, Bosses. The server picks one in range: a boss first, then a Metin, then the nearest monster (one hitting you counts as nearer).",,"Targets (Settings): Monsters, Metins, Bosses. The server picks one in range: a boss first, then a Metin, then the nearest monster (one hitting you counts as nearer).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aef3077b4076,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Minimum gear bonuses: 1-7; 0 or empty also allows plain gear. Sockets are not bonuses.,,Pick-up: select items in the separate window. Z / ` use it when their filter is on. Minimum gear bonuses: 1-7; 0 or empty also allows plain gear. Sockets are not bonuses.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40a1bfd7317d,Gear: min.,,Gear: min.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06e5751d6fa8,bonuses,,bonuses,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e74a2acdf717,General Store in M1,,General Store in M1,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e66568583d1,Guard,,Guard,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c9ea1ca61ba,When you are low on health it takes on what hits you.,,When you are low on health it takes on what hits you.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:038f64fef6f2,Casts its buffs on you.,,Casts its buffs on you.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:642a998efd6e,Luring,,Luring,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:909344c5e053,Brings you packs of monsters from around.,,Brings you packs of monsters from around.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6ec8a3ba1a2,Plays without me,,Plays without me,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7610d67dcce2,Plays on when you leave the game - up to your level +30.,,Plays on when you leave the game - up to your level +30.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:13b577b1052d,Chests,,Chests,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3243c9254152,Opens the chests and fish in its bag. Off: it leaves them to you.,,Opens the chests and fish in its bag. Off: it leaves them to you.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60b18fc8a85f,Party,,Party,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:83c55e55104f,"Joins your party, also one somebody else leads.",,"Joins your party, also one somebody else leads.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd5ec76c0e73,Dragon Coins,,Dragon Coins,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b20161c3dac5,Buys what it needs in the Item Shop with them. Keeps: leaves them alone.,,Buys what it needs in the Item Shop with them. Keeps: leaves them alone.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:26121b5b5b99,Lock equipment,,Lock equipment,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11ecbda6c6d1,"No refining, bonus changes or gear swaps. Your manual commands still work.",,"No refining, bonus changes or gear swaps. Your manual commands still work.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce0893a5c37e,Ranged first,,Ranged first,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b73a36f3d4ac,"First hits the archers and casters attacking you, it or the party.",,"First hits the archers and casters attacking you, it or the party.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4d1cb9713668,Potions: %d red / %d blue,,Potions: %d red / %d blue,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:27970f823341,You spend the stat points,,You spend the stat points,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba64d4ccd8df,You spend the skill points,,You spend the skill points,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e68b6b2bf92,"The first ""+"" on the Status tab gives them to you too.",,"The first ""+"" on the Status tab gives them to you too.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:134228be0bfa,"The first ""+"" on the Skills tab gives them to you too.",,"The first ""+"" on the Skills tab gives them to you too.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e30775d09af1,Spend again (once for free),,Spend again (once for free),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f60543ac84e,"Takes every stat point back - once, for free.",,"Takes every stat point back - once, for free.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f852b8b06f71,Take back all your companion's stat points to spend them again? There is only one free reset.,,Take back all your companion's stat points to spend them again? There is only one free reset.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4c2c8e3564f5,Update the server to spend stats.,,Update the server to spend stats.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:163c95f2a201,Your companion's AI spends the stat points.,,Your companion's AI spends the stat points.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0f955129b280,"%d stat points wait for you: ""+"" on the Status tab.",,"%d stat points wait for you: ""+"" on the Status tab.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:e1f9ccc1b334,"%d skill points wait for you: ""+"" on the Skills tab.",,"%d skill points wait for you: ""+"" on the Skills tab.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:11909ec80319,Pick it up and click Unpin.,,Pick it up and click Unpin.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1f54edac1543,Pick an item up from the bag and click Destroy.,,Pick an item up from the bag and click Destroy.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc96e09a1bd6,"%sFallen, waiting at the camp for the next round - war with %s",,"%sFallen, waiting at the camp for the next round - war with %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bb58ffeee774,"%sBreak between rounds, holding the middle - war with %s",,"%sBreak between rounds, holding the middle - war with %s","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b353a2e2a270,"%sHanding the pack over%s: %d brought, %d still after me",,"%sHanding the pack over%s: %d brought, %d still after me","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d %d",done
+c:pbt:28fb1d8ff77f,%sGoing through the portal to M2 for a Horse Medal,,%sGoing through the portal to M2 for a Horse Medal,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:5ff73502dd5c,%sCollecting a battle horse from the Stable Boy,,%sCollecting a battle horse from the Stable Boy,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,%sGoing to the Monkey Dungeon for a Horse Medal,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b4fa1035b5ab,%sBreak between rounds at the camp - war with %s,,%sBreak between rounds at the camp - war with %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a8993dc60c6f,%sTaking soul stones to the Alchemist for dust,,%sTaking soul stones to the Alchemist for dust,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2efa6c6e2b55,%sWaiting for a route to the merchant; then %s,,%sWaiting for a route to the merchant; then %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:70b47ec0c082,%sGoing to the Stable Boy for a battle horse,,%sGoing to the Stable Boy for a battle horse,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a508e4b423c7,%sFinding my way through the Monkey Dungeon,,%sFinding my way through the Monkey Dungeon,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cffaedc39201,%sEarning a battle horse in the desert (%d/%d),,%sEarning a battle horse in the desert (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:bd2399767d86,%sTaking a Medal to the nearest Stable Boy,,%sTaking a Medal to the nearest Stable Boy,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2d4978c856fe,Buying refine materials at the market,,Buying refine materials at the market,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7c4efd4f76b1,%sMustering for the guild war with %s (%s),,%sMustering for the guild war with %s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:5fffab5b0d96,%sWaiting for a route to the merchant,,%sWaiting for a route to the merchant,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:fd37c8978a82,%sLooking for something at the stalls,,%sLooking for something at the stalls,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:667aea86fe25,%sSaving yang for the Teleporter %s (%lld/%d),,%sSaving yang for the Teleporter %s (%lld/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %lld %d",done
+c:pbt:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,%sLooking for a level 30 weapon on M3,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bf17b3eccd8d,%sLooking for a better spot (goal: %s),,%sLooking for a better spot (goal: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:118fccaf9b63,%sLooking for a target for the group,,%sLooking for a target for the group,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3d801aed6cbb,%sGoing to the blacksmith to upgrade,,%sGoing to the blacksmith to upgrade,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f40b01d1168e,%sTrying to drop for the Biologist: %s,,%sTrying to drop for the Biologist: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:86258d4cccf4,%s's companion - at the blacksmith,,%s's companion - at the blacksmith,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:d3e419e8362b,%sTaking a medal to the Stable Boy,,%sTaking a medal to the Stable Boy,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bf3378b87c43,%sResetting skills at the Old Lady,,%sResetting skills at the Old Lady,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:1f83bfe36ce7,%sHaggling over a price at a stall,,%sHaggling over a price at a stall,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f079c15141fe,%sLooking for a party after dying,,%sLooking for a party after dying,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:952ef4c0ae19,%sGoing to the Fisherman for bait,,%sGoing to the Fisherman for bait,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:c969beeee6dc,%sComing back%s: leading %d monsters,,%sComing back%s: leading %d monsters,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
+c:pbt:10e09dfd0932,Trading with the weapon dealer,,Trading with the weapon dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37919e723267,%sComing back from the Biologist,,%sComing back from the Biologist,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0311cdf36cf8,%sCollecting for the Biologist: %s,,%sCollecting for the Biologist: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:1e443a9cae26,%sHanding in a horse medal (%u/21),,%sHanding in a horse medal (%u/21),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u",done
+c:pbt:a279fa522e8b,Trading with the armour dealer,,Trading with the armor dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28df8b66bd5e,%s's companion - at the merchant,,%s's companion - at the merchant,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:96d59e2f5d6b,"%sLuring%s: %u/%u groups, %d chasing me",,"%sLuring%s: %u/%u groups, %d chasing me","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u %d",done
+c:pbt:9e28dad791d4,%sLure on hold: %s still fighting,,%sLure on hold: %s still fighting,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:b50e31d19feb,%sHanding in to the Biologist: %s,,%sHanding in to the Biologist: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:da63d06293b3,%sGuild gathering: Demon Tower,,%sGuild gathering: Demon Tower,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:53686397f63f,%sDefending the party against %s,,%sDefending the party against %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:0fe43bd15db1,%sDefending the guild against %s,,%sDefending the guild against %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:c7b6b9575ede,%sChasing %s away from the Metin,,%sChasing %s away from the Metin,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a12f33d08a6f,%sFishing - waiting for a bite,,%sFishing - waiting for a bite,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:df7459fe12d7,"Buying potions, selling loot",,"Buying potions, selling loot","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5869123311e,Taking books to the storage,,Taking books to the storage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9c4904feaee,%sGoing to town for equipment,,%sGoing to town for equipment,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:804500d1db91,strong monsters in a party,,strong monsters in a party,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4695b589a3e3,Going to the general store,,Going to the general store,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4daf3338ab67,%sGoing to town for supplies,,%sGoing to town for supplies,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:810777b4a5b0,%sGoing to the river to fish,,%sGoing to the river to fish,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:eb10c3288fae,Going to the armour dealer,,Going to the armor dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c075477ef7d3,Quest: %s - going to the NPC,,Quest: %s - going to the NPC,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:ff2ade108fb4,Going to the weapon dealer,,Going to the weapon dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09d7e1632df7,Putting books into storage,,Putting books into storage,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1494782aea4e,%sTaking to the Biologist: %s,,%sTaking to the Biologist: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:7f2f45da5d75,%s's companion - recovering,,%s's companion - recovering,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:922a5f1634da,%sDefending myself against %s,,%sDefending myself against %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:a01294d4d40b,%sGathering materials from %s,,%sGathering materials from %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:05f26e179bf8,%s's companion - picking up,,%s's companion - picking up,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bd301b4a78b6,%sLooking for a fishing rod,,%sLooking for a fishing rod,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8c75ccfe5101,%sLevelling on M3 (Tier 2),,%sLevelling on M3 (Tier 2),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:e8185b3a7953,%s's companion - fighting,,%s's companion - fighting,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:62e0ca6c75db,Going to the blacksmith,,Going to the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f17c74f34874,Running errands in town,,Running errands in town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e1aa1f7f0fa,%sGoing to the Biologist,,%sGoing to the Biologist,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:04e29e9f4aa7,%sSetting a spirit stone,,%sSetting a spirit stone,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9e213fe05bff,Going for a profession,,Going for a profession,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:688b3e455c37,%s's companion - waiting,,%s's companion - waiting,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9f1bdcc55993,Choosing a profession,,Choosing a profession,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72dd5bbe7d15,%sChoosing a profession,,%sChoosing a profession,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a69eb7fd412b,%sTaking a short break,,%sTaking a short break,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:d7a4d0fc83c9,Heading back to hunt,,Heading back to hunt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a58a7c474ca,%sReading a skill book,,%sReading a skill book,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2a462a7b2fd3,%sBack for revenge on %s,,%sBack for revenge on %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:d67908ac9359,%sGoing to an ore vein,,%sGoing to an ore vein,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:efa06935560b,Upgrading equipment,,Upgrading equipment,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b92ea8dfb82,%sHelping the party: %s,,%sHelping the party: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:add2c61e9144,%sRetreating - low HP,,%sRetreating - low HP,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7d9ac9c37991,%sBrowsing the stalls,,%sBrowsing the stalls,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a2afce5ad977,%sDemon Tower: floor %d,,%sDemon Tower: floor %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:314440c29807,%sDefending %s against %s,,%sDefending %s against %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:388230d5d523,%sResting after death,,%sResting after death,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:a4f79d8c029a,%sUpgrading equipment,,%sUpgrading equipment,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:409ac4671051,%sLooking at a stall,,%sLooking at a stall,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cc480c78224e,%sRunning a stall (%s),,%sRunning a stall (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:25a8aebca2f9,%sGuild war with %s (%s),,%sGuild war with %s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:dfcde592b162,%sWaiting to lure%s (%s),,%sWaiting to lure%s (%s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:98d36b134c2d,%sVendetta against %s,,%sVendetta against %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:665c88cd3c8e,%sLooking for a foe,,%sLooking for a foe,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:61438ac5c929,%sPreparing a lure%s,,%sPreparing a lure%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:e11d725c3968,%sGoing %s (goal: %s),,%sGoing %s (goal: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:b36e1ea527cc,%sHunting with %s: %s,,%sHunting with %s: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:0ae63fbd5bfd,%sResting in town,,%sResting in town,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2fef48726671,%sBaiting the rod,,%sBaiting the rod,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3433f2e9b25a,Going into town,,Going into town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:749543f5d77e,%sWaiting to lure%s,,%sWaiting to lure%s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:fcfbc80824fd,%sPicking up loot,,%sPicking up loot,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:f366b272a74c,%sAFK - back soon,,%sAFK - back soon,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0aa486e67e83,%sHunt: %s (%d left),,%sHunt: %s (%d left),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %d",done
+c:pbt:d1701c8d9c4a,horse training,,horse training,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a61bbcde3f2,skill training,,skill training,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4563e4849769, for the party,, for the party,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:656240c2bef2,%sDoing a quest,,%sDoing a quest,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:bdabf14dbaff,the player is,,the player is,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b6ed8c91715a, to the party,, to the party,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e09b31f7128,%sRecovering HP,,%sRecovering HP,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:dc23ea51b855,%s's companion,,%s's companion,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:4785683a6b19,%s%s - potions %u/%u,,%s%s - potions %u/%u,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %u %u",done
+c:pbt:9ee9d6bba9b3,the party is,,the party is,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e2ed6ae75509,%sBoss raid: %s,,%sBoss raid: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:11ae337591ef,%sPlanning: %s,,%sPlanning: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:80a306e56cd2,%sMining ore,,%sMining ore,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:6ae2df692f64,profession,,profession,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a14f093fe35c,%sHelping %s: %s,,%sHelping %s: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:501d5804b509,upgrading,,upgrading,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54d1ba7dd9d7,%sBreaking %s,,%sBreaking %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:bedcc40ee5df,equipment,,equipment,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d99241f08f2,%sFighting %s,,%sFighting %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:28d16ad6208d,levelling,,leveling,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96204760da7c,%s%s (goal: %s),,%s%s (goal: %s),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s %s",done
+c:pbt:d345da7a3983,Biologist,,Biologist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5357262c9d82,%sChasing %s,,%sChasing %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:caa8914f4f3a,a player,,a player,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72275625c8d9,supplies,,supplies,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b60e9d739b5,recovery,,recovery,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6b346cdb9ee8,%sTrading,,%sTrading,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:52f5d9fedd47,Hunting,,Hunting,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9cec681cf5e8, for %s,, for %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:cf49ef7ef7c6,Persistent Explorer,,Persistent Explorer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:59cf1e15bf2a,Metin Slayer,,Metin Slayer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a21565ff393,Team Player,,Team Player,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14db222d660e,Equipment Master,,Equipment Master,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d008da60aaf6,Careful Gatherer,,Careful Gatherer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de5e04489960,Trader,,Trader,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e38b843512a9,Metin Farmer,,Metin Farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc6757dee9dc,M3 Farmer,,M3 Farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bc6e192c183,M2 Farmer,,M2 Farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecd0bc440e55,Medal Farmer,,Medal Farmer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3deabb07a754,Conqueror,,Conqueror,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bfd171baed7,Gambler,,Gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:de9bb20b09e2,Perfectionist,,Perfectionist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4486006f811b,Miner,,Miner,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d57bd5497ca,Fisher,,Fisher,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:37a8650da7a9,Mercenary,,Mercenary,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:713f7f0890c9,Metinologist,,Metinologist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7509ac40db87,Addict,,Addict,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e25b58cbc199,Mad Scientist,,Mad Scientist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f5dfbe1cae9c,Executioner,,Executioner,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e79c8a2ef8e,Mad Angler,,Mad Angler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:940e4dd57121,Junior Gambler,,Junior Gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca1a9e88c123,Senior Gambler,,Senior Gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:852e38f3df18,Chief Gambler,,Chief Gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94e529e288d3,Mad Gambler,,Mad Gambler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c205ffe7db50,Herbalist,,Herbalist,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3163a85fc381,Bonus Master,,Bonus Master,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41dc3110c0fa,Bargain Hunter,,Bargain Hunter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b63f21fd8d7c,Daily Goal,,Daily Goal,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58911cf7195a,Keepsake of Mirine's Brother.,,Keepsake of Mirine's Brother.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6809e8745eab,Guardian,,Guardian,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7fa23fb61b2,Welcome to Metin2 SinglePlayer,,Welcome to Metin2 SinglePlayer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30f45262a0f3,Go to the Captain,,Go to the Captain,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:453a9c8d005b,Kill 10 Alpha Grey Wolves,,Kill 10 Alpha Gray Wolves,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d824bb948f39,Destroy the Metin of Battle,,Destroy the Metin of Battle,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:31bda7537934,Talk to the Captain,,Talk to the Captain,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58ea37474009,Capture the spy,,Capture the spy,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d4266380e60b,Letter from the City Guard,,Letter from the City Guard,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2eeeb4a35ea3,Destroy the Metin Stones,,Destroy the Metin Stones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f8a58eb1309,News from the City Guard,,News from the City Guard,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c884636a97f0,The secret of the Metin Stones,,The secret of the Metin Stones,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:89924e62815e,The secret book,,The secret book,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1b96db278dc0,Off into the Yongbi Desert,,Off into the Yongbi Desert,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d5c0523b044,The sixth page,,The sixth page,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d453e7f0cc69,The ninth page,,The ninth page,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d8b6d72af23e,Looking for the memorials,,Looking for the memorials,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:050282dff64a,The Blacksmith's mission,,The Blacksmith's mission,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cde4dbb89e1d,Find the Fisherman,,Find the Fisherman,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:515a5c546f0d,Talk to the City Guard,,Talk to the City Guard,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0709f49e2af1,The gift for Chaegirab,,The gift for Chaegirab,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6593982a75ec,The sick brother,,The sick brother,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c5f9cd8592da,The deserter,,The deserter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc15d67c3060,Ah-Yu's worries,,Ah-Yu's worries,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:718a35f89a75,The broken porcelain,,The broken porcelain,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52c363104c68,Rumble rumble,,Rumble rumble,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:622be932a29e,Visiting Wonda-Rim,,Visiting Wonda-Rim,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85efc110e61e,Letter from the Captain,,Letter from the Captain,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a2e828cd9ccf,The daughter's wedding,,The daughter's wedding,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:79cb2a493c55,Get the Peach Seeds,,Get the Peach Seeds,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e73906114016,The stolen Hairpin,,The stolen Hairpin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46eca64fc658,Find my brother.,,Find my brother.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39b954042b8a,Kill Mi-Jung from the White Oath,,Kill Mi-Jung from the White Oath,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf08db268137,Look for materials,,Look for materials,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2e66213676f0,Eun-Jung from the White Oath,,Eun-Jung from the White Oath,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c9a90f3b574d,Go to the Peddler,,Go to the Peddler,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2739d337c31,Kill Goo-Paes,,Kill Goo-Paes,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7e3f4df99b33,Find Soon,,Find Soon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ac7a457b79b,Get a Wolf Pelt,,Get a Wolf Pelt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3959f0879be5,The dinner,,The dinner,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b3848e5dd70e,The Spears,,The Spears,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e05bb4929ef,A medicine for Balso,,A medicine for Balso,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c7208f520bff,Deokbae's Golden Axe,,Deokbae's Golden Axe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:54f4d786d380,Look for Yu-Hwan,,Look for Yu-Hwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:181ca3b1c8d9,The Stolen Rice Cake,,The Stolen Rice Cake,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9564b755ebe4,Go to Ariyoung,,Go to Ariyoung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc6fad9695d1,Go to Octavio,,Go to Octavio,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2567ddc19e7f,Go to Aranyo,,Go to Aranyo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9274929c90a6,Return to Baek-Go,,Return to Baek-Go,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d0420e5dc99,Ore for a new weapon,,Ore for a new weapon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d478a79e30e5,Ore for new armour,,Ore for new armor,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:97551417c346,Peddler's Request,,Peddler's Request,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7ebe7cf335b8,The bookworm's Treasure Map,,The bookworm's Treasure Map,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a8f125394f2,Kill the Black Wind generals,,Kill the Black Wind generals,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c3118e1fd4da,Return to Yonah,,Return to Yonah,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f47434ca9522,Go to Soon,,Go to Soon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22ac51ec3aa6,You found the Decorated Bow!,,You found the Decorated Bow!,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f1eadb5684d1,Go to Baek-Go,,Go to Baek-Go,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5c49c8f7dd0a,A Letter from the Blacksmith,,A Letter from the Blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bdfcd917d66b,Supporting War Device,,Supporting War Device,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6fa64cfb8ddc,Spider Eyes Special,,Spider Eyes Special,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c06bd2f8c284,Let the Dead Rest,,Let the Dead Rest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:477e715a98ca,The Spider with the Bell,,The Spider with the Bell,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:446f31875e7a,Temple of Darkness,,Temple of Darkness,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:673ddd1abb8d,Celadon Porcelain,,Celadon Porcelain,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94633491fbbf,Meet the spy,,Meet the spy,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad194f9fca39,Let's go see Octavio,,Let's go see Octavio,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b9ee107b0fe,Back to Soon,,Back to Soon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:045ae476c9ba,Get materials,,Get materials,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8857557d694c,The best cookbook,,The best cookbook,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e0d7a332bdf,Rice Cake,,Rice Cake,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c058f87fbcc3,Find the Golden Axe,,Find the Golden Axe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6714baff8c78,Quest: %s (%u/%u),,Quest: %s (%u/%u),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %u %u",done
+c:pbt:d6f06ff68c38,Quest: %s,,Quest: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:ae36a27aaaf6,Wanderer,,Wanderer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:88557672dea9,Grinder,,Grinder,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:10b2941434ed,to Yongan,,to Yongan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b140fb76accf,in Yongan,,in Yongan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1ca8a5ecb4cb,to Jayang,,to Jayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:961eb8fb8e65,in Jayang,,in Jayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2caee097c335,to Joan,,to Joan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f384284fb3f8,in Joan,,in Joan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9f8dfea2471e,to Bokjung,,to Bokjung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:26f3ef3f7815,in Bokjung,,in Bokjung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab2b1d5c6f12,to Pyongmoo,,to Pyongmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e40a1fb1ec19,in Pyongmoo,,in Pyongmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:548917ab802c,to Pyungmoo,,to Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ded922fdf547,in Pyungmoo,,in Pyungmoo,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:519249f0aa0a,to Bakra,,to Bakra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:141f9067b82a,in Bakra,,in Bakra,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:69c001bdd898,to Waryong,,to Waryong,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:57a27bbc114a,in Waryong,,in Waryong,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9982b937239c,to Yayang,,to Yayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4c68492b54f,in Yayang,,in Yayang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:155e9fc0eecb,to Jungrang,,to Jungrang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d93674aaab4,in Jungrang,,in Jungrang,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:86cc67371d1d,to Imha,,to Imha,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:81163fb8469b,in Imha,,in Imha,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72efe3bfc347,to Doyyumhwaji,,to Doyyumhwaji,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71b4dc62e142,in Doyyumhwaji,,in Doyyumhwaji,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca92904fb6c,to Doyyumhwan,,to Doyyumhwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac12f94ceae4,in Doyyumhwan,,in Doyyumhwan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fec350a6a82d,to the Guild Land,,to the Guild Land,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ac8f812f64fe,in the Guild Land,,in the Guild Land,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6aefee0405b2,into the Guild Land,,into the Guild Land,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f07e0e08372b,to the Monkey Dungeon,,to the Monkey Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:33a1fd35c818,in the Monkey Dungeon,,in the Monkey Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e056ced9adb4,into the Monkey Dungeon,,into the Monkey Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cdc31a85de75,to the Monkey Dungeon II,,to the Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b869cd086831,in the Monkey Dungeon II,,in the Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9b7c17da595,into the Monkey Dungeon II,,into the Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cd1f93d524cf,to the Monkey Dungeon III,,to the Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6014dfcf268f,in the Monkey Dungeon III,,in the Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce43ac0992a7,into the Monkey Dungeon III,,into the Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c203c1360f17,to Monkey Dungeon II,,to Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa11033d6c98,in Monkey Dungeon II,,in Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b36e45cca6eb,into Monkey Dungeon II,,into Monkey Dungeon II,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:19aad470eec1,to Monkey Dungeon III,,to Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99f3c534475a,in Monkey Dungeon III,,in Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:52a07e6292f3,into Monkey Dungeon III,,into Monkey Dungeon III,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a679c524ebed,to the Orc Valley,,to the Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0ae1f32cf453,in the Orc Valley,,in the Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2678b788b10d,into the Orc Valley,,into the Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d21fe6f58729,to Orc Valley,,to Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce99b25c83bd,in Orc Valley,,in Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b11e85ea8fa8,into Orc Valley,,into Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:93dd4ea14407,to Mount Sohan,,to Mount Sohan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d69a2cd8b6d,in Mount Sohan,,in Mount Sohan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcbdf0bcfcbb,into Mount Sohan,,into Mount Sohan,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5855a3d4c17f,to the Spider Dungeon,,to the Spider Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb1311e77521,in the Spider Dungeon,,in the Spider Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39cb1ffbe8a0,into the Spider Dungeon,,into the Spider Dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c68aa523e51c,to the Spider Dungeon 2,,to the Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c9949f8c9fcc,in the Spider Dungeon 2,,in the Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22947400a463,into the Spider Dungeon 2,,into the Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2ea41db6da3,to Spider Dungeon 2,,to Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f872cf7c84ae,in Spider Dungeon 2,,in Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e188b51951c3,into Spider Dungeon 2,,into Spider Dungeon 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e35ed21321c,to the Hwang Temple,,to the Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:82ce3aeed9e2,in the Hwang Temple,,in the Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:955cba80817c,into the Hwang Temple,,into the Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3a3bfec0d7d,to Hwang Temple,,to Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b1e64df20539,in Hwang Temple,,in Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:39ffcd5f944a,into Hwang Temple,,into Hwang Temple,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:98659210f965,to the Ghost Wood,,to the Ghost Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9ff0e9045056,in the Ghost Wood,,in the Ghost Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8f2407884b78,into the Ghost Wood,,into the Ghost Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b8295ca50c33,to the Ghost Forest,,to the Ghost Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ae6d2c0e0119,in the Ghost Forest,,in the Ghost Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e49151f506a,into the Ghost Forest,,into the Ghost Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22258fee6b80,to the Red Wood,,to the Red Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad42b52957f8,in the Red Wood,,in the Red Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:00f9e37076e6,into the Red Wood,,into the Red Wood,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76d34513403b,to the Red Forest,,to the Red Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:230afa876cda,in the Red Forest,,in the Red Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:91b3a29c5c65,into the Red Forest,,into the Red Forest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1a1e0a0475fb,to the Demon Tower,,to the Demon Tower,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:907079fa4fe8,in the Demon Tower,,in the Demon Tower,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d67786f5008,into the Demon Tower,,into the Demon Tower,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4de2fcea488b,to the Grotto of Exile,,to the Grotto of Exile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66cb3e9cf03b,in the Grotto of Exile,,in the Grotto of Exile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc43748f00c2,into the Grotto of Exile,,into the Grotto of Exile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d9dd613effbc,to the Grotto of Exile 2,,to the Grotto of Exile 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5eec845e8a64,in the Grotto of Exile 2,,in the Grotto of Exile 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1075ae2e1321,into the Grotto of Exile 2,,into the Grotto of Exile 2,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56030b826114,to the Grotto,,to the Grotto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:760b5e04a530,in the Grotto,,in the Grotto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3015625d415a,into the Grotto,,into the Grotto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:27c23a352268,to the Yongbi Desert,,to the Yongbi Desert,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df722d9149e3,in the Yongbi Desert,,in the Yongbi Desert,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3c25f433f746,into the Yongbi Desert,,into the Yongbi Desert,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:33ad2cae4f96,to the armour dealer,,to the armor dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2dd928c0e8e2,in the armour dealer,,in the armor dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:917fc69b5f15,into the armour dealer,,into the armor dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6eeb5b8c0d4b,to the weapon dealer,,to the weapon dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:789b94f625f1,in the weapon dealer,,in the weapon dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a95d776addf1,into the weapon dealer,,into the weapon dealer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3547c995455f,to the general store,,to the general store,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a3af7bf31a09,in the general store,,in the general store,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d4c099ca255,into the general store,,into the general store,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ccf84acd99cc,to the blacksmith,,to the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44fb14cb1fbf,in the blacksmith,,in the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:963bc36dcb98,into the blacksmith,,into the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3a2048fbf5f7,to town,,to town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8cb8932eed71,in town,,in town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ce4e974955f3,into town,,into town,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:84f6bb20d960,at the blacksmith,,at the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:270e173948ef,at a merchant,,at a merchant,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b658ad6de18,in the north,,in the north,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3d3db39970f6,in the south,,in the south,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d935c4566f4,in the east,,in the east,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1bcefc713b0d,in the west,,in the west,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f14cdd4e76c,in the north-east,,in the north-east,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fcc606576079,in the north-west,,in the north-west,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9a54e61923c8,in the south-east,,in the south-east,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:40e145ffd641,in the south-west,,in the south-west,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ad7e2f5eefa8,in the middle of the map,,in the middle of the map,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cae56215a804,hunting,,hunting,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:df9a698b88a5,regeneration,,regeneration,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95fa7a5a6524,Sorting out the inventory,,Sorting out the inventory,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:827cc8f22d2b,Going to a duel with %s,,Going to a duel with %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:3e5bc4c74536,Duel with %s,,Duel with %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:9323334c6d7e,back to work,,back to work,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cc68da4c470b,to train a Grand Master skill,,to train a Grand Master skill,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04606fc64b12,to get back to town quickly,,to get back to town quickly,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bdc5330e8b1,to read my books without the wait,,to read my books without the wait,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aa4048e113b0,to change bonuses at the blacksmith,,to change bonuses at the blacksmith,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bcabf8965fdc,Going to the OX Quiz,,Going to the OX Quiz,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:343b399714fd,[PT] ,,[PT] ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44042a89bcb9,Mounted,,Mounted,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d612c12d2ac,auto,,auto,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6656018ac96d,always,,always,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:85777c03b725,never,,never,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d5fdac3b434e,"Fights from its horse beside you while you ride: auto (Shaman, black-magic Sura climb off), always, never.",,"Fights from its horse beside you while you ride: auto (Shaman, black-magic Sura climb off), always, never.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d0352c971bb1,Going to Jack Pumpkin,,Going to Jack Pumpkin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:58462b7ff323,Trading with Jack Pumpkin,,Trading with Jack Pumpkin,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:077d49e68fbc,Going to the Pumpkin Scarecrow,,Going to the Pumpkin Scarecrow,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:013db90e04d4,Talking to the Pumpkin Scarecrow,,Talking to the Pumpkin Scarecrow,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f805b673483,Report player,,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:78baebfcb4b5,Fire,,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0a2af398fe47,Ice,,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9814859a0576,HP recovery requires a server with attacker queries. Disable this option or update the server.,,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:96b42d843b86,"Moves away from attackers and nearby aggressive monsters while recovering HP, including after revival. If no safer route is available, keeps the usual defence.",,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3592366b9749,Live changes require windowed mode.,,Live changes require windowed mode.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dbe23ae3d200,Buffs,,Buffs,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42153ed0bae2,Player:,,Player:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d48aafe6892b,Fetch,,Fetch,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e7b192caac22,Type the player's name.,,Type the player's name.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eee35960f44d,The quest,,The quest,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:476cb365f676,Reward variant,,Reward variant,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5620aaff56f1,Complete with reward,,Complete with reward,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eefaca3dd40b,The list is the database's copy. The server checks the stage again in the game.,,The list is the database's copy. The server checks the stage again in the game.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f4d0e1411220,Type a valid player name.,,Type a valid player name.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:61bf181c9b7d,Fetching the quests of %s...,,Fetching the quests of %s...,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:b51350304a09,Give the reward above and skip what this quest requires? Click again.,,Give the reward above and skip what this quest requires? Click again.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:471c0eb9b2e3,Confirm the reward,,Confirm the reward,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:513b552b2ca1,No answer from the server. Refresh the list or the request.,,No answer from the server. Refresh the list or the request.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:274908e3773f,The quest's stage changed. Fetch the list again.,,The quest's stage changed. Fetch the list again.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:94e66b8dd068,The reward changed. Open its preview again.,,The reward changed. Open its preview again.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b747dd0e8f44,The game's reward table needs a reload by the administrator.,,The game's reward table needs a reload by the administrator.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecaed3188c01,The player's inventory has no room.,,The player's inventory has no room.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:190d448fa845,The reward would pass the player's Yang limit.,,The reward would pass the player's Yang limit.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2678e948175b,This quest has already been rewarded.,,This quest has already been rewarded.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:35ae97a01321,The Biologist's reward has already been given.,,The Biologist's reward has already been given.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:99dbc257dda7,Quest completion is switched off (panel: Player quests).,,Quest completion is switched off (panel: Player quests).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7bf1254ce489,Pick the quest again to refresh its reward.,,Pick the quest again to refresh its reward.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:da444935e92f,No such character.,,No such character.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f39dc511265f,Too many requests. Wait a moment.,,Too many requests. Wait a moment.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fa324ede4494,"This quest cannot be completed here, or its stage is inactive.",,"This quest cannot be completed here, or its stage is inactive.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a86c3243e7d5,This reward needs its room checked by hand.,,This reward needs its room checked by hand.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bed2a0560dd3,This variant does not fit the class or the stage.,,This variant does not fit the class or the stage.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aab23ad18640,The quest's cycle changed. Fetch the quests again.,,The quest's cycle changed. Fetch the quests again.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d5839e605adf,This series of tasks is already over.,,This series of tasks is already over.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:129dbebee513,The horse's level does not fit this task. Refresh the list.,,The horse's level does not fit this task. Refresh the list.,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:f83272982684,A bot gets no reward for free.,,A bot gets no reward for free.,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -16,7 +516,6 @@ c:pbt:509d083b4f5a,The server's answer was not understood. Refresh the list.,,Th
 c:pbt:658b9b0079b0,Name / PID,,Name / PID,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:153cc07126d7,No bots,,No bots,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:cd0af6cfca75,No matches,,No matches,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b04ba49f8486,Loading...,,Loading...,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:d25165091f06,No response,,No response,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c78a5f48863b,Select a bot,,Select a bot,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:fcb9b52cc95a,Despawn,,Despawn,"client: our windows (companion, Auto Hunt, status lines)",done
@@ -200,502 +699,3 @@ c:pbt:742cee24f629,Active bots,,Active bots,"client: our windows (companion, Aut
 c:pbt:856d87d0c831,Active bots: -,,Active bots: -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:c675c746ef1b,In a party: -,,In a party: -,"client: our windows (companion, Auto Hunt, status lines)",done
 c:pbt:133559d37d6b,Keeping a stall: -,,Keeping a stall: -,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4a241e655e75,Choose a bot from the list on the left,,Choose a bot from the list on the left,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4fb2f511570b,Refresh log,,Refresh log,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:de5c2bba0c16,Kick the bot,,Kick the bot,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a0187353bdc2,Give an item (vnum / amount):,,Give an item (vnum / amount):,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9bc2575c3930,Send,,Send,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ae665c861fa1,Active bots: %s,,Active bots: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:07a33b6f1402,In a party: %s,,In a party: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:89fe8f59022c,Keeping a stall: %s,,Keeping a stall: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:63a6e4280aab,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d","client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d %d %d %d",done
-c:pbt:cb640dce08ec,(this bot has not said anything yet),,(this bot has not said anything yet),"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e161602a2fa3,Achievement #%d,,Achievement #%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
-c:pbt:c080148f299b,Won by: %s,,Won by: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:pbt:bbf7fe0d2377,Nobody yet,,Nobody yet,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ef27679fac54,The bot admin window did not load in this client - see syserr.txt,,The bot admin window did not load in this client - see syserr.txt,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5cbff7ffd2bd,Drag Auto Hunt onto the quickbar,,Drag Auto Hunt onto the quickbar,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:23707dd8cdef,the server has not confirmed the filter yet - retrying. Pickup waits for the confirmation.,,the server has not confirmed the filter yet - retrying. Pickup waits for the confirmation.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b70e4a30bebe,the server refused the filter. Pickup paused. Change the filter settings or press Z to retry.,,the server refused the filter. Pickup paused. Change the filter settings or press Z to retry.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba7d67df5db7,the server does not know the Auto Hunt filter - it is older than the client. Update the server; until then filtered pickup is paused.,,the server does not know the Auto Hunt filter - it is older than the client. Update the server; until then filtered pickup is paused.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d7a10c6a87ee,the server confirmed the filter - pickup resumed.,,the server confirmed the filter - pickup resumed.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:10dfb99f271b,Min. +,,Min. +,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3f0a8e7383bb,[x] Pick up,,[x] Pick up,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:135927e5861f,Selects or deselects the whole category. Clears manual exceptions while preserving Min. +.,,Selects or deselects the whole category. Clears manual exceptions while preserving Min. +.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d6a7b377fe22,Name or vnum:,,Name or vnum:,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ea243e47d7b3,vnum exception limit. Use Entire page.,,vnum exception limit. Use Entire page.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:84a82b56c3af,exception limit; minimum + was not saved.,,exception limit; minimum + was not saved.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:55dcbd95a175,Page %d/%d - %d items,,Page %d/%d - %d items,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",done
-c:pbt:d661b5182ce7,Page %d/%d - %s,,Page %d/%d - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %s",done
-c:pbt:92428eecce22,Loading catalogue: %d/%d,,Loading catalog: %d/%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:b856edf2d4ee,Click: select item. Min. +: minimum upgrade level.,,Click: select item. Min. +: minimum upgrade level.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba2b5a5fc869,Searching...,,Searching...,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c49ba22ae5dc,Click a skill: collect only selected skill books.,,Click a skill: collect only selected skill books.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:96d7f0b44fcf,Click a skill: collect only selected forget books.,,Click a skill: collect only selected forget books.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8278c6b1cfe9,Variants: +%d to +%d,,Variants: +%d to +%d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:4570b34c0595,Vnum series: ,,Vnum series: ,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1fa7c2a796dd,Refine all,,Refine all,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:44c13d067cc5,"Current tab, one attempt per set. Click again to stop.",,"Current tab, one attempt per set. Click again to stop.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:50abfd1763fc,Server rejected the attempt. Batch stopped.,,Server rejected the attempt. Batch stopped.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:49f202584e0d,Stop (%d/%d),,Stop (%d/%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:481bf2955ab7,Waiting for result,,Waiting for result,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b045e587a8ad,First place your chosen refining bean in the window.,,First place your chosen refining bean in the window.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e8a5e8f82872,No complete refining sets in this tab.,,No complete refining sets in this tab.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4262c689d900,Server reply timed out. Batch stopped; wait for the pending result.,,Server reply timed out. Batch stopped; wait for the pending result.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5605d9f202ee,"Alchemy: %d attempts completed, %d successful.",,"Alchemy: %d attempts completed, %d successful.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
-c:pbt:0d1945a9b705,Inventory changed. Start a new batch.,,Inventory changed. Start a new batch.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4accfc2982bf,No more beans of the chosen type. Batch stopped.,,No more beans of the chosen type. Batch stopped.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5c4585bfc080,Marbles,,Marbles,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4bffd1b75d0b,"Polymorph from its bag: ask, with you (no question), always (also alone in a fight), off.",,"Polymorph from its bag: ask, with you (no question), always (also alone in a fight), off.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f3b50cd53cc4,Accessories,,Accessories,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce3f44c0310c,Swords,,Swords,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ce1649348ab2,Two-handed,,Two-handed,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8e7594d5bba6,Daggers,,Daggers,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4f773e9d5bf0,Bows,,Bows,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:650749789a2e,Bells,,Bells,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:73d38dbf7c5d,Fans,,Fans,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:731efc758725,Body armour,,Body armor,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:830a75394156,Pendants,,Pendants,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1fb2c11ac7e2,Gloves,,Gloves,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:75b04b88d466,Rings,,Rings,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0cb33492c615,Belts,,Belts,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:14a06b5af02b,Skill books,,Skill books,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d454718ba8f3,Forget books,,Forget books,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:760f58705552,Yang,,Yang,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d8e12fdf7641,Gold stones,,Gold stones,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:dfae001500b9,Ability potions,,Ability potions,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6c5c266e3c9c,Instant potions,,Instant potions,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3c079af159c5,Continuous potions,,Continuous potions,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:99fab17755b3,Quest items,,Quest items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ebab47857476,Special / manuals,,Special / manuals,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a7dd3a1d8ed5,Upgrading,,Upgrading,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9fb1092f32d4,Recipes,,Recipes,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:632b7a35e960,Other items,,Other items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4d844a14d111,Refinement materials,,Refinement materials,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d0c9b26f9cc4,Horse riding,,Horse riding,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f0acc036f949,Gathering,,Gathering,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7df7504fc57,Chests and keys,,Chests and keys,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4bdceda673b4,Rings and amulets,,Rings and amulets,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a2d4140ad8e1,Polymorph,,Polymorph,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b45a045dfc32,Other books,,Other books,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ed58f29743f8,Instructions,,Instructions,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:472b1d3a8bc8,Monkey dungeon,,Monkey dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:07ef2028c525,Orc Valley,,Orc Valley,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5e83789be88e,Temple,,Temple,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f6db3f96e9e3,Desert,,Desert,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c96e594616e0,Spider dungeon,,Spider dungeon,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:91c55059ac81,Sohan,,Sohan,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a418c2fdb30d,Doyyum,,Doyyum,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f41c4e4dab0b,Forest,,Forest,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4c028657cea3,Red forest,,Red forest,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0fbd8efea51d,Demon tower,,Demon tower,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5d1617afae6f,Grotto,,Grotto,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7612be290582,Catacomb,,Catacomb,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e5b0684bfb97,Maps 90+,,Maps 90+,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:47b5b7ad33c5,Other sources,,Other sources,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:718a7e8a582e,Body,,Body,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9e853f0d7cc6,Mental,,Mental,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:8940d66466e6,Assassin,,Assassin,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f75aedc160fd,Archer,,Archer,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:17182e9dd599,Weaponry,,Weaponry,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22ae5e022bd4,Black magic,,Black magic,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:eb22c5e28adf,Dragon,,Dragon,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:87272fae497d,Healing,,Healing,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7efbe4b17742,Companion's skills,,Companion's skills,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:209d832ec6fb,Companion's options,,Companion's options,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:07ea32dd0e5d,keeps,,keeps,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:801960125a1d,spends,,spends,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1c8f09270fc3,ask,,ask,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fdb8e1944d39,with you,,with you,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e5b174dc33a0,1. Adding and viewing items,,1. Adding and viewing items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e9ac41d5dd0f,Open BS with its icon in the inventory panel or with F5. You can add up to 3 items.,,Open BS with its icon in the inventory panel or with F5. You can add up to 3 items.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b2ec769b89d,"Drag an item from your inventory into a slot, or right-click it while BS is open.",,"Drag an item from your inventory into a slot, or right-click it while BS is open.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e0ff0c83bccb,"Each slot has three tabs: Set 1, Set 2 and Presets. Hover over the icon to see the item.",,"Each slot has three tabs: Set 1, Set 2 and Presets. Hover over the icon to see the item.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0116c605c925,Equipped items cannot be changed. BS works with the horse bag too.,,Equipped items cannot be changed. BS works with the horse bag too.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b5304dadc5e1,2. Main and alternative bonuses,,2. Main and alternative bonuses,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2c6b1d936874,Choose up to 5 main bonuses: all of them must reach their values.,,Choose up to 5 main bonuses: all of them must reach their values.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7223b7ac653a,"If you choose alternatives, at least one of them must match as well.",,"If you choose alternatives, at least one of them must match as well.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e3fb450f3bca,Example: poison as main + devils / undead as alternatives.,,Example: poison as main + devils / undead as alternatives.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5c109f8f33a0,A value is a minimum (bonus >= target). Any / skip adds no requirement. Right-click a selected bonus to clear its requirement.,,A value is a minimum (bonus >= target). Any / skip adds no requirement. Right-click a selected bonus to clear its requirement.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f8871e059527,3. Two independent target sets,,3. Two independent target sets,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fbf4c2a20209,Matching one active set is enough. An empty Set 1 or 2 is inactive.,,Matching one active set is enough. An empty Set 1 or 2 is inactive.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:40ec6cf4900e,Hitting one whole set is enough. Set 2 can be activated once an item is added.,,Hitting one whole set is enough. Set 2 can be activated once an item is added.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:c05615224f06,Example: Set 1: 30 average + 12 intelligence. Set 2: 40 average alone.,,Example: Set 1: 30 average + 12 intelligence. Set 2: 40 average alone.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ba0690401010,Both set buttons show their activity. Set 2 must also be enabled.,,Both set buttons show their activity. Set 2 must also be enabled.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:aac8cf81eb75,"4. Starting, stopping and a manual change",,"4. Starting, stopping and a manual change","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:898544f98917,Start begins automatic rerolling in that slot. Stop stops that slot.,,Start begins automatic rerolling in that slot. Stop stops that slot.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d070291d74c1,Start all resumes only inactive slots. Redundant Start all / Stop all shows a message.,,Start all resumes only inactive slots. Redundant Start all / Stop all shows a message.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:598b7a88b00a,"Change bonuses requires stopping this slot first. Clicking while it runs only shows a message. Confirming makes one change, even if the targets already match.",,"Change bonuses requires stopping this slot first. Clicking while it runs only shows a message. Confirming makes one change, even if the targets already match.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6d66df075256,Start/Stop ignores double-clicks for 0.5 s. Start waits for the previous result; a blocking popup names the bonus and reason.,,Start/Stop ignores double-clicks for 0.5 s. Start waits for the previous result; a blocking popup names the bonus and reason.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36f2b9765f4f,5. One speed for all three slots,,5. One speed for all three slots,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:e7bde8c4659b,The slider sets the gap between the requests of all active slots: 0.05-1 s.,,The slider sets the gap between the requests of all active slots: 0.05-1 s.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9de16438c8ab,The step is 0.05 s. The default is 0.05 s; the chosen speed is remembered.,,The step is 0.05 s. The default is 0.05 s; the chosen speed is remembered.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d5c946b676e2,With 3 items at 0.1 s each item changes about every 0.3 s.,,With 3 items at 0.1 s each item changes about every 0.3 s.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5da70e95d976,"When one finishes, the others speed up. Server delays can slow them down.",,"When one finishes, the others speed up. Server delays can slow them down.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3afa33527b90,6. Background work and notifications,,6. Background work and notifications,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:24618314a664,"Close, X or Esc hide BS without stopping rerolling. With BS open, hits produce neither PM nor minimap notifications.",,"Close, X or Esc hide BS without stopping rerolling. With BS open, hits produce neither PM nor minimap notifications.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:f538bf5de720,PM mode hides the status panel by the minimap. Popup and Popup + PM show the counters and speed.,,PM mode hides the status panel by the minimap. Popup and Popup + PM show the counters and speed.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2bb364852ae8,Start / Stop in the minimap status panel controls all BS slots. Open BS window shows the full window. The notification type is shared by accounts using this client folder.,,Start / Stop in the minimap status panel controls all BS slots. Open BS window shows the full window. The notification type is shared by accounts using this client folder.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3e56a0b933e2,"Choose Popup, PM or Popup + PM next to Presets. Hit notifications work only in the background. PM briefly pauses rerolls until its quest ends.",,"Choose Popup, PM or Popup + PM next to Presets. Hit notifications work only in the background. PM briefly pauses rerolls until its quest ends.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6687301e162b,7. Server confirmations and pauses,,7. Server confirmations and pauses,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:77e82fbcdad7,BS waits for a change to be confirmed before it sends the next request.,,BS waits for a change to be confirmed before it sends the next request.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5102e2e12dc1,"BS waits up to 5 s for confirmation, then retries after about 1 s. Three consecutive unconfirmed attempts stop the slot.",,"BS waits up to 5 s for confirmation, then retries after about 1 s. Three consecutive unconfirmed attempts stop the slot.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:814042aabf39,"Trade, storage, shops and NPC dialogs pause BS until the blocking window closes. After death, BS waits for revival.",,"Trade, storage, shops and NPC dialogs pause BS until the blocking window closes. After death, BS waits for revival.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:7063b2330b51,A manual stop is never resumed by itself.,,A manual stop is never resumed by itself.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bac71373e000,"8. Teleports, channels and where the item is",,"8. Teleports, channels and where the item is","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ee8adc8b05ed,You can change the channel while rerolling. After a channel change or a teleport BS resumes after 5 s.,,You can change the channel while rerolling. After a channel change or a teleport BS resumes after 5 s.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:388cf0ae20ca,It resumes only if the item is still in the remembered inventory slot.,,It resumes only if the item is still in the remembered inventory slot.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:95803235754f,Picking up the item pauses BS. Returning it to the same cell resumes work without resetting the counter.,,Picking up the item pauses BS. Returning it to the same cell resumes work without resetting the counter.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:04932c792a29,Moving stops BS. Right-click the same item in EQ to assign it again. You can also drag it onto its BS slot or return it to its previous EQ slot; then click Start.,,Moving stops BS. Right-click the same item in EQ to assign it again. You can also drag it onto its BS slot or return it to its previous EQ slot; then click Start.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2e5d86f0bb0d,9. Buying reroll scrolls in the ItemShop,,9. Buying reroll scrolls in the ItemShop,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:06167a733e07,BS buys 200 scrolls for DC when fewer than 200 remain. It buys while rerolling or processing a manual change.,,BS buys 200 scrolls for DC when fewer than 200 remain. It buys while rerolling or processing a manual change.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5aefa361e1a1,Switching it on asks for your consent and shows the price. It applies to this character only.,,Switching it on asks for your consent and shows the price. It applies to this character only.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4659fda56295,"A purchase needs free inventory space. If another window blocks it, BS retries every 5 s.",,"A purchase needs free inventory space. If another window blocks it, BS retries every 5 s.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a06944211a03,"Missing Dragon Coins, or a purchase that left no scrolls in the inventory, stops BS.",,"Missing Dragon Coins, or a purchase that left no scrolls in the inventory, stops BS.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b5043f7aaea7,10. Presets and quick loading,,10. Presets and quick loading,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:acd8a6efdcfa,"Save preset stores both sets, the chosen bonuses and their values under a name.",,"Save preset stores both sets, the chosen bonuses and their values under a name.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b243bf210077,Each category has its own presets: PvP can be saved separately for weapons and shoes.,,Each category has its own presets: PvP can be saved separately for weapons and shoes.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2452bb345e62,Bonus catalog: choose a category card with an icon to view its bonuses and possible values.,,Bonus catalog: choose a category card with an icon to view its bonuses and possible values.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b7c4351752cd,Compatible replacements keep targets. Another matching item needs Start. Restarting clears slots; named presets remain.,,Compatible replacements keep targets. Another matching item needs Start. Restarting clears slots; named presets remain.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:60e375d80427,"Presets can load before bonuses exist; Start checks targets. In the selection window, right-click adds to a free slot; dragging replaces a taken one.",,"Presets can load before bonuses exist; Start checks targets. In the selection window, right-click adds to a free slot; dragging replaces a taken one.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:1d98532c97fa,"Replacing selected bonuses, overwriting and deleting presets require confirmation. Presets are shared and synchronized between clients using the same folder.",,"Replacing selected bonuses, overwriting and deleting presets require confirmation. Presets are shared and synchronized between clients using the same folder.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:79c235b30309,"11. Values, colours and counters",,"11. Values, colors and counters","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d72b85b01775,A chosen bonus gets its maximum value; you can type your own.,,A chosen bonus gets its maximum value; you can type your own.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:22c2c0499b49,"Ordinary bonuses and values are green, maximum values gold, negative ones red.",,"Ordinary bonuses and values are green, maximum values gold, negative ones red.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:b3365cece335,Green in BS and inventory means the targets were reached. Red and yellow cover the full item size (1-3 cells).,,Green in BS and inventory means the targets were reached. Red and yellow cover the full item size (1-3 cells).,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:554c871e6853,A selected tab has white text and border; inactive sets keep a red background. Counters total usage and purchases.,,A selected tab has white text and border; inactive sets keep a red background. Counters total usage and purchases.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:ea24fc455d17,12. Clearing and safe choices,,12. Clearing and safe choices,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bbb5a23f0d66,A right click on the item icon in BS works like Clear: the slot and its targets go.,,A right click on the item icon in BS works like Clear: the slot and its targets go.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cc873faf6c4f,"Clear all clears every slot, the used-scroll counter and notifications. Clear dismisses the notification for that slot.",,"Clear all clears every slot, the used-scroll counter and notifications. Clear dismisses the notification for that slot.","client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:349b78fb96d3,Presets and inventory items remain after clearing. Full slots also show a popup; identical matches need dragging.,,Presets and inventory items remain after clearing. Full slots also show a popup; identical matches need dragging.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:027e55363c5b,Changing targets or restarting a slot dismisses its previous notification.,,Changing targets or restarting a slot dismisses its previous notification.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4df16c3305c4,Red marks the selected item. Yellow with its BS slot number marks the original cell. Closing Info resets the page.,,Red marks the selected item. Yellow with its BS slot number marks the original cell. Closing Info resets the page.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36155d48f460,Equipment,,Equipment,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:893c12be4126,Upgrade and bonus items,,Upgrade and bonus items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:2efc8a84342f,Books and skills,,Books and skills,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bd629b84235b,Herbs,,Herbs,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4190d6d0f5df,Consumables,,Consumables,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:89d13e810ed3,Fishing and mining,,Fishing and mining,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:515fe2b3ec1a,Quests and events,,Quests and events,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:41def7a0febe,Appearance,,Appearance,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:bae7d5be7082,Status,,Status,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:09805f627824,Auto Hunt needs the new metin2client.exe. Start the game from the launcher (PLAY) or run Aktualizuj.bat in the client folder.,,Auto Hunt needs the new metin2client.exe. Start the game from the launcher (PLAY) or run Aktualizuj.bat in the client folder.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:cd6ec7d37764,One-handed swords,,One-handed swords,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4fde72a7d89e,Two-handed swords,,Two-handed swords,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5f590edf2f02,Armour - Warrior,,Armor - Warrior,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:36df01164e26,Armour - Ninja,,Armor - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:3c2009041421,Armour - Sura,,Armor - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:6b6613d4fa90,Armour - Shaman,,Armor - Shaman,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:804652fa1c0a,Helmets - Warrior,,Helmets - Warrior,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:041e863bb094,Helmets - Ninja,,Helmets - Ninja,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:9b2392000c1f,Helmets - Sura,,Helmets - Sura,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4f235d457fd9,Helmets - Shaman,,Helmets - Shaman,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d5c8c9d9b6ca,Forgetting books,,Forgetting books,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:629edbdb7a92,Spirit stones,,Spirit stones,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:fb219dd7bd04,Ores,,Ores,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:0f1a3718b995,Usable items,,Usable items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:d602fbea98b1,Upgrade items,,Upgrade items,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:a31539f977b4,Dragon Alchemy,,Dragon Alchemy,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:41af5f20e30d,"Your metin2client.exe is older than the rest of the client[ENTER](2 inventory pages instead of 4), so the game will not let it in.[ENTER]Close the game and start the launcher again - it replaces the file itself.[ENTER]If that does not help, ask on the project's Discord.",,"Your metin2client.exe is older than the rest of the client[ENTER](2 inventory pages instead of 4), so the game will not let it in.[ENTER]Close the game and start the launcher again - it replaces the file itself.[ENTER]If that does not help, ask on the project's Discord.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
-c:pbt:a4e5a3a9480e,Apply the selected mode to every shop listing.,,Apply the selected mode to every shop listing.,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:5efd3ff94132,Warning: This changes the price of every listed item!,,Warning: This changes the price of every listed item!,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:4b525de69e36,Game Master,,Game Master,"client: our windows (companion, Auto Hunt, status lines)",done
-c:pbt:61d5521893ec,%sHorse training is waiting for yang,,%sHorse training is waiting for yang,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
-c:skilldesc:1:2,Three-Way Cut,Trzystronne Cięcie,Three-Way Cut,"client: skill tooltip, skill name (skill 1)",done
-c:skilldesc:1:3,Triple Cut,Potrójne Cięcie,Triple Cut,"client: skill tooltip, skill name (M) (skill 1)",done
-c:skilldesc:1:4,Triple Slash,Potrójne Ciachnięcie,Triple Slash,"client: skill tooltip, skill name (G/P) (skill 1)",done
-c:skilldesc:1:5,Cut the enemy with lightning speed.,Tnij wroga z niesamowitą szybkością,Cut the enemy with lightning speed.,"client: skill tooltip, description (skill 1)",done
-c:skilldesc:1:6,Frontal Slash Attack 3 times,Frontalny atak rozpryskowy 3 razy,Frontal Slash Attack 3 times,"client: skill tooltip, condition 1 (skill 1)",done
-c:skilldesc:1:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 1)",done
-c:skilldesc:1:17,Total Attack Power %.0f-%.0f,Totalna Siła Ataku %.0f-%.0f,Total Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 1) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:2:2,Sword Spin,Wir Miecza,Sword Spin,"client: skill tooltip, skill name (skill 2)",done
-c:skilldesc:2:3,Sword Dance,Taniec Miecza,Sword Dance,"client: skill tooltip, skill name (M) (skill 2)",done
-c:skilldesc:2:4,Cyclone,Cyklon,Cyclone,"client: skill tooltip, skill name (G/P) (skill 2)",done
-c:skilldesc:2:5,Spin the sword to attack several enemies.,Wiruj mieczem aby atakować wielu przeciwników,Spin the sword to attack several enemies.,"client: skill tooltip, description (skill 2)",done
-c:skilldesc:2:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontal Splash Attack,"client: skill tooltip, condition 1 (skill 2)",done
-c:skilldesc:2:7,Attack on Multiple Targets,Atak w kilka celów,Attack on Multiple Targets,"client: skill tooltip, condition 2 (skill 2)",done
-c:skilldesc:2:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 2) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:3:2,Berserk,Berserk,Berserk,"client: skill tooltip, skill name (skill 3)",done
-c:skilldesc:3:3,Fury,Furia,Fury,"client: skill tooltip, skill name (M) (skill 3)",done
-c:skilldesc:3:4,Frenzy,Szał,Frenzy,"client: skill tooltip, skill name (G/P) (skill 3)",done
-c:skilldesc:3:5,Only concentrate on attacking.,Koncentracja tylko na ataku,Only concentrate on attacking.,"client: skill tooltip, description (skill 3)",done
-c:skilldesc:3:6,Increases Attack Speed,Zwiększa Szybkość Ataku,Increases Attack Speed,"client: skill tooltip, condition 1 (skill 3)",done
-c:skilldesc:3:7,Increases Moving Speed,Zwiększa Szybkość Ruchu,Increases Moving Speed,"client: skill tooltip, condition 2 (skill 3)",done
-c:skilldesc:3:8,Increases Received Damage,Zwiększa otrzymywane obrażenia,Increases Received Damage,"client: skill tooltip, condition 3 (skill 3)",done
-c:skilldesc:3:17,Attack Speed +%.0f%%,Szybkość Ataku +%.0f%%,Attack Speed +%.0f%%,"client: skill tooltip, effect line 1 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:3:20,Moving Speed +%.0f%%,Szybkość Ruchu +%.0f%%,Moving Speed +%.0f%%,"client: skill tooltip, effect line 2 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:3:23,Received Damage +%.0f%%,Otrzymywane obrażenia +%.0f%%,Received Damage +%.0f%%,"client: skill tooltip, effect line 3 (skill 3) | keep: %.0f | max 64 characters",done
-c:skilldesc:4:2,Aura of the Sword,Aura Miecza,Aura of the Sword,"client: skill tooltip, skill name (skill 4)",done
-c:skilldesc:4:3,Spiritual Sword,Duchowy Miecz,Spiritual Sword,"client: skill tooltip, skill name (M) (skill 4)",done
-c:skilldesc:4:4,Phantom Sword,Miecz Zjawy,Phantom Sword,"client: skill tooltip, skill name (G/P) (skill 4)",done
-c:skilldesc:4:5,Increases Attack Power for a period of time.,Czasowo zwiększa Siłę Ataku,Increases Attack Power for a period of time.,"client: skill tooltip, description (skill 4)",done
-c:skilldesc:4:6,Increases Attack Power,Zwiększa Siłę Ataku,Increases Attack Power,"client: skill tooltip, condition 1 (skill 4)",done
-c:skilldesc:4:17,Attack Power +%.0f,Siła Ataku +%.0f,Attack Power +%.0f,"client: skill tooltip, effect line 1 (skill 4) | keep: %.0f | max 64 characters",done
-c:skilldesc:5:2,Dash,Szarża,Dash,"client: skill tooltip, skill name (skill 5)",done
-c:skilldesc:5:3,Bullet Dash,Uderzenie Pocisku,Bullet Dash,"client: skill tooltip, skill name (M) (skill 5)",done
-c:skilldesc:5:4,Powerful Attack,Potężny Atak,Powerful Attack,"client: skill tooltip, skill name (G/P) (skill 5)",done
-c:skilldesc:5:5,You attack as fast as a Bullet,Twój atak jest szybki jak pocisk,You attack as fast as a Bullet,"client: skill tooltip, description (skill 5)",done
-c:skilldesc:5:6,Powerful Splash Attack,Potężny atak rozpryskowy,Powerful Splash Attack,"client: skill tooltip, condition 1 (skill 5)",done
-c:skilldesc:5:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 5) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:5:20,Faint Chance +%.0f%%,Szansa na omdlenie +%.0f%%,Faint Chance +%.0f%%,"client: skill tooltip, effect line 2 (skill 5) | keep: %.0f | max 64 characters",done
-c:skilldesc:16:2,Spirit Strike (W),Duchowe Uderzenie,Spirit Strike (W),"client: skill tooltip, skill name (skill 16)",done
-c:skilldesc:16:3,Shockwave,Fala Uderzeniowa,Shockwave,"client: skill tooltip, skill name (M) (skill 16)",done
-c:skilldesc:16:4,Tsunami Attack,Atak Tsunami,Tsunami Attack,"client: skill tooltip, skill name (G/P) (skill 16)",done
-c:skilldesc:16:5,Attack enemies directly.,Atakuje centralnie wrogów,Attack enemies directly.,"client: skill tooltip, description (skill 16)",done
-c:skilldesc:16:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontal Splash Attack,"client: skill tooltip, condition 1 (skill 16)",done
-c:skilldesc:16:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 16) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:17:2,Bash,Walnięcie,Bash,"client: skill tooltip, skill name (skill 17)",done
-c:skilldesc:17:3,Tiger Bash,Tygrysie walnięcie,Tiger Bash,"client: skill tooltip, skill name (M) (skill 17)",done
-c:skilldesc:17:4,Dragon Bash,Smocze Powalenie,Dragon Bash,"client: skill tooltip, skill name (G/P) (skill 17)",done
-c:skilldesc:17:5,Attack enemies directly.,Atakuje centralnie wrogów,Attack enemies directly.,"client: skill tooltip, description (skill 17)",done
-c:skilldesc:17:6,Straight Splash Attack,Prosty rozpryskowy atak,Straight Splash Attack,"client: skill tooltip, condition 1 (skill 17)",done
-c:skilldesc:17:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 17)",done
-c:skilldesc:17:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 17) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:18:2,Stump,Tąpnięcie,Stump,"client: skill tooltip, skill name (skill 18)",done
-c:skilldesc:18:3,Lion Stump,Tąpnięcia Lwa,Lion Stump,"client: skill tooltip, skill name (M) (skill 18)",done
-c:skilldesc:18:4,Rhino Stump ,Tąpnięcie Nosorożca,Rhino Stump ,"client: skill tooltip, skill name (G/P) (skill 18)",done
-c:skilldesc:18:5,Knock over several enemies.,Zwal z nóg kilku wrogów.,Knock over several enemies.,"client: skill tooltip, description (skill 18)",done
-c:skilldesc:18:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontal Splash Attack,"client: skill tooltip, condition 1 (skill 18)",done
-c:skilldesc:18:7,Fainting Effect Chance,Szansa na Omdlenie,Fainting Effect Chance,"client: skill tooltip, condition 2 (skill 18)",done
-c:skilldesc:18:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 18) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:18:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Faint Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 18) | keep: %.0f | max 64 characters",done
-c:skilldesc:19:2,Strong Body,Silne Ciało,Strong Body,"client: skill tooltip, skill name (skill 19)",done
-c:skilldesc:19:3,Iron Body,Żelazne Ciało,Iron Body,"client: skill tooltip, skill name (M) (skill 19)",done
-c:skilldesc:19:4,Steel Body,Stalowe Ciało,Steel Body,"client: skill tooltip, skill name (G/P) (skill 19)",done
-c:skilldesc:19:5,Increases defence and you won't fall on the ground.,Zwiększa Obronę i pomaga wygrać,Increases defense and you won't fall on the ground.,"client: skill tooltip, description (skill 19)",done
-c:skilldesc:19:6,Increases Defence,Zwiększa Obronę,Increases Defense,"client: skill tooltip, condition 1 (skill 19)",done
-c:skilldesc:19:7,Decreases Moving Speed.,Zmniejsza Szybkość Ruchu,Decreases Moving Speed.,"client: skill tooltip, condition 2 (skill 19)",done
-c:skilldesc:19:8,You won't fall over,Nigdy nie upadasz,You won't fall over,"client: skill tooltip, condition 3 (skill 19)",done
-c:skilldesc:19:17,Defence: +%.0f ,Obrona: +%.0f,Defense: +%.0f ,"client: skill tooltip, effect line 1 (skill 19) | keep: %.0f | max 64 characters",done
-c:skilldesc:19:20,Moving Speed: -%.0f,,Moving Speed: -%.0f,"client: skill tooltip, effect line 2 (skill 19) | keep: %.0f | max 64 characters",done
-c:skilldesc:20:2,Sword Strike,Uderzenie Miecza,Sword Strike,"client: skill tooltip, skill name (skill 20)",done
-c:skilldesc:20:3,Sword Bolt ,Pchnięcie Miecza,Sword Bolt ,"client: skill tooltip, skill name (M) (skill 20)",done
-c:skilldesc:20:4,Sword Hurl ,Rzut Miecza,Sword Hurl ,"client: skill tooltip, skill name (G/P) (skill 20)",done
-c:skilldesc:20:5,Attack enemies directly.,atakujesz wrogów bezpośrednio,Attack enemies directly.,"client: skill tooltip, description (skill 20)",done
-c:skilldesc:20:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 20)",done
-c:skilldesc:20:7,Attack on multiple targets,Atak skierowany na kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 20)",done
-c:skilldesc:20:8,Fainting Effect|Throws the target to the ground.,Omdlenie|Powala cel na ziemię,Fainting Effect|Throws the target to the ground.,"client: skill tooltip, condition 3 (skill 20)",done
-c:skilldesc:20:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 20) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:20:20,Faint Chance %.0f%%,Szansa na Omdlenie %.0f%%,Faint Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 20) | keep: %.0f | max 64 characters",done
-c:skilldesc:31:2,Ambush,Zasadzka,Ambush,"client: skill tooltip, skill name (skill 31)",done
-c:skilldesc:31:3,Stealth Attack,Niewidzialny Atak,Stealth Attack,"client: skill tooltip, skill name (M) (skill 31)",done
-c:skilldesc:31:4,Stealth Ambush,Niewidzialna Zasadzka,Stealth Ambush,"client: skill tooltip, skill name (G/P) (skill 31)",done
-c:skilldesc:31:5,Approach an enemy from behind and make a deadly attack.,Podejdź wroga od tyłu i zadaj śmiertelny cios.,Approach an enemy from behind and make a deadly attack.,"client: skill tooltip, description (skill 31)",done
-c:skilldesc:31:6,Attack Power increases for back hits.,"Siła ataku jest większa, jeśli cios zadano w plecy",Attack Power increases for back hits.,"client: skill tooltip, condition 1 (skill 31)",done
-c:skilldesc:31:7,Stealth Bonus,Bonus od Niewidzialności,Stealth Bonus,"client: skill tooltip, condition 2 (skill 31)",done
-c:skilldesc:31:8,Level prolongs Bloodthirst|Activates Bloodthirst,Aktywuje Żądze Krwi,Level prolongs Bloodthirst|Activates Bloodthirst,"client: skill tooltip, condition 3 (skill 31)",done
-c:skilldesc:31:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 31) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:31:20,Bloodthirst Duration: %.0f Sec.,Żądza Krwi: obraż. sztyletów w potwory +%.0f,Bloodthirst Duration: %.0f Sec.,"client: skill tooltip, effect line 2 (skill 31) | keep: %.0f | max 64 characters",done
-c:skilldesc:32:2,Fast Attack,Szybki Atak,Fast Attack,"client: skill tooltip, skill name (skill 32)",done
-c:skilldesc:32:3,Body Relocation,Przemieszczanie Ciała,Body Relocation,"client: skill tooltip, skill name (M) (skill 32)",done
-c:skilldesc:32:4,Death Strike,Cios Śmierci,Death Strike,"client: skill tooltip, skill name (G/P) (skill 32)",done
-c:skilldesc:32:5,Approach an enemy fast and make a deadly attack.,Podejdź wroga szybko i zadaj śmiertelny cios,Approach an enemy fast and make a deadly attack.,"client: skill tooltip, description (skill 32)",done
-c:skilldesc:32:6,Teleport Attack,Atak teleportacyjny,Teleport Attack,"client: skill tooltip, condition 1 (skill 32)",done
-c:skilldesc:32:7,Stealth Bonus,Bonus od niewidzialności,Stealth Bonus,"client: skill tooltip, condition 2 (skill 32)",done
-c:skilldesc:32:8,Root holds the target in place for up to 2 sec.,Uziemienie unieruchamia cel do 2 sek.,Root holds the target in place for up to 2 sec.,"client: skill tooltip, condition 3 (skill 32)",done
-c:skilldesc:32:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 32) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:32:20,Root Chance %.0f%%,Szansa na Uziemienie %.0f%%,Root Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 32) | keep: %.0f | max 64 characters",done
-c:skilldesc:33:2,Rolling Dagger,Wirujący Sztylet,Rolling Dagger,"client: skill tooltip, skill name (skill 33)",done
-c:skilldesc:33:3,Spinning Dagger,Krążący Sztylet,Spinning Dagger,"client: skill tooltip, skill name (M) (skill 33)",done
-c:skilldesc:33:4,Dancing Dagger,Tańczący Sztylet,Dancing Dagger,"client: skill tooltip, skill name (G/P) (skill 33)",done
-c:skilldesc:33:5,Whirl around enemies with a dagger.,Wiruj między wrogami ze sztyletem,Whirl around enemies with a dagger.,"client: skill tooltip, description (skill 33)",done
-c:skilldesc:33:6,Splash Attack,Atak rozpryskowy,Splash Attack,"client: skill tooltip, condition 1 (skill 33)",done
-c:skilldesc:33:7,Lasting Poison Attack,Atak czasowy trucizną,Lasting Poison Attack,"client: skill tooltip, condition 2 (skill 33)",done
-c:skilldesc:33:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 33) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:33:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Toxication Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 33) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:2,Stealth,Krycie Się,Stealth,"client: skill tooltip, skill name (skill 34)",done
-c:skilldesc:34:3,Silent Walk,Cichy Chód,Silent Walk,"client: skill tooltip, skill name (M) (skill 34)",done
-c:skilldesc:34:4,Cloaking,Maskowanie,Cloaking,"client: skill tooltip, skill name (G/P) (skill 34)",done
-c:skilldesc:34:5,You can hide yourself.,Możesz się ukryć.,You can hide yourself.,"client: skill tooltip, description (skill 34)",done
-c:skilldesc:34:6,Stops attacks when used.,"Zatrzymuje ataki, gdy użyty",Stops attacks when used.,"client: skill tooltip, condition 1 (skill 34)",done
-c:skilldesc:34:7,Level raises Bloodthirst,,Level raises Bloodthirst,"client: skill tooltip, condition 2 (skill 34)",done
-c:skilldesc:34:17,Ambush Bonus Damage: %.0f%% ,Bonus do obrażeń podczas zasadzki %.0f%%,Ambush Bonus Damage: %.0f%% ,"client: skill tooltip, effect line 1 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:20,Bloodthirst +%.0f,,Bloodthirst +%.0f,"client: skill tooltip, effect line 2 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:34:23,Bonus per stack (max. 2x): +%.0f,,Bonus per stack (max. 2x): +%.0f,"client: skill tooltip, effect line 3 (skill 34) | keep: %.0f | max 64 characters",done
-c:skilldesc:35:2,Poisonous Cloud,Trująca Chmura,Poisonous Cloud,"client: skill tooltip, skill name (skill 35)",done
-c:skilldesc:35:3,Deadly Cloud,Śmiercionośna Chmura,Deadly Cloud,"client: skill tooltip, skill name (M) (skill 35)",done
-c:skilldesc:35:4,Killing Cloud,Zabójcza Chmura,Killing Cloud,"client: skill tooltip, skill name (G/P) (skill 35)",done
-c:skilldesc:35:5,Make poisonous clouds around the enemy and intoxicate them.,Stwórz trującą chmurę wokół wrogów i otruj ich,Make poisonous clouds around the enemy and intoxicate them.,"client: skill tooltip, description (skill 35)",done
-c:skilldesc:35:6,Long Range Attack,Atak zasięgowy,Long Range Attack,"client: skill tooltip, condition 1 (skill 35)",done
-c:skilldesc:35:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 35)",done
-c:skilldesc:35:8,Lasting Poison Attack,Atak czasowy Trucizną,Lasting Poison Attack,"client: skill tooltip, condition 3 (skill 35)",done
-c:skilldesc:35:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 35) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:35:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Toxication Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 35) | keep: %.0f | max 64 characters",done
-c:skilldesc:46:2,Repetitive Shot,Powtarzalny Strzał,Repetitive Shot,"client: skill tooltip, skill name (skill 46)",done
-c:skilldesc:46:3,Multi-Shot,Multi-Strzał,Multi-Shot,"client: skill tooltip, skill name (M) (skill 46)",done
-c:skilldesc:46:4,Massive Shot,Masywny Strzał,Massive Shot,"client: skill tooltip, skill name (G/P) (skill 46)",done
-c:skilldesc:46:5,Shoot several arrows at one enemy.,Miotaj kilka strzał naraz w twojego wroga.,Shoot several arrows at one enemy.,"client: skill tooltip, description (skill 46)",done
-c:skilldesc:46:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 46)",done
-c:skilldesc:46:7,Several Attacks,Kilka Ataków,Several Attacks,"client: skill tooltip, condition 2 (skill 46)",done
-c:skilldesc:46:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory)|Powala cel na ziemie,Attack on multiple targets (monsters),"client: skill tooltip, condition 3 (skill 46)",done
-c:skilldesc:46:17,Attack Power (1 arrow) %.0f-%.0f ,Siła ataku (1 strzał) %.0f-%.0f,Attack Power (1 arrow) %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 46) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:46:20,shot arrows: %.0f,Wystrzelone strzały: %.0f ,shot arrows: %.0f,"client: skill tooltip, effect line 2 (skill 46) | keep: %.0f | max 64 characters",done
-c:skilldesc:46:23,Chance of Piercing Shot +%.0f%%,Szansa na przeszywający strzał +%.0f%%,Chance of Piercing Shot +%.0f%%,"client: skill tooltip, effect line 3 (skill 46) | keep: %.0f | max 64 characters",done
-c:skilldesc:47:2,Spark,Iskrzące Uderzenie,Spark,"client: skill tooltip, skill name (skill 47)",done
-c:skilldesc:47:3,Light Beam,Snop Światła,Light Beam,"client: skill tooltip, skill name (M) (skill 47)",done
-c:skilldesc:47:4,Lightning Blast,Błyskawica,Lightning Blast,"client: skill tooltip, skill name (G/P) (skill 47)",done
-c:skilldesc:47:5,You cause heavy damage to your opponent by suddenly radiating light.,Zrań przeciwnika za pomocą promienia świetlnego.,You cause heavy damage to your opponent by suddenly radiating light.,"client: skill tooltip, description (skill 47)",done
-c:skilldesc:47:6,Area of Effect,Obszar Efektu,Area of Effect,"client: skill tooltip, condition 1 (skill 47)",done
-c:skilldesc:47:7,Fainting Effect Chance,Szansa na Omdlenie,Fainting Effect Chance,"client: skill tooltip, condition 2 (skill 47)",done
-c:skilldesc:47:8,Knockback,Odrzut,Knockback,"client: skill tooltip, condition 3 (skill 47)",done
-c:skilldesc:47:17,Attack Power %.0f-%.0f,Siła Ataku: %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 47) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:47:20,Faint Chance: %.0f%%,Szansa na Omdlenie: %.0f%%,Faint Chance: %.0f%%,"client: skill tooltip, effect line 2 (skill 47) | keep: %.0f | max 64 characters",done
-c:skilldesc:48:2,Fire Arrow,Ognista Strzała,Fire Arrow,"client: skill tooltip, skill name (skill 48)",done
-c:skilldesc:48:3,Burning Arrow,Płonąca Strzała,Burning Arrow,"client: skill tooltip, skill name (M) (skill 48)",done
-c:skilldesc:48:4,Flame Arrow,Strzała Lawy,Flame Arrow,"client: skill tooltip, skill name (G/P) (skill 48)",done
-c:skilldesc:48:5,Ignite the arrow.,Podpala strzałę,Ignite the arrow.,"client: skill tooltip, description (skill 48)",done
-c:skilldesc:48:6,Long Range Attack,Atak zasięgowy,Long Range Attack,"client: skill tooltip, condition 1 (skill 48)",done
-c:skilldesc:48:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 48)",done
-c:skilldesc:48:8,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,Ognisty atak|Powala potwory na ziemie|Szansa na Omdlenie Potwora,Fire Attack|Throws monsters to the ground.|Monster Faint Chance,"client: skill tooltip, condition 3 (skill 48)",done
-c:skilldesc:48:17,Attack Power %.0f-%.0f,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f,"client: skill tooltip, effect line 1 (skill 48) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:48:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Lasting Fire Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 48) | keep: %.0f | max 64 characters",done
-c:skilldesc:49:2,Feather Walk,Bezszelestny Chód,Feather Walk,"client: skill tooltip, skill name (skill 49)",done
-c:skilldesc:49:3,Wind Walk,Chód Wiatru,Wind Walk,"client: skill tooltip, skill name (M) (skill 49)",done
-c:skilldesc:49:4,God's speed,Chód Boga,God's speed,"client: skill tooltip, skill name (G/P) (skill 49)",done
-c:skilldesc:49:5,Make your body lighter to increase moving speed.,"Zmniejsza wagę ciała, aby zwiększyć szybkość",Make your body lighter to increase moving speed.,"client: skill tooltip, description (skill 49)",done
-c:skilldesc:49:6,Increases moving speed,Zwiększa Szybkośc Ruchu,Increases moving speed,"client: skill tooltip, condition 1 (skill 49)",done
-c:skilldesc:49:7,Increases Endurance regeneration in combat,Zwiększa regenerację staminy w walce,Increases Endurance regeneration in combat,"client: skill tooltip, condition 2 (skill 49)",done
-c:skilldesc:49:8,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,Słabsze potwory nie słyszą twoich kroków|Zwiększa maks. limit ruchu do 220.,Weaker monsters do not hear your steps|Raises the max. moving speed to 220.,"client: skill tooltip, condition 3 (skill 49)",done
-c:skilldesc:49:17,Moving Speed +%.0f ,Szybkość Ruchu +%.0f,Moving Speed +%.0f ,"client: skill tooltip, effect line 1 (skill 49) | keep: %.0f | max 64 characters",done
-c:skilldesc:50:2,Poison Arrow,Trująca Strzała,Poison Arrow,"client: skill tooltip, skill name (skill 50)",done
-c:skilldesc:50:3,Toxic Arrow,Toksyczna Strzała,Toxic Arrow,"client: skill tooltip, skill name (M) (skill 50)",done
-c:skilldesc:50:4,Deadly Arrow,Śmiercionośna Strzała,Deadly Arrow,"client: skill tooltip, skill name (G/P) (skill 50)",done
-c:skilldesc:50:5,Coat the arrow with powerful poison.,Nasącz strzałę silną trucizną.,Coat the arrow with powerful poison.,"client: skill tooltip, description (skill 50)",done
-c:skilldesc:50:6,Long-Range Attack,Atak na odległość,Long-Range Attack,"client: skill tooltip, condition 1 (skill 50)",done
-c:skilldesc:50:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 50)",done
-c:skilldesc:50:8,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,Trujący czasowy atak|Powala cel na ziemię,Lasting Poison Attack|Throws the target to the ground.|Monster Faint Chance,"client: skill tooltip, condition 3 (skill 50)",done
-c:skilldesc:50:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 50) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:50:20,Toxication Chance %.0f%%,Szansa Na Zatrucie %.0f%%,Toxication Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 50) | keep: %.0f | max 64 characters",done
-c:skilldesc:51:2,Arrow Shower,Deszcz Strzał,Arrow Shower,"client: skill tooltip, skill name (skill 51)",done
-c:skilldesc:51:3,Dynamic Arrow,Mrowie Strzał,Dynamic Arrow,"client: skill tooltip, skill name (M) (skill 51)",done
-c:skilldesc:51:4,Arrow Rain,Prysznic Strzał,Arrow Rain,"client: skill tooltip, skill name (G/P) (skill 51)",done
-c:skilldesc:51:5,Shoot several arrows at several enemies. ,Miotaj kilka strzał w kilku wrogów.,Shoot several arrows at several enemies. ,"client: skill tooltip, description (skill 51)",done
-c:skilldesc:51:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 51)",done
-c:skilldesc:51:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 51)",done
-c:skilldesc:51:17,Attack Power %.0f-%0.f ,Siła Ataku %.0f-%0.f,Attack Power %.0f-%0.f ,"client: skill tooltip, effect line 1 (skill 51) | keep: %.0f %0.f | max 64 characters",done
-c:skilldesc:51:20,Max. number of targets: %.0f,Maks. ilość celów: %.0f,Max. number of targets: %.0f,"client: skill tooltip, effect line 2 (skill 51) | keep: %.0f | max 64 characters",done
-c:skilldesc:61:2,Finger Strike,Uderzenie Palcem,Finger Strike,"client: skill tooltip, skill name (skill 61)",done
-c:skilldesc:61:3,Burning Finger Strike,Uderzenie Płonącego Palca,Burning Finger Strike,"client: skill tooltip, skill name (M) (skill 61)",done
-c:skilldesc:61:4,Finger Explosion ,Eksplozja Palca,Finger Explosion ,"client: skill tooltip, skill name (G/P) (skill 61)",done
-c:skilldesc:61:5,Cause a big explosion with your fingertips. ,Stwórz dużą eksplozję swoimi koniuszkami palców.,Cause a big explosion with your fingertips. ,"client: skill tooltip, description (skill 61)",done
-c:skilldesc:61:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontal Splash Attack,"client: skill tooltip, condition 1 (skill 61)",done
-c:skilldesc:61:7,Opponent's defence is ignored,Ignoruje obronę wroga,Opponent's defense is ignored,"client: skill tooltip, condition 2 (skill 61)",done
-c:skilldesc:61:8,Intelligence Bonus,Bonus od Inteligencji,Intelligence Bonus,"client: skill tooltip, condition 3 (skill 61)",done
-c:skilldesc:61:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 61) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:61:20,Chance of Piercing Hit %.0f%%,Szansa na cios przebicia %.0f%%,Chance of Piercing Hit %.0f%%,"client: skill tooltip, effect line 2 (skill 61) | keep: %.0f | max 64 characters",done
-c:skilldesc:61:23,Faint Chance +%0.f%%,Szansa na omdlenie +%0.f%%,Faint Chance +%0.f%%,"client: skill tooltip, effect line 3 (skill 61) | keep: %0.f | max 64 characters",done
-c:skilldesc:62:2,Dragon Swirl ,Smoczy Wir,Dragon Swirl ,"client: skill tooltip, skill name (skill 62)",done
-c:skilldesc:62:3,Tornado Swirl ,Wir Tornada,Tornado Swirl ,"client: skill tooltip, skill name (M) (skill 62)",done
-c:skilldesc:62:4,Whirlwind,Trąba Powietrzna,Whirlwind,"client: skill tooltip, skill name (G/P) (skill 62)",done
-c:skilldesc:62:5,Create a strong tornado to defeat several enemies.,"Stwórz potężne tornado, aby pokonać kilku wrogów",Create a strong tornado to defeat several enemies.,"client: skill tooltip, description (skill 62)",done
-c:skilldesc:62:6,Splash Attack,Atak rozpryskowy,Splash Attack,"client: skill tooltip, condition 1 (skill 62)",done
-c:skilldesc:62:7,Opponent's escape is ignored,Ignoruje ucieczkę wroga,Opponent's escape is ignored,"client: skill tooltip, condition 2 (skill 62)",done
-c:skilldesc:62:8,Intelligence Bonus,Bonus od Inteligencji,Intelligence Bonus,"client: skill tooltip, condition 3 (skill 62)",done
-c:skilldesc:62:17,Attack Power %.0f-%.0f ,Siła Ataku %.0f-%.0f,Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 62) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:62:20,Chance to ignore an opponent's escape %.0f%%,Szansa na Ignorowanie ucieczki wroga %.0f%%,Chance to ignore an opponent's escape %.0f%%,"client: skill tooltip, effect line 2 (skill 62) | keep: %.0f | max 64 characters",done
-c:skilldesc:63:2,Enchanted Blade ,Czarowane Ostrze,Enchanted Blade ,"client: skill tooltip, skill name (skill 63)",done
-c:skilldesc:63:3,Enchanted Sword,Czarowany Miecz,Enchanted Sword,"client: skill tooltip, skill name (M) (skill 63)",done
-c:skilldesc:63:4,Ghost Blade,Duchowe Ostrze,Ghost Blade,"client: skill tooltip, skill name (G/P) (skill 63)",done
-c:skilldesc:63:5,Endow your blade with a powerful ghost.,Wzmocnij swoje ostrze potężnym duchem.,Endow your blade with a powerful ghost.,"client: skill tooltip, description (skill 63)",done
-c:skilldesc:63:6,Increases Attack Power,Zwiększa Siłę Ataku,Increases Attack Power,"client: skill tooltip, condition 1 (skill 63)",done
-c:skilldesc:63:7,Intelligence Bonus,Bonus od Inteligencji,Intelligence Bonus,"client: skill tooltip, condition 2 (skill 63)",done
-c:skilldesc:63:8,Steal Life from target,Kradzież życia,Steal Life from target,"client: skill tooltip, condition 3 (skill 63)",done
-c:skilldesc:63:17,Attack Power +%.1f ,Siła Ataku +%.0f,Attack Power +%.1f ,"client: skill tooltip, effect line 1 (skill 63) | keep: %.1f | max 64 characters",done
-c:skilldesc:63:20,Life thief: %.0f%% of damage,Złodziej życia: %.0f%% obrażeń,Life thief: %.0f%% of damage,"client: skill tooltip, effect line 2 (skill 63) | keep: %.0f | max 64 characters",done
-c:skilldesc:64:2,Fear,Strach,Fear,"client: skill tooltip, skill name (skill 64)",done
-c:skilldesc:64:3,Great Fear,Wielki Strach,Great Fear,"client: skill tooltip, skill name (M) (skill 64)",done
-c:skilldesc:64:4,Terror,Terror,Terror,"client: skill tooltip, skill name (G/P) (skill 64)",done
-c:skilldesc:64:5,Weakens the enemies abilities,"Zmniejsza umiejętności wroga, który cię atakuje",Weakens the enemies abilities,"client: skill tooltip, description (skill 64)",done
-c:skilldesc:64:6,Decreases the opponent's Attack Power,Zmniejsza siłę ataku przeciwnika,Decreases the opponent's Attack Power,"client: skill tooltip, condition 1 (skill 64)",done
-c:skilldesc:64:7,Increase chance that opponents miss the target,"Zwiększa szansę, że przeciwnik nie trafi w cel",Increase chance that opponents miss the target,"client: skill tooltip, condition 2 (skill 64)",done
-c:skilldesc:64:8,It's only activated when you get a hit,"Aktywowane tylko wtedy, gdy zostaniesz trafiony",It's only activated when you get a hit,"client: skill tooltip, condition 3 (skill 64)",done
-c:skilldesc:64:17,Opponent Attack Power -%.0f%%,Siła ataku wroga -%.0f%%,Opponent Attack Power -%.0f%%,"client: skill tooltip, effect line 1 (skill 64) | keep: %.0f | max 64 characters",done
-c:skilldesc:64:20,Opponent Miss Chance %.0f%%,Niepowodzenia przeciwnika %.0f%%,Opponent Miss Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 64) | keep: %.0f | max 64 characters",done
-c:skilldesc:65:2,Enchanted Armour ,Czarowana Zbroja,Enchanted Armor ,"client: skill tooltip, skill name (skill 65)",done
-c:skilldesc:65:3,Stronger Enchanted Armour,Silniejsza Czarowana Zbroja,Stronger Enchanted Armor,"client: skill tooltip, skill name (M) (skill 65)",done
-c:skilldesc:65:4,Armour of Darkness,Zbroja Ciemności,Armor of Darkness,"client: skill tooltip, skill name (G/P) (skill 65)",done
-c:skilldesc:65:5,Protect your body with dark armour. ,Chroń swoje ciało mrocznym pancerzem.,Protect your body with dark armor. ,"client: skill tooltip, description (skill 65)",done
-c:skilldesc:65:6,Reflects damage back onto the attacker,Odbija obrażenia z powrotem do przeciwnika,Reflects damage back onto the attacker,"client: skill tooltip, condition 1 (skill 65)",done
-c:skilldesc:65:7,Increases Defence,Zwiększa Obronę,Increases Defense,"client: skill tooltip, condition 2 (skill 65)",done
-c:skilldesc:65:8,Intelligence Bonus,Bonus od Inteligencji,Intelligence Bonus,"client: skill tooltip, condition 3 (skill 65)",done
-c:skilldesc:65:17,Defence +%.0f ,Obrona +%.0f,Defense +%.0f ,"client: skill tooltip, effect line 1 (skill 65) | keep: %.0f | max 64 characters",done
-c:skilldesc:65:20,Reflected Close-Combat Damage: %.0f%%,Odbicie ataku fizycznego: %.0f%%,Reflected Close-Combat Damage: %.0f%%,"client: skill tooltip, effect line 2 (skill 65) | keep: %.0f | max 64 characters",done
-c:skilldesc:66:2,Dispel,Rozproszenie Magii,Dispel,"client: skill tooltip, skill name (skill 66)",done
-c:skilldesc:66:3,Stronger Dispel,Silniejsze Rozproszenie Magii,Stronger Dispel,"client: skill tooltip, skill name (M) (skill 66)",done
-c:skilldesc:66:4,Dispel Attack,Szturm Rozproszenia Magii,Dispel Attack,"client: skill tooltip, skill name (G/P) (skill 66)",done
-c:skilldesc:66:5,Remove all opponent's supporting effects.,Usuń wszystkie efekty wspierające wroga.,Remove all opponent's supporting effects.,"client: skill tooltip, description (skill 66)",done
-c:skilldesc:66:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 66)",done
-c:skilldesc:66:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 66)",done
-c:skilldesc:66:8,All effects on opponent are removed,Usuwa efekty przeciwnika,All effects on opponent are removed,"client: skill tooltip, condition 3 (skill 66)",done
-c:skilldesc:66:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 66) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:66:20,Dispel Chance %.0f%%,Szansa Na Rozproszenie %.0f%%,Dispel Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 66) | keep: %.0f | max 64 characters",done
-c:skilldesc:76:2,Dark Strike,Mroczne Uderzenie,Dark Strike,"client: skill tooltip, skill name (skill 76)",done
-c:skilldesc:76:3,Ghost Strike,Mroczny Cios,Ghost Strike,"client: skill tooltip, skill name (M) (skill 76)",done
-c:skilldesc:76:4,Dark Explosion,Czarny Atak,Dark Explosion,"client: skill tooltip, skill name (G/P) (skill 76)",done
-c:skilldesc:76:5,Throw the Dark Force to damage enemies. ,"Miotaj mrocznymi siłami, aby ranić wrogów.",Throw the Dark Force to damage enemies. ,"client: skill tooltip, description (skill 76)",done
-c:skilldesc:76:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 76)",done
-c:skilldesc:76:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 76)",done
-c:skilldesc:76:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 76) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:77:2,Flame Strike,Ogniste Uderzenie,Flame Strike,"client: skill tooltip, skill name (skill 77)",done
-c:skilldesc:77:3,Burning Strike,Płonące Uderzenie,Burning Strike,"client: skill tooltip, skill name (M) (skill 77)",done
-c:skilldesc:77:4,Flame Detonation,Ognista Detonacja,Flame Detonation,"client: skill tooltip, skill name (G/P) (skill 77)",done
-c:skilldesc:77:5,Burn enemies with an explosion. ,Spal wrogów eksplozją.,Burn enemies with an explosion. ,"client: skill tooltip, description (skill 77)",done
-c:skilldesc:77:6,Splash Attack,Atak rozpryskowy,Splash Attack,"client: skill tooltip, condition 1 (skill 77)",done
-c:skilldesc:77:7,Fire Attack,Atak ogniem,Fire Attack,"client: skill tooltip, condition 2 (skill 77)",done
-c:skilldesc:77:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 77) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:77:20,Lasting Fire Chance %.0f%%,Szansa na Płonięcie: %.0f%%,Lasting Fire Chance %.0f%%,"client: skill tooltip, effect line 2 (skill 77) | keep: %.0f | max 64 characters",done
-c:skilldesc:78:2,Flame Spirit,Ognisty Duch,Flame Spirit,"client: skill tooltip, skill name (skill 78)",done
-c:skilldesc:78:3,Flame Array,Ogniste Szeregi,Flame Array,"client: skill tooltip, skill name (M) (skill 78)",done
-c:skilldesc:78:4,Flame Explosion,Ognista Eksplozja,Flame Explosion,"client: skill tooltip, skill name (G/P) (skill 78)",done
-c:skilldesc:78:5,Call a Flame Spirit.,Przywołaj Ognistego Ducha,Call a Flame Spirit.,"client: skill tooltip, description (skill 78)",done
-c:skilldesc:78:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 78)",done
-c:skilldesc:78:7,Marked/Random Target,Zaznaczony/Losowy cel,Marked/Random Target,"client: skill tooltip, condition 2 (skill 78)",done
-c:skilldesc:78:8,Attack on multiple targets (monsters),Atak skierowany w kilka celów (potwory),Attack on multiple targets (monsters),"client: skill tooltip, condition 3 (skill 78)",done
-c:skilldesc:78:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 78) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:79:2,Dark Protection,Mroczna Ochrona,Dark Protection,"client: skill tooltip, skill name (skill 79)",done
-c:skilldesc:79:3,Dark Membrane,Mroczna Membrana,Dark Membrane,"client: skill tooltip, skill name (M) (skill 79)",done
-c:skilldesc:79:4,Protection of Dark Lord,Protekcja Mrocznego Lorda,Protection of Dark Lord,"client: skill tooltip, skill name (G/P) (skill 79)",done
-c:skilldesc:79:5,Protects you with the Dark Force and converts physical damage into SP.,Ochrania Cię mroczną siłą i przekierowuje % obrażeń PŻ na PE.,Protects you with the Dark Force and converts physical damage into SP.,"client: skill tooltip, description (skill 79)",done
-c:skilldesc:79:6,Reduces Magic Damage,Zmniejsza obrażenia od magii,Reduces Magic Damage,"client: skill tooltip, condition 1 (skill 79)",done
-c:skilldesc:79:7,Increases Defence,Zwiększa obronę,Increases Defense,"client: skill tooltip, condition 2 (skill 79)",done
-c:skilldesc:79:17,Redirected Damage Reduction %.0f%%,Obrona +%.0f,Redirected Damage Reduction %.0f%%,"client: skill tooltip, effect line 1 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:79:20,Defence +%.0f,Zmniejszenie przekierowanych Obrażeń %.1f%%,Defense +%.0f,"client: skill tooltip, effect line 2 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:79:23,Damage Redirection %.0f%%,Przekierowanie obrażeń %.0f%%,Damage Redirection %.0f%%,"client: skill tooltip, effect line 3 (skill 79) | keep: %.0f | max 64 characters",done
-c:skilldesc:80:2,Spirit Strike (S),Duchowy Cios,Spirit Strike (S),"client: skill tooltip, skill name (skill 80)",done
-c:skilldesc:80:3,Soul Strike,Cios Duszy,Soul Strike,"client: skill tooltip, skill name (M) (skill 80)",done
-c:skilldesc:80:4,Spirit Assault,Duchowa Napaść,Spirit Assault,"client: skill tooltip, skill name (G/P) (skill 80)",done
-c:skilldesc:80:5,Throw Dark Spirits to damage enemies.,"Miotaj mrocznymi duchami, aby ranić wrogów.",Throw Dark Spirits to damage enemies.,"client: skill tooltip, description (skill 80)",done
-c:skilldesc:80:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 80)",done
-c:skilldesc:80:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 80)",done
-c:skilldesc:80:8,Opponents are slowed down,Spowalnia przeciwników,Opponents are slowed down,"client: skill tooltip, condition 3 (skill 80)",done
-c:skilldesc:80:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 80) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:80:20,Chance of slowing down %.1f%%,Szansa na Spowolnienie: %.1f%% ,Chance of slowing down %.1f%%,"client: skill tooltip, effect line 2 (skill 80) | keep: %.1f | max 64 characters",done
-c:skilldesc:81:2,Dark Orb,Mroczna Sfera,Dark Orb,"client: skill tooltip, skill name (skill 81)",done
-c:skilldesc:81:3,Dark Globe,Mroczna Kula,Dark Globe,"client: skill tooltip, skill name (M) (skill 81)",done
-c:skilldesc:81:4,Dark Sphere,Mroczny Glob,Dark Sphere,"client: skill tooltip, skill name (G/P) (skill 81)",done
-c:skilldesc:81:5,Throw Dark Orbs to damage enemies.,"Miotaj mrocznymi kulami, aby ranić wrogów.",Throw Dark Orbs to damage enemies.,"client: skill tooltip, description (skill 81)",done
-c:skilldesc:81:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 81)",done
-c:skilldesc:81:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 81)",done
-c:skilldesc:81:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 81) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:91:2,Flying Talisman,Latający Talizman,Flying Talisman,"client: skill tooltip, skill name (skill 91)",done
-c:skilldesc:91:3,Dragon Throw,Rzut Smoka,Dragon Throw,"client: skill tooltip, skill name (M) (skill 91)",done
-c:skilldesc:91:4,Massive Throw,Potężny Rzut,Massive Throw,"client: skill tooltip, skill name (G/P) (skill 91)",done
-c:skilldesc:91:5,Throw a talisman to damage enemies.,"Miotaj talizmanami, aby ranić wrogów.",Throw a talisman to damage enemies.,"client: skill tooltip, description (skill 91)",done
-c:skilldesc:91:6,Long-Range Attack,Atak z dystansu,Long-Range Attack,"client: skill tooltip, condition 1 (skill 91)",done
-c:skilldesc:91:7,Attack on multiple targets,Atak skierowany w kilka celów,Attack on multiple targets,"client: skill tooltip, condition 2 (skill 91)",done
-c:skilldesc:91:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 91) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:92:2,Shooting Dragon ,Strzelający Smok,Shooting Dragon ,"client: skill tooltip, skill name (skill 92)",done
-c:skilldesc:92:3,Attacking Dragon,Atakujący Smok,Attacking Dragon,"client: skill tooltip, skill name (M) (skill 92)",done
-c:skilldesc:92:4,Rising Dragon,Wznoszący Smok,Rising Dragon,"client: skill tooltip, skill name (G/P) (skill 92)",done
-c:skilldesc:92:5,Shoot a dragon figure to attack enemies directly.,Strzelaj smoczymi podobiznami i atakuj wrogów.,Shoot a dragon figure to attack enemies directly.,"client: skill tooltip, description (skill 92)",done
-c:skilldesc:92:6,Frontal Splash Attack,Frontalny atak rozpryskowy,Frontal Splash Attack,"client: skill tooltip, condition 1 (skill 92)",done
-c:skilldesc:92:7,Lasting Fire Damage,Ognisty czasowy atak,Lasting Fire Damage,"client: skill tooltip, condition 2 (skill 92)",done
-c:skilldesc:92:17,Magic Attack Power %.0f-%.0f ,Magiczna Siła Ataku %.0f-%.0f,Magic Attack Power %.0f-%.0f ,"client: skill tooltip, effect line 1 (skill 92) | keep: %.0f %.0f | max 64 characters",done
-c:skilldesc:92:20,Chance of lasting fire %.0f%%,Szansa na Płonięcie %.0f%%,Chance of lasting fire %.0f%%,"client: skill tooltip, effect line 2 (skill 92) | keep: %.0f | max 64 characters",done
-c:skilldesc:93:2,Dragon's Roar,Smoczy Skowyt,Dragon's Roar,"client: skill tooltip, skill name (skill 93)",done
-c:skilldesc:93:3,Dragon's Scream,Krzyk Smoka,Dragon's Scream,"client: skill tooltip, skill name (M) (skill 93)",done
-c:skilldesc:93:4,Dragon's Cry,Płacz Smoka,Dragon's Cry,"client: skill tooltip, skill name (G/P) (skill 93)",done
-c:skilldesc:93:5,Attack enemies with a dragon figure.,Atakuj wrogów smoczymi podobiznami.,Attack enemies with a dragon figure.,"client: skill tooltip, description (skill 93)",done
-c:skilldesc:93:6,Splash Attack,Atak rozpryskowy,Splash Attack,"client: skill tooltip, condition 1 (skill 93)",done
-c:skilldesc:93:7,Lasting Fire Damage,Ognisty czasowy atak,Lasting Fire Damage,"client: skill tooltip, condition 2 (skill 93)",done
-c:skilldesc:93:8,Activates Dragon's Wrath,Aktywuje Smoczy Gniew,Activates Dragon's Wrath,"client: skill tooltip, condition 3 (skill 93)",done

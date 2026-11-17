@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Libro dell'oblio letto: %s di nuovo a %d, niente Maestro. Il prossimo libro è il prossimo tentativo (probabilità %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Libro dell'oblio letto: %s - Maestro!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Documento di azzeramento abilità usato: %s - Maestro!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(nessuno),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,che non è a 17,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Azzera"" nella finestra delle abilità lo consuma.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Vado da Jack Zucca,"a phrase the se
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Commercio con Jack Zucca,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,Vado dallo Spaventapasseri zucca,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Parlo con lo Spaventapasseri zucca,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Qui non posso entrare - questo posto è solo per i giocatori.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,Non sono riuscito a raggiungerti.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,"Annullo gli acquisti. Dopo la conferma del negozio torno, poi vado a salire di livello da solo.","a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,"Annullo gli acquisti. Dopo la conferma del negozio torno, poi vado a pescare.","a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,Annullo gli acquisti e torno dopo la conferma del negozio. Congedami di nuovo quando sono tornato.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,Non ho eseguito l'ordine dopo gli acquisti - dammelo di nuovo.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,Un momento - sto ancora prendendo il comando precedente. Riprova.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,Non ho acquisti da annullare.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,Gli acquisti sono annullati - sto ancora aspettando il negozio. Ordina di nuovo quando sono tornato.,"a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,Ho già 8 ordini - aspetta che ne finisca uno.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,Non sono riuscito ad arrivare in città.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,Il negozio si sta aprendo proprio ora. Resto vicino e lo chiudo appena il gioco lo conferma; la merce torna nella mia borsa.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,negozio offline non disponibile,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,negozio disattivato,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,chiusura del negozio: prendo yang dalla borsa per fare spazio agli incassi,"a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"chiusura del negozio; in attesa di merce restituita, incassi o conferma","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,negozio in attesa del canale 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,vado ad aprire il negozio in M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,negozio aperto; servizio quando libero,"a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,negozio scaduto; in attesa di servizio,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Negozio: %u offerte. Incassi da ritirare al banco: %lld yang. Vendo il superfluo di tutta la borsa; regali e oggetti necessari restano.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Negozio attivato. Vendo il superfluo di tutta la borsa, esclusi i regali e gli oggetti necessari. Prendi gli incassi dalla mia borsa. Al tuo fianco lo allestisco nel primo villaggio in cui ti trovi (di qualsiasi regno) sul canale 1; con mano libera o giocando da solo vado per conto mio al villaggio del mio regno.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,I negozi del compagno sono disponibili solo su mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,i tuoi regali,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,segnati/bloccati da te,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,spostati da te <5 min fa,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,non vendibili,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,necessari a me,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Non vendo mai i regali - Maiusc + clic destro nella mia borsa ne libera uno.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s ha completato la missione %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Non combatto: sono impostato su ""Non combattere"". Cambialo nella finestra del Compagno (P), scheda Combattimento, o sussurrami ""attack"".","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Manichino d'allenamento: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

@@ -65,7 +65,7 @@ q:ours:2a57f768bb9c,Choosing this starts the OX Quiz.,Po wybraniu tej opcji Konk
 q:ours:aa4077c143ae,The settings chosen:,uruchomiony. Wybrane ustawienia:,Zvolené nastavení:,quest dialog (our quests),done
 q:ours:2f6d476b0c94,Levels: ,Poziomy: ,Úrovně: ,quest dialog (our quests),done
 q:ours:6faabb90ed4e,Participants: ,Liczba uczestnikow: ,Účastníci: ,quest dialog (our quests),done
-q:ours:952f375412e8,Start,Rozpocznij,Start,quest dialog (our quests),done
+q:ours:952f375412e8,Start,Rozpocznij,Start,quest dialog (our quests),check
 q:ours:22f0aeaee1c2,The OX Quiz has started.,Konkurs OX zostal rozpoczety.,Kvíz OX začal.,quest dialog (our quests),done
 q:ours:772809c2ee63,The OX Quiz could not be started!,Konkurs OX nie mogl zostac uruchomiony!,Kvíz OX se nepodařilo spustit!,quest dialog (our quests),done
 q:ours:153e4bf2cf0d,Error loading the questions (oxquiz.lua).,Blad podczas ladowania pytan (oxquiz.lua).,Chyba při načítání otázek (oxquiz.lua).,quest dialog (our quests),done
@@ -152,7 +152,7 @@ q:ours:f1ce6f1ed4ee,The P key opens its window. You can also whisper,Okno towarz
 q:ours:c388f61bbb52,"to it: come, go play, wait, shopping, status.","szepnac: chodz, graj sam, czekaj, zakupy, stan.","come, go play, wait, shopping, status.",quest dialog (our quests),done
 q:ours:6a0858ce19ee,What shall I do?,Co mam zrobic?,Co mám dělat?,quest dialog (our quests),done
 q:ours:98465ece78d2,"I understand whispers too: come, go play, wait,","Szeptem tez zrozumiem: chodz, graj sam, czekaj,","Rozumím i šeptání: come, go play, wait,",quest dialog (our quests),done
-q:ours:7812cd1b70a3,"shopping, status.","zakupy, stan, atakuj, nie atakuj pierwszy, nie walcz.","shopping, status.",quest dialog (our quests),done
+q:ours:7812cd1b70a3,"shopping, status.","zakupy, stan, atakuj, nie atakuj pierwszy, nie walcz.","shopping, status.",quest dialog (our quests),check
 q:ours:cd379b8ab479,Companion window (P key),Okno towarzysza (klawisz P),Okno společníka (klávesa P),quest dialog (our quests),done
 q:ours:31fe889682f5,Come to me,Przywolaj do mnie,Pojď ke mně,quest dialog (our quests),done
 q:ours:223b1f6399f8,Play on your own (free hand),Graj po swojemu (wolna reka),Hraj si sám (volná ruka),quest dialog (our quests),done
@@ -170,6 +170,26 @@ q:ours:e5ce53da0bdc,goes back to the world as an ordinary bot. You,wroci do swia
 q:ours:237bb5ad1f05,can choose a new one right away.,mozesz wybrac od razu.,Nového si můžeš vybrat hned.,quest dialog (our quests),done
 q:ours:f22a82a67f43,"Yes, leave","Tak, odejdz","Ano, odejdi",quest dialog (our quests),done
 q:ours:816c52fd2bdd,No,Nie,Ne,quest dialog (our quests),done
+q:ours:24b0f586d08c,Exchange for a Bravery Cape,Wymiana na Peleryne Mestwa,Výměna za Plášť odvahy,quest dialog (our quests),done
+q:ours:13a6145e9741,The exchange is currently disabled.,Wymiana jest obecnie wylaczona.,Výměna je momentálně vypnutá.,quest dialog (our quests),done
+q:ours:6a114f40be2d,Choose items. Soul stone types of the same grade can be combined.,Wybierz przedmioty. Mozesz laczyc rodzaje KD tego samego stopnia.,Vyber předměty. Typy kamenů duše stejného stupně lze kombinovat.,quest dialog (our quests),done
+q:ours:e8ec72ba61bb,Soul stone +0,KD +0,Kámen duše +0,quest dialog (our quests),done
+q:ours:de0f652b4dc4,Soul stone +1,KD +1,Kámen duše +1,quest dialog (our quests),done
+q:ours:d95a7c667084,Soul stone +2,KD +2,Kámen duše +2,quest dialog (our quests),done
+q:ours:b3fb819e801d,Sage King's Glove,Rekawica Krola Przepowiedni,Rukavice moudrého krále,quest dialog (our quests),done
+q:ours:f3ebd036ba69,Sage King's Symbol,Symbol Krola Przepowiedni,Symbol moudrého krále,quest dialog (our quests),done
+q:ours:eca1466ab9ca,You do not have enough available items.,Nie masz wystarczajacej liczby dostepnych przedmiotow.,Nemáš dost dostupných předmětů.,quest dialog (our quests),done
+q:ours:372b1959e82f,How many capes do you want? Maximum: ,Ile peleryn chcesz otrzymac? Maksymalnie: ,Kolik plášťů chceš? Maximum: ,quest dialog (our quests),done
+q:ours:f55479a7539f,Items spent: ,Oddajesz: ,Vydané předměty: ,quest dialog (our quests),done
+q:ours:78c7177c07ea,Capes received: ,Otrzymasz peleryn: ,Získané pláště: ,quest dialog (our quests),done
+q:ours:07bc2e853864,You need free space for a stack of capes.,Potrzebujesz wolnego miejsca na stos peleryn.,Potřebuješ volné místo pro balík plášťů.,quest dialog (our quests),done
+q:ours:5b13eac7ed3a,Exchange,Wymien,Vyměnit,quest dialog (our quests),done
+q:ours:21dde7dcced9,Exchange completed. Capes received: ,Wymiana zakonczona. Otrzymano peleryn: ,Výměna dokončena. Získané pláště: ,quest dialog (our quests),done
+q:ours:c2998ad7fda6,The rate has changed. Open the exchange again.,Kurs zostal zmieniony. Otworz wymiane ponownie.,Kurz se změnil. Otevři výměnu znovu.,quest dialog (our quests),done
+q:ours:596e4d2628dc,Your inventory is full. Free some space and try again.,Brak miejsca w ekwipunku. Zwolnij miejsce i sprobuj ponownie.,Tvůj inventář je plný. Uvolni místo a zkus to znovu.,quest dialog (our quests),done
+q:ours:1bfb236143a9,The exchange is unavailable. No items were consumed.,Wymiana niedostepna. Nie pobrano przedmiotow.,Výměna není dostupná. Žádné předměty nebyly spotřebovány.,quest dialog (our quests),done
+q:ours:ec9aa88b6388,24h Ranking,Ranking 24h,Žebříček za 24 h,quest dialog (our quests),done
+q:ours:ba22aee4e8ec,The ranking is currently disabled.,Ranking jest aktualnie wylaczony.,Žebříček je momentálně vypnutý.,quest dialog (our quests),done
 q:ours:a0fda282ab62,You cannot destroy the item right now.,Nie mozesz teraz zniszczyc przedmiotu.,Předmět teď nemůžeš zničit.,quest dialog (our quests),done
 q:ours:d880e017a590,This item cannot be destroyed this way.,Tego przedmiotu nie mozna zniszczyc ta opcja.,Tento předmět nelze zničit tímto způsobem.,quest dialog (our quests),done
 q:ours:7785eb4bcdf0,Destroy the item for good,Trwale zniszczenie przedmiotu,Zničit předmět natrvalo,quest dialog (our quests),done
@@ -183,7 +203,10 @@ q:ours:62ba1ddbf9ca,The item has changed. Nothing was destroyed.,Przedmiot sie z
 q:ours:b77e92cc872c,The item was destroyed and its slot is free.,Zniszczono przedmiot. Slot zostal zwolniony.,Předmět byl zničen a jeho místo je volné.,quest dialog (our quests),done
 q:ours:f42741b3dc1f,The item could not be destroyed.,Nie udalo sie zniszczyc przedmiotu.,Předmět se nepodařilo zničit.,quest dialog (our quests),done
 q:ours:3ddbe150b637,Doors still standing on this floor: %d of 4. Break them and the rock will let you through.,"Drzwi, ktore wciaz stoja na tym pietrze: %d z 4. Rozbij je, a skala cie przepusci.","Dveře, které na tomto patře ještě stojí: %d ze 4. Rozbij je a skála tě pustí dál.",quest dialog (our quests) | keep: %d,done
+q:ours:27f08ef7caff,Dragon Flame,Smoczy Plomien,Dračí plamen,quest dialog (our quests),done
 q:ours:5aaec77037fc,Possession: the bag holds the summon book of this bot's horse.,Przemiana: w plecaku jest ksiega przywolania konia tego bota.,Posednutí: v brašně je kniha vyvolání koně tohoto bota.,quest dialog (our quests),done
+q:ours:a6ce2ac18ad3,"Possession: this bot carries its personality's experience lock (the Anti-Exp icon): a Grinder holds its level until its gear is upgraded, a dropper for good.","Przemiana: ten bot ma blokade doswiadczenia swojej osobowosci (ikona Anty-Exp): Grinder trzyma poziom, dopoki nie ulepszy sprzetu, dropek - na stale.","Posednutí: tento bot nese zámek zkušeností své osobnosti (ikona Anti-EXP): Grinder drží svou úroveň, dokud si nevylepší výbavu, dropper natrvalo.",quest dialog (our quests),done
+q:ours:dc3cb60e9fe1,"The possession did not cause it and cannot lift it. ""Unlock EXP"" on the bot's card in the web panel does - it takes effect once the bot is back in the game.","To nie skutek Przemiany i w trakcie niej jej nie zdejmiesz. Zdejmuje ja ""Odblokuj exp"" na karcie bota w panelu WWW - zadziala, gdy bot wroci do gry.","Posednutí to nezpůsobilo a nemůže to zrušit. To dokáže „Odemknout EXP“ na kartě bota ve webovém panelu - projeví se, jakmile bude bot zpět ve hře.",quest dialog (our quests),done
 q:ours:18dc30d323a5,Possession: the one-time login could not be closed. Go back to the GM account.,Przemiana: nie udalo sie zamknac jednorazowego logowania. Wroc na konto GM.,Posednutí: jednorázové přihlášení se nepodařilo uzavřít. Vrať se na účet GM.,quest dialog (our quests),done
 q:ours:5f309cccb63f,Possession: the bot is still in the game - trying to give it back in a moment.,Przemiana: bot jest jeszcze w grze - sprobuje oddac go za chwile.,Posednutí: bot je stále ve hře - za chvíli se ho pokusím vrátit.,quest dialog (our quests),done
 q:ours:6978e1f55112,Possession over - the bot is back in the game within a minute.,Przemiana zakonczona - bot wroci do gry w ciagu minuty.,Posednutí skončilo - bot bude do minuty zpět ve hře.,quest dialog (our quests),done
@@ -205,7 +228,7 @@ q:ours:a2a025fffcee,. Log in again to refresh the quest list.,. Odswiez dziennik
 q:ours:bed11690de7e,Full skip: ,Pelny skip: ,Úplné přeskočení: ,quest dialog (our quests),done
 q:ours:18b47934a133,rank ,ranga ,hodnost ,quest dialog (our quests),done
 q:ours:9c2398cedc4e,A bot of the population - no skip and no reward.,Bot populacji - skip i nagrody sa wylaczone.,Bot populace - žádné přeskočení a žádná odměna.,quest dialog (our quests),done
-q:ours:43fc357d5a54,Plus ,Dodatkowo ,Plus ,quest dialog (our quests),done
+q:ours:43fc357d5a54,Plus ,Dodatkowo ,Plus ,quest dialog (our quests),check
 q:ours:8d5a62baaa58,% of the EXP of level ,% EXP poziomu ,% EXP úrovně ,quest dialog (our quests) | keep: % o,done
 q:ours:e137314bc646,A random item of group ,Losowy przedmiot z grupy ,Náhodný předmět ze skupiny ,quest dialog (our quests),done
 q:ours:370b2f1307a5,Permanent bonus: ,Staly bonus: ,Trvalý bonus: ,quest dialog (our quests),done
@@ -220,6 +243,15 @@ q:ours:5eb5f4c12e33,Skill group: ,Wybrana profesja: ,Skupina dovedností: ,quest
 q:ours:f1944206ecfe,Reputation: +,Reputacja: +,Reputace: +,quest dialog (our quests),done
 q:ours:686307fa133b,Final stage: ,Koncowy etap: ,Poslední fáze: ,quest dialog (our quests),done
 q:ours:5f1ed4060ec3,. Earlier rewards are not paid again.,. Wczesniejsze nagrody nie sa powtarzane.,. Dřívější odměny se znovu nevyplácejí.,quest dialog (our quests),done
+q:ours:8b0114c6bfe5,Craft Guild Tribute,Wytworz Trybut Gildyjny,Vyrobit Daň cechu,quest dialog (our quests),done
+q:ours:f4c14772b368,I can craft tribute for your guild's development.,Wytworze trybut do rozwoju Twojej gildii.,Mohu vyrobit daň pro rozvoj tvého cechu.,quest dialog (our quests),done
+q:ours:584c3c3652d4,Choose ONE material:,Wybierz JEDEN rodzaj materialu:,Vyber JEDEN materiál:,quest dialog (our quests),done
+q:ours:0b837c636f0c,40 hay OR 30 carrots OR 10 red ginseng.,40 siana LUB 30 marchewek LUB 10 zen-szeni.,40 sena NEBO 30 mrkví NEBO 10 červených ženšenů.,quest dialog (our quests),done
+q:ours:374013b7176c,4 Symbols of the Prophet King OR 3 language books.,4 Symbole Krola Przepowiedni LUB 3 ksiegi jezyka.,4 Symboly moudrého krále NEBO 3 knihy jazyků.,quest dialog (our quests),done
+q:ours:3b69f6ee0583,"Do not mix languages: 3 Shinsoo, 3 Chunjo OR 3 Jinno.","Ksieg jezyka nie mieszamy: 3 Shinsoo, 3 Chunjo LUB 3 Jinno.","Nemíchej jazyky: 3 Shinsoo, 3 Chunjo NEBO 3 Jinno.",quest dialog (our quests),done
+q:ours:8b2ef77c2148,4 Gloves of the Prophet King also make 1 tribute.,4 Rekawice Krola Przepowiedni to takze 1 trybut.,4 Rukavice moudrého krále také dají 1 daň.,quest dialog (our quests),done
+q:ours:ecc8f97e8237,Each recipe gives 1 tribute. Success: 100%.,Kazdy przepis daje 1 trybut. Powodzenie: 100%.,Každý recept dá 1 daň. Úspěšnost: 100%.,quest dialog (our quests),done
+q:ours:77e207ae07fb,Open crafting,Otworz wytwarzanie,Otevřít výrobu,quest dialog (our quests),done
 q:ours:3a52ce780950,.,",",.,quest dialog (our quests),done
 q:ours:6b383ffdfd36,The night lasts another %d d %d h.,Noc potrwa jeszcze: %d d %d godz.,Noc potrvá ještě %d d %d h.,quest dialog (our quests) | keep: %d %d,done
 q:ours:8179d8d555cf,The night is over. The shops close in %d h.,Noc minęła. Sklepy zamkną się za %d godz.,Noc skončila. Obchody zavřou za %d h.,quest dialog (our quests) | keep: %d,done
@@ -397,6 +429,17 @@ q:ours:9d19ae1b8868,"I see you already have a Herbalist's Knife. Good, you will 
 q:ours:3856d6465ba2,"Your first knife is a gift from me. Equip it instead of your weapon, walk up to a bush and click it - the rest is patience.","Pierwszy nozyk dostaniesz ode mnie. Zaloz go zamiast broni, podejdz do krzewu i kliknij go - reszta to cierpliwosc.","Tvůj první nůž je ode mě dárek. Nasaď si ho místo zbraně, dojdi ke keři a klikni na něj - zbytek je trpělivost.",quest dialog (our quests),done
 q:ours:56b665587fcc,"This is how a herbalist's road begins. When you reach level 20, ask me about the Herbalist's Path.","Tak zaczyna sie droga zielarza. Gdy osiagniesz 20. poziom, zapytaj mnie o Sciezke Zielarza.","Tak začíná cesta bylinkáře. Až dosáhneš úrovně 20, zeptej se mě na Cestu bylinkáře.",quest dialog (our quests),done
 q:ours:246384ba4e80,I see you have a Horse Medal now. Talk to me again.,"Widze, ze masz juz Medal Konny. Porozmawiaj ze mna jeszcze raz.","Vidím, že teď máš Koňskou medaili. Promluv si se mnou znovu.",quest dialog (our quests),done
+q:ours:4170d436dc74,Talk to me again.,Porozmawiaj ze mna jeszcze raz.,Promluv si se mnou znovu.,quest dialog (our quests),done
+q:ours:adbfcdc7baea,The quest has already been adjusted for your level and cannot be changed again.,Misja zostala juz dopasowana do twojego poziomu i nie moze zostac dopasowana ponownie.,Úkol už byl upraven pro tvou úroveň a nelze ho změnit znovu.,quest dialog (our quests),done
+q:ours:9f39509fa926,Hunting mission,Polowanie,Lovecká mise,quest dialog (our quests),done
+q:ours:763c40fba83b,Do you really want to adjust this quest for your level? You cannot return to the previous quest afterwards.,Czy naprawde chcesz dopasowac misje do swojego poziomu? Nie mozesz juz powrocic do dotychczasowej misji.,Opravdu chceš upravit tento úkol pro svou úroveň? K předchozímu úkolu se pak už nevrátíš.,quest dialog (our quests),done
+q:ours:3909c81ba0b9,Do you want to permanently abandon this quest? You will then receive the next level up quest. You cannot return to this quest afterwards.,Czy chcesz na zawsze zrezygnowac z tej misji? Potem otrzymasz kolejna misje poziomu. Nie mozesz juz powrocic do tej misji.,Chceš tento úkol natrvalo vzdát? Pak dostaneš úkol pro další úroveň. K tomuto úkolu se už nevrátíš.,quest dialog (our quests),done
+q:ours:3fdd033bc2dc,Next mission: level %d.,Nastepna misja: poziom %d.,Další mise: úroveň %d.,quest dialog (our quests) | keep: %d,done
+q:ours:8926d7c4ecd0,You will receive no rewards for skipped hunts. Progress in the current hunt will be lost.,Nie otrzymasz nagrod za pominiete polowania. Postep obecnego polowania zostanie utracony.,Za přeskočené lovy nedostaneš žádné odměny. Postup v aktuálním lovu bude ztracen.,quest dialog (our quests),done
+q:ours:5397e0583f14,Yes,Tak,Ano,quest dialog (our quests),done
+q:ours:e80e46bacad2,Continue hunting,Kontynuuj polowanie,Pokračovat v lovu,quest dialog (our quests),done
+q:ours:c5c8a50cfc44,Abandon quest,Zrezygnuj z misji,Vzdát úkol,quest dialog (our quests),done
+q:ours:1a461bee6736,Adjust quest for my level,Dopasuj misje do mojego poziomu,Upravit úkol pro mou úroveň,quest dialog (our quests),done
 q:ours:31d9e5505093,You have no active training.,Nie masz aktywnego treningu.,Nemáš žádný aktivní výcvik.,quest dialog (our quests),done
 q:ours:048ae8730786,Target horse level: ,Docelowy poziom konia: ,Cílová úroveň koně: ,quest dialog (our quests),done
 q:ours:92b6eac5ff45,Progress: ,Postep: ,Postup: ,quest dialog (our quests),done
@@ -453,7 +496,7 @@ q:ours:4c9351cf7bff,BETA: errors may occur; some features are unfinished.,BETA: 
 q:ours:b6fe7f5e7917,Training,Trening,Trénink,quest dialog (our quests),done
 q:ours:23b4f270f561,Gold medal,Zloty medal,Zlatá medaile,quest dialog (our quests),done
 q:ours:3fffde3ca01a,Gold carrot,Zlota marchewka,Zlatá mrkev,quest dialog (our quests),done
-q:ours:8ca15484a6a5,Sprint,Sprint,Sprint,quest dialog (our quests),done
+q:ours:8ca15484a6a5,Sprint,Sprint,Sprint,quest dialog (our quests),check
 q:ours:94e0da52bc0d,Recover totem,Odzyskaj totem,Získat totem zpět,quest dialog (our quests),done
 q:ours:c80074698426,Horse training: ,Trening konia: ,Výcvik koně: ,quest dialog (our quests),done
 q:ours:d8e2db024521,Training: return to the Elder Rider,Trening: wroc do Starszego Jezdzca,Výcvik: vrať se ke Starému jezdci,quest dialog (our quests),done
@@ -466,18 +509,20 @@ q:ours:82b4722684f1,Solo encounter: 60 minutes. Rejoin within 5 minutes after lo
 q:ours:7695e700415f,A legacy partly opened chest needs GM review.,Starsza czesciowo otwarta skrzynia wymaga sprawdzenia przez GM.,"Stará, zčásti otevřená truhla potřebuje kontrolu od GM.",quest dialog (our quests),done
 q:ours:4d38ec3de7ab,Chest kept. Make room for two new items or stacks in the ordinary inventory.,Nie otwarto skrzyni. Potrzebne sa miejsca na dwa nowe przedmioty lub stosy w zwyklym ekwipunku.,Truhla ponechána. Udělej v běžném inventáři místo pro dva nové předměty nebo hromádky.,quest dialog (our quests),done
 q:ours:fd0fc6479bc0,Beran-Setaou chest: you received two reward draws.,Skrzynia Berana-Setaou: otrzymales dwa losowania.,Truhla Beran-Setaoua: dostal jsi dvě losování odměny.,quest dialog (our quests),done
+q:ours:a15a7f01c74c,Secrets of Snakefield,Tajemnice Wezowego Pola,Tajemství Hadího pole,quest dialog (our quests),done
+q:ours:4d209d6dc8ee,Green Fangs patrol,Patrol Zielonych Klow,Hlídka Zelených tesáků,quest dialog (our quests),done
+q:ours:cc632b5e2fd2,Remaining,Pozostalo,Zbývá,quest dialog (our quests),done
 q:ours:c4c29e7aed76,Ally,Sojusznik,Spojenec,quest dialog (our quests),done
 q:ours:908800b8dc65,Respected,Szanowany,Respektovaný,quest dialog (our quests),done
 q:ours:bf567dc78702,Friendly,Przyjazny,Přátelský,quest dialog (our quests),done
 q:ours:4bd291394543,Neutral,Neutralny,Neutrální,quest dialog (our quests),done
-q:ours:a15a7f01c74c,Secrets of Snakefield,Tajemnice Wezowego Pola,Tajemství Hadího pole,quest dialog (our quests),done
 q:ours:6a591c8488f6,"At level 50, speak with the Captain in M1.",Od 50 poziomu porozmawiaj z Kapitanem w M1.,Na úrovni 50 promluv s Kapitánem v M1.,quest dialog (our quests),done
 q:ours:898d329e67fe,"Find Haneul in Snakefield (751, 80).","Odszukaj Haneul na Wezowym Polu (751, 80).","Najdi Haneul na Hadím poli (751, 80).",quest dialog (our quests),done
 q:ours:ce2239b1adc0,Secure the trail and return to Haneul.,Zabezpiecz szlak i wroc do Haneul.,Zajisti stezku a vrať se k Haneul.,quest dialog (our quests),done
 q:ours:43997d557b2c,Swordsmen: ,Miecznicy: ,Šermíři: ,quest dialog (our quests),done
 q:ours:56014b24ac3a,Archers: ,Lucznicy: ,Lučištníci: ,quest dialog (our quests),done
 q:ours:b86e2b6c68c1,Warriors: ,Wojownicy: ,Válečníci: ,quest dialog (our quests),done
-q:ours:0db794b8f851,"Ji Jin (776, 111) awaits your report.","Ji Jin (776, 111) czeka na meldunek.","Ji Jin (776, 111) čeká na tvé hlášení.",quest dialog (our quests),done
+q:ours:585f1e690116,"Ji Jin (763, 110), to the left of the shop, awaits your report.","Ji Jin (763, 110), po lewej stronie sklepu, czeka na meldunek.","Ji Jin (763, 110), vlevo od obchodu, čeká na tvé hlášení.",quest dialog (our quests),done
 q:ours:6f64152c8471,Destroy the source of venom and return to Ji Jin.,Zniszcz zrodlo jadu i wroc do Ji Jin.,Znič zdroj jedu a vrať se k Ji Jinovi.,quest dialog (our quests),done
 q:ours:9b57a3687462,Metins of Doubt: ,Metiny Zwatpienia: ,Metiny pochybností: ,quest dialog (our quests),done
 q:ours:97df4347864a,"Find Grandma Lao (562, 83).","Odszukaj Staruszke Lao (562, 83).","Najdi Babičku Lao (562, 83).",quest dialog (our quests),done
@@ -485,6 +530,10 @@ q:ours:275d5e0d5860,Break the siege and return to Haneul.,Przelam oblezenie i wr
 q:ours:5d9a9c23aecb,Stingers: ,Zadlaki: ,Žihadláci: ,quest dialog (our quests),done
 q:ours:fedcf4fcc1b2,The Green Fangs trail has been secured.,Szlak Zielonych Klow zostal zabezpieczony.,Stezka Zelených tesáků je zajištěna.,quest dialog (our quests),done
 q:ours:3dc5401b7369,Ji Jin offers further patrols.,Dalsze patrole przyjmuje Ji Jin.,Ji Jin nabízí další hlídky.,quest dialog (our quests),done
+q:ours:f9cf983e7eb7,Bestial snakes defeated: ,Pokonane bestialskie weze: ,Poražení zvířecí hadi: ,quest dialog (our quests),done
+q:ours:2ff1e247b5d0,Return to Ji Jin for your reward.,Wroc do Ji Jina po nagrode.,Vrať se k Ji Jinovi pro odměnu.,quest dialog (our quests),done
+q:ours:b45491e1e348,The next patrol is available after the daily reset.,Nastepny patrol po dziennym resecie.,Další hlídka je dostupná po denním resetu.,quest dialog (our quests),done
+q:ours:727b1fd5e496,Ji Jin has a daily patrol for you.,Ji Jin ma dla ciebie dzienny patrol.,Ji Jin pro tebe má denní hlídku.,quest dialog (our quests),done
 q:ours:4fabe731ae0f,Rank: ,Ranga: ,Hodnost: ,quest dialog (our quests),done
 q:ours:523f57628709,Reputation: ,Reputacja: ,Reputace: ,quest dialog (our quests),done
 q:ours:0a98b391c303,Captain,Kapitan,Kapitán,quest dialog (our quests),done
@@ -493,43 +542,64 @@ q:ours:721662bdfbfd,Haneul needs help securing the trail.,Haneul prosi o pomoc w
 q:ours:157b12ff6799,"You will find her in the north: 751, 80.","Znajdziesz ja na polnocy mapy: 751, 80.","Najdeš ji na severu: 751, 80.",quest dialog (our quests),done
 q:ours:19f669b39973,I will help,Podejme sie tego,Pomůžu,quest dialog (our quests),done
 q:ours:f7eb6088080d,The Teleporter can take you to Snakefield.,Teleporter przeniesie cie na Wezowe Pole.,Teleportér tě může dopravit na Hadí pole.,quest dialog (our quests),done
+q:ours:0bfc5da5d5ac,Green Fangs,Zielone Kly,Zelené tesáky,quest dialog (our quests),done
 q:ours:30621ba5393f,The missing scouts are only the beginning.,Znikajacy zwiadowcy to dopiero poczatek.,Zmizelí zvědové jsou teprve začátek.,quest dialog (our quests),done
 q:ours:eff36fefcc4d,"Clear the trail: 15 swordsmen, 15 archers","Oczysc trakt: 15 miecznikow, 15 lucznikow","Vyčisti stezku: 15 šermířů, 15 lučištníků",quest dialog (our quests),done
 q:ours:a5b0068be38a,and 10 bestial snake warriors.,i 10 bestialskich wezowych wojownikow.,a 10 zvířecích hadích válečníků.,quest dialog (our quests),done
+q:ours:b495a6f6a7e1,"100 reputation / 50,000 Yang / 250,000 EXP",100 reputacji / 50 000 Yang / 250 000 EXP,100 reputace / 50 000 Yangů / 250 000 EXP,quest dialog (our quests),done
 q:ours:dd2a95875078,I accept,Wyruszam,Přijímám,quest dialog (our quests),done
 q:ours:ad25490f2255,The trail is safe. Well done.,Trakt jest bezpieczny. Dobra robota.,Stezka je bezpečná. Výborně.,quest dialog (our quests),done
-q:ours:9b9a90966127,"Now report to Ji Jin: 776, 111.","Teraz zglos sie do Ji Jin: 776, 111.","Teď se ohlas u Ji Jina: 776, 111.",quest dialog (our quests),done
+q:ours:b9ec3091ae43,"Now report to Ji Jin to the left of the shop: 763, 110.","Teraz zglos sie do Ji Jin po lewej stronie sklepu: 763, 110.","Teď se hlas u Ji Jina vlevo od obchodu: 763, 110.",quest dialog (our quests),done
 q:ours:502fa5b542f9,"Without Serpentor, the enemy has lost its leader.",Bez Serpentora wrogowie stracili dowodce.,Bez Serpentora nepřítel přišel o vůdce.,quest dialog (our quests),done
 q:ours:f14e37815940,The Green Fangs now consider you a friend.,Zielone Kly uznaja cie za przyjaciela.,Zelené tesáky tě teď považují za přítele.,quest dialog (our quests),done
+q:ours:2d43fdc9d53f,Venom of Snakefield,Jad Wezowego Pola,Jed Hadího pole,quest dialog (our quests),done
 q:ours:7e8c456ddbe8,"Szeptotruj poisons the trails, empowered by the stones.","Szeptotruj zatruwa szlaki, a metiny go wzmacniaja.","Szeptotruj otravuje stezky, posílený kameny.",quest dialog (our quests),done
 q:ours:18c048a38779,Defeat him and destroy two Metins of Doubt.,Pokonaj go i zniszcz dwa Metiny Zwatpienia.,Poraz ho a znič dva Metiny pochybností.,quest dialog (our quests),done
+q:ours:05c3a5665db8,"150 reputation / 100,000 Yang / 500,000 EXP",150 reputacji / 100 000 Yang / 500 000 EXP,150 reputace / 100 000 Yangů / 500 000 EXP,quest dialog (our quests),done
 q:ours:adb35b10403e,I will handle it,Zajme sie tym,Postarám se o to,quest dialog (our quests),done
 q:ours:1ab0848d30f0,"Lao knows Serpentor's weakness. Find her at 562, 83.","Lao zna slabosc Serpentora. Szukaj jej: 562, 83.","Lao zná Serpentorovu slabinu. Najdeš ji na 562, 83.",quest dialog (our quests),done
-q:ours:3ac0c2dfb592,Grandma Lao,Staruszka Lao,Babička Lao,quest dialog (our quests),done
+q:ours:3f2efcae559c,Serpentor's weakness,Slabosc Serpentora,Serpentorova slabina,quest dialog (our quests),done
 q:ours:641619f5e72a,Serpentor hides in the desert part of the field.,Serpentor skryl sie w pustynnej czesci pola.,Serpentor se skrývá v pouštní části pole.,quest dialog (our quests),done
 q:ours:1bc4e9473e15,Defeat two Stingers and Serpentor himself.,Pokonaj dwa Zadlaki i samego Serpentora.,Poraz dva Žihadláky a samotného Serpentora.,quest dialog (our quests),done
 q:ours:3a8361f2128b,Then bring Haneul the news of your victory.,Potem zanies Haneul wiesci o zwyciestwie.,Pak přines Haneul zprávu o svém vítězství.,quest dialog (our quests),done
+q:ours:c8db7157bd38,"250 reputation / 150,000 Yang / 750,000 EXP",250 reputacji / 150 000 Yang / 750 000 EXP,250 reputace / 150 000 Yangů / 750 000 EXP,quest dialog (our quests),done
 q:ours:042ee6e7112a,I will be ready,Bede gotow,Budu připraven,quest dialog (our quests),done
-q:ours:f9cf983e7eb7,Bestial snakes defeated: ,Pokonane bestialskie weze: ,Poražení zvířecí hadi: ,quest dialog (our quests),done
-q:ours:8b9141783d95,Return 24 hours after your last reward.,Wroc po uplywie doby od ostatniej nagrody.,Vrať se 24 hodin po poslední odměně.,quest dialog (our quests),done
+q:ours:c84d0e51bcf5,Return after the faction quests' daily reset.,Wroc po dziennym resecie zlecen frakcji.,Vrať se po denním resetu úkolů frakcí.,quest dialog (our quests),done
 q:ours:e829d7c5de56,"Defeat 30 swordsmen, archers or warriors.","Pokonaj 30 miecznikow, lucznikow lub wojownikow.","Poraz 30 šermířů, lučištníků nebo válečníků.",quest dialog (our quests),done
+q:ours:ddfa84273324,"25 reputation / 50,000 Yang / 250,000 EXP",25 reputacji / 50 000 Yang / 250 000 EXP,25 reputace / 50 000 Yangů / 250 000 EXP,quest dialog (our quests),done
 q:ours:54e65faf730d,Accept patrol,Przyjmuje patrol,Přijmout hlídku,quest dialog (our quests),done
+q:ours:24e35e876def,Snakefield trails,Szlaki Wezowego Pola,Stezky Hadího pole,quest dialog (our quests),done
 q:ours:556e871fcba3,Haneul and Ji Jin guard the northern camp.,Haneul i Ji Jin pilnuja polnocnego obozu.,Haneul a Ji Jin střeží severní tábor.,quest dialog (our quests),done
 q:ours:4aad13ae54bd,"You will find Lao to the west: 562, 83.","Lao znajdziesz na zachod: 562, 83.","Lao najdeš na západě: 562, 83.",quest dialog (our quests),done
 q:ours:2eabc9912976,"Meijin watches the desert trail: 985, 856.","Meijin obserwuje pustynny szlak: 985, 856.","Meijin hlídá pouštní stezku: 985, 856.",quest dialog (our quests),done
+q:ours:ca69733d3d57,Serpentor's trail,Trop Serpentora,Serpentorova stopa,quest dialog (our quests),done
 q:ours:4d29a4962fb7,"Serpentor was last seen near 870, 760.","Serpentora widziano przy 870, 760.","Serpentor byl naposledy spatřen poblíž 870, 760.",quest dialog (our quests),done
 q:ours:f3cdd120d524,Stingers roam nearby. Bring supplies.,W poblizu kraza Zadlaki. Nie ruszaj bez zapasow.,Poblíž se potulují Žihadláci. Vezmi si zásoby.,quest dialog (our quests),done
+q:ours:99e1847581fe,Merchant's offer,Oferta handlarza,Nabídka obchodníka,quest dialog (our quests),done
 q:ours:f6597eccea9b,Vampiric Merchant,Wampiryczny Handlarz,Upíří obchodník,quest dialog (our quests),done
 q:ours:ef55758e6a96,My emblem supplies have not arrived yet.,Moje towary z emblematami jeszcze nie dotarly.,Moje zásoby emblémů ještě nedorazily.,quest dialog (our quests),done
 q:ours:63f449f87238,Trading is currently unavailable.,Na razie nie prowadzimy wymiany.,Obchod teď není dostupný.,quest dialog (our quests),done
+q:ours:44bd4ab15fdd,The Hunter's Forge is temporarily unavailable.,Kuznia Lowcy jest chwilowo niedostepna.,Lovcova kovárna je dočasně nedostupná.,quest dialog (our quests),done
+q:ours:ac1739eee84b,You cannot use the Hunter's Forge while dead.,Nie mozesz korzystac z Kuzni Lowcy po smierci.,"Když jsi mrtvý, nemůžeš Lovcovu kovárnu používat.",quest dialog (our quests),done
+q:ours:e4c91b05767c,Move closer to the Blacksmith.,Podejdz blizej do Kowala.,Přijď blíž ke Kováři.,quest dialog (our quests),done
+q:ours:ef0fee2ebe73,The Hunter's Forge recipe has changed. Reopen the window.,Receptura Kuzni Lowcy zmienila sie. Otworz okno ponownie.,Recept Lovcovy kovárny se změnil. Otevři okno znovu.,quest dialog (our quests),done
+q:ours:5792dd102f6e,Your %s+9 is equipped. Take it off into your inventory and put it into the Forge window again.,Bron %s+9 jest zalozona. Zdejmij ja do ekwipunku i wloz ponownie do okna Kuzni.,Tvůj %s+9 je nasazený. Sundej ho do inventáře a vlož ho znovu do okna Kovárny.,quest dialog (our quests) | keep: %s,done
+q:ours:a7b8ef7ca9fb,The chosen inventory slot does not hold %s. Put it into the Forge window again.,W wybranym polu ekwipunku nie ma broni %s. Wloz ja do okna Kuzni ponownie.,Vybrané pole inventáře neobsahuje %s. Vlož ho znovu do okna Kovárny.,quest dialog (our quests) | keep: %s,done
+q:ours:53055930f8a2,"Not enough Yang: %s needed, you have %s.","Za malo Yang: potrzeba %s, masz %s.","Nedostatek Yangů: potřeba %s, máš %s.",quest dialog (our quests) | keep: %s %s,done
+q:ours:7f02e50bbc11,Missing materials: %s.,Brakuje materialow: %s.,Chybějící materiály: %s.,quest dialog (our quests) | keep: %s,done
+q:ours:d0661d94d5fe,The Blacksmith could not hand out the weapon. Nothing was taken.,Kowal nie mogl wydac broni. Nic nie zostalo pobrane.,Kovář nemohl zbraň vydat. Nic nebylo odebráno.,quest dialog (our quests),done
+q:ours:610167443422,Close other windows and open the Hunter's Forge again.,Zamknij inne okna i otworz Kuznie Lowcy ponownie.,Zavři ostatní okna a otevři Lovcovu kovárnu znovu.,quest dialog (our quests),done
 q:ours:860602efb7a2,Weapon +0 crafted. Bonuses and stones have been preserved.,Wytworzono bron +0. Bonusy i kamienie zostaly zachowane.,Zbraň +0 vyrobena. Bonusy a kameny zůstaly zachovány.,quest dialog (our quests),done
-q:ours:fbd580e0f733,"Check the weapon, Yang and materials. Reopen the window after a recipe change.","Sprawdz bron, Yang i materialy. Otworz ponownie okno po zmianie receptury.","Zkontroluj zbraň, Yang a materiály. Po změně receptu otevři okno znovu.",quest dialog (our quests),done
 q:ours:bbe3b2b5efa5,Snakefield,Wezowe Pole,Hadí pole,quest dialog (our quests),done
 q:ours:7581b64c60ab,BETA for all players: errors may occur.,BETA dla wszystkich graczy: mozliwe bledy.,BETA pro všechny hráče: mohou nastat chyby.,quest dialog (our quests),done
 q:ours:770ddb4b98c9,Some features are unfinished. Bot support is pending.,Nie wszystko jest gotowe. Obsluga botow w przygotowaniu.,Některé funkce nejsou hotové. Podpora botů teprve přijde.,quest dialog (our quests),done
 q:ours:9d619463b9f4,Teleport me,Przenies mnie,Teleportuj mě,quest dialog (our quests),done
 q:ours:f8a104ef75e0,Return to village,Powrot do wioski,Zpět do vesnice,quest dialog (our quests),done
 q:ours:8d896135a30c,Return to my kingdom,Wroc do mojego krolestwa,Zpět do mé říše,quest dialog (our quests),done
+q:ours:fc6bbd007cb1,Make room in your inventory before opening the chest.,Zrob miejsce w ekwipunku przed otwarciem skrzyni.,Před otevřením truhly uvolni místo v inventáři.,quest dialog (our quests),done
+q:ours:f3cf53d43193,Spend some Yang before opening the chest.,Wydaj czesc Yang przed otwarciem skrzyni.,Před otevřením truhly utrať nějaké Yangy.,quest dialog (our quests),done
+q:ours:2dcfb1b038a8,The Plague Chest is disabled on this world.,Skrzynia Zarazy jest wylaczona na tym swiecie.,Plague Chest je v tomto světě vypnutá.,quest dialog (our quests),done
+q:ours:8b99dcc59ad0,The Plague Chest rewards are not available. Your chest has not been consumed.,Brakuje zawartosci Skrzyni Zarazy. Skrzynia nie zostala zuzyta.,Odměny z Plague Chest nejsou dostupné. Tvá truhla nebyla spotřebována.,quest dialog (our quests),done
 q:ours:a6e2a2932da8,Targets left: %d / %d.,Pozostalo celow: %d / %d.,Zbývající cíle: %d / %d.,quest dialog (our quests) | keep: %d %d,done
 q:ours:3439032796b9,Monsters left: %d.,Pozostalo potworow: %d.,Zbývající příšery: %d.,quest dialog (our quests) | keep: %d,done
 q:ours:fc69b706e296,Looking for the key: %d monsters defeated (guaranteed by the 120th at the latest).,Poszukiwanie klucza: pokonano %d potworow (gwarantowany najpozniej po 120).,Hledání klíče: poraženo %d příšer (nejpozději u 120. zaručeno).,quest dialog (our quests) | keep: %d,done
@@ -585,13 +655,15 @@ q:ours:36e5211c41a7,Make room in your inventory before taking the reward.,Zrob m
 q:ours:771684ba9d35,You receive %d Yang and %d EXP.,Otrzymujesz %d Yang i %d PD.,Dostáváš %d Yang a %d EXP.,quest dialog (our quests) | keep: %d %d,done
 q:ours:1359ebd151ce,Extra items as this run's settings say.,Dodatkowe przedmioty zgodnie z ustawieniami tej wyprawy.,Další předměty podle nastavení tohoto průchodu.,quest dialog (our quests),done
 q:ours:9c0e63b29ea8,Plague Dungeon,Loch Zarazy,Morová kobka,quest dialog (our quests),done
-q:ours:14e113e27d0b,Plague Guard,Straznik Zarazy,Plague Guard,quest dialog (our quests),done
+q:ours:14e113e27d0b,Plague Guard,Straznik Zarazy,Plague Guard,quest dialog (our quests),check
 q:ours:baae54e6b5b3,The Plague Dungeon is closed on this world.,Loch Zarazy jest na tym swiecie zamkniety.,Morová kobka je v tomto světě zavřená.,quest dialog (our quests),done
 q:ours:27ddd2abe251,The dungeon's settings are not available right now. Try again.,Konfiguracja lochu jest chwilowo niedostepna. Sprobuj ponownie.,Nastavení kobky teď není dostupné. Zkus to znovu.,quest dialog (our quests),done
 q:ours:d2aaeccd13c6,Eight stages. Enter solo or with a party.,Osiem etapow wyprawy. Wejscie solo lub z party.,Osm fází. Vstup sám nebo se skupinou.,quest dialog (our quests),done
 q:ours:c6be7a7e4245,Level 45-120. Passes per player: %d.,Poziom 45-120. Przepustki od gracza: %d.,Úroveň 45-120. Propustky na hráče: %d.,quest dialog (our quests) | keep: %d,done
 q:ours:deb86e59654c,Entry fee: %d Yang per player.,Oplata wejsciowa: %d Yang od gracza.,Vstupné: %d Yang na hráče.,quest dialog (our quests) | keep: %d,done
-q:ours:2b250d41769a,Time limit: 60 minutes. Break: 60 minutes from the entry.,Limit: 60 minut. Przerwa: 60 minut od wejscia.,Časový limit: 60 minut. Přestávka: 60 minut od vstupu.,quest dialog (our quests),done
+q:ours:4f32bf3c9392,Time limit: %d minutes. Break: %d minutes from the entry.,Limit: %d minut. Przerwa: %d minut od wejscia.,Časový limit: %d minut. Pauza: %d minut od vstupu.,quest dialog (our quests) | keep: %d %d,done
+q:ours:87d232534dce,Entries: at most %d within %d hours of the first. Left: %d.,Wejscia: najwyzej %d w ciagu %d godz. od pierwszego. Zostalo: %d.,Vstupy: nejvýš %d během %d hodin od prvního. Zbývá: %d.,quest dialog (our quests) | keep: %d %d %d,done
+q:ours:9f50fec64aae,Your break: %d min left.,Twoja przerwa: zostalo %d min.,Tvá pauza: zbývá %d min.,quest dialog (our quests) | keep: %d,done
 q:ours:7e8c2518a2ee,Reward: %d Yang and %d EXP per person.,Nagroda: %d Yang i %d PD na osobe.,Odměna: %d Yang a %d EXP na osobu.,quest dialog (our quests) | keep: %d %d,done
 q:ours:de04d988e26e,Reward item: %s x%d,Przedmiot nagrody: %s x%d,Předmět odměny: %s x%d,quest dialog (our quests) | keep: %s %d,done
 q:ours:84e9b2ab9939,Enter solo,Wejdz solo,Vstoupit sám,quest dialog (our quests),done
@@ -612,7 +684,7 @@ q:ours:b93be63aa498,Take the reward.,Odbierz nagrode.,Vezmi si odměnu.,quest di
 q:ours:850465e52a82,Restore a lost stage item,Odtworz zagubiony przedmiot etapu,Obnovit ztracený předmět fáze,quest dialog (our quests),done
 q:ours:fa26e76385cd,Leave the dungeon,Opusc loch,Opustit kobku,quest dialog (our quests),done
 q:ours:e84df5441dce,Help the warrior,Pomoc wojownikowi,Pomoz válečníkovi,quest dialog (our quests),done
-q:ours:abf6081ea8c7,Plagued Warrior,Zarazony Wojownik,Plagued Warrior,quest dialog (our quests),done
+q:ours:abf6081ea8c7,Plagued Warrior,Zarazony Wojownik,Plagued Warrior,quest dialog (our quests),check
 q:ours:638d3637bfb1,"We were exploring these corridors, but the plague is everywhere.","Badalismy te korytarze, ale zaraza jest wszedzie.","Prozkoumávali jsme tyto chodby, ale mor je všude.",quest dialog (our quests),done
 q:ours:0f1b431bb1f1,Monsters hide in the shadows. Be careful!,Potwory kryja sie w cieniu. Zachowaj ostroznosc!,Ve stínech se skrývají příšery. Buď opatrný!,quest dialog (our quests),done
 q:ours:2a1975a52f3e,"Help me: defeat the plague carriers, then bring me the Plague Cure.","Pomoz mi: pokonaj nosicieli zarazy, a potem przynies Lekarstwo Zarazy.",Pomoz mi: poraz přenašeče moru a pak mi přines Lék na mor.,quest dialog (our quests),done
@@ -627,75 +699,3 @@ q:ours:c97656186c9c,Another wave of monsters is coming. This hall seems to have 
 q:ours:888f4b76022e,"The monsters are gone, but something bigger is coming. Defeat the Plague Dragon!","Potwory zniknely, ale zbliza sie cos wiekszego. Pokonaj Smoka Zarazy!","Příšery jsou pryč, ale blíží se něco většího. Poraz Plague Dragona!",quest dialog (our quests),done
 q:ours:e439c8eda6f7,The last seal is broken. Pick up the key and open the Small Door.,Ostatnia pieczec zostala przelamana. Podnies klucz i otworz Male Drzwi.,Poslední pečeť je zlomená. Seber klíč a otevři Small Door.,quest dialog (our quests),done
 q:ours:c6af348ba15a,Help the shamaness,Pomoc szamance,Pomoz šamance,quest dialog (our quests),done
-q:ours:52db0c869c30,Plagued Shamaness,Zarazona Szamanka,Plagued Shamaness,quest dialog (our quests),done
-q:ours:da3757fe13a1,An evil power is taking control of me. This place is tainted!,Zla moc przejmuje nade mna kontrole. To miejsce jest skazone!,Zlá moc mě ovládá. Tohle místo je zamořené!,quest dialog (our quests),done
-q:ours:12d4b447ff84,I heard that the Plague Crystal can take the sickness away.,"Slyszalam, ze Krysztal Zarazy moze usunac objawy choroby.","Slyšela jsem, že Plague Crystal dokáže nemoc zahnat.",quest dialog (our quests),done
-q:ours:1616665d0ea7,"I do not know if it will work, but we must try. Bring me the crystal from the dragon!","Nie wiem, czy zadziala, ale musimy sprobowac. Przynies mi krysztal od smoka!","Nevím, jestli to zabere, ale musíme to zkusit. Přines mi krystal od draka!",quest dialog (our quests),done
-q:ours:1388794a87c4,It... does not work! No! Thank you for your help... Farewell!,To... nie dziala! Nie! Dziekuje za pomoc... Zegnaj!,Ne... nefunguje to! Ne! Děkuji za pomoc... Sbohem!,quest dialog (our quests),done
-q:ours:545a0c1c1580,Plague Dungeon reward,Nagroda za Loch Zarazy,Odměna z Morové kobky,quest dialog (our quests),done
-q:ours:4b1f9ae7f52d,This scroll works from level 31.,Ten zwoj dziala od 31 poziomu.,Tento svitek funguje od úrovně 31.,quest dialog (our quests),done
-q:ours:312f430890c8,You have no profession yet - you choose one at your class's trainer.,Nie masz jeszcze profesji - wybierzesz ja u trenera swojej klasy.,Ještě nemáš specializaci - zvolíš ji u učitele své třídy.,quest dialog (our quests),done
-q:ours:e457399556f2,Every skill of yours goes back to zero and its points are yours to spend again.,"Wszystkie twoje umiejetnosci wroca do zera, a punkty do rozdania.",Všechny tvé dovednosti se vrátí na nulu a jejich body můžeš znovu rozdělit.,quest dialog (our quests),done
-q:ours:e77e5c964a17,Master grades are lost. You choose your profession again at your class's trainer.,Mistrzowie przepadna. Profesje wybierzesz na nowo u trenera swojej klasy.,Mistrovské stupně se ztratí. Specializaci si znovu zvolíš u učitele své třídy.,quest dialog (our quests),done
-q:ours:613e148bb0da,Use the scroll,Uzyj zwoju,Použít svitek,quest dialog (our quests),done
-q:ours:86aa8e5c771c,Your skills start from zero. Choose your new profession at your class's trainer.,Umiejetnosci od zera. Wybierz nowa profesje u trenera swojej klasy.,Tvé dovednosti začínají od nuly. Novou specializaci si zvol u učitele své třídy.,quest dialog (our quests),done
-q:ours:3dd3d22e12ef,Return to V2,Powrot do V2,Zpět do V2,quest dialog (our quests),done
-q:ours:5c8271b0de7b,Do you want to return to Spider Dungeon V2?,Czy chcesz wrocic do Lochu Pajakow V2?,Chceš se vrátit do Pavoučí kobky V2?,quest dialog (our quests),done
-q:ours:24f096b221f9,Return,Wroc,Návrat,quest dialog (our quests),done
-q:ours:7594d83fa99d,Your kingdom,Twoje krolestwo,Tvá říše,quest dialog (our quests),done
-q:ours:254c0fea0142,Main maps,Podstawowe mapy,Hlavní mapy,quest dialog (our quests),done
-q:ours:89eabb1765a7,Dungeons,Lochy,Kobky,quest dialog (our quests),done
-q:ours:c217db681221,Other areas,Pozostale tereny,Další oblasti,quest dialog (our quests),done
-q:ours:53b9ccd0e055,From level 60,Od 60 poziomu,Od úrovně 60,quest dialog (our quests),done
-q:ours:7f36ead37771,Spider Dungeon V1,Loch Pajakow V1,Pavoučí kobka V1,quest dialog (our quests),done
-q:ours:22e5cac1a339,Page %d of %d: %s,Strona %d z %d: %s,Strana %d z %d: %s,quest dialog (our quests) | keep: %d %d %s,done
-q:ours:16ca44702a9b,Novice,Nowicjusz,Nováček,quest dialog (our quests),done
-q:ours:f024635bf90c,Apprentice Herbalist,Uczen Zielarza,Bylinkářský učeň,quest dialog (our quests),done
-q:ours:d9ad04722b84,Journeyman Herbalist,Czeladnik Zielarski,Bylinkářský tovaryš,quest dialog (our quests),done
-q:ours:c205ffe7db50,Herbalist,Zielarz,Bylinkář,quest dialog (our quests),done
-q:ours:0f89235b8cb2,Master Herbalist,Mistrz Zielarz,Mistr bylinkář,quest dialog (our quests),done
-q:ours:aafd85ada5bb,Grandmaster Herbalist,Arcymistrz Zielarstwa,Velmistr bylinkář,quest dialog (our quests),done
-q:ours:86bae31be3d8,any Juice,dowolny Sok,jakákoli šťáva,quest dialog (our quests),done
-q:ours:83f57ea13d3c,any Water,dowolna Woda,jakákoli voda,quest dialog (our quests),done
-q:ours:b1d8aa3a2dd9,any Dew,dowolna Rosa,jakákoli rosa,quest dialog (our quests),done
-q:ours:8bbb3a042db5,Character level: %d (you: %d),Poziom postaci: %d (masz %d),Úroveň postavy: %d (ty: %d),quest dialog (our quests) | keep: %d %d,done
-q:ours:0b14cf59511f,Recipe knowledge: %d (you: %d),Wiedza o recepturach: %d (masz %d),Znalost receptů: %d (ty: %d),quest dialog (our quests) | keep: %d %d,done
-q:ours:0b2f86b24dea,"Herbalist's Knife +%d or better, equipped",Zalozony Nozyk Zielarza +%d lub lepszy,"Bylinkářský nůž +%d nebo lepší, nasazený",quest dialog (our quests) | keep: %d,done
-q:ours:c0e1d820a3bf,Fee: %s Yang,Oplata: %s Yang,Poplatek: %s Yang,quest dialog (our quests) | keep: %s,done
-q:ours:124f23453f5c,Exam: %s,Egzamin: %s,Zkouška: %s,quest dialog (our quests) | keep: %s,done
-q:ours:5d53129c18e3,To hand in (they will be taken):,Do oddania (zostana zabrane):,K odevzdání (budou odebrány):,quest dialog (our quests),done
-q:ours:aca029cbec58,%dx %s (you: %d),%dx %s (masz %d),%dx %s (ty: %d),quest dialog (our quests) | keep: %d %s %d,done
-q:ours:843683b4489d,Make room in your inventory (free slots: %d).,Zrob miejsce w ekwipunku (wolne pola: %d).,Udělej místo v inventáři (volná místa: %d).,quest dialog (our quests) | keep: %d,done
-q:ours:d8a9b90573e1,Herbalist Rank,Ranga Zielarza,Bylinkářská hodnost,quest dialog (our quests),done
-q:ours:fc29190a2556,Your herbalist rank: %s (%d/5).,Twoja ranga zielarza: %s (%d/5).,Tvá bylinkářská hodnost: %s (%d/5).,quest dialog (our quests) | keep: %s %d,done
-q:ours:fb2ff51ee8e7,Next rank from level %d - ask Baek-Go about the Herbalist's Path.,Nastepna ranga od %d poziomu - zapytaj Baek-Go o Sciezke Zielarza.,Další hodnost od úrovně %d - zeptej se Baek-Ga na Cestu bylinkáře.,quest dialog (our quests) | keep: %d,done
-q:ours:0e365f685489,Baek-Go's orders of the day: %d per day.,Zlecenia dnia u Baek-Go: %d dziennie.,Denní zakázky Baek-Ga: %d za den.,quest dialog (our quests) | keep: %d,done
-q:ours:2af5d346625d,Herbalist's Workshop: talk to Baek-Go.,Pracownia Zielarza: rozmawiaj z Baek-Go.,Bylinkářská dílna: promluv s Baek-Gem.,quest dialog (our quests),done
-q:ours:2e0b7235ed40,Herbalist's Path,Sciezka Zielarza,Cesta bylinkáře,quest dialog (our quests),done
-q:ours:46b6d70a8ca1,Your rank: %s.,Twoja ranga: %s.,Tvá hodnost: %s.,quest dialog (our quests) | keep: %s,done
-q:ours:a8ccbe1bca40,You have reached the highest rank. I have nothing left to teach you - now I learn from you.,Osiagnales najwyzsza range. Nie mam juz czego cie uczyc - teraz to ja ucze sie od ciebie.,Dosáhl jsi nejvyšší hodnosti. Už tě nemám co naučit - teď se učím já od tebe.,quest dialog (our quests),done
-q:ours:63f31a606d4a,Every herbalist starts with a knife and a handful of flowers. Show me what you have learned and I will open the next secrets to you.,"Kazdy zielarz zaczyna od nozyka i garsci kwiatow. Pokaz mi, czego sie nauczyles, a otworze przed toba kolejne tajemnice.","Každý bylinkář začíná s nožem a hrstí květin. Ukaž mi, co ses naučil, a odhalím ti další tajemství.",quest dialog (our quests),done
-q:ours:b423282af9c4,Knowledge is the sum of the successful reads of all your herbal recipes.,Wiedza to suma udanych odczytow wszystkich twoich receptur zielarskich.,Znalost je součet úspěšných čtení všech tvých bylinných receptů.,quest dialog (our quests),done
-q:ours:a5118d9815dd,You do not meet all the conditions yet. Come back when you are ready.,"Jeszcze nie spelniasz wszystkich warunkow. Wroc, gdy bedziesz gotow.","Ještě nesplňuješ všechny podmínky. Vrať se, až budeš připraven.",quest dialog (our quests),done
-q:ours:75220ff113f6,Do you want to take the exam now?,Czy chcesz teraz przystapic do egzaminu?,Chceš teď složit zkoušku?,quest dialog (our quests),done
-q:ours:5397e0583f14,Yes,Tak,Ano,quest dialog (our quests),done
-q:ours:3e3e506413de,Congratulations! From today your rank is: %s.,Gratulacje! Od dzis twoja ranga to: %s.,Gratuluji! Od dneška je tvá hodnost: %s.,quest dialog (our quests) | keep: %s,done
-q:ours:4645949b2473,New recipes are waiting for you in the Herbalist's Workshop.,W Pracowni Zielarza czekaja na ciebie nowe receptury.,V Bylinkářské dílně na tebe čekají nové recepty.,quest dialog (our quests),done
-q:ours:aa319f75bd37,Accept this small gift.,Przyjmij ten drobny podarunek.,Přijmi tento malý dárek.,quest dialog (our quests),done
-q:ours:8802952ba79a,Herbalist's Workshop,Pracownia Zielarza,Bylinkářská dílna,quest dialog (our quests),done
-q:ours:e0ac7b20d45c,Order of the day,Zlecenie dnia,Denní zakázka,quest dialog (our quests),done
-q:ours:f09c524fbb9b,I have no more orders today. Come back tomorrow.,Na dzis nie mam juz zlecen. Wroc jutro.,Dnes už nemám žádné zakázky. Přijď zítra.,quest dialog (our quests),done
-q:ours:f3e743a75a4c,Order %d of %d,Zlecenie %d z %d,Zakázka %d z %d,quest dialog (our quests) | keep: %d %d,done
-q:ours:850f35f955a1,Today I need:,Dzis potrzebuje:,Dnes potřebuji:,quest dialog (our quests),done
-q:ours:245dc4067332,Reward: %s experience and something from my stores.,Nagroda: %s pkt. doswiadczenia i cos z moich zapasow.,Odměna: %s zkušeností a něco z mých zásob.,quest dialog (our quests) | keep: %s,done
-q:ours:f0c9f985b2d2,You are still missing part of the goods.,Brakuje ci jeszcze czesci towaru.,Ještě ti chybí část zboží.,quest dialog (our quests),done
-q:ours:d7b1f63aff4f,Will you hand the goods in?,Oddajesz towar?,Odevzdáš zboží?,quest dialog (our quests),done
-q:ours:250412239c0a,"Thank you, that will do. Drop by tomorrow.","Dziekuje, to mi wystarczy. Zajrzyj jutro.","Díky, to stačí. Zastav se zítra.",quest dialog (our quests),done
-q:ours:5b5aafe6b9e2,Experience,,Zkušenosti,quest dialog (our quests),done
-q:ours:9d1557def1b5,Weapon 2,,Zbraň 2,quest dialog (our quests),done
-q:ours:d0ef153cb0e4,The truth,,Pravda,quest dialog (our quests),done
-q:ours:e989886c4e8b,"Quick Analysis Potion: the wait is over, the Biologist takes the next item at once.",,"Lektvar rychlé analýzy: čekání skončilo, Biolog si další předmět vezme hned.",quest dialog (our quests),done
-q:ours:42a8f651d79f,Success,,Úspěch,quest dialog (our quests),done
-q:ours:8eefac21ad7d,Quick Analysis Potion: the Biologist will take the next item without a wait.,,Lektvar rychlé analýzy: Biolog si další předmět vezme bez čekání.,quest dialog (our quests),done
-q:ours:87d2ffe01b92,Revenge given up,,Pomsta vzdána,quest dialog (our quests),done
-q:ours:dc0e11f36d85,The lie,,Lež,quest dialog (our quests),done

@@ -24,20 +24,20 @@ c:locale_game:TOOLTIP_PARTY_INFO_RECALL_20_LEVEL,You can call Group members who 
 c:locale_game:TOOLTIP_PARTY_INFO_SET_ATTACKER,Attack Level +(Number of Group members./2) Attacker %d can be chosen.,Poziom Ataku +(ilość członków grupy/2) Napastnik %d może być wybrany.,Angrebsniveau +(antal gruppemedlemmer/2). Der kan vælges %d angribere.,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_PARTY_INFO_SET_TANKER,Defence Level +(Number of Group members) blade fighters 1 can be chosen.,Poziom Obrony +(ilość członków grupy) 1 Walczący Ostrzem może być wybrany.,Forsvarsniveau +(antal gruppemedlemmer). Der kan vælges 1 klingekæmper.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_PARTY_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,Nuværende niveau: %d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_PARTY_TITLE_GRADE_UP,[Attack/Defence upgraded],[Atak/Obrona ulepszony],[Attack/Defence upgraded],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_GRADE_UP,[Attack/Defence upgraded],[Atak/Obrona ulepszony],[Attack/Defence upgraded],client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_PARTY_TITLE_HEAL,[restore],[przywróć],[gendan],client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP,When you have more than %d Group members you get %d%% Bonus EXP .,"Jeśli masz więcej niż %d Członków Grupy, dostajesz %d%% Bonus DOŚ .","Når du har mere end %d gruppemedlemmer, får du %d%% bonus-EXP .",client: game texts (localeInfo) | keep: %d %d,done
-c:locale_game:TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP,[Bonus EXP],[Bonus DOŚ],[Bonus EXP],client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_PARTY_TITLE_RECALL,[Call],[Przywołaj],[Call],client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_PARTY_TITLE_SET_ATTACKER,[Constitute Attacker],[Ustanów Napastnika],[Constitute Attacker],client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_PARTY_TITLE_SET_TANKER,[Constitute Blade Fighter],[Ustanów Walczącego Ostrzem],[Constitute Blade Fighter],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP,[Bonus EXP],[Bonus DOŚ],[Bonus EXP],client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_PARTY_TITLE_RECALL,[Call],[Przywołaj],[Call],client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_ATTACKER,[Constitute Attacker],[Ustanów Napastnika],[Constitute Attacker],client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_PARTY_TITLE_SET_TANKER,[Constitute Blade Fighter],[Ustanów Walczącego Ostrzem],[Constitute Blade Fighter],client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_PICK_EXP,Points: %d / %d,Punkty: %d / %d,Point: %d / %d,client: game texts (localeInfo) | keep: %d %d,done
 c:locale_game:TOOLTIP_PICK_LEVEL,Level: %d,Poziom: %d,Niveau: %d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_PICK_UPGRADE1,Give to the Lumberjack,Daj to Drwalowi,Giv den til skovhuggeren,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_PICK_UPGRADE2,to get a better,aby dostać,for at få en bedre,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_PICK_UPGRADE3,Pickaxe.,ulepszony Kilof.,hakke.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_POTION_CURE,Cure negative effects.,Usuń negatywne skutki.,Helbreder negative effekter.,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_POTION_PLUS_ATTACK_SPEED,Attack speed +%d,Szybkość Ataku +%d,Angrebshastighed +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_HP_PERCENT,HP +%d%%,PŻ +%d%%,HP +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_POTION_PLUS_HP_POINT,HP +%d,PŻ +%d,HP +%d,client: game texts (localeInfo) | keep: %d,done
@@ -61,7 +61,7 @@ c:locale_game:TOOLTIP_RESIST_MAGIC,Magic Resistance %d%%,Odporność na Magię: 
 c:locale_game:TOOLTIP_REST_USABLE_COUNT,Left: %d,Pozostało: %d,Tilbage: %d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_SEALED,Soulbound,Przywiązanie do duszy,Sjælebundet,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_SELLPRICE,Price: %s,Cena: %s,Pris: %s,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:TOOLTIP_SHAMAN,Shaman,Szaman,Shaman,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SHAMAN,Shaman,Szaman,Shaman,client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_SHIELD,Shield,Tarcza,Skjold,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_SHOES,Shoes,Buty,Sko,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_SKILL,Skills,Umiejętności,Færdigheder,client: game texts (localeInfo),done
@@ -84,10 +84,10 @@ c:locale_game:TOOLTIP_SKILL_LEVEL,Current Level: %d,Aktualny Poziom: %d,Nuværen
 c:locale_game:TOOLTIP_SKILL_LEVEL_MASTER,Current Level: %d (Master),Aktualny Poziom: %d (Mistrz),Nuværende niveau: %d (mester),client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_SKILL_LEVEL_WITH_MAX,Current Level: %d (Max. %d),Aktualny Poziom: %d (Max %d),Nuværende niveau: %d (maks. %d),client: game texts (localeInfo) | keep: %d %d,done
 c:locale_game:TOOLTIP_SOCKET_EMPTY,Empty,Pusty,Tom,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],[Item with Socket],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SOCKET_REFINABLE_ITEM,[Item with Socket],[Przedmiot ze slotem],[Item with Socket],client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_SP_REGEN,SP Regeneration +%d%%,Regeneracja Mikstur PE: +%d%%,SP-regenerering +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_STR,Strength +%d,Siła: +%d,Styrke +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_TIME_CHARGER_FIX,Time charging %d sec.,Ładowanie czasu %d sek.,Opladningstid %d sek.,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_TIME_CHARGER_PER,Time charging %d%%,Ładowanie czasu %d%% ,Opladningstid %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_UNIQUE,Unique,Unikat,Unik,client: game texts (localeInfo),done
@@ -98,9 +98,9 @@ c:locale_game:TOOLTIP_WRISTLET,Wristlet,Bransoleta,Håndledsbånd,client: game t
 c:locale_game:UI_ACCEPT,Accept,Akceptuj,Acceptér,client: game texts (localeInfo),done
 c:locale_game:UI_CANCEL,Cancel,Anuluj,Annuller,client: game texts (localeInfo),done
 c:locale_game:UI_CLOSE,Close,Zamknij,Luk,client: game texts (localeInfo),done
-c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),done
-c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),done
-c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),done
+c:locale_game:UI_DEF_FONT,Tahoma:12,,Tahoma:12,client: game texts (localeInfo),check
+c:locale_game:UI_DEF_FONT_LARGE,Tahoma:14,,Tahoma:14,client: game texts (localeInfo),check
+c:locale_game:UI_DEF_FONT_SMALL,Tahoma:9,,Tahoma:9,client: game texts (localeInfo),check
 c:locale_game:UI_DENY,Decline,Odrzuć,Afvis,client: game texts (localeInfo),done
 c:locale_game:UI_ITEM,Item,Przedmiot,Genstand,client: game texts (localeInfo),done
 c:locale_game:UI_LEFT_TIME,Remaining Time: %d Sec.,Pozostały Czas: %d Sek.,Resterende tid: %d sek.,client: game texts (localeInfo) | keep: %d,done
@@ -123,7 +123,7 @@ c:locale_game:MINIMAP_SHRINK,Shrink,Zmniejsz,Skjul,client: game texts (localeInf
 c:locale_game:TOOLTIP_ESCAPE_OPTION,Use this if your character gets stuck.,"Użyj, kiedy zablokujesz się w ""teksturach"".","Brug dette, hvis din karakter sidder fast.",client: game texts (localeInfo),done
 c:locale_game:AUTOSTACK_INVENTORY,All stackable items in your inventory have been combined.,Połączono wszystkie możliwe do połączenia przedmioty w ekwipunku.,Alle stabelbare genstande i dit inventar er blevet samlet.,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_REASON_HACK,Other hacks / cheats,Inne hacki/cheaty,Andre hacks / snyd,client: game texts (localeInfo),done
-c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,Bot,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_REASON_BOT,Bot,Bot,Bot,client: game texts (localeInfo),check
 c:locale_game:REPORT_PLAYER_REASON_FISHBOT,Fishing bot,Fishbot,Fiskebot,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_REASON_INSULT,Abusive language,Wyzwiska,Krænkende sprog,client: game texts (localeInfo),done
 c:locale_game:REPORT_PLAYER_SELECT_REASON,Select a reason for reporting this player.,Wybierz powód zgłoszenia.,Vælg en grund til at anmelde denne spiller.,client: game texts (localeInfo),done
@@ -171,7 +171,7 @@ c:locale_game:SKILL_BERSERK,Battle Flush,Berserk,Kamprus,client: game texts (loc
 c:locale_game:SKILL_SWORD_AURA,Aura of the Sword,Aura Miecza,Sværdets aura,client: game texts (localeInfo),done
 c:locale_game:SKILL_STRONG_BODY,Strong Body,Silne Ciało,Stærk krop,client: game texts (localeInfo),done
 c:locale_game:SKILL_FEATHER_WALK,Feather Walking,Bezszelestny Chód,Fjergang,client: game texts (localeInfo),done
-c:locale_game:SKILL_STEALTH,Camouflage,Krycie Się,Camouflage,client: game texts (localeInfo),done
+c:locale_game:SKILL_STEALTH,Camouflage,Krycie Się,Camouflage,client: game texts (localeInfo),check
 c:locale_game:SKILL_ENCHANTED_BLADE,Enchanted Blade,Czarowane Ostrze,Fortryllet klinge,client: game texts (localeInfo),done
 c:locale_game:SKILL_TERROR,Fear,Strach,Frygt,client: game texts (localeInfo),done
 c:locale_game:SKILL_ENCHANTED_ARMOR,Enchanted Armour,Czarowana Zbroja,Fortryllet rustning,client: game texts (localeInfo),done
@@ -264,29 +264,29 @@ c:locale_game:TOOLTIP_POTION_COOLDOWN,Reusable after %s,Ponowne użycie po %s,Ka
 c:locale_game:CHAT_TRADE,Trade,Handel,Handel,client: game texts (localeInfo),done
 c:locale_game:COMB_COST,Price: %s,Cena: %s,Pris: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:CRAFTING_FILTER_ALL,All,Wszystko,Alle,client: game texts (localeInfo),done
-c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,Miryang,client: game texts (localeInfo),done
-c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,Songpa,client: game texts (localeInfo),done
-c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,Daeyami,client: game texts (localeInfo),done
+c:locale_game:GUILD_VILLAGE_01,Miryang,Miryang,Miryang,client: game texts (localeInfo),check
+c:locale_game:GUILD_VILLAGE_02,Songpa,Songpa,Songpa,client: game texts (localeInfo),check
+c:locale_game:GUILD_VILLAGE_03,Daeyami,Daeyami,Daeyami,client: game texts (localeInfo),check
 c:locale_game:ITEM_ACTON_DELETE,Delete,Usuń,Slet,client: game texts (localeInfo),done
 c:locale_game:MAP_BAYBLACKSAND,Nephrite Bay,Nefrytowa Zatoka,Nefritbugten,client: game texts (localeInfo),done
 c:locale_game:MAP_CAPEDRAGONHEAD,Cape Dragon Fire,Przylądek Smoczego Ognia,Kap Dragebrand,client: game texts (localeInfo),done
 c:locale_game:MAP_DAWNMISTWOOD,Gautama Cliff,Klif Gautama,Gautama-klippen,client: game texts (localeInfo),done
 c:locale_game:MAP_DEVILCATACOMB,Devil's Catacomb,Diabelskie Katakumby,Djævlens katakombe,client: game texts (localeInfo),done
 c:locale_game:MAP_DEVILTOWER1,Demon Tower,Wieża Demonów,Dæmontårnet,client: game texts (localeInfo),done
-c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
-c:locale_game:MAP_GUILD_02,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
-c:locale_game:MAP_GUILD_03,Imha,Imha,Imha,client: game texts (localeInfo),done
+c:locale_game:MAP_GUILD_01,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
+c:locale_game:MAP_GUILD_02,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
+c:locale_game:MAP_GUILD_03,Imha,Imha,Imha,client: game texts (localeInfo),check
 c:locale_game:MAP_MILGYO,Hwang Temple,Świątynia Hwang,Hwang-templet,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,Jungsun Dong,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,Sangsun Dong,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
-c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_MONKEY_DUNGEON,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON2,Jungsun Dong,Jungsun Dong,Jungsun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON3,Sangsun Dong,Sangsun Dong,Sangsun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON_11,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON_12,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_MONKEY_DUNGEON_13,Hasun Dong,Hasun Dong,Hasun Dong,client: game texts (localeInfo),check
 c:locale_game:MAP_MT_THUNDER,Thunder Mountains,Gromiste Góry,Tordenbjergene,client: game texts (localeInfo),done
 c:locale_game:MAP_NUSLUCK01,Land of Giants,Kraina Gigantów,Kæmpernes land,client: game texts (localeInfo),done
 c:locale_game:MAP_N_DESERT_01,Yongbi Desert,Pustynia Yongbi,Yongbi-ørkenen,client: game texts (localeInfo),done
-c:locale_game:MAP_N_FLAME_01,Doyyumhwan,Ognista Ziemia,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:MAP_N_FLAME_01,Doyyumhwan,Ognista Ziemia,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:MAP_N_FLAME_DUNGEON_01,Red Dragon Fortress,Twierdza Czerwonego Smoka,Den Røde Drages fæstning,client: game texts (localeInfo),done
 c:locale_game:MAP_N_SNOWM_01,Mount Sohan,Góra Sohan,Sohan-bjerget,client: game texts (localeInfo),done
 c:locale_game:MAP_N_SNOW_DUNGEON_01,Nemere's Watchtower,Strażnica Nemere,Nemeres vagttårn,client: game texts (localeInfo),done
@@ -304,7 +304,7 @@ c:locale_game:MAP_WL_01,Snakefield,Wężowe Pole,Slangemarken,client: game texts
 c:locale_game:MOVE_CHANNEL_CANCEL,Cancel,Anuluj,Annuller,client: game texts (localeInfo),done
 c:locale_game:MOVE_CHANNEL_SELECT,OK,OK,OK,client: game texts (localeInfo),done
 c:locale_game:REFINE_BONUS_ITEM_WEAPON,Weapon,Broń,Våben,client: game texts (localeInfo),done
-c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,Neutral,client: game texts (localeInfo),done
+c:locale_game:REPUTATION_RANK0,Neutral,Neutralny,Neutral,client: game texts (localeInfo),check
 c:locale_game:REPUTATION_RANK1,Friendly,Przyjazny,Venlig,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_QUEST,Missions,Misje,Opgaver,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_SUB_CATEGORY_JEWELRY4,Shoes,Buty,Sko,client: game texts (localeInfo),done
@@ -364,15 +364,15 @@ c:locale_game:CHANNEL_99,Special Channel,Kanał Specjalny,Særlig kanal,client: 
 c:locale_game:CHANNEL_STATUS_BUSY,BUSY,BUSY,TRAVL,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_FULL,FULL,FULL,FULD,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_STATUS_OFFLINE,OFF,OFF,FRA,client: game texts (localeInfo),done
-c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_STATUS_RECOMMENDED,NORM,NORM,NORM,client: game texts (localeInfo),check
 c:locale_game:CHANNEL_SWITCH_PREMIUM_ERROR,This channel is only for Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,Denne kanal er kun for premiumkonti.,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_CREATE_MODE,Create a character,Utwórz postać,Opret en karakter,client: game texts (localeInfo),done
 c:locale_game:CHARACTER_SELECT_MODE,Choose a character,Wybierz postać,Vælg en karakter,client: game texts (localeInfo),done
 c:locale_game:CHAT_TRADE_LIMIT,The trade chat takes one message every 30 seconds.,Czat handlowy posiada ograniczenie 30 sekund od poprzedniej wiadomości.,Handelschatten tager én besked hvert 30. sekund.,client: game texts (localeInfo),done
-c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,done
-c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),done
-c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),done
-c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,Yang,client: game texts (localeInfo),done
+c:locale_game:CHEQUE_SYSTEM_CHEQUE,%s Won,%s Won,%s Won,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:CHEQUE_SYSTEM_UNIT_CHEQUE,Won,Won,Won,client: game texts (localeInfo),check
+c:locale_game:CHEQUE_SYSTEM_UNIT_WON,Won,Won,Won,client: game texts (localeInfo),check
+c:locale_game:CHEQUE_SYSTEM_UNIT_YANG,Yang,Yang,Yang,client: game texts (localeInfo),check
 c:locale_game:COMB_CANT_APPEND_ITEM,This item cannot be used.,Nie można użyć tego przedmiotu.,Denne genstand kan ikke bruges.,client: game texts (localeInfo),done
 c:locale_game:COMB_CANT_APPEND_SEALED_ITEM,You cannot use a soulbound item.,Nie możesz używać przedmiotu przywiązanego do duszy.,Du kan ikke bruge en sjælebundet genstand.,client: game texts (localeInfo),done
 c:locale_game:COMB_IS_CONTINUE_PROCESS,Do you want to continue?,Chcesz kontynuować?,Vil du fortsætte?,client: game texts (localeInfo),done
@@ -385,7 +385,7 @@ c:locale_game:COMB_NOT_MEDIUM_ITEM,This item cannot be used.,Nie można użyć t
 c:locale_game:COMB_WILL_REMOVE_MATERIAL,Costume 2 will be destroyed.,Kostium 2 ulegnie zniszczeniu.,Kostume 2 bliver ødelagt.,client: game texts (localeInfo),done
 c:locale_game:CONFIG_FONT_OPTION1,Default,Domyślna,Standard,client: game texts (localeInfo),done
 c:locale_game:CONFIG_FONT_OPTION2,Large,Duża,Stor,client: game texts (localeInfo),done
-c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,Arial,client: game texts (localeInfo),done
+c:locale_game:CONFIG_FONT_OPTION3,Arial,Arial,Arial,client: game texts (localeInfo),check
 c:locale_game:CONFIG_NEED_RESTART,Some changes require a restart. Continue?,"Pewne zmiany wymagają restartu gry, kontynuować?",Nogle ændringer kræver genstart. Fortsæt?,client: game texts (localeInfo),done
 c:locale_game:CONFIG_SCALE_MODE_WARNING,"* NOTE * Experimental option![ENTER]Interface scaling can lower the quality[ENTER]of the interface (graphics, font).[ENTER]|cff8ab98eGreen|r means the scaling MAY be the best fit.[ENTER]|cffe57976Red|r means the scaling may leave[ENTER]the game unresponsive.","* UWAGA * Opcja eksperymentalna![ENTER]Tryb Skalowania interfejsu może prowadzić do obniżenia[ENTER]jakości interfejsu (elementy graficzne, czcionka).[ENTER]Kolor |cff8ab98ezielony|r oznacza, że skalowanie MOŻE BYĆ najoptymalniejsze.[ENTER]Kolor |cffe57976czerwony|r oznacza, że skalowanie może doprowadzić[ENTER]do braku responsywności gry.","* BEMÆRK * Eksperimentel indstilling![ENTER]Skalering af brugerfladen kan sænke[ENTER]kvaliteten af brugerfladen (grafik, skrifttype).[ENTER]|cff8ab98eGrøn|r betyder, at skaleringen MÅSKE passer bedst.[ENTER]|cffe57976Rød|r betyder, at skaleringen kan få[ENTER]spillet til at holde op med at reagere.",client: game texts (localeInfo) | keep: |c...|r colour codes; [ENTER] = new line,done
 c:locale_game:CONFIRM_DELETE_ITEM_QUESTION,Do you want to delete %dx %s?,Czy chcesz usunąć %dx %s?,Vil du slette %dx %s?,client: game texts (localeInfo) | keep: %d %s,done
@@ -447,7 +447,7 @@ c:locale_game:ITEMSHOP_CATEGORY_SCROLLS_AND_BOOKS,Scrolls and books,Zwoje i ksi�
 c:locale_game:ITEMSHOP_CATEGORY_SUBSCRIPTION,Premium Account,Konto Premium,Premiumkonto,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CATEGORY_TIMED,Flash Offers,Oferty Błyskawiczne,Lyntilbud,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CATEGORY_USE_VOUCHER,Redeem a voucher,Wykorzystaj voucher,Indløs et værdibevis,client: game texts (localeInfo),done
-c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,VIP,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CATEGORY_VIP,VIP,VIPy,VIP,client: game texts (localeInfo),check
 c:locale_game:ITEMSHOP_CHECK,Check,Sprawdź,Tjek,client: game texts (localeInfo),done
 c:locale_game:ITEMSHOP_CONFIM_BUY,Do you want to buy %s (x%d) for %s?,Czy chcesz kupić %s (szt. %d) za %s?,Vil du købe %s (x%d) for %s?,client: game texts (localeInfo) | keep: %s %d %s,done
 c:locale_game:ITEMSHOP_EVENT_HAPPYHOUR,Happy Hour,Happy Hour,Happy hour,client: game texts (localeInfo),done
@@ -621,10 +621,10 @@ c:locale_game:SHOP_SEARCH_CATEGORY_REFINE,Upgrade Items,Ulepszacze,Opgraderingsg
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT1,Desert I,Pustynia I,Ørken I,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_DESERT2,Desert II,Pustynia II,Ørken II,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_END,High level,Wysoki poziom,Højt niveau,client: game texts (localeInfo),done
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Hwang,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_HWANG,Hwang,Hwang,Hwang,client: game texts (localeInfo),check
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M1,M1,M1,M1,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_M2,M2,M2,M2,client: game texts (localeInfo),done
-c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Sohan,client: game texts (localeInfo),done
+c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_MOUNTAIN,Sohan,Sohan,Sohan,client: game texts (localeInfo),check
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_OATH,Sworn,Zaprzysiężone,Svorne,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_ORC,Valley,Dolina,Dal,client: game texts (localeInfo),done
 c:locale_game:SHOP_SEARCH_CATEGORY_REFINE_PEARL,Pearls,Perły,Perler,client: game texts (localeInfo),done

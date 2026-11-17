@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
-p:58358c356a84,Max. HP +%d,Max PŻ: +%d,Max. HP +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:01117c116082,Max. SP +%d,Max PE: +%d,Max. SP +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:58358c356a84,Max. HP +%d,Max PŻ: +%d,Max. HP +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:01117c116082,Max. SP +%d,Max PE: +%d,Max. SP +%d,"APPLY_TEXTS[2][1] / panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
 p:7505ed037a49,Vitality +%d,Witalność +%d,Vitalitás +%d,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,Intelligencia +%d,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:88be89e0b9e3,Strength +%d,Siła: +%d,Erő +%d,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -62,11 +62,11 @@ p:c84fa2587ddc,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Erős
 p:1f83ddc18fb4,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Erő szörnyek ellen +%d%%,"APPLY_TEXTS[63][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:9ee5d4bd694f,Attack Value +%d%%,Wartość Ataku: +%d%%,Támadóérték +%d%%,"APPLY_TEXTS[64][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:de6fc43c64bc,Defence +%d%%,Obrona: +%d%%,Védekezés +%d%%,"APPLY_TEXTS[65][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
 p:0bf3b96fbebf,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,A tárgyszerzés esélye %.1f-szeresére nő,"APPLY_TEXTS[67][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:fda3aeb92023,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,A Yang-szerzés esélye %.1f-szeresére nő,"APPLY_TEXTS[68][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
-p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:ea5ec57fbc3b,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,"APPLY_TEXTS[70][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
+p:ea5ec57fbc3b,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,"APPLY_TEXTS[70][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",check
 p:3b6bb7980c8c,Skill Damage %d%%,Obrażenie Umiejętności: %d%%,Képességsebzés %d%%,"APPLY_TEXTS[71][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:facbe3494ca6,Average Damage %d%%,Średnie Obrażenia: %d%%,Átlagos sebzés %d%%,"APPLY_TEXTS[72][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:90e58488ac03,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,Képességsebzéssel szembeni ellenállás %d%%,"APPLY_TEXTS[73][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -87,6 +87,7 @@ p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,Söt�
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Ellenállás kritikus találatok ellen +%d%%,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Ellenállás átütő találatok ellen +%d%%,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:b35287fee0ec,Terror +%d%%,Terror +%d%%,Rettegés +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:54690e658e25,Chance to reflect Arrows: %d%%,Szansa na odbicie pocisku: %d%%,Nyilak visszaverésének esélye: %d%%,"APPLY_TEXTS[1080][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,Állóképesség-regeneráció +%d%%,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,Tőrtámadás szörnyek ellen +%d,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,Támadóérték szörnyek ellen +%d,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -218,10 +219,10 @@ p:3163a85fc381,Bonus Master,Mistrz Bonusów,A bónuszok mestere,"BOT_PERSONA_LAB
 p:41dc3110c0fa,Bargain Hunter,Łowca Okazji,Alkuvadász,"BOT_PERSONA_LABELS[21] | the classic web panel (browser, UTF-8: any letter)",done
 p:b63f21fd8d7c,Daily Goal,Cel Dnia,Napi cél,"BOT_PERSONA_LABELS[22] / MAP_I18N['daily_goal'] | the classic web panel (browser, UTF-8: any letter)",done
 p:945eda39d82d,Warrior,Wojownik,Harcos,"CLASS_NAMES[0] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:7eb0443b6298,Ninja,Ninja,Ninja,"CLASS_NAMES[1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
+p:9777182d69c2,Sura,Sura,Sura,"CLASS_NAMES[2] / panel: module text | the classic web panel (browser, UTF-8: any letter)",check
 p:6f6596271da8,Shaman,Szaman,Sámán,"CLASS_NAMES[3] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
-p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",done
+p:c5adaadd6439,Lycan,Lykan,Lycan,"CLASS_NAMES[8] | the classic web panel (browser, UTF-8: any letter)",check
 p:cf4aa98d6a2a,a weaker blow than the weapon taken off: {a},słabszy cios niż zdjęta broń: {a},"gyengébb ütés, mint a levett fegyveré: {a}","DECISION_ANOMALIES['blow_down'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:4804f0036f6f,a level-30 weapon replaced by another weapon,broń 30 lv zastąpiona inną bronią,egy 30-as szintű fegyver lecserélve egy másikra,"DECISION_ANOMALIES['level30_off'] | the classic web panel (browser, UTF-8: any letter)",done
 p:d8f4654502b6,listed as a spare while a tool was in the hand ({a}),"wystawione jako zapas, gdy w ręce było narzędzie ({a})","tartalékként listázva, miközben szerszám volt a kézben ({a})","DECISION_ANOMALIES['tool_spare'] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -278,8 +279,8 @@ p:7fe3519695c5,shellfish,małża,kagyló,"DECISION_ENUMS['FIXED'][4] | the class
 p:f403de3ac3ab,horse medal,medal konny,lóérem,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",done
 p:eba8e06de737,Dried Head,Suszona Głowa,Szárított fej,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,frizura,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,Varázspor,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
-p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,Varázspor,"DECISION_ENUMS['FIXED'][8] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
+p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",check
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (a fokozattáblából),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,standok,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:b6c935d4f3c7,min,min,perc,"DECISION_ENUMS['CLOCK_UNIT'][1] / T['unit_min'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -307,8 +308,8 @@ p:c0c633ea5071,a key,klucz,egy kulcs,"DECISION_ENUMS['SAFEBOX_WHY'][4] | the cla
 p:d0941e68da8f,other,inne,egyéb,"DECISION_ENUMS['SAFEBOX_WHY'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:dfec73f58eb1,markdown off,przecena wyłączona,leárazás kikapcsolva,"DECISION_ENUMS['SUPPLY_TIER'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:263a014e24cf,"mild markdown (-5% every 3 h, to -20%)","przecena złagodzona (-5% co 3 h, do -20%)","enyhe leárazás (3 óránként -5%, legfeljebb -20%)","DECISION_ENUMS['SUPPLY_TIER'][1] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:865c7909fed0,"standard markdown (-10% every 3 h, to -40%)","przecena standardowa (-10% co 3 h, do -40%)","normál leárazás (3 óránként -10%, legfeljebb -40%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:2c147c5c2349,"add and change stone markdown (-10% every 3 h, to -60%)","przecena dodań i zmianek (-10% co 3 h, do -60%)","hozzáadó és cserélő kövek leárazása (3 óránként -10%, legfeljebb -60%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:5fc77d554b66,"standard markdown (-10% every 3 h, to -70%)","przecena standardowa (-10% co 3 h, do -70%)","normál leárazás (-10% 3 óránként, legfeljebb -70%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:35f78aa61326,"add and change stone markdown (-10% every 3 h, to -70%)","przecena dodań i zmianek (-10% co 3 h, do -70%)","hozzáadó- és váltókövek leárazása (-10% 3 óránként, legfeljebb -70%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
 p:42f7cbbbdce6, (an earlier markdown cancelled), (wcześniejsza przecena anulowana), (egy korábbi leárazás visszavonva),"DECISION_ENUMS['TIER_CANCELLED'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:424a8795fde9,", on a nice ending",", z ładną końcówką",", szép végződéssel","DECISION_ENUMS['NICE_END'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8992caf91843, (the average-damage base), (baza ŚR), (az átlagsebzés alapja),"DECISION_ENUMS['CATALOGUE_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -356,7 +357,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,Hajfesték a 
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,Vízből szerzett festék eladásra megtartva,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy","Tárgybolti frizura, amit a bot nem viselhet","DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),Egy Felejtés tekercse: a bot egyik képzettsége sem vár rá ({a}),"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Varázspor a tartalékon felül: {a} a táskában, megtart {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Varázspor a tartalékon felül: {a} a táskában, megtart {b}","DECISION_GOODS[30][1] / panel: module text | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,Egy szellemkő {a} ({b} fajta): a piacra tartott 100-ból 15 egyike,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi","Egy szellemkő {a} ({b} fajta), amit a bot nem foglalhat be","DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}","Egy általános könyv: {a} előtte a táskában, megtart {b}{c}","DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
@@ -404,7 +405,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,"30. szint alatti felszerelés túl alacsony, vagy a korlátja felett","DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,egy horgászbot vagy csákány visszamegy a gazdájához,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,visszavéve viselésre,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",done
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,a széna már egy standra sem kerül: a Vegyesbolt kereskedőjének,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,a széna már egy standra sem kerül: a Vegyesbolt kereskedőjének,"DECISION_OFF[21] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",hely a standon a piacról hiányzó áruknak,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,több mint 40 sült hal a standon: a Kantorhoz tekercsekért,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa",a hozzáadó és cserélő kövek és Áldás tekercsek egyszeri felezése,"DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",done
@@ -413,6 +414,7 @@ p:e2046dfdb681,a level 32/36 bell +0..+3 (0-1 bonus) over the kingdom market's d
 p:fe86cee3c952,a carrot or a Red Ginseng over 300 on the kingdom's market — for Red Potions (D) or the merchant,Marchewka lub Czerwony Żeń-szeń ponad 300 na rynku królestwa — na Czerwone Mikstury (D) albo do Handlarki,répa vagy Piros ginzeng 300 felett a birodalmi piacon: Piros főzetekhez (D) vagy a kereskedőnek,"DECISION_OFF[27] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d9993d89706,a player is buying it from the bot at a meeting — taken home for the trade window,gracz kupuje go od bota na spotkaniu — zdjęty do torby na okno handlu,egy játékos egy találkozón megveszi a bottól: elvéve a kereskedési ablakhoz,"DECISION_OFF[28] | the classic web panel (browser, UTF-8: any letter)",done
 p:4b770d408280,a helmet or shield +0..+4 over 60 of the item on the bots' counters — for the merchant,hełm lub tarcza +0…+4 ponad 60 sztuk tego przedmiotu na ladach botów — do Handlarki,"sisak vagy pajzs +0..+4, ha 60-nál több van belőle a botok standjain: a kereskedőnek","DECISION_OFF[29] | the classic web panel (browser, UTF-8: any letter)",done
+p:66a4f18d790a,a refine scroll the bot needs itself — taken back before it buys one elsewhere,"zwój ulepszania, którego bot sam potrzebuje — zabrany, zanim kupi go u innych","egy finomítótekercs, amelyre a botnak magának van szüksége — visszaveszi, mielőtt máshol venne egyet","DECISION_OFF[30] | the classic web panel (browser, UTF-8: any letter)",done
 p:2f4cb7db5792,"unknown (a drop, a chest, a trade)","nieznane (łup, skrzynia, wymiana)","ismeretlen (zsákmány, láda, csere)","DECISION_ORIGINS[0][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:b2f755925666,"bought from the merchant, off the ladder ({a})",kupione u handlarza z drabinki ({a}),"a kereskedőtől vásárolva, a létrán kívül ({a})","DECISION_ORIGINS[1][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:03be11c61942,bought in an emergency from the merchant for {a},kupione awaryjnie u handlarza za {a},vészhelyzetben a kereskedőtől vásárolva ennyiért: {a},"DECISION_ORIGINS[2][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -432,7 +434,7 @@ p:234787539762,a level-30 weapon family,rodzina broni 30 lv,egy 30-as szintű fe
 p:4b379de69232,the class's level-30 weapon,broń 30 lv tej klasy,a kaszt 30-as szintű fegyvere,"DECISION_ROLES[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3d14efd7f548,a level-30 weapon project,projekt broni 30 lv,egy 30-as szintű fegyverprojekt,"DECISION_ROLES[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:494193e923a9,a lines project,projekt bonusów,egy sorprojekt,"DECISION_ROLES[8] | the classic web panel (browser, UTF-8: any letter)",done
-p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",done
+p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",check
 p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,a szinthez megtartott Stalki,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
 p:a68ea0574790,a higher-tier spare,zapas na wyższy stopień,magasabb fokozatú tartalék,"DECISION_ROLES[64] | the classic web panel (browser, UTF-8: any letter)",done
 p:359c623d2295,a backup,zapas,egy tartalék,"DECISION_ROLES[128] | the classic web panel (browser, UTF-8: any letter)",done
@@ -479,7 +481,7 @@ p:88c99472ab2a,Unknown step,Nieznany krok,Ismeretlen lépés,"DECISION_STEPS[0][
 p:cc11b3a28fa3,Context,Kontekst,Környezet,"DECISION_STEPS[1][2] / MAP_I18N['ex_context'] | the classic web panel (browser, UTF-8: any letter)",done
 p:12ad80de2ef2,"curve {value}, yang rate {a}, inflation {b} ({c} steps)","krzywa {value}, stawka yang {a}, inflacja {b} (kroków: {c})","görbe {value}, yang-árfolyam {a}, infláció {b} ({c} lépés)","DECISION_STEPS[1][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:8ef3a2cfe9cc,Bonus line,Linia bonusu,Bónuszsor,"DECISION_STEPS[2][2] | the classic web panel (browser, UTF-8: any letter)",done
-p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",done
+p:c5bacbae2235,{a} {b}{c}: {value},{a} {b}{c}: {value},{a} {b}{c}: {value},"DECISION_STEPS[2][3] | keep: {a} {b} {c} {value} | the classic web panel (browser, UTF-8: any letter)",check
 p:36dec63eb9a5,Lines at the top,Linie na maksimum,Sorok a tetején,"DECISION_STEPS[3][2] | the classic web panel (browser, UTF-8: any letter)",done
 p:fae8d9a96771,"{a} lines at the top, multiplier {value}","linii na maksimum: {a}, mnożnik {value}","{a} sor a tetején, szorzó {value}","DECISION_STEPS[3][3] | keep: {a} {value} | the classic web panel (browser, UTF-8: any letter)",done
 p:0e7d592cffc6,Bonus premium,Dopłata za bonusy,Bónuszfelár,"DECISION_STEPS[4][2] | the classic web panel (browser, UTF-8: any letter)",done
@@ -647,7 +649,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,A raktárba,"GEAR_HISTORY_HOWS['SAFE
 p:cacea96bfc17,Out of the safebox,Z magazynu,A raktárból,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,Holdfény-ládából,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,Kereskedőtől vásárolva,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",done
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Golyó varázsporból,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Golyó varázsporból,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,Alapanyagcseréből,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,Alapanyagcsere sikertelen,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,Alapanyagcserében odaadva,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -670,10 +672,10 @@ p:5075d0e08eee,Bonus lines rerolled (buff set),Zmieniono bonusy (set buffów),B�
 p:248af2db80d7,blacksmith (scroll not worth it),kowal (zwój nieopłacalny),kovács (a tekercs nem éri meg),"IWAKURA_SCROLL_UNPROFITABLE_LABEL | the classic web panel (browser, UTF-8: any letter)",done
 p:f80bd79e4024,Warrior (M),Wojownik (M),Harcos (F),"JOB_NAMES_MAP[0] | the classic web panel (browser, UTF-8: any letter)",done
 p:72927eec5726,Warrior (F),Wojowniczka (K),Harcos (N),"JOB_NAMES_MAP[4] | the classic web panel (browser, UTF-8: any letter)",done
-p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",done
-p:c7933bb2b4f9,Ninja (F),Ninja (K),Ninja (F),"JOB_NAMES_MAP[1] | the classic web panel (browser, UTF-8: any letter)",done
-p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",done
-p:e18c73ccad6d,Sura (F),Sura (K),Sura (F),"JOB_NAMES_MAP[6] | the classic web panel (browser, UTF-8: any letter)",done
+p:36d353cb74db,Ninja (M),Ninja (M),Ninja (M),"JOB_NAMES_MAP[5] | the classic web panel (browser, UTF-8: any letter)",check
+p:c7933bb2b4f9,Ninja (F),Ninja (K),Ninja (F),"JOB_NAMES_MAP[1] | the classic web panel (browser, UTF-8: any letter)",check
+p:34a8ca3742f7,Sura (M),Sura (M),Sura (M),"JOB_NAMES_MAP[2] | the classic web panel (browser, UTF-8: any letter)",check
+p:e18c73ccad6d,Sura (F),Sura (K),Sura (F),"JOB_NAMES_MAP[6] | the classic web panel (browser, UTF-8: any letter)",check
 p:30e681f8c5bd,Shaman (M),Szaman (M),Sámán (F),"JOB_NAMES_MAP[7] | the classic web panel (browser, UTF-8: any letter)",done
 p:981f1a942a27,Shaman (F),Szamanka (K),Sámán (N),"JOB_NAMES_MAP[3] | the classic web panel (browser, UTF-8: any letter)",done
 p:0d550a145ad2,Live world map — Chunjo,Mapa świata na żywo — Chunjo,Élő világtérkép — Chunjo,"MAP_I18N['title'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -686,16 +688,14 @@ p:5e361041bfd8,Names and levels,Nicki i poziomy,Nevek és szintek,"MAP_I18N['nam
 p:6fe0d01b70d6,Party only (PT),Tylko w grupie (PT),Csak csapat (PT),"MAP_I18N['pt_only'] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a72085653e4,All,Wszystkie,Mind,"MAP_I18N['all'] / MAP_I18N['gear_tab_all'] | the classic web panel (browser, UTF-8: any letter)",done
 p:ab478f3efc84,Map,Mapa,Térkép,"MAP_I18N['map'] / T['pl_map'] | the classic web panel (browser, UTF-8: any letter)",done
-p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:4cd1aa07421e,M1 — Joan (Chunjo),M1 — Joan (Chunjo),M1 — Joan (Chunjo),"MAP_I18N['m1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:9fcea9ff9090,M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),M2 — Bokjung (Chunjo),"MAP_I18N['m2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:8454362a7d5b,Chunjo guild map,Ziemia Klanu Chunjo,Chunjo céhtérkép,"MAP_I18N['m3'] | the classic web panel (browser, UTF-8: any letter)",done
-p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:d8c04cc77909,M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),M1 — Yongan (Shinsoo),"MAP_I18N['s1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:e2397ee9bd4f,M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),M2 — Jayang (Shinsoo),"MAP_I18N['s2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:74dc273555d1,Shinsoo guild map,Ziemia Klanu Shinsoo,Shinsoo céhtérkép,"MAP_I18N['s3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:8be7a9b748c6,Shinsoo Monkey Dungeon,Loch Małp Shinsoo,Shinsoo Majomtömlöc,"MAP_I18N['smonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",done
-p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
+p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),"MAP_I18N['j1'] | the classic web panel (browser, UTF-8: any letter)",check
+p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Bakra (Jinno),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",check
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,Jinno céhtérkép,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,Jinno Majomtömlöc,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,Könnyű majomkazamata,"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b8391ccd7843,Medium Monkey Dungeon,Średni Loch Małp,Közepes Majomtömlöc,"MAP_I18N['monkey_medium'] | the classic web panel (browser, UTF-8: any letter)",done

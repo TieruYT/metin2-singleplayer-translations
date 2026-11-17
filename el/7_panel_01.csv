@@ -1,6 +1,6 @@
 id,english,polski,translation,notes,status
 p:58358c356a84,Max. HP +%d,Max PŻ: +%d,Μέγ. HP +%d,"APPLY_TEXTS[1][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:01117c116082,Max. SP +%d,Max PE: +%d,Μέγ. SP +%d,"APPLY_TEXTS[2][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:01117c116082,Max. SP +%d,Max PE: +%d,Μέγ. SP +%d,"APPLY_TEXTS[2][1] / panel: module text | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:7505ed037a49,Vitality +%d,Witalność +%d,Ζωτικότητα +%d,"APPLY_TEXTS[3][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:06b936cc9821,Intelligence +%d,Inteligencja +%d,Ευφυΐα +%d,"APPLY_TEXTS[4][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:88be89e0b9e3,Strength +%d,Siła: +%d,Δύναμη +%d,"APPLY_TEXTS[5][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -87,6 +87,7 @@ p:b03d1a62c9ef,Resistance against darkness +%d%%,Odporność na mrok +%d%%,Αν�
 p:84811ed7c2e6,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Αντίσταση σε κρίσιμα χτυπήματα +%d%%,"APPLY_TEXTS[90][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:2705c8f51f6b,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Αντίσταση σε διαπεραστικά χτυπήματα +%d%%,"APPLY_TEXTS[91][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:b35287fee0ec,Terror +%d%%,Terror +%d%%,Τρόμος +%d%%,"APPLY_TEXTS[1138][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:54690e658e25,Chance to reflect Arrows: %d%%,Szansa na odbicie pocisku: %d%%,,"APPLY_TEXTS[1080][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",new
 p:98542ad6c8b0,Stamina regeneration +%d%%,Regeneracja wytrzymałości +%d%%,Αναγέννηση αντοχής +%d%%,"APPLY_TEXTS[1139][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:64a45f6680c4,Dagger attack against monsters +%d,Atak sztyletem przeciw potworom +%d,Επίθεση με στιλέτο κατά τεράτων +%d,"APPLY_TEXTS[1140][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:5a287981a07e,Attack value against monsters +%d,Wartość ataku przeciw potworom +%d,Τιμή επίθεσης κατά τεράτων +%d,"APPLY_TEXTS[1141][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -278,7 +279,7 @@ p:7fe3519695c5,shellfish,małża,όστρακο,"DECISION_ENUMS['FIXED'][4] | th
 p:f403de3ac3ab,horse medal,medal konny,μετάλλιο αλόγου,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",done
 p:eba8e06de737,Dried Head,Suszona Głowa,Αποξηραμένο κεφάλι,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,χτένισμα,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,Μαγική σκόνη,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,Μαγική σκόνη,"DECISION_ENUMS['FIXED'][8] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:0b6df592d5ed,Cor Draconis,Cor Draconis,Κορ Ντρακόνις,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (από τον πίνακα βαθμίδων),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,πάγκοι,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
@@ -307,8 +308,8 @@ p:c0c633ea5071,a key,klucz,ένα κλειδί,"DECISION_ENUMS['SAFEBOX_WHY'][4]
 p:d0941e68da8f,other,inne,άλλο,"DECISION_ENUMS['SAFEBOX_WHY'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:dfec73f58eb1,markdown off,przecena wyłączona,μείωση τιμής ανενεργή,"DECISION_ENUMS['SUPPLY_TIER'][0] | the classic web panel (browser, UTF-8: any letter)",done
 p:263a014e24cf,"mild markdown (-5% every 3 h, to -20%)","przecena złagodzona (-5% co 3 h, do -20%)","ήπια μείωση (-5% κάθε 3 ώρες, έως -20%)","DECISION_ENUMS['SUPPLY_TIER'][1] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:865c7909fed0,"standard markdown (-10% every 3 h, to -40%)","przecena standardowa (-10% co 3 h, do -40%)","κανονική μείωση (-10% κάθε 3 ώρες, έως -40%)","DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
-p:2c147c5c2349,"add and change stone markdown (-10% every 3 h, to -60%)","przecena dodań i zmianek (-10% co 3 h, do -60%)","μείωση λίθων προσθήκης και αλλαγής (-10% κάθε 3 ώρες, έως -60%)","DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",done
+p:5fc77d554b66,"standard markdown (-10% every 3 h, to -70%)","przecena standardowa (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][2] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
+p:35f78aa61326,"add and change stone markdown (-10% every 3 h, to -70%)","przecena dodań i zmianek (-10% co 3 h, do -70%)",,"DECISION_ENUMS['SUPPLY_TIER'][3] | keep: % e | the classic web panel (browser, UTF-8: any letter)",new
 p:42f7cbbbdce6, (an earlier markdown cancelled), (wcześniejsza przecena anulowana), (μια προηγούμενη μείωση ακυρώθηκε),"DECISION_ENUMS['TIER_CANCELLED'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:424a8795fde9,", on a nice ending",", z ładną końcówką",", σε ωραία κατάληξη","DECISION_ENUMS['NICE_END'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:8992caf91843, (the average-damage base), (baza ŚR), (η βάση μέσης ζημιάς),"DECISION_ENUMS['CATALOGUE_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -356,7 +357,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,Βαφή μα
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,Βαφή από το νερό κρατημένη για πώληση,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy",Χτένισμα από το κατάστημα αντικειμένων που το bot δεν μπορεί να φορέσει,"DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),Ένας Πάπυρος λήθης: καμία ικανότητα του bot δεν τον περιμένει ({a}),"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Μαγική σκόνη πάνω από το απόθεμα: {a} στην τσάντα, κρατά {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Μαγική σκόνη πάνω από το απόθεμα: {a} στην τσάντα, κρατά {b}","DECISION_GOODS[30][1] / panel: module text | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,Μια πνευματική πέτρα {a} (είδος {b}): μία από τις 15 στις 100 για την αγορά,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi",Μια πνευματική πέτρα {a} (είδος {b}) που το bot δεν μπορεί να τοποθετήσει,"DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}","Ένα γενικό βιβλίο: {a} πριν από αυτό στην τσάντα, κρατά {b}{c}","DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
@@ -404,7 +405,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,"εξοπλισμός κάτω από επίπεδο 30 πολύ χαμηλός, ή πάνω από το όριο","DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,ένα καλάμι ή μια αξίνα επιστρέφει στον ιδιοκτήτη,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,πάρθηκε πίσω για χρήση,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",done
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,ο σανός δεν μπαίνει πια σε πάγκο: για τον έμπορο του Παντοπωλείου,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,ο σανός δεν μπαίνει πια σε πάγκο: για τον έμπορο του Παντοπωλείου,"DECISION_OFF[21] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",χώρος στον πάγκο για εμπορεύματα που λείπουν από την αγορά,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,πάνω από 40 ψητά ψάρια στον πάγκο: στον Kantor για παπύρους,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa","ο εφάπαξ υποδιπλασιασμός λίθων προσθήκης, αλλαγής και Παπύρων ευλογίας","DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",done
@@ -413,6 +414,7 @@ p:e2046dfdb681,a level 32/36 bell +0..+3 (0-1 bonus) over the kingdom market's d
 p:fe86cee3c952,a carrot or a Red Ginseng over 300 on the kingdom's market — for Red Potions (D) or the merchant,Marchewka lub Czerwony Żeń-szeń ponad 300 na rynku królestwa — na Czerwone Mikstury (D) albo do Handlarki,καρότο ή Κόκκινο τζίνσενγκ πάνω από 300 στην αγορά του βασιλείου: για Κόκκινα φίλτρα (D) ή τον έμπορο,"DECISION_OFF[27] | the classic web panel (browser, UTF-8: any letter)",done
 p:8d9993d89706,a player is buying it from the bot at a meeting — taken home for the trade window,gracz kupuje go od bota na spotkaniu — zdjęty do torby na okno handlu,ένας παίκτης το αγοράζει από το bot σε συνάντηση: πάρθηκε για το παράθυρο ανταλλαγής,"DECISION_OFF[28] | the classic web panel (browser, UTF-8: any letter)",done
 p:4b770d408280,a helmet or shield +0..+4 over 60 of the item on the bots' counters — for the merchant,hełm lub tarcza +0…+4 ponad 60 sztuk tego przedmiotu na ladach botów — do Handlarki,κράνος ή ασπίδα +0..+4 πάνω από 60 του αντικειμένου στους πάγκους των bot: για τον έμπορο,"DECISION_OFF[29] | the classic web panel (browser, UTF-8: any letter)",done
+p:66a4f18d790a,a refine scroll the bot needs itself — taken back before it buys one elsewhere,"zwój ulepszania, którego bot sam potrzebuje — zabrany, zanim kupi go u innych",,"DECISION_OFF[30] | the classic web panel (browser, UTF-8: any letter)",new
 p:2f4cb7db5792,"unknown (a drop, a chest, a trade)","nieznane (łup, skrzynia, wymiana)","άγνωστη (λεία, σεντούκι, ανταλλαγή)","DECISION_ORIGINS[0][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:b2f755925666,"bought from the merchant, off the ladder ({a})",kupione u handlarza z drabinki ({a}),"αγοράστηκε από τον έμπορο, εκτός κλίμακας ({a})","DECISION_ORIGINS[1][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
 p:03be11c61942,bought in an emergency from the merchant for {a},kupione awaryjnie u handlarza za {a},αγοράστηκε επειγόντως από τον έμπορο για {a},"DECISION_ORIGINS[2][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
@@ -647,7 +649,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,Στην αποθήκη,"GEAR_HISTOR
 p:cacea96bfc17,Out of the safebox,Z magazynu,Από την αποθήκη,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,Από σεντούκι Σεληνόφωτος,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,Αγοράστηκε από έμπορο,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",done
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Βόλος από Μαγική σκόνη,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Βόλος από Μαγική σκόνη,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] / panel: module text | the classic web panel (browser, UTF-8: any letter)",done
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,Από ανταλλαγή υλικών,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,Η ανταλλαγή υλικών απέτυχε,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,Δόθηκε σε ανταλλαγή υλικών,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",done
@@ -697,5 +699,3 @@ p:3f868693c4ae,M1 — Pyongmoo (Jinno),M1 — Pyongmoo (Jinno),M1 — Πιουν
 p:723e75e1077e,M2 — Bakra (Jinno),M2 — Bakra (Jinno),M2 — Μπάκρα (Τζίνο),"MAP_I18N['j2'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c18e4c285f80,Jinno guild map,Ziemia Klanu Jinno,Χάρτης συντεχνίας Τζίνο,"MAP_I18N['j3'] | the classic web panel (browser, UTF-8: any letter)",done
 p:302851a9e45e,Jinno Monkey Dungeon,Loch Małp Jinno,Μπουντρούμι των Πιθήκων Τζίνο,"MAP_I18N['jmonkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:6075ddc69934,Easy Monkey Dungeon,Łatwy Loch Małp,Εύκολο Μπουντρούμι των Πιθήκων,"MAP_I18N['monkey'] | the classic web panel (browser, UTF-8: any letter)",done
-p:b8391ccd7843,Medium Monkey Dungeon,Średni Loch Małp,Μεσαίο Μπουντρούμι των Πιθήκων,"MAP_I18N['monkey_medium'] | the classic web panel (browser, UTF-8: any letter)",done

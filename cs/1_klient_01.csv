@@ -44,11 +44,11 @@ c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,Vyber kan
 c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,Vyber oblast.,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,Vyber server,client: game texts (localeInfo),done
 c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,Testovací server,client: game texts (localeInfo),done
-c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,check
 c:locale_game:CHAT_ALL,All,Wszystko,Vše,client: game texts (localeInfo),done
 c:locale_game:CHAT_BLOCK,Block,Blok,Blokovat,client: game texts (localeInfo),done
 c:locale_game:CHAT_GUILD,Guild,Gildia,Cech,client: game texts (localeInfo),done
-c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),check
 c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Tato věta obsahuje nepovolená slova.,client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Zobrazit starší zprávy [L],client: game texts (localeInfo),done
 c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Záznam chatu,client: game texts (localeInfo),done
@@ -111,7 +111,7 @@ c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,Tanec 2,client: game texts (local
 c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,Tanec 3,client: game texts (localeInfo),done
 c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,Tanec 4,client: game texts (localeInfo),done
 c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,Tanec 5,client: game texts (localeInfo),done
-c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),check
 c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,Odpuštění,client: game texts (localeInfo),done
 c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,Francouzský polibek,client: game texts (localeInfo),done
 c:locale_game:EMOTION_JOY,Joy,Radość,Radost,client: game texts (localeInfo),done
@@ -217,7 +217,7 @@ c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from you
 c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Smazat postavu,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,Svitky návratu nelze kombinovat.,client: game texts (localeInfo),done
 c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Chceš použít tento předmět?,client: game texts (localeInfo),done
-c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
 c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Začínající ninja,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Síla ninjů,client: game texts (localeInfo),done
 c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Nemrtvý,client: game texts (localeInfo),done
@@ -225,7 +225,7 @@ c:locale_game:JOB_SHAMAN,Shaman,Szaman,Šaman,client: game texts (localeInfo),do
 c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Začínající šaman,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Síla draka,client: game texts (localeInfo),done
 c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Síla blesku,client: game texts (localeInfo),done
-c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
 c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Začínající sura,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Síla fata morgány,client: game texts (localeInfo),done
 c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Síla černé magie,client: game texts (localeInfo),done
@@ -260,27 +260,27 @@ c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Heslo,client: game texts (loca
 c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Oblast Yongan,client: game texts (localeInfo),done
 c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Údolí Seungryong,client: game texts (localeInfo),done
 c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Oblast Yayang,client: game texts (localeInfo),done
-c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
 c:locale_game:MAP_B1,Joan Area,Strefa Joan,Oblast Joan,client: game texts (localeInfo),done
 c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Údolí Imji,client: game texts (localeInfo),done
 c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Oblast Bokjung,client: game texts (localeInfo),done
 c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Nefritová zátoka,client: game texts (localeInfo),done
-c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
 c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Oblast Pyungmoo,client: game texts (localeInfo),done
 c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Údolí Bangsan,client: game texts (localeInfo),done
 c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Oblast Bakra,client: game texts (localeInfo),done
 c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Mys Dračího ohně,client: game texts (localeInfo),done
-c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),check
 c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Gautamův útes,client: game texts (localeInfo),done
 c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Poušť Yongbi,client: game texts (localeInfo),done
-c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),check
 c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Země obrů,client: game texts (localeInfo),done
 c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Věž Gumsan,client: game texts (localeInfo),done
 c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Hora Sohan,client: game texts (localeInfo),done
-c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
 c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Chrám Hwang,client: game texts (localeInfo),done
 c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Hromové hory,client: game texts (localeInfo),done
-c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
 c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Rudý les,client: game texts (localeInfo),done
 c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Hadí pole,client: game texts (localeInfo),done
 c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Přidat přítele,client: game texts (localeInfo),done
@@ -307,7 +307,7 @@ c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Přiblížit,client: game text
 c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d diváků,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Otevřít velkou mapu,client: game texts (localeInfo),done
 c:locale_game:MINUTE,Minutes,Minut,Minuty,client: game texts (localeInfo),done
-c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),check
 c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,Deset tisíc,client: game texts (localeInfo),done
 c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Sto miliard,client: game texts (localeInfo),done
 c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Prodejní cena:,client: game texts (localeInfo),done
@@ -324,9 +324,9 @@ c:locale_game:PARTY_BONUS_ATTACKER,Attack Value: +%d,Wartość Ataku: +%d,Hodnot
 c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,Rychlost útoku: +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,Trvání dovednosti: +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,Obrana: +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,Bonus EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Max. SP: +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Max. HP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,Bonus EXP: %d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Max. SP: +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Max. HP: +%d,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Rozpustit skupinu,client: game texts (localeInfo),done
 c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., se chce přidat do skupiny.,client: game texts (localeInfo),done
 c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", tě pozval do své skupiny. Přijmout?,client: game texts (localeInfo),done
@@ -340,7 +340,7 @@ c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the facto
 c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Dosah skupiny zvýšen dvojnásobně.,client: game texts (localeInfo),done
 c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Opustit skupinu,client: game texts (localeInfo),done
 c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,Bonus EXP za dlouhou hru ve skupině: +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),check
 c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Přivolat člena skupiny.,client: game texts (localeInfo),done
 c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Bonus k regeneraci HP a SP: +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,Tvá žádost byla zamítnuta.,client: game texts (localeInfo),done
@@ -387,7 +387,7 @@ c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Mír,client: game texts (localeIn
 c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Ochrana,client: game texts (localeInfo),done
 c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Nepřátelský,client: game texts (localeInfo),done
 c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Získal jsi nový úkol.,client: game texts (localeInfo),done
-c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
 c:locale_game:QUEST_SEC,Sec.,Sek.,Sek.,client: game texts (localeInfo),done
 c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Čas vypršel,client: game texts (localeInfo),done
 c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Bez časového omezení.,client: game texts (localeInfo),done
@@ -552,7 +552,7 @@ c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,Opustit skupi
 c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,Připojit se ke skupině,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,Vybavení,client: game texts (localeInfo),done
 c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,Šeptání,client: game texts (localeInfo),done
-c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Boss,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Boss,client: game texts (localeInfo),check
 c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,Úroveň 5.,client: game texts (localeInfo),done
 c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,Úroveň 3.,client: game texts (localeInfo),done
 c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,Úroveň 1.,client: game texts (localeInfo),done
@@ -596,8 +596,8 @@ c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items
 c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,%d%% šance na obnovení HP,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,%d%% šance na obnovení SP,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,%d%% šance ukrást SP,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%% ,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Žádný účinek,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,"Pokud je postava oživena na místě smrti, neztratí žádné zkušenostní body. ",client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,%d%% šance na průrazný zásah,client: game texts (localeInfo) | keep: %d,done
@@ -624,7 +624,7 @@ c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obr
 c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Šance na bezvědomí %d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Zbroj,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Šíp,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
 c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Hodnota útoku +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Rychlost útoku +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,Sluneční elixír,client: game texts (localeInfo),done
@@ -682,7 +682,7 @@ c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku:
 c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.","Ruka, která automaticky sbírá spadlé Yangy",client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Obrana +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Obrana +12~15%,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,Bonus EXP iCafe +%d%%,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,Zvyšuje získané EXP o 50%,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,Šance chytit vzácnou rybu se zdvojnásobí.,client: game texts (localeInfo),done
@@ -693,9 +693,9 @@ c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items pl
 c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,Zdvojnásobí šanci na získání předmětů,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,Body lásky přibývají rychleji.,client: game texts (localeInfo),done
 c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,Tvůj sklad získá 2 úložné prostory,client: game texts (localeInfo),done
-c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Max. HP +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Max. SP +%d,client: game texts (localeInfo) | keep: %d,done
-c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Max. SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Max. HP +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Max. HP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Max. SP +%d,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Max. SP +%d%%,client: game texts (localeInfo) | keep: %d,check
 c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,Max. výdrž +%d,client: game texts (localeInfo) | keep: %d,done
 c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,Magický útok/útok zblízka +%d%%,client: game texts (localeInfo) | keep: %d,done

@@ -55,7 +55,7 @@ c:locale_game:GMP_Q_BAN_TEMP,Ban %s for %s days?,,Zabanovat %s na %s dní?,clien
 c:locale_game:GMP_Q_BAN_PERM,Ban %s PERMANENTLY?,,Zabanovat %s TRVALE?,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_KICK_ACC,Kick...,,Vyhodit...,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_LIST,Muted list,,Seznam umlčených,client: game texts (localeInfo),done
-c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MUTE,Chat,,Chat,client: game texts (localeInfo),check
 c:locale_game:GMP_MUTE_10M,Mute 10 min,,Umlčet na 10 min,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1H,Mute 1 h,,Umlčet na 1 h,client: game texts (localeInfo),done
 c:locale_game:GMP_MUTE_1D,Mute 1 day,,Umlčet na 1 den,client: game texts (localeInfo),done
@@ -63,7 +63,7 @@ c:locale_game:GMP_HDR_GM,GM rank,,Hodnost GM,client: game texts (localeInfo),don
 c:locale_game:GMP_RANK_LOW,Low Wizard,,Nižší čaroděj,client: game texts (localeInfo),done
 c:locale_game:GMP_RANK_HIGH,High Wizard,,Vyšší čaroděj,client: game texts (localeInfo),done
 c:locale_game:GMP_RANK_GOD,God,,Bůh,client: game texts (localeInfo),done
-c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),done
+c:locale_game:GMP_RANK_IMPL,Implementor,,Implementor,client: game texts (localeInfo),check
 c:locale_game:GMP_GM_ADD,Grant rank,,Udělit hodnost,client: game texts (localeInfo),done
 c:locale_game:GMP_GM_REMOVE,Remove GM...,,Odebrat GM...,client: game texts (localeInfo),done
 c:locale_game:GMP_Q_GM_REMOVE,Remove the GM rank of %s?,,Odebrat hodnost GM hráči %s?,client: game texts (localeInfo) | keep: %s,done
@@ -79,7 +79,7 @@ c:locale_game:GMP_BOTS_DONE,Bots: %s of %s (total %s),,Boti: %s z %s (celkem %s)
 c:locale_game:GMP_ERR_EMPIRE,Pick an empire,,Vyber říši,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_MOBS,Monsters and metins,,Příšery a Metiny,client: game texts (localeInfo),done
 c:locale_game:GMP_MOB,Monster:,,Příšera:,client: game texts (localeInfo),done
-c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),done
+c:locale_game:GMP_METIN,Metin:,,Metin:,client: game texts (localeInfo),check
 c:locale_game:GMP_SPAWN,Spawn,,Vyvolání,client: game texts (localeInfo),done
 c:locale_game:GMP_SPAWNED,Spawned %s of %s,,Vyvoláno %s z %s,client: game texts (localeInfo) | keep: %s %s,done
 c:locale_game:GMP_ERR_NO_MOB,No such monster,,Taková příšera neexistuje,client: game texts (localeInfo),done
@@ -91,7 +91,7 @@ c:locale_game:GMP_CLOSE_LIST,Close list,,Zavřít seznam,client: game texts (loc
 c:locale_game:GMP_PICKED,Picked: %s,,Vybráno: %s,client: game texts (localeInfo) | keep: %s,done
 c:locale_game:GMP_HDR_QUICK,"Quick spawn (regular metins, all bosses)",,"Rychlé vyvolání (běžné Metiny, všichni bossové)",client: game texts (localeInfo),done
 c:locale_game:GMP_QUICK_HINT,Pool... shows the bosses of a tier,,Skupina... zobrazí bossy jedné úrovně,client: game texts (localeInfo),done
-c:locale_game:GMP_BOSS_1,1 boss,,1 boss,client: game texts (localeInfo),done
+c:locale_game:GMP_BOSS_1,1 boss,,1 boss,client: game texts (localeInfo),check
 c:locale_game:GMP_BOSS_5,5 bosses,,5 bossů,client: game texts (localeInfo),done
 c:locale_game:GMP_METIN_1,1 metin,,1 Metin,client: game texts (localeInfo),done
 c:locale_game:GMP_METIN_3,3 metins,,3 Metiny,client: game texts (localeInfo),done
@@ -100,12 +100,12 @@ c:locale_game:GMP_TP_CITIES,Cities,,Města,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_MAPS,Maps,,Mapy,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_DUNGEONS,Dungeons,,Kobky,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_SPECIAL,Special,,Zvláštní,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),done
-c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),done
+c:locale_game:GMP_TP_SHINSOO_1,Shinsoo M1,,Shinsoo M1,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_SHINSOO_2,Shinsoo M2,,Shinsoo M2,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_CHUNJO_1,Chunjo M1,,Chunjo M1,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_CHUNJO_2,Chunjo M2,,Chunjo M2,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_JINNO_1,Jinno M1,,Jinno M1,client: game texts (localeInfo),check
+c:locale_game:GMP_TP_JINNO_2,Jinno M2,,Jinno M2,client: game texts (localeInfo),check
 c:locale_game:GMP_TP_GVILLAGE_1,Guild village 1,,Cechovní vesnice 1,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_2,Guild village 2,,Cechovní vesnice 2,client: game texts (localeInfo),done
 c:locale_game:GMP_TP_GVILLAGE_3,Guild village 3,,Cechovní vesnice 3,client: game texts (localeInfo),done
@@ -157,8 +157,8 @@ c:locale_game:GMP_AI_WAIT,Fetching bot settings...,,Načítání nastavení bot�
 c:locale_game:GMP_AI_HINT,Changes apply within seconds,,Změny se projeví během několika sekund,client: game texts (localeInfo),done
 c:locale_game:GMP_HDR_RESTART,Restart,,Restartovat,client: game texts (localeInfo),done
 c:locale_game:GMP_CMDS_HINT,Click a command to print it in chat,,Klikni na příkaz a vypíše se do chatu,client: game texts (localeInfo),done
-c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Ban,client: game texts (localeInfo),done
-c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_GM_BAN,Ban,,Ban,client: game texts (localeInfo),check
+c:locale_game:TARGET_BUTTON_GM_INFO,Info,,Info,client: game texts (localeInfo),check
 c:locale_game:LOGIN_FAILURE_TIMEOUT,Server did not respond. Please try again.,,Server neodpověděl. Zkus to znovu.,client: game texts (localeInfo),done
 c:locale_interface:ACCEPT,Accept,Akceptuj,Přijmout,client: window texts (uiScriptLocale),done
 c:locale_interface:ATTACH_METIN_INFO,Do you want to use the Spirit Stone?,Czy chcesz użyć Kamienia Duszy?,Chceš použít duchovní kámen?,client: window texts (uiScriptLocale),done
@@ -189,7 +189,7 @@ c:locale_interface:CREATE_NEXT,Next,Dalej,Další,client: window texts (uiScript
 c:locale_interface:CREATE_PREV,Back,Wróć,Zpět,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SEX,Gender,Płeć,Pohlaví,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_SHAPE,Shape,Wygląd,Vzhled,client: window texts (uiScriptLocale),done
-c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),done
+c:locale_interface:CREATE_SP,INT,INT,INT,client: window texts (uiScriptLocale),check
 c:locale_interface:CREATE_STAT_RESET,Reset,Reset,Obnovit,client: window texts (uiScriptLocale),done
 c:locale_interface:CREATE_WOMAN,Woman,Kobieta,Žena,client: window texts (uiScriptLocale),done
 c:locale_interface:CUBE_INFO_TITLE,Refinement Handbook,Podręcznik Uszlachetnień,Příručka vylepšování,client: window texts (uiScriptLocale),done
@@ -284,7 +284,7 @@ c:locale_interface:GUILD_MEMBER_RANK,Rank,Ranga,Hodnost,client: window texts (ui
 c:locale_interface:GUILD_MEMBER_SPECIFIC_GRAVITY,Invested,Inwest.,Investováno,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_METIN_STONE,Spirit Stone,Kamień Metin,Duchovní kámen,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_MINENAL,Mineral,Minerał,Minerál,client: window texts (uiScriptLocale),done
-c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),done
+c:locale_interface:GUILD_MONEY,Yang,Yang,Yang,client: window texts (uiScriptLocale),check
 c:locale_interface:GUILD_NAME,Guild,Gildia,Cech,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_RESOURCE_INFO,Resources Information,Informacja o surowcach,Informace o surovinách,client: window texts (uiScriptLocale),done
 c:locale_interface:GUILD_SKILL_ACTIVE,Active,Aktywne,Aktivní,client: window texts (uiScriptLocale),done
@@ -413,8 +413,8 @@ c:locale_interface:OPTION_TARGET_BOARD_NO_VIEW,Close,Zamknij,Zavřít,client: wi
 c:locale_interface:OPTION_TARGET_BOARD_VIEW,Show,Pokaż,Zobrazit,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING,Graphic,Grafika,Grafika,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_TILING_APPLY,Apply,Zastosuj,Použít,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),done
-c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),done
+c:locale_interface:OPTION_TILING_CPU,CPU,CPU,CPU,client: window texts (uiScriptLocale),check
+c:locale_interface:OPTION_TILING_GPU,GPU,GPU,GPU,client: window texts (uiScriptLocale),check
 c:locale_interface:OPTION_TITLE,Options,Opcje,Možnosti,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT,Chat Line,Linia Czatu,Řádek chatu,client: window texts (uiScriptLocale),done
 c:locale_interface:OPTION_VIEW_CHAT_OFF,Hide,Ukryj,Skrýt,client: window texts (uiScriptLocale),done
@@ -451,7 +451,7 @@ c:locale_interface:SELECT_METIN_STONE_TITLE,Select Spirit Stone,Wybierz Kamień 
 c:locale_interface:SELECT_NAME,Name,Nazwa,Jméno,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_NO_GUILD,No Guild,Brak Gildii,Žádný cech,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_PLAYTIME,Playtime (min.),Czas gry,Herní čas (min.),client: window texts (uiScriptLocale),done
-c:locale_interface:SELECT_SELECT,Start,Start,Start,client: window texts (uiScriptLocale),done
+c:locale_interface:SELECT_SELECT,Start,Start,Start,client: window texts (uiScriptLocale),check
 c:locale_interface:SELECT_SP,SP,PE,SP,client: window texts (uiScriptLocale),done
 c:locale_interface:SELECT_TITLE,Choose Title,Wybierz Tytuł,Vybrat titul,client: window texts (uiScriptLocale),done
 c:locale_interface:SHOP_BUY,Buy,Kup,Koupit,client: window texts (uiScriptLocale),done
@@ -481,6 +481,7 @@ c:locale_interface:TASKBAR_PREV_QUICKSLOT,Previous Fast Access Field [Shift+Numb
 c:locale_interface:TASKBAR_SYSTEM,Options[ESC],Opcje [ESC],Možnosti[ESC],client: window texts (uiScriptLocale),done
 c:locale_interface:WHISPER_BAN,Block,Blokuj,Blokovat,client: window texts (uiScriptLocale),done
 c:locale_interface:WHISPER_NAME,Whisper,Szept,Šeptat,client: window texts (uiScriptLocale),done
+c:locale_interface:WHISPER_REPORT,Report,,Nahlásit,client: window texts (uiScriptLocale),done
 c:locale_interface:WHISPER_SEND,Send,Wyślij,Odeslat,client: window texts (uiScriptLocale),done
 c:locale_interface:YES,Yes,Tak,Ano,client: window texts (uiScriptLocale),done
 c:locale_interface:ZONE_MAP,Large Map,Podgląd Mapy,Velká mapa,client: window texts (uiScriptLocale),done
@@ -517,7 +518,7 @@ c:locale_interface:OPTION_VIEW_DISTANCE,View distance,Zakres widoku,Dohled,clien
 c:locale_interface:GAME_OPTIONS_NIGHT_TITLE,Night mode,Tryb Nocy,Noční režim,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_0,Off,Wyłączony,Vyp,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_1,On,Włączony,Zap,client: window texts (uiScriptLocale),done
-c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),done
+c:locale_interface:GAME_OPTIONS_NIGHT_2,Auto,Auto,Auto,client: window texts (uiScriptLocale),check
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO1,Enables night mode on most maps.,Włącza tryb nocy na większości map.,Zapne noční režim na většině map.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO1,Night lasts from 22:00 to 06:00.,Noc trwać będzie od 22:00 do 6:00.,Noc trvá od 22:00 do 06:00.,client: window texts (uiScriptLocale),done
 c:locale_interface:GAME_OPTIONS_NIGHT_INFO_AUTO2,Uses your computer's clock.,Według zegara systemowego.,Používá hodiny tvého počítače.,client: window texts (uiScriptLocale),done
@@ -610,7 +611,7 @@ c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL2,Short,Krótki,Krátká,client: 
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL3,Medium,Średni,Střední,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL4,Long,Długi,Dlouhá,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL5,Very long,Bardzo długi,Velmi dlouhá,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL6,Ultra,Ultra,Ultra,client: window texts (uiScriptLocale),check
 c:locale_interface:CONFIG_RENDER_DISTANCE_LEVEL7,Maximum,Maksymalny,Maximální,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MULTISAMPLING,Anti-aliasing,Wygładzanie Krawędzi,Vyhlazování hran,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL0,Off,Wyłączone,Vyp,client: window texts (uiScriptLocale),done
@@ -626,7 +627,7 @@ c:locale_interface:CONFIG_SHADOW_GROUND_ALL,"Terrain, player and NPCs","Teren, G
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_HIGH,Low,Jakość Niska,Nízká,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX,Medium,Jakość Średnia,Střední,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_4K,High,Jakość Wysoka,Vysoká,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SHADOW_GROUND_ALL_MAX_8K,Ultra,Jakość Ultra,Ultra,client: window texts (uiScriptLocale),check
 c:locale_interface:CONFIG_TEXTURE,Textures,Tekstury,Textury,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_0,Default,Domyślne,Výchozí,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_TEXTURE_1,Classic textures,Stare tekstury,Klasické textury,client: window texts (uiScriptLocale),done
@@ -675,13 +676,13 @@ c:locale_interface:CRAFTING_WINDOW,Crafting,Wytwarzanie przedmiotów,Výroba,cli
 c:locale_interface:CRAFT,Craft,Wytwórz,Vyrobit,client: window texts (uiScriptLocale),done
 c:locale_interface:RULES_TITLE,Terms of Use,Warunki Użytkowania,Podmínky použití,client: window texts (uiScriptLocale),done
 c:locale_interface:ACCEPT_RULES,I have read and accept the rules.,Przeczytałem/am i akceptuję zasady.,Přečetl jsem si pravidla a přijímám je.,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),done
-c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_FONT_SMALL,Tahoma,Tahoma,Tahoma,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_FONT_BIG,Arial,Arial,Arial,client: window texts (uiScriptLocale),check
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL1,2x,2x,2x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL2,4x,4x,4x,client: window texts (uiScriptLocale),done
 c:locale_interface:CONFIG_MUTLISAMPLING_LEVEL3,8x,8x,8x,client: window texts (uiScriptLocale),done
-c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),done
-c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),done
+c:locale_interface:LANGUAGE_OPTION_DEFAULT,Polski,Polski,Polski,client: window texts (uiScriptLocale),check
+c:locale_interface:LANGUAGE_OPTION_ENGLISH,English,English,English,client: window texts (uiScriptLocale),check
 c:locale_interface:CREDENTIALS_SAVE,Save,Zapisz,Uložit,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_LOAD,Connect,Połącz,Připojit,client: window texts (uiScriptLocale),done
 c:locale_interface:CREDENTIALS_DELETE,Delete,Usuń,Smazat,client: window texts (uiScriptLocale),done
@@ -698,4 +699,3 @@ c:locale_interface:GAMEMASTER_WHIPSER_TIP2,- Keep your message brief and clear.,
 c:locale_interface:GAMEMASTER_WHIPSER_TIP3,- Please wait patiently for a reply.,- Czekaj cierpliwie na odpowiedź.,- Trpělivě počkej na odpověď.,client: window texts (uiScriptLocale),done
 c:locale_interface:MAINTENANCE_DIALOG_TITLE,Maintenance,Prace konserwacyjne,Údržba,client: window texts (uiScriptLocale),done
 c:locale_interface:MAINTENANCE_DIALOG_INFO1,A service interruption has been scheduled.,Zaplanowana została przerwa w dostępie do usług.,Byla naplánována odstávka služeb.,client: window texts (uiScriptLocale),done
-c:locale_interface:MAINTENANCE_DIALOG_INFO2,We apologize for the inconvenience.,Przepraszamy za wszelkie niedogodności.,Omlouváme se za nepříjemnosti.,client: window texts (uiScriptLocale),done

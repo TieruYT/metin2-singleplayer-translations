@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Cartea Uitarii citita: %s iar la %d, fara Maestru. Urmatoarea carte e urmatoarea incercare (sansa %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Cartea Uitarii citita: %s - Maestru!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Document de Resetare a Abilitatilor folosit: %s - Maestru!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(niciunul),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,care nu e la 17,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Resetare"" in fereastra de abilitati il consuma.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Merg la Jack Pumpkin,"a phrase the 
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Fac comert cu Jack Pumpkin,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,Merg la Sperietoarea Dovleac,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Vorbesc cu Sperietoarea Dovleac,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Nu pot intra aici - locul acesta este doar pentru jucatori.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,N-am putut ajunge la tine.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,"Anulez cumparaturile. Dupa confirmarea magazinului ma intorc, apoi plec sa fac nivel singur.","a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,"Anulez cumparaturile. Dupa confirmarea magazinului ma intorc, apoi plec la pescuit.","a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,Anulez cumparaturile si ma intorc dupa confirmarea magazinului. Concediaza-ma din nou odata ce m-am intors.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,N-am executat comanda dupa cumparaturi - da-mi-o din nou.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,O clipa - inca preiau comanda anterioara. Incearca din nou.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,N-am cumparaturi de anulat.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,Cumparaturile sunt anulate - inca astept magazinul. Comanda din nou dupa ce ma intorc.,"a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,Am deja 8 comenzi - asteapta pana termin una.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,N-am putut ajunge in oras.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,Magazinul tocmai se deschide. Raman langa el si il inchid imediat ce jocul confirma; marfa se intoarce in rucsacul meu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,magazin offline indisponibil,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,magazin oprit,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,inchid magazinul: ia yang din punga ca sa fac loc pentru incasari,"a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"inchid magazinul; astept marfa returnata, incasarile sau confirmarea","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,magazinul asteapta canalul 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,merg sa deschid magazinul in M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,magazin deschis; ma ocup de el cand sunt liber,"a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,magazin expirat; astept sa ma ocup de el,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Magazin: %u oferte. Incasari de ridicat de la taraba: %lld yang. Vand surplusul din tot rucsacul; cadourile si obiectele necesare raman.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Magazin activat. Vand surplusul din tot rucsacul, fara cadouri si obiecte necesare. Ia incasarile din punga mea. Cand sunt langa tine il deschid in primul sat in care stai (al oricarui regat) pe canalul 1; cu mana libera sau cand joc singur merg singur in satul regatului meu.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Magazinele tovarasului sunt disponibile doar pe mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,cadourile tale,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,marcate/blocate de tine,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,mutate de tine acum <5 min,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,nu pot fi vandute,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,necesare mie,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Nu vand niciodata cadouri - Shift + clic dreapta in rucsacul meu elibereaza unul.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s a terminat misiunea %s,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Nu lupt: sunt setat pe ""Nu lupta"". Schimba asta in fereastra Tovarasului (P), fila Lupta, sau sopteste-mi ""attack"".","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Manechin de antrenament: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

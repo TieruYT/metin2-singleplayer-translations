@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"Boek der vergetelheid gelezen: %s weer op %d, geen Meester. Het volgende boek is de volgende poging (kans %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,Boek der vergetelheid gelezen: %s - Meester!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Document voor vaardighedsreset gebruikt: %s - Meester!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(geen),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,die niet op 17 staat,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," ""Resetten"" in het vaardighedenvenster verbruikt het.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Naar Jack Pompoen,"a phrase the ser
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Handelen met Jack Pompoen,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,Naar de Pompoenvogelverschrikker,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Praten met de Pompoenvogelverschrikker,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Ik kan hier niet naar binnen - deze plek is alleen voor spelers.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,Ik kon niet bij je komen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,Inkopen geannuleerd. Na de bevestiging van de winkel kom ik terug en ga ik dan zelf levelen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,Inkopen geannuleerd. Na de bevestiging van de winkel kom ik terug en ga ik dan vissen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,"Inkopen geannuleerd, ik kom terug na de bevestiging van de winkel. Stuur me opnieuw weg zodra ik terug ben.","a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,Ik heb het bevel na het inkopen niet uitgevoerd - geef het opnieuw.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,Momentje - ik verwerk nog het vorige bevel. Probeer het opnieuw.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,Ik heb geen inkopen om te annuleren.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,Inkopen is geannuleerd - ik wacht nog op de winkel. Geef het bevel opnieuw zodra ik terug ben.,"a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,Ik heb al 8 opdrachten - wacht tot ik er een af heb.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,Ik kon niet in de stad komen.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,De winkel gaat net open. Ik blijf erbij en sluit hem zodra het spel het bevestigt; de goederen komen terug in mijn tas.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,offline winkel niet beschikbaar,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,winkel uit,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,winkel sluiten: yang uit de beurs halen om ruimte te maken voor de opbrengst,"a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"winkel sluiten; wacht op teruggekomen goederen, opbrengst of bevestiging","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,winkel wacht op kanaal 1,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,gaat de winkel openen in M1,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,winkel open; bediening als hij vrij is,"a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,winkel verlopen; wacht op bediening,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Winkel: %u aanbiedingen. Op te halen opbrengst bij de kraam: %lld yang. Ik verkoop overschot uit de hele tas; geschenken en benodigde voorwerpen blijven.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Winkel ingeschakeld. Ik verkoop overschot uit de hele tas, behalve geschenken en benodigde voorwerpen. Haal de opbrengst uit mijn beurs. Aan jouw zijde zet ik hem op in het eerste dorp waar je staat (van elk koninkrijk) op kanaal 1; met vrije hand of als ik alleen speel, ga ik zelf naar het dorp van mijn koninkrijk.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Winkels van metgezellen zijn alleen beschikbaar op mt2009.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,jouw geschenken,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,door jou gemarkeerd/vergrendeld,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,door jou verplaatst <5 min geleden,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,kan niet worden verkocht,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,heb ik nodig,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Ik verkoop nooit geschenken - Shift + rechtsklik in mijn tas maakt er een vrij.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s heeft de quest %s voltooid,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Ik vecht niet: ik sta op ""Niet vechten"". Wijzig het in het venster Metgezel (P), tabblad Gevecht, of fluister me ""attack"".","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Oefenpop: %d DMG%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done

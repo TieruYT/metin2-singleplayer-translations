@@ -36,7 +36,7 @@ b:phrase:ec3a4e6aa5d7,Book of Forgetfulness read: %s at %d. Add a point in the s
 b:phrase:f827a8ba2254,"Book of Forgetfulness read: %s at %d again, no Master. The next book is the next try (chance %d%%).",,"A feledés könyve elolvasva: %s ismét %d-on, nincs Mester. A következő könyv a következő próbálkozás (esély %d%%).","a phrase the server says (bots' help, notices) | keep: %s %d %d",done
 b:phrase:5590b2697bcf,Book of Forgetfulness read: %s - Master!,,A feledés könyve elolvasva: %s - Mester!,"a phrase the server says (bots' help, notices) | keep: %s",done
 b:phrase:47397689803e,Skill Reset Document used: %s - Master!,,Képesség-visszaállító irat felhasználva: %s - Mester!,"a phrase the server says (bots' help, notices) | keep: %s",done
-b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:066b941ad362,[Companion] %s,,[Companion] %s,"a phrase the server says (bots' help, notices) | keep: %s",check
 b:phrase:3c6b183d348f,(none),,(nincs),"a phrase the server says (bots' help, notices)",done
 b:phrase:c973b309cbd4,which is not at 17,,amely nem 17-es,"a phrase the server says (bots' help, notices)",done
 b:phrase:895d0a2a7bf4," ""Reset"" in the skill window uses it up.",," A ""Visszaállítás"" a Képességek ablakban elhasználja.","a phrase the server says (bots' help, notices)",done
@@ -222,3 +222,35 @@ b:phrase:d0352c971bb1,Going to Jack Pumpkin,,Jack Tökhöz megyek,"a phrase the 
 b:phrase:58462b7ff323,Trading with Jack Pumpkin,,Kereskedem Jack Tökkel,"a phrase the server says (bots' help, notices)",done
 b:phrase:077d49e68fbc,Going to the Pumpkin Scarecrow,,A Tökmadárijesztőhöz megyek,"a phrase the server says (bots' help, notices)",done
 b:phrase:013db90e04d4,Talking to the Pumpkin Scarecrow,,Beszélek a Tökmadárijesztővel,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a43e6cfefbc,I can't come in here - this place is for players only.,,Ide nem jöhetek be - ez a hely csak játékosoknak szól.,"a phrase the server says (bots' help, notices)",done
+b:phrase:73ad23edc21f,I couldn't get to you.,,Nem tudtam eljutni hozzád.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dda3a19508a5,"Cancelling shopping. After the shop confirmation I come back, then go and level on my own.",,"Megszakítom a vásárlást. A bolt visszaigazolása után visszajövök, aztán megyek, és magam szintezek.","a phrase the server says (bots' help, notices)",done
+b:phrase:d52704603d4b,"Cancelling shopping. After the shop confirmation I come back, then go fishing.",,"Megszakítom a vásárlást. A bolt visszaigazolása után visszajövök, aztán megyek horgászni.","a phrase the server says (bots' help, notices)",done
+b:phrase:59d20b9b3bf5,Cancelling shopping and returning after the shop confirmation. Dismiss me again once I'm back.,,"Megszakítom a vásárlást, és a bolt visszaigazolása után visszajövök. Ha visszaértem, küldj el újra.","a phrase the server says (bots' help, notices)",done
+b:phrase:7eaf24406f86,I didn't carry out the order after shopping - give it again.,,A vásárlás után nem hajtottam végre a parancsot - add ki újra.,"a phrase the server says (bots' help, notices)",done
+b:phrase:41101c79e020,A moment - I'm still taking the previous command. Try again.,,Egy pillanat - még az előző parancsot fogadom. Próbáld újra.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b2a39ce28e1c,I have no shopping to cancel.,,Nincs megszakítható vásárlásom.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1f02dcaef75,Shopping is cancelled - I'm still waiting for the shop. Order again once I'm back.,,"A vásárlás megszakítva - még várok a boltra. Ha visszaértem, adj új parancsot.","a phrase the server says (bots' help, notices)",done
+b:phrase:484d7c766a71,I already have 8 orders - wait until I finish one.,,"Már 8 megrendelésem van - várj, amíg egyet befejezek.","a phrase the server says (bots' help, notices)",done
+b:phrase:c5aafb6a49ae,I couldn't get to town.,,Nem tudtam eljutni a városba.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8997e1a9628c,The shop is just opening. I will stay by it and close it as soon as the game confirms it; the goods come back to my bag.,,"A bolt éppen nyílik. Mellette maradok, és bezárom, amint a játék visszaigazolja; az áruk visszakerülnek a táskámba.","a phrase the server says (bots' help, notices)",done
+b:phrase:2a3472161633,offline shop unavailable,,offline bolt nem érhető el,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbf3a2142d17,shop off,,bolt kikapcsolva,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f2c68050c8d,closing shop: take yang from the purse to make room for proceeds,,"bolt bezárása: vegyél ki yangot az erszényből, hogy legyen hely a bevételnek","a phrase the server says (bots' help, notices)",done
+b:phrase:98f6157c93ad,"closing shop; awaiting returned goods, proceeds or confirmation",,"bolt bezárása; várakozás a visszaadott árukra, a bevételre vagy a visszaigazolásra","a phrase the server says (bots' help, notices)",done
+b:phrase:4923d02e9b95,shop waiting for channel 1,,a bolt az 1. csatornára vár,"a phrase the server says (bots' help, notices)",done
+b:phrase:8983e019eb63,going to open the shop in M1,,megyek boltot nyitni az M1-ben,"a phrase the server says (bots' help, notices)",done
+b:phrase:e108fc80ea7b,shop open; service when free,,"bolt nyitva; kiszolgálás, ha ráérek","a phrase the server says (bots' help, notices)",done
+b:phrase:9101b3608706,shop expired; awaiting service,,a bolt lejárt; kiszolgálásra vár,"a phrase the server says (bots' help, notices)",done
+b:phrase:eef9ce97032f,Shop: %u offers. Proceeds to collect at the stand: %lld yang. I sell surplus from the whole bag; gifts and needed items stay.,,Bolt: %u ajánlat. Begyűjtendő bevétel a standnál: %lld yang. Az egész táskából eladom a fölösleget; az ajándékok és a szükséges tárgyak maradnak.,"a phrase the server says (bots' help, notices) | keep: %u %lld",done
+b:phrase:cbcf20d06cb7,"Shop enabled. I sell surplus from the whole bag, excluding gifts and needed items. Take proceeds from my purse. At your side I set it up in the first village you stand in (any kingdom's) on channel 1; with a free hand or playing alone I go on my own to my kingdom's village.",,"Bolt bekapcsolva. Az egész táskából eladom a fölösleget, kivéve az ajándékokat és a szükséges tárgyakat. A bevételt vedd ki az erszényemből. Melletted abban az első faluban állítom fel, ahol állsz (bármelyik birodalomé), az 1. csatornán; szabad kézzel vagy egyedül játszva magamtól megyek a birodalmam falujába.","a phrase the server says (bots' help, notices)",done
+b:phrase:60e8ca8edc00,Companion shops are available only on mt2009.,,Társboltok csak az mt2009-en érhetők el.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a1a79214d273,your gifts,,az ajándékaid,"a phrase the server says (bots' help, notices)",done
+b:phrase:076ba71632d9,marked/locked by you,,általad megjelölt/zárolt,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fa449fa0abb,moved by you <5 min ago,,általad <5 perce áthelyezett,"a phrase the server says (bots' help, notices)",done
+b:phrase:58704cce8562,cannot be sold,,nem adható el,"a phrase the server says (bots' help, notices)",done
+b:phrase:89babf63cdc8,needed by me,,nekem kell,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cb9005cb27d,). I never sell gifts - Shift + right click in my bag frees one.,,). Ajándékot soha nem adok el - a Shift + jobb klikk a táskámban felszabadít egyet.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3637fbb46d0,%s completed the quest %s,,%s teljesítette a(z) %s küldetést,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:46e248725ba0,"I'm not fighting: I'm set to ""Do not fight"". Change it in the Companion window (P), Combat tab, or whisper me ""attack"".",,"Nem harcolok: ""Ne harcolj"" módra vagyok állítva. Változtasd meg a Társ ablakban (P), a Harc fülön, vagy suttogd nekem: ""attack"".","a phrase the server says (bots' help, notices)",done
+b:phrase:68727d310974,Training dummy: %d DMG%s%s,,Gyakorlóbábu: %d sebzés%s%s,"a phrase the server says (bots' help, notices) | keep: %d %s %s",done
