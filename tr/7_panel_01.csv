@@ -131,10 +131,10 @@ p:bae701e0cd18,Organising a party,Organizuje PT,Grup kuruyor,"BOT_ACTION_LABELS[
 p:832e62e5172b,Doing Biologist mission,Robi Biologa,Biyolog görevini yapıyor,"BOT_ACTION_LABELS[11] | the classic web panel (browser, UTF-8: any letter)",done
 p:50c372642a37,Visiting the Stable Boy,Odwiedza Stajennego,Seyis'i ziyaret ediyor,"BOT_ACTION_LABELS[12] | the classic web panel (browser, UTF-8: any letter)",done
 p:5627eaf242a5,Keeping a stall,Prowadzi stragan,Tezgâh işletiyor,"BOT_ACTION_LABELS[13] | the classic web panel (browser, UTF-8: any letter)",done
-p:cadfb5be2a34,Fishing,Łowi ryby,Balık tutuyor,"BOT_ACTION_LABELS[14] / BOT_GOAL_LABELS[12] | the classic web panel (browser, UTF-8: any letter)",done
+p:cadfb5be2a34,Fishing,Łowi ryby,Balıkçılık,"BOT_ACTION_LABELS[14] / BOT_GOAL_LABELS[12] | the classic web panel (browser, UTF-8: any letter)",done
 p:27f8114e3bc4,Browsing stalls,Przegląda stragany,Tezgâhlara göz atıyor,"BOT_ACTION_LABELS[15] | the classic web panel (browser, UTF-8: any letter)",done
 p:f5bc75bbb4e0,Luring monsters,Wabi potwory,Canavar çekiyor,"BOT_ACTION_LABELS[16] | the classic web panel (browser, UTF-8: any letter)",done
-p:74a471687265,Resting in town,Odpoczywa w mieście,Şehirde dinleniyor,"BOT_ACTION_LABELS[17] / T['ai_rest'] | the classic web panel (browser, UTF-8: any letter)",done
+p:74a471687265,Resting in town,Odpoczywa w mieście,Şehirde dinlenme,"BOT_ACTION_LABELS[17] / T['ai_rest'] | the classic web panel (browser, UTF-8: any letter)",done
 p:c56ff7cabce3,Mining ore,Kopie rudę,Cevher kazıyor,"BOT_ACTION_LABELS[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:5efe86656028,Doing a quest,Robi questa,Görev yapıyor,"BOT_ACTION_LABELS[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:7c7f5d049fad,Level,Poziom,Seviye,"BOT_AMBITION_LABELS[0] / MAP_I18N['level'] | the classic web panel (browser, UTF-8: any letter)",done
@@ -278,7 +278,7 @@ p:7fe3519695c5,shellfish,małża,istiridye,"DECISION_ENUMS['FIXED'][4] | the cla
 p:f403de3ac3ab,horse medal,medal konny,at madalyonu,"DECISION_ENUMS['FIXED'][5] | the classic web panel (browser, UTF-8: any letter)",done
 p:eba8e06de737,Dried Head,Suszona Głowa,Küçülen Kafa,"DECISION_ENUMS['FIXED'][6] | the classic web panel (browser, UTF-8: any letter)",done
 p:d0713f5a930d,hairstyle,fryzura,saç modeli,"DECISION_ENUMS['FIXED'][7] | the classic web panel (browser, UTF-8: any letter)",done
-p:b0b12884dbb6,Magic Dust,Magiczny Pył,Sihirli Toz,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
+p:b0b12884dbb6,Magic Dust,Magiczny Pył,Büyülü Toz,"DECISION_ENUMS['FIXED'][8] | the classic web panel (browser, UTF-8: any letter)",done
 p:0b6df592d5ed,Cor Draconis,Cor Draconis,Cor Draconis,"DECISION_ENUMS['FIXED'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:7b6ac769cd98, (from the grade table), (z tabeli stopni), (derece tablosundan),"DECISION_ENUMS['GRADE_TABLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:355c6915844f,stands,wystawień,tezgâh açılışı,"DECISION_ENUMS['CLOCK_UNIT'][0] | the classic web panel (browser, UTF-8: any letter)",done
@@ -356,7 +356,7 @@ p:77f3423d7099,An item-shop hair dye,Farba do włosów z ItemShopu,ItemShop saç
 p:1d0ab5d8d967,A dye from the water kept for sale,Farba z wody zatrzymana na sprzedaż,Satış için tutulan sudan çıkma boya,"DECISION_GOODS[27][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:e770be09b528,An item-shop hairstyle the bot cannot wear,"Fryzura z ItemShopu, której bot nie założy",Botun kullanamayacağı bir ItemShop saç modeli,"DECISION_GOODS[28][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d49abde62ba,A Forgetting Scroll — none of the bot's skills waits for it ({a}),Zwój Zapomnienia — żadna umiejętność bota na niego nie czeka ({a}),Bir Unutma Parşömeni — botun hiçbir becerisinin ona ihtiyacı yok ({a}),"DECISION_GOODS[29][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Stok üstü Sihirli Toz: çantada {a}, saklanan {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
+p:b333ff03aa4f,"Magic Dust over the keep: {a} in the bag, keeps {b}","Magiczny Pył ponad zapas: {a} w plecaku, zapas {b}","Stok üstü Büyülü Toz: çantada {a}, saklanan {b}","DECISION_GOODS[30][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:6b585a35c503,A spirit stone {a} (kind {b}) — one of the 15 in 100 kept for the market,Kamień duszy {a} (rodzaj {b}) — jeden z 15 na 100 zostawionych dla rynku,Bir zihin taşı {a} (tür {b}) — pazar için ayrılan %15'lik kısımdan biri,"DECISION_GOODS[31][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:11e6676e3c67,A spirit stone {a} (kind {b}) the bot cannot seat,"Kamień duszy {a} (rodzaj {b}), którego bot nie osadzi",Botun takamayacağı bir zihin taşı {a} (tür {b}),"DECISION_GOODS[32][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:47223865f5d2,"A general book: {a} ahead of it in the bag, keeps {b}{c}","Księga ogólna: {a} przed nią w plecaku, zapas {b}{c}","Genel bir kitap: çantada önünde {a}, saklanan {b}{c}","DECISION_GOODS[33][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
@@ -404,7 +404,7 @@ p:11f79502e5fa,a material not in a natural lot,materiał nie w naturalnej porcji
 p:d352299665c0,"gear under level 30 too low, or over its cap",ekwipunek poniżej 30 lv za słaby albo ponad limit,30. seviye altı ekipman çok zayıf ya da sınırın üstünde,"DECISION_OFF[18] | the classic web panel (browser, UTF-8: any letter)",done
 p:61484b73ba95,a rod or a pickaxe goes back to its owner,wędka lub kilof wraca do właściciela,olta ya da kazma sahibine dönüyor,"DECISION_OFF[19] | the classic web panel (browser, UTF-8: any letter)",done
 p:1e78bd8004a5,taken back to wear,zabrane do założenia,kuşanmak için geri alındı,"DECISION_OFF[20] | the classic web panel (browser, UTF-8: any letter)",done
-p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,saman artık tezgâha konmuyor — Çeşitli Eşya Satıcısı'na satılacak,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
+p:4323bfa87180,hay goes on no counter any more — for the General Store merchant,siano już nie trafia na rynek — do sprzedania u Handlarki Różności,saman artık tezgâha konmuyor — Satıcı NPC'sine satılacak,"DECISION_OFF[21] | the classic web panel (browser, UTF-8: any letter)",done
 p:1352b8ad0124,room on the counter for goods the market lacks,"miejsce na ladzie dla towaru, którego brakuje na rynku",piyasada eksik olan mal için tezgâhta yer,"DECISION_OFF[22] | the classic web panel (browser, UTF-8: any letter)",done
 p:2d140195e737,over 40 grilled fish on the counter — to the Kantor for scrolls,ponad 40 pieczonych ryb na ladzie — do Kantoru na Zwoje,tezgâhta 40'tan fazla ızgara balık — parşömen için Kantor'a,"DECISION_OFF[23] | the classic web panel (browser, UTF-8: any letter)",done
 p:0bdad0d7937b,"the one-time halving of add stones, change stones and Blessing Scrolls","jednorazowe zmniejszenie o połowę dodań, zmianek i Zwojów Błogosławieństwa","Arttırma Kağıtlarının, Efsun Nesnelerinin ve Kutsama Kağıtlarının tek seferlik yarıya indirilmesi","DECISION_OFF[24] | the classic web panel (browser, UTF-8: any letter)",done
@@ -647,7 +647,7 @@ p:6d6a67723bcf,Into the safebox,Do magazynu,Depoya,"GEAR_HISTORY_HOWS['SAFEBOX P
 p:cacea96bfc17,Out of the safebox,Z magazynu,Depodan,"GEAR_HISTORY_HOWS['SAFEBOX GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:3f7e77e1c279,From a Moonlight chest,Ze Szkatułki Blasku,Ayışığı Define Sandığından,"GEAR_HISTORY_HOWS['MOONLIGHT_GET'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6aadd638269e,Bought from a merchant,Kupione u handlarza,Satıcıdan satın alındı,"GEAR_HISTORY_HOWS['PLAYERBOT_NPC_BUY'][1] | the classic web panel (browser, UTF-8: any letter)",done
-p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Sihirli Tozdan Kutsama Küresi,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:28c1cee84d19,Marble from Magic Dust,Marmur z Magicznego Pyłu,Büyülü Tozdan Kutsama Küresi,"GEAR_HISTORY_HOWS['PLAYERBOT_DUST_MARBLE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:b5b54ab90b87,From a material exchange,Z wymiany ulepszaczy,Malzeme takasından,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f0174ef40ad2,Material exchange failed,Wymiana ulepszaczy nieudana,Malzeme takası başarısız,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_FAIL'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:f57b606eacfc,Given in a material exchange,Oddane na wymianę ulepszaczy,Malzeme takasına verildi,"GEAR_HISTORY_HOWS['PLAYERBOT_MATERIAL_EXCHANGE_IN'][1] | the classic web panel (browser, UTF-8: any letter)",done
