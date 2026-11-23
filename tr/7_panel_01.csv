@@ -54,7 +54,7 @@ p:f68d9c16c0f2,Attack Value +%d,Wartość Ataku +%d,Saldırı Değeri +%d,"APPLY
 p:c2fb86a87179,Defence +%d,Obrona +%d,Savunma +%d,"APPLY_TEXTS[54][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:92f99c407ce1,Magical Attack Value +%d,Wartość Magicznego Ataku: +%d,Büyü Saldırı Değeri +%d,"APPLY_TEXTS[55][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:0d6460fb5516,Magical Defence +%d,Magiczna Obrona: +%d,Büyü Savunması +%d,"APPLY_TEXTS[56][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:452e749763cf,Max. Endurance +%d,Max Wytrzymałość: +%d,Max. Dayanıklılık +%d,"APPLY_TEXTS[58][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:452e749763cf,Max. Endurance +%d,Max Wytrzymałość: +%d,Maks. Dayanıklılık +%d,"APPLY_TEXTS[58][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:f282110443b7,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,Savaşçılara karşı güçlü +%d%%,"APPLY_TEXTS[59][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:1d888d8e57a7,Strong against Ninjas +%d%%,Silny przeciwko Ninja +%d%%,Ninjalara karşı güçlü +%d%%,"APPLY_TEXTS[60][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:026ae892e067,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,Suralara karşı güçlü +%d%%,"APPLY_TEXTS[61][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -66,7 +66,7 @@ p:f9d3303d0481,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,"APPLY_TEXTS[66]
 p:0bf3b96fbebf,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Eşya düşürme şansı %.1f ile çarpılır,"APPLY_TEXTS[67][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:fda3aeb92023,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Yang düşürme şansı %.1f ile çarpılır,"APPLY_TEXTS[68][1] | keep: %.1f | the classic web panel (browser, UTF-8: any letter)",done
 p:2f907e572633,Max. HP +%d%%,Maks. PŻ +%d%%,Maks. HP +%d%%,"APPLY_TEXTS[69][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
-p:ea5ec57fbc3b,Max. SP +%d%% ,Maks. PE +%d%% ,Max. SP +%d%%,"APPLY_TEXTS[70][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
+p:ea5ec57fbc3b,Max. SP +%d%% ,Maks. PE +%d%% ,Maks. SP +%d%%,"APPLY_TEXTS[70][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:3b6bb7980c8c,Skill Damage %d%%,Obrażenie Umiejętności: %d%%,Beceri hasarı %d%%,"APPLY_TEXTS[71][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:facbe3494ca6,Average Damage %d%%,Średnie Obrażenia: %d%%,Ortalama zarar %d%%,"APPLY_TEXTS[72][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
 p:90e58488ac03,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,Beceri hasarına karşı dayanıklılık %d%%,"APPLY_TEXTS[73][1] | keep: %d | the classic web panel (browser, UTF-8: any letter)",done
@@ -301,7 +301,7 @@ p:eb46d0d489de,necklace,naszyjnik,kolye,"DECISION_ENUMS['LADDER_CAT'][7] | the c
 p:6ad5d06a818d,earrings,kolczyki,küpe,"DECISION_ENUMS['LADDER_CAT'][8] | the classic web panel (browser, UTF-8: any letter)",done
 p:64eff21a8ca3,backup weapon,broń zapasowa,yedek silah,"DECISION_ENUMS['LADDER_CAT'][9] | the classic web panel (browser, UTF-8: any letter)",done
 p:3b4492d4870e,backup armour,zbroja zapasowa,yedek zırh,"DECISION_ENUMS['LADDER_CAT'][10] | the classic web panel (browser, UTF-8: any letter)",done
-p:395867b920cd,a Stalki,Stalka,bir Stalki,"DECISION_ENUMS['SAFEBOX_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
+p:395867b920cd,a Stalki,Stalka,bir Siyah Çelik,"DECISION_ENUMS['SAFEBOX_WHY'][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:19b2b8b83f1b,released from the Useful Items List,zwolnione z Listy Przydatnych Przedmiotów,Faydalı Eşyalar Listesinden çıkarıldı,"DECISION_ENUMS['SAFEBOX_WHY'][2] | the classic web panel (browser, UTF-8: any letter)",done
 p:ceb2ef6dbad1,a gamble,hazard,bir kumar,"DECISION_ENUMS['SAFEBOX_WHY'][3] | the classic web panel (browser, UTF-8: any letter)",done
 p:c0c633ea5071,a key,klucz,bir anahtar,"DECISION_ENUMS['SAFEBOX_WHY'][4] | the classic web panel (browser, UTF-8: any letter)",done
@@ -336,7 +336,7 @@ p:1f7b5579e471,A Metin detector — the bot is not hunting stones now,Wykrywacz 
 p:f7488936598b,A Dried Head — for a player's run of the Catacomb,Suszona Głowa — dla graczy idących do Katakumb,Bir Küçülen Kafa — oyuncuların Şeytan Katakombu'na girişi için,"DECISION_GOODS[6][1] | the classic web panel (browser, UTF-8: any letter)",done
 p:6a1bc59475d1,"Bonus stones over the keep: {a} in the bag, keeps {b}","Kamienie bonusów ponad zapas: w plecaku {a}, zapas {b}","Stok üstü bonus taşları: çantada {a}, saklanan {b}","DECISION_GOODS[7][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
 p:c1a71bd3c39f,A Forgetting Scroll ({a}) of the merchant-only list — only a Merchant lists it,Zwój Zapomnienia ({a}) z listy „do handlarki” — wystawia go tylko Handlarz,Yalnız-satıcı listesinden bir Unutma Parşömeni ({a}) — onu yalnızca Tüccar satar,"DECISION_GOODS[8][1] | keep: {a} | the classic web panel (browser, UTF-8: any letter)",done
-p:d68c86322f94,"A Stalki the bot does not keep: {a}, level {b} — {c}","Stalka, której bot nie zatrzymuje: {a}, poziom {b} — {c}","Botun tutmadığı bir Stalki: {a}, seviye {b} — {c}","DECISION_GOODS[9][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
+p:d68c86322f94,"A Stalki the bot does not keep: {a}, level {b} — {c}","Stalka, której bot nie zatrzymuje: {a}, poziom {b} — {c}","Botun tutmadığı bir Siyah Çelik: {a}, seviye {b} — {c}","DECISION_GOODS[9][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
 p:2e44ff1cec43,"A level-30 weapon of another class, ready for sale: {a}, average damage {b}, target {c}","Broń 30 lv innej klasy, gotowa na sprzedaż: {a}, średnie obrażenia {b}, cel {c}","Başka bir sınıfın 30. seviye silahı, satışa hazır: {a}, ortalama hasar {b}, hedef {c}","DECISION_GOODS[10][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
 p:23666af8df31,"A level-30 weapon not kept for the anvil: {a}, average damage {b} — {c}","Broń 30 lv niezatrzymana do kowadła: {a}, średnie obrażenia {b} — {c}","Örs için tutulmayan 30. seviye silah: {a}, ortalama hasar {b} — {c}","DECISION_GOODS[11][1] | keep: {a} {b} {c} | the classic web panel (browser, UTF-8: any letter)",done
 p:2e9cd10014ca,Armour or a jewel at {a} under level 30 (level {b}) — every bot's goods,Zbroja lub biżuteria {a} poniżej 30 lv (poziom {b}) — towar każdego bota,30. seviye altında {a} zırh ya da takı (seviye {b}) — her botun malı,"DECISION_GOODS[12][1] | keep: {a} {b} | the classic web panel (browser, UTF-8: any letter)",done
@@ -434,8 +434,8 @@ p:234787539762,a level-30 weapon family,rodzina broni 30 lv,30. seviye silah ail
 p:4b379de69232,the class's level-30 weapon,broń 30 lv tej klasy,sınıfın 30. seviye silahı,"DECISION_ROLES[2] | the classic web panel (browser, UTF-8: any letter)",done
 p:3d14efd7f548,a level-30 weapon project,projekt broni 30 lv,30. seviye silah projesi,"DECISION_ROLES[4] | the classic web panel (browser, UTF-8: any letter)",done
 p:494193e923a9,a lines project,projekt bonusów,bonus projesi,"DECISION_ROLES[8] | the classic web panel (browser, UTF-8: any letter)",done
-p:b08d04ee15e6,Stalki,Stalka,Stalki,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",check
-p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,seviye için tutulan Stalki,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
+p:b08d04ee15e6,Stalki,Stalka,Siyah Çelik,"DECISION_ROLES[16] | the classic web panel (browser, UTF-8: any letter)",done
+p:6b29ff278c8a,Stalki kept for the level,Stalka zatrzymana na poziom,seviye için tutulan Siyah Çelik,"DECISION_ROLES[32] | the classic web panel (browser, UTF-8: any letter)",done
 p:a68ea0574790,a higher-tier spare,zapas na wyższy stopień,üst kademe yedeği,"DECISION_ROLES[64] | the classic web panel (browser, UTF-8: any letter)",done
 p:359c623d2295,a backup,zapas,yedek,"DECISION_ROLES[128] | the classic web panel (browser, UTF-8: any letter)",done
 p:361139107f59,a scroll-rule piece,przedmiot reguły zwojów,parşömen kuralı parçası,"DECISION_ROLES[256] | the classic web panel (browser, UTF-8: any letter)",done
