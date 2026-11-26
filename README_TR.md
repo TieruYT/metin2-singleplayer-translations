@@ -121,9 +121,9 @@ Her şeyi bir seferde çevirmeniz gerekmez - elinizde olanı gönderin.
    lines allowed" diyorsa.
 7. **Web paneli** (`7_panel_*`): metinleri bir web sayfasına girer, bu yüzden
    İngilizcedeki HTML etiketlerini olduğu gibi koruyun (`<b>`, `</b>`,
-   `<a href="...">`, `<br>` ve `<number>` gibi köşeli parantezli yer
+   `<a href="...">`, `<br>` ve `<number>` gibi açılı parantezli yer
    tutucular) ve kendinizden `<`, `>` ya da `javascript:` eklemeyin.
-   Değişkenleri `%s`, `%d`, `%(ad)s` ve `{ad}`'dir; adlı `%(ad)s` yer
+   Değişkenleri `%s`, `%d`, `%(name)s` ve `{name}`'dir; adlı `%(name)s` yer
    değiştirebilir. Ardından boşluk gelen `%` (`25% a character`) yüzde
    işaretidir. En az bir panel metni çevrilmiş bir dil, panelin dil
    seçicisinde görünür; çevrilmemiş olanı panel İngilizce gösterir.
@@ -131,7 +131,7 @@ Her şeyi bir seferde çevirmeniz gerekmez - elinizde olanı gönderin.
 ## Yeni bir dil
 
 1. `template/` klasörünün tamamını, dilinizin iki harfli ISO 639-1 koduyla
-   adlandırılmış bir klasöre kopyalayın (`hu`, `es`, `cs`... -
+   adlandırılmış bir klasöre kopyalayın (`hu`, `es`, `cs`, `pl`... -
    [listeye](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
    bakın). Bunu bir tablo programıyla yapabilirsiniz: `template/`'i indirin,
    çevirin ve dosyaları yeni klasöre yükleyin (**Add file > Upload files**,
